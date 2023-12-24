@@ -1,13 +1,13 @@
 {
 	"version": "3.2.0",
-	"updateCheck": "https://raw.githubusercontent.com/PigSunnyPig/SunnyPig.github.io/main/updater.json",
 	"id": "SunnyPig.BetterLocalisation",
 	"name": "更优质的本地化翻译 Better Localisation",
+	"updateCheck": "https://raw.githubusercontent.com/PigSunnyPig/SunnyPig.github.io/main/updater.json",
 	"description": "改良了大部分武器与装备的翻译 (简体中文) / 改良了大部分武器與裝備的翻譯 (繁體中文)。当此 mod 有更新时，请自行清除 SMF 框架中的「cache」文件夹内的「global」文件夹 / 當此 mod 有更新時，請自行清除 SMF 框架中的「cache」文件夾內的「global」文件夾。",
 	"authors": [
 		"SunnyPigPig"
 	],
-	"frameworkVersion": "2.33.6",
+	"frameworkVersion": "2.33.7",
 	"localisationOverrides": 
 	{
 		"008C546864481FFC":
