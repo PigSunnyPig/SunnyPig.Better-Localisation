@@ -1,5 +1,5 @@
 {
-	"version": "3.1.0",
+	"version": "3.2.0",
 	"updateCheck": "https://raw.githubusercontent.com/PigSunnyPig/SunnyPig.github.io/main/updater.json",
 	"id": "SunnyPig.BetterLocalisation",
 	"name": "更优质的本地化翻译 Better Localisation",
@@ -9678,7 +9678,7 @@
 				"1893815059": "將 Naadim Yacoub 的身軀放在酒店維護儲藏室裡",
 				"1370026960": "擊暈武器：鏟子",
 				"1323942627": "身軀投放",
-				"461312177": "擊暈 Naadim Yacoub 後，將其放在酒店的維修貯藏室裡。<br><br>如果他在被擊暈並放入酒店的維護儲藏室前，便已死亡，或是被放進容器內，將會導致任務失敗。"
+				"461312177": "擊暈 Naadim Yacoub 後，將其放在酒店的維修貯藏室裡。<br><br>如果他在被擊暈並放入酒店的維護儲藏室裡前，便已死亡，或是被放進容器內，將會導致任務失敗。"
 			},
 			"japanese": {}
 		},
