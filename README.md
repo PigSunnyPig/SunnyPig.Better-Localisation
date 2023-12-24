@@ -18,6 +18,10 @@
 
 
 # 製作人員 Credit：
-- SunnyPigPig: 負責整個 mod 的製作，如優化文本、修改機翻錯誤
+SunnyPigPig: 負責整個 mod 的製作，如優化文本、修改機翻錯誤
+
+
+# 特別鳴謝 Special Thanks：
 - Janus & Suanjiansalt (杰哥 及 酸碱食盐): 曾提供 rpkg 工具的幫助
 - Dribbleondo & The Mafia: 作為靈感來源
+- te47: 提供 Auto-Update 的幫助
