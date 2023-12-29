@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_kirroyal/3000_kirroyal_story/dr3655_torvikthirdfloor.sweetdialog?/dr3655_torvikthirdfloor_torvik_et_003.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr3655_torvikthirdfloor_torvik_et_003",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_kirroyal/3000_kirroyal_story/dr3655_torvikthirdfloor_torvik_et_003.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_kirroyal/3000_kirroyal_story/dr3655_torvikthirdfloor_torvik_et_003.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\If she keeps me waiting much longer, this is going to be a wasted trip.",
+            "fr": "//(0,30)\\\\Si elle me fait encore attendre, ce voyage aura été inutile.",
+            "it": "//(0,30)\\\\Sarà un viaggio sprecato, se continua a farmi aspettare ancora.",
+            "de": "//(0,30)\\\\Wenn sie mich noch länger warten lässt, war dieser Trip umsonst.",
+            "es": "//(0,30)\\\\Como siga haciéndome esperar mucho tiempo, este va a ser un viaje tirado a la basura.",
+            "ru": "//(0,30)\\\\Если мне придется ждать ее еще, это будет абсолютно бесполезной поездкой.",
+            "cn": "//(0,30)\\\\要是她再让我等下去，我这趟可算是白来了。",
+            "tc": "//(0,30)\\\\要是她再讓我等下去，我這趟可算是白來了。",
+            "jp": "//(0,30)\\\\これ以上待たせるつもりなら、このまま会わずに帰るわ。"
+        }
+    }
+}

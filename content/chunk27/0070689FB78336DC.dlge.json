@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_kirroyal/3000_kirroyal_story/dr3651_torviktalkingtodahalia.sweetdialog?/dr3651_torviktalkingtodahalia_dalia_et_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr3651_torviktalkingtodahalia_dalia_et_001",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_kirroyal/3000_kirroyal_story/dr3651_torviktalkingtodahalia_dalia_et_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_kirroyal/3000_kirroyal_story/dr3651_torviktalkingtodahalia_dalia_et_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Nila, darling. How wonderful to see you.",
+            "fr": "//(0,30)\\\\Nila, chérie. Quel plaisir de te voir.",
+            "it": "//(0,30)\\\\Nila, carissima. È un piacere rivederla.",
+            "de": "//(0,30)\\\\Nila, Schätzchen. Schön, Sie zu sehen.",
+            "es": "//(0,30)\\\\Nila, querida, cómo me alegro de verte.",
+            "ru": "//(0,30)\\\\Нила, дорогая! Как я рада тебя видеть!",
+            "cn": "//(0,30)\\\\尼拉，亲爱的。见到你真好。",
+            "tc": "//(0,30)\\\\尼拉，親愛的。見到你真好。",
+            "jp": "//(0,30)\\\\ナイラ、ようこそ。会えてうれしいわ。"
+        }
+    }
+}

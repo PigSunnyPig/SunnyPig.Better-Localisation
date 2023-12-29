@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_kirroyal/3000_kirroyal_story/dr3657_dhaliareturns.sweetdialog?/dr3657_dhaliareturns_dahlia_et_002.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr3657_dhaliareturns_dahlia_et_002",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_kirroyal/3000_kirroyal_story/dr3657_dhaliareturns_dahlia_et_002.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_kirroyal/3000_kirroyal_story/dr3657_dhaliareturns_dahlia_et_002.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\I’m so terribly sorry, Nila. I just had a few things I simply had to do in the meantime. I do hope you understand.",
+            "fr": "//(0,30)\\\\Je suis tellement désolé, Nila ! Je devais juste régler une ou deux petites choses. J'espère que vous comprenez.",
+            "it": "//(0,1.992393)\\\\Sono davvero spiacente, Nila!//(1.992393,5.023375)\\\\Avevo delle cose da sbrigare che non potevano essere rimandate.//(5.023375,35.02338)\\\\Spero tu capisca.",
+            "de": "//(0,4.973374)\\\\Es tut mir wirklich leid, Nila! Ich hatte ein paar dringende Sachen zu erledigen.//(4.973374,34.97337)\\\\Ich hoffe, Sie verstehen das.",
+            "es": "//(0,2.2)\\\\Lo siento muchísimo, Nila.//(2.2,32.2)\\\\Había un par de cosas que sencillamente no podían esperar. Espero que lo entiendas.",
+            "ru": "//(0,2.1)\\\\Мне очень жаль, Нила!//(2.1,4.95)\\\\Были дела, которые не терпели отлагательства.//(4.95,34.95)\\\\Я надеюсь, вы понимаете.",
+            "cn": "//(0,30)\\\\真是太抱歉了，尼拉。我得去处理一些事。希望你能理解。",
+            "tc": "//(0,30)\\\\真是太抱歉了，尼拉。我得去處理一些事。希望你能理解。",
+            "jp": "//(0,30)\\\\本当にごめんなさいね、 ナイラ。 どうしても やらなきゃいけないことがあって。 わかって くれるわよね。"
+        }
+    }
+}

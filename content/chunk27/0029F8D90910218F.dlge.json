@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_kirroyal/3000_kirroyal_story/dr3657_dhaliareturns.sweetdialog?/dr3657_dhaliareturns_dahlia_et_007.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr3657_dhaliareturns_dahlia_et_007",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_kirroyal/3000_kirroyal_story/dr3657_dhaliareturns_dahlia_et_007.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_kirroyal/3000_kirroyal_story/dr3657_dhaliareturns_dahlia_et_007.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\It’s me. Make the payment.",
+            "fr": "//(0,30)\\\\C'est moi. Effectuez le paiement.",
+            "it": "//(0,30)\\\\Sono io, mandi il pagamento.",
+            "de": "//(0,30)\\\\Ich bin es. Führen Sie die Zahlung durch.",
+            "es": "//(0,30)\\\\Soy yo. Haz la transferencia.",
+            "ru": "//(0,30)\\\\Это я. Сделайте перевод.",
+            "cn": "//(0,30)\\\\是我。付款。",
+            "tc": "//(0,30)\\\\是我。付款。",
+            "jp": "//(0,30)\\\\私よ。報酬を送金して。"
+        }
+    }
+}

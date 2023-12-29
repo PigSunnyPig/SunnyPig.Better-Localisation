@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1654_buseyphonecalls.sweetdialog?/dr1654_buseyphonecalls_busey_et_005.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr1654_buseyphonecalls_busey_et_005",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1654_buseyphonecalls_busey_et_005.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1654_buseyphonecalls_busey_et_005.animset].pc_animset",
+        "languages": {
+            "en": "//(0,3.210491)\\\\It’s Busey time! Who’s this?//(3.210491,5.58)\\\\Oh, I didn’t know I had an accountant.//(5.58,11.37)\\\\Yes, affirmative, send $100, 000 to Adebamgbe, the Prince of Nigeria.//(12.5,14.95)\\\\But he's counting on me!//(14.95,44.95)\\\\Gary Busey will not turn up his nose at the Federal Republic of Nigeria!",
+            "fr": "//(0,2.5)\\\\Ici Busey, qui est-ce ?//(3.2,5.4)\\\\Oh, je ne savais pas que j'avais un comptable.//(5.4,11.5)\\\\Oui, affirmatif, envoyez 100 000 $ à Adebamgbe, le prince du Nigeria.//(12.65,14.2)\\\\MAIS IL COMPTE SUR MOI !//(14.8,44.8)\\\\Gary Busey ne laissera pas tomber la République fédérale du Nigeria !",
+            "it": "//(0,3.110491)\\\\Sono Busey, con chi parlo?//(3.110491,5.657178)\\\\Oh, non sapevo di avere un contabile.//(5.657178,12.53436)\\\\Sì, confermo, invii 100. 000 dollari ad Adebamgbe, il principe di Nigeria.//(12.53436,14.54294)\\\\Ma lui conta su di me!//(14.54294,44.54294)\\\\Gary Busey non volterà le spalle alla Repubblica Federale della Nigeria!",
+            "de": "//(0,2.992393)\\\\Hier Busey, wer da?//(2.992393,5.913374)\\\\Oh, ich wusste gar nicht, dass ich einen Buchhalter habe.//(5.913374,12.47055)\\\\Ja, überweisen Sie 100. 000 Dollar an Adebamgbe, den Prinzen von Nigeria.//(12.47055,14.76104)\\\\Aber er zählt auf mich!//(14.76104,44.76104)\\\\Gary Busey wird über die Bundesrepublik Nigeria nicht die Nase rümpfen!",
+            "es": "//(0,5.75)\\\\Es la hora de Busey, ¿quién es? Ah, no sabía que tenía un contable.//(5.75,12.65)\\\\Sí, afirmativo, transfiere 100 000 de dólares a Adebamgbe, príncipe de Nigeria.//(12.65,42.65)\\\\¡Pero él cuenta conmigo! ¡Gary Busey no le dará la espalda a la República Federal de Nigeria!",
+            "ru": "//(0,1.554294)\\\\Бьюзи у телефона!//(1.554294,3.326687)\\\\С кем имею честь?...//(3.326687,5.7)\\\\Ого, я и не знал, что у меня есть бухгалтер.//(5.7,6.638098)\\\\Да,//(6.638098,12)\\\\отправь нигерийскому принцу Адебамгбе 100 000!//(12.6,14.65)\\\\НО ОН НА МЕНЯ РАССЧИТЫВАЕТ!//(14.65,44.65)\\\\Гэри Бьюзи не оставит в беде Федеративную Республику Нигерия!",
+            "cn": "//(0,3.210491)\\\\布西时间到了！你是谁？//(3.210491,5.58)\\\\噢，我不晓得我有个会计呢。//(5.58,11.37)\\\\是，没错，给尼日利亚王子阿德巴姆戈贝送$100, 000。//(12.5,14.95)\\\\可他在指望我呢！//(14.95,44.95)\\\\加里·布西是不会对尼日利亚联邦共和国弃之不顾的！",
+            "tc": "//(0,3.210491)\\\\布希時間到了！你是誰？//(3.210491,5.58)\\\\噢，我不曉得我有個會計呢。//(5.58,11.37)\\\\是，沒錯，給奈及利亞王子阿德巴姆葛比送$100, 000。//(12.5,14.95)\\\\可是他可在指望我呢！//(14.95,44.95)\\\\蓋瑞．布希是不會對奈及利亞聯邦共和國棄之不顧的！",
+            "jp": "//(0,8.676745)\\\\ビジー・ タイム！ そっちは 誰だ？ ああ、 経理担当が いるとは 知らなかった。 そうだな。 ナイジェリアの//(8.676745,14.75047)\\\\アデバンベ王子に 10万ドル振り込んで くれ。 でもあいつは 俺を あてに してるんだ！//(14.75047,18.22117)\\\\ゲイリー・ビジーは ナイジェリア連邦共和国を 見捨ては しないぞ！"
+        }
+    }
+}

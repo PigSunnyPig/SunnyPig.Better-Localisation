@@ -1,0 +1,87 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2615_researcher.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "dr2615_researcher_researcher_01_et_001",
+                "weight": 0.24999995529651375,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2615_researcher_researcher_01_et_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2615_researcher_researcher_01_et_001.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,5.511963)\\\\Tests so far indicate that Variant 2 is stable in solution. But something is not right.//(5.511963,35.51196)\\\\This is a pale imitation. If only we still had the data. Or patient zero.",
+                    "fr": "//(0,5)\\\\Les résultats des tests indiquent que la variante 2 est stable en solution, mais quelque chose ne va pas.//(5.75,35.75)\\\\Ceci n'est qu'une vulgaire copie... Si seulement nous avions encore les données... ou le patient zéro...",
+                    "it": "//(0,3.569)\\\\I test indicano che la variante due è stabile in soluzione,//(3.569,5.741)\\\\ma qualcosa non quadra.//(5.741,8.013)\\\\È una vaga imitazione.//(8.013,38.013)\\\\Se solo avessimo ancora i dati... o il paziente zero.",
+                    "de": "//(0,3.6)\\\\Die bisherigen Tests besagen, dass Variante 2 in der Lösung stabil ist.//(3.6,7.5)\\\\Aber irgendetwas stimmt nicht. Das ist nur eine schwache Imitation.//(7.5,37.5)\\\\Wenn wir doch nur die Daten noch hätten ... oder Patient Null.",
+                    "es": "//(0,3.6)\\\\Las pruebas indican que la variante 2 es estable en una solución.//(3.6,7.89)\\\\Pero algo va mal. Esto es una triste imitación.//(7.89,37.89)\\\\Si tan solo tuviésemos los datos... O al paciente cero.",
+                    "ru": "//(0,3.6)\\\\Тесты показывают, что второй вариант полностью устойчив, пока находится в растворе.//(3.6,5.5)\\\\Но что-то здесь не так.//(5.5,7.75)\\\\Это лишь жалкая имитация.//(7.75,37.75)\\\\Если бы у нас все еще были эти данные... или нулевой пациент.",
+                    "cn": "//(0,5.7)\\\\目前的测试结果显示2类在溶液中很稳定。不过有些不对劲。//(5.7,35.7)\\\\这不过是个彷制品。真希望我们还拥有那些数据，或是零号病人。",
+                    "tc": "//(0,5.7)\\\\目前的測試結果顯示2類在溶液中很穩定。不過有些不對勁。//(5.7,35.7)\\\\這不過是個仿製品。真希望我們還擁有那些數據，或是零號病人。",
+                    "jp": "//(0,6.979527)\\\\テストに よると、 ヴァリアント2は 安定した状態に ある。 でもなにかが おかしい。 これは//(6.979527,11.65435)\\\\イミテーションだ。 データあるいは患者第1号が 手元に あれば..."
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr2615_researcher_researcher_01_et_002",
+                "weight": 0.24999995529651375,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2615_researcher_researcher_01_et_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2615_researcher_researcher_01_et_002.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,4.21908)\\\\So, let's see how it behaves when we test for particalization.//(4.96908,10.31816)\\\\No! What is this? This is not good. This is useless!//(10.31816,17.51203)\\\\This wouldn’t infect my grandmother unless she drank it. Or someone stabbed her with a syringe full of it!//(17.51203,47.51203)\\\\This is a failure, an absolute failure... I’ll be sent to agricultural, I just know it.",
+                    "fr": "//(0,3.912883)\\\\Voyons comment il se comporte en test de particalisation...//(5.1,10.5)\\\\Oh non ! Qu'est-ce que c'est que ça ? C'est pas du tout ça ! C'est nul, ce truc !//(10.5,13.55)\\\\J'arriverais même pas à contaminer ma grand-mère avec, à moins qu'elle en boive !//(13.55,16.2)\\\\Ou qu'on la poignarde avec une seringue pleine !//(17,47)\\\\Quel échec... Un échec total ! On va m'envoyer en agronomie, j'en suis sûr !",
+                    "it": "//(0,4.977)\\\\Vediamo come si comporta con la nebulizzazione.//(4.977,7.581)\\\\No! Che succede?//(7.581,10.49)\\\\Così non va. È un disastro!//(10.49,13.859)\\\\Non infetterebbe neppure mia nonna, a meno che non lo bevesse.//(13.859,17.036)\\\\O qualcuno non le iniettasse un'intera siringa!//(17.036,20.845)\\\\È un fallimento... Un vero fiasco...//(20.845,50.845)\\\\Mi assegneranno al reparto agrario, lo so...",
+                    "de": "//(0,5.6)\\\\Mal sehen, was passiert, wenn wir auf Partikelbildung testen. Nein!//(5.6,10.3)\\\\Was ist das? Das ist nicht gut. Das ist unbrauchbar!//(10.3,13.5)\\\\Damit könnte ich nicht mal meine Großmutter infizieren, außer sie würde es trinken.//(13.5,16.35)\\\\Oder jemand würde ihr eine ganze Spritze mit dem Zeug injizieren!//(16.35,46.35)\\\\Das ist ein Fehlschlag ... ein kompletter Fehlschlag ... ich werde bestimmt in die landwirtschaftliche Forschung versetzt ...",
+                    "es": "//(0,3.92)\\\\Bien, veamos cómo se comporta en una prueba de particularización.//(5.07,10.56)\\\\¡No! ¿Qué es esto? Esto no es bueno. ¡Es inútil!//(10.56,13.65)\\\\¡Esto no infectaría ni a mi abuela, a menos que se lo bebiese//(13.65,16.9)\\\\o que alguien le clavase una jeringuilla entera de eso!//(16.9,20.62669)\\\\Esto es un fracaso... Un fracaso absoluto...//(20.62669,50.62669)\\\\Me enviarán a la sección de agricultura, lo sé...",
+                    "ru": "//(0,4.25)\\\\Так, а что если провести тест на дифференциацию?//(5,6.1)\\\\Нет!//(6.1,7.4)\\\\Что это значит?//(7.4,9)\\\\Это плохо.//(9,10.4)\\\\Совершенно бесполезно!//(10.4,13.35)\\\\Даже мою бабушку этим не заразить, если она его не выпьет.//(13.35,16.8)\\\\Или не уколется шприцем с этим вирусом.//(16.8,18.45)\\\\Это провал...//(18.45,20.6)\\\\полный провал...//(20.6,50.6)\\\\Меня теперь точно переведут в отдел сельского хозяйства...",
+                    "cn": "//(0,10.6)\\\\那让我们看看进行量子组成测试时会发生什么事。不！这是什么？这样不行。这没有用！//(10.6,18.7)\\\\除非我把这东西给喝了，不然这谁都感染不了。或是用填满了它的注射器！这真是失败，//(18.7,48.7)\\\\完完全全的失败......我看我肯定会被调去农业部门。",
+                    "tc": "//(0,10.6)\\\\那讓我們看看進行量子組成測試時會發生什麼事。不！這是什麼？這樣不行。這沒有用！//(10.6,18.7)\\\\除非我把這東西給喝了，不然這誰都感染不了。或是用填滿了它的注射器！這真是失敗，//(18.7,48.7)\\\\完完全全的失敗......我看我肯定會被調去農業部門。",
+                    "jp": "//(0,9.91559)\\\\さて、 粒子化テストによる 反応を 見ると するか。 なに！ なんだこれは？ これは だめだ、 使い物に ならない！//(9.91559,16.22551)\\\\これじゃ 注射器で 射ち込むか、 直接飲ませでも しないかぎり感染しないだろう。 これは 失敗だ。//(16.22551,22.85844)\\\\大失敗だ... これだと あの面白くも ない農業研究課に 異動させられて しまう。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr2615_researcher_researcher_01_et_003",
+                "weight": 0.24999995529651375,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2615_researcher_researcher_01_et_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2615_researcher_researcher_01_et_003.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,3.962883)\\\\It’s useless! How could all that data just disappear?//(3.962883,7.445767)\\\\Mein Gott! Arnheim and those fools at Beta Division.//(7.445767,11.73724)\\\\First they lose patient zero to a heart attack, then they lose all the data!//(11.73724,41.73724)\\\\It’s espionage, I know it! Arnheim, you fool, you must take me for a strudel. I'll make this work yet!",
+                    "fr": "//(0,3.9)\\\\Ça marche pas ! Comment toutes ces données ont bien pu disparaître ?//(3.9,7.3)\\\\Bon dieu. Arnheim et ces idiots de la division Beta...//(7.3,11.5)\\\\D'abord ils perdent le patient zéro qui fait un arrêt cardiaque, ensuite ils perdent toutes les données !//(11.5,13.5)\\\\C'est de l'espionnage, j'en suis sûr !//(13.5,43.5)\\\\Arnheim, pauvre crétin, tu me prends pour une truffe ! Ça va marcher, c'est moi qui te le dis !",
+                    "it": "//(0,1.904)\\\\È un disastro!//(1.904,5.217)\\\\Come sono potuti sparire tutti quei dati? Santo cielo!//(5.217,7.494)\\\\Arnheim e quei pazzi della divisione Beta...//(7.494,11.953)\\\\Prima il paziente zero muore d'infarto, poi perdono tutti i dati!//(11.953,16.478)\\\\È spionaggio, è ovvio! Arnheim, forse mi hai scambiato per un completo idiota.//(16.478,46.478)\\\\Ma lo farò funzionare ugualmente!",
+                    "de": "//(0,3.812883)\\\\Es ist unbrauchbar! Wie konnten die Daten einfach verschwinden?//(3.812883,7.3)\\\\Meine Güte! Arnheim und diese Idioten von der Beta-Abteilung ...//(7.3,11.5)\\\\Erst verlieren sie Patient Null durch einen Herzinfarkt, und dann verlieren sie sämtliche Daten!//(11.5,41.5)\\\\Das muss Spionage sein! Arnheim, du Narr, du wirst mich auf einen Apfelstrudel einladen müssen, denn ich werde das noch hinkriegen!",
+                    "es": "//(0,4.080982)\\\\¡Es inútil! ¿Cómo han podido los datos esfumarse sin más?//(4.080982,7.461963)\\\\Dios mío. Arnheim y esos idiotas en la División Beta...//(7.461963,11.92)\\\\Primero se les muere de un infarto el paciente cero, ¡y luego encima pierden los datos!//(11.92,13.564)\\\\Es espionaje, ¡estoy seguro!//(13.564,16.435)\\\\Arnheim, maldito idiota, ¡debes de pensarte que soy un estrúdel!//(16.435,46.435)\\\\¡Conseguiré que esto funcione!",
+                    "ru": "//(0,1.8)\\\\Все бесполезно!//(1.8,3.962883)\\\\Не могли же все данные просто исчезнуть.//(3.962883,5.2)\\\\Боже.//(5.2,7.407668)\\\\Арнхайм и эти идиоты из отдела «Бета»...//(7.407668,9.9)\\\\Сначала у них нулевой пациент умирает из-за сердечного приступа,//(9.9,11.75)\\\\а потом они вообще теряют все данные!//(11.75,13.45)\\\\Это саботаж, я в этом уверен!//(13.45,16.4)\\\\Арнхайм, тупица, ты что, считаешь меня безмозглым штруделем?//(16.4,46.4)\\\\Ничего, у меня еще все получится!",
+                    "cn": "//(0,7.6)\\\\这没有用！那些数据怎麽可能就这样消失了？天啊！安海姆和贝塔部门的那些蠢蛋。//(7.6,11.9)\\\\首先他们因心脏病失去了零号病人，然后还把所有数据都搞丢了！//(11.9,41.9)\\\\这肯定是间谍的手笔！安海姆，你这个蠢货难道把我当成了傻瓜。把这事处理好！",
+                    "tc": "//(0,7.6)\\\\這沒有用！那些數據怎麼可能就這樣消失了？天啊！安海姆和貝塔部門的那些蠢蛋。//(7.6,11.9)\\\\首先他們因心臟病失去了零號病人，然後還把所有數據都搞丟了！//(11.9,41.9)\\\\這肯定是間諜的手筆！安海姆，你這個蠢貨難道把我當成了傻瓜。把這事處理好！",
+                    "jp": "//(0,6.209926)\\\\そんな！ なぜデータが すべて消えたんだ？ なんてこった！ アルンハイムと ベータ部門の 馬鹿連中め。//(6.209926,15.08125)\\\\患者第1号を 心臓発作で 失うだけ でなく、 データまで 失うとは！ こいつは スパイの 仕業に 違いない！//(15.08125,17.49129)\\\\とにかくなんとかしないと！"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr2615_researcher_researcher_01_et_004",
+                "weight": 0.24999995529651375,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2615_researcher_researcher_01_et_004.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2615_researcher_researcher_01_et_004.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,4.180982)\\\\This is insane! I’ve recreated it down to the basics.//(4.180982,10.56485)\\\\The lipid bilayer is stable and well structured, but it collapses the moment we remove it from the medium!//(10.56485,13.56393)\\\\We know that variant one was airborne and lethal. But this?//(13.56393,43.56393)\\\\This is not a virus! This is a catastrophe! My reputation is ruined!",
+                    "fr": "//(0,1.472393)\\\\C'est de la folie !//(1.472393,6.6)\\\\J'ai tout recommencé depuis le début, la double couche grasse est stable, bien structurée,//(6.6,10.3)\\\\mais elle s'effondre dès qu'on veut l'extraire du milieu !//(10.3,13.2)\\\\On savait que la variante était mortelle et se propageait par voie aérienne mais ça ?!//(13.2,43.2)\\\\Ce n'est pas un virus, c'est un désastre ! Ma réputation est foutue...",
+                    "it": "//(0,1.636)\\\\È assurdo!//(1.636,4.276)\\\\L'ho ricreata partendo da zero.//(4.276,10.458)\\\\La membrana lipidica a due strati è stabile e strutturata, ma collassa nel momento in cui la estraiamo dal mezzo!//(10.458,13.643)\\\\Sappiamo che la variante uno si diffondeva nell'aria ed era letale. Ma questa?//(13.643,17.62)\\\\Non è un virus! È una catastrofe!//(17.62,47.62)\\\\La mia reputazione è rovinata...",
+                    "de": "//(0,3.85)\\\\Das ist verrückt! Ich habe es von der Basis aus rekonstruiert.//(3.85,10)\\\\Die Lipid-Doppelschicht ist stabil und gut strukturiert, aber sie bricht zusammen, sobald wir sie aus dem Medium entfernen!//(10,13.6)\\\\Wir wissen, dass Variante 1 durch die Luft übertragen wurde und tödlich war. Aber das?//(13.6,43.6)\\\\Das ist kein Virus! Das ist eine Katastrophe! Mein Ruf ist ruiniert ...",
+                    "es": "//(0,4.162883)\\\\¡Esto es una locura! Lo he recreado al detalle.//(4.162883,10.35865)\\\\La bicapa lipídica es estable y está bien estructurada, ¡pero se colapsa en cuanto la extraigo del medio!//(10.35865,13.48)\\\\Sabemos que la variante 1 se transmitía por el aire y era letal. ¿Pero esto?//(13.48,17.562)\\\\¡Esto no es un virus! ¡Es una catástrofe!//(17.562,47.562)\\\\Mi reputación se va al garete...",
+                    "ru": "//(0,1.55)\\\\Это безумие!//(1.55,4.05)\\\\Мне удалось воссоздать начальное состояние.//(4.05,6.478589)\\\\Липидный бислой стабилен и хорошо структурирован,//(6.478589,10.3)\\\\но стоит извлечь вирус из тестовой среды, как все разваливается!//(10.3,13.4)\\\\Мы точно знаем, что первый вариант передавался по воздуху и был смертелен. А этот?//(13.4,15)\\\\Это не вирус!//(15,16.55)\\\\Это катастрофа!//(17.42012,47.42012)\\\\Моей репутации конец...",
+                    "cn": "//(0,6.7)\\\\这真是太疯狂了！我重新打造了基础。磷脂双分子层稳定且构造良好，//(6.7,12.8)\\\\不过我们一旦将它从介质中取出时它便会立即崩塌！我们知道那个变种能够透过空气传播且会致命。//(12.8,42.8)\\\\可这个呢？这算什麽病毒！这根本是个灾难！我的名誉毁了！",
+                    "tc": "//(0,6.7)\\\\這真是太瘋狂了！我重新打造了基礎。磷脂雙分子層穩定且構造良好，//(6.7,12.8)\\\\不過我們一旦將它從介質中取出時它便會立即崩塌！我們知道那個變種能夠透過空氣傳播且會致命。//(12.8,42.8)\\\\可這個呢？這算什麼病毒！這根本是個災難！我的名譽毀了！",
+                    "jp": "//(0,5.35682)\\\\まったくなんということだ。 基本から 作り直すことに なるとは。 脂質二重層は 安定して いるが、//(5.35682,13.00942)\\\\媒体から 除去した瞬間に 崩れて しまう！ ヴァリアント1は 飛散の 危険を 備えて いたが、 これは//(13.00942,19.1315)\\\\もはやウィルスで すらない！ こいつは どうにも ならん！ 私の 評判は ガタ落ちだ！"
+                }
+            }
+        ]
+    }
+}

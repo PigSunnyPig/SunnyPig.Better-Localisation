@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2612_frydelandguard.sweetdialog?/dr2612_frydelandguard_guard_02_et_013.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr2612_frydelandguard_guard_02_et_013",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2612_frydelandguard_guard_02_et_013.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2612_frydelandguard_guard_02_et_013.animset].pc_animset",
+        "languages": {
+            "en": "//(0,5.52295)\\\\I mean, I thought I was pretty clear but... Well you seem pretty fixated on guys,//(5.52295,8.201539)\\\\though. But you know, that's just//(8.201539,38.20154)\\\\fine. This is a modern world we live in, and as far as I'm concerned, who you love is entirely up to you.",
+            "fr": "//(0,2.45)\\\\Je pensais que j'avais été clair.//(2.45,8.1)\\\\Par contre, vous, vous semblez obsédé par les hommes bien membrés, mais vous savez, c'est pas grave.//(8.1,38.1)\\\\On vit dans un monde moderne, vous êtes libre d'aimer qui vous voulez !",
+            "it": "//(0,3.229)\\\\Vede, pensavo di essere stato chiaro.//(3.229,8.166)\\\\Ma lei mi sembra fissato con i palestrati. Va bene, ci mancherebbe.//(8.166,38.166)\\\\Ormai viviamo in una società moderna e, per quanto mi riguarda, ognuno è libero di amare chi vuole!",
+            "de": "//(0,6)\\\\Ich finde, ich war eigentlich ziemlich eindeutig. Sie scheinen irgendwie auf große Kerle fixiert zu sein.//(6,36)\\\\Aber das ist okay. Wir leben in einer modernen Welt, und soweit es mich betrifft, können Sie lieben, wen Sie wollen!",
+            "es": "//(0,5.408)\\\\Creo que yo estaba siendo muy claro. Aunque parece que a usted le gustan bastante los hombres.//(5.408,35.408)\\\\Pero no pasa nada. Vivimos en un mundo moderno, por lo que a mí respecta, usted puede querer a quien quiera.",
+            "ru": "//(0,0.8680981)\\\\Серьезно.//(0.8680981,3.140491)\\\\Я вроде ясно выражался.//(3.140491,5.85)\\\\А вы, похоже, здорово зациклены на больших парнях.//(5.85,8)\\\\Но знаете, в этом нет ничего такого.//(8,38)\\\\Наступило новое время, и как по мне, ваши пристрастия — это ваше личное дело!",
+            "cn": "//(0,6.4)\\\\我还以为我说的很清楚呢......你似乎很专注在男性身上。//(6.4,36.4)\\\\不过也没关系。我们现在这个社会，你想去爱谁都不关我的事。",
+            "tc": "//(0,6.4)\\\\我還以為我說的很清楚呢......你似乎很專注在男性身上。//(6.4,36.4)\\\\不過也沒關係。我們現在這個社會，你想去愛誰都不關我的事。",
+            "jp": "//(0,2.859585)\\\\ストレートに 話してたつもりですけど...//(2.859585,10.52299)\\\\なんか男を 別の 目で 見てないですか？ いや、 いいんですけどね。 今の 世の中どんな対象を 好きに//(10.52299,14.78044)\\\\なろうと、 それは 全然個人の 自由だと 思いますし。"
+        }
+    }
+}

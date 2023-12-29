@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_kirroyal/3000_kirroyal_story/dr3655_torvikthirdfloor.sweetdialog?/dr3655_torvikthirdfloor_torvik_et_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr3655_torvikthirdfloor_torvik_et_001",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_kirroyal/3000_kirroyal_story/dr3655_torvikthirdfloor_torvik_et_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_kirroyal/3000_kirroyal_story/dr3655_torvikthirdfloor_torvik_et_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,3.044785)\\\\She’s not here to meet me. Of course.//(3.044785,33.04478)\\\\Tell Ms. Margolis I’m here.",
+            "fr": "//(0,30)\\\\Et elle n'est même pas là. Évidemment. Dites à Mlle Margolis que je l'attends.",
+            "it": "//(0,2.976687)\\\\Non è venuta a ricevermi. Lo immaginavo.//(2.976687,32.97669)\\\\Dì alla signorina Margolis che sono arrivata.",
+            "de": "//(0,2.733)\\\\Sie ist natürlich nicht hier, um mich zu treffen.//(2.733,32.733)\\\\Sagen Sie Miss Margolis, dass ich hier bin.",
+            "es": "//(0,30)\\\\No ha venido a recibirme. Por supuesto. Dígale a la señorita Margolis que estoy aquí.",
+            "ru": "//(0,1.578589)\\\\Она не пришла, чтобы встретить меня.//(1.578589,3.1)\\\\Конечно.//(3.1,33.1)\\\\Скажи госпоже Марголис, что я здесь.",
+            "cn": "//(0,30)\\\\她不在这里和我碰面。当然了。告诉玛戈利斯女士我到了。",
+            "tc": "//(0,30)\\\\她不在這裡和我碰面。當然了。告訴馬戈利斯女士我到了。",
+            "jp": "//(0,30)\\\\出迎えるわけがないわね。到着したとマーゴリスさんに伝えて。"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_shandy/3000_shandy_story/dr3674_guestbacktalkjbj1.sweetdialog?/dr3674_guestbacktalkjbj1_male_party_guest_et_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr3674_guestbacktalkjbj1_male_party_guest_et_001",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_shandy/3000_shandy_story/dr3674_guestbacktalkjbj1_male_party_guest_et_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_shandy/3000_shandy_story/dr3674_guestbacktalkjbj1_male_party_guest_et_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,2.172393)\\\\Just look at him...//(2.172393,6.17239)\\\\You heard about the car crash, right?",
+            "fr": "//(0,6)\\\\Non mais regarde-le... T'as entendu cette histoire d'accident de voiture ?",
+            "it": "//(0,6)\\\\Ma guardalo... Sai dell'incidente d'auto, vero?",
+            "de": "//(0,6)\\\\Sieh ihn dir an. Du hast von dem Unfall gehört, oder?",
+            "es": "//(0,6)\\\\Pero míralo... ¿Has oído lo del accidente de coche, verdad?",
+            "ru": "//(0,6)\\\\Ты только на него посмотри... ты же слышала про аварию, да?",
+            "cn": "//(0,6)\\\\你看看他......你听说过车祸的事吧？",
+            "tc": "//(0,6)\\\\你看看他......你聽說過車禍的事吧？",
+            "jp": "//(0,6)\\\\あいつ見てみろよ... 車の事故のことは聞いただろ？"
+        }
+    }
+}

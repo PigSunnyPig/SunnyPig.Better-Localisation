@@ -1,0 +1,68 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_tequilasunrise/3000_tequilasunrise_story/dr3607_larinnapoleonmutter.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "dr3607_larinnapoleonmutter_larin_et_001",
+                "weight": 0.3333333333333333,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_tequilasunrise/3000_tequilasunrise_story/dr3607_larinnapoleonmutter_larin_et_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_tequilasunrise/3000_tequilasunrise_story/dr3607_larinnapoleonmutter_larin_et_001.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,5.416687)\\\\You, my Emperor, I will never sell.//(5.416687,11.46577)\\\\For you and I are alike. From low stock to conquerors.//(11.46577,17.46577)\\\\But you were a true wonder. I will see you soon, \"mon petit caporal.\"",
+                    "fr": "//(0,8)\\\\Oh, mon empereur, je ne vous vendrai jamais. Nous sommes pareils, vous et moi.//(8,17)\\\\Partis de rien pour conquérir le monde. Mais vous étiez un vrai héros. Je vous verrai bientôt, mon petit caporal.",
+                    "it": "//(0,5.164785)\\\\Imperatore adorato, tu non sarai mai in vendita.//(5.164785,11.51577)\\\\Siamo simili, io e te. Da persone qualunque a conquistatori.//(11.51577,14.86577)\\\\Ma tu eri un vero portento.//(14.86577,17.86577)\\\\A presto, mon petit caporal.",
+                    "de": "//(0,4.767)\\\\Euch, mein Kaiser, werde ich niemals verkaufen.//(4.767,10.816)\\\\Denn wir beide sind uns sehr ähnlich. Eroberer aus einfachen Verhältnissen.//(10.816,17.816)\\\\Aber Ihr wart ein wahres Wunder. Bald sehen wir uns wieder, mon petit caporal.",
+                    "es": "//(0,11.7)\\\\A usted, mi emperador, jamás lo venderé. Porque somos semejantes. Salimos de la pobreza para ser conquistadores.//(11.7,17.7)\\\\Pero usted era un prodigio. Le veré pronto, \"mon petit caporal\".",
+                    "ru": "//(0,5.3)\\\\Тебя, мой император, я не продам никогда.//(5.3,8)\\\\Ведь мы с тобой похожи.//(8,11.75)\\\\Из грязи в завоевателей.//(11.75,14.7)\\\\Ты — настоящее чудо.//(14.7,17.7)\\\\До скорого, мой маленький капрал.",
+                    "cn": "//(0,11.46555)\\\\你，我的帝王，我不会卖了你的。因为我们两个太相似了。从白手起家到成为征服者。//(11.46555,17)\\\\你才是真正的奇迹。晚点见了“拿破仑”。",
+                    "tc": "//(0,11.46555)\\\\你，我的帝王，我不會賣了你的。因為我們兩個太相似了。從白手起家到成為征服者。//(11.46555,17)\\\\你才是真正的奇蹟。晚點見了「拿破崙」。",
+                    "jp": "//(0,11.46555)\\\\我が皇帝... あなただけは 絶対に 売らない。 我々は 似た者同士です。 低い身分から 征服者へ。 ですが、//(11.46555,17)\\\\あなたこそが 真の 奇跡。 また会いましょう、 「小さな伍長」。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr3607_larinnapoleonmutter_larin_et_002",
+                "weight": 0.3333333333333333,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_tequilasunrise/3000_tequilasunrise_story/dr3607_larinnapoleonmutter_larin_et_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_tequilasunrise/3000_tequilasunrise_story/dr3607_larinnapoleonmutter_larin_et_002.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,7.482883)\\\\Oh, \"mon petit caporal.\" You are perfection beyond... perfection.//(7.482883,10.18288)\\\\Such a majestic man.//(10.18288,17.18288)\\\\You will be mine... once that scum of a father in law dies.",
+                    "fr": "//(0,10.4)\\\\Oh, mon petit caporal... Vous êtes plus parfait que la perfection elle-même. Majestueux.//(10.4,17.4)\\\\Vous serez à moi... Une fois que mon ordure de beau-père sera mort.",
+                    "it": "//(0,7.650982)\\\\Oh, mon petit caporal. Sei la perfezione oltre la... perfezione.//(7.650982,10.30098)\\\\Che uomo maestoso.//(10.30098,17.30098)\\\\Sarai mio, quando quel bastardo di mio suocero tirerà le cuoia.",
+                    "de": "//(0,10.023)\\\\Oh, mon petit caporal. Ihr seid perfekter als ... perfekt. Ein so majestätischer Mann.//(10.023,17.023)\\\\Ihr werdet mir gehören ... sobald mein verdammter Schwiegervater tot ist.",
+                    "es": "//(0,13.3)\\\\Ay, \"mon petit caporal\". Es la perfección de la... perfección. Cuánta majestuosidad. Usted será mío...//(13.3,17.3)\\\\en cuanto el imbécil de mi suegro muera.",
+                    "ru": "//(0,3)\\\\О, мой маленький капрал!//(3,7.85)\\\\Ты — совершенство среди совершенства.//(7.85,10.6)\\\\Великий человек!//(10.6,16.6)\\\\Ты станешь моим, когда помрет мой ублюдок-тесть.",
+                    "cn": "//(0,6.39003)\\\\噢，“拿破仑”。你真是完美无缺啊......//(6.39003,13.78504)\\\\真是个美男子。//(13.78504,16.8)\\\\等我那垃圾岳父死后......你会是我的。",
+                    "tc": "//(0,6.39003)\\\\噢，「拿破崙」。你真是完美無缺啊......//(6.39003,13.78504)\\\\真是個美男子。//(13.78504,16.8)\\\\等我那垃圾岳父死後......你會是我的。",
+                    "jp": "//(0,6.39003)\\\\ああ、 「小さな伍長」。 あなたは 完璧を 超越した...//(6.39003,13.78504)\\\\完璧な存在です。 偉大な皇帝。 あなたは 私の ものに なる...//(13.78504,16.8)\\\\あの義理の クソじじいが 死ねば。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr3607_larinnapoleonmutter_larin_et_003",
+                "weight": 0.3333333333333333,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_tequilasunrise/3000_tequilasunrise_story/dr3607_larinnapoleonmutter_larin_et_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_tequilasunrise/3000_tequilasunrise_story/dr3607_larinnapoleonmutter_larin_et_003.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,3.030491)\\\\Oh, my dear, sweet Emperor.//(3.030491,10.81055)\\\\Can you believe I have been asked to do a Twombly when I could be doing a majestic version of you?//(10.81055,14.42104)\\\\No, that would be blasphemy.//(14.42104,18.42104)\\\\You will be mine, \"mon petit caporal.\" Yes, you will.",
+                    "fr": "//(0,6.7)\\\\Oh, mon cher petit empereur... Vous le croyez, ça ? On m'a demandé un Twombly...//(6.7,14.7)\\\\Alors que je pourrais faire votre majestueux portrait. Non, ce serait un blasphème.//(14.7,18.7)\\\\Vous serez à moi, mon petit caporal. C'est une promesse.",
+                    "it": "//(0,2.842393)\\\\Oh, mio imperatore adorato.//(2.842393,6.443374)\\\\Riesci a crederci? Mi hanno chiesto di replicare un Twombly,//(6.443374,10.83816)\\\\quando potrei realizzare una maestosa copia di te!//(10.83816,14.48055)\\\\No, sarebbe una blasfemia.//(14.48055,18.48055)\\\\Un giorno sarai mio, mon petit caporal. Vedrai...",
+                    "de": "//(0,2.842393)\\\\Oh, mein geliebter Kaiser.//(2.842393,6.461473)\\\\Könnt Ihr Euch vorstellen, dass ich einen Twombly anfertigen soll ...//(6.461473,9.94245)\\\\wo ich doch eine majestätische Version von Euch schaffen könnte.//(9.94245,13.93485)\\\\Nein, das wäre Blasphemie.//(13.93485,18.93485)\\\\Ihr werdet mir gehören, mon petit caporal. Ja, das werdet Ihr.",
+                    "es": "//(0,3.1)\\\\Ah, mi queridísimo emperador.//(3.1,11)\\\\¿Puede creerse que me han encomendado un Twombly cuando podría estar trabajando en una majestuosa versión de usted?//(11,18)\\\\No, eso sería una blasfemia. Usted será mío, \"mon petit caporal\". Ya lo creo.",
+                    "ru": "//(0,3.1)\\\\Мой милый император!//(3.1,11)\\\\Представляешь, мне придется делать Твомбли, а ведь я мог сделать чудесную копию тебя...//(11,14.7)\\\\Нет, это будет святотатством.//(14.7,17.6)\\\\Ты станешь моим, маленький капрал.//(17.6,47.6)\\\\Обязательно станешь.",
+                    "cn": "//(0,10.59474)\\\\噢，我亲爱的帝王。你能相信有人会要我去画托姆布雷而不是画你吗？//(10.59474,18.3)\\\\不，那真是太糟糕了。你会是我的“拿破仑”。是的，你会的。",
+                    "tc": "//(0,10.59474)\\\\噢，我親愛的帝王。你能相信有人會要我去畫托姆布雷而不是畫你嗎？//(10.59474,18.3)\\\\不，那真是太糟糕了。你會是我的「拿破崙」。是的，你會的。",
+                    "jp": "//(0,10.59474)\\\\ああ、 愛しの 皇帝よ。 トゥオンブリーの 絵が 欲しいと 頼まれました。 私は あなたの 姿を 描きたいのに。//(10.59474,18.3)\\\\いいえ、 それは あなたに対する 冒涜です。 「小さな伍長」、 いつかあなたは、 私の ものに。"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2612_frydelandguard.sweetdialog?/dr2612_frydelandguard_frydel_et_014.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr2612_frydelandguard_frydel_et_014",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2612_frydelandguard_frydel_et_014.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2612_frydelandguard_frydel_et_014.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Shut up!",
+            "fr": "//(0,30)\\\\Fermez-la !",
+            "it": "//(0,30)\\\\Ma sta' zitto!",
+            "de": "//(0,30)\\\\Seien Sie still!",
+            "es": "//(0,30)\\\\¡Cállate!",
+            "ru": "//(0,30)\\\\Замолчите!",
+            "cn": "//(0,30)\\\\闭嘴！",
+            "tc": "//(0,30)\\\\閉嘴！",
+            "jp": "//(0,30)\\\\なにを言ってる！"
+        }
+    }
+}

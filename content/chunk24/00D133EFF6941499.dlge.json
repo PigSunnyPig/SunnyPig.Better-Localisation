@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4612_intelligencemeeting.sweetdialog?/dr4612_intelligencemeeting_intelligence_agent_et_008.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr4612_intelligencemeeting_intelligence_agent_et_008",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4612_intelligencemeeting_intelligence_agent_et_008.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4612_intelligencemeeting_intelligence_agent_et_008.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\You helped us, Richard, and we don’t forget our old friends!",
+            "fr": "//(0,30)\\\\Tu nous as aidés, Richard, et nous n'oublions jamais nos vieux amis !",
+            "it": "//(0,30)\\\\Ci hai aiutato, Richard, e noi non dimentichiamo i vecchi amici!",
+            "de": "//(0,30)\\\\Du hast uns geholfen, Richard, und wir vergessen unsere alten Freunde niemals.",
+            "es": "//(0,30)\\\\Nos ayudaste, Richard, ¡y nosotros no olvidamos a nuestros viejos amigos!",
+            "ru": "//(0,1.592393)\\\\Ты нас выручил, Ричард!//(1.592393,31.59239)\\\\А мы друзей не забываем!",
+            "cn": "//(0,30)\\\\你帮助过我们，理查德，我是不会忘记我的老朋友的！",
+            "tc": "//(0,30)\\\\你幫助我們，理查，我是不會忘記給我的老朋友的！",
+            "jp": "//(0,30)\\\\お前は俺たちを助けてくれたし、旧友を忘れたりしないさ！"
+        }
+    }
+}

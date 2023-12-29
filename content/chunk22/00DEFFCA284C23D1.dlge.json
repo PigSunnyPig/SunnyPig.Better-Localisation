@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2612_frydelandguard.sweetdialog?/dr2612_frydelandguard_frydel_et_002.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr2612_frydelandguard_frydel_et_002",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2612_frydelandguard_frydel_et_002.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2612_frydelandguard_frydel_et_002.animset].pc_animset",
+        "languages": {
+            "en": "//(0,4.411473)\\\\Well... It’s kind of weird to be saying this, given the nature of my work,//(4.411473,34.41147)\\\\but I really think you should think twice about this enhancement therapy. It’s all still pretty experimental.",
+            "fr": "//(0,4.15)\\\\Eh bien, je sais que c'est bizarre que je vous dise ça étant donné mon métier,//(4.15,8.4)\\\\mais je crois vraiment que vous devriez réfléchir à deux fois avant de vous lancer dans cette thérapie d'augmentation...//(8.4,38.4)\\\\C'est encore très expérimental.",
+            "it": "//(0,4.761)\\\\Allora... So che può suonare strano, considerata la mia professione,//(4.761,8.878)\\\\ma penso dovresti pensarci due volte prima di affrontare questa \"terapia accrescitiva\"...//(8.878,38.878)\\\\È ancora in fase sperimentale.",
+            "de": "//(0,4.35)\\\\Tja ... das klingt jetzt angesichts meiner Arbeit vielleicht etwas komisch,//(4.35,34.35)\\\\aber Sie sollten sich das mit dieser „Verbesserungstherapie“ wirklich gut überlegen ... Sie ist noch sehr experimentell.",
+            "es": "//(0,4.15)\\\\Bueno... Es un poco raro que yo diga esto, dada la naturaleza de mi trabajo,//(4.15,8.75)\\\\pero creo que deberías pensarte muy bien lo de ese \"tratamiento de aumento\"...//(8.75,38.75)\\\\Todavía es muy experimental.",
+            "ru": "//(0,0.8680981)\\\\Ну...//(0.8680981,4.120981)\\\\Учитывая специфику моей работы, я не привык такое говорить,//(4.120981,8.770061)\\\\но я бы советовал как следует подумать об этой «процедуре увеличения»...//(8.770061,38.77006)\\\\Это все пока еще на стадии исследования.",
+            "cn": "//(0,4.5)\\\\好吧......这听起来可能很奇怪，不过依我的经验，//(4.5,34.5)\\\\我真的认为你在做这增大疗程前得先三思。这些程序都还在测试中。",
+            "tc": "//(0,4.5)\\\\好吧......這聽起來可能很奇怪，不過依我的經驗，//(4.5,34.5)\\\\我真的認為你在做這增大療程前得先三思。這些程序都還在測試中。",
+            "jp": "//(0,7.878394)\\\\ウム、 このような仕事を して いて 言うのも なんだがな、 あの治療に関しては よく考えたほうが//(7.878394,10.83279)\\\\いい。 あれは まだ実験段階だからな。"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_kirroyal/3000_kirroyal_story/dr3657_dhaliareturns.sweetdialog?/dr3657_dhaliareturns_torvik_et_005.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr3657_dhaliareturns_torvik_et_005",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_kirroyal/3000_kirroyal_story/dr3657_dhaliareturns_torvik_et_005.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_kirroyal/3000_kirroyal_story/dr3657_dhaliareturns_torvik_et_005.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Now, if you please, Ms. Margolis. My bank is standing by to confirm it to me.",
+            "fr": "//(0,2.2)\\\\Je préférerais maintenant, si vous le voulez bien, Mlle Margolis.//(2.2,32.2)\\\\Ma banque attend pour me le confirmer.",
+            "it": "//(0,2.430491)\\\\Adesso, se può, signorina Margolis.//(2.430491,32.43049)\\\\La mia banca sta aspettando così da mandarmi la conferma.",
+            "de": "//(0,30)\\\\Sofort, bitte, Miss Margolis. Meine Bank wartet auf eine Bestätigung.",
+            "es": "//(0,30)\\\\Ahora, si no le importa, señorita Margolis. Mi banco está esperando para confirmármelo.",
+            "ru": "//(0,2.366687)\\\\Сию же минуту, если позволите, мисс Марголис.//(2.366687,32.36669)\\\\Мой банк сразу подтвердит оплату.",
+            "cn": "//(0,30)\\\\玛戈利斯女士，还请你现在转帐。我的银行正在等待随时向我报备。",
+            "tc": "//(0,30)\\\\馬戈利斯女士，還請你現在轉帳。我的銀行正在等待隨時向我報備。",
+            "jp": "//(0,30)\\\\今お願い、マーゴリスさん。送金の確認をするために銀行が待機してるの。"
+        }
+    }
+}

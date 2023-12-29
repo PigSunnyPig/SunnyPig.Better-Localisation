@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4611_hint.sweetdialog?/dr4611_hint_waitress_05_et_002.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr4611_hint_waitress_05_et_002",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4611_hint_waitress_05_et_002.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4611_hint_waitress_05_et_002.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Who is the guest upstairs? The one with the expensive wife who's making eyes at everyone?",
+            "fr": "//(0,1.63)\\\\Qui c'est, ce client ?//(1.63,31.63)\\\\Celui dont la femme trophée fait de l'oeil à tout le monde ?",
+            "it": "//(0,30)\\\\Chi è l'ospite del piano superiore? Quello con la moglie elegantissima che flirta con tutti?",
+            "de": "//(0,1.6)\\\\Wer ist der Gast oben?//(1.6,31.6)\\\\Der mit der teuren Frau, die jedem schöne Augen macht?",
+            "es": "//(0,30)\\\\¿Quién es el huésped de arriba? El de la mujer florero que lanza miraditas a todo el mundo.",
+            "ru": "//(0,1.5)\\\\Кто у нас там наверху?//(1.5,2.58)\\\\У него еще жена-красотка?//(2.58,32.58)\\\\Которая всем глазки строит?",
+            "cn": "//(0,30)\\\\楼上的客人是谁？他妻子不停向大家抛媚眼的那个？",
+            "tc": "//(0,30)\\\\樓上的客人是誰？他妻子不停向大家拋媚眼的那個？",
+            "jp": "//(0,30)\\\\あれ誰？ 金遣いの荒そうな奥さんと一緒の人よ。"
+        }
+    }
+}

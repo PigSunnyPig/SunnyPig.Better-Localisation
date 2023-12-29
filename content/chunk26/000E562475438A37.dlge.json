@@ -1,0 +1,23 @@
+{
+  "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+  "hash": "[assembly:/localization/hitman6/conversations/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1660_buseycole.sweetdialog?/dr1660_buseycole_busey_et_010.sweetdialogitem].pc_dialogevent",
+  "DITL": "00B7E83B2B5BFE20",
+  "CLNG": "00E3CBB0725ED16C",
+  "rootContainer": {
+    "type": "WavFile",
+    "wavName": "dr1660_buseycole_busey_et_010",
+    "soundtag": "In-world_Mission_Normal",
+    "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1660_buseycole_busey_et_010.wav].pc_wes",
+    "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1660_buseycole_busey_et_010.animset].pc_animset",
+    "languages": {
+      "en": "//(0,30)\\\\Shriek!",
+      "it": "//(0,30)\\\\URLA!",
+      "de": "//(0,30)\\\\KREISCH!",
+      "es": "//(0,30)\\\\¡Que grites!",
+      "ru": "//(0,30)\\\\междометие удивления",
+      "cn": "//(0,30)\\\\啊……！",
+      "tc": "//(0,30)\\\\長嘯！",
+      "jp": "//(0,30)\\\\叫べえええええええええ！！"
+    }
+  }
+}

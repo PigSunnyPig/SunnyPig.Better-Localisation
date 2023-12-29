@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1660_buseycole.sweetdialog?/dr1660_buseycole_busey_et_008.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr1660_buseycole_busey_et_008",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1660_buseycole_busey_et_008.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1660_buseycole_busey_et_008.animset].pc_animset",
+        "languages": {
+            "en": "//(0,4.025)\\\\Your soul. It’s moldy and dank, but if you take my spirit hand,//(4.025,10.45)\\\\I can guide you down the path to serenity and into the budding gardens of not pissed-off-edness.//(10.45,40.45)\\\\Now, shriek with me.",
+            "fr": "//(0,1.9)\\\\Ton âme. Elle est humide et moisie,//(1.9,4)\\\\mais si tu attrapes ma main spirituelle,//(4,10)\\\\je te guiderai sur la voie de la sérénité et dans les jardins bourgeonnants de la coolitude.//(10,40)\\\\Maintenant, hurle avec moi.",
+            "it": "//(0,4.257177)\\\\La tua anima è vecchia e ammuffita, ma se deciderai di seguirmi,//(4.257177,10.61675)\\\\ti condurrò per mano lungo il sentiero della serenità, nei giardini fioriti della pace dei sensi.//(10.61675,40.61675)\\\\Ora urla con me.",
+            "de": "//(0,2.328589)\\\\Deine Seele ist schimmlig und feucht,//(2.328589,4.307177)\\\\aber wenn du meine Geisterhand ergreifst,//(4.307177,7.4)\\\\kann ich dich auf den Weg zur Gelassenheit führen,//(7.4,10.79865)\\\\in die knospenden Gärten der Nicht-stinksauer-sei-keit.//(10.79865,40.79865)\\\\Kreisch mit mir.",
+            "es": "//(0,4.05)\\\\Tu alma está decrépita y fría, pero si coges mi mano espiritual,//(4.05,10.5)\\\\podré guiarte por el camino de la serenidad hasta los jardines en ciernes del buenrollismo.//(10.5,40.5)\\\\Ahora, grita conmigo.",
+            "ru": "//(0,1.236196)\\\\Твоя душа.//(1.236196,2.472393)\\\\Она заплесневела.//(2.472393,7)\\\\Но возьми мой дух за руку, и я приведу тебя к истинному покою.//(7,10.75)\\\\Ты познаешь, как прекрасны девственные сады антизлости.//(10.75,40.75)\\\\Кричи со мной.",
+            "cn": "//(0,4.025)\\\\你的灵魂。阴暗潮湿，不过你要是抓紧我的灵魂之手，//(4.025,10.45)\\\\我将能够引领你走向心平气和的美妙花园。//(10.45,40.45)\\\\现在，跟我一起长啸。",
+            "tc": "//(0,4.025)\\\\你的靈魂。陰暗潮濕，不過你要是抓緊我的靈魂之手，//(4.025,10.45)\\\\我將能夠引領你走向寧靜之路並進入美妙的不發飆花園。//(10.45,40.45)\\\\來，跟我一起長嘯。",
+            "jp": "//(0,7.909829)\\\\お前の 魂だ。 湿っぽくなってるが、 俺の 手を とって くれれば、 お前を 平静の 道へと 導き、 怒りから//(7.909829,12.5239)\\\\離れた芽吹く庭園へ 入ることが できる。 さあ、 俺と 一緒に 叫ぶんだ。"
+        }
+    }
+}

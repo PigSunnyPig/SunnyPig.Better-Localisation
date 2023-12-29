@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4612_intelligencemeeting.sweetdialog?/dr4612_intelligencemeeting_dictator_et_011.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr4612_intelligencemeeting_dictator_et_011",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4612_intelligencemeeting_dictator_et_011.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4612_intelligencemeeting_dictator_et_011.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\No. We are all friends here. But I must find Inez. You never know what she might get up to! Eh?",
+            "fr": "//(0,3.3)\\\\Non. Il n'y a que des amis, ici.//(3.3,33.3)\\\\Mais je dois aller retrouver Inez. On ne peut pas la laisser seule deux minutes ! Ha !",
+            "it": "//(0,5.196687)\\\\Certo, siamo amici. Ora devo trovare Inez.//(5.196687,35.19669)\\\\Prima che ne combini un'altra delle sue! Eh?",
+            "de": "//(0,3.576687)\\\\Nein. Wir sind schließlich alle Freunde hier.//(3.576687,33.57669)\\\\Aber jetzt muss ich nach Inez sehen. Man weiß nie, was sie so treibt. Hm?",
+            "es": "//(0,30)\\\\No. Aquí todos somos amigos. Pero debo ir a buscar a Inez. ¡A saber en qué lío se ha metido ahora! ¿Eh?",
+            "ru": "//(0,3.092)\\\\Нет, мы ведь друзья.//(3.092,7.75)\\\\Надо найти Инес. А то черт ее знает, что она задумает!//(7.75,37.75)\\\\Верно?",
+            "cn": "//(0,11.932821)\\\\不，我们都是朋友。不过我得先找到伊内兹。谁也不知道她老是在做些什么！咦？",
+            "tc": "//(0,11.932821)\\\\不，我們都是朋友。（停頓，然後厭煩）不過我得先找到艾內茲。誰也不知道她老是在做些什麼！咦？（有深意而邪惡的笑聲。）",
+            "jp": "//(0,8.932821)\\\\いや。 ここでは みな友人だからな。 しかし、 イネスを 探さないと。 あいつが 何を 企むか、 わからないからな！//(8.932821,11.61267)\\\\ああ、 そうだろ？ ハハハハハハ。"
+        }
+    }
+}

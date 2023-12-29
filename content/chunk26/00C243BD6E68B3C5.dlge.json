@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1652_commercial.sweetdialog?/dr1652_commercial_crew01_et_008.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr1652_commercial_crew01_et_008",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1652_commercial_crew01_et_008.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1652_commercial_crew01_et_008.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\I’m so glad we lugged 450 pounds of equipment to some decrepit Italian ruins to film absolutely nothing.",
+            "fr": "//(0,30)\\\\C'était une bonne idée de traîner 225 kg de matériel dans des ruines italiennes pour ne rien filmer du tout...",
+            "it": "//(0,3.34908)\\\\Sono così felice di aver dovuto caricare due quintali di attrezzature//(3.34908,33.34908)\\\\fino a queste decrepite rovine italiane per girare un emerito niente.",
+            "de": "//(0,6.5)\\\\Ich bin ja so froh, dass wir 220 Kilo Equipment in eine italienische Ruine geschleppt haben,//(6.5,36.5)\\\\um absolut nichts zu filmen.",
+            "es": "//(0,30)\\\\Me alegro de haber traído un equipo de más de 200 kilos a unas destartaladas ruinas italianas para no rodar nada.",
+            "ru": "//(0,0.8680981)\\\\Чудно.//(0.8680981,30.8681)\\\\Припереть 300 кило всякого оборудования в итальянскую глубинку — и не снять ни кадра!",
+            "cn": "//(0,30)\\\\我们拖着450磅的装备来到意大利的破烂遗迹，结果什么也没拍。",
+            "tc": "//(0,30)\\\\我們拖了450磅的裝備來到義大利的破爛遺跡，結果什麼也沒拍。",
+            "jp": "//(0,6.614745)\\\\合計で 200キロも あるこの機材を イタリアの 古い遺跡へ 持ち込んだのが 完全な無駄骨に//(6.614745,9.181896)\\\\終わるとは 思わなかったな。"
+        }
+    }
+}

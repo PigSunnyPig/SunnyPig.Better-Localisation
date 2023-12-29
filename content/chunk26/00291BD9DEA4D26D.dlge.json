@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1660_buseycole.sweetdialog?/dr1660_buseycole_busey_et_006.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr1660_buseycole_busey_et_006",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1660_buseycole_busey_et_006.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1660_buseycole_busey_et_006.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\We need to cleanse your aura, kemosabe. Shriek with me.",
+            "fr": "//(0,30)\\\\Nous devons purger ton aura, kemosabe. Hurle avec moi.",
+            "it": "//(0,30)\\\\Dobbiamo purificare la tua aura, kemosabe. Urla con me.",
+            "de": "//(0,2.828589)\\\\Wir müssen deine Aura reinigen, Kemosabe.//(2.828589,32.82859)\\\\Kreisch mit mir.",
+            "es": "//(0,30)\\\\Necesitas purificar tu aura, kemosabe. Grita conmigo.",
+            "ru": "//(0,3.2)\\\\Твою ауру нужно очистить, падаван.//(3.2,33.2)\\\\Крикни вместе со мной.",
+            "cn": "//(0,30)\\\\我们得净化一下你的邪气，kemosabe。跟我一起长啸吧。",
+            "tc": "//(0,30)\\\\我們得淨化一下你的邪氣，獨行俠。跟我一起長嘯。",
+            "jp": "//(0,30)\\\\キモサベ、お前のオーラをきれいにしないとな。俺と一緒に叫べ。"
+        }
+    }
+}

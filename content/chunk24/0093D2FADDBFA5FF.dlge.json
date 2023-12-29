@@ -1,0 +1,68 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4620_waiterinkitchen.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "dr4620_waiterinkitchen_waiter_male_et_001",
+                "weight": 0.3333333333333333,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4620_waiterinkitchen_waiter_male_et_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4620_waiterinkitchen_waiter_male_et_001.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Please have this, please have this. Dammit!",
+                    "fr": "//(0,2.4)\\\\Pourvu qu'ils aient ça... Pourvu qu'ils puissent préparer ça...//(2.4,32.4)\\\\Bon sang !",
+                    "it": "//(0,30)\\\\Ti prego, fa che ce l'abbiano... Ti prego, ti prego... Maledizione!",
+                    "de": "//(0,2.4)\\\\Bitte habt das ... bitte habt das ...//(2.4,32.4)\\\\Verdammt!",
+                    "es": "//(0,30)\\\\Por favor, que tengan esto... Por favor, que tengan esto... ¡Mierda!",
+                    "ru": "//(0,2.5)\\\\Надеюсь, это есть... Надеюсь, это...//(2.5,32.5)\\\\Вот черт!",
+                    "cn": "//(0,30)\\\\这个请拿去、请拿去。见鬼了！",
+                    "tc": "//(0,30)\\\\這個請拿去、請拿去。見鬼了！",
+                    "jp": "//(0,30)\\\\これを頼む、これを頼む、っておいおい！"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr4620_waiterinkitchen_waiter_male_et_002",
+                "weight": 0.3333333333333333,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4620_waiterinkitchen_waiter_male_et_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4620_waiterinkitchen_waiter_male_et_002.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Oh, come on!",
+                    "fr": "//(0,30)\\\\Oh, ALLEZ !",
+                    "it": "//(0,30)\\\\Oh, assurdo!",
+                    "de": "//(0,30)\\\\Ah, kommt schon!",
+                    "es": "//(0,30)\\\\¡Ah, venga ya!",
+                    "ru": "//(0,30)\\\\Ну как так!",
+                    "cn": "//(0,30)\\\\哦，老天啊！",
+                    "tc": "//(0,30)\\\\哦，老天啊！",
+                    "jp": "//(0,30)\\\\いい加減にしてくれ！"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr4620_waiterinkitchen_waiter_male_et_003",
+                "weight": 0.3333333333333333,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4620_waiterinkitchen_waiter_male_et_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4620_waiterinkitchen_waiter_male_et_003.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\You've got to be kidding me!",
+                    "fr": "//(0,30)\\\\C'est pas vrai, c'est une BLAGUE !",
+                    "it": "//(0,30)\\\\Mi state prendendo in giro?",
+                    "de": "//(0,30)\\\\Wollt ihr mich verarschen?",
+                    "es": "//(0,30)\\\\¡Tiene que ser una broma!",
+                    "ru": "//(0,30)\\\\Какой-то кошмар!",
+                    "cn": "//(0,30)\\\\你在开玩笑吧！",
+                    "tc": "//(0,30)\\\\你在開玩笑吧！",
+                    "jp": "//(0,30)\\\\冗談じゃないだろ！"
+                }
+            }
+        ]
+    }
+}

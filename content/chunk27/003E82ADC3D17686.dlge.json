@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_kirroyal/3000_kirroyal_story/dr3657_dhaliareturns.sweetdialog?/dr3657_dhaliareturns_torvik_et_009.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr3657_dhaliareturns_torvik_et_009",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_kirroyal/3000_kirroyal_story/dr3657_dhaliareturns_torvik_et_009.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_kirroyal/3000_kirroyal_story/dr3657_dhaliareturns_torvik_et_009.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\A moment, if you please.",
+            "fr": "//(0,30)\\\\Un instant, si vous voulez bien.",
+            "it": "//(0,30)\\\\Un attimo prego.",
+            "de": "//(0,30)\\\\Kleinen Moment.",
+            "es": "//(0,30)\\\\Un momento, por favor.",
+            "ru": "//(0,30)\\\\Один момент, если вы не против.",
+            "cn": "//(0,30)\\\\等我一下，谢谢。",
+            "tc": "//(0,30)\\\\等我一下，謝謝。",
+            "jp": "//(0,30)\\\\少々お待ちを。"
+        }
+    }
+}

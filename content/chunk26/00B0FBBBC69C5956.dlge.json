@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1654_buseyphonecalls.sweetdialog?/dr1654_buseyphonecalls_busey_et_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr1654_buseyphonecalls_busey_et_001",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1654_buseyphonecalls_busey_et_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1654_buseyphonecalls_busey_et_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,5.032883)\\\\Hello? No, I will not come back to set.//(5.032883,12.02245)\\\\I'm no longer a thespian. I’m a journeyer. A man of the world. Amigo del mundo.//(12.02245,17.49393)\\\\I’ll make my home here amongst the good people of France... or wherever this is...//(17.49393,47.49393)\\\\and live as their king! Au revoir!",
+            "fr": "//(0,0.8)\\\\Allô ?//(1.8,4)\\\\Non, je ne reviendrai pas sur le plateau.//(5,11.2)\\\\Je ne suis plus un acteur, je suis un voyageur, maintenant. Un vagabond du monde.//(11.2,17.3)\\\\Je vais m'installer ici, parmi le bon peuple de France... si c'est bien là que je suis...//(17.3,47.3)\\\\et devenir son roi ! Au revoir !",
+            "it": "//(0,4.962883)\\\\Pronto? No! Non ho intenzione di tornare sul set.//(4.962883,8.207668)\\\\Non sono più un attore. Sono un viaggiatore.//(8.207668,11.73435)\\\\Un cittadino del mondo. Amigo del Mundo.//(11.73435,15.25343)\\\\Mi rifarò una vita qui, tra la brava gente di Francia...//(15.25343,45.25343)\\\\o dovunque mi trovi adesso... e vivrò come un re! Au revoir!",
+            "de": "//(0,1.168098)\\\\Hallo?//(1.168098,5.076687)\\\\Nein! Ich komme nicht zum Set.//(5.076687,6.967178)\\\\Ich bin kein Schauspieler mehr.//(6.967178,11.82577)\\\\Ich bin ein Reisender. Ein Weltenbürger.//(11.82577,15.42485)\\\\Ich werde mich hier bei den guten Menschen von Frankreich niederlassen//(15.42485,17.46963)\\\\– oder wo immer ich hier bin –//(17.46963,19.71963)\\\\und als ihr König leben!//(19.71963,49.71963)\\\\Au Revoir!",
+            "es": "//(0,7.889571)\\\\¿Sí? ¡No! No pienso volver al plató. Ya no soy un actor dramático. Soy un viajante.//(7.889571,17.45)\\\\Un hombre de mundo. Voy a asentarme aquí, con las buenas gentes de Francia, o lo que sea esto,//(17.45,47.45)\\\\¡y viviré como su rey! ¡Au revoir!",
+            "ru": "//(0,1.75)\\\\Алло?//(1.75,5.026687)\\\\Нет! На площадку я возвращаться не собираюсь.//(5.026687,6.95)\\\\Все, я больше не актер.//(6.95,8.40957)\\\\Теперь я странник.//(8.40957,11.7)\\\\Да, пропыленный всеми ветрами странник.//(11.7,15.45)\\\\Поселюсь здесь, среди добрых французов —//(15.45,17.3)\\\\или кто они там —//(17.3,19.6)\\\\и стану их королем!//(19.6,49.6)\\\\Оревуар!",
+            "cn": "//(0,5.032883)\\\\喂？不，我不会回到摄影棚。//(5.032883,12.02245)\\\\我不再是演员了。我是旅客。世界的男人。世界的朋友。//(12.02245,17.49393)\\\\我会把法国当成我的家......无论这地方是哪里......//(17.49393,47.49393)\\\\并且成为他们的王！再见了！",
+            "tc": "//(0,5.032883)\\\\喂？不，我不會回到攝影棚。//(5.032883,12.02245)\\\\我不再是個演員了。我是個旅客。世界的男人。世界的朋友。//(12.02245,17.49393)\\\\我會把法國當成我的家......無論這地方是哪裡......//(17.49393,47.49393)\\\\並且成為他們的王！再見了！",
+            "jp": "//(0,8.159794)\\\\もしもし？ いや、 絶対に セットに 戻らないぞ。 俺は 俳優じゃなくて、 旅人なんだ。 世界を 見る男なんだ。//(8.159794,14.98002)\\\\「地の 果てを 追う男」。 俺は ここに 住みついて、 フランスか...//(14.98002,20.69188)\\\\どこか 知らないが、 現地の 人々の 王として 暮らすつもりだ！ あばよ！"
+        }
+    }
+}

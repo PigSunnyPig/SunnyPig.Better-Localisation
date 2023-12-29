@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1660_buseycole.sweetdialog?/dr1660_buseycole_busey_et_004.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr1660_buseycole_busey_et_004",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1660_buseycole_busey_et_004.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1660_buseycole_busey_et_004.animset].pc_animset",
+        "languages": {
+            "en": "//(0,1.47)\\\\Maybe it's your weird name.//(1.47,31.47)\\\\It’s supposed to be pronounced \"Gary,\" not \"Gary.\"",
+            "fr": "//(0,30)\\\\C'est peut-être à cause de ton prénom. Il se prononce \"Gary\", pas \"’Gary\".",
+            "it": "//(0,30)\\\\Forse è colpa del tuo strano nome. La \"G\" di \"Gary\" non dovrebbe essere aspirata?",
+            "de": "//(0,30)\\\\Das ist bestimmt dein komischer Name. Es heißt „Gary“, nicht „Gary“.",
+            "es": "//(0,30)\\\\Igual es por el nombre tan raro que tienes. Debería pronunciarse \"Gary\", no \"Gary\".",
+            "ru": "//(0,1.7)\\\\Может, дело в твоем идиотском имени?//(1.7,31.7)\\\\Тебя должны звать Гари, а не Гэри.",
+            "cn": "//(0,30)\\\\或许是你的怪名字吧。应该念作“加里”而不是“盖瑞”。",
+            "tc": "//(0,30)\\\\或許是你的怪名字吧。應該唸作「蓋瑞」而不是「蓋瑞」。",
+            "jp": "//(0,30)\\\\お前の変な名前のせいだろうな。「ゲイリー」じゃなくて「ゲイリー」が正しいだろ？"
+        }
+    }
+}
