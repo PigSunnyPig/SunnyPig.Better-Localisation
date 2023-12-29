@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_kirroyal/3000_kirroyal_story/dr3657_dhaliareturns.sweetdialog?/dr3657_dhaliareturns_dahlia_et_008.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr3657_dhaliareturns_dahlia_et_008",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_kirroyal/3000_kirroyal_story/dr3657_dhaliareturns_dahlia_et_008.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_kirroyal/3000_kirroyal_story/dr3657_dhaliareturns_dahlia_et_008.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Happy now, Nila?",
+            "fr": "//(0,30)\\\\Êtes-vous satisfaite, Nila ?",
+            "it": "//(0,30)\\\\Contenta adesso, Nila?",
+            "de": "//(0,30)\\\\Zufrieden, Nila?",
+            "es": "//(0,30)\\\\¿Contenta, Nila?",
+            "ru": "//(0,30)\\\\Довольны, Нила?",
+            "cn": "//(0,30)\\\\这样行了吗，尼拉？",
+            "tc": "//(0,30)\\\\這樣行了嗎，尼拉？",
+            "jp": "//(0,30)\\\\これで満足かしら？"
+        }
+    }
+}

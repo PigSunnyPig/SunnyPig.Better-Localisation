@@ -1,0 +1,24 @@
+{
+  "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+  "hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_margerita/3000_margerita_handler/dr3647_diana.sweetdialog?/dr3647_diana_diana_et_004.sweetdialogitem].pc_dialogevent",
+  "DITL": "00B7E83B2B5BFE20",
+  "CLNG": "00E3CBB0725ED16C",
+  "rootContainer": {
+    "type": "WavFile",
+    "wavName": "dr3647_diana_diana_et_004",
+    "soundtag": "Voiceover_Handler",
+    "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_margerita/3000_margerita_handler/dr3647_diana_diana_et_004.wav].pc_wes",
+    "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_margerita/3000_margerita_handler/dr3647_diana_diana_et_004.animset].pc_animset",
+    "languages": {
+      "en": "//[DIANA_ET]\\\\//(0,30)\\\\Target eliminated. Now locate the Ivory White.",
+      "fr": "//[DIANA_ET]\\\\//(0,30)\\\\Cible éliminée. Maintenant, trouvez le Blanc d'ivoire.",
+      "it": "//[DIANA_ET]\\\\//(0,30)\\\\Bersaglio eliminato. Ora localizza il Bianco Avorio.",
+      "de": "//[DIANA_ET]\\\\//(0,30)\\\\Ziel eliminiert. Suchen Sie jetzt das Elfenbein-Ei.",
+      "es": "//[DIANA_ET]\\\\//(0,30)\\\\Objetivo eliminado. Ahora localiza el Blanco Marfil.",
+      "ru": "//[DIANA_ET]\\\\//(0,30)\\\\Цель уничтожена. Теперь отыщи «Белого слона».",
+      "cn": "//[DIANA_ET]\\\\//(0,30)\\\\目标已被消灭。现在开始寻找象牙白。",
+      "tc": "//[DIANA_ET]\\\\//(0,30)\\\\目標已被消滅。開始尋找象牙白。",
+      "jp": "//[DIANA_ET]\\\\//(0,30)\\\\ターゲットを始末。次はアイボリーホワイトよ。"
+    }
+  }
+}

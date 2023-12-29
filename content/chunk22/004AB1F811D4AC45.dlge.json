@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2612_frydelandguard.sweetdialog?/dr2612_frydelandguard_guard_02_et_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr2612_frydelandguard_guard_02_et_001",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2612_frydelandguard_guard_02_et_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2612_frydelandguard_guard_02_et_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,4.924294)\\\\Um... So, Doc.//(4.924294,34.92429)\\\\That enhancement treatment we discussed...?",
+            "fr": "//(0,30)\\\\Donc, heu, docteur, ce traitement d'augmentation dont on avait parlé...",
+            "it": "//(0,2.268)\\\\Uhm...//(2.268,4.824)\\\\Dunque, dottore.//(4.824,34.824)\\\\Riguardo quel trattamento accrescitivo di cui avevamo parlato...",
+            "de": "//(0,30)\\\\Äh ... also, Doc. Diese Verbesserungsbehandlung, über die wir gesprochen haben ...",
+            "es": "//(2,32)\\\\Entonces, doctor... Sobre ese tratamiento de aumento del que habíamos hablado...",
+            "ru": "//(0,1.55)\\\\Гм!//(2,3.068098)\\\\Доктор.//(4.65,34.65)\\\\Насчет той процедуры по увеличению, о которой мы говорили...",
+            "cn": "//(0,30)\\\\呃......这个......医生。我们讨论的那个增大疗程......？",
+            "tc": "//(0,30)\\\\呃......這個......醫生。我們討論的那個增大療程......？",
+            "jp": "//(0,30)\\\\あの... 以前に話した肥大治療の話なんですが..."
+        }
+    }
+}

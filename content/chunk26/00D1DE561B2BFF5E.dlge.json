@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1660_buseycole.sweetdialog?/dr1660_buseycole_cole_et_007.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr1660_buseycole_cole_et_007",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1660_buseycole_cole_et_007.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1660_buseycole_cole_et_007.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\What?",
+            "fr": "//(0,30)\\\\Quoi ?",
+            "it": "//(0,30)\\\\Che cosa?",
+            "de": "//(0,30)\\\\Was?",
+            "es": "//(0,30)\\\\¿Qué?",
+            "ru": "//(0,30)\\\\Что такое?",
+            "cn": "//(0,30)\\\\什么？",
+            "tc": "//(0,30)\\\\什麼？",
+            "jp": "//(0,30)\\\\はぁ？"
+        }
+    }
+}

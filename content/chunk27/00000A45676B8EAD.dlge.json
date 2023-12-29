@@ -1,0 +1,24 @@
+{
+  "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+  "hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_margerita/3000_margerita_handler/dr3647_diana.sweetdialog?/dr3647_diana_diana_et_003.sweetdialogitem].pc_dialogevent",
+  "DITL": "00B7E83B2B5BFE20",
+  "CLNG": "00E3CBB0725ED16C",
+  "rootContainer": {
+    "type": "WavFile",
+    "wavName": "dr3647_diana_diana_et_003",
+    "soundtag": "Voiceover_Handler",
+    "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_margerita/3000_margerita_handler/dr3647_diana_diana_et_003.wav].pc_wes",
+    "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_margerita/3000_margerita_handler/dr3647_diana_diana_et_003.animset].pc_animset",
+    "languages": {
+      "en": "//[DIANA_ET]\\\\//(0,1.724294)\\\\Good afternoon, 47.//(1.724294,6.114)\\\\Your target has been spotted on the ground floor and should be easy enough to recognize.//(6.114,9.751)\\\\We have not yet discovered the location of the Ivory White, however.//(9.751,12.751)\\\\Good hunting, 47.",
+      "fr": "//[DIANA_ET]\\\\//(0,1.6)\\\\Bonjour, 47.//(1.6,6.4)\\\\Votre cible a été aperçue au rez-de-chaussée, vous ne devriez pas avoir de mal à la reconnaître.//(6.4,10.4)\\\\Mais nous ne savons pas encore où se trouve le Blanc d'ivoire.//(10.4,13.4)\\\\Bonne chasse, 47.",
+      "it": "//[DIANA_ET]\\\\//(0,1.724294)\\\\Buon pomeriggio, 47.//(1.724294,4.11908)\\\\Il bersaglio è stato avvistato al piano terra.//(4.11908,6.659571)\\\\Non avrai problemi a riconoscerlo.//(6.659571,10.51055)\\\\Purtroppo, non sappiamo ancora dove si trovi il Bianco Avorio.//(10.51055,13.51055)\\\\Buona caccia, 47.",
+      "de": "//[DIANA_ET]\\\\//(0,1.356196)\\\\Hallo, 47.//(1.356196,6.273374)\\\\Ihr Ziel wurde im Erdgeschoss gesehen und dürfte leicht zu erkennen sein.//(6.273374,10.14245)\\\\Allerdings wissen wir bis jetzt nicht, wo das Elfenbein-Ei versteckt ist.//(10.14245,13.14245)\\\\Waidmanns Heil, 47.",
+      "es": "//[DIANA_ET]\\\\//(0,6.5)\\\\Buenas tardes, 47. Han visto a tu objetivo en la planta baja, y debería ser fácil reconocerlo.//(6.5,10.7)\\\\No obstante, aún no hemos descubierto la ubicación del Blanco Marfil.//(10.7,13.7)\\\\Buena caza, 47.",
+      "ru": "//[DIANA_ET]\\\\//(0,1.724294)\\\\Добрый день, 47-й.//(1.724294,6.405276)\\\\Цель замечена на первом этаже. Узнать ее будет достаточно просто.//(6.405276,9.970062)\\\\Однако мы пока не знаем, где «Белый слон».//(9.970062,13.97006)\\\\Доброй охоты, 47-й.",
+      "cn": "//[DIANA_ET]\\\\//(0,1.724)\\\\下午好，47。//(1.724,6.114)\\\\目标在底楼被发现了，并且应该很容易认出。//(6.114,9.751)\\\\不过我们却没有发现象牙白的位置。//(9.751,12.751)\\\\狩猎愉快，47。",
+      "tc": "//[DIANA_ET]\\\\//(0,1.724)\\\\午安，47。//(1.724,6.114)\\\\目標在底樓被發現了，並且應該很容易認出。//(6.114,9.751)\\\\不過我們卻沒有發現象牙白的位置。//(9.751,12.751)\\\\狩獵愉快，47。",
+      "jp": "//[DIANA_ET]\\\\//(0,7.569027)\\\\ごきげんよう、 47。 ターゲットが 1階で 発見されたわ。 近くに 行けば わかるはずよ。 けど、//(7.569027,11.77404)\\\\アイボリーホワイトの 隠し場所は まだわかってないの。 成功を 祈ってる。"
+    }
+  }
+}

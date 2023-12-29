@@ -1,0 +1,24 @@
+{
+  "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+  "hash": "[assembly:/localization/hitman6/conversations/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1652_commercial.sweetdialog?/dr1652_commercial_crew01_et_001.sweetdialogitem].pc_dialogevent",
+  "DITL": "00B7E83B2B5BFE20",
+  "CLNG": "00E3CBB0725ED16C",
+  "rootContainer": {
+    "type": "WavFile",
+    "wavName": "dr1652_commercial_crew01_et_001",
+    "soundtag": "In-world_Mission_Normal",
+    "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1652_commercial_crew01_et_001.wav].pc_wes",
+    "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1652_commercial_crew01_et_001.animset].pc_animset",
+    "languages": {
+      "en": "//(0,3.962883)\\\\It’s a shame this production is getting shut down.//(3.962883,33.96288)\\\\I can’t think of a more beautiful backdrop for a masculine hygiene ad.",
+      "fr": "//(0,4.05)\\\\Dommage que cette production soit annulée.//(4.05,34.05)\\\\Je ne connais pas de meilleur endroit pour une pub de produit d'hygiène pour homme.",
+      "it": "//(0,3.862883)\\\\È un peccato che le riprese siano state annullate.//(3.862883,33.86288)\\\\Non esiste scenario più adatto per la pubblicità di un prodotto per l'igiene maschile.",
+      "de": "//(0,3.196687)\\\\Ein Jammer, dass diese Produktion gestoppt wird.//(3.196687,33.19669)\\\\Ich könnte mir keine schönere Kulisse für einen Spot für Männerhygiene vorstellen.",
+      "es": "//(0,3.076687)\\\\Es una pena que cancelen esta producción.//(3.076687,33.07669)\\\\No se me ocurre un telón de fondo mejor para un anuncio de higiene para hombres.",
+      "ru": "//(0,4.1)\\\\Жаль, что съемка отменяется.//(4.1,34.1)\\\\Вот где мы еще такой фон для рекламы всякого мыльно-рыльного найдем!",
+      "cn": "//(0,30)\\\\遗憾的是，这部剧被迫停拍了。这个美丽的背景太适合男性清洁广告了。",
+      "tc": "//(0,30)\\\\真是可惜這個製作會停滯。這個美麗的背景太適合男性清潔廣告了。",
+      "jp": "//(0,5.794097)\\\\この製作が 中止に なるなんて、 本当に残念だ。 爽やかマッチョな広告を 作るのに、//(5.794097,8.691146)\\\\これ以上美しい舞台を 用意できそうに ないよ。"
+    }
+  }
+}

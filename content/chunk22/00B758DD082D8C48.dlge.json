@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2612_frydelandguard.sweetdialog?/dr2612_frydelandguard_frydel_et_012.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr2612_frydelandguard_frydel_et_012",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2612_frydelandguard_frydel_et_012.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2612_frydelandguard_frydel_et_012.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Oh, nothing... I’ll get you the damn steroids, don’t worry.",
+            "fr": "//(0,30)\\\\Oh, de rien. Vous les aurez, vos anabolisants, ne vous en faites pas.",
+            "it": "//(0,30)\\\\No, niente... Ti procurerò gli steroidi, tranquillo.",
+            "de": "//(0,30)\\\\Oh, nichts ... Sie kriegen Ihre verdammten Steroide, keine Sorge.",
+            "es": "//(0,30)\\\\Oh, nada... Te conseguiré los malditos esteroides, no te preocupes.",
+            "ru": "//(0,30)\\\\О, забудьте... А стероиды я достану, не сомневайтесь.",
+            "cn": "//(0,30)\\\\哦，没什么......我会给你开些该死的类固醇，别担心。",
+            "tc": "//(0,30)\\\\哦，沒什麼......我會給你開些該死的類固醇，別擔心。",
+            "jp": "//(0,30)\\\\大丈夫... すぐにステロイドを用意するから。"
+        }
+    }
+}

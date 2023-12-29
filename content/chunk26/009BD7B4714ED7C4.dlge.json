@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1657_touristanecdotes.sweetdialog?/dr1657_touristanecdotes_tourist_et_003.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr1657_touristanecdotes_tourist_et_003",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1657_touristanecdotes_tourist_et_003.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1657_touristanecdotes_tourist_et_003.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Gary Busey just asked me to marry him and then ran away.",
+            "fr": "//(0,30)\\\\Gary Busey m'a demandé de l'épouser, et puis il est parti en courant.",
+            "it": "//(0,30)\\\\Gary Busey mi ha chiesto di sposarlo ed è scappato via.",
+            "de": "//(0,30)\\\\Gary Busey hat mir gerade einen Heiratsantrag gemacht und ist dann weggerannt.",
+            "es": "//(0,30)\\\\Gary Busey me acaba de pedir matrimonio y luego se ha escaqueado.",
+            "ru": "//(0,30)\\\\Гэри Бьюзи только что позвал меня замуж и убежал...",
+            "cn": "//(0,30)\\\\加里·布西刚刚叫我嫁给他然后跑了。",
+            "tc": "//(0,30)\\\\蓋瑞．布希剛剛叫我嫁給他然後跑了。",
+            "jp": "//(0,30)\\\\ゲイリー・ビジーが俺に求婚して、すぐに走り去ったんだ。"
+        }
+    }
+}

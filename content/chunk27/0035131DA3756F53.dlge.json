@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_shandy/3000_shandy_story/dr3672_guardshint.sweetdialog?/dr3672_guardshint_guard_2_et_002.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr3672_guardshint_guard_2_et_002",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_shandy/3000_shandy_story/dr3672_guardshint_guard_2_et_002.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_shandy/3000_shandy_story/dr3672_guardshint_guard_2_et_002.animset].pc_animset",
+        "languages": {
+            "en": "//(0,5)\\\\He’s a guest. Margolis made the arrangements.",
+            "fr": "//(0,5)\\\\C'est un invité. Margolis a tout validé.",
+            "it": "//(0,5)\\\\È un ospite. Ha organizzato tutto Dalia Margolis.",
+            "de": "//(0,5)\\\\Er ist ein Gast. Margolis hat alles arrangiert.",
+            "es": "//(0,5)\\\\Es un invitado. Margolis se encargó de los preparativos.",
+            "ru": "//(0,5)\\\\Он наш гость. Марголис все устроила.",
+            "cn": "//(0,5)\\\\他是客人。玛戈利斯安排的。",
+            "tc": "//(0,5)\\\\他是客人。馬戈利斯安排的。",
+            "jp": "//(0,5)\\\\彼はゲストだ。マーゴリスが招待した。"
+        }
+    }
+}

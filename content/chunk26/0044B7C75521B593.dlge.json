@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1656_buseylandmark.sweetdialog?/dr1656_buseylandmark_busey_et_004.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr1656_buseylandmark_busey_et_004",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1656_buseylandmark_busey_et_004.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1656_buseylandmark_busey_et_004.animset].pc_animset",
+        "languages": {
+            "en": "//(0,3.26)\\\\When I was a boy, my daddy used to cut my hair with a hacksaw.//(3.26,5.05)\\\\Times were much simpler then.//(5.8,35.8)\\\\I should get a hacksaw.",
+            "fr": "//(0,2.9)\\\\Quand j'étais petit, mon père me coupait les cheveux à la scie à métaux.//(2.9,32.9)\\\\La vie était plus simple, à l'époque. Il faudrait que je me trouve une scie à métaux.",
+            "it": "//(0,3.155276)\\\\Quando ero un ragazzino, mio padre mi tagliava i capelli con un seghetto.//(3.155276,33.15528)\\\\La vita era più semplice, allora. Dovrei procurarmi un seghetto.",
+            "de": "//(0,3.035276)\\\\Als Junge hat mein Vater mir immer die Haare mit einer Eisensäge geschnitten.//(3.035276,5)\\\\Alles war einfacher damals.//(6,36)\\\\Ich brauche eine Eisensäge.",
+            "es": "//(0,5.7)\\\\Cuando era niño, mi padre solía cortarme el pelo con una sierra. Todo era más fácil en aquel entonces.//(5.7,35.7)\\\\Debería pillarme una sierra...",
+            "ru": "//(0,3.208589)\\\\В детстве папка стриг меня ножовкой.//(3.208589,4.89908)\\\\Тогда все было гораздо проще.//(5.85,35.85)\\\\Куплю-ка я себе ножовку.",
+            "cn": "//(0,3.26)\\\\我小时候，我老爸曾用钢锯给我剪头发。//(3.26,5.05)\\\\那年头可真是简单多了。//(5.8,35.8)\\\\我也应该找把钢锯。",
+            "tc": "//(0,3.26)\\\\我小時候，我老爸曾用鋸子給我剪頭髮。//(3.26,5.05)\\\\那年頭可真是簡單多了。//(5.8,35.8)\\\\我也應該找把鋸子。",
+            "jp": "//(0,30)\\\\俺が 子どもの 頃、 親父が 弓ノコを 使って 俺の 髪を セットして くれた。 昔は シンプルだったんだな。"
+        }
+    }
+}

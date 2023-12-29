@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4612_intelligencemeeting.sweetdialog?/dr4612_intelligencemeeting_intelligence_agent_et_016.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr4612_intelligencemeeting_intelligence_agent_et_016",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4612_intelligencemeeting_intelligence_agent_et_016.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4612_intelligencemeeting_intelligence_agent_et_016.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\You think she was assassinated? By whom!?",
+            "fr": "//(0,30)\\\\Tu crois qu'elle a été assassinée ? Par qui ?",
+            "it": "//(0,30)\\\\Credi che sia stata assassinata? E da chi?",
+            "de": "//(0,30)\\\\Du denkst, sie wurde ermordet? Von wem?",
+            "es": "//(0,30)\\\\¿Crees que fue asesinada? ¡¿Quién lo hizo?!",
+            "ru": "//(0,2.092393)\\\\Ты думаешь, ее убили?//(2.092393,32.09239)\\\\Но кто?",
+            "cn": "//(0,30)\\\\你认为她是被暗杀的？被谁呢？",
+            "tc": "//(0,30)\\\\你認為她是被暗殺的？被誰呢？",
+            "jp": "//(0,30)\\\\彼女が暗殺されたと思うのか？ 誰がやった？"
+        }
+    }
+}

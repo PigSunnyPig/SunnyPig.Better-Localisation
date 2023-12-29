@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_kirroyal/3000_kirroyal_story/dr3652_torviktalkingtoguard.sweetdialog?/dr3652_torviktalkingtoguard_torvik_et_002.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr3652_torviktalkingtoguard_torvik_et_002",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_kirroyal/3000_kirroyal_story/dr3652_torviktalkingtoguard_torvik_et_002.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_kirroyal/3000_kirroyal_story/dr3652_torviktalkingtoguard_torvik_et_002.animset].pc_animset",
+        "languages": {
+            "en": "//(0,1.83)\\\\I want to spend as little time here as possible.//(1.83,31.83)\\\\Let’s not dawdle.",
+            "fr": "//(0,30)\\\\Je veux passer le moins de temps possible ici. Ne traînons pas.",
+            "it": "//(0,30)\\\\Non ho intenzione di rimanere molto. Non perdiamo tempo.",
+            "de": "//(0,30)\\\\Ich möchte das hier schnell erledigen. Lassen Sie uns keine Zeit vergeuden.",
+            "es": "//(0,30)\\\\Quiero pasar el menor tiempo posible aquí. No nos entretengamos.",
+            "ru": "//(0,2)\\\\Мне не хотелось бы задерживаться здесь дольше, чем это нужно.//(2,32)\\\\Не будем терять время!",
+            "cn": "//(0,30)\\\\我想尽早离开这里。我们开门见山吧。",
+            "tc": "//(0,30)\\\\我想盡早離開這裡。我們開門見山吧。",
+            "jp": "//(0,30)\\\\できるだけ早くここを出ましょう。時間の無駄だわ。"
+        }
+    }
+}

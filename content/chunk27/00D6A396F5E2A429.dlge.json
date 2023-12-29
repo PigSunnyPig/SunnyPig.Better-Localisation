@@ -1,0 +1,24 @@
+{
+  "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+  "hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_margerita/3000_margerita_story/dr3646_moxonentrancemumble.sweetdialog?/dr3646_moxonentrancemumble_moxon_et_001.sweetdialogitem].pc_dialogevent",
+  "DITL": "00B7E83B2B5BFE20",
+  "CLNG": "00E3CBB0725ED16C",
+  "rootContainer": {
+    "type": "WavFile",
+    "wavName": "dr3646_moxonentrancemumble_moxon_et_001",
+    "soundtag": "In-world_Mission_Normal",
+    "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_margerita/3000_margerita_story/dr3646_moxonentrancemumble_moxon_et_001.wav].pc_wes",
+    "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_margerita/3000_margerita_story/dr3646_moxonentrancemumble_moxon_et_001.animset].pc_animset",
+    "languages": {
+      "en": "//(1.45,4.508589)\\\\He better not waste my time.//(4.508589,8.437178)\\\\I have powerful friends, you know!//(8.437178,13.23718)\\\\\"Rule Britannia, Britannia...\" and so on.//(13.23718,19.22006)\\\\And what do you have, hm? You hillbilly Norwegians.//(19.22006,49.22006)\\\\Oh, God, I want this deal!",
+      "fr": "//(1.9,8.7)\\\\Il n'a pas intérêt à me faire perdre mon temps... Mes amis ont le bras long, vous savez !//(8.7,13.6)\\\\L'Angleterre vaincra, etc. , etc.//(13.6,19)\\\\Et vous, vous pouvez compter sur quoi ? Des bouseux de Norvégiens ?//(19,49)\\\\Oh mon Dieu... Pourvu que ça marche...",
+      "it": "//(1.65,8.555276)\\\\Guai a lui se mi fa perdere tempo... Ho amici molto potenti, io!//(8.555276,13.44767)\\\\Rule, Britannia! Britannia... Eccetera...//(13.44767,19.158)\\\\E voi cos'avete, buzzurri norvegesi?//(19.158,49.158)\\\\Dio, quanto vorrei chiudere questo accordo...",
+      "de": "//(0,4.478589)\\\\Wehe, der Kerl lässt mich warten.//(4.478589,7.839)\\\\Ich habe mächtige Freunde, verdammt.//(7.839,13.03577)\\\\Rule Britannia, Britannia ... und so weiter.//(13.03577,17.736)\\\\Und was habt ihr ... hinterwäldlerische Norweger?//(18.736,48.736)\\\\Oh Gott ... ich will diesen Deal durchziehen ...",
+      "es": "//(1.8,8.8)\\\\Será mejor que no me haga perder el tiempo... Tengo amigos poderosos, ¿sabes?//(8.8,13.6)\\\\Larga vida, larga vida a Gran Bretaña, tararí, tarará...//(13.6,19)\\\\¿Y qué tienes tú? ¿Noruegos paletos?//(19,49)\\\\Ay, Dios... Quiero llegar a un acuerdo...",
+      "ru": "//(2,4.5)\\\\Зря он тратит мое время...//(4.5,8.9)\\\\у меня есть влиятельные друзья!//(8.9,13.6)\\\\Правь, Британия, морями... и так далее.//(13.6,19.1)\\\\А что у вас есть, норвежцы неотесанные?...//(19.1,49.1)\\\\Боже, как мне нужна эта сделка!...",
+      "cn": "//(1.45,4.509)\\\\他最好别来浪费我的时间。//(4.509,8.437)\\\\我可是有有权有势的朋友呢！//(8.437,13.237)\\\\“统治吧，不列颠尼亚！”//(13.237,19.22)\\\\这样。你呢，你有什么？。一群挪威的乡下人。//(19.22,49.22)\\\\天啊，我想要谈成！",
+      "tc": "//(1.45,4.509)\\\\他最好別來浪費我的時間。//(4.509,8.437)\\\\我可是有有權有勢的朋友呢！//(8.437,13.237)\\\\「統治吧，不列顛尼亞！」//(13.237,19.22)\\\\這樣。你呢，你有什麼？。一群挪威的鄉下人。//(19.22,49.22)\\\\天啊，我想要談成！",
+      "jp": "//(0,12.82981)\\\\いつに なったら来るんだ？ 私には 権力者の 友人が いるんだぞ！ 「統べよ、 ブリタニア、 ブリタニア...」//(12.82981,21.5)\\\\だったっけ。 どういうつもりだ？ 田舎者の ノルウェー人め。 くそ、 絵を 売りたいのに！"
+    }
+  }
+}

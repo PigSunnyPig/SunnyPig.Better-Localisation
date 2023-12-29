@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4615_tablearrival.sweetdialog?/dr4615_tablearrival_dictators_wife_et_004.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr4615_tablearrival_dictators_wife_et_004",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4615_tablearrival_dictators_wife_et_004.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4615_tablearrival_dictators_wife_et_004.animset].pc_animset",
+        "languages": {
+            "en": "//(0,3)\\\\I had a maid who didn’t bring me my dinner once.//(3,5.2)\\\\Only once.//(5.2,8.2)\\\\She didn’t carry anything after that.//(8.2,38.2)\\\\Would you like to explain where our food is?",
+            "fr": "//(0,2.95)\\\\Un jour, une de mes servantes m'a apporté mon dîner en retard.//(3.6,5.4)\\\\Ça a été la seule fois.//(5.4,35.4)\\\\Elle n'a plus jamais rien porté après ça. Tu peux nous dire où sont nos plats ?",
+            "it": "//(0,3.662883)\\\\Una volta una cameriera dimenticò di portarmi la cena.//(3.662883,8.745767)\\\\Una volta sola. E fu anche l'ultima, quella sera.//(8.745767,38.74577)\\\\Ora mi spiegheresti dov'è finito il nostro cibo?",
+            "de": "//(0,3.45)\\\\Ich hatte mal ein Mädchen, das mein Essen nicht rechtzeitig serviert hat.//(3.45,8.981963)\\\\Nur einmal. Danach hat es nie wieder serviert.//(8.981963,38.98196)\\\\Würden Sie mir freundlicherweise sagen, wo unser Essen bleibt?",
+            "es": "//(0,7.8)\\\\Tuve una criada que una vez no me llevó la cena. Solo una vez. Ya no volvió a llevar nada desde entonces.//(9,39)\\\\¿Me cuentas qué pasa con nuestra comida?",
+            "ru": "//(0,5.345)\\\\Однажды служанка не принесла мне ужин. Только однажды.//(5.345,8.958)\\\\С тех пор она уже ничего никому не носит.//(8.958,38.958)\\\\Вы не подскажете, где наша еда?",
+            "cn": "//(0,8.2)\\\\我曾有一名女佣没把我的晚餐端来。初犯之后......她就什么东西也端不了了。//(8.2,38.2)\\\\你能端出我们的食物了吗？",
+            "tc": "//(0,8.2)\\\\我曾有一名女傭沒把我的晚餐端來。初犯之後......她就什麼東西也端不了了。//(8.2,38.2)\\\\（尖酸）你能端出我們的食物了嗎？",
+            "jp": "//(0,9.046832)\\\\一度だけ、 夕食を 持って こなかった使用人が いた。 その一件で、 彼女は クビよ。 さて、 私たちの 食事は//(9.046832,11.28113)\\\\どうしたのかしら？"
+        }
+    }
+}

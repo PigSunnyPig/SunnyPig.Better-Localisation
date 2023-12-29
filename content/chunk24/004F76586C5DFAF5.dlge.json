@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4613_officephonecall.sweetdialog?/dr4613_officephonecall_dictator_et_003.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr4613_officephonecall_dictator_et_003",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4613_officephonecall_dictator_et_003.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4613_officephonecall_dictator_et_003.animset].pc_animset",
+        "languages": {
+            "en": "//(0,1.47)\\\\What have you learned?//(1.47,4.6)\\\\She did what? With whom?//(4.6,7.4)\\\\I’ll kill her! On the plane!//(7.4,37.4)\\\\No, I don’t care! Put plastic on the floor!",
+            "fr": "//(0,1.95)\\\\Qu'est-ce que tu as découvert ?//(1.95,31.95)\\\\Elle a fait quoi ? Avec qui ? Je vais la TUER ! Dans l'avion ! Non, je m'en fous ! Recouvre le sol de plastique !",
+            "it": "//(0,3.694785)\\\\Che cosa hai scoperto? Lei ha fatto cosa?//(3.694785,6.767178)\\\\Con chi? La ucciderò!//(6.767178,8.859571)\\\\Sull'aereo! No, non m'importa!//(8.859571,38.85957)\\\\Copri il pavimento con della plastica!",
+            "de": "//(0,4.812883)\\\\Was hast du rausgefunden? Sie hat was? Mit wem?//(4.812883,34.81288)\\\\Ich bring sie um! Im Flugzeug! Nein, das ist mir egal. Leg einfach Plastikfolie aus.",
+            "es": "//(0,5.2)\\\\¿Qué has descubierto? ¿Que hizo qué? ¿Con quién?//(5.2,35.2)\\\\¡Yo la mato! ¡En el avión! ¡No, me da igual! ¡Cubre el suelo de plástico!",
+            "ru": "//(0,4.444785)\\\\Что ты узнал? Что она сделала?! С кем?//(4.444785,34.44479)\\\\Я ее убью! На самолете! Нет, мне плевать! Подстели что-нибудь!",
+            "cn": "//(0,1.47)\\\\你找到了什么讯息？//(1.47,4.6)\\\\她做了什么？跟谁？//(4.6,7.4)\\\\我要杀了她！在飞机上！//(7.4,37.4)\\\\不，我不管！在地板上铺上塑料布！",
+            "tc": "//(0,1.47)\\\\你找到了什麼訊息？//(1.47,4.6)\\\\她什麼？跟誰？//(4.6,7.4)\\\\（爆怒）我要殺了她！在飛機上！//(7.4,37.4)\\\\不，我不管！在地上鋪好塑膠！",
+            "jp": "//(0,30)\\\\何か わかったか？ 彼女が 何を した？ 誰と いた？ ぶっ殺して やる！ 飛行機の 中で だ！ いや、 どうでも いい！"
+        }
+    }
+}

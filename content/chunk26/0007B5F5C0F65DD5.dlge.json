@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1658_buseydemons.sweetdialog?/dr1658_buseydemons_busey_et_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr1658_buseydemons_busey_et_001",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1658_buseydemons_busey_et_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1658_buseydemons_busey_et_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,2.2)\\\\There’s evil here, from ancient times.//(2.2,5)\\\\Specifically, ancient Roman times.//(5,8.45)\\\\Wednesday, March 19th, 47 B. C.//(8.45,38.45)\\\\But it can be banished!",
+            "fr": "//(0,30)\\\\Le mal règne ici. Un mal ancien. De l'époque romaine. Le 19 mars 47 avant J. C. Mais on peut le contrer !",
+            "it": "//(0,2.708589)\\\\Avverto la presenza di un'entità malvagia.//(2.708589,9.113865)\\\\Proviene da un'altra epoca, dall'antica Roma... Mercoledì 19 marzo del 47 a. C.//(9.113865,39.11386)\\\\Ma può essere allontanata!",
+            "de": "//(0,2.326687)\\\\Hier wohnt etwas Böses. Aus uralter Zeit.//(2.326687,5.423375)\\\\Aus römischer Zeit, um genau zu sein.//(5.423375,8.97196)\\\\Mittwoch, 19. März, 47 vor Christus.//(8.97196,38.97196)\\\\Aber man kann es verbannen!",
+            "es": "//(0,5.45)\\\\Aquí hay un mal que se remonta a tiempos antiguos. A la antigua Roma, concretamente.//(5.45,35.45)\\\\Al miércoles 19 de marzo del 47 a. c. , ¡pero puede desterrarse!",
+            "ru": "//(0,2.75)\\\\Я чую зло. Древнее зло.//(2.75,5.63)\\\\Зло из Древнего Рима.//(5.63,8.919)\\\\Зло с 47 года до нашей эры. Март, 19 число, среда.//(8.919,38.919)\\\\Но это зло можно прогнать!",
+            "cn": "//(0,2.2)\\\\自古以来，这里便已存邪恶。//(2.2,5)\\\\特别是古罗马时期，//(5,8.45)\\\\公元前47年3月19日星期三，//(8.45,38.45)\\\\但这邪恶是可以赶走的！",
+            "tc": "//(0,2.2)\\\\自從古時候，那裡便發生了許多邪惡之事。//(2.2,5)\\\\特別是古羅馬時期。//(5,8.45)\\\\西元前47年三月19日星期三//(8.45,38.45)\\\\可是它能夠被驅逐！",
+            "jp": "//(0,6.942362)\\\\ここには 古代の 悪が 住みついて いる。 正確には 古代ローマ時代、 紀元前47年、 3月19日の//(6.942362,10.79923)\\\\水曜日から だ。 しかし、 滅ぼすことは できるぞ！"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_shandy/3000_shandy_story/dr3673_dressingroomhint.sweetdialog?/dr3673_dressingroomhint_et_stylist01_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr3673_dressingroomhint_et_stylist01_001",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_shandy/3000_shandy_story/dr3673_dressingroomhint_et_stylist01_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_shandy/3000_shandy_story/dr3673_dressingroomhint_et_stylist01_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,1.054294)\\\\Where is he?//(1.054294,5.121472)\\\\Did that boy take him? I swear, I cannot work like this!//(5.121472,8.18865)\\\\Did that boy steal him away to that party in the back?//(8.18865,13.18865)\\\\He needs to go on the runway! He needs to go on the runway now!",
+            "fr": "//(0,2.5)\\\\Où il est passé ? C'est ce gamin qui l'a emmené ?//(2.5,5.4)\\\\C'est pas vrai ! Comment vous voulez que je travaille, moi, après !//(5.4,8.1)\\\\C'est le gamin qui l'a emmené pour sa fête, c'est ça ?//(8.1,13.1)\\\\On l'attend sur le podium... On l'attend sur le podium tout de suite !",
+            "it": "//(0,2.540491)\\\\Dov'è? L'ha preso quel ragazzo?//(2.540491,5.19908)\\\\Santo cielo! Non posso lavorare così!//(5.19908,7.961963)\\\\L'ha preso e l'ha portato alla festa sul retro?//(7.961963,10.43436)\\\\Deve salire in passerella.//(10.43436,14.43436)\\\\Deve salire in passerella subito!",
+            "de": "//(0,2.494785)\\\\Wo ist er? Hat ihn dieser Kerl mitgenommen?//(2.494785,5.403374)\\\\Verdammt! Ich kann so nicht arbeiten!//(5.403374,7.816257)\\\\Hat ihn der Kerl etwa zu dieser Party mitgeschleift?//(7.816257,14.81626)\\\\Er muss auf den Laufsteg! Und zwar jetzt! Auf der Stelle!",
+            "es": "//(0,2.5)\\\\¿Dónde está? ¿Se lo ha llevado ese chico?//(2.5,8.1)\\\\¡Juro que no puedo trabajar así! ¿Se lo ha llevado a esa fiesta de atrás?//(8.1,13.1)\\\\Tiene que estar en la pasarela. ¡Tiene que subir a la pasarela ya!",
+            "ru": "//(0,1.1)\\\\Где он?//(1.1,2.6)\\\\Его этот парень забрал?//(2.6,5.4)\\\\Я не могу так работать!//(5.4,8.2)\\\\Этот сопляк увел его на свою вечеринку в задней части?//(8.2,10.4)\\\\Он мне нужен на подиуме!//(10.4,40.4)\\\\У него выход прямо сейчас!",
+            "cn": "//(0,7.881328)\\\\他在哪里？他是被那小子带走了吗？我这要怎么工作！那小子是不是把他带到后面的派对了？//(7.881328,12.61012)\\\\他可是得上展台的啊！他可是现在就得上展台的啊！",
+            "tc": "//(0,7.881328)\\\\他在哪裡？他是被那小子帶走了嗎？我這是要怎麼工作！那小子是不是把他帶到後面的派對了？//(7.881328,12.61012)\\\\他可是得上伸展台的啊！他可是現在就得上伸展台的啊！",
+            "jp": "//(0,7.881328)\\\\モデルは どこだ？ あいつが 連れて 行ったのか？ これじゃ 仕事に ならない！ モデルを 連れ出して//(7.881328,12.61012)\\\\裏で パーティーを やってるのか？ もうすぐ出番なのに！ ランウェイを 歩かなきゃいけないんだぞ！"
+        }
+    }
+}

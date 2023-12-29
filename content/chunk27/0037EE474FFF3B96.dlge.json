@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_shandy/3000_shandy_story/dr3677_jbjphonecall.sweetdialog?/dr3677_jbjphonecall_jbj_et_004.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr3677_jbjphonecall_jbj_et_004",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_shandy/3000_shandy_story/dr3677_jbjphonecall_jbj_et_004.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_shandy/3000_shandy_story/dr3677_jbjphonecall_jbj_et_004.animset].pc_animset",
+        "languages": {
+            "en": "//(0,5)\\\\No, you didn’t make me! Fuck you, man! I owe you nothing!",
+            "fr": "//(0,5)\\\\Non. T'as rien fait du tout ! Va te faire foutre ! Je te dois rien du tout !",
+            "it": "//(0,5)\\\\No. Non è merito tuo! Vaffanculo, bello! Io non ti devo niente!",
+            "de": "//(0,1.177)\\\\Nein. Du hast mich nicht groß gemacht.//(1.177,5.177)\\\\Fick dich, Mann. Ich schulde dir gar nichts!",
+            "es": "//(0,5)\\\\No. ¡No es gracias a ti! ¡Que te jodan, tío! ¡No te debo nada!",
+            "ru": "//(0,5)\\\\Нет. Ты не сделал меня. Да пошел ты! Ничего я тебе не должен!",
+            "cn": "//(0,6)\\\\不，我不是你捧出来的！去你妈的，老兄！我什么也不欠你！",
+            "tc": "//(0,6)\\\\不，我不是你捧出來的！去你的，老兄！我什麼也不欠你！",
+            "jp": "//(0,5)\\\\あんたのおかげだと！？ ふざけんな！ 貸しなんてねえよ！"
+        }
+    }
+}

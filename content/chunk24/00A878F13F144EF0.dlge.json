@@ -1,0 +1,125 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4618_food_inez.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "dr4618_food_inez_dictators_wife_et_001",
+                "weight": 0.1666666368643425,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4618_food_inez_dictators_wife_et_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4618_food_inez_dictators_wife_et_001.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Very well, bring us the poached quails eggs with scallops and caviar.",
+                    "fr": "//(0,1)\\\\Très bien,//(2.05,32.05)\\\\apportez-nous les oeufs de caille pochés aux coquilles Saint-Jacques et au caviar.",
+                    "it": "//(0,30)\\\\D'accordo, ci porti le uova di quaglia in camicia con capesante e caviale.",
+                    "de": "//(0,30)\\\\Also schön. Bringen Sie uns die pochierten Wachteleier mit Jacobsmuscheln und Kaviar.",
+                    "es": "//(0,30)\\\\Muy bien, queremos unos huevos de codorniz cocidos con vieiras y caviar.",
+                    "ru": "//(0,2)\\\\Хорошо.//(2,32)\\\\Принесите пошированные яйца куропатки с гребешками и икрой.",
+                    "cn": "//(0,30)\\\\好吧，给我们来些水煮鹌鹑蛋配扇贝和鱼子酱",
+                    "tc": "//(0,30)\\\\好吧，給我來些水波鵪鶉蛋佐干貝和魚子醬。",
+                    "jp": "//(0,30)\\\\そうね、うずら卵のポーチドエッグ、ホタテ貝とキャビア添えをちょうだい。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr4618_food_inez_dictators_wife_et_002",
+                "weight": 0.1666666368643425,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4618_food_inez_dictators_wife_et_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4618_food_inez_dictators_wife_et_002.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\This. The clam arrangement with shallots and jasmine preserve.",
+                    "fr": "//(0,30)\\\\Ceci. Les palourdes au confit d'échalotes au jasmin.",
+                    "it": "//(0,30)\\\\Questo. Sauté di vongole con scalogno e conserva al gelsomino.",
+                    "de": "//(0,30)\\\\Ich nehme das hier. Das Miesmuschel-Arrangement mit Schalotten und Jasmin-Jus.",
+                    "es": "//(0,30)\\\\Esto. El preparado de almejas con chalotes y mermelada de jazmín.",
+                    "ru": "//(0,1.604294)\\\\Давайте вот это.//(1.604294,31.60429)\\\\Ассорти моллюсков с луком-шалот и жасминовым джемом.",
+                    "cn": "//(0,30)\\\\这个。蛤蜊摆盘配香葱和茉莉花蜜饯。",
+                    "tc": "//(0,30)\\\\這個。蚌殼裝盤佐青蔥和醃製茉莉花。",
+                    "jp": "//(0,30)\\\\これにしましょう。エシャロットとジャスミン漬けのクラム・アレンジメントよ。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr4618_food_inez_dictators_wife_et_003",
+                "weight": 0.1666666368643425,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4618_food_inez_dictators_wife_et_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4618_food_inez_dictators_wife_et_003.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Oh, I’m sure you’ll have this! The savory lamb with toasted almonds and lemon juice.",
+                    "fr": "//(0,2.95)\\\\Oh, je suis certaine que vous aurez ceci.//(2.95,32.95)\\\\L'agneau aux amandes grillées et au jus de citron.",
+                    "it": "//(0,2.628589)\\\\Oh, questo lo avete di sicuro!//(2.628589,32.62859)\\\\L'agnello saporito al limone con mandorle tostate.",
+                    "de": "//(0,30)\\\\Oh, das hier haben Sie bestimmt! Das pikante Lamm an Röstmandeln und Zitronensaft.",
+                    "es": "//(0,30)\\\\¡Ah, esto lo debéis de tener! El cordero salado con almendras tostadas y zumo de limón.",
+                    "ru": "//(0,2.86)\\\\Надеюсь, это у вас есть?//(2.86,32.86)\\\\Пряная ягнятина с запеченным миндалем и лимоном.",
+                    "cn": "//(0,30)\\\\哦，我相信你们有这个的！咸鲜羊肉配烤杏仁和柠檬汁。",
+                    "tc": "//(0,30)\\\\噢，你肯定會點這個！香煎羊排佐烤杏仁與檸檬汁。",
+                    "jp": "//(0,30)\\\\これならあるわよね？ 風味豊かなラム肉、カリカリアーモンドとレモン果汁をかけて。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr4618_food_inez_dictators_wife_et_004",
+                "weight": 0.1666666368643425,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4618_food_inez_dictators_wife_et_004.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4618_food_inez_dictators_wife_et_004.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Give us the stuffed flatbread with chilled grape and soy-flaked salmon!",
+                    "fr": "//(0,30)\\\\Donnez-nous le saumon en croûte aux raisins glacés !",
+                    "it": "//(0,30)\\\\Ci porti la focaccia ripiena di uva fresca e fiocchi di soia.",
+                    "de": "//(0,30)\\\\Bringen Sie uns das gefüllte Fladenbrot mit Trauben und den Lachs in Soja-Kruste.",
+                    "es": "//(0,30)\\\\¡Queremos el pan relleno de uvas frías y salmón con láminas de soja!",
+                    "ru": "//(0,30)\\\\Давайте лепешку с начинкой из мороженого винограда и лосось в соевых хлопьях!",
+                    "cn": "//(0,30)\\\\给我们来一份冰葡萄和酱油三文鱼馅饼！",
+                    "tc": "//(0,30)\\\\給我們來個餡餅佐冷葡萄和大豆鮭魚！",
+                    "jp": "//(0,30)\\\\チルドグレープと鮭のソイフレーク入り―― フラットブレッドを頼むわよ！"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr4618_food_inez_dictators_wife_et_005",
+                "weight": 0.1666666368643425,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4618_food_inez_dictators_wife_et_005.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4618_food_inez_dictators_wife_et_005.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\How about the garlic and coriander consomé over sweetbreads?",
+                    "fr": "//(0,30)\\\\Peut-être le consommé à l'ail et à la coriandre avec sa brioche ?",
+                    "it": "//(0,30)\\\\Oh, prendo il consommé con aglio e coriandolo su letto di animelle!",
+                    "de": "//(0,30)\\\\Wie wäre es mit der Knoblauch-Koriander-Consommé mit Kalbsbries?",
+                    "es": "//(0,30)\\\\¿Qué tal un consomé de ajo y cilantro sobre mollejas?",
+                    "ru": "//(0,30)\\\\Может, «сладкое мясо» и консоме с чесноком и кориандром?",
+                    "cn": "//(0,30)\\\\用大蒜和香菜制成的清汤浇在甜面包上如何？",
+                    "tc": "//(0,30)\\\\不然來個蒜頭與香菜清湯配甜麵包？",
+                    "jp": "//(0,30)\\\\シビレ入りニンニクとコリアンダーのコンソメはどうかしら？"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr4618_food_inez_dictators_wife_et_006",
+                "weight": 0.1666666368643425,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4618_food_inez_dictators_wife_et_006.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4618_food_inez_dictators_wife_et_006.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Oh, this looks nice actually. The lamb pie on a bed of plantain and spiced pilaf.",
+                    "fr": "//(0,3.8)\\\\Oh, ça, ça me paraît bien.//(3.8,33.8)\\\\La tourte à l'agneau sur lit de plantain et de riz pilaf.",
+                    "it": "//(0,30)\\\\Oh, questo sembra buono. Il pasticcio di agnello su letto di piantaggine e riso pilaf speziato.",
+                    "de": "//(0,30)\\\\Oh, das hier sieht lecker aus. Lammpastete im Bananenbett an würzigem Pilaw.",
+                    "es": "//(0,30)\\\\Ah, esto tiene buena pinta. El pastel de cordero sobre una base de arroz pilaf de plátano especiado.",
+                    "ru": "//(0,3.972)\\\\Вот это выглядит неплохо.//(3.972,33.972)\\\\Пирог с ягнятиной на подушке из банана и острого плова.",
+                    "cn": "//(0,30)\\\\噢，这看起来还不错。羊肉馅饼上配上车前草和香料面。",
+                    "tc": "//(0,30)\\\\噢，這看起來還不錯。這芭蕉羊肉派配辛香手抓飯。",
+                    "jp": "//(0,30)\\\\あら、これは良さそうね。ラム肉のパイがのった、プランテン・スパイスピラフ。"
+                }
+            }
+        ]
+    }
+}

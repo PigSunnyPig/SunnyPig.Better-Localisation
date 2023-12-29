@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2612_frydelandguard.sweetdialog?/dr2612_frydelandguard_guard_02_et_007.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr2612_frydelandguard_guard_02_et_007",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2612_frydelandguard_guard_02_et_007.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2612_frydelandguard_guard_02_et_007.animset].pc_animset",
+        "languages": {
+            "en": "//(0,4.23908)\\\\On the contrary, Doc. They are real beasts, all of them.//(4.23908,34.23908)\\\\Always at it, day and night. Really competing to see who's biggest.",
+            "fr": "//(0,1.6)\\\\Au contraire, docteur !//(1.6,6.1)\\\\Ce sont tous des bêtes, des sauvages, ils passent leur temps à ça.//(6.1,36.1)\\\\C'est à qui en aura le plus...",
+            "it": "//(0,4.184785)\\\\Al contrario, dottore. Sono delle bestie, tutti quanti...//(4.184785,6.273)\\\\Ci danno dentro giorno e notte.//(6.273,36.273)\\\\Fanno a gara a chi è più grosso.",
+            "de": "//(0,30)\\\\Im Gegenteil, Doc. Sie sind alle die reinsten Tiere ... sie machen es Tag und Nacht. Es ist ein Wettbewerb, und es geht immer um die Größe.",
+            "es": "//(0,4.084785)\\\\Al contrario, doctor. Son auténticas bestias, todos ellos...//(4.084785,34.08479)\\\\Se pasan así día y noche. Compiten para ver cuál es el más grande.",
+            "ru": "//(0,1.542393)\\\\Как раз напротив, доктор.//(1.542393,4.120981)\\\\Они настоящие звери, каждый из них...//(4.120981,6.15)\\\\Могут заниматься делом днем и ночью.//(6.15,36.15)\\\\И постоянно сравнивают, у кого больше.",
+            "cn": "//(0,30)\\\\不只是这样呢，医生。他们都非常猛，每个都这样。一天到晚都在做。还在比谁的最大。",
+            "tc": "//(0,30)\\\\不只是這樣呢，醫生。他們都非常猛，每個都這樣。一天到晚都在做。還在比誰的最大。",
+            "jp": "//(0,30)\\\\ないどころか、 みんなバリバリですよ。 昼も 夜も です。 誰が 一番でかいか 競ってるくらい で。"
+        }
+    }
+}

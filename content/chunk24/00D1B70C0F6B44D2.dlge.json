@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4615_tablearrival.sweetdialog?/dr4615_tablearrival_dictator_et_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr4615_tablearrival_dictator_et_001",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4615_tablearrival_dictator_et_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4615_tablearrival_dictator_et_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,2.2)\\\\What? Where is the food?//(2.2,4.83)\\\\This restaurant is supposed to have three stars!//(4.83,34.83)\\\\For what? Being kept waiting? Waiter!",
+            "fr": "//(0,2.55)\\\\Quoi ? Ils arrivent, ces plats ?//(2.55,32.55)\\\\Le restaurant est supposé avoir trois étoiles ! Pour quoi ? Le temps d'attente ? Garçon !",
+            "it": "//(0,2.408589)\\\\Allora? Dove sono i nostri piatti?//(2.408589,5.639571)\\\\E questo sarebbe un ristorante da tre stelle? Per cosa?//(5.639571,35.63957)\\\\Le lunghe attese? Cameriere!",
+            "de": "//(0,2.640491)\\\\Was? Wo bleibt das Essen?//(2.640491,32.64049)\\\\Dieses Restaurant hat doch angeblich 3 Sterne! Wofür? Fürs Warten? Ober!",
+            "es": "//(0,2.6)\\\\¿Qué? ¿Dónde está la comida?//(2.6,32.6)\\\\¡Se supone que este restaurante es de tres estrellas! ¿Por qué? ¿Por hacerte esperar? ¡Camarero!",
+            "ru": "//(0,5.04908)\\\\Что такое? Где еда? У этого ресторана вроде бы три звезды!//(5.04908,35.04908)\\\\За что, интересно? За увлекательное ожидание? Официант!",
+            "cn": "//(0,30)\\\\什么？食物呢？这家餐厅不是三星级吗！怎么回事？怎么会等这么久？服务生！",
+            "tc": "//(0,30)\\\\什麼？食物呢？這家餐廳不是三星級嗎！怎麼回事？怎麼會等這麼久？服務生！",
+            "jp": "//(0,6.049541)\\\\おい！ 食事は どこだ？ このレストランは 三つ星じゃ なかったのか？ 人を 待たせて おいて それか？//(6.049541,7.693)\\\\ウェイター！"
+        }
+    }
+}

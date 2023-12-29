@@ -1,0 +1,24 @@
+{
+  "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+  "hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_margerita/3000_margerita_story/dr3651_guardsarthint.sweetdialog?/dr3651_guardsarthint_guard_2_et_002.sweetdialogitem].pc_dialogevent",
+  "DITL": "00B7E83B2B5BFE20",
+  "CLNG": "00E3CBB0725ED16C",
+  "rootContainer": {
+    "type": "WavFile",
+    "wavName": "dr3651_guardsarthint_guard_2_et_002",
+    "soundtag": "In-world_Mission_Normal",
+    "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_margerita/3000_margerita_story/dr3651_guardsarthint_guard_2_et_002.wav].pc_wes",
+    "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_margerita/3000_margerita_story/dr3651_guardsarthint_guard_2_et_002.animset].pc_animset",
+    "languages": {
+      "en": "//(0,30)\\\\It was an antique. They took it through to the safe in the Voltaire suite.",
+      "fr": "//(0,30)\\\\Une antiquité. Sans doute quelque chose de précieux. Ils l'ont emporté vers le coffre dans la Suite Voltaire.",
+      "it": "//(0,30)\\\\Un pezzo d'antiquariato. L'hanno messo dentro la cassaforte della suite Voltaire.",
+      "de": "//(0,30)\\\\Eine Antiquität. Wurde sofort in den Tresor in der Voltaire-Suite gebracht.",
+      "es": "//(0,30)\\\\Una antigüedad. La llevaron directamente a la caja fuerte de la suite Voltaire.",
+      "ru": "//(0,1.236196)\\\\Антикварная вещь.//(1.236196,31.2362)\\\\Они понесли ее в сейф, находящийся в номере «Вольтер».",
+      "cn": "//(0,30)\\\\一个古董。他从伏尔泰套房裡的保险箱中取来的。",
+      "tc": "//(0,30)\\\\一個古董。他從伏爾泰套房裡的保險箱中取來的。",
+      "jp": "//(0,30)\\\\骨董品だ。ボルテールスイートの保管庫に運ぶそうだ。"
+    }
+  }
+}

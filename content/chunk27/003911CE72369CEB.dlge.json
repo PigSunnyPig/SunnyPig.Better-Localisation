@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_tequilasunrise/3000_tequilasunrise_story/dr3602_larinbdgrdbant02.sweetdialog?/dr3602_larinbdgrdbant02_bdygrd02_et_002.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr3602_larinbdgrdbant02_bdygrd02_et_002",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_tequilasunrise/3000_tequilasunrise_story/dr3602_larinbdgrdbant02_bdygrd02_et_002.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_tequilasunrise/3000_tequilasunrise_story/dr3602_larinbdgrdbant02_bdygrd02_et_002.animset].pc_animset",
+        "languages": {
+            "en": "//(0,2.5)\\\\Yes, sir.",
+            "fr": "//(0,2.5)\\\\Bien, Monsieur.",
+            "it": "//(0,2.5)\\\\Sissignore.",
+            "de": "//(0,2.5)\\\\Ja, Sir.",
+            "es": "//(0,2.5)\\\\Sí, señor.",
+            "ru": "//(0,2.5)\\\\Да, сэр.",
+            "cn": "//(0,2.5)\\\\是的，先生。",
+            "tc": "//(0,2.5)\\\\是的，先生。",
+            "jp": "//(0,2.5)\\\\はい。"
+        }
+    }
+}

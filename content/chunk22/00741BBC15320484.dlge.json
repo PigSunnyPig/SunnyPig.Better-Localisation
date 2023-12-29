@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2612_frydelandguard.sweetdialog?/dr2612_frydelandguard_guard_02_et_009.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr2612_frydelandguard_guard_02_et_009",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2612_frydelandguard_guard_02_et_009.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2612_frydelandguard_guard_02_et_009.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\You’re losing me, Doc. But can you get me those steroids or not? I don’t wanna be the smallest guy in the room.",
+            "fr": "//(0,1.75)\\\\Vous m'avez perdu, là, docteur...//(1.75,4.3)\\\\Mais pour les anabolisants, alors ? Vous pouvez m'en trouver ou pas ?//(4.3,34.3)\\\\Je voudrais pas être le maigrelet de la salle de sport.",
+            "it": "//(0,2.092393)\\\\Non la seguo, dottore.//(2.092393,32.09239)\\\\Mi può dare questi steroidi o no? Non voglio essere il più mingherlino.",
+            "de": "//(0,1.6)\\\\Ich weiß nicht, wovon Sie reden, Doc.//(1.6,31.6)\\\\Aber können Sie mir jetzt Steroide besorgen oder nicht? Ich will nicht der Schmächtigste im Raum sein.",
+            "es": "//(0,4.28908)\\\\No le sigo, doctor, pero ¿puede conseguirme esos esteroides o no?//(4.28908,34.28908)\\\\No quiero ser el tipo más pequeño del grupo.",
+            "ru": "//(0,1.9)\\\\Не понимаю, о чем вы, доктор.//(1.9,4.15)\\\\Так вы сможете достать мне стероиды или нет?//(4.15,34.15)\\\\Не хочу быть самым мелким среди парней.",
+            "cn": "//(0,30)\\\\你在说什么啊，医生。你到底能不能给我开点类固醇？我可不想当大家之中个子最小的一个。",
+            "tc": "//(0,30)\\\\你在說什麼啊，醫生。你到底能不能給我開點類固醇？我可不想當大家之中個子最小的一個。",
+            "jp": "//(0,4.940287)\\\\一体なんの 話です？ とにかく俺にも ステロイドを くださいよ。 このままじゃ 俺が 最小の 男に//(4.940287,6.431521)\\\\なっちまう。"
+        }
+    }
+}

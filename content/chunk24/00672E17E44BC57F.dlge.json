@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4614_waterfrontphonecall.sweetdialog?/dr4614_waterfrontphonecall_dictators_wife_et_003.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr4614_waterfrontphonecall_dictators_wife_et_003",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4614_waterfrontphonecall_dictators_wife_et_003.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4614_waterfrontphonecall_dictators_wife_et_003.animset].pc_animset",
+        "languages": {
+            "en": "//(0,1.604294)\\\\I’ve been thinking.//(1.604294,5)\\\\Maybe I’ll ask Richard if we can stay the night here.//(5,8.598)\\\\Arrange a little something for his evening drink.//(8.598,11.411)\\\\I could be back in Makindye by tomorrow night.//(11.411,13.5)\\\\I could be back in the palace in a month.//(15.592,18)\\\\You’d make a good finance minister...//(19,49)\\\\No, you don’t have to answer now, but think about it!",
+            "fr": "//(0,1.604294)\\\\J'ai bien réfléchi.//(1.604294,5.1)\\\\Je vais peut-être demander à Richard si nous pouvons rester ici pour la nuit.//(5.1,7.65)\\\\Arrange quelque chose pour son verre du soir.//(8.6,13.9)\\\\Je pourrais être de retour à Makindye demain soir. Et de nouveau au palais d'ici un mois.//(15.7,45.7)\\\\Tu ferais un bon ministre des finances... Non, je n'attends pas de réponse immédiate, mais penses-y !",
+            "it": "//(0,4.917178)\\\\Stavo pensando: potrei chiedere a Richard se possiamo passare qui la notte...//(4.917178,8.543865)\\\\e rendere speciale il suo drink serale.//(8.543865,15.52914)\\\\Potrei tornare a Makindye domani sera. Potrei rientrare a palazzo entro un mese.//(15.52914,18.98773)\\\\Saresti un perfetto ministro delle finanze...//(18.98773,48.98773)\\\\No, non devi rispondermi adesso, ma riflettici!",
+            "de": "//(0,1.604294)\\\\Ich habe nachgedacht.//(1.604294,8.481963)\\\\Wenn ich Richard bitte, die Nacht hier zu verbringen und ihm etwas in seinen abendlichen Drink mische.//(8.481963,13.85)\\\\Dann könnte ich morgen Abend in Makindye sein. Und in einem Monat säße ich wieder im Palast.//(15.73963,45.73963)\\\\Du wärst ein guter Finanzminister ... Nein, du musst dich nicht gleich entscheiden, aber denk darüber nach.",
+            "es": "//(0,5.285276)\\\\He pensado que igual puedo pedirle a Richard que pasemos la noche aquí.//(5.285276,8.7)\\\\Podría echarle algo a su copa de por la noche.//(8.7,13.9)\\\\Podría estar de vuelta en Makindye para mañana por la noche. Al palacio podría volver en un mes.//(15.7,19.209)\\\\Qué buen ministro de hacienda serías...//(19.209,49.209)\\\\No, no tienes que responderme ahora, ¡pero piénsatelo!",
+            "ru": "//(0,1.604294)\\\\Я тут подумала.//(1.604294,5.16908)\\\\Наверное, я предложу Ричарду остаться здесь на ночь.//(5.16908,8.365767)\\\\Выпьем вечером, я налью ему что-нибудь особенное...//(8.365767,11.44245)\\\\Завтра я была бы уже в Кампале.//(11.44245,16.007)\\\\Через месяц я бы снова жила во дворце.//(16.007,19.18822)\\\\Ты не думал о том, чтобы пойти в министры финансов?//(19.18822,49.18822)\\\\Пока можешь не отвечать, но обдумай мое предложение!",
+            "cn": "//(0,1.604294)\\\\我一直在想。//(1.604294,5)\\\\或许我会请理查德在这里待一晚。//(5,8.598)\\\\在他夜晚小酌时安排一些东西。//(8.598,11.411)\\\\我明晚就能回到马辛戴。//(11.411,13.5)\\\\我一个月就能够回到宫殿了。//(15.592,18)\\\\你会是一名很棒的财务部长......//(19,49)\\\\没关系，不用现在给我回复，你慢慢考虑！",
+            "tc": "//(0,1.604294)\\\\我一直在思考。//(1.604294,5)\\\\或許我會請理查在這裡待一晚。//(5,8.598)\\\\在他夜晚小酌時安排一些東西。//(8.598,11.411)\\\\我明晚就能回到馬辛戴。//(11.411,13.5)\\\\我一個月就能夠回到宮殿了。//(15.592,18)\\\\你會是一名很棒的財務部長......//(19,49)\\\\沒關係，不用現在給我回覆，你慢慢考慮！",
+            "jp": "//(0,6.679148)\\\\考えて いたのよ。 一緒に一晩過ごそうと リチャードに 聞くべきか。 彼の 晩酌に そっと何かを//(6.679148,13.3583)\\\\混ぜるとか。 明日の 夜には マキンダイへ 戻って これるでしょうね。 1ヶ月以内には、 あの宮殿に//(13.3583,19.50172)\\\\戻って これるかも。 あなたは 財務官の 素質が ありそうね...//(19.50172,23.67619)\\\\いや、 今すぐ答える必要は ないけど、 考えて ちょうだい！"
+        }
+    }
+}

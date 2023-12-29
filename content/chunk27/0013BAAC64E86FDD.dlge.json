@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_tequilasunrise/3000_tequilasunrise_story/dr3603_larinbdgrdfashionshow.sweetdialog?/dr3603_larinbdgrdfashionshow_bdygrd02_et_002.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr3603_larinbdgrdfashionshow_bdygrd02_et_002",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_tequilasunrise/3000_tequilasunrise_story/dr3603_larinbdgrdfashionshow_bdygrd02_et_002.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_tequilasunrise/3000_tequilasunrise_story/dr3603_larinbdgrdfashionshow_bdygrd02_et_002.animset].pc_animset",
+        "languages": {
+            "en": "//(0,3.5)\\\\Very nice, sir.",
+            "fr": "//(0,3.5)\\\\Très joli, monsieur.",
+            "it": "//(0,3.5)\\\\Molto bello, signore.",
+            "de": "//(0,3.5)\\\\Sehr hübsch, Sir.",
+            "es": "//(0,3.5)\\\\Muy bonito, señor.",
+            "ru": "//(0,3.5)\\\\Очень красиво, сэр.",
+            "cn": "//(0,3.5)\\\\非常好，先生。",
+            "tc": "//(0,3.5)\\\\非常好，先生。",
+            "jp": "//(0,3.5)\\\\よろしいかと。"
+        }
+    }
+}

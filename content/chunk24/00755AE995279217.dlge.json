@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4612_intelligencemeeting.sweetdialog?/dr4612_intelligencemeeting_dictator_et_007.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr4612_intelligencemeeting_dictator_et_007",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4612_intelligencemeeting_dictator_et_007.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4612_intelligencemeeting_dictator_et_007.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\I was careful, and put a lot of gold in Lichtenstein. Like we discussed.",
+            "fr": "//(0,3.82)\\\\J'ai su me montrer prudent et j'ai caché pas mal d'or au Lichtenstein.//(3.82,33.82)\\\\Comme nous en avions discuté.",
+            "it": "//(0,30)\\\\Sono stato prudente e ho trasferito l'oro in Liechtenstein, come abbiamo discusso.",
+            "de": "//(0,30)\\\\Ich war vorsichtig und hab 'ne Menge Gold nach Liechtenstein verschoben. Wie besprochen.",
+            "es": "//(0,30)\\\\Tuve cuidado, y puse mucho dinero en Lichtenstein, como acordamos.",
+            "ru": "//(0,30)\\\\Я был очень осторожен и держал деньги в Лихтенштейне. Как мы и говорили.",
+            "cn": "//(0,30)\\\\我很小心，在利希滕斯坦放了很多黄金。就像我们讨论过的那样。",
+            "tc": "//(0,30)\\\\我很小心，在列支敦斯登藏了很多黃金。就跟我們談好的一樣。",
+            "jp": "//(0,30)\\\\俺は慎重にやってたし、リヒテンシュタインに金を沢山預けてた。話したとおりにな。"
+        }
+    }
+}

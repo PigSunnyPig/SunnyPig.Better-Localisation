@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_tequilasunrise/3000_tequilasunrise_story/dr3603_larinbdgrdfashionshow.sweetdialog?/dr3603_larinbdgrdfashionshow_larin_et_003.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr3603_larinbdgrdfashionshow_larin_et_003",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_tequilasunrise/3000_tequilasunrise_story/dr3603_larinbdgrdfashionshow_larin_et_003.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_tequilasunrise/3000_tequilasunrise_story/dr3603_larinbdgrdfashionshow_larin_et_003.animset].pc_animset",
+        "languages": {
+            "en": "//(0,1.668098)\\\\Oh?!//(1.668098,6.6681)\\\\Oh, you're being sarcastic. What a scamp you are.",
+            "fr": "//(0,5)\\\\Oh ! Oh, c'était du sarcasme ! Quel taquin vous faites !",
+            "it": "//(0,5)\\\\Oh! Oh, sei sarcastico! Che simpaticone!",
+            "de": "//(0,5)\\\\Oh! Oh, das war sarkastisch! Sie Schlingel!",
+            "es": "//(0,5)\\\\¿Oh? Ah, ¡estás siendo sarcástico! ¡Menudo bribón!",
+            "ru": "//(0,5)\\\\О?! Сарказм. Ну ты и проказник.",
+            "cn": "//(0,5)\\\\哦？！你好像有点讽刺的意味。真是调皮。",
+            "tc": "//(0,5)\\\\哦？！你好像有點諷刺的意味。真是調皮。",
+            "jp": "//(0,5)\\\\何？！ 皮肉を言っているのか。少しは素直になれ。"
+        }
+    }
+}

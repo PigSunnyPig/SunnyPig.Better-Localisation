@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1652_commercial.sweetdialog?/dr1652_commercial_crew01_et_005.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr1652_commercial_crew01_et_005",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1652_commercial_crew01_et_005.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1652_commercial_crew01_et_005.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Yep. They’re both assholes.",
+            "fr": "//(0,30)\\\\Si. Les deux sont de vrais enfoirés.",
+            "it": "//(0,30)\\\\Esatto. Sono due stronzi.",
+            "de": "//(0,30)\\\\Ja. Beides Arschlöcher.",
+            "es": "//(0,30)\\\\Sí. Vaya dos gilipollas.",
+            "ru": "//(0,0.8680981)\\\\Правда.//(0.8680981,30.8681)\\\\Оба они те еще уроды.",
+            "cn": "//(0,30)\\\\嗯。他们两个都是人渣。",
+            "tc": "//(0,30)\\\\嗯。他們兩個都是爛人。",
+            "jp": "//(0,30)\\\\ああ。二人とも最低な奴らだ。"
+        }
+    }
+}

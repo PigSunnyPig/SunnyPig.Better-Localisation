@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2612_frydelandguard.sweetdialog?/dr2612_frydelandguard_frydel_et_004.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr2612_frydelandguard_frydel_et_004",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2612_frydelandguard_frydel_et_004.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2612_frydelandguard_frydel_et_004.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\You’re young, and I have been around the block, so let me give a bit of advice for free: Size isn’t everything.",
+            "fr": "//(0,6.8)\\\\Vous êtes jeune, moi qui ai vu du pays je peux vous donner un conseil gratuit ://(6.8,36.8)\\\\il n'y a pas que la taille qui compte dans la vie.",
+            "it": "//(0,4.433)\\\\Sei giovane e io ho più esperienza di te,//(4.433,6.814)\\\\per cui lascia che ti dia un consiglio da amico...//(6.814,36.814)\\\\Le dimensioni non sono tutto.",
+            "de": "//(0,3.552883)\\\\Sie sind jung, und ich habe schon einiges erlebt,//(3.552883,33.55288)\\\\darum gebe ich Ihnen jetzt mal ganz unverbindlich einen Rat ... Größe ist nicht alles.",
+            "es": "//(0,6.697668)\\\\Eres joven, y yo llevo mucho tiempo en esto, así que permite que te dé un consejo...//(6.697668,36.69767)\\\\El tamaño no lo es todo.",
+            "ru": "//(0,6.8)\\\\Вы еще молоды, так что позвольте человеку с опытом дать вам бесплатный совет...//(6.8,36.8)\\\\Размер — не главное.",
+            "cn": "//(0,30)\\\\你还年轻，而我已经有了很多经验，所以让我给你一些免费的建议：大小并不是一切。",
+            "tc": "//(0,30)\\\\你還年輕，而我已經有了很多經驗，所以讓我給你一些免費的建議：大小並不是一切。",
+            "jp": "//(0,30)\\\\きみはまだ若い。年長者としてひとつアドバイスをするが、サイズがすべてではないぞ。"
+        }
+    }
+}

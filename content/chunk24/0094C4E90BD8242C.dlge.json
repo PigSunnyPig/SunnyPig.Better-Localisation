@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4612_intelligencemeeting.sweetdialog?/dr4612_intelligencemeeting_dictator_et_003.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr4612_intelligencemeeting_dictator_et_003",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4612_intelligencemeeting_dictator_et_003.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4612_intelligencemeeting_dictator_et_003.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Yes. But we were both young men, then. In the 90s everything was possible.",
+            "fr": "//(0,3)\\\\Oui. Nous étions jeunes, à l'époque.//(3,33)\\\\Tout était possible dans les années quatre-vingt-dix.",
+            "it": "//(0,2.942393)\\\\Già... Eravamo giovani, allora.//(2.942393,32.94239)\\\\Negli anni Novanta tutto era possibile.",
+            "de": "//(0,30)\\\\Ja. Damals waren wir noch jung. In den 90ern war alles möglich.",
+            "es": "//(0,30)\\\\Sí. Qué jóvenes éramos entonces. En los 90 todo era posible.",
+            "ru": "//(0,0.8680981)\\\\Да.//(0.8680981,3.208589)\\\\Но тогда мы были молоды.//(3.208589,33.20859)\\\\В девяностых было возможно все.",
+            "cn": "//(0,30)\\\\是啊。当时我们两个都年轻的很呢。90年代什么事情都有可能发生。",
+            "tc": "//(0,30)\\\\是啊。當時我們兩個都年輕的很呢。90年代什麼事都可能發生。",
+            "jp": "//(0,30)\\\\ああ。当時は俺たち二人とも若かったな。90年代の頃は、なんでもできた。"
+        }
+    }
+}

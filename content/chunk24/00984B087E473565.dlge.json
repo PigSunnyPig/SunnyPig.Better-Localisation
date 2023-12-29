@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4612_intelligencemeeting.sweetdialog?/dr4612_intelligencemeeting_dictator_et_019.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr4612_intelligencemeeting_dictator_et_019",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4612_intelligencemeeting_dictator_et_019.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4612_intelligencemeeting_dictator_et_019.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Just speculation my friend. But all of those files and the pictures and the videos are with a lawyer. And if anything happens to me... well...",
+            "fr": "//(0,2.5)\\\\Je n'ai que des hypothèses, mon ami.//(2.5,6.6)\\\\Mais j'ai déposé ces dossiers, ces photos et ces vidéos chez un avocat.//(6.6,36.6)\\\\Et s'il m'arrive quelque chose... eh bien...",
+            "it": "//(0,2.092393)\\\\Solo congetture, amico mio.//(2.092393,6.461473)\\\\Ma l'avvocato ha tutti i file, le foto e i video.//(6.461473,36.46147)\\\\E se dovesse accadermi qualcosa... Beh...",
+            "de": "//(0,2.460491)\\\\Alles reine Spekulation, mein Freund.//(2.460491,6.87957)\\\\Aber all diese Akten, Fotos und Videos liegen bei einem Anwalt.//(6.87957,36.87957)\\\\Und falls mir etwas zustoßen sollte ... tja ...",
+            "es": "//(0,30)\\\\Meras especulaciones, amigo mío. Además, los archivos, las fotos y los vídeos los tiene un abogado. Si algo me sucede... Bueno...",
+            "ru": "//(0,2.460491)\\\\Все это догадки, мой друг.//(2.460491,6.53)\\\\Но все папки, все видео и фотографии хранятся у моего юриста.//(6.53,36.53)\\\\Так что если со мной что-то случится...",
+            "cn": "//(0,5.792903)\\\\我不过都是猜测而已。不过这些档案、照片和影片都在律师那里。//(5.792903,10.11613)\\\\而且如果我出了意外......嗯......",
+            "tc": "//(0,5.792903)\\\\我不過都是猜測而已。不過這些檔案、照片和影片都在律師那裡。//(5.792903,10.11613)\\\\而且如果我出了意外......嗯......（未接話）",
+            "jp": "//(0,5.792903)\\\\あくまでも憶測に 過ぎないが、 そのファイル、 画像、 映像は すべて弁護士の 手元に ある。 もし俺の//(5.792903,10.11613)\\\\身に 何か 起これば... その時は..."
+        }
+    }
+}

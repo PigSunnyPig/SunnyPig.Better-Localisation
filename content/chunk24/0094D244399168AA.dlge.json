@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4612_intelligencemeeting.sweetdialog?/dr4612_intelligencemeeting_dictator_et_009.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr4612_intelligencemeeting_dictator_et_009",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4612_intelligencemeeting_dictator_et_009.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4612_intelligencemeeting_dictator_et_009.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\And I remember my friends too. That is why I kept a copy of all of those files. The ones about the Kanhaar Valley. The bombs and the napalm. All dropped from those nice French helicopters you sold us.",
+            "fr": "//(0,2.7)\\\\Moi non plus, je n'oublie pas mes amis.//(2.7,6.075)\\\\C'est pour ça que j'ai gardé un exemplaire de tous ces dossiers.//(6.075,10.55)\\\\Ceux sur la vallée de Kanhaar. Les bombes et le napalm.//(10.55,40.55)\\\\Tout ce qu'ont largué les beaux hélicoptères français que vous nous avez vendus.",
+            "it": "//(0,2.340491)\\\\Anch'io non dimentico gli amici.//(2.340491,8.275767)\\\\Per questo ho conservato una copia di quei documenti sulla valle di Kandahar.//(8.275767,38.27577)\\\\Sai, le bombe al napalm sganciate dagli elicotteri francesi che ci hai venduto.",
+            "de": "//(0,6)\\\\Ich auch nicht. Deshalb habe ich Kopien all dieser Akten aufbewahrt.//(6,8)\\\\Die Akten über das Kanhaar-Tal.//(8,38)\\\\Über die Bomben und das Napalm aus diesen schicken französischen Helikoptern, die du uns verkauft hast.",
+            "es": "//(0,30)\\\\Yo también recuerdo a mis amigos. Por eso guardo una copia de todos esos archivos: los del valle del Kanhar, las bombas y el napalm que lanzasteis desde esos bonitos helicópteros franceses que nos vendisteis...",
+            "ru": "//(0,2.409)\\\\Я своих друзей тоже не забываю.//(2.409,5.786)\\\\Поэтому и оставил себе копии всех данных.//(5.786,10.551)\\\\Все про долину Канаар. Про бомбы, про напалм.//(10.551,40.551)\\\\Про все, что выпало из новеньких французских вертолетов, которые ты нам продал.",
+            "cn": "//(0,6.274586)\\\\我也记得我的朋友们。这就是为什么我保留了所有这些文件的副本，关于坎哈山谷的文件。//(6.274586,12.54917)\\\\那些炸弹和凝固汽油弹，都是从你卖给我们的那些漂亮的法国直升机上扔下来的。",
+            "tc": "//(0,6.274586)\\\\我也是重情義的人。所以我也保留了所有文件的備份。那些關於坎哈爾谷。//(6.274586,12.54917)\\\\那些炸彈與燒夷彈。通通都被丟到你賣給我的那些法製直升機上了。",
+            "jp": "//(0,6.274586)\\\\俺だって、 友人の ことは 忘れない。 だから、 あのファイルの コピーを すべて保管した。//(6.274586,12.54917)\\\\カンダハール渓谷の 件。 爆弾、 ナパーム。 お前が 俺たちに 売った、 フランス製ヘリコプターから//(12.54917,14.67992)\\\\落とされた。"
+        }
+    }
+}

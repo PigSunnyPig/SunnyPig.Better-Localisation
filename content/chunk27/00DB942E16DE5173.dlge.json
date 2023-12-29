@@ -1,0 +1,24 @@
+{
+  "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+  "hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_margerita/3000_margerita_story/dr3652_moxonarthint.sweetdialog?/dr3652_moxonarthint_moxon_et_002.sweetdialogitem].pc_dialogevent",
+  "DITL": "00B7E83B2B5BFE20",
+  "CLNG": "00E3CBB0725ED16C",
+  "rootContainer": {
+    "type": "WavFile",
+    "wavName": "dr3652_moxonarthint_moxon_et_002",
+    "soundtag": "In-world_Mission_Normal",
+    "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_margerita/3000_margerita_story/dr3652_moxonarthint_moxon_et_002.wav].pc_wes",
+    "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_margerita/3000_margerita_story/dr3652_moxonarthint_moxon_et_002.animset].pc_animset",
+    "languages": {
+      "en": "//(0,30)\\\\\"Quite... safe... as... Cicero... said. Miss... Mar... go... lis... put it... in... the safe... on the... top... floor.\"",
+      "fr": "//(0,6.1)\\\\\"C'est... sans... crainte... comme... disait... Cicéron.//(6.1,36.1)\\\\Mar... go... lis... l'a mis... dans... le coffre... au dernier... étage.\"",
+      "it": "//(0,6.886196)\\\\Abbastanza-sicuro-come-ha detto-Cicerone.//(6.886196,36.8862)\\\\Signorina-Mar-go-lis-l'ha-messo-nella-cassaforte-al piano-superiore.",
+      "de": "//(0,6.245)\\\\„Ziemlich ... sicher ... wie Cicero ... sagte.//(6.245,36.245)\\\\Miss ... Margolis ... bewahrt es ... im ... Tresor ... im obersten ...Stockwerk ... auf. “",
+      "es": "//(0,30)\\\\\"Como... dijo... Cicerón... imposible... estar... mejor. La... señorita... Margolis... lo... puso... en... la... caja... fuerte... del... último... piso.\"",
+      "ru": "//(0,30)\\\\Достаточно... безопасно... как... сказал... Цицерон. Мисс... Мар... го... лис... положила... его... в... сейф... на... верхнем... этаже.",
+      "cn": "//(0,30)\\\\“西赛罗......说......很......安全。玛戈利斯......把它......放在......顶楼......保险箱......中。”",
+      "tc": "//(0,30)\\\\「西賽羅......說......很......安全。馬戈利斯......把它......放在......頂樓......保險箱......中。」",
+      "jp": "//(0,30)\\\\「キケロが... 言った... ように... 絶対に... 安全だ。 ミス... マー... ゴ... リスが... 最上階... の... 保管... 庫に... 入れて... くれた」。"
+    }
+  }
+}

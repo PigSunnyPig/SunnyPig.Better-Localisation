@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_tequilasunrise/3000_tequilasunrise_story/dr3602_larinbdgrdbant02.sweetdialog?/dr3602_larinbdgrdbant02_larin_et_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr3602_larinbdgrdbant02_larin_et_001",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_tequilasunrise/3000_tequilasunrise_story/dr3602_larinbdgrdbant02_larin_et_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_tequilasunrise/3000_tequilasunrise_story/dr3602_larinbdgrdbant02_larin_et_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0.45,3.100982)\\\\I think it’s time we make some money, don’t you?//(3.100982,6.950062)\\\\Have two buyers for that pathetic Van Gogh in the collection.//(6.950062,10.20914)\\\\But need to see if we have, er, few extra, mm?//(10.20914,16.20914)\\\\After that, I want to go and visit “le petit caporal.” I have missed him.",
+            "fr": "//(0,3.1)\\\\Hmph ! Je crois qu'il est temps de gagner de l'argent. Vous ne pensez pas ?//(3.1,7.2)\\\\J'ai deux acheteurs pour cet horrible petit Van Gogh dans la collection...//(7.2,10.3)\\\\Mais j'aimerais voir si on ne peut pas en trouver quelques autres.//(10.3,16.3)\\\\Ensuite, j'irai voir \"le petit caporal\", il m'a manqué.",
+            "it": "//(0,3.037178)\\\\Uh! È ora di guadagnare un po' di soldi, che ne dici?//(3.037178,8.56055)\\\\Ho due acquirenti per quel patetico Van Gogh della collezione, ma devo controllare se...//(8.56055,10.47104)\\\\Ehm, ne è rimasto qualcuno.//(10.47104,13.96773)\\\\Dopodiché, andrò a trovare \"Le petit caporal\".//(13.96773,43.96773)\\\\Mi è mancato...",
+            "de": "//(0,3.119)\\\\Äh! Ich finde, wir sollten langsam etwas Geld verdienen. Oder nicht?//(3.119,7.3)\\\\Ich habe zwei Käufer für diesen armseligen van Gogh ...//(7.3,10.247)\\\\aber erst muss ich nachsehen, ob wir, ähm, einen übrig haben, mm?//(10.247,16.247)\\\\Und danach sehe ich mir „Le petit Caporal“ an. Ich hab ihn schon vermisst.",
+            "es": "//(0,3)\\\\¡Ah! Creo que es hora de hacer dinero, ¿no crees?//(3,10.4)\\\\Tengo a dos compradores para ese Van Gogh de chichinabo de la colección, pero debemos comprobar si nos quedan... algunos más.//(10.4,16.4)\\\\Después, quiero visitar a \"Le petit Caporal\". Le he echado de menos.",
+            "ru": "//(0,3.197)\\\\Хм. Что ж, пришло время поработать. Верно?//(3.197,7.7)\\\\У меня есть два покупателя на этого жалкого Ван Гога из коллекции,//(7.7,10.871)\\\\но, может быть, найдется что-нибудь еще, хм?//(10.871,16.871)\\\\А потом схожу навестить «Маленького капрала». Я по нему соскучился.",
+            "cn": "//(0.45,3.100982)\\\\我看该是时候我们来赚点钱了吧？//(3.100982,6.950062)\\\\我找到了两个买家想买收藏中的梵·高画作。//(6.950062,10.20914)\\\\不过他们想知道，我们有没有多余的？//(10.20914,16.20914)\\\\在那之后，我想去造访“拿破仑”。我想念他了。",
+            "tc": "//(0.45,3.100982)\\\\我看該是時候我們來賺點錢了吧？//(3.100982,6.950062)\\\\我找到了兩個買家想買收藏中的梵谷畫作。//(6.950062,10.20914)\\\\不過他們想知道，我們有沒有多餘的？//(10.20914,16.20914)\\\\在那之後，我想去造訪「拿破崙」。我想念他了。",
+            "jp": "//(0,6.159733)\\\\それじゃあ、 金を 稼ぐと するか。 コレクションに ある不出来なゴッホの 絵を 欲しいという バイヤーが//(6.159733,13.00388)\\\\2人いる。 在庫が あるか どうか 確認しないとな。 それが 終わったら「小さな伍長」を 見に 行く。 彼に//(13.00388,14.86321)\\\\会うのは 久しぶりだ。"
+        }
+    }
+}

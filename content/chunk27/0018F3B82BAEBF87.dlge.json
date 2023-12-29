@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_kirroyal/3000_kirroyal_story/dr3651_torviktalkingtodahalia.sweetdialog?/dr3651_torviktalkingtodahalia_dalia_et_005.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr3651_torviktalkingtodahalia_dalia_et_005",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_kirroyal/3000_kirroyal_story/dr3651_torviktalkingtodahalia_dalia_et_005.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_kirroyal/3000_kirroyal_story/dr3651_torviktalkingtodahalia_dalia_et_005.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Of course we are, my dear. Let me show you through to my personal office.",
+            "fr": "//(0,30)\\\\Bien sûr que nous le sommes, ma chère. Laissez-moi vous guider.",
+            "it": "//(0,30)\\\\Certo che lo siamo, mia cara. Venga, le faccio strada.",
+            "de": "//(0,30)\\\\Natürlich sind wir das, meine Liebe. Folgen Sie mir.",
+            "es": "//(0,30)\\\\Por supuesto que lo estamos, querida. Deja que te enseñe el sitio.",
+            "ru": "//(0,30)\\\\Конечно же, мой дорогая. Позволь проводить тебя.",
+            "cn": "//(0,30)\\\\当然，亲爱的。请随我前往我的私人办公室吧。",
+            "tc": "//(0,30)\\\\當然，親愛的。請隨我前往我的私人辦公室吧。",
+            "jp": "//(0,30)\\\\ええ、そうよね。それじゃ私のオフィスに案内するわ。"
+        }
+    }
+}

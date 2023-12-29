@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_shandy/3000_shandy_story/dr3677_jbjphonecall.sweetdialog?/dr3677_jbjphonecall_jbj_et_003.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr3677_jbjphonecall_jbj_et_003",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_shandy/3000_shandy_story/dr3677_jbjphonecall_jbj_et_003.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_shandy/3000_shandy_story/dr3677_jbjphonecall_jbj_et_003.animset].pc_animset",
+        "languages": {
+            "en": "//(0,6)\\\\No. You’re not my agent anymore, remember? You fucked it up, and I fired you.",
+            "fr": "//(0,6)\\\\Non. T'es plus mon agent, tu te souviens ? T'as merdé, et je t'ai lourdé.",
+            "it": "//(0,6)\\\\No. Non sei più il mio agente, ricordi? Hai fatto un casino e io ti ho licenziato.",
+            "de": "//(0,3.583)\\\\Nein. Du bist nicht mehr mein Agent, schon vergessen?//(3.583,6.583)\\\\Du hast es verkackt und ich hab dich gefeuert.",
+            "es": "//(0,6)\\\\No. Ya no eres mi agente, ¿recuerdas? La cagaste y te despedí.",
+            "ru": "//(0,6)\\\\Нет. Нет, ты больше не мой агент, помнишь? Ты облажался, и я тебя уволил.",
+            "cn": "//(0,6)\\\\你，不是我的经纪人了，记得吗？你搞砸了，我把你开除了。",
+            "tc": "//(0,6)\\\\你，不是我的經紀人了，記得嗎？你搞砸了，我把你開除了。",
+            "jp": "//(0,6)\\\\違う。あんたはもう俺の代理人じゃない。ヘマやらかしたからクビにした。"
+        }
+    }
+}

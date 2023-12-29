@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2616_virushint.sweetdialog?/dr2616_virushint_researcher_01_et_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr2616_virushint_researcher_01_et_001",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2616_virushint_researcher_01_et_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2616_virushint_researcher_01_et_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,2.672393)\\\\Scheisse! It is denaturing!//(2.672393,5.285276)\\\\You! Go to storage and get me another sample.//(5.285276,35.28527)\\\\And try not to stab yourself with it. It won’t be a nice way to go, yeah?",
+            "fr": "//(0,1)\\\\Scheisse !//(1,2.3)\\\\Il se transforme !//(2.7,5.2)\\\\Vous ! Allez me chercher un autre échantillon.//(5.2,35.2)\\\\Et tâchez de ne pas vous blesser avec, ce serait fâcheux, n'est-ce pas ?",
+            "it": "//(0,2.802)\\\\Scheisse! Si sta snaturando!//(2.802,5.485)\\\\Ehi! Va' in magazzino e procurami un altro campione.//(5.485,7.562)\\\\E cerca di non iniettartelo per sbaglio.//(7.562,37.562)\\\\Non sarebbe un bel modo per andarsene!",
+            "de": "//(0,5.2)\\\\Scheiße! Es denaturiert! Sie! Gehen Sie ins Lager und bringen Sie mir noch eine Probe.//(5.2,35.2)\\\\Und verletzen Sie sich nicht damit. Es wäre kein schöner Abgang, verstehen Sie?",
+            "es": "//(0,2.73)\\\\¡Scheisse! ¡Se está desnaturalizando!//(2.73,5.25)\\\\¡Tú! Ve al almacén y tráeme otra muestra.//(5.25,35.25)\\\\E intenta no clavártela, sería una fea manera de morir, ¿no?",
+            "ru": "//(0,1)\\\\Шайсе!//(1,2.7)\\\\Опять разрушается!//(2.7,5.235276)\\\\Ты! Иди в хранилище и принеси мне еще один образец.//(5.235276,7.375767)\\\\И смотри не уколись шприцем.//(7.375767,37.37577)\\\\Не лучший способ покинуть этот мир, йа?",
+            "cn": "//(0,5.3)\\\\该死！这变质了！你！给我去仓库拿一个新的样本。//(5.3,35.3)\\\\小心别扎到了自己。那样你可是会死得很难看，知道吧？",
+            "tc": "//(0,5.3)\\\\該死！這變質了！你！給我去倉庫拿一個新的樣本。//(5.3,35.3)\\\\小心別扎到了自己。那樣你可是會死得很難看，知道吧？",
+            "jp": "//(0,7.429248)\\\\ああ！ 変性して いる！ おい、 倉庫に 行って 別の サンプルを 持って こい。 自分に 刺さないように 気をつけろ。//(7.429248,8.981771)\\\\悲惨な目には 遭いたくないだろ？"
+        }
+    }
+}

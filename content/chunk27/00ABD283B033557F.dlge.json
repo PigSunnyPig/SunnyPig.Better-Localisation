@@ -1,0 +1,24 @@
+{
+  "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+  "hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_margerita/3000_margerita_story/dr3651_guardsarthint.sweetdialog?/dr3651_guardsarthint_guard_1_et_001.sweetdialogitem].pc_dialogevent",
+  "DITL": "00B7E83B2B5BFE20",
+  "CLNG": "00E3CBB0725ED16C",
+  "rootContainer": {
+    "type": "WavFile",
+    "wavName": "dr3651_guardsarthint_guard_1_et_001",
+    "soundtag": "In-world_Mission_Normal",
+    "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_margerita/3000_margerita_story/dr3651_guardsarthint_guard_1_et_001.wav].pc_wes",
+    "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_margerita/3000_margerita_story/dr3651_guardsarthint_guard_1_et_001.animset].pc_animset",
+    "languages": {
+      "en": "//(0,30)\\\\That little English guy who came through a while back. What was he carrying?",
+      "fr": "//(0,30)\\\\Le gars anglais tout petit qui est passé il y a un moment. Qu'est-ce qu'il transportait ?",
+      "it": "//(0,30)\\\\Hai presente quel piccoletto inglese che è passato poco fa? Che cosa stava trasportando?",
+      "de": "//(0,2.332883)\\\\Der kleine Engländer, der vor 'ner Weile reingekommen ist.//(2.332883,32.33288)\\\\Was hatte der auf dem Arm?",
+      "es": "//(0,30)\\\\Ese inglés canijo que vino hace un rato... ¿Qué llevaba?",
+      "ru": "//(0,2.25)\\\\Помнишь того невысокого англичанина, который прошел недавно?//(2.25,32.25)\\\\Что у него было в руках?",
+      "cn": "//(0,30)\\\\那个小英国人刚刚回来了。他带着什么？",
+      "tc": "//(0,30)\\\\那個小英國人剛剛回來了。他帶著什麼？",
+      "jp": "//(0,30)\\\\ちょっと前にここを通った背の低いイギリス人は何を運んでたんだ？"
+    }
+  }
+}
