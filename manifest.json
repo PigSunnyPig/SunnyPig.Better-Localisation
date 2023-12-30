@@ -1,5 +1,5 @@
 {
-	"version": "3.3.0",
+	"version": "3.3.1",
 	"id": "SunnyPig.BetterLocalisation",
 	"name": "更优质的本地化翻译 Better Localisation",
 	"updateCheck": "https://raw.githubusercontent.com/PigSunnyPig/SunnyPig.github.io/main/updater.json",
