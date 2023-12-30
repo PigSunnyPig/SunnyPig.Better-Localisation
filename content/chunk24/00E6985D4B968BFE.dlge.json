@@ -10,14 +10,14 @@
         "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4612_intelligencemeeting_intelligence_agent_et_006.wav].pc_wes",
         "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4612_intelligencemeeting_intelligence_agent_et_006.animset].pc_animset",
         "languages": {
-            "en": "//(0,30)\\\\I’m sorry about what happened. But you seem to be have come out of it alright!",
+            "en": "//(0,30)\\\\I’m sorry about what happened.//(2.828589,32.82859)\\\\But you seem to be have come out of it alright!",
             "fr": "//(0,2.6)\\\\Désolé pour ce qui s'est passé.//(2.6,32.6)\\\\Mais tu as l'air de t'en être bien sorti !",
             "it": "//(0,30)\\\\Mi spiace per ciò che è successo, però mi sembra che ne siate usciti bene!",
             "de": "//(0,2.828589)\\\\Tut mir leid, was passiert ist.//(2.828589,32.82859)\\\\Aber du scheinst ja gut aus der Sache rausgekommen zu sein.",
             "es": "//(0,30)\\\\Lamento lo ocurrido. ¡Pero parece que saliste de una pieza!",
             "ru": "//(0,2.5)\\\\Я сожалею о том, что произошло.//(2.5,32.5)\\\\Но, судя по всему, ты вышел сухим из воды!",
-            "cn": "//(0,30)\\\\发生那种事了，可真是遗憾呢。不过，你看起来倒是没事啊！",
-            "tc": "//(0,30)\\\\發生那種事了，可真是遺憾呢。不過，你看起來倒是沒事啊！",
+            "cn": "//(0,30)\\\\发生那种事了，可真是遗憾呢。//(2.828589,32.82859)\\\\不过，你看起来倒是没事啊！",
+            "tc": "//(0,30)\\\\發生那種事了，可真是遺憾呢。//(2.828589,32.82859)\\\\不過，你看起來倒是沒事啊！",
             "jp": "//(0,30)\\\\あの件については残念だと思ってる。しかし、お前は無事にやってこれたようだな！"
         }
     }

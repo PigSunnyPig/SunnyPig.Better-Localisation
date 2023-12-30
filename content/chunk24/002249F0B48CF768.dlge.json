@@ -10,14 +10,14 @@
         "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4612_intelligencemeeting_dictator_et_017.wav].pc_wes",
         "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4612_intelligencemeeting_dictator_et_017.animset].pc_animset",
         "languages": {
-            "en": "//(0,30)\\\\You tell me, Jean-Pierre. You tell me. I heard about the file that MI6 wanted back. Then suddenly the Russian and the pretty Spymaster are dead and it was all “an accident”. You tell me.",
+            "en": "//(0,30)\\\\You tell me, Jean-Pierre. You tell me.//(3.360491,6.741472)\\\\I heard about the file that MI6 wanted back. Then suddenly the Russian and the pretty Spymaster are dead and it was all “an accident”. You tell me.",
             "fr": "//(0,3.105)\\\\À toi de me le dire, Jean-Pierre. À toi de me le dire.//(3.105,6.7)\\\\J'ai entendu parler de ce dossier que voulait récupérer le MI6.//(6.7,36.7)\\\\Et soudain, le Russe et la belle espionne meurent par \"accident\". A toi de me le dire.",
             "it": "//(0,3.360491)\\\\Dimmelo tu, Jean-Pierre. Dimmelo tu.//(3.360491,6.741472)\\\\Ho sentito parlare di un fascicolo che l'MI6 voleva riprendersi.//(6.741472,36.74147)\\\\E all'improvviso il russo e la spia fascinosa muoiono, ma è stato \"un incidente\". Dimmelo tu.",
             "de": "//(0,3.8)\\\\Sag du es mir, Jean-Pierre. Sag du es mir.//(3.8,8)\\\\Ich habe von der Akte gehört, die der MI6 zurückhaben will.//(8,38)\\\\Dann sterben plötzlich der Russe und die hübsche Spionin „bei einem Unfall“? Sehr witzig.",
             "es": "//(0,30)\\\\Dímelo tú, Jean-Pierre. Dímelo tú. Sé del archivo que el MI6 quería recuperar. Y luego el ruso y esa monada de espía sufren una muerte repentina \"por accidente\". Dímelo tú.",
             "ru": "//(0,3.696687)\\\\Самому бы знать, Жан-Пьер. Самому бы знать.//(3.696687,6.657)\\\\Слышал, контрразведке понадобились определенные данные.//(6.657,11.422)\\\\Прошла неделя — что русский, что шпионочка мертвы.//(11.422,41.422)\\\\Разумеется, несчастный случай. Самому бы знать...",
-            "cn": "//(0,6.758263)\\\\你告诉我吧，吉恩·皮尔。你告诉我吧。我听说 MI6 想要取回那个档案。//(6.758263,13.51653)\\\\然后那个俄国人和漂亮的间谍大师突然暴毙，还说一切都是「意外」。//(13.51653,15.55652)\\\\你就告诉我吧。",
-            "tc": "//(0,6.758263)\\\\你告訴我吧，吉恩．皮爾。你告訴我吧。我聽說 MI6 想要取回那個檔案。//(6.758263,13.51653)\\\\然後那個俄國人和漂亮的間諜大師突然暴斃，還說一切都是「意外」。//(13.51653,15.55652)\\\\你就告訴我吧。",
+            "cn": "//(0,6.758263)\\\\你告诉我吧，吉恩·皮尔，你就告诉我吧。//(3.360491,6.741472)\\\\我听说军情六处想要取回那个档案。//(6.758263,13.51653)\\\\然后，那个俄国人和漂亮的间谍大师突然暴毙，还说一切都是「事故」。//(13.51653,15.55652)\\\\你就告诉我吧。",
+            "tc": "//(0,6.758263)\\\\你告訴我吧，吉恩．皮爾，你就告訴我吧。//(3.360491,6.741472)\\\\我聽說軍情六處想要取回那個檔案。//(6.758263,13.51653)\\\\然後，那個俄國人和漂亮的間諜大師突然暴斃，還說一切都是「意外」。//(13.51653,15.55652)\\\\你就告訴我吧。",
             "jp": "//(0,6.758263)\\\\ジャン・ ピエール、 俺だって 知りたいよ。 MI6が 取り戻したがって いるファイルの 話を 聞いたことが//(6.758263,13.51653)\\\\ある。 そこで突然、 ロシア人と 美人の スパイマスターが 死んだが、 それは「事故」 だって 言うんだ。//(13.51653,15.55652)\\\\一体何が 起こってるんだか。"
         }
     }

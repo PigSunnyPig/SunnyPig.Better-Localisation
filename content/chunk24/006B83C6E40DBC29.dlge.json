@@ -10,14 +10,14 @@
         "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4612_intelligencemeeting_intelligence_agent_et_018.wav].pc_wes",
         "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4612_intelligencemeeting_intelligence_agent_et_018.animset].pc_animset",
         "languages": {
-            "en": "//(0,30)\\\\If you know something, you must tell me Richard!",
+            "en": "//(0,30)\\\\If you know something, you must tell me, Richard!",
             "fr": "//(0,30)\\\\Si tu sais quelque chose, tu dois me le dire, Richard !",
             "it": "//(0,30)\\\\Se sai qualcosa, devi dirmelo, Richard!",
             "de": "//(0,30)\\\\Falls du etwas weißt, musst du es mir sagen, Richard!",
             "es": "//(0,30)\\\\Richard, ¡si sabes algo, cuéntamelo!",
             "ru": "//(0,30)\\\\Если ты в курсе чего-то, скажи мне, Ричард!",
-            "cn": "//(0,30)\\\\如果你有情报，你得告诉我！",
-            "tc": "//(0,30)\\\\如果你有情報，你得告訴我理查！",
+            "cn": "//(0,30)\\\\如果你有情报，你得告诉我，理查德！",
+            "tc": "//(0,30)\\\\如果你有情報，你得告訴我，理查！",
             "jp": "//(0,30)\\\\何か知ってるなら、俺に教えてくれ。"
         }
     }
