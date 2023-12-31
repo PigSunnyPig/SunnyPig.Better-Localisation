@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/newzealand/31000_sheep/31000_cinematic/31000_laptop.sweetdialog?/31000_laptop_diana_004.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "31000_laptop_diana_004",
+        "soundtag": "Voiceover_Cinematic",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_sheep/31000_cinematic/31000_laptop_diana_004.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_sheep/31000_cinematic/31000_laptop_diana_004.animset].pc_animset",
+        "languages": {
+            "en": "//[DIANA]\\\\//(0,1.836196)\\\\Hold on...//(1.836196,4.095275)\\\\Receiving it now.//(4.095275,9.74865)\\\\Hm. Nothing on the shadow client or the other cells. No names. No aliases.//(9.74865,13.07179)\\\\I doubt she even knows whom she's working for.//(13.07179,14.66688)\\\\Wait, here's something.//(14.66688,18.28073)\\\\A message from Robert Knox of Kronstadt Industries.//(18.28073,21.19813)\\\\And by the sound of it... he's a Providence operative.",
+            "fr": "//[DIANA]\\\\//(0,3.208589)\\\\Attendez... Je les reçois à l'instant.//(3.208589,7.57)\\\\Hmm... Rien sur le client de l'ombre ni sur les autres cellules.//(7.57,9.6)\\\\Pas de noms, pas de pseudonymes.//(9.6,12.95)\\\\Je pense qu'elle ignore même pour qui elle travaille.//(12.95,14.85)\\\\Attendez, je vois quelque chose.//(14.85,19.39098)\\\\Un message de Robert Knox, de Kronstadt Industries, et... apparemment,//(19.39098,49.39098)\\\\c'est un agent de Providence.",
+            "it": "//[DIANA]\\\\//(0,4.14)\\\\Aspetta... Adesso li ricevo.//(4.14,7.905)\\\\Uhm. Niente sul cliente ombra, né sulle altre cellule.//(7.905,10.01)\\\\Nessun nome. Nessun alias.//(10.01,13.235)\\\\Dubito addirittura che sappia per chi lavora.//(13.235,14.94)\\\\Aspetta, qui c'è qualcosa.//(14.94,18.29)\\\\Un messaggio da Robert Knox della Kronstadt Industries.//(18.29,48.29)\\\\Pare proprio... che sia un agente di Providence.",
+            "de": "//[DIANA]\\\\//(0,4.05)\\\\Moment ... Ich empfange sie gerade.//(4.05,9.85)\\\\Hm. Nichts über den Schattenklienten oder die anderen Zellen. Keine Namen. Keine Aliase.//(9.85,12.85)\\\\Sie weiß anscheinend nicht mal, für wen sie arbeitet.//(12.85,14.8)\\\\Moment! Da ist was.//(14.8,18.25)\\\\Eine Nachricht von Robert Knox von Kronstadt Industries.//(18.25,48.25)\\\\Klingt so, als wäre er ... ein Providence-Agent.",
+            "es": "//[DIANA]\\\\//(0,3.340491)\\\\Un momento... Recibiendo ahora. Mmm.//(3.340491,7.153374)\\\\Nada sobre el cliente clandestino ni las otras células.//(7.153374,9.125767)\\\\Ni nombres ni alias.//(9.125767,10.96626)\\\\Dudo mucho que la vasca//(10.96626,13.30675)\\\\sepa siquiera para quién trabaja.//(13.30675,15.39914)\\\\Espera, aquí hay algo.//(15.39914,18.344)\\\\Un mensaje de Robert Knox de Kronstadt Industries.//(18.344,19.816)\\\\Y por como suena...//(19.816,49.816)\\\\el empresario trabaja para Providence.",
+            "ru": "//[DIANA]\\\\//(0,5.004)\\\\Минуточку... Получаю. Хм.//(5.004,7.817)\\\\Тут ни слова про таинственного клиента и другие ячейки.//(7.817,12.89436)\\\\Ни имен, ни псевдонимов. Кажется, она сама не знает, на кого работает.//(12.89436,17.62534)\\\\Стоп. Что-то есть. Сообщение от Роберта Нокса из «Кронштадт Индастриз».//(17.62534,47.62534)\\\\И, судя по тексту, он — агент «Провиденса».",
+            "cn": "//[DIANA]\\\\//(0,4)\\\\稍等......正在接收中。//(4,7.6)\\\\嗯，没有与「影子客户」或其他特工组织的相关信息。//(7.6,13)\\\\没有名字丶没有别名。我估计她连自己在为谁卖命都不知道。//(13,14.886)\\\\等等，我有所发现了 ——//(14.886,18.2)\\\\有一则喀琅施塔得工業的罗伯特·诺克斯发来的消息。//(18.2,48.2)\\\\而且，看起来......他是「神意秘会」的一名特工。",
+            "tc": "//[DIANA]\\\\//(0,4)\\\\稍等......正在接收中。//(4,7.6)\\\\嗯，沒有與「影子客戶」或其他特務組織的相關訊息。//(7.6,13)\\\\沒有名字、沒有化名。我看她連自己在幫誰辦事都不知道。//(13,14.886)\\\\等等，我有所發現了 ——//(14.886,18.2)\\\\這個訊息來自喀琅施塔得工業的羅伯特．諾克斯。//(18.2,48.2)\\\\而且，看起來......他是一名「神意秘會」的特務。",
+            "jp": "//[DIANA]\\\\//(0,3.63)\\\\ちょっと待って... いま受信してるわ。//(3.63,7.78)\\\\ふむ、影のクライアントや関連組織については何もないわね。//(7.78,9.8)\\\\名前も偽名も無し。//(9.8,13)\\\\彼女は自分の雇用主が誰なのかさえ知らないのかもしれない。//(13,14.7)\\\\待って、ひとつ見つけたわ。//(14.7,18.111)\\\\クローンシュタット・インダストリーのロバート・ノックスからのメッセージ。//(18.111,48.111)\\\\この内容からすると... 彼はプロヴィデンスの工作員よ。"
+        }
+    }
+}

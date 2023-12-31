@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/newzealand/31000_sheep/31000_cinematic/31000_laptop.sweetdialog?/31000_laptop_47_005.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "31000_laptop_47_005",
+        "soundtag": "Voiceover_Cinematic",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_sheep/31000_cinematic/31000_laptop_47_005.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_sheep/31000_cinematic/31000_laptop_47_005.animset].pc_animset",
+        "languages": {
+            "en": "//[47]\\\\//(0,30)\\\\A defector.",
+            "fr": "//[47]\\\\//(0,30)\\\\Un transfuge.",
+            "it": "//[47]\\\\//(0,30)\\\\Un disertore.",
+            "de": "//[47]\\\\//(0,30)\\\\Ein Überläufer.",
+            "es": "//[47]\\\\//(0,30)\\\\Un desertor.",
+            "ru": "//[47]\\\\//(0,30)\\\\Перебежчик.",
+            "cn": "//[47]\\\\//(0,30)\\\\还是一个叛徒。",
+            "tc": "//[47]\\\\//(0,30)\\\\還是一名叛徒。",
+            "jp": "//[47]\\\\//(0,30)\\\\離反者か。"
+        }
+    }
+}

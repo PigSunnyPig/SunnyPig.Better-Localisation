@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_story/dr25072_lostlove_reveal3.sweetdialog?/dr25072_lostlove_reveal3_civfemhi02_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr25072_lostlove_reveal3_civfemhi02_001",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_story/dr25072_lostlove_reveal3_civfemhi02_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_story/dr25072_lostlove_reveal3_civfemhi02_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,2)\\\\This is ridiculous.//(2,3.6)\\\\I have business on the hill.//(3.6,5.58)\\\\There's no way for me to go around.//(5.58,11.57055)\\\\You can't just close the hill like that.",
+            "fr": "//(0,2.2)\\\\C'est ridicule.//(2.2,5.8)\\\\J'ai des affaires à traiter sur la colline, je dois y aller !//(5.8,9.586258)\\\\Vous ne pouvez pas en interdire l'accès comme ça.",
+            "it": "//(0,4)\\\\È ridicolo! Io devo passare, ho delle cose importanti da fare sulla collina.//(4,9.218159)\\\\Non potete chiudere l'accesso così come se niente fosse.",
+            "de": "//(0,1.226101)\\\\Das ist doch lächerlich.//(1.226101,3.367487)\\\\Ich habe geschäftlich auf dem Hügel zu tun.//(3.367487,5.280052)\\\\Ich kann da nicht einfach drumherum gehen.//(5.280052,7.421437)\\\\Sie können nicht einfach so den Hügel absperren.",
+            "es": "//(0,1.604294)\\\\Esto es ridículo.//(1.604294,3.981)\\\\Tengo cosas que hacer en la colina.//(3.981,5.59)\\\\No puedo ponerme a dar rodeos.//(5.59,10.83436)\\\\No podéis cerrar la colina así como así.",
+            "ru": "//(0,2.604)\\\\Это какая-то чушь.//(2.604,5.705)\\\\Я иду на холм по делам, и обходного пути нет.//(5.705,9.350061)\\\\Вы не имеете права вот так перекрывать дорогу.",
+            "cn": "//(0,5.579)\\\\这真是太荒唐了，我还要上山去忙自己的工作呢。//(3.968,33.968)\\\\你们这样我根本就过不去了，你们不能就这样把整座山都封住了。",
+            "tc": "//(0,3.968)\\\\這真是太荒唐了，我還要上山去忙自己的工作呢。//(3.968,33.968)\\\\你們這樣我根本就過不去了，你們不能就這樣把整座山都封住了。",
+            "jp": "//(0,4)\\\\一体どういうことよ。私は丘で用事があるのよ。//(4,5.368)\\\\迂回することもできないじゃない。通行禁止なんてありえないわ。"
+        }
+    }
+}
