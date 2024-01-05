@@ -1,9 +1,9 @@
 {
-	"version": "3.3.4",
+	"version": "3.3.5",
 	"id": "SunnyPig.BetterLocalisation",
 	"name": "更优质的本地化翻译 Better Localisation",
 	"updateCheck": "https://raw.githubusercontent.com/PigSunnyPig/SunnyPig.github.io/main/updater.json",
-	"description": "优化《杀手：暗杀世界》的汉化文本(繁丶简皆有)，包括挑战丶武器及服装丶起始位置及偷运道具丶主线及支线内容……",
+	"description": "优化《杀手：暗杀世界》的汉化文本(繁丶简皆有)，包括挑战丶武器及服装丶起始位置及偷运道具丶主线及支线任务简报及字幕……",
 	"authors": [
 		"SunnyPigPig & Shiroibako"
 	],
