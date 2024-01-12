@@ -27,4 +27,4 @@
 - Janus & Suanjiansalt (杰哥 及 酸碱食盐): 曾提供 rpkg 工具的幫助。
 - Dribbleondo & The Mafia: 作為靈感來源。
 - te47: 提供 Auto-Update 和 GitHub 的幫助。
-- Shiroibako: 傳授的 MOD 製作經驗。
+- WINNODD: 傳授的 MOD 製作經驗。
