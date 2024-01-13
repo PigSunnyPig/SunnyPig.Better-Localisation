@@ -4,23 +4,25 @@
 	"name": "更优质的本地化翻译 Better Localisation",
 	"updateCheck": "https://raw.githubusercontent.com/PigSunnyPig/SunnyPig.github.io/main/updater.json",
 	"description": "优化《杀手：暗杀世界》的汉化文本(繁丶简皆有)，包括挑战丶武器及服装丶起始位置及偷运道具丶主线及支线任务简报及字幕…… 请点击下方的「齿轮」图标，以查看详细说明。",
-	"authors": ["SunnyPigPig & Shiroibako"],
-	"contentFolders": ["content"],
+	"authors": [
+		"SunnyPigPig & Shiroibako"
+	],
 	"frameworkVersion": "2.33.7",
+	"loadBefore": [
+		"Lv.KumaCasual"
+	],
 	"options": [
 	{
+		"group": "(1) 装备与武器 Items & Weapons",
 		"name": "默认版本",
 		"tooltip": "不作任何更改，显示《杀手：暗杀世界》里的原版文本。",
-		"image": "",
-		"type": "select",
-		"group": "(1) 装备与武器 Items & Weapons"
+		"type": "select"
 	},
 	{
+		"group": "(1) 装备与武器 Items & Weapons",
 		"name": "优化版本",
 		"tooltip": "优化《杀手：暗杀世界》里的大量装备与武器名字，并补充其内容简介。",
-		"image": "",
 		"type": "select",
-		"group": "(1) 装备与武器 Items & Weapons",
 		"localisationOverrides": {
 			"0072D1A320470342": 
 			{
@@ -1362,18 +1364,16 @@
 		"enabledByDefault": true
 	},
 	{
+		"group": "(2) 西装与伪装 Suits & Disguises",
 		"name": "默认版本",
 		"tooltip": "不作任何更改，显示《杀手：暗杀世界》里的原版文本。",
-		"image": "",
-		"type": "select",
-		"group": "(2) 西装与伪装 Suits & Disguises"
+		"type": "select"
 	},
 	{
+		"group": "(2) 西装与伪装 Suits & Disguises",
 		"name": "优化版本",
 		"tooltip": "优化《杀手：暗杀世界》里的所有西装与伪装名字，并补充其内容简介。",
-	    "image": "",
 		"type": "select",
-		"group": "(2) 西装与伪装 Suits & Disguises",
 		"contentFolders": ["content/Suits_And_Disguises"],
 		"localisationOverrides": {
 			"00985A1100E5EDDC":
@@ -3539,19 +3539,16 @@
 		"enabledByDefault": true
 	},
 	{
+		"group": "(3) 挑战 Challenges",
 		"name": "默认版本",
 		"tooltip": "不作任何更改，显示《杀手：暗杀世界》里的原版文本。",
-		"image": "",
-		"type": "select",
-		"group": "(3) 挑战 Challenges"
+		"type": "select"
 	},
 	{
+		"group": "(3) 挑战 Challenges",
 		"name": "优化版本",
 		"tooltip": "优化《杀手：暗杀世界》里的大量挑战文本。",
-		"image": "",
 		"type": "select",
-		"group": "(3) 挑战 Challenges",
-		"contentFolders": ["content/Challenges"],
 		"localisationOverrides": {
 			"00DC202021F89A51":
 			{
@@ -5783,18 +5780,16 @@
 		"enabledByDefault": true
 	},
 	{
+		"group": "(4) 起始位置与特工接应处 Starting Locations & Agency Pick-ups",
 		"name": "默认版本",
 		"tooltip": "不作任何更改，显示《杀手：暗杀世界》里的原版文本。",
-		"image": "",
-		"type": "select",
-		"group": "(4) 起始位置与特工接应处 Starting Locations & Agency Pick-ups"
+		"type": "select"
 	},
 	{
+		"group": "(4) 起始位置与特工接应处 Starting Locations & Agency Pick-ups",
 		"name": "优化版本",
 		"tooltip": "优化《杀手：暗杀世界》里的起始位置与特工接应处的文本，并补充其内容简介。",
-		"image": "",
 		"type": "select",
-		"group": "(4) 起始位置与特工接应处 Starting Locations & Agency Pick-ups",
 		"localisationOverrides": {
 			"00990F92D8761960": 
 			{
@@ -7413,18 +7408,16 @@
 		"enabledByDefault": true
 	},
 	{
+		"group": "(5) 契约、升级契约及 ETA 街机 Contracts, Escalations & ETAs",
 		"name": "默认版本",
 		"tooltip": "不作任何更改，显示《杀手：暗杀世界》里的原版文本。",
-		"image": "",
-		"type": "select",
-		"group": "(5) 契约、升级契约及 ETA 街机 Contracts, Escalations & ETAs"
+		"type": "select"
 	},
 	{
+		"group": "(5) 契约、升级契约及 ETA 街机 Contracts, Escalations & ETAs",
 		"name": "优化版本",
 		"tooltip": "优化《杀手：暗杀世界》里的大量装备与武器名字，并补充其内容简介。",
-		"image": "",
 		"type": "select",
-		"group": "(5) 契约、升级契约及 ETA 街机 Contracts, Escalations & ETAs",
 		"localisationOverrides": {
 			"00A8578759697C3B":
 			{
@@ -11636,35 +11629,31 @@
 		"enabledByDefault": true
 	},
 	{
+		"group": "(6) 主线故事 Main Story",
 		"name": "默认版本",
 		"tooltip": "不作任何更改，显示《杀手：暗杀世界》里的原版文本。",
-		"image": "",
-		"type": "select",
-		"group": "(6) 主线故事 Main Story"
+		"type": "select"
 	},
 	{
+		"group": "(6) 主线故事 Main Story",
 		"name": "优化版本",
 		"tooltip": "优化《杀手：暗杀世界》里的全部任务简报与故事动画的字幕，以及部分地图 NPC 的对话字幕。",
-		"image": "",
 		"type": "select",
-		"group": "(6) 主线故事 Main Story",
 		"contentFolders": ["content/Story_Missions"],
 		"enabledByDefault": true
 	},
 	{
+		"group": "(7) 行踪不定的目标与支线任务 Elusive Targets & Side Missions",
 		"name": "默认版本",
 		"tooltip": "不作任何更改，显示《杀手：暗杀世界》里的原版文本。",
-		"image": "",
-		"type": "select",
-		"group": "(7) 行踪不定的目标与支线任务 Elusive Targets & Side Missions"
+		"type": "select"
 	},
 	{
+		"group": "(7) 行踪不定的目标与支线任务 Elusive Targets & Side Missions",
 		"name": "优化版本",
 		"tooltip": "优化《杀手：暗杀世界》里的「行踪不定的目标」及全部支线内容，如为欠缺字幕的目标新增字幕、修复音画不同步的情况等。",
-		"image": "",
 		"type": "select",
-		"group": "(7) 行踪不定的目标与支线任务 Elusive Targets & Side Missions",
-		"contentFolders": ["content/Items_And_Weapons"],
+		"contentFolders": ["content/Elusive_Targets"],
 		"localisationOverrides": {
 			"00C796C90662568C": 
 			{
@@ -12210,18 +12199,16 @@
 		"enabledByDefault": true
 	},
 	{
+		"group": "(8) 狙击手刺客 Sniper Assassin",
 		"name": "默认版本",
 		"tooltip": "不作任何更改，显示《杀手：暗杀世界》里的原版文本。",
-		"image": "",
-		"type": "select",
-		"group": "(8) 狙击手刺客 Sniper Assassin"
+		"type": "select"
 	},
 	{
+		"group": "(8) 狙击手刺客 Sniper Assassin",
 		"name": "优化版本",
 		"tooltip": "优化《杀手：暗杀世界》里的「狙击手刺客」内容，如使击杀条件更加明确、改善任务简报等。",
-		"image": "",
 		"type": "select",
-		"group": "(8) 狙击手刺客 Sniper Assassin",
 		"contentFolders": ["content/Sniper_Assassin"],
 		"localisationOverrides": {
 			"0036D2B1CD64551B":
@@ -12338,18 +12325,16 @@
 		"enabledByDefault": true
 	},
 	{
+		"group": "(9) 自由职业者 Freelancer",
 		"name": "默认版本",
 		"tooltip": "不作任何更改，显示《杀手：暗杀世界》里的原版文本。",
-		"image": "",
-		"type": "select",
-		"group": "(9) 自由职业者 Freelancer"
+		"type": "select"
 	},
 	{
+		"group": "(9) 自由职业者 Freelancer",
 		"name": "优化版本",
 		"tooltip": "优化《杀手：暗杀世界》里的「自由职业者」内容，如使击杀条件更加明确。",
-		"image": "",
 		"type": "select",
-		"group": "(9) 自由职业者 Freelancer",
 		"localisationOverrides": {
 			"0031D320C0F9FF08":
 			{
