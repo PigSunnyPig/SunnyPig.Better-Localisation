@@ -21,6 +21,7 @@
 # 製作人員 Credit：
 - SunnyPigPig: 負責整個 MOD 的製作，如優化文本、修改機翻錯誤等。
 - Shiroibako: 負責 MOD 的字幕修正，如字幕調較、增加缺失字眼等。
+- Element120: 負責 MOD 的字體優化，如增加粗體文字等。
 
 
 # 特別鳴謝 Special Thanks：
