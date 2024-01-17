@@ -5793,14 +5793,6 @@
 		"enabledByDefault": true
 	},
 	{
-		"name": "图片优化版本 (测试)",
-		"image": "framework content/Challenges_3.png",
-		"tooltip": "优化刺杀及经典挑战的图片，将其还原成《杀手 2018》时的样子。",
-		"type": "checkbox",
-		"contentFolders": ["mod content/Challenges"],
-		"enabledByDefault": true
-	},
-	{
 		"group": "(4) 起始位置与特工接应处 Starting Locations & Agency Pick-ups",
 		"name": "默认版本",
 		"image": "framework content/Starting_Loadout_1.png",
