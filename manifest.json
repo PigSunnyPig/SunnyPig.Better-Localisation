@@ -5793,7 +5793,7 @@
 		"enabledByDefault": true
 	},
 	{
-		"name": "图片优化版本",
+		"name": "图片优化版本 (测试)",
 		"image": "framework content/Challenges_3.png",
 		"tooltip": "优化刺杀及经典挑战的图片，将其还原成《杀手 2018》时的样子。",
 		"type": "checkbox",
