@@ -9,12 +9,10 @@
 	],
 	"frameworkVersion": "2.33.7",
 	"loadBefore": [
-		"Lv.KumaCasual"
-	],
-	"loadAfter": [
-		"mext.XXI-22",
+		"Lv.KumaCasual",
+		"mext.XXI-21",
 		"mext.Michael",
-		"next.Sadie_Adler",
+		"mext.Sadie_Adler",
 		"mext.Spider_Gwen",
 		"mext.Ashley_Graham",
 		"mext.Harleen_Quinn",
@@ -24,12 +22,14 @@
 	{
 		"group": "(1) 装备与武器 Items & Weapons",
 		"name": "默认版本",
+		"image": "framework content/Items_And_Weapons_1.png",
 		"tooltip": "不作任何更改，显示《杀手：暗杀世界》里的原版文本。",
 		"type": "select"
 	},
 	{
 		"group": "(1) 装备与武器 Items & Weapons",
 		"name": "优化版本",
+		"image": "framework content/Items_And_Weapons_2.png",
 		"tooltip": "优化《杀手：暗杀世界》里的大量装备与武器名字，并补充其内容简介。",
 		"type": "select",
 		"localisationOverrides": {
@@ -1415,15 +1415,17 @@
 	{
 		"group": "(2) 西装与伪装 Suits & Disguises",
 		"name": "默认版本",
+		"image": "framework content/Suits_And_Disguises_1.png",
 		"tooltip": "不作任何更改，显示《杀手：暗杀世界》里的原版文本。",
 		"type": "select"
 	},
 	{
 		"group": "(2) 西装与伪装 Suits & Disguises",
 		"name": "优化版本",
+		"image": "framework content/Suits_And_Disguises_2.png",
 		"tooltip": "优化《杀手：暗杀世界》里的所有西装与伪装名字，并补充其内容简介。（目前完成度：70%）",
 		"type": "select",
-		"contentFolders": ["content/Suits_And_Disguises"],
+		"contentFolders": ["mod content/Suits_And_Disguises"],
 		"localisationOverrides": {
 			"00985A1100E5EDDC":
 			{
@@ -3590,12 +3592,14 @@
 	{
 		"group": "(3) 挑战 Challenges",
 		"name": "默认版本",
+		"image": "framework content/Challenges_1.png",
 		"tooltip": "不作任何更改，显示《杀手：暗杀世界》里的原版文本。",
 		"type": "select"
 	},
 	{
 		"group": "(3) 挑战 Challenges",
 		"name": "优化版本",
+		"image": "framework content/Challenges_2.png",
 		"tooltip": "优化《杀手：暗杀世界》里的大量挑战文本，使当中的文字描述更加明确。",
 		"type": "select",
 		"localisationOverrides": {
@@ -5789,14 +5793,24 @@
 		"enabledByDefault": true
 	},
 	{
+		"name": "图片优化版本",
+		"image": "framework content/Challenges_3.png",
+		"tooltip": "优化刺杀及经典挑战的图片，将其还原成《杀手 2018》时的样子。",
+		"type": "checkbox",
+		"contentFolders": ["mod content/Challenges"],
+		"enabledByDefault": true
+	},
+	{
 		"group": "(4) 起始位置与特工接应处 Starting Locations & Agency Pick-ups",
 		"name": "默认版本",
+		"image": "framework content/Starting_Loadout_1.png",
 		"tooltip": "不作任何更改，显示《杀手：暗杀世界》里的原版文本。",
 		"type": "select"
 	},
 	{
 		"group": "(4) 起始位置与特工接应处 Starting Locations & Agency Pick-ups",
 		"name": "优化版本",
+		"image": "framework content/Starting_Loadout_2.png",
 		"tooltip": "优化《杀手：暗杀世界》里的起始位置与特工接应处的文本，并补充其内容简介。",
 		"type": "select",
 		"localisationOverrides": {
@@ -7419,12 +7433,14 @@
 	{
 		"group": "(5) 契约、升级契约及 ETA 街机 Contracts, Escalations & ETAs",
 		"name": "默认版本",
+		"image": "framework content/Game_Modes_1.png",
 		"tooltip": "不作任何更改，显示《杀手：暗杀世界》里的原版文本。",
 		"type": "select"
 	},
 	{
 		"group": "(5) 契约、升级契约及 ETA 街机 Contracts, Escalations & ETAs",
 		"name": "优化版本",
+		"image": "framework content/Game_Modes_2.png",
 		"tooltip": "优化《杀手：暗杀世界》里的大量装备与武器名字，并补充其内容简介。",
 		"type": "select",
 		"localisationOverrides": {
@@ -11640,29 +11656,33 @@
 	{
 		"group": "(6) 主线故事 Main Story",
 		"name": "默认版本",
+		"image": "framework content/Main_Story_1.png",
 		"tooltip": "不作任何更改，显示《杀手：暗杀世界》里的原版文本。",
 		"type": "select"
 	},
 	{
 		"group": "(6) 主线故事 Main Story",
 		"name": "优化版本",
+		"image": "framework content/Main_Story_2.png",
 		"tooltip": "优化《杀手：暗杀世界》里的全部任务简报与故事动画的字幕，以及部分地图 NPC 的对话字幕。（目前完成度：65%）",
 		"type": "select",
-		"contentFolders": ["content/Story_Missions"],
+		"contentFolders": ["mod content/Story_Missions"],
 		"enabledByDefault": true
 	},
 	{
 		"group": "(7) 行踪不定的目标与支线任务 Elusive Targets & Side Missions",
 		"name": "默认版本",
+		"image": "framework content/Elusive_Targets_1.png",
 		"tooltip": "不作任何更改，显示《杀手：暗杀世界》里的原版文本。",
 		"type": "select"
 	},
 	{
-		"group": "行踪不定的目标与支线任务 Elusive Targets & Side Missions",
+		"group": "(7) 行踪不定的目标与支线任务 Elusive Targets & Side Missions",
 		"name": "优化版本",
+		"image": "framework content/Elusive_Targets_2.png",
 		"tooltip": "优化《杀手：暗杀世界》里的「行踪不定的目标」及全部支线内容，如为欠缺字幕的目标新增字幕、修复音画不同步的情况等。（目前完成度：30%）",
 		"type": "select",
-		"contentFolders": ["content/Elusive_Targets"],
+		"contentFolders": ["mod content/Elusive_Targets"],
 		"localisationOverrides": {
 			"00C796C90662568C": 
 			{
@@ -12210,15 +12230,17 @@
 	{
 		"group": "(8) 狙击手刺客 Sniper Assassin",
 		"name": "默认版本",
+		"image": "framework content/Sniper_Assassin_1.png",
 		"tooltip": "不作任何更改，显示《杀手：暗杀世界》里的原版文本。",
 		"type": "select"
 	},
 	{
 		"group": "(8) 狙击手刺客 Sniper Assassin",
 		"name": "优化版本",
+		"image": "framework content/Sniper_Assassin_2.png",
 		"tooltip": "优化《杀手：暗杀世界》里的「狙击手刺客」内容，如使击杀条件更加明确、改善任务简报等。（目前完成度：60%）",
 		"type": "select",
-		"contentFolders": ["content/Sniper_Assassin"],
+		"contentFolders": ["mod content/Sniper_Assassin"],
 		"localisationOverrides": {
 			"0036D2B1CD64551B":
 			{
@@ -12336,12 +12358,14 @@
 	{
 		"group": "(9) 自由职业者 Freelancer",
 		"name": "默认版本",
+		"image": "framework content/Freelancer_1.png",
 		"tooltip": "不作任何更改，显示《杀手：暗杀世界》里的原版文本。",
 		"type": "select"
 	},
 	{
 		"group": "(9) 自由职业者 Freelancer",
 		"name": "优化版本",
+		"image": "framework content/Freelancer_2.png",
 		"tooltip": "优化《杀手：暗杀世界》里的「自由职业者」内容，如使当中的击杀条件描述更加明确。（未完成）",
 		"type": "select",
 		"localisationOverrides": {
@@ -12602,15 +12626,17 @@
 	{
 		"group": "(10) 字体优化 Font Improvements",
 		"name": "默认版本",
+		"image": "framework content/Font_Improvements_1.png",
 		"tooltip": "不作任何更改，显示《杀手：暗杀世界》里的原版字体。",
 		"type": "select"
 	},
 	{
 		"group": "(10) 字体优化 Font Improvements",
 		"name": "优化版本",
+		"image": "framework content/Font_Improvements_2.png",
 		"tooltip": "优化《杀手：暗杀世界》里的字体，将其变为更美观的粗版字体。注意：此选项仅针对简体中文。",
 		"type": "select",
-		"contentFolders": ["content/Font_Improvements"],
+		"contentFolders": ["mod content/Font_Improvements"],
 		"enabledByDefault": true
 	}
 ],
