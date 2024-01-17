@@ -9,7 +9,9 @@
 	],
 	"frameworkVersion": "2.33.7",
 	"loadBefore": [
-		"Lv.KumaCasual",
+		"Lv.KumaCasual"
+	],
+	"loadAfter": [
 		"mext.XXI-22",
 		"mext.Michael",
 		"next.Sadie_Adler",
