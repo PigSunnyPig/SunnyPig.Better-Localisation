@@ -1,0 +1,29 @@
+{
+    "6eccc7e1-e31b-42de-8f84-b88d8e0032ea": {
+        "ModelBodyPartSelections": [
+            0,
+            1,
+            1,
+            1,
+            1,
+            0,
+            1,
+            2,
+            0,
+            1
+        ],
+        "ModelSkinSelections": [
+            3,
+            1,
+            2,
+            3,
+            3,
+            4,
+            3,
+            3,
+            4,
+            3,
+            0
+        ]
+    }
+}
