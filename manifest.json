@@ -11735,10 +11735,10 @@
 		"type": "select"
 	},
 	{
-		"group": ") 行踪不定的目标 Elusive Targets",
+		"group": "(7) 行踪不定的目标 Elusive Targets",
 		"name": "优化版本",
 		"image": "framework content/Elusive_Targets_2.png",
-		"tooltip": "优化《杀手：暗杀世界》里的全部「行踪不定的目标」的内容，如为欠缺字幕的目标新增字幕、修复音画不同步的情况等。（目前完成度：50%）",
+		"tooltip": "优化《杀手：暗杀世界》里的全部「行踪不定的目标」的内容，如为欠缺字幕的目标新增字幕、修复音画不同步的情况等。（目前完成度：65%）",
 		"type": "select",
 		"contentFolders": ["mod content/Elusive_Targets"],
 		"localisationOverrides": {
