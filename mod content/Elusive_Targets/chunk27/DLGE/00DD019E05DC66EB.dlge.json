@@ -10,15 +10,15 @@
         "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_shandy/3000_shandy_story/dr3675_jbjguest01_female_party_guest_et_003.wav].pc_wes",
         "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_shandy/3000_shandy_story/dr3675_jbjguest01_female_party_guest_et_003.animset].pc_animset",
         "languages": {
-            "en": "//(1.8,3.8)\\\\I just love it!",
-            "fr": "//(0,3.5)\\\\C'est génial !",
-            "it": "//(0,3.5)\\\\È meravigliosa!",
-            "de": "//(1.3,31.3)\\\\Ist echt spitze!",
-            "es": "//(0,3.5)\\\\¡Me encanta!",
-            "ru": "//(0,3.5)\\\\Потрясно!",
-            "cn": "//(0,3.5)\\\\我爱死它了！",
-            "tc": "//(0,3.5)\\\\我愛死它了！",
-            "jp": "//(0,3.5)\\\\もう最高！"
+            "en": "//(0.2,3.5)\\\\I just love it!",
+            "fr": "//(0.2,3.5)\\\\C'est génial !",
+            "it": "//(0.2,3.5)\\\\È meravigliosa!",
+            "de": "//(0.2,3.5)\\\\Ist echt spitze!",
+            "es": "//(0.2,3.5)\\\\¡Me encanta!",
+            "ru": "//(0.2,3.5)\\\\Потрясно!",
+            "cn": "//(0.2,3.5)\\\\我爱死它了！",
+            "tc": "//(0.2,3.5)\\\\我愛死它了！",
+            "jp": "//(0.2,3.5)\\\\もう最高！"
         }
     }
 }

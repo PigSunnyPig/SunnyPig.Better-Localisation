@@ -10,14 +10,14 @@
         "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_kirroyal/3000_kirroyal_story/dr3656_torvikdahaliaofficetalk_torvik_et_002.wav].pc_wes",
         "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_kirroyal/3000_kirroyal_story/dr3656_torvikdahaliaofficetalk_torvik_et_002.animset].pc_animset",
         "languages": {
-            "en": "//(0,30)\\\\There is a time element involved here. I hope you realize that, Ms. Margolis. I have other obligations.",
+            "en": "//(0,2.058589)\\\\There is a time element involved here.//(2.058589,4.191472)\\\\I hope you realize that, Ms. Margolis.//(4.191472,34.19147)\\\\I have other obligations.",
             "fr": "//(0,30)\\\\Le facteur temps est important. J'espère que vous le réalisez, Mlle Margolis. J'ai d'autres obligations.",
             "it": "//(0,2.058589)\\\\È tutta una questione di tempo.//(2.058589,4.191472)\\\\Spero che lei se ne renda conto, signorina Margolis.//(4.191472,34.19147)\\\\Ho altre cose di cui occuparmi.",
             "de": "//(0,4.269)\\\\Meine Zeit ist begrenzt. Hoffentlich ist Ihnen das bewusst, Miss Margolis.//(4.269,34.269)\\\\Ich habe noch andere Verpflichtungen.",
             "es": "//(0,2)\\\\El tiempo que tenemos es limitado.//(2,32)\\\\Espero que sea consciente de eso, señorita Margolis. Tengo otras obligaciones.",
             "ru": "//(0,2.1)\\\\Я трачу на это свое время.//(2.1,4.4)\\\\Я надеюсь, вы понимаете это, мисс Марголис.//(4.4,34.4)\\\\Кроме того, у меня есть договоренности с другими людьми.",
-            "cn": "//(0,30)\\\\此事时间紧迫。希望你能够谅解，玛戈利斯女士。我还有其他事得去做。",
-            "tc": "//(0,30)\\\\此事時間緊迫。希望你能夠諒解，馬戈利斯女士。我還有其他事得去做。",
+            "cn": "//(0,2.058589)\\\\此事正处于燃眉之急。//(2.058589,4.191472)\\\\我希望你能够意识到这一点，玛戈利斯女士。//(4.191472,34.19147)\\\\我还有其他必须要做的事情。",
+            "tc": "//(0,2.058589)\\\\此事正處於燃眉之急。//(2.058589,4.191472)\\\\我希望你能夠意識到這一點，馬戈利斯女士。//(4.191472,34.19147)\\\\我還有其他必須要做的事情。",
             "jp": "//(0,30)\\\\時間は 無限に あるわけじゃ ない。 マーゴリスさん。 私にも やらなきゃいけないことが あるの。"
         }
     }

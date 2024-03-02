@@ -1,0 +1,12 @@
+{
+    "FIREARMS_SMG_DAK_X2_RUSTY":{
+        "Properties": {
+            "LoadoutSlot": "concealedweapon"
+        }
+    },
+    "FIREARMS_HERO_SMG_TAC_SMG_MAKESHIFT":{
+        "Properties": {
+            "LoadoutSlot": "concealedweapon"
+        }
+    }
+}

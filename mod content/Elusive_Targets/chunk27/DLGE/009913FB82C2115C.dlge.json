@@ -10,14 +10,14 @@
         "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_kirroyal/3000_kirroyal_story/dr3657_dhaliareturns_torvik_et_010.wav].pc_wes",
         "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_kirroyal/3000_kirroyal_story/dr3657_dhaliareturns_torvik_et_010.animset].pc_animset",
         "languages": {
-            "en": "//(0,30)\\\\I see the transfer. Thank you, Ms. Margolis. We will not be working together again.",
+            "en": "//(0,3.082883)\\\\I see the transfer. Thank you, Ms. Margolis.//(3.082883,33.08288)\\\\We will not be working together again.",
             "fr": "//(0,30)\\\\Je vois le transfert. Merci, Mlle Margolis. C'était la dernière fois que nous travaillions ensemble.",
             "it": "//(0,1.408589)\\\\Adesso riesco a vedere il denaro.//(1.408589,3.082883)\\\\Grazie, signorina Margolis.//(3.082883,33.08288)\\\\Questa è l'ultima volta che collaboreremo.",
             "de": "//(0,2.415)\\\\Das Geld ist eingegangen. Vielen Dank, Miss Margolis.//(2.415,32.415)\\\\Wir werden leider keine Geschäfte mehr machen.",
             "es": "//(0,30)\\\\Veo la transferencia. Gracias, señorita Margolis. No volveremos a trabajar juntas de nuevo.",
             "ru": "//(0,1.486196)\\\\Вижу перевод.//(1.486196,3.110491)\\\\Спасибо, мисс Марголис.//(3.110491,33.11049)\\\\Больше дел мы с вами иметь не будем.",
-            "cn": "//(0,30)\\\\我已经看见你的汇款了。谢谢你，玛戈利斯女士。我们以后不会再合作了。",
-            "tc": "//(0,30)\\\\我已經看見你的匯款了。謝謝你，馬戈利斯女士。我們以後不會再合作了。",
+            "cn": "//(0,3.082883)\\\\我已经看见你的汇款了。谢谢你，玛戈利斯女士。//(3.082883,33.08288)\\\\我们以后不会再合作了。",
+            "tc": "//(0,3.082883)\\\\我已經看見你的匯款了。謝謝你，馬戈利斯女士。//(3.082883,33.08288)\\\\我們以後不會再合作了。",
             "jp": "//(0,30)\\\\送金を確認したわ。ありがとうございます。会うのはこれが最後になるでしょう。"
         }
     }
