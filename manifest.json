@@ -7950,7 +7950,7 @@
 		"enabledByDefault": true
 	},
 	{
-		"group": "(5) 契约、升级契约及 ETA 街机 Contracts, Escalations & ETAs",
+		"group": "(5) 契约、升级契约及 ETA 街机契约 Contracts, Escalations & ETAs",
 		"name": "默认版本",
 		"image": "framework content/Game_Modes_1.png",
 		"tooltip": "不作任何更改，显示《杀手：暗杀世界》里的原版文本。",
