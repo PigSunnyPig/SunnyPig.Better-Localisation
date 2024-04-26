@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4611_hint.sweetdialog?/dr4611_hint_waiter_male_et_005.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr4611_hint_waiter_male_et_005",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4611_hint_waiter_male_et_005.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4611_hint_waiter_male_et_005.animset].pc_animset",
+        "languages": {
+            "en": "//(0,3.064785)\\\\I saw! They’ve got it all covered, too.//(3.064785,33.06479)\\\\I’m sure I saw someone sweeping the back garden, you know, where those slippery drainpipes are?",
+            "fr": "//(0,2.7)\\\\J'ai vu ! Et il n'y a pas que ça !//(2.7,4.9)\\\\Je suis sûr d'avoir vu quelqu'un fouiller le jardin, derrière.//(4.9,34.9)\\\\Tu sais, là où il y a ces gouttières glissantes ?",
+            "it": "//(0,4.834)\\\\Ho visto! E non tralasciano nulla. Qualcuno stava pattugliando anche il giardino sul retro.//(4.834,34.834)\\\\Quello con i tubi di scarico scivolosi, hai presente?",
+            "de": "//(0,2.9)\\\\Hab ich gesehen. Die haben alles abgeriegelt.//(2.9,5.1)\\\\Vorhin hab ich sie sogar im Garten gesehen.//(5.1,35.1)\\\\Hinten, bei diesen feuchten Abflussrohren.",
+            "es": "//(0,2.8)\\\\¡Lo he visto! Además, lo tienen todo cubierto.//(2.8,4.8)\\\\Juro haber visto a alguien haciendo un barrido en el jardín de atrás.//(4.8,34.8)\\\\Ya sabes, donde están esas escurridizas cañerías.",
+            "ru": "//(0,2.896687)\\\\Да, видел! Они следят за всем зданием.//(2.896687,32.89669)\\\\По-моему, я даже видел кого-то на заднем дворе. Около скользких сточных труб.",
+            "cn": "//(0,3.065)\\\\我看见了！他们通通都处理好了。//(3.065,33.065)\\\\我敢肯定我看见有人在打扫后院，你也知道，就在那些滑不溜秋的排水管那里。",
+            "tc": "//(0,3.065)\\\\我看見了！他們通通都處理好了。//(3.065,33.065)\\\\我敢肯定我看見有人在打掃後院，你也知道，就在那些滑不溜丟的排水管那裡。",
+            "jp": "//(0,30)\\\\厳重だな。 たしか、 誰かが裏庭を 調べて いたのを 見たはずだ、 あの滑りやすい排水管の あるところだよ。"
+        }
+    }
+}

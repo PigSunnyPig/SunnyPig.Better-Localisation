@@ -1,0 +1,125 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4617_ordiering_richard.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "dr4617_ordiering_richard_dictator_et_001",
+                "weight": 0.1666666368643425,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4617_ordiering_richard_dictator_et_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4617_ordiering_richard_dictator_et_001.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,3.2)\\\\Do you actually have any food in your restaurant?//(3.2,33.2)\\\\No, let me look at the menu.",
+                    "fr": "//(0,30)\\\\Vous avez quoi que ce soit à manger dans votre restaurant ? Non, passez-moi la carte.",
+                    "it": "//(0,30)\\\\Quindi avete del cibo in questo ristorante? Ok, do uno sguardo al menu...",
+                    "de": "//(0,30)\\\\Gibt es in dem Laden hier überhaupt was zu essen? Nein, bringen Sie mir die Karte.",
+                    "es": "//(0,30)\\\\¿De verdad tenéis comida en el restaurante? No, deja que mire el menú.",
+                    "ru": "//(0,30)\\\\У вас вообще что-нибудь есть? Нет, дайте я меню посмотрю.",
+                    "cn": "//(0,30)\\\\你们这间餐馆到底有没有食物？//(3.2,33.2)\\\\不，让我看看菜单。",
+                    "tc": "//(0,30)\\\\你們這間餐廳到底有沒有食物？//(3.2,33.2)\\\\不，讓我看看菜單。",
+                    "jp": "//(0,30)\\\\このレストランに、ちゃんとした料理はあるのか？ まあ、メニューを見てみよう。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr4617_ordiering_richard_dictator_et_002",
+                "weight": 0.1666666368643425,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4617_ordiering_richard_dictator_et_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4617_ordiering_richard_dictator_et_002.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,2.9)\\\\By all means. After all, I’m sure it’s very good.//(3.4,33.4)\\\\This.",
+                    "fr": "//(0,30)\\\\Certainement. Après tout, je suis certain que tout doit être délicieux. Ceci.",
+                    "it": "//(0,30)\\\\Certamente. D'altra parte, sono sicuro che sia tutto squisito. Ecco, questo!",
+                    "de": "//(0,3.476687)\\\\Natürlich. Vermutlich schmeckt ohnehin alles gleich gut.//(3.95,33.95)\\\\Das hier.",
+                    "es": "//(0,30)\\\\Por supuesto. Después de todo, seguro que todo está genial. Esto.",
+                    "ru": "//(0,30)\\\\Разумеется. Я уверен, что у вас все очень вкусно. Давайте вот это.",
+                    "cn": "//(0,30)\\\\当然可以。毕竟，我确信这肯定很不错。//(3.4,33.4)\\\\就是这个了。",
+                    "tc": "//(0,30)\\\\當然可以。畢竟，我敢肯定這很不錯。//(3.4,33.4)\\\\就是這個了。",
+                    "jp": "//(0,30)\\\\是非そうしてくれ。これは美味しそうだな。これにしよう。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr4617_ordiering_richard_dictator_et_003",
+                "weight": 0.1666666368643425,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4617_ordiering_richard_dictator_et_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4617_ordiering_richard_dictator_et_003.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Did you do this when Wen Ts'ai was here? This is outrageous!",
+                    "fr": "//(0,30)\\\\Avez-vous dit la même chose à Wen Ts'ai lors de sa visite ? C'est un scandale !",
+                    "it": "//(0,30)\\\\È così che avete trattato Wen Ts'ai quando è stato qui? Scandaloso!",
+                    "de": "//(0,30)\\\\Haben Sie das mit Wen Ts'ai auch gemacht? Das ist ja unerhört!",
+                    "es": "//(0,30)\\\\¿Hacíais esto cuando Wen Ts'ai estaba aquí? ¡Es indignante!",
+                    "ru": "//(0,30)\\\\А Вэнь Цая вы так же обслуживали? Это возмутительно!",
+                    "cn": "//(0,30)\\\\蔡文在这里的时候，你们是不是也搞这套？真的太离谱了！",
+                    "tc": "//(0,30)\\\\菜文在這裡的時候，你們是不是也搞這套？真的太離譜了！",
+                    "jp": "//(0,30)\\\\ウェン・ツァイが来た時もこんなことをしていたのか？ ひどいな！"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr4617_ordiering_richard_dictator_et_004",
+                "weight": 0.1666666368643425,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4617_ordiering_richard_dictator_et_004.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4617_ordiering_richard_dictator_et_004.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\And I’d heard such good things about the Himmapan, too.",
+                    "fr": "//(0,30)\\\\J'avais entendu dire tant de bien de l'Himmapan...",
+                    "it": "//(0,30)\\\\Eppure avevo sentito parlare molto bene dell'Himmapan.",
+                    "de": "//(0,30)\\\\Und dabei hatte ich bis jetzt nur Gutes über das Himmapan gehört.",
+                    "es": "//(0,30)\\\\Y yo que había oído hablar muy bien del Himmapan...",
+                    "ru": "//(0,30)\\\\А мне так хвалили «Химмапхан»...",
+                    "cn": "//(0,30)\\\\我也听说过关于洗马畔酒店的各种好评。",
+                    "tc": "//(0,30)\\\\我也聽說過關於靈獸旅館的各種好評。",
+                    "jp": "//(0,30)\\\\ヒマパンの評判は色々と聞いてたんだがな。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr4617_ordiering_richard_dictator_et_005",
+                "weight": 0.1666666368643425,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4617_ordiering_richard_dictator_et_005.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4617_ordiering_richard_dictator_et_005.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,2)\\\\We are starving you stupid fool!//(2,32)\\\\I will have words with Mr. Cross about this.",
+                    "fr": "//(0,30)\\\\Nous mourons de faim, pauvre imbécile ! M. Cross va en entendre parler !",
+                    "it": "//(0,30)\\\\Stiamo morendo di fame, stupido idiota! Esporrò le mie lamentele al signor Cross in persona!",
+                    "de": "//(0,30)\\\\Wir sind am Verhungern, Sie Schwachkopf. Das erzähle ich Mr Cross, verlassen Sie sich drauf.",
+                    "es": "//(0,30)\\\\¡Nos morimos de hambre, so incompetente! Hablaré de esto con el señor Cross.",
+                    "ru": "//(0,30)\\\\Мы тут с голоду помираем, идиот! Я еще расскажу об этом мистеру Кроссу!",
+                    "cn": "//(0,30)\\\\我们快饿死了，你这蠢货！//(2,32)\\\\我会跟克洛斯先生讨论此事的。",
+                    "tc": "//(0,30)\\\\我們快餓死了，你這蠢貨！//(2,32)\\\\我會跟克洛斯先生討論此事的。",
+                    "jp": "//(0,30)\\\\こっちは腹が減ってるんだぞ！ あとでクロスさんに言ってやる。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr4617_ordiering_richard_dictator_et_006",
+                "weight": 0.1666666368643425,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4617_ordiering_richard_dictator_et_006.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4617_ordiering_richard_dictator_et_006.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,4.3)\\\\No. I already know? Why not tell me what you have...//(4.3,11.77)\\\\No. Actually, let me keep guessing randomly what food you have in your restaurant!//(13.2,43.2)\\\\Oh, this looks nice actually.",
+                    "fr": "//(0,11.931)\\\\Non. Je le sais déjà ? Si vous me disiez plutôt ce que vous avez... Non. En fait, laissez-moi continuer à deviner AU HASARD les PLATS que vous avez dans votre RESTAURANT !//(13.031,43.031)\\\\Oh, ça n'a pas l'air mal, ça.",
+                    "it": "//(0,2.640491)\\\\No. Già immagino come finirà.//(2.640491,4.731)\\\\Perché non dirmi cos'è disponibile?//(4.731,13.298)\\\\No. Potrei sempre cercare di indovinare quali piatti servite nel vostro ristorante!//(13.298,43.298)\\\\Oh, questo ha un bell'aspetto, a dire il vero.",
+                    "de": "//(0,2.472393)\\\\Nein. Ich weiß schon.//(2.472393,5)\\\\Sagen Sie mir doch einfach, was Sie haben ...//(5,12)\\\\Nein, ich rate einfach weiter, was es in Ihrem Restaurant zu essen gibt.//(13,43)\\\\Oh, das hier sieht tatsächlich gut aus.",
+                    "es": "//(0,2.072393)\\\\No. ¿Lo sé ya?//(2.622393,4.75)\\\\¿Y por qué no me dices lo que tenéis?//(4.75,11.79)\\\\No. ¡En realidad prefiero seguir diciendo platos al azar para ver cuál tenéis en vuestro restaurante!//(13.15,43.15)\\\\Oh, esto sí que tiene buena pinta.",
+                    "ru": "//(0,2.472393)\\\\Нет. Я уже знаю?//(2.472393,4.937)\\\\Почему просто не сказать, что у вас есть.//(4.937,12.3)\\\\Нет. Правильно, я должен угадывать, что у вас сегодня есть, а чего нет!//(13.282,15.032)\\\\Знаете, вот это выглядит неплохо!",
+                    "cn": "//(0,4.3)\\\\不，我早就知道了。你怎么不早跟我说......//(4.3,11.77)\\\\不，你就继续让我随便猜猜你们餐馆有些什么好了！//(13.2,43.2)\\\\噢，这看起来还不错。",
+                    "tc": "//(0,4.3)\\\\不，我早就知道了。你怎麼不早跟我說......//(4.3,11.77)\\\\不，你就繼續讓我隨便猜猜你們餐廳有些什麼好了！//(13.2,43.2)\\\\噢，這看起來還不錯。",
+                    "jp": "//(0,4.56823)\\\\ああ。 言われたかな？ 今あるものを 教えて くれ...//(4.56823,12.72878)\\\\いや、 在庫の ある料理を 当てるまで、 適当に 注文して みるのも いいかも しれないな！ ...//(12.72878,14.88417)\\\\ああ、 これは 良さそうだ。"
+                }
+            }
+        ]
+    }
+}

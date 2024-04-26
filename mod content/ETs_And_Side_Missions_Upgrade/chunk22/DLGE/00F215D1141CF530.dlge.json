@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2612_frydelandguard.sweetdialog?/dr2612_frydelandguard_guard_02_et_011.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr2612_frydelandguard_guard_02_et_011",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2612_frydelandguard_guard_02_et_011.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2612_frydelandguard_guard_02_et_011.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Losing me again, Doc. What did you think I was talking about?",
+            "fr": "//(0,30)\\\\Je suis perdu, à nouveau, docteur. Vous croyiez que je parlais de quoi ?",
+            "it": "//(0,30)\\\\Non capisco, dottore. A cosa pensava mi riferissi?",
+            "de": "//(0,30)\\\\Ich weiß schon wieder nicht, wovon Sie reden, Doc. Was dachten Sie denn, was ich meine?",
+            "es": "//(0,30)\\\\Me he perdido otra vez, doctor. ¿De qué creía que estaba hablando?",
+            "ru": "//(0,1.378589)\\\\Я вас снова не понимаю, доктор.//(1.378589,31.37859)\\\\О чем, по-вашему, я говорил?",
+            "cn": "//(0,30)\\\\我听不懂你在说什么，医生。你以为我在说什么？",
+            "tc": "//(0,30)\\\\我聽不懂你在說什麼，醫生。你以為我在說什麼？",
+            "jp": "//(0,30)\\\\なに言ってるんですか。一体なんの話だと思ったんです？"
+        }
+    }
+}

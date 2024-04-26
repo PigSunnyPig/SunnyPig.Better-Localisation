@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1654_buseyphonecalls.sweetdialog?/dr1654_buseyphonecalls_busey_et_002.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr1654_buseyphonecalls_busey_et_002",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1654_buseyphonecalls_busey_et_002.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1654_buseyphonecalls_busey_et_002.animset].pc_animset",
+        "languages": {
+            "en": "//(0,1.9)\\\\You got Busey.//(1.9,4.54)\\\\Look, I’d love to come back to set,//(4.54,9.68)\\\\but these winding cobblestone roads have got me all ass-backwards turned around.//(9.68,16.35)\\\\Tell you what, get everyone to chant my name over and over again at an extreme volume,//(16.35,18.762)\\\\and I’ll use your voices to guide me.//(18.762,19.8)\\\\Ready?//(19.8,49.8)\\\\Go!",
+            "fr": "//(0,1.3)\\\\Ici Busey.//(1.3,4)\\\\Écoutez, j'adorerais revenir sur le plateau,//(4,9.7)\\\\mais je ne sais plus où je suis à cause de ces rues pavées qui tournent tout le temps.//(9.7,16.1)\\\\Voilà ce qu'on va faire : vous allez tous crier très fort mon nom//(16.1,46.1)\\\\et je vais me guider au son, d'accord ?",
+            "it": "//(0,1.736196)\\\\Sono Busey.//(1.736196,9.949)\\\\Ascolta, mi piacerebbe tornare sul set, ma queste stradine tortuose mi hanno fatto perdere il senso dell'orientamento.//(9.949,18.30632)\\\\Facciamo così: raduna tutti e iniziate a invocare il mio nome con tutto il fiato che avete in gola, così le vostre voci mi guideranno.//(18.30632,48.30632)\\\\Pronti? Via!",
+            "de": "//(0,1.836196)\\\\Hier Busey.//(1.836196,4.464785)\\\\Ich würde gerne zum Set zurückkommen,//(4.464785,10.07767)\\\\aber in diesen verwinkelten Kopfsteinstraßen verlaufe ich mich ständig.//(10.07767,16.09865)\\\\Vorschlag: Jeder ruft immer wieder meinen Namen, mit maximaler Lautstärke,//(16.09865,18.49865)\\\\und ich orientiere mich daran.//(18.49865,48.49865)\\\\Bereit? Los!",
+            "es": "//(0,6.261473)\\\\Busey al habla. Mira, me encantaría volver al plató, pero con estos sinuosos caminos empedrados//(6.261473,16)\\\\ya no sé por dónde tirar. Oye, haz que todos coreen mi nombre a grito pelado una y otra vez,//(16,46)\\\\y yo usaré sus voces para orientarme. ¿Listos? ¡Ahora!",
+            "ru": "//(0,2)\\\\Бьюзи слушает.//(2,6.5)\\\\Да я бы с удовольствием вернулся, но эти дороги... тут сам черт ногу сломит.//(6.5,10.08816)\\\\Понятия не имею, куда я зашел.//(10.08816,14.25914)\\\\Знаете что, давайте вы все будете громко, хором меня звать?//(14.25914,16.13153)\\\\Только как можно громче.//(16.13153,18.62202)\\\\Я пойду на ваши голоса.//(18.62202,19.79012)\\\\Готовы?//(19.79012,49.79012)\\\\Поехали!",
+            "cn": "//(0,1.9)\\\\你们告诉布西。//(1.9,4.54)\\\\听着，我也很想回到摄影棚，//(4.54,9.68)\\\\不过这里漫长的石头路让我一下就迷失了方向。//(9.68,16.35)\\\\这样吧，大家大声呼唤我的名字，//(16.35,18.762)\\\\然后我会循着你们声音的方向前进。//(18.762,19.8)\\\\准备好了吗？//(19.8,49.8)\\\\开始！",
+            "tc": "//(0,1.9)\\\\你們有布希。//(1.9,4.54)\\\\聽著，我也很想回到攝影棚，//(4.54,9.68)\\\\不過那些漫長的石頭路讓我一下就迷失了方向。//(9.68,16.35)\\\\這樣吧，大家大聲呼喚我的名字，//(16.35,18.762)\\\\然後我會聽著你們的聲音前進。//(18.762,19.8)\\\\準備好了嗎？//(19.8,49.8)\\\\走！",
+            "jp": "//(0,6.483427)\\\\ビジーだ。 いいか、 俺は セットに 戻りたいんだが、 あの曲がりくねった丸石の 通路で 迷って、//(6.483427,12.15643)\\\\変なところへ 行きついて しまったんだ。 そうだな、 スタッフを 全員集めて、 いっせいに大きな声で//(12.15643,20.26071)\\\\俺の 名を 叫んで くれれば、 それを 頼りに 戻れるかも しれない。 いいか？ ほれ！"
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_shandy/3000_shandy_story/dr3680_jbjrandom.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "dr3680_jbjrandom_jbj_et_001",
+                "weight": 0.49999997019767584,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_shandy/3000_shandy_story/dr3680_jbjrandom_jbj_et_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_shandy/3000_shandy_story/dr3680_jbjrandom_jbj_et_001.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,5)\\\\Hey, waiter dude! Send someone back to the kitchen and get some lobsters or something.",
+                    "fr": "//(0,5)\\\\Hé, le serveur ! Envoie quelqu'un en cuisine, qu'on nous rapporte du homard ou je sais pas quoi !",
+                    "it": "//(0,1.242393)\\\\Senti un po', cameriere!//(1.242393,6.24239)\\\\Manda qualcuno in cucina e digli di prendere qualche aragosta e compagnia bella!",
+                    "de": "//(0,1.206196)\\\\Hey, Kellner!//(1.206196,6.2062)\\\\Schicken Sie jemanden in die Küche und besorgen Sie uns 'n paar Hummer oder so.",
+                    "es": "//(0,5)\\\\¡Eh, camarero! ¡Manda a alguien a la cocina y ve a por langostas o algo!",
+                    "ru": "//(0,5)\\\\Эй, эй, официант! Отправь кого-нибудь на кухню, пусть нам принесут омаров и всю эту хрень!",
+                    "cn": "//(0,5)\\\\嘿，服务员！派人回厨房里，拿些龙虾或者其他类似的东西给我。",
+                    "tc": "//(0,5)\\\\嘿，服務生！派人回廚房裡，拿些龍蝦或者其他類似的東西給我。",
+                    "jp": "//(0,5)\\\\おい、ウェイター！ 誰かに頼んで、キッチンからロブスターか何かを持ってきてくんろ。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr3680_jbjrandom_jbj_et_002",
+                "weight": 0.49999997019767584,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_shandy/3000_shandy_story/dr3680_jbjrandom_jbj_et_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_shandy/3000_shandy_story/dr3680_jbjrandom_jbj_et_002.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,5)\\\\We should take that chopper up for a spin! Who wants to come? Yeah!",
+                    "fr": "//(0,5)\\\\On devrait aller faire un tour en hélico ! Ça vous dit ? Ouais !",
+                    "it": "//(0,5)\\\\Dovremmo farci un giro su quell'elicottero! Chi vuole venire?! Sì!",
+                    "de": "//(0,5)\\\\Wir sollten 'ne Runde mit dem Heli drehen. Wer kommt mit? Yeah!",
+                    "es": "//(0,5)\\\\¡Deberíamos sacar el helicóptero a dar una vuelta! ¿Quién se viene? ¡Sí!",
+                    "ru": "//(0,5)\\\\Давайте прокатимся на вертолете! Кто со мной? Да!",
+                    "cn": "//(0,5)\\\\我们应该去开直升机兜兜风！谁要来？好啊！",
+                    "tc": "//(0,5)\\\\我們應該去開直升機兜兜風！誰要來？好啊！",
+                    "jp": "//(0,5)\\\\あのヘリで一緒にひとっ走りしようぜ！ イエーイ！"
+                }
+            }
+        ]
+    }
+}

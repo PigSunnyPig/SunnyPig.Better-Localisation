@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_shandy/3000_shandy_story/dr3672_guardshint.sweetdialog?/dr3672_guardshint_guard_1_et_003.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr3672_guardshint_guard_1_et_003",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_shandy/3000_shandy_story/dr3672_guardshint_guard_1_et_003.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_shandy/3000_shandy_story/dr3672_guardshint_guard_1_et_003.animset].pc_animset",
+        "languages": {
+            "en": "//(0,1.9)\\\\Well, at least he’s busy back there.//(1.9,7.6)\\\\Goddammit. I can almost hear that fucking song from here. I hate his music.",
+            "fr": "//(0,1.9)\\\\Ouais, enfin, au moins il s'éclate, là-bas.//(1.9,7.9)\\\\Bon sang... Je l'entends quasiment d'ici, cette putain de chanson. Je supporte pas ce qu'il fait.",
+            "it": "//(0,1.928589)\\\\Almeno si tiene impegnato, lì dietro.//(1.928589,5.433865)\\\\Accidenti, mi sembra quasi di sentire quella canzone del cazzo anche da qui.//(5.433865,7.43386)\\\\Odio la sua musica.",
+            "de": "//(0,1.810491)\\\\Ja, wenigstens ist er beschäftigt.//(1.810491,5.655276)\\\\Mann. Ich kann diesen Scheiß-Song bis hier hören.//(5.655276,7.65528)\\\\Ich hasse seine Musik.",
+            "es": "//(0,7)\\\\Bueno, al menos está entretenido ahí atrás. Joder, casi escucho esa puta canción desde aquí. Odio su música.",
+            "ru": "//(0,2.55)\\\\Ну, они там явно не скучают. Проклятье!//(2.55,5.8)\\\\Я прямо слышу отсюда эту чертову песню.//(5.8,7.8)\\\\Меня тошнит от его музыки!",
+            "cn": "//(0,1.9)\\\\嗯，至少他在后面很忙。//(1.9,7.6)\\\\他妈的，我在这里都能听见那首烂歌，我最讨厌他的音乐了。",
+            "tc": "//(0,1.9)\\\\嗯，至少他在後面很忙。//(1.9,7.6)\\\\他媽的，我在這裡都能聽見那首爛歌，我最討厭他的音樂了。",
+            "jp": "//(0,5.149176)\\\\とにかく裏で 盛り上がってるみたいだ。 くそっ、 あの耳障りな歌が ここまで 聴こえて くる。 聴きたくも//(5.149176,6.89775)\\\\ないのに。"
+        }
+    }
+}

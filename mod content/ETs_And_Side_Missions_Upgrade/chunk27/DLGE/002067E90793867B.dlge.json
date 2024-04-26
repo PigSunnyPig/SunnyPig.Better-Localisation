@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_kirroyal/3000_kirroyal_story/dr3656_torvikdahaliaofficetalk.sweetdialog?/dr3656_torvikdahaliaofficetalk_dahlia_et_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr3656_torvikdahaliaofficetalk_dahlia_et_001",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_kirroyal/3000_kirroyal_story/dr3656_torvikdahaliaofficetalk_dahlia_et_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_kirroyal/3000_kirroyal_story/dr3656_torvikdahaliaofficetalk_dahlia_et_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,2.5)\\\\Could you possibly wait a little longer, my dear?//(2.5,32.5)\\\\I have one or two little matters to attend to.",
+            "fr": "//(0,30)\\\\Pourriez-vous juste patienter quelques minutes de plus, ma chère ? J'ai un ou deux petits soucis à régler.",
+            "it": "//(0,30)\\\\Può aspettare ancora un pò, cara? Ho un paio di cose da sistemare.",
+            "de": "//(0,2.501)\\\\Könnten Sie noch ein kleines bisschen länger warten, meine Liebe?//(2.501,32.501)\\\\Ich muss noch ein, zwei Sachen erledigen.",
+            "es": "//(0,2.5)\\\\¿Sería mucha molestia si te pidiera que esperases un poco más, querida?//(2.5,32.5)\\\\Tengo un par de cosillas a las que atender.",
+            "ru": "//(0,2.5)\\\\Вы не могли бы подождать еще немного, моя дорогая?//(2.5,32.5)\\\\Мне нужно решить пару вопросов.",
+            "cn": "//(0,2.5)\\\\你能再稍等一下吗，亲爱的？//(2.5,32.5)\\\\我有一两件事需要去处理。",
+            "tc": "//(0,2.5)\\\\你能再稍等一下嗎，親愛的？//(2.5,32.5)\\\\我有一兩件事得去處理。",
+            "jp": "//(0,30)\\\\もう少し待ってていただけるかしら？ 先に片付けなきゃならない用事がいくつかあるの。"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4612_intelligencemeeting.sweetdialog?/dr4612_intelligencemeeting_dictator_et_005.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr4612_intelligencemeeting_dictator_et_005",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4612_intelligencemeeting_dictator_et_005.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4612_intelligencemeeting_dictator_et_005.animset].pc_animset",
+        "languages": {
+            "en": "//(0,3.9)\\\\You look good. Keeping fit! That’s good.//(3.9,6.6)\\\\I like to run for an hour in the morning.//(6.6,9.3)\\\\I need my energy to keep Inez busy.//(9.3,10.73)\\\\You know what I mean!//(10.73,40.73)\\\\Speaking of Inez. I’m hungry!",
+            "fr": "//(0,9.3)\\\\Tu as l'air en forme, c'est vrai. J'aime bien courir une heure, le matin. J'ai besoin d'énergie pour Inez.//(9.3,39.3)\\\\Tu vois ce que je veux dire ! En parlant d'Inez, j'ai faim !",
+            "it": "//(0,2.340491)\\\\Ti trovo bene. In forma!//(2.340491,3.944785)\\\\Mi fa piacere.//(3.944785,6.553374)\\\\Di mattina corro sempre per un'ora.//(6.553374,10.65245)\\\\Ho bisogno di energie per tenere impegnata Inez... Sai cosa intendo!//(10.65245,40.65245)\\\\A proposito di Inez, ho fame!",
+            "de": "//(0,4)\\\\Gut siehst du aus. Hältst dich fit. Das ist gut.//(4,6.6)\\\\Ich jogge morgens immer eine Stunde.//(6.6,10.8)\\\\Brauche meine Energie, um Inez bei Laune zu halten, wenn du weißt, was ich meine.//(10.8,40.8)\\\\Apropos Inez. Mir knurrt der Magen.",
+            "es": "//(0,4.012883)\\\\Tienes buen aspecto. ¡Estás en forma! Eso está bien.//(4.012883,10.715)\\\\A mí me gusta correr una hora por la mañana. Necesito energía para dar la talla con Inez. ¡Ya sabes a qué me refiero!//(10.715,40.715)\\\\Hablando de Inez... ¡Tengo hambre!",
+            "ru": "//(0,2.809)\\\\Отлично выглядишь. Ты в прекрасной форме!//(2.809,6.51)\\\\Это хорошо. Я по утрам бегаю час, люблю это дело.//(6.51,10.591)\\\\Инес не поймет, если у меня сил не будет... Ну, ты понимаешь, о чем я!//(10.591,40.591)\\\\Кстати, об Инес. Я голоден!",
+            "cn": "//(0,3.9)\\\\你看起来挺不错的，有在锻炼！很好。//(3.9,6.6)\\\\我喜欢在早上跑一个小时。//(6.6,9.3)\\\\我得为伊内兹保留体力。//(9.3,10.73)\\\\你懂的！//(10.73,40.73)\\\\说到伊内兹......我饿了！",
+            "tc": "//(0,3.9)\\\\你看起來挺不錯的，有在鍛鍊！很好。//(3.9,6.6)\\\\我喜歡在早上跑一個小時。//(6.6,9.3)\\\\我得為艾內茲保留體力。//(9.3,10.73)\\\\你懂的！//(10.73,40.73)\\\\說到艾內茲......我餓了！",
+            "jp": "//(0,9.220245)\\\\見た感じ、 お前は 若そうだな！ ハハ、 それは いいことだ。 俺は 毎朝、 1時間ジョギングしてる。 イネスを//(9.220245,15.67442)\\\\喜ばせるためには 体力を つけないと。 なんの ことかは わかるよな？ アハハハハハ！"
+        }
+    }
+}

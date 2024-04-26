@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1657_touristanecdotes.sweetdialog?/dr1657_touristanecdotes_tourist_et_005.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr1657_touristanecdotes_tourist_et_005",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1657_touristanecdotes_tourist_et_005.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1657_touristanecdotes_tourist_et_005.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Gary Busey just hugged me and said, \"See you at home.\" How does he know where I live?",
+            "fr": "//(0,4.78)\\\\Gary Busey m'a fait un câlin et m'a dit \"À tout à l'heure, à la maison.\"//(4.78,34.78)\\\\Comment il sait où j'habite ?",
+            "it": "//(0,30)\\\\Gary Busey mi ha appena abbracciato, dicendomi \"Ci vediamo a casa\". Come fa a sapere dove abito?",
+            "de": "//(0,30)\\\\Gary Busey hat mich gerade umarmt und gesagt: „Wir sehen uns zu Hause. “ Woher weiß er, wo ich wohne?",
+            "es": "//(0,30)\\\\Gary Busey me ha abrazado y me ha dicho que luego me ve en casa. ¿Cómo sabe dónde vivo?",
+            "ru": "//(0,4.66908)\\\\Гэри Бьюзи только что меня обнял и сказал, что увидимся дома.//(4.66908,34.66908)\\\\Откуда он знает, где я живу?",
+            "cn": "//(0,30)\\\\加里·布西刚刚抱了我一下，然后说：“我们回家见。”他怎么知道我住在哪里？",
+            "tc": "//(0,30)\\\\蓋瑞．布希剛剛抱了我一下然後說：「我們回家見。」他怎麼知道我住在哪裡？",
+            "jp": "//(0,30)\\\\ゲイリー・ビジーが 俺を 抱きしめて、 「うちで 会おう」と 言ったな。 俺の 住所を 知ってるのか？"
+        }
+    }
+}

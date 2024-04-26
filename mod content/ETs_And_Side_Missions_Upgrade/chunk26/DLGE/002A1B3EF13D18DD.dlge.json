@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1652_commercial.sweetdialog?/dr1652_commercial_crew01_et_002.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr1652_commercial_crew01_et_002",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1652_commercial_crew01_et_002.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1652_commercial_crew01_et_002.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Maybe these advertisers will finally learn their lesson: stop relying on celebrities to sell your products!",
+            "fr": "//(0,3.359)\\\\Peut-être que ces publicitaires comprendront-ils enfin//(3.359,33.359)\\\\qu'il ne faut pas compter sur des célébrités pour faire vendre...",
+            "it": "//(0,30)\\\\Magari capiranno finalmente la lezione: mai affidarsi alle celebrità per vendere i propri prodotti!",
+            "de": "//(0,3.2)\\\\Vielleicht lernen es diese Werbefachleute endlich mal://(3.2,33.2)\\\\Verlasst euch nicht auf Promis, um eure Produkte zu verkaufen!",
+            "es": "//(0,3.312883)\\\\¡Igual esto les sirve de escarmiento a los anunciantes//(3.312883,33.31288)\\\\y dejan de contratar a famosetes para vender sus productos!",
+            "ru": "//(0,30)\\\\Может, рекламщики наконец уяснят, что на звезд полагаться нельзя!",
+            "cn": "//(0,30)\\\\或许这些广告公司终于吸取教训了：别再靠明星来销售你的产品了！",
+            "tc": "//(0,30)\\\\或許這些廣告公司終於汲取教訓了：別再靠明星來銷售你的產品了！",
+            "jp": "//(0,5.083375)\\\\まあ、 あの広告業者たちは この件で ようやく理解して くれるだろう。 製品を 売るのに セレブを//(5.083375,6.809604)\\\\利用するな、 と！"
+        }
+    }
+}

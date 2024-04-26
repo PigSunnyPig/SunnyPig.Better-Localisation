@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4611_hint.sweetdialog?/dr4611_hint_waitress_05_et_009.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr4611_hint_waitress_05_et_009",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4611_hint_waitress_05_et_009.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4611_hint_waitress_05_et_009.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Did he think I was hiding a gun in my knickers?//(2.2,32.2)\\\\CThis is a hotel, not a shooting range!",
+            "fr": "//(0,2.2)\\\\Il croyait que j'avais un flingue dans ma culotte ?//(2.2,32.2)\\\\C'est un hôtel, pas un stand de tir !",
+            "it": "//(0,2.198)\\\\Credeva che nascondessi una pistola nelle mutande?//(2.198,32.198)\\\\Questo è un hotel, non un poligono di tiro!",
+            "de": "//(0,2.5)\\\\Dachte er, ich hab 'ne Waffe in meinem Höschen?//(2.5,32.5)\\\\Das ist ein Hotel, kein Schießstand!",
+            "es": "//(0,30)\\\\¿De veras creía que tenía un arma en las bragas? ¡Es un hotel, no un campo de tiro!",
+            "ru": "//(0,2.3)\\\\Он правда думал, что у меня пистолет в трусах?//(2.3,32.3)\\\\Это же отель, а не полигон!",
+            "cn": "//(0,30)\\\\他以为我会在内裤里藏枪吗？//(2.2,32.2)\\\\这里可是酒店，不是靶场！",
+            "tc": "//(0,30)\\\\他以為我會在內褲裡藏槍嗎？//(2.2,32.2)\\\\這裡可是旅館，不是靶場！",
+            "jp": "//(0,30)\\\\下着に武器を隠してると思ってるの？ ここは射撃場じゃなくて、ホテルよ！"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_handler/dr2610_diana.sweetdialog?/dr2610_diana_diana_et_004.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr2610_diana_diana_et_004",
+        "soundtag": "Voiceover_Handler",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_handler/dr2610_diana_diana_et_004.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_handler/dr2610_diana_diana_et_004.animset].pc_animset",
+        "languages": {
+            "en": "//[DIANA_ET]\\\\//(0,30)\\\\This looks promising, 47. Those samples should be exactly what you need.",
+            "fr": "//[DIANA_ET]\\\\//(0,30)\\\\Ceci semble prometteur, 47, vous devriez trouver une utilité à ces échantillons.",
+            "it": "//[DIANA_ET]\\\\//(0,30)\\\\Niente male, 47. Quelli dovrebbero essere proprio i campioni che stavamo cercando.",
+            "de": "//[DIANA_ET]\\\\//(0,2)\\\\Das sieht vielversprechend aus, 47.//(2,32)\\\\Diese Proben könnten genau das sein, was Sie brauchen.",
+            "es": "//[DIANA_ET]\\\\//(0,30)\\\\Esto promete, 47. Esas muestras son justo lo que necesitas.",
+            "ru": "//[DIANA_ET]\\\\//(0,30)\\\\Выглядит очень многообещающе, 47-й. Эти образцы — то, что надо.",
+            "cn": "//[DIANA_ET]\\\\//(0,30)\\\\这看起来非常有用，47。那些样本应该就是你需要的东西。",
+            "tc": "//[DIANA_ET]\\\\//(0,30)\\\\這看起來非常有用，47。那些樣本應該就是你需要的東西。",
+            "jp": "//[DIANA_ET]\\\\//(0,30)\\\\見つけたわね。そのサンプルこそ、必要としているものよ。"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_shandy/3000_shandy_story/dr3672_guardshint.sweetdialog?/dr3672_guardshint_guard_2_et_004.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr3672_guardshint_guard_2_et_004",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_shandy/3000_shandy_story/dr3672_guardshint_guard_2_et_004.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_shandy/3000_shandy_story/dr3672_guardshint_guard_2_et_004.animset].pc_animset",
+        "languages": {
+            "en": "//(0,5)\\\\No? Really? I could get it up on my phone if you like?",
+            "fr": "//(0,5)\\\\Non ? Vraiment ? Tu veux pas que je te la fasse écouter sur mon téléphone ?",
+            "it": "//(0,5)\\\\No, davvero? Se vuoi la cerco subito sul telefono...",
+            "de": "//(0,5)\\\\Echt? Ich hab den Song auf meinem Handy. Soll ich ...?",
+            "es": "//(0,5)\\\\¿No te gusta? ¿En serio? Podría ponérmela de tono en el móvil, si eso.",
+            "ru": "//(0,5)\\\\Да? Серьезно? Могу тебе ее на телефоне поставить.",
+            "cn": "//(0,5)\\\\不行吗？你说真的吗？如果你愿意的话，我可以用手机录下来吗？",
+            "tc": "//(0,5)\\\\不行嗎？你說真的嗎？如果你願意的話，我可以用手機錄下來嗎？",
+            "jp": "//(0,5)\\\\え？ 嫌いなのか？ スマホで聴かせてやろうと思ったのに。"
+        }
+    }
+}

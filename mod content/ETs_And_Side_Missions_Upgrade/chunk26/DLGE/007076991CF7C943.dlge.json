@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1657_touristanecdotes.sweetdialog?/dr1657_touristanecdotes_tourist_et_004.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr1657_touristanecdotes_tourist_et_004",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1657_touristanecdotes_tourist_et_004.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1657_touristanecdotes_tourist_et_004.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\That actor Gary Busey just took a picture of me and started laughing.",
+            "fr": "//(0,30)\\\\Ce Gary Busey, l'acteur, a pris une photo de moi et a éclaté de rire.",
+            "it": "//(0,30)\\\\Quell'attore, Gary Busey, mi ha scattato una foto e si è messo a ridere.",
+            "de": "//(0,30)\\\\Der Schauspieler Gary Busey hat mich gerade fotografiert und dann laut gelacht.",
+            "es": "//(0,30)\\\\El actor Gary Busey acaba de sacarme una foto y ha empezado a partirse la caja.",
+            "ru": "//(0,30)\\\\Гэри Бьюзи — ну, актер — только что сфотографировал меня и заржал.",
+            "cn": "//(0,30)\\\\那个演员加里·布西给我拍了一张照片，然后大笑起来。",
+            "tc": "//(0,30)\\\\這個演員蓋瑞．布希拍了我的照片然後開始笑個不停。",
+            "jp": "//(0,30)\\\\俳優のゲイリー・ビジーがさっき、俺の写真を撮って笑ってたな。"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4612_intelligencemeeting.sweetdialog?/dr4612_intelligencemeeting_dictator_et_021.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr4612_intelligencemeeting_dictator_et_021",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4612_intelligencemeeting_dictator_et_021.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4612_intelligencemeeting_dictator_et_021.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Nor you with me, mon amis.",
+            "fr": "//(0,30)\\\\Ni contre moi, mon ami.",
+            "it": "//(0,30)\\\\Vale anche il contrario, mon amis.",
+            "de": "//(0,30)\\\\Und du dich nicht mit mir, mon ami.",
+            "es": "//(0,30)\\\\Ni vosotros conmigo, mon ami.",
+            "ru": "//(0,30)\\\\Тебе тоже, мон ами.",
+            "cn": "//(0,30)\\\\彼此彼此，我的朋友。",
+            "tc": "//(0,30)\\\\彼此彼此，我的朋友。",
+            "jp": "//(0,30)\\\\まぁ、それはお互い様だな。"
+        }
+    }
+}

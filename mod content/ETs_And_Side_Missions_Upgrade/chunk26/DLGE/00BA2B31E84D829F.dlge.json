@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1656_buseylandmark.sweetdialog?/dr1656_buseylandmark_busey_et_002.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr1656_buseylandmark_busey_et_002",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1656_buseylandmark_busey_et_002.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1656_buseylandmark_busey_et_002.animset].pc_animset",
+        "languages": {
+            "en": "//(0,3.16)\\\\Why do people take drugs to lose their minds?//(3.16,33.16)\\\\There are many simpler and more affordable paths to madness.",
+            "fr": "//(0,2.5)\\\\Pourquoi les gens prennent-ils de la drogue pour perdre la tête ?//(2.5,32.5)\\\\Il existe des moyens plus simples et moins coûteux de sombrer dans la folie.",
+            "it": "//(0,3.330982)\\\\Perché la gente si droga per andare fuori di testa?//(3.330982,33.33098)\\\\Esistono modi più semplici ed economici per raggiungere la follia.",
+            "de": "//(0,3.182883)\\\\Warum nehmen Leute Drogen, um den Verstand zu verlieren?//(3.182883,33.18288)\\\\Es gibt einfachere und preiswertere Wege zum Wahnsinn.",
+            "es": "//(0,30)\\\\¿Por qué la gente toma drogas para perder la cabeza? Si hay formas más sencillas y asequibles para volverse loco.",
+            "ru": "//(0,3.166687)\\\\И почему, чтобы забыться, люди принимают наркотики?//(3.166687,33.16669)\\\\К безумию можно прийти гораздо проще и дешевле.",
+            "cn": "//(0,30)\\\\大家为什么要通过吸毒丧失理智？有很多更便宜的方式能够做到啊。",
+            "tc": "//(0,30)\\\\大家為什麼要透過吸毒來失去理智？有很多更便宜的方式能夠變瘋啊。",
+            "jp": "//(0,5.098639)\\\\どうして正気を 失うために ドラッグに 手を つけるんだ？ もっと安くて シンプルな方法が//(5.098639,7.077396)\\\\沢山あるのに。"
+        }
+    }
+}

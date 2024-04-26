@@ -1,0 +1,201 @@
+{
+  "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+  "hash": "[assembly:/localization/hitman6/conversations/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1655_buseyanecdotes.sweetdialog].pc_dialogevent",
+  "DITL": "00B7E83B2B5BFE20",
+  "CLNG": "00E3CBB0725ED16C",
+  "rootContainer": {
+    "type": "Random",
+    "containers": [
+      {
+        "type": "WavFile",
+        "wavName": "dr1655_buseyanecdotes_busey_et_001",
+        "weight": 0.09999997019767584,
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1655_buseyanecdotes_busey_et_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1655_buseyanecdotes_busey_et_001.animset].pc_animset",
+        "languages": {
+          "en": "//(0,6.6)\\\\Here's a tip I picked up from a kung fu master while filming a martial arts picture in Hollywood://(6.6,36.6)\\\\You can quadruple the force of any throat strike by yelling...",
+          "fr": "//(0,2.7)\\\\Voilà un conseil que je tiens d'un maître de kung-fu,//(2.7,5.65)\\\\à l'époque où je tournais un film d'arts martiaux à Bollywood ://(5.65,35.65)\\\\on peut quadrupler la puissance d'un coup à la gorge en criant...",
+          "it": "//(0,3.012883)\\\\Ecco una dritta di un maestro di kung fu//(3.012883,6.511963)\\\\durante le riprese di un film sulle arti marziali a Hollywood://(6.511963,36.51196)\\\\puoi quadruplicare la forza di qualsiasi colpo alla gola gridando AAAAAAAAAHHH!",
+          "de": "//(0,2.955276)\\\\Hier ist ein Tipp, den ich bei Dreharbeiten an einem Martial-Arts-Film in Hollywood//(2.955276,6.445767)\\\\von einem Kung-Fu-Meister erhalten habe://(6.445767,36.44577)\\\\Du kannst die Energie jedes Kehlenschlags vervierfachen, indem du schreist ...",
+          "es": "//(0,2.65)\\\\Este es un consejo que un viejo maestro de kung fu me enseñó//(2.65,6.25)\\\\cuando rodaba una peli de artes marciales en Bollywood://(6.25,9.775)\\\\puedes cuadruplicar la fuerza de un golpe a la tráquea si gritas.",
+          "ru": "//(0,3)\\\\Мне один мастер-рукопашник вот что подсказал,//(3,6.5)\\\\когда я в Голливуде снимался в боевике://(6.5,9.5)\\\\чтобы в четыре раза увеличить силу удара по горлу, надо заорать...",
+          "cn": "//(0,6.6)\\\\我在好莱坞拍摄武打电影的时候跟功夫大师学了这一招。//(6.6,36.6)\\\\你在使用喉咙攻击时能透过大喊提升四倍威力......",
+          "tc": "//(0,6.6)\\\\我在好萊塢拍攝武打電影的時候跟功夫大師學了這一招。//(6.6,36.6)\\\\你在使用喉嚨攻擊時能透過大喊提升其威力四倍......",
+          "jp": "//(0,7.555976)\\\\カンフー映画を 撮って いる間、 師匠から 教わったことが ある。 首へ 一撃を 決める際、//(7.555976,10.91419)\\\\おたけびをあげるとその威力を 4倍に できるとね。 アチョー！"
+        }
+      },
+      {
+        "type": "WavFile",
+        "wavName": "dr1655_buseyanecdotes_busey_et_002",
+        "weight": 0.09999997019767584,
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1655_buseyanecdotes_busey_et_002.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1655_buseyanecdotes_busey_et_002.animset].pc_animset",
+        "languages": {
+          "en": "//(0,2.56)\\\\You know, fans can be so demanding.//(2.56,7.232)\\\\First it's all, \"Give me your autograph!\" or, \"Take a photo with me.\"//(7.232,9.63488)\\\\Then it’s, \"Why did you follow me home?\" and,//(9.63488,39.63488)\\\\\"No, Mr. Busey, you can't crash in our garage for a few weeks.\"",
+          "fr": "//(0,2)\\\\Ce que les fans peuvent être exigeants.//(2,6.6)\\\\Ça commence par \"Je voudrais votre autographe\" ou \"j'aimerais faire une photo avec vous\".//(6.6,9.2)\\\\Ensuite, c'est \"Et si vous veniez chez moi ?\"//(9.2,39.2)\\\\Et après, c'est \"Non, M. Busey, vous ne pouvez pas vous installer dans le garage pour quelques semaines\"...",
+          "it": "//(0,2.676687)\\\\A volte i fan non li capisco.//(2.676687,7.986258)\\\\Un giorno ti implorano per un autografo o una foto, il giorno dopo ti chiedono perché//(7.986258,37.98626)\\\\li segui fino a casa e ti dicono che non puoi dormire nel loro garage per qualche settimana.",
+          "de": "//(0,2.190491)\\\\Fans sind ja so anspruchsvoll.//(2.190491,6.643865)\\\\Erst heißt es nur „Geben Sie mir ein Autogramm“ oder „Machen wir ein Selfie“.//(6.643865,9.39294)\\\\Aber dann kommt bald „Warum folgen Sie mir bis nach Hause?“//(9.39294,39.39294)\\\\und „Nein, Mr Busey, Sie können nicht in meiner Garage wohnen“.",
+          "es": "//(0,7.2)\\\\¿Sabes? Los fans pueden ser unos pejigueras. Primero, te piden un autógrafo o que te saques una foto con ellos.//(7.2,9.3)\\\\Luego, te preguntan que por qué les sigues a casa, y después,//(9.3,39.3)\\\\te dicen que no puedes quedarte en su garaje durante unas semanas.",
+          "ru": "//(0,2.460491)\\\\Знаете, фанаты иногда так достают.//(2.460491,7.081472)\\\\Все хотят автограф, все хотят, чтобы я с ними сфотографировался.//(7.081472,9.63055)\\\\А потом ноют — почему вы идете за мной?//(9.63055,39.63055)\\\\Или заявляют: «Нет, мистер Бьюзи, вам нельзя пожить у них в гараже недельку-другую».",
+          "cn": "//(0,2.56)\\\\你也知道，粉丝们要求很多。//(2.56,7.232)\\\\首先是“给我签名照”或者“跟我拍照”。//(7.232,9.63488)\\\\然后变成“为什么跟着我回家？”以及//(9.63488,39.63488)\\\\“布西先生，你不能在我们家车库住下来。”",
+          "tc": "//(0,2.56)\\\\你也知道，粉絲們要求很多。//(2.56,7.232)\\\\首先是「給我簽名照」或是「跟我拍照」。//(7.232,9.63488)\\\\然後變成「為什麼跟著我回家？」和//(9.63488,39.63488)\\\\「布希先生，你不能在我們家車庫住下來。」",
+          "jp": "//(0,4.746095)\\\\ファンって のは、 色々言って くるもんだ。 最初は みんな、 「サインください！」か「ツーショットして//(4.746095,11.52623)\\\\ください」 だが、 それが「どうして家まで ついて きたの？」に なって、 「いや、 ビジーさん、 うちの ガレージに//(11.52623,13.36817)\\\\泊まらないで」とね。"
+        }
+      },
+      {
+        "type": "WavFile",
+        "wavName": "dr1655_buseyanecdotes_busey_et_003",
+        "weight": 0.09999997019767584,
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1655_buseyanecdotes_busey_et_003.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1655_buseyanecdotes_busey_et_003.animset].pc_animset",
+        "languages": {
+          "en": "//(0,2.5)\\\\You know what GARY stands for?//(2.5,32.5)\\\\It stands for Great Actor. Right? Yes.",
+          "fr": "//(0,30)\\\\Vous savez ce que \"GARY\" veut dire ? Ça veut dire \"grand acteur\". Compris ? Bien.",
+          "it": "//(0,2.472393)\\\\Sapete cosa significa GARY?//(2.472393,32.47239)\\\\Sta per Grande Attore Rinomato, Yeaaah!",
+          "de": "//(0,2.010491)\\\\Wisst ihr, wofür GARY steht?//(2.010491,32.01049)\\\\Für Geiler Arsch. Richtig? Yo!",
+          "es": "//(0,30)\\\\¿Sabes lo que significa \"Gary\"? Significa Gran Actor. ¿A que sí? Pues claro.",
+          "ru": "//(0,2.442393)\\\\Знаете, кто такой ГЭРИ?//(2.442393,4.400982)\\\\ГЭ-РИ — это ГЭниальный актеР.//(4.400982,34.40098)\\\\Именно. Да.",
+          "cn": "//(0,30)\\\\你知道加里的意思吗？那指的就是伟大的演员。没错吧？对。",
+          "tc": "//(0,30)\\\\你知道蓋瑞的意思嗎？那指的就是偉大的演員。沒錯吧？對。",
+          "jp": "//(0,30)\\\\「ゲイリー」って何の略かわかるか？ 「芸能リーダー」、なんつって。"
+        }
+      },
+      {
+        "type": "WavFile",
+        "wavName": "dr1655_buseyanecdotes_busey_et_004",
+        "weight": 0.09999997019767584,
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1655_buseyanecdotes_busey_et_004.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1655_buseyanecdotes_busey_et_004.animset].pc_animset",
+        "languages": {
+          "en": "//(0,2.458589)\\\\You know what Italy stands for?//(2.458589,32.45859)\\\\It stands for Intimate Touching After Luxurious Yogurt.",
+          "fr": "//(0,1.85)\\\\Vous savez ce que veut dire \"ITALIE\" ?//(1.85,31.85)\\\\Ça veut dire \"Intimité Touchante Après Lascive Introduction à une Enquiquineuse.\"",
+          "it": "//(0,2.522393)\\\\Sapete cosa significa ITALIA?//(2.522393,32.52239)\\\\Sta per Intimo Toccarsi A un Lussurioso Incontro Amoroso.",
+          "de": "//(0,1.860491)\\\\Wisst ihr, wofür ITALIEN steht?//(1.860491,31.86049)\\\\Für Intime Tage Auf LIegenden ENten.",
+          "es": "//(0,30)\\\\¿Sabes lo que significa \"ITALIA\"? Significa \"Íntimos Tocamientos A La Italiana Afectuosa\".",
+          "ru": "//(0,2.592393)\\\\Знаете, как расшифровывается ИТАЛИЯ?//(2.592393,32.59239)\\\\ИТАЛИЯ — это Изумительное Тирамису с Апельсином, Лаймом И Ягодками.",
+          "cn": "//(0,30)\\\\你知道意大利的意思吗？它代表着在奢华的爱之邂逅中的亲密接触（Intimo Toccarsi A un Lussurioso Incontro Amoroso）。",
+          "tc": "//(0,30)\\\\你知道義大利的意思嗎？就是豪華優格後的愛撫。",
+          "jp": "//(0,30)\\\\「イタリア」が何の略かわかるか？ 「イイ気分、沢山、流出する、アレ」さ。"
+        }
+      },
+      {
+        "type": "WavFile",
+        "wavName": "dr1655_buseyanecdotes_busey_et_005",
+        "weight": 0.09999997019767584,
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1655_buseyanecdotes_busey_et_005.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1655_buseyanecdotes_busey_et_005.animset].pc_animset",
+        "languages": {
+          "en": "//(0,2.4)\\\\I’m a black belt in judo jiu-jitsu.//(2.4,32.4)\\\\But I prefer brown belts for regular clothes.",
+          "fr": "//(0,30)\\\\Je suis ceinture noire de jiu-jitsu. Mais dans la vie courante, je préfère les ceintures marron.",
+          "it": "//(0,30)\\\\Sono cintura nera di jujitsu, ma preferisco le cinture marroni nella vita di tutti i giorni.",
+          "de": "//(0,2.476687)\\\\Ich habe den schwarzen Gürtel in Jiu-Jitsu.//(2.476687,32.47669)\\\\Aber privat trage ich lieber braune Gürtel.",
+          "es": "//(0,30)\\\\Soy cinturón negro en jiu-jitsu, pero prefiero el cinturón marrón para la ropa de calle.",
+          "ru": "//(0,2.658589)\\\\У меня черный пояс по джиу-джитсу.//(2.658589,32.65859)\\\\Но к обычной одежде я все-таки ношу коричневый.",
+          "cn": "//(0,30)\\\\我可是柔术黑带。不过我穿一般衣服时比较喜欢棕色腰带。",
+          "tc": "//(0,30)\\\\我可是柔術黑帶。不過我穿一般衣服時比較喜歡棕色腰帶。",
+          "jp": "//(0,30)\\\\俺は柔術の黒帯なんだ。しかし、茶色のベルトのほうが俺の服に合ってるな。"
+        }
+      },
+      {
+        "type": "WavFile",
+        "wavName": "dr1655_buseyanecdotes_busey_et_006",
+        "weight": 0.09999997019767584,
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1655_buseyanecdotes_busey_et_006.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1655_buseyanecdotes_busey_et_006.animset].pc_animset",
+        "languages": {
+          "en": "//(0,2.136785)\\\\People are always surprised when they meet me//(2.136785,32.13678)\\\\because of reasons my lawyer has advised me against repeating in public.",
+          "fr": "//(0,2)\\\\Les gens sont toujours surpris quand ils me rencontrent,//(2,32)\\\\à cause des conseils de mon avocat à propos des répétitions en public.",
+          "it": "//(0,30)\\\\La gente che mi incontra di persona si sorprende per un motivo che il mio avvocato sconsiglia di ripetere in pubblico.",
+          "de": "//(0,3.3)\\\\Die Leute sind immer überrascht, wenn Sie mich kennenlernen, aber die Gründe dafür//(3.3,33.3)\\\\werde ich auf Anraten meines Anwalts in der Öffentlichkeit nicht wiederholen.",
+          "es": "//(0,30)\\\\La gente se sorprende al verme por razones que, según mi abogado, no debería repetir en público.",
+          "ru": "//(0,1.828589)\\\\Все так удивляются, когда меня видят.//(1.828589,31.82859)\\\\Правда, мой адвокат советует мне не рассказывать, почему.",
+          "cn": "//(0,30)\\\\大家见到我的时候都很讶异，但是我的律师叫我不要把原因公开。",
+          "tc": "//(0,30)\\\\大家見到我的時候都很訝異，但是我的律師叫我不要把原因公開。",
+          "jp": "//(0,30)\\\\みんな俺の姿を見ると必ず驚くんだが、いまだに理由が分からねんだよな。"
+        }
+      },
+      {
+        "type": "WavFile",
+        "wavName": "dr1655_buseyanecdotes_busey_et_007",
+        "weight": 0.09999997019767584,
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1655_buseyanecdotes_busey_et_007.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1655_buseyanecdotes_busey_et_007.animset].pc_animset",
+        "languages": {
+          "en": "//(0,3.31)\\\\Everyone loves the internet so much right now.//(3.31,33.31)\\\\But they’ll forget all about it when the aliens come back and give us the sequel to the internet.",
+          "fr": "//(0,2.7)\\\\Tout le monde ne jure que par Internet.//(2.7,32.7)\\\\Mais ce sera autre chose quand les extraterrestres reviendront nous apporter la suite d'Internet.",
+          "it": "//(0,4.246687)\\\\Tutti adorano Internet, ma se ne dimenticheranno//(4.246687,34.24669)\\\\quando gli alieni torneranno sulla Terra e creeranno un nuovo Internet.",
+          "de": "//(0,2.476687)\\\\Alle stehen zurzeit total auf das Internet.//(2.476687,4.805276)\\\\Aber sie werden es sofort vergessen,//(4.805276,34.80527)\\\\wenn die Aliens zurückkommen und uns das Sequel zum Internet geben.",
+          "es": "//(0,3)\\\\Ahora todos están que no cagan con Internet,//(3,33)\\\\pero luego pasará al olvido cuando los alienígenas vuelvan para darnos su secuela.",
+          "ru": "//(0,2.95)\\\\Все так обожают интернет.//(2.95,32.95)\\\\Но вот вернутся инопланетяне, выдадут нам очередное чудо техники, и про инет все быстро забудут.",
+          "cn": "//(0,30)\\\\大家都很喜欢网络。不过当外星人给我们带来更新的科技时，大家便会忘了它。",
+          "tc": "//(0,30)\\\\大家都很喜歡網路。不過當外星人給我們帶來更新的科技時，大家便會忘了它。",
+          "jp": "//(0,4.614799)\\\\いまどきの 若者は みんなインターネットが 好きなんだな。 でも、 エイリアンが やってきて//(4.614799,7.911083)\\\\インターネットの 代わりに なるものを 与えたら、 忘れるだろう。"
+        }
+      },
+      {
+        "type": "WavFile",
+        "wavName": "dr1655_buseyanecdotes_busey_et_008",
+        "weight": 0.09999997019767584,
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1655_buseyanecdotes_busey_et_008.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1655_buseyanecdotes_busey_et_008.animset].pc_animset",
+        "languages": {
+          "en": "//(0,5.1)\\\\Hey, did you guys know the ancient Romans made their red sauce from the blood of their enemies?//(5.1,35.1)\\\\It was really spicy.",
+          "fr": "//(0,3.9)\\\\Hé, vous saviez que les Romains préparaient leur sauce rouge avec le sang de leurs ennemis ?//(3.9,33.9)\\\\Elle était vraiment épicée.",
+          "it": "//(0,2.982883)\\\\Ragazzi, sapevate che la salsa rossa degli antichi romani//(2.982883,32.98288)\\\\veniva preparata con il sangue dei nemici? Era molto piccante.",
+          "de": "//(0,5)\\\\Hey, wusstet ihr schon, dass die Römer ihre rote Sauce aus dem Blut ihrer Feinde hergestellt haben?//(5,35)\\\\Sie war ziemlich scharf.",
+          "es": "//(0,4.5)\\\\Eh, ¿sabíais que los romanos antiguos preparaban la salsa roja con la sangre de sus enemigos?//(4.5,34.5)\\\\Era muy picante.",
+          "ru": "//(0,4.605276)\\\\Вы в курсе, что древние римляне варили красный соус из крови своих врагов?//(4.605276,34.60528)\\\\Пикантно, правда?",
+          "cn": "//(0,30)\\\\喂，你们有人知道古罗马人的红肉酱是用敌人的鲜血所制成的吗？口味超辣的。",
+          "tc": "//(0,30)\\\\喂，你們有人知道古羅馬人的紅肉醬是用敵人的鮮血所製成的嗎？口味超辣的。",
+          "jp": "//(0,30)\\\\なぁ、 古代ローマ人は 敵の 血を 使って 赤いソースを 作って たらしいぞ。 ものすごく辛口らしい。"
+        }
+      },
+      {
+        "type": "WavFile",
+        "wavName": "dr1655_buseyanecdotes_busey_et_009",
+        "weight": 0.09999997019767584,
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1655_buseyanecdotes_busey_et_009.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1655_buseyanecdotes_busey_et_009.animset].pc_animset",
+        "languages": {
+          "en": "//(0,2.25)\\\\The best pizza I ever ate was made by the Pope,//(2.25,32.25)\\\\sprinkled with aged mozzarella and served to me on a piece of the Lord’s Holy Cross.",
+          "fr": "//(0,2.2)\\\\La meilleure pizza que j'ai jamais mangée était préparée par le pape,//(2.2,32.2)\\\\saupoudrée de mozzarella vieillie et servie sur un fragment de la croix sacrée.",
+          "it": "//(0,2.66908)\\\\Il Papa mi preparò la miglior pizza che abbia mai mangiato,//(2.66908,32.66908)\\\\condita con mozzarella stagionata e servita su un pezzo della croce santa del Signore.",
+          "de": "//(0,2.307178)\\\\Die beste Pizza, die ich je gegessen habe, hatte der Papst zubereitet.//(2.307178,32.30718)\\\\Mit gereiftem Mozzarella, serviert auf einem Stück Holz vom Kreuz des Heilands.",
+          "es": "//(0,2.65)\\\\La mejor pizza que me he comido la hizo el Papa.//(2.65,32.65)\\\\Espolvoreó mozzarella curada por encima y me la sirvió con un trozo de la cruz sagrada de nuestro Señor.",
+          "ru": "//(0,2.6)\\\\Самая лучшая пицца, которую я ел... Мне ее приготовил Папа Римский.//(2.6,32.6)\\\\С выдержанной моцареллой. Подали на доске из креста самого Иисуса!",
+          "cn": "//(0,30)\\\\我吃过最棒的披萨是教皇做的，披萨上撒满了陈年的马苏里拉芝士，放在一块十字架上送给我。",
+          "tc": "//(0,30)\\\\我吃過最棒的披薩是教皇做的，上面灑滿了熟成莫札瑞拉起司和一小片神聖十字架。",
+          "jp": "//(0,30)\\\\今まで 食べた最高の ピザは 法王が 作ったもので、 聖なる十字架の 上に 置かれて 出されたんだ。"
+        }
+      },
+      {
+        "type": "WavFile",
+        "wavName": "dr1655_buseyanecdotes_busey_et_010",
+        "weight": 0.09999997019767584,
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1655_buseyanecdotes_busey_et_010.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1655_buseyanecdotes_busey_et_010.animset].pc_animset",
+        "languages": {
+          "en": "//(0,2.6)\\\\Argh! Get Glover on the phone!//(2.6,5.25)\\\\There’s some Predators stalking us!//(5.25,8.9)\\\\Eh, nevermind, it’s just some kids with bad hair.//(8.9,38.9)\\\\Still, call Danny, though. I miss his aroma.",
+          "fr": "//(0,4.5)\\\\AHHHH ! Appelez Glover ! On est traqués par des Predators !//(4.5,34.5)\\\\Euh, non, ce sont juste des jeunes mal coiffés. Mais appelez quand même Danny. Son style me manque.",
+          "it": "//(0,2.822393)\\\\AHHH! Passami subito Glover!//(2.822393,4.912883)\\\\Sono braccato da alcuni Predator!//(4.912883,8.745767)\\\\Ah, non importa. Erano solo dei ragazzini pettinati male.//(8.745767,13.42675)\\\\Ma passami lo stesso Danny. Mi manca il suo profumo.",
+          "de": "//(0,2.408589)\\\\Ahhh! Holt mir Glover ans Telefon!//(2.408589,4.64908)\\\\Wir werden von Predators verfolgt!//(4.64908,8.83816)\\\\Nein, vergesst es, sind nur ein paar Kinder mit schlimmer Frisur.//(8.83816,38.83816)\\\\Ruft Danny trotzdem an. Ich vermisse seinen Geruch.",
+          "es": "//(0,6.1)\\\\¡Aaaah! ¡Ponme a Glover! ¡Hay unos depredadores acechándonos! Ah, olvídalo,//(6.1,36.1)\\\\solo son unos niños pelados a bocados. Aun así, llama a Danny. Echo de menos su aroma.",
+          "ru": "//(0,0.8)\\\\А-а-а-а-а!//(1.4,2.7)\\\\Срочно позвоните Гловеру!//(2.7,4.85)\\\\На нас охотятся Хищники!//(4.85,8.75)\\\\Эм, нет, это просто подростки с дикими прическами.//(8.75,10)\\\\Но Дэнни вы все равно позвоните.//(10,40)\\\\Он классно пахнет.",
+          "cn": "//(0,2.6)\\\\啊！快给格洛弗打电话！//(2.6,5.25)\\\\有“掠食者”在跟踪我们！//(5.25,8.9)\\\\咦，当我没说，只是些发型很怪的小孩。//(8.9,38.9)\\\\还是找一下丹尼好了。我有些怀念他的味道。",
+          "tc": "//(0,2.6)\\\\啊！快接通葛洛夫！//(2.6,5.25)\\\\有終極戰士在跟蹤我們！//(5.25,8.9)\\\\咦，當我沒說，只是個髮型很怪的小孩。//(8.9,38.9)\\\\還是找一下丹尼好了。我有些懷念他的味道。",
+          "jp": "//(0,7.255781)\\\\ああもう！ グローヴァーは どこだ！ プレデターが 俺たちを 追ってや がる！ いや、 なんでも ない。 変な髪形の//(7.255781,11.21348)\\\\子どもだった。 それでもダニーを 呼べ。 あいつの 匂いが 恋しい。"
+        }
+      }
+    ]
+  }
+}

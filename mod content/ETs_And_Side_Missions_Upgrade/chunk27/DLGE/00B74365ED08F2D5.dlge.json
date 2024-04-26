@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_shandy/3000_shandy_story/dr3677_jbjphonecall.sweetdialog?/dr3677_jbjphonecall_jbj_et_002.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr3677_jbjphonecall_jbj_et_002",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_shandy/3000_shandy_story/dr3677_jbjphonecall_jbj_et_002.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_shandy/3000_shandy_story/dr3677_jbjphonecall_jbj_et_002.animset].pc_animset",
+        "languages": {
+            "en": "//(0,4)\\\\Hey, like, what’s up, man? You--",
+            "fr": "//(0,4)\\\\Hé, salut, mec ! Quoi de neuf ? Tu...",
+            "it": "//(0,4)\\\\Ehilà, bello. Come va? Tu...",
+            "de": "//(0,4)\\\\Hey, was geht, Mann? Yo.",
+            "es": "//(0,4)\\\\¿Eh, qué pasa, tío? Eres...",
+            "ru": "//(0,4)\\\\Да, привет, как жизнь, старина? Ты...",
+            "cn": "//(0,4)\\\\嘿，呃，你这是怎么了，老兄？你......",
+            "tc": "//(0,4)\\\\嘿，呃，你這是怎麼了，老兄？你......",
+            "jp": "//(0,4)\\\\よう、元気か？ 急に電話なんか..."
+        }
+    }
+}

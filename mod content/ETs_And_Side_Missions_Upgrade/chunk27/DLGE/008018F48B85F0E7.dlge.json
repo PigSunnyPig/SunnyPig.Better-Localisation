@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_tequilasunrise/3000_tequilasunrise_story/dr3609_larinbdgrdapart02.sweetdialog?/dr3609_larinbdgrdapart02_larin_et_004.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr3609_larinbdgrdapart02_larin_et_004",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_tequilasunrise/3000_tequilasunrise_story/dr3609_larinbdgrdapart02_larin_et_004.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_tequilasunrise/3000_tequilasunrise_story/dr3609_larinbdgrdapart02_larin_et_004.animset].pc_animset",
+        "languages": {
+            "en": "//(0,4)\\\\Okay, let me just think for a minute... have another drink.",
+            "fr": "//(0,4)\\\\OK... Laissez-moi juste réfléchir un instant... Je vais me resservir à boire.",
+            "it": "//(0,4)\\\\Ok... Dammi un minuto per pensare. Il tempo di un altro bicchiere.",
+            "de": "//(0,4)\\\\Okay ... geben Sie mir 'ne Minute ... und noch 'nen Drink.",
+            "es": "//(0,4)\\\\Vale... Dame un segundo que piense... y me sirva otra copa.",
+            "ru": "//(0,4)\\\\Ладно... дай я немного подумаю... выпью еще стаканчик.",
+            "cn": "//(0,4)\\\\好，给我一分钟时间想想......再喝一杯。",
+            "tc": "//(0,4)\\\\好，給我一分鐘時間想想......再喝一杯。",
+            "jp": "//(0,4)\\\\そうか、ちょっと考えさせてくれ...... もう1杯酒を。"
+        }
+    }
+}

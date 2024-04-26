@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4615_tablearrival.sweetdialog?/dr4615_tablearrival_dictators_wife_et_002.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr4615_tablearrival_dictators_wife_et_002",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4615_tablearrival_dictators_wife_et_002.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4615_tablearrival_dictators_wife_et_002.animset].pc_animset",
+        "languages": {
+            "en": "//(0,2.1)\\\\Oh, this is lovely.//(2.1,5.5)\\\\The table is nice and clean.//(5.5,7.5)\\\\Oh waiter.//(7.5,37.5)\\\\Would you like to bring us our food now?",
+            "fr": "//(0,2.75)\\\\Oh, c'est superbe.//(2.75,6.05)\\\\La table est propre et bien dressée.//(6.05,36.05)\\\\Oh, garçon... Pourriez-vous nous apporter notre commande ?",
+            "it": "//(0,6.000982)\\\\Oh, è perfetto. Il tavolo è pulito e in ordine.//(6.000982,36.00098)\\\\Ehi, cameriere. Che ne direbbe di portarci del cibo adesso?",
+            "de": "//(0,5.537178)\\\\Oh, das ist ja nett. Der Tisch ist hübsch gedeckt und sauber.//(5.537178,35.53718)\\\\Ach, Herr Ober? Würden Sie uns dann jetzt bitte unser Essen bringen?",
+            "es": "//(0,5.801)\\\\Oh, qué agradable. Qué bonita y limpia está la mesa.//(5.801,35.801)\\\\Ah, camarero. ¿Podrías servirnos la comida ya?",
+            "ru": "//(0,5.877)\\\\Здесь просто замечательно. Стол такой девственно чистый...//(5.877,35.877)\\\\Официант? Вы не принесете нам наш заказ?",
+            "cn": "//(0,2.1)\\\\噢，这真是太美了。//(2.1,5.5)\\\\桌子既漂亮又干净。//(5.5,7.5)\\\\噢，服务员。//(7.5,37.5)\\\\你能端出我们的食物了吗？",
+            "tc": "//(0,2.1)\\\\噢，這真是太美了。//(2.1,5.5)\\\\桌子既漂亮又乾淨。//(5.5,7.5)\\\\噢，服務生。//(7.5,37.5)\\\\你能端出我們的食物了嗎？",
+            "jp": "//(0,30)\\\\ああ、素敵ね。テーブルがとてもきれい。ウェイター？ 今すぐ食事を持ってきてくれる？"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_shandy/3000_shandy_story/dr3675_jbjguest01.sweetdialog?/dr3675_jbjguest01_jbj_et_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr3675_jbjguest01_jbj_et_001",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_shandy/3000_shandy_story/dr3675_jbjguest01_jbj_et_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_shandy/3000_shandy_story/dr3675_jbjguest01_jbj_et_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,4)\\\\Hey, you guys! Are you just loving it?!",
+            "fr": "//(0,4)\\\\Hé les gars... Vous passez une bonne soirée ?",
+            "it": "//(0,4)\\\\Ehi, gente. Allora? Vi piace qui, eh?",
+            "de": "//(0,4)\\\\Hey, Leute. Total geil, oder?",
+            "es": "//(0,4)\\\\Oye, chicos, ¿a que os está gustando?",
+            "ru": "//(0,4)\\\\О, привет! Ну как, нравится?",
+            "cn": "//(0,4)\\\\嘿，你们！是不是太棒了？！",
+            "tc": "//(0,4)\\\\嘿，你們！是不是太棒了？！",
+            "jp": "//(0,4)\\\\ヘーイ、みんな！ 楽しんでるかーい？"
+        }
+    }
+}

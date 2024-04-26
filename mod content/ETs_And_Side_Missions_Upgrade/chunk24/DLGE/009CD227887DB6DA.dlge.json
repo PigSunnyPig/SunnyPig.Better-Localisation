@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4611_hint.sweetdialog?/dr4611_hint_receptionist_et_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr4611_hint_receptionist_et_001",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4611_hint_receptionist_et_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4611_hint_receptionist_et_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,9.493865)\\\\Why can't they just arrive by the front entrance like civilized people? Why can't we just have normal guests?//(9.493865,39.49387)\\\\At least we've got the lounge floor open again.",
+            "fr": "//(0,4.8)\\\\Pourquoi est-ce qu'ils n'arrivent pas par l'entrée principale, comme tout le monde ?//(4.8,7.5)\\\\Pourquoi est-ce que tous nos clients sont bizarres ?//(9.5,39.5)\\\\Au moins, l'étage du salon est de nouveau ouvert.",
+            "it": "//(0,4.99908)\\\\Perché non possono arrivare dall'ingresso principale come tutte le persone civili?//(4.99908,9.011963)\\\\Perché i nostri ospiti devono avere sempre pretese assurde?//(9.011963,39.01196)\\\\Almeno hanno riaperto il piano con la sala ospiti.",
+            "de": "//(0,5.1)\\\\Warum können sie nicht einfach den Haupteingang nehmen, wie zivilisierte Menschen?//(5.1,7.2)\\\\Wie ganz normale Gäste!//(9.4,39.4)\\\\Na, wenigstens können wir das Foyer wieder öffnen.",
+            "es": "//(0.9,4.9)\\\\¿Por qué no pueden entrar por la puerta principal como la gente civilizada?//(4.9,7.4)\\\\¿Por qué no podemos tener a huéspedes normales?//(9.1,39.1)\\\\Al menos volvemos a tener abierta la planta del restaurante.",
+            "ru": "//(1,5)\\\\Вот почему не использовать центральный вход, как нормальные люди?//(5,8)\\\\Почему у нас не бывает нормальных, обычных гостей?//(9.5,39.5)\\\\Ну, хоть фойе снова открылось.",
+            "cn": "//(0,9.494)\\\\我们为什么不能够像文明人一般从正门进去？我们为什么不能有些正常一点的客人？//(9.494,39.494)\\\\至少我们的休息楼层又重新开放了。",
+            "tc": "//(0,9.494)\\\\我們為什麼不能夠像文明人一般從正門進去？我們為什麼不能有些正常一點的客人？//(9.494,39.494)\\\\至少我們的休息樓層又重新開放了。",
+            "jp": "//(0,7.515824)\\\\どうして彼らは 文明人みたいに 正門から やってこれないんだ？ どうしてマトモな客が 来て//(7.515824,12.52637)\\\\くれないんだ？ 少なくとも、 ラウンジフロアを 開放できたが。"
+        }
+    }
+}

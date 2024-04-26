@@ -1,0 +1,24 @@
+{
+  "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+  "hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_margerita/3000_margerita_story/dr3651_guardsarthint.sweetdialog?/dr3651_guardsarthint_guard_2_et_004.sweetdialogitem].pc_dialogevent",
+  "DITL": "00B7E83B2B5BFE20",
+  "CLNG": "00E3CBB0725ED16C",
+  "rootContainer": {
+    "type": "WavFile",
+    "wavName": "dr3651_guardsarthint_guard_2_et_004",
+    "soundtag": "In-world_Mission_Normal",
+    "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_margerita/3000_margerita_story/dr3651_guardsarthint_guard_2_et_004.wav].pc_wes",
+    "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_margerita/3000_margerita_story/dr3651_guardsarthint_guard_2_et_004.animset].pc_animset",
+    "languages": {
+      "en": "//(0,2.340491)\\\\It’s one of those egg things.//(2.340491,6.4)\\\\Fibona-- Fibonacci-- filigree!//(6.4,36.4)\\\\It's a filigree egg worth millions!",
+      "fr": "//(0,30)\\\\C'est un de ces œufs, là... Fibona... Fibonacci... Filigrané ! Un œuf filigrané. Ça vaut des millions !",
+      "it": "//(0,6.444785)\\\\È una di quelle uova... Fibona... Fibonacci... filigranate!//(6.444785,36.44479)\\\\È un uovo filigranato che vale milioni!",
+      "de": "//(0,6.313)\\\\Eins von diesern Eiern. Fibona ... Fibonacci ... Filigran!//(6.313,36.313)\\\\Es ist ein millionenteures Filigran-Ei!",
+      "es": "//(0,30)\\\\Es uno de esos huevos de... ¿Fibona...? ¿Fibonacci...? ¡De filigrana! Un huevo de filigrana. ¡Vale millones!",
+      "ru": "//(0,2.340491)\\\\Это одно из тех яиц...//(2.340491,6.4)\\\\Фибона... Фибоначчи... Филигрань!//(6.4,36.4)\\\\Филигранное яйцо. Стоит миллионы!",
+      "cn": "//(0,2.340491)\\\\这是其中一只的「蛋」。//(2.340491,6.4)\\\\金银......金丝......金银丝彩蛋！//(6.4,36.4)\\\\价值几百万的金银丝彩蛋！",
+      "tc": "//(0,2.340491)\\\\這是其中一隻的「蛋」。//(2.340491,6.4)\\\\金銀......金絲......金銀絲彩蛋！//(6.4,36.4)\\\\價值幾百萬的金銀絲彩蛋！",
+      "jp": "//(0,30)\\\\卵の 形を したアレだよ。 フィボナ...... フィボナッチ...... フィリグリーエッグだ！ 数百万ドルの 価値が ある！"
+    }
+  }
+}

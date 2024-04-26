@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4611_hint.sweetdialog?/dr4611_hint_waitress_05_et_004.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr4611_hint_waitress_05_et_004",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4611_hint_waitress_05_et_004.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4611_hint_waitress_05_et_004.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\You know they’ve locked down the lounge! They’re not letting anyone in without frisking them!",
+            "fr": "//(0,2.3)\\\\Tu sais qu'ils ont bouclé le salon ?//(2.3,32.3)\\\\Ils fouillent tous ceux qui veulent entrer !",
+            "it": "//(0,2.326687)\\\\Sai che hanno isolato la sala ospiti?//(2.326687,32.32669)\\\\Non permettono a nessuno di entrare senza essere perquisito!",
+            "de": "//(0,2.5)\\\\Wusstest du, dass sie das Foyer gesperrt haben?//(2.5,32.5)\\\\Die lassen niemanden rein, ohne ihn vorher zu filzen.",
+            "es": "//(0,30)\\\\¿Sabes que han cerrado el restaurante? ¡No dejan entrar a nadie sin haberlos cacheado antes!",
+            "ru": "//(0,2.37)\\\\Ты знаешь, что они перекрыли вход в фойе?//(2.37,32.37)\\\\Теперь туда без обыска не пройти!",
+            "cn": "//(0,30)\\\\你可知道他们锁住了大厅！如果没有搜身的话，他们是不会让任何人进来的！",
+            "tc": "//(0,30)\\\\你可知道他們鎖住了大廳！如果沒有搜身的話，他們是不會讓任何人進來的！",
+            "jp": "//(0,30)\\\\彼らはラウンジを独り占めしてるのよ？ 身体検査なんかしてる！"
+        }
+    }
+}

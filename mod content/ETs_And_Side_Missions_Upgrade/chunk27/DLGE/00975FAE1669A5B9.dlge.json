@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_shandy/3000_shandy_story/dr3677_jbjphonecall.sweetdialog?/dr3677_jbjphonecall_jbj_et_007.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr3677_jbjphonecall_jbj_et_007",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_shandy/3000_shandy_story/dr3677_jbjphonecall_jbj_et_007.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_shandy/3000_shandy_story/dr3677_jbjphonecall_jbj_et_007.animset].pc_animset",
+        "languages": {
+            "en": "//(0,4.5)\\\\Turn it back on! Turn it up!",
+            "fr": "//(0,4.5)\\\\Remettez la musique ! À fond !",
+            "it": "//(0,4.5)\\\\Forza, fate ripartire la musica! Più volume!",
+            "de": "//(0,4.5)\\\\Okay, kann weitergehen. Musik!",
+            "es": "//(0,4.5)\\\\¡Volved a ponerla! ¡Subid el volumen!",
+            "ru": "//(0,4.5)\\\\Давайте, врубайте! Погромче!",
+            "cn": "//(0,4.5)\\\\重新打开它！再调大声一点！",
+            "tc": "//(0,4.5)\\\\重新打開它！再調大聲一點！",
+            "jp": "//(0,4.5)\\\\もういいぞ！ 音楽をかけろ！"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+  "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+  "hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_margerita/3000_margerita_story/dr3651_guardsarthint.sweetdialog?/dr3651_guardsarthint_guard_1_et_003.sweetdialogitem].pc_dialogevent",
+  "DITL": "00B7E83B2B5BFE20",
+  "CLNG": "00E3CBB0725ED16C",
+  "rootContainer": {
+    "type": "WavFile",
+    "wavName": "dr3651_guardsarthint_guard_1_et_003",
+    "soundtag": "In-world_Mission_Normal",
+    "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_margerita/3000_margerita_story/dr3651_guardsarthint_guard_1_et_003.wav].pc_wes",
+    "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_margerita/3000_margerita_story/dr3651_guardsarthint_guard_1_et_003.animset].pc_animset",
+    "languages": {
+      "en": "//(0,30)\\\\It looked expensive, is all I’m saying. What is it?",
+      "fr": "//(0,30)\\\\Tout ce que je pense, c'est que ça avait l'air cher. Qu-est-ce que c'est ?",
+      "it": "//(0,30)\\\\Sembrava proprio costoso. Cos'era esattamente?",
+      "de": "//(0,30)\\\\Sah ziemlich teuer aus, sag ich nur. Was war das?",
+      "es": "//(0,30)\\\\Solo digo que parecía caro, eso es todo. ¿Qué es?",
+      "ru": "//(0,2.5)\\\\Похоже, что стоит немало.//(2.5,32.5)\\\\Что это?",
+      "cn": "//(0,30)\\\\看起来好像很贵。它是什么呢？",
+      "tc": "//(0,30)\\\\看起來好像很貴。它是什麼呢？",
+      "jp": "//(0,30)\\\\メチャクチャ高そうだったけど、あれはなんだ？"
+    }
+  }
+}

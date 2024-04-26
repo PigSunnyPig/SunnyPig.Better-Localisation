@@ -1,0 +1,24 @@
+{
+  "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+  "hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_margerita/3000_margerita_story/dr3652_moxonarthint.sweetdialog?/dr3652_moxonarthint_moxon_et_003.sweetdialogitem].pc_dialogevent",
+  "DITL": "00B7E83B2B5BFE20",
+  "CLNG": "00E3CBB0725ED16C",
+  "rootContainer": {
+    "type": "WavFile",
+    "wavName": "dr3652_moxonarthint_moxon_et_003",
+    "soundtag": "In-world_Mission_Normal",
+    "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_margerita/3000_margerita_story/dr3652_moxonarthint_moxon_et_003.wav].pc_wes",
+    "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_margerita/3000_margerita_story/dr3652_moxonarthint_moxon_et_003.animset].pc_animset",
+    "languages": {
+      "en": "//(0,30)\\\\Cicero didn’t say it quite like that, but that oaf wouldn’t know De Inventione from De Legibus!",
+      "fr": "//(0,30)\\\\Cicéron n'a pas vraiment dit ça comme ça, mais ce plouc ne doit pas connaître De Inventione de De Legibus !",
+      "it": "//(0,2.712883)\\\\Non è esattamente quello che ha detto Cicerone ma...//(2.712883,32.71288)\\\\Ma quel babbione non saprebbe distinguere la differenza tra 'De Inventione' e 'De Legibus'!",
+      "de": "//(0,1.914785)\\\\Cicero hat es zwar nicht ganz so gesagt,//(1.914785,31.91479)\\\\aber dieser Dummkopf könnte nicht mal De Inventione von De Legibus unterscheiden.",
+      "es": "//(0,30)\\\\Cicerón no dijo eso exactamente... pero ese patán no podría distinguir entre De Inventione y De Legibus.",
+      "ru": "//(0,30)\\\\Цицерон сказал не совсем так... но этот болван не отличил бы и «О нахождении» от «О законах»!",
+      "cn": "//(0,30)\\\\西赛罗倒没有这样说，但是那蠢货不会区分《论取材》与《论法律》！",
+      "tc": "//(0,30)\\\\西賽羅倒沒有這樣說，但是那蠢貨不會分辨《論取材》與《論法律》！",
+      "jp": "//(0,30)\\\\キケロは そんなこと言わなかったが、 あのマヌケは キケロの、 構想論なんて 知らないだろ！ グフフフフ..."
+    }
+  }
+}

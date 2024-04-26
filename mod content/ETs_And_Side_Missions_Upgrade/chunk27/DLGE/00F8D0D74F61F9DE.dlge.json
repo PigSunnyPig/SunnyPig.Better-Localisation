@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_tequilasunrise/3000_tequilasunrise_story/dr3601_larinbdgrdbant01.sweetdialog?/dr3601_larinbdgrdbant01_bdygrd02_et_004.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr3601_larinbdgrdbant01_bdygrd02_et_004",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_tequilasunrise/3000_tequilasunrise_story/dr3601_larinbdgrdbant01_bdygrd02_et_004.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_tequilasunrise/3000_tequilasunrise_story/dr3601_larinbdgrdbant01_bdygrd02_et_004.animset].pc_animset",
+        "languages": {
+            "en": "//(0,3.350982)\\\\Just the once, sir. When she arrived in New York.//(3.350982,8.35098)\\\\She took special pains to indicate that she had arrived... and several others had met her there.",
+            "fr": "//(0,3.5)\\\\Juste une fois, Monsieur. À son arrivée à New York.//(3.5,8.5)\\\\Elle a bien pris soin de signaler qu'elle était arrivée et que plusieurs personnes l'avaient rejointe.",
+            "it": "//(0,3.250982)\\\\Solo una volta, signore. Quando è atterrata a New York.//(3.250982,8.25098)\\\\Si è premurata d'informarla che è arrivata e che ha già incontrato diverse persone.",
+            "de": "//(0,3.400982)\\\\Nur einmal, Sir. Gleich nach ihrer Ankunft in New York.//(3.400982,8.40098)\\\\Sie hat betont, dass sie gut angekommen ist und schon erwartet wurde.",
+            "es": "//(0,3.3)\\\\Solo una vez, señor. Cuando llegó a Nueva York.//(3.3,8.3)\\\\Hizo especial hincapié en que había llegado, y que muchos se habían reunido con ella.",
+            "ru": "//(0,3.596687)\\\\Один раз, сэр. Когда прибыла в Нью-Йорк.//(3.596687,8.59669)\\\\Она несколько раз повторила, что уже в Америке, и что несколько человек с ней там встретились.",
+            "cn": "//(0,3.350982)\\\\打了一通，先生。她在刚刚抵达纽约时打的。//(3.350982,8.35098)\\\\她特别指出她已到达……并且在那里和其他人碰面了。",
+            "tc": "//(0,3.350982)\\\\打了一通，先生。她在剛剛抵達紐約時打的。//(3.350982,8.35098)\\\\她特別指出她已到達……並且在那裡和其他人碰面了。",
+            "jp": "//(0,5.902333)\\\\一度だけ ありました、 ニューヨークに 着いた時に。 到着したことを 知らせるために わざわざ連絡を……//(5.902333,8.726979)\\\\それから 何人かの 人間と 会ったようです。"
+        }
+    }
+}

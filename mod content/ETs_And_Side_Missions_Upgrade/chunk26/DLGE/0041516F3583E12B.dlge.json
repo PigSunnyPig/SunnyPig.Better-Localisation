@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1652_commercial.sweetdialog?/dr1652_commercial_crew02_et_004.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr1652_commercial_crew02_et_004",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1652_commercial_crew02_et_004.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1652_commercial_crew02_et_004.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\And didn’t Gary Cole bludgeon a baby seal with another baby seal?",
+            "fr": "//(0,30)\\\\Et Gary Cole n'avait pas pris un bébé phoque pour frapper un autre bébé phoque ?",
+            "it": "//(0,30)\\\\E Gary Cole non prese a randellate un cucciolo di foca con un altro cucciolo di foca?",
+            "de": "//(0,30)\\\\Und hat Gary Cole nicht eine Babyrobbe mit einer anderen Babyrobbe erschlagen?",
+            "es": "//(0,30)\\\\¿Y Gary Cole no aporreó a una foca bebé con otra?",
+            "ru": "//(0,3.4)\\\\Это да. А Гэри Коул побил одного тюленя другим.//(3.4,33.4)\\\\Правда, нет?",
+            "cn": "//(0,30)\\\\加里·科尔不是用一只小海豹打了另一只小海豹吗？",
+            "tc": "//(0,30)\\\\而蓋瑞．科爾不是用一隻海獅寶寶拿來打另一隻海獅寶寶？",
+            "jp": "//(0,30)\\\\それと、ゲイリー・コールはアザラシの赤ん坊で別のアザラシを殴らなかったか？"
+        }
+    }
+}

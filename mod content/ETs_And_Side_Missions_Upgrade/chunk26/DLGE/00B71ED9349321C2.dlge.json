@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1660_buseycole.sweetdialog?/dr1660_buseycole_cole_et_003.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr1660_buseycole_cole_et_003",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1660_buseycole_cole_et_003.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1660_buseycole_cole_et_003.animset].pc_animset",
+        "languages": {
+            "en": "//(0,4.146)\\\\Are you serious? I'm your co-star, Gary Cole!//(4.146,34.146)\\\\We just filmed an aggressive yet tender scene this morning. How do you not remember me?",
+            "fr": "//(0,3.564785)\\\\Tu rigoles ? Je suis ton partenaire, Gary Cole !//(3.564785,6.8)\\\\On a tourné une scène à la fois agressive et tendre ce matin.//(6.8,36.8)\\\\Comment as-tu pu oublier qui je suis ?",
+            "it": "//(0,3.812883)\\\\Mi prendi in giro? Sono il co-protagonista Gary Cole!//(3.812883,33.81288)\\\\Abbiamo girato una scena aggressiva eppure tenera solo stamattina. Non puoi non riconoscermi!",
+            "de": "//(0,3.864785)\\\\Spinnst du? Ich bin Gary Cole, dein Co-Star!//(3.864785,6.7)\\\\Wir haben heute Morgen eine aggressive und doch sensible Szene gespielt.//(6.7,36.7)\\\\Wieso erinnerst du dich daran nicht?",
+            "es": "//(0,4.014785)\\\\¿Estás de guasa? ¡Soy tu coprotagonista, Gary Cole!//(4.014785,6.8)\\\\Esta mañana hemos rodado una escena agresiva pero sensible.//(6.8,36.8)\\\\¿Cómo es que no te acuerdas?",
+            "ru": "//(0,1.236196)\\\\Ты шутишь?//(1.236196,2.340491)\\\\Я твой коллега!//(2.340491,4.08)\\\\Гэри Коул!//(4.08,7.00957)\\\\Мы только утром снимали агрессивную, но полную нежности сцену.//(7.00957,37.00957)\\\\Ты что, меня не помнишь?",
+            "cn": "//(0,4.146)\\\\你是认真的吗？我是你的同事，加里·科尔！//(4.146,34.146)\\\\我今天早上刚跟你拍摄了一场激烈而又温情的戏。你怎么不认识我了？",
+            "tc": "//(0,4.146)\\\\你是認真的嗎？我是你的同事，蓋瑞．科爾！//(4.146,34.146)\\\\我今天早上才剛剛跟你拍了一個凶悍而溫柔的鏡頭呢。你怎麼不認識我了？",
+            "jp": "//(0,5.277709)\\\\本気で 言ってるのか？ 俺は 競演の ゲイリー・コールだ！ 今朝、 激しいながらも 愛情あふれるシーンを//(5.277709,7.916563)\\\\撮ったじゃ ないか。 そんな俺を 忘れるとは。"
+        }
+    }
+}

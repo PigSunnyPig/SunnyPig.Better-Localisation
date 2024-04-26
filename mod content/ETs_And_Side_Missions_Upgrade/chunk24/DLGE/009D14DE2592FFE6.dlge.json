@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4622_deathresponses.sweetdialog?/dr4622_deathresponses_dictator_et_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr4622_deathresponses_dictator_et_001",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4622_deathresponses_dictator_et_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4622_deathresponses_dictator_et_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Where is she? INEZ. That woman. Where is she?",
+            "fr": "//(0,30)\\\\Où est-elle ? Inez... cette femme... Où est-elle ?",
+            "it": "//(0,30)\\\\Dove si sarà cacciata? Inez, quella donna. Ma dov'è?",
+            "de": "//(0,30)\\\\Wo ist sie? Inez ... Wo ist diese Frau nur?",
+            "es": "//(0,5.34)\\\\¿Dónde está? Inez... Esta mujer...//(5.34,35.34)\\\\¿Dónde andará?",
+            "ru": "//(0,30)\\\\Где она? Инес! Эта женщина... Где она?",
+            "cn": "//(0,30)\\\\她在哪里？伊内兹，那女人......她在哪里？",
+            "tc": "//(0,30)\\\\她在哪裡？艾內茲，那女人......她在哪裡？",
+            "jp": "//(0,30)\\\\あいつはどこだ？ 俺の妻、イネスだ。どこに行った？"
+        }
+    }
+}

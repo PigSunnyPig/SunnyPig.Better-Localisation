@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4613_officephonecall.sweetdialog?/dr4613_officephonecall_dictator_et_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr4613_officephonecall_dictator_et_001",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4613_officephonecall_dictator_et_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4613_officephonecall_dictator_et_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,5.64)\\\\It is Richard. This is a burner. Tell me what you have found out.//(7.44,11.6)\\\\No. That is NOT good enough. Find out who it is.//(11.6,41.6)\\\\And when! Call me back as soon as you know!",
+            "fr": "//(0,3.2)\\\\C'est Richard. Sur un téléphone non traçable.//(4.05,5.9)\\\\Dis-moi ce que tu as trouvé.//(7.5,37.5)\\\\Non. Ça ne suffit PAS. Trouve qui c'est. Et quand ! Rappelle-moi dès que tu sais quelque chose.",
+            "it": "//(0,3.794785)\\\\Sono Richard. È un cellulare usa e getta.//(3.794785,7.167178)\\\\Dimmi cosa hai scoperto.//(7.167178,10.10957)\\\\No, non è abbastanza.//(10.10957,40.10957)\\\\Scopri di chi si tratta e quando agirà! Chiamami appena sai qualcosa.",
+            "de": "//(0,6.1)\\\\Hier ist Richard. Das ist ein Wegwerf-Handy. Erzähl mir, was du rausgefunden hast.//(7.4,37.4)\\\\Nein. Das ist nicht gut genug. Finde raus, wer es ist. Und sobald du es weißt, rufst du mich gefälligst zurück!",
+            "es": "//(0,4.2)\\\\Soy Richard. Te llamo desde uno desechable.//(4.2,7.54)\\\\Dime lo que has averiguado.//(7.54,37.54)\\\\No, eso no me vale. ¡Averigua quién y cuándo! ¡Llámame en cuanto lo sepas!",
+            "ru": "//(0,1.806)\\\\Это Ричард.//(1.806,3.778393)\\\\Звоню с одноразового номера.//(3.778393,7.233)\\\\Сообщи, что узнал.//(7.233,12.898)\\\\Нет. Этого недостаточно. Узнай, кто это. И когда!//(12.898,42.898)\\\\Перезвони, когда будешь знать!",
+            "cn": "//(0,5.64)\\\\这里是理查德。这可是一件十万火急的事情。告诉我你发现了什么。//(7.44,11.6)\\\\不，这样 “不够” 好！//(11.6,41.6)\\\\找出是谁，还有是什么时候的事！查出后，立即给我打电话！",
+            "tc": "//(0,5.64)\\\\這裡是理查。這可是一件十萬火急的事情。告訴我你發現了什麼。//(7.44,11.6)\\\\不，這樣「不夠」好！//(11.6,41.6)\\\\找出是誰。還有什麼時候的事！查出後，立即給我打電話！",
+            "jp": "//(0,7.850444)\\\\リチャードだ。 プリペイド携帯から かけてる。 見つけた情報を 伝えろ。 いや、 まだまだ足りない。//(7.850444,14.5794)\\\\誰なのか、 いつに なるかを 突き止めろ！ わかったらすぐ電話を しろ！"
+        }
+    }
+}

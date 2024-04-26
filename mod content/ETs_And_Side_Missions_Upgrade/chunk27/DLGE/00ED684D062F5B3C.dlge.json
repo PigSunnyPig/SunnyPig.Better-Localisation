@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_tequilasunrise/3000_tequilasunrise_story/dr3608_larinbdgrdapart01.sweetdialog?/dr3608_larinbdgrdapart01_larin_et_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr3608_larinbdgrdapart01_larin_et_001",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_tequilasunrise/3000_tequilasunrise_story/dr3608_larinbdgrdapart01_larin_et_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_tequilasunrise/3000_tequilasunrise_story/dr3608_larinbdgrdapart01_larin_et_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,6)\\\\Can you believe that people actually want a Twombly?",
+            "fr": "//(0,6)\\\\Vous le croyez, ça ? On me demande un Twombly !",
+            "it": "//(0,6)\\\\Riesci a credere che la gente voglia davvero un Twombly?",
+            "de": "//(0,6)\\\\Können Sie sich vorstellen, dass tatsächlich jemand einen Twombly haben will?",
+            "es": "//(0,6)\\\\¿Puedes creer que la gente realmente quiera un Twombly?",
+            "ru": "//(0,6)\\\\Представляешь, кому-то понадобился Твомбли.",
+            "cn": "//(0,6)\\\\你相信有人真的想要托姆布雷的作品吗？",
+            "tc": "//(0,6)\\\\你相信有人真的想要托姆布雷的作品嗎？",
+            "jp": "//(0,6)\\\\トゥオンブリーを欲しがる人間がいるなんて信じられるか？"
+        }
+    }
+}

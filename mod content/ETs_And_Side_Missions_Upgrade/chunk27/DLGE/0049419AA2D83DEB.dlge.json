@@ -1,0 +1,24 @@
+{
+  "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+  "hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_shandy/3000_shandy_story/dr3677_jbjphonecall.sweetdialog?/dr3677_jbjphonecall_jbj_et_006.sweetdialogitem].pc_dialogevent",
+  "DITL": "00B7E83B2B5BFE20",
+  "CLNG": "00E3CBB0725ED16C",
+  "rootContainer": {
+    "type": "WavFile",
+    "wavName": "dr3677_jbjphonecall_jbj_et_006",
+    "soundtag": "In-world_Mission_Normal",
+    "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_shandy/3000_shandy_story/dr3677_jbjphonecall_jbj_et_006.wav].pc_wes",
+    "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_shandy/3000_shandy_story/dr3677_jbjphonecall_jbj_et_006.animset].pc_animset",
+    "languages": {
+      "en": "//(0,3)\\\\Loser.",
+      "fr": "//(0,3)\\\\Guignol.",
+      "it": "//(0,3)\\\\Coglione.",
+      "de": "//(0,3)\\\\Loser.",
+      "es": "//(0,3)\\\\Pringado.",
+      "ru": "//(0,3)\\\\Неудачник.",
+      "cn": "//(0,3)\\\\丧家之犬。",
+      "tc": "//(0,3)\\\\喪家之犬。",
+      "jp": "//(0,3)\\\\負け犬。"
+    }
+  }
+}

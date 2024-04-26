@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1658_buseydemons.sweetdialog?/dr1658_buseydemons_busey_et_002.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr1658_buseydemons_busey_et_002",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1658_buseydemons_busey_et_002.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1658_buseydemons_busey_et_002.animset].pc_animset",
+        "languages": {
+            "en": "//(0,4.65)\\\\Products! Telum Lethale! Magnus Frater!//(4.65,9.05)\\\\Sub Obsidione! Choris et Stellas!//(9.05,39.05)\\\\Buddy Holly! Klaatu Barada Nikito!",
+            "fr": "//(0,0.9)\\\\Des produits !//(0.9,2.8)\\\\Telum Lethale !//(2.8,4.6)\\\\Magnus Frater !//(4.6,6.8)\\\\Sub Obsidione !//(6.8,9)\\\\Choris et Stellas !//(9,11)\\\\Buddy Holly !//(11,41)\\\\Klaatu Barada Nikto !",
+            "it": "//(0,7.526687)\\\\Producto! Telum letale! Magnus frater! Sub Obsidione!//(7.526687,37.52669)\\\\Choris et Stellas! Buddy Holly! Klaatu barada nikito!",
+            "de": "//(0,1.7)\\\\Produkte!//(1.7,3.4)\\\\Telum Lethale!//(3.4,5.2)\\\\Magnus Frater!//(5.2,7.65)\\\\Sub Obsidione!//(7.65,9.65)\\\\Choris et Stellas!//(9.65,11)\\\\Buddy Holly!//(11,41)\\\\Klaatu Barada Nikto!",
+            "es": "//(0,7.35)\\\\¡Productos! ¡Telum Lethale! ¡Magnus Frater! ¡Sub Obsidione!//(7.35,37.35)\\\\¡Choris et Stellas! ¡Buddy Holly! ¡Klaatu Barada Nikto!",
+            "ru": "//(0,1.76)\\\\Ну держись!//(1.76,3.58)\\\\Телюм Летале!//(3.58,5.4)\\\\Магнус Фратер!//(5.4,7.76)\\\\Суб Обсидионе!//(7.76,9.62)\\\\Корис эт Стеллас!//(9.62,11.14)\\\\Бадди Холли!//(11.14,41.14)\\\\Клаату Барада Никто!",
+            "cn": "//(0,4.65)\\\\产品！提勒姆·利瑟！马戈努斯·福拉特！//(4.65,9.05)\\\\瑟布·欧布西迪翁！克里斯·艾特·斯特拉斯！//(9.05,39.05)\\\\巴蒂·荷利！克拉图·巴拉达·尼其托！",
+            "tc": "//(0,4.65)\\\\產品！提勒姆．利瑟！馬戈努斯．福拉特！//(4.65,9.05)\\\\瑟布．歐布西迪翁！克里斯．艾特．斯特拉斯！//(9.05,39.05)\\\\巴蒂．荷利！克拉圖．巴拉達．尼其托！",
+            "jp": "//(0,8.73879)\\\\プロダクツ！ テルム・レテール！ マグナス・フラーテル！ サブ・ オブシディオーネ！ チョリス・エト・ステラス！//(8.73879,12.69552)\\\\バディ・ホリー！ クラーツ・ベラーダ・ニクト！"
+        }
+    }
+}

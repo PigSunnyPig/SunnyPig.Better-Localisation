@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_tequilasunrise/3000_tequilasunrise_handler/dr3612_diana.sweetdialog?/dr3612_diana_diana_et_003.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr3612_diana_diana_et_003",
+        "soundtag": "Voiceover_Handler",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_tequilasunrise/3000_tequilasunrise_handler/dr3612_diana_diana_et_003.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_tequilasunrise/3000_tequilasunrise_handler/dr3612_diana_diana_et_003.animset].pc_animset",
+        "languages": {
+            "en": "//[DIANA_ET]\\\\//(0,1.724294)\\\\Good afternoon, 47.//(1.724294,6.513865)\\\\The private apartment on the upper floor is your most likely location to acquire the target.//(6.513865,11.75534)\\\\Intelligence indicates he has a personal guard at public events, so plan accordingly.//(11.75534,14.75534)\\\\Good hunting.",
+            "fr": "//[DIANA_ET]\\\\//(0,1.7)\\\\Bonjour, 47.//(1.7,6.7)\\\\Vous avez toutes les chances de trouver votre cible dans l'appartement privé à l'étage.//(6.7,10.2)\\\\D'après nos renseignements, il est accompagné d'un garde du corps lors des événements publics,//(10.2,14.2)\\\\vous devrez donc agir en conséquence. Bonne chasse.",
+            "it": "//[DIANA_ET]\\\\//(0,1.724294)\\\\Buon pomeriggio, 47.//(1.724294,6.641472)\\\\È verosimile che il bersaglio si trovi nell'appartamento privato al piano superiore.//(6.641472,9.47865)\\\\Secondo le nostre informazioni, è sempre scortato da una guardia del corpo//(9.47865,11.77534)\\\\negli eventi pubblici, quindi agisci di conseguenza.//(11.77534,14.77534)\\\\Buona caccia.",
+            "de": "//[DIANA_ET]\\\\//(0,1.356196)\\\\Hallo, 47.//(1.356196,6.393374)\\\\Das private Apartment im Obergeschoss ist der ideale Ort, das Ziel auszuschalten.//(6.393374,10.11055)\\\\Laut unserer Daten hat er bei allen öffentlichen Auftritten einen persönlichen Leibwächter.//(10.11055,14.11055)\\\\Das sollten Sie berücksichtigen. Waidmanns Heil.",
+            "es": "//[DIANA_ET]\\\\//(0,6.7)\\\\Buenas tardes, 47. El apartamento privado de la planta superior parece tu mejor opción para ocuparte del objetivo.//(6.7,11.9)\\\\Según inteligencia, un guardia personal lo acompaña en eventos públicos, así que planifica en consecuencia.//(11.9,14.9)\\\\Buena cacería.",
+            "ru": "//[DIANA_ET]\\\\//(0,1.724294)\\\\Добрый день, 47-й.//(1.724294,6.641472)\\\\Самое вероятное место встречи с целью — частные апартаменты на верхнем этаже.//(6.641472,11.79865)\\\\Учти, что по нашим данным, на публичных мероприятиях Ларина сопровождает персональный охранник.//(11.79865,14.79865)\\\\Доброй охоты.",
+            "cn": "//[DIANA_ET]\\\\//(0,1.724294)\\\\下午好，47。//(1.724294,6.513865)\\\\目标最有可能出现在楼上的私人公寓。//(6.5,11.8)\\\\情报指出他在公共活动中有私人守卫，所以请依此作出计划。//(11.8,14.8)\\\\狩猎愉快。",
+            "tc": "//[DIANA_ET]\\\\//(0,1.724294)\\\\午安，47。//(1.724294,6.513865)\\\\目標最有可能出現在樓上的私人公寓。//(6.5,11.8)\\\\情報指出他在公共活動中有私人警衛，所以請依此做出計畫。//(11.8,14.8)\\\\狩獵愉快。",
+            "jp": "//[DIANA_ET]\\\\//(0,6.677162)\\\\ごきげんよう、 47。 ターゲットに 接触できる可能性が 高いのは、 上の 階に ある彼の オフィスよ。//(6.677162,12.61242)\\\\情報では ボディガードを 付けて いるようだから、 綿密な計画が 必要よ。 成功を 祈るわ。"
+        }
+    }
+}

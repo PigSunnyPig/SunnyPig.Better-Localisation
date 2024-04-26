@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1660_buseycole.sweetdialog?/dr1660_buseycole_cole_et_012.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr1660_buseycole_cole_et_012",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1660_buseycole_cole_et_012.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1660_buseycole_cole_et_012.animset].pc_animset",
+        "languages": {
+            "en": "//(0,4.6)\\\\That’s nonsensical. But, strangely, I do feel a little relieved.//(4.6,8)\\\\In fact, I don’t give a shit about you or this commercial anymore. I’m outta here.//(8,38)\\\\Vaya con dios, asshole.",
+            "fr": "//(0,4)\\\\C'est n'importe quoi. Mais, étrangement, je me sens un peu soulagé.//(4,8)\\\\En fait, je n'en ai plus rien à battre de toi ni de ce film. Je me casse d'ici.//(8,38)\\\\Vaya con dios, enfoiré.",
+            "it": "//(0,4.264785)\\\\È assurdo, ma stranamente mi sento davvero sollevato.//(4.264785,6.995767)\\\\Non m'importa più un cazzo di te o delle riprese.//(6.995767,36.99577)\\\\Me ne vado. Vaya con dios, stronzo.",
+            "de": "//(0,4.194785)\\\\Quatsch! Aber ich fühle mich tatsächlich irgendwie erleichtert.//(4.194785,7.271472)\\\\Du und diese Werbung sind mir scheißegal.//(7.271472,37.27147)\\\\Ich verschwinde. Vaya con dios, Arschloch!",
+            "es": "//(0,4.300982)\\\\Es una tontería, pero curiosamente me siento un poco aliviado.//(4.300982,7)\\\\Es más, ni tú ni esta película me importáis ya un comino.//(7,37)\\\\Me largo. Sayonara, gilipollas.",
+            "ru": "//(0,1.604294)\\\\Что за бред.//(1.604294,4.5)\\\\С другой стороны, мне и правда получше стало.//(4.5,7.38)\\\\Вообще, теперь мне плевать и на тебя, и на рекламу!//(7.38,8.37)\\\\Все, пока.//(8.37,38.37)\\\\Vaya con dios, козлина.",
+            "cn": "//(0,4.6)\\\\太滑稽了。不过，奇怪的是，我真的感觉有些放松了。//(4.6,8)\\\\说实话，我一点也不在乎你或这个广告了。我要走了。//(8,38)\\\\再见了，混蛋。",
+            "tc": "//(0,4.6)\\\\太無厘頭了。不過，奇怪的事，我真的感覺有些放鬆了。//(4.6,8)\\\\說實話，我一點也不在乎你或這個廣告了。我要走了。//(8,38)\\\\再見了，混蛋。",
+            "jp": "//(0,5.751532)\\\\まったくバカげてる。 でも、 妙なことに 少しだけ 気が 晴れたな。 正直言って、 お前の ことや、 CMの//(5.751532,9.777604)\\\\ことは もうどうでも よくなった。 帰ると しよう。 それじゃあな、 クソッタレめ。"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4612_intelligencemeeting.sweetdialog?/dr4612_intelligencemeeting_intelligence_agent_et_004.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr4612_intelligencemeeting_intelligence_agent_et_004",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4612_intelligencemeeting_intelligence_agent_et_004.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4612_intelligencemeeting_intelligence_agent_et_004.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Speak for yourself, Richard. I’m still a young man!",
+            "fr": "//(0,30)\\\\Parle pour toi, Richard. Je suis encore jeune !",
+            "it": "//(0,30)\\\\Parla per te, Richard. Io sono ancora giovane!",
+            "de": "//(0,30)\\\\Ich nehme an, du sprichst von dir, Richard. Ich bin immer noch jung!",
+            "es": "//(0,30)\\\\Habla por ti, Richard. ¡Yo sigo siendo joven!",
+            "ru": "//(0,1.592393)\\\\Говори за себя, Ричард!//(1.592393,31.59239)\\\\Я лично все еще молод!",
+            "cn": "//(0,30)\\\\理查德，你说什么呢？我还很年轻啊！",
+            "tc": "//(0,30)\\\\理查。你說什麼呢？我還是很年輕啊！",
+            "jp": "//(0,30)\\\\それはお前だけだろ、リチャード。俺はまだ若い！"
+        }
+    }
+}

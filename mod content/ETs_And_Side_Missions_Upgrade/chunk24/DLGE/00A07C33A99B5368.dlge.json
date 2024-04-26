@@ -1,0 +1,87 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4619_waitertakingorder.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "dr4619_waitertakingorder_waiter_male_et_001",
+                "weight": 0.24999995529651375,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4619_waitertakingorder_waiter_male_et_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4619_waitertakingorder_waiter_male_et_001.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\An excellent choice!",
+                    "fr": "//(0,30)\\\\Un excellent choix !",
+                    "it": "//(0,30)\\\\Una scelta eccellente!",
+                    "de": "//(0,30)\\\\Eine vortreffliche Wahl!",
+                    "es": "//(0,30)\\\\¡Una opción excelente!",
+                    "ru": "//(0,30)\\\\Отличный выбор!",
+                    "cn": "//(0,30)\\\\不错的选择！",
+                    "tc": "//(0,30)\\\\好選擇！",
+                    "jp": "//(0,30)\\\\かしこまりました！"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr4619_waitertakingorder_waiter_male_et_002",
+                "weight": 0.24999995529651375,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4619_waitertakingorder_waiter_male_et_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4619_waitertakingorder_waiter_male_et_002.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Very good indeed!",
+                    "fr": "//(0,30)\\\\Très bien, oui !",
+                    "it": "//(0,30)\\\\Ottima scelta!",
+                    "de": "//(0,30)\\\\Eine gute Wahl, in der Tat.",
+                    "es": "//(0,30)\\\\¡Muy bien!",
+                    "ru": "//(0,30)\\\\Это прекрасное блюдо!",
+                    "cn": "//(0,30)\\\\的确很好！",
+                    "tc": "//(0,30)\\\\的確很好！",
+                    "jp": "//(0,30)\\\\承知しました！"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr4619_waitertakingorder_waiter_male_et_003",
+                "weight": 0.24999995529651375,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4619_waitertakingorder_waiter_male_et_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4619_waitertakingorder_waiter_male_et_003.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\I shall send your order to the kitchen directly!",
+                    "fr": "//(0,30)\\\\Je transmets immédiatement votre commande en cuisine !",
+                    "it": "//(0,30)\\\\Giro subito la comanda in cucina!",
+                    "de": "//(0,30)\\\\Ich gebe Ihre Bestellung sofort an die Küche weiter.",
+                    "es": "//(0,30)\\\\¡Avisaré a la cocina de su pedido de inmediato!",
+                    "ru": "//(0,30)\\\\Немедленно передам ваш заказ на кухню!",
+                    "cn": "//(0,30)\\\\我会马上告知厨房的！",
+                    "tc": "//(0,30)\\\\我會馬上告知廚房的！",
+                    "jp": "//(0,30)\\\\ご注文、すぐキッチンへお伝えします！"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr4619_waitertakingorder_waiter_male_et_004",
+                "weight": 0.24999995529651375,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4619_waitertakingorder_waiter_male_et_004.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_story/dr4619_waitertakingorder_waiter_male_et_004.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Ah, very good!",
+                    "fr": "//(0,30)\\\\Oh, très bien !",
+                    "it": "//(0,30)\\\\Ah, molto bene!",
+                    "de": "//(0,30)\\\\Ah, sehr gut.",
+                    "es": "//(0,30)\\\\¡Ah, muy bien!",
+                    "ru": "//(0,30)\\\\Чудесно!",
+                    "cn": "//(0,30)\\\\啊，很好！",
+                    "tc": "//(0,30)\\\\啊，很好！",
+                    "jp": "//(0,30)\\\\承りました！"
+                }
+            }
+        ]
+    }
+}

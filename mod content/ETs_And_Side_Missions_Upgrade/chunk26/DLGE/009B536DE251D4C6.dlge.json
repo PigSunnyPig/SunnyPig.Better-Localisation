@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1659_buseyjuliet.sweetdialog?/dr1659_buseyjuliet_busey_et_003.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr1659_buseyjuliet_busey_et_003",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1659_buseyjuliet_busey_et_003.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_story/dr1659_buseyjuliet_busey_et_003.animset].pc_animset",
+        "languages": {
+            "en": "//(0,6.75)\\\\Clasp my masculine palm, and with me, come to feast upon kisses and popcorn shrimp.//(6.75,13.2)\\\\Can’t you see? Use them eyes, I’m freakin’ Busey!//(13.2,20.45)\\\\Come to sea, love capsize, in freakin’ Busey.//(21.8,28.75)\\\\In your tree, a nude surprise. It’s freakin’ Busey.//(28.75,37.05)\\\\Set me free, amongst those thighs, I’m freaking Busey!//(37.05,67.05)\\\\That song was called \"The Lonely Child.\"",
+            "fr": "//(0,1.472393)\\\\Saisis ma paume masculine//(1.472393,5.9)\\\\et viens festoyer avec moi de baisers et de crevettes au pop-corn.//(7,12.4)\\\\Tu ne vois pas ? Ouvre les yeux, je suis Busey.//(12.4,19.1)\\\\Viens vers la mer, chavirée par l'amour et Busey.//(21.7,28.2)\\\\Dans ton arbre, une SURPRISE nue ! C'est Busey.//(28.2,37)\\\\Libère-moi de tes cuisses, car je suis Buseyyyyyyy.//(37,67)\\\\Cette chanson s'appelle l'Enfant esseulé.",
+            "it": "//(0,6.803374)\\\\Stringi la mia mano virile e unisciti al banchetto di baci e gamberetti fritti.//(6.803374,10.21196)\\\\Tu con me gli occhi aprirai!//(10.21196,13.13625)\\\\Sono io, Busey!//(13.13625,19.86913)\\\\In riva al mar l'amor scoprirai! Sono io, Busey!//(21.96913,28.66582)\\\\La nuda pelle assaporerai! Sono io, Busey!//(28.66582,37.16251)\\\\Il nostro amore libererai! Sono io, Buseyyyyyy!//(37.16251,67.16251)\\\\Il titolo della canzone è \"La bambina sola soletta\".",
+            "de": "//(0,3.044785)\\\\Ergreife meine maskuline Hand und komm mit mir//(3.044785,7.221473)\\\\zu einem Festmahl mit Küssen und Popcorn-Shrimps.//(7.221473,12.64055)\\\\Siehst du nicht mit deinen Augen, ich bin der große Busey.//(12.64055,19.37963)\\\\Komm ins Meer, wo die Liebe kentert, tief im großen Busey.//(22.22963,28.37963)\\\\In deinem Baum eine nackte Überraschung: der große Busey.//(28.37963,37.07963)\\\\Befreie mich mit deinen Schenkeln, ich bin der große Buseyyyyyyy.//(37.07963,67.07964)\\\\Sie hörten den Song „Das einsame Kind“.",
+            "es": "//(0,7)\\\\Agarra mi mano de hombre y deleitémonos juntos con besos y pan de gambas.//(7,13)\\\\No puedes mirar, usa los ojos, soy el gran Busey.//(13,19.21)\\\\Ven al mar, ama sin abrojos, al gran Busey.//(22.175,28.275)\\\\Tu árbol visitar, ¡una sorpresa con sonrojos! Es el gran Busey.//(28.275,37)\\\\Para mi ser liberar, esos muslos aflojo, soy el gran Buseyyy.//(37,67)\\\\Esta canción se titula \"Chico Solitario\".",
+            "ru": "//(0,7.1)\\\\Обопрись же на мой выдающийся бицепс, и мы пойдем наслаждаться поцелуями и креветками!//(7.1,13.34)\\\\Разве ты не видишь, перед тобою Бьюзи.//(13.34,22.17)\\\\Спустись ко мне скорей, перед тобою Бьюзи!//(22.17,29)\\\\Кто там голый в кустах? Перед тобою Бьюзи!//(29,37.28)\\\\Кто там между ног? Это я, Бьюююзиии!//(37.28,67.28)\\\\Эта песня называется «Одинокое дитя».",
+            "cn": "//(0,6.75)\\\\紧握我的阳刚之手，和我一起，来享受亲吻和爆米花虾的盛宴。//(6.75,13.2)\\\\你还不明白吗？用你的双眼，狗日的布西！//(13.2,21.8)\\\\来到海中，倾覆爱意。//(21.8,28.75)\\\\在树林中发现裸体的惊喜。狗日的布西。//(28.75,37.05)\\\\从那些大腿中解放自我，狗日的布西！//(37.05,67.05)\\\\那首歌叫《孤独的孩子》。",
+            "tc": "//(0,30)\\\\抓緊我雄偉的手掌，跟著我，一同吞下親吻與炸蝦。你還不明白嗎？用你的雙眼，我可是他媽的布希！來到海中、最愛翻船的布希。在樹中發現裸體的驚喜。他媽的布希。從那些大腿中解放我，我是他媽的布希！那首歌叫《孤獨的孩子》。",
+            "jp": "//(0,10.80517)\\\\俺の この男らしい手を つかんで、 一緒にポップコーンシュリンプを 楽しもうでは ないか。 俺の//(10.80517,29.32832)\\\\名は ゲイリー・ビジー。 そして、 いつも、 そう、 ビジー。 ゴホン。 俺は いつでも 自由さ。 そうさ、 解き放て、//(29.32832,39.14302)\\\\俺は ビジィィィィィ... イエイ！ サンキュー、 サンキュー！"
+        }
+    }
+}

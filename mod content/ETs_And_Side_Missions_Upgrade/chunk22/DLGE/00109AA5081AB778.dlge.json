@@ -1,0 +1,87 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2613_frydelpatients.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "dr2613_frydelpatients_frydel_et_001",
+                "weight": 0.24999995529651375,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2613_frydelpatients_frydel_et_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2613_frydelpatients_frydel_et_001.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,4.873374)\\\\Ah, hello! I shall let you know as soon as another suite becomes available.//(4.873374,34.87337)\\\\I know you’d prefer a better view of the valley while you wait.",
+                    "fr": "//(0,4.91908)\\\\Oh, bonjour ! Je vous dis dès qu'une autre suite se libère.//(4.91908,34.91908)\\\\Je sais que vous préférez patienter devant une meilleure vue de la vallée !",
+                    "it": "//(0,1.656)\\\\Ah, ciao!//(1.656,4.969)\\\\Ti farò sapere non appena si libera un'altra stanza.//(4.969,34.969)\\\\So che preferiresti una vista migliore sulla vallata durante l'attesa!",
+                    "de": "//(0,5)\\\\Ah, hallo! Ich gebe Ihnen Bescheid, sobald eine andere Suite verfügbar wird.//(5,35)\\\\Ich weiß, Sie hätten gerne einen besseren Ausblick auf das Tal, während Sie warten!",
+                    "es": "//(0,4.800982)\\\\¡Oh, hola! Le avisaré en cuanto haya otra suite disponible.//(4.800982,34.80098)\\\\¡Sé que preferiría tener vistas al valle mientras espera!",
+                    "ru": "//(0,1.4)\\\\О, приветствую!//(1.4,4.857178)\\\\Как только освободится другая палата-люкс, я сразу дам вам знать.//(4.857178,34.85718)\\\\Я прекрасно понимаю, что время проходит быстрее, когда из окна открывается отличный вид на долину.",
+                    "cn": "//(0,30)\\\\啊，你好！套房准备好的时候我会马上让你知道。我知道你喜欢在等待的时候欣赏漂亮的峡谷景观。",
+                    "tc": "//(0,30)\\\\啊，你好！套房準備好的時候我會馬上讓你知道。我知道你喜歡在等待的時候有個漂亮的峽谷景觀。",
+                    "jp": "//(0,5.936485)\\\\こんにちは。 ほかの 部屋が 空き次第すぐに 教えますよ。 景色の よい場所で 待つほうが//(5.936485,7.952416)\\\\よいでしょうからね。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr2613_frydelpatients_frydel_et_002",
+                "weight": 0.24999995529651375,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2613_frydelpatients_frydel_et_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2613_frydelpatients_frydel_et_002.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,4.287178)\\\\Ah, there you are! How wonderful to see you’re up and walking.//(4.287178,34.28718)\\\\I’ll pop by later and have a look at the charts okay? That’s great, thanks.",
+                    "fr": "//(0,4.1)\\\\Ah, vous voilà ! C'est formidable de vous voir debout à nouveau.//(4.1,34.1)\\\\Je repasserai tout à l'heure pour regarder vos résultats, d'accord ? Parfait, merci.",
+                    "it": "//(0,1.556)\\\\Ah, eccoti!//(1.556,4.233)\\\\Che bello vederti di nuovo in piedi.//(4.233,7.266)\\\\Ripasso più tardi per dare un'occhiata ai valori, intesi?//(7.266,37.266)\\\\Ottimo, grazie...",
+                    "de": "//(0,4)\\\\Ah, da sind Sie ja! Sehr schön, dass Sie auf sind und schon herumlaufen.//(4,34)\\\\Ich komme später zu Ihnen und sehe mir die Werte an, okay? Sehr gut, danke ...",
+                    "es": "//(0,4.15)\\\\¡Ah, aquí está! Me alegra mucho ver que está en pie y que ya camina.//(4.15,7.164786)\\\\Me pasaré luego para ver los resultados, ¿vale?//(7.164786,37.16479)\\\\Genial, gracias...",
+                    "ru": "//(0,1.342393)\\\\А, вот вы где!//(1.342393,4.1)\\\\Как хорошо, что вы уже пришли в себя и начали ходить.//(4.1,7.2)\\\\Позже я заскочу к вам и взгляну на вашу карту, хорошо?//(7.2,37.2)\\\\Отлично, большое спасибо...",
+                    "cn": "//(0,4.2)\\\\啊，你在这里啊！看见你能到处行走真是不错。//(4.2,34.2)\\\\我等下过去看看你的仪表，怎么样？太好了，谢谢你。",
+                    "tc": "//(0,4.2)\\\\啊，你在這裡啊！看見你能到處行走真是不錯。//(4.2,34.2)\\\\我等下過去看看你的儀表，怎麼樣？太好了，謝謝你。",
+                    "jp": "//(0,6.471587)\\\\ああ、 ここに いましたか！ 歩けるように なって なにより です。 あとで カルテを チェックさせて//(6.471587,8.413062)\\\\もらいますよ。 ええ、 どうも。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr2613_frydelpatients_frydel_et_003",
+                "weight": 0.24999995529651375,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2613_frydelpatients_frydel_et_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2613_frydelpatients_frydel_et_003.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,4.287178)\\\\Oh, it’s good to see you. You look 10 years younger already!//(4.287178,9.63485)\\\\Listen, I was going to stop by your bed this morning, but there was this important emergency.//(9.63485,16.53491)\\\\Yeah, yeah, a little girl got badly burned and was flown in from some shantytown. It was a pro bono thing.//(16.53491,20.31018)\\\\Call me a romantic, but you can’t just sit and do nothing, right?//(20.31018,50.31018)\\\\Anyway, I’ll come by tonight and look at the tests, okay?",
+                    "fr": "//(0,1.35)\\\\Oh, ravi de vous voir.//(1.35,4.4)\\\\Vous avez rajeuni de dix ans ! Haha.//(4.4,9.6)\\\\Écoutez, j'allais vous rendre une petite visite dans votre chambre ce matin quand j'ai eu une urgence...//(9.6,14.7)\\\\On a amené d'un bidonville une petite fille grièvement brûlée,//(14.7,16.1)\\\\je m'en suis occupé gracieusement.//(16.6,17.65)\\\\Vous allez dire que je suis un grand romantique,//(17.65,19.9)\\\\mais on ne peut pas rester devant ça sans rien faire, pas vrai ?//(19.9,49.9)\\\\Bon... Je repasserai ce soir pour jeter un œil à vos résultats, d'accord ?",
+                    "it": "//(0,1.592)\\\\Ah, che bello vederti.//(1.592,4.957)\\\\Dimostri già dieci anni di meno, ah ah!//(4.957,9.89)\\\\Avrei voluto fermarmi questa mattina, ma c'è stata un'emergenza...//(9.89,12.455)\\\\Sì, una bambina ha rimediato una brutta ustione//(12.455,16.74)\\\\e l'hanno prelevata d'urgenza in elicottero da una baraccopoli. Un intervento di beneficenza.//(16.74,20.309)\\\\Sarò un romantico, ma a volte non puoi voltarti dall'altra parte.//(20.309,50.309)\\\\Comunque... Passerò stasera a controllare gli esami, d'accordo?",
+                    "de": "//(0,4.3)\\\\Oh, schön, Sie zu treffen. Sie sehen bereits zehn Jahre jünger aus, ha-ha.//(4.3,6.9)\\\\Ich wollte Sie eigentlich heute Morgen in Ihrem Zimmer besuchen,//(6.9,14.7)\\\\aber ich hatte einen Notfall ... Ja, ein kleines Mädchen mit schweren Verbrennungen wurde aus einem Elendsviertel eingeflogen.//(14.7,19.9)\\\\Pro bono. Ich mag ein Romantiker sein, aber ich kann bei so was nicht untätig herumsitzen.//(19.9,49.9)\\\\Wie auch immer ... ich komme heute Abend vorbei und sehe mir die Tests an, okay?",
+                    "es": "//(0,4.4)\\\\Oh, me alegro de verle. Ya parece diez años más joven, ja, ja.//(4.4,9.85)\\\\Escuche, iba a pasarme por su habitación esta mañana, pero hubo una emergencia importante...//(9.85,16.75)\\\\Sí, una niña pequeña sufrió graves quemaduras y la trajeron volando desde alguna chabola.//(16.75,20.069)\\\\Llámeme romántico, pero no podía quedarme ahí sentado sin hacer nada, ¿verdad?//(20.069,50.069)\\\\En cualquier caso... Me pasaré por la noche para ver las pruebas, ¿vale?",
+                    "ru": "//(0,1.692393)\\\\О, рад вас видеть.//(1.692393,4.35)\\\\Вы уже выглядите на десять лет моложе, ха-ха.//(4.35,9.79626)\\\\Послушайте, я хотел зайти к вам утром, но возникли непредвиденные обстоятельства...//(9.79626,14.6)\\\\Да, маленькая девочка сильно пострадала при пожаре, ее доставили из каких-то трущоб.//(14.6,16.70773)\\\\Работал совершенно безвозмездно.//(16.70773,20.25)\\\\Считайте меня романтиком, но я не могу просто так сидеть, сложа руки.//(20.25,21.4)\\\\Так что...//(21.4,51.4)\\\\Ночью я зайду к вам и взгляну на результаты анализов, хорошо?",
+                    "cn": "//(0,6.7)\\\\噢，很高兴见到你。你看起来年轻了10岁呢！听着，我今天本来要到你的床边看看你，//(6.7,14.7)\\\\不过却出了些紧急事件。是啊、是啊，有个小女孩在贫民窟里被严重烧伤。//(14.7,20.15)\\\\这可是那种不收钱的差事。或许我有些浪漫主义，不过我可不能坐视不管，对吧？//(20.15,50.15)\\\\反正，我今晚会来看看这些测试结果，行吧？",
+                    "tc": "//(0,6.7)\\\\噢，很高興見到你。你看起來年輕了10歲呢！聽著，我今天本來要到你的床邊看看你，//(6.7,14.7)\\\\不過卻出了些緊急事件。是啊、是啊，有個小女孩在貧民窟裡被嚴重燒傷。//(14.7,20.15)\\\\這可是那種不收錢的差事。或許我有些浪漫主義，不過我可不能坐視不管，對吧？//(20.15,50.15)\\\\反正，我今晚會來看看這些測試結果，行吧？",
+                    "jp": "//(0,7.545914)\\\\やあ、 どうも。 すでに10歳は 若返った感じですな！ 今朝寄ろうと 思ったんですが、 急患が 入って//(7.545914,15.09183)\\\\しまいましてね。 ええ、 少女が ひどい火傷を 負って、 運ばれて きたんですよ。 無料奉仕治療って//(15.09183,23.58098)\\\\やつです。 放って おくわけにも いかないですしね。 とにかく、 今晩テストの 結果を 見に うかがいますよ。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr2613_frydelpatients_frydel_et_004",
+                "weight": 0.24999995529651375,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2613_frydelpatients_frydel_et_004.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_story/dr2613_frydelpatients_frydel_et_004.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,5.155276)\\\\Oh, hi! How are you doing there? You look so much better now.//(5.155276,35.15528)\\\\The nurses treating you okay? That’s great, that’s great. I'll talk to you later, then.",
+                    "fr": "//(0,4.8)\\\\Bonjour ! Comment allez-vous ? Vous avez l'air d'aller beaucoup mieux.//(4.8,34.8)\\\\Les infirmières s'occupent bien de vous ? Parfait, parfait. À plus tard.",
+                    "it": "//(0,2.592)\\\\Ah, ciao! Come andiamo?//(2.592,5.164)\\\\Ora hai un'ottima cera.//(5.164,8.929)\\\\Le infermiere ti stanno trattando bene? Ottimo, ottimo.//(8.929,38.929)\\\\Ci sentiamo dopo.",
+                    "de": "//(0,4.6)\\\\Oh, hallo! Wie geht es Ihnen? Sie sehen viel besser aus.//(4.6,34.6)\\\\Werden Sie gut behandelt? Prächtig, prächtig. Wir reden dann später.",
+                    "es": "//(0,4.932883)\\\\¡Oh, hola! ¿Cómo se encuentra? Tiene mucho mejor aspecto.//(4.932883,7.141472)\\\\¿Las enfermeras le están tratando bien?//(7.141472,37.14147)\\\\Es genial. Genial. Hablamos luego.",
+                    "ru": "//(0,1.206196)\\\\О, привет!//(1.206196,2.628589)\\\\Как у нас дела?//(2.628589,5.007178)\\\\Вижу, что все уже намного лучше.//(5.007178,7.011472)\\\\Медсестры хорошо обращаются?//(7.011472,8.835766)\\\\Отлично, просто здорово.//(8.835766,38.83577)\\\\Тогда до скорого.",
+                    "cn": "//(0,30)\\\\你好啊！你怎么样啊？你看起来好多了。护士们待你如何啊？那样就好。那我晚点再跟你谈谈。",
+                    "tc": "//(0,30)\\\\你好啊！你怎麼樣啊？你看起來好多了。護士們待你如何啊？那樣就好。那我晚點再跟你談談。",
+                    "jp": "//(0,7.990153)\\\\ああ、 どうも！ 調子は いかがです？ 顔色が よくなりましたね。 看護師に 問題は ないですか？ それは//(7.990153,10.16081)\\\\よかった。 それではまたあとで。"
+                }
+            }
+        ]
+    }
+}
