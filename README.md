@@ -23,7 +23,7 @@
 - SunnyPigPig: 負責整個 MOD 的製作，如優化文本、修改機翻錯誤等。
 - Shiroibako: 負責 MOD 的字幕修正，如字幕調較、增加缺失字眼等。
 - Element120: 負責 MOD 的字體優化，製作了針對簡體中文的粗體字體。
-- echo: 負責 MOD 的圖片優化，優化挑戰圖片。
+- Echo: 負責 MOD 的圖片優化，優化挑戰圖片。
 - Suanjiansalt: 提供 rpkg 工具的協作。
 - WINNODD: 提供 rpkg 工具的協作，並作為作者的情感寄託。
 
@@ -32,4 +32,4 @@
 - Janus (杰哥): 曾提供使用 rpkg 工具的幫助。
 - te47: 曾提供使用 Auto-Update 和 GitHub 的幫助。
 - Dribbleondo & The Mafia: 作為 MOD 的靈感來源。
-- 「六点的萨拉热窝」: 作為我的「啟蒙者」。
+- 
