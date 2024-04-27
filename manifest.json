@@ -19,6 +19,9 @@
 		"mext.Harleen_Quinn",
 		"mext.Assassins_Creed_Syndicate_Evie_Frye"
 	],
+	"loadAfter": [
+		"dribbleondo.ts6br"
+	],
 	"options": [
 		{
 			"group": "客制化选项：",
