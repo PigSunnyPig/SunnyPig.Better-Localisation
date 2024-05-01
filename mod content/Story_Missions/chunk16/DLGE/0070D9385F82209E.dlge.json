@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_skunk/27000_story/dr27007_janusoxygen3.sweetdialog?/dr27007_janusoxygen3_janus_003.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr27007_janusoxygen3_janus_003",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_skunk/27000_story/dr27007_janusoxygen3_janus_003.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_skunk/27000_story/dr27007_janusoxygen3_janus_003.animset].pc_animset",
+        "languages": {
+            "en": "//(0,5.891725)\\\\You should take it up. I always found it calming. Soothing, even.//(5.891725,13.18166)\\\\I remember once. I was involved with this project, trying to create super soldiers.//(13.18166,15.78302)\\\\Sounds sort of stupid now that I think about it...",
+            "fr": "//(0,4.552883)\\\\Tu devrais essayer. Ça m'a toujours calmé, détendu, même.//(4.552883,8.973865)\\\\Je me souviens, un jour, j'étais pris dans ce projet...//(8.973865,11.62323)\\\\On voulait créer des super soldats.//(11.62323,15.78302)\\\\Ça a l'air idiot quand je m'entends le dire aujourd'hui...",
+            "it": "//(0,1.2)\\\\Dovresti cominciare.//(1.2,3.2)\\\\L'ho sempre trovato calmante,//(3.2,5.727241)\\\\riposante, oserei dire.//(5.727241,9.3)\\\\Mi ricordo una volta che ero coinvolto in un//(9.3,12.83883)\\\\progetto per creare super soldati.//(12.83883,15.78302)\\\\Sembra stupido a ripensarci adesso...",
+            "de": "//(0,1.805741)\\\\Du solltest damit anfangen.//(1.805741,4.285476)\\\\Ich empfand es immer als beruhigend.//(4.285476,5.417224)\\\\Sogar besänftigend.//(5.417224,7.559963)\\\\Ich erinnere mich an einmal ...//(7.559963,10.37669)\\\\Ich war da an diesem Projekt beteiligt.//(10.37669,12.18244)\\\\Wir wollten Supersoldaten erschaffen.//(12.18244,13.64028)\\\\Jetzt klingt das dumm,//(13.64028,15.78302)\\\\wenn ich so daran denke ...",
+            "es": "//(0,1.454427)\\\\Deberías probarlo.//(1.454427,4.641173)\\\\Yo siempre lo he encontrado relajante.//(4.641173,6.0956)\\\\Reconfortante incluso.//(6.0956,10.56758)\\\\Me acuerdo de una vez que estaba en un proyecto,//(10.56758,12.02201)\\\\crear supersoldados.//(12.02201,13.89551)\\\\Ahora que lo pienso,//(13.89551,15.78302)\\\\suena hasta estúpido...",
+            "ru": "//(0,1.704567)\\\\Рекомендую попробовать.//(1.704567,3.916698)\\\\Курение меня успокаивает.//(3.916698,5.113701)\\\\Расслабляет.//(5.113701,6.967323)\\\\Помню, было дело,//(6.967323,11.20971)\\\\я участвовал в проекте по созданию суперсолдат.//(11.20971,12.55577)\\\\Сейчас, конечно,//(12.55577,15.78302)\\\\это всё кажется очень глупым...",
+            "cn": "//(0,5.9)\\\\你应该试一试。它能令人平静下来，甚至还能减轻痛苦。//(5.9,13.2)\\\\还记得有一次，我参与了一项制造超级士兵的工程。//(13.2,15.783)\\\\现在想想，那可真蠢啊......",
+            "tc": "//(0,5.9)\\\\你應該試一試。它能讓人平靜下來，甚至還能減輕痛苦。//(5.9,13.2)\\\\還記得有一次，我參與了一項製造超級士兵的工程。//(13.2,15.783)\\\\現在想想，那可真蠢啊......",
+            "jp": "//(0,5.303)\\\\やってみたらどうだ。いつだって気持ちを落ち着かせてくれる。//(5.303,13.145)\\\\昔、超人的な兵士を作ろうとしてこのプロジェクトに加わったことを思い出すよ。//(13.145,15.78302)\\\\今思うと馬鹿げた話だ。"
+        }
+    }
+}

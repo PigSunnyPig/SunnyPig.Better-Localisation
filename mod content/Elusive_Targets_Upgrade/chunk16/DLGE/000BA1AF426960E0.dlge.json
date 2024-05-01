@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_elusive/27000_alabamaslammer/27000_alabamaslammer_story/dr27400_chatlife.sweetdialog?/dr27400_chatlife_civmale08_012.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr27400_chatlife_civmale08_012",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_elusive/27000_alabamaslammer/27000_alabamaslammer_story/dr27400_chatlife_civmale08_012.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_elusive/27000_alabamaslammer/27000_alabamaslammer_story/dr27400_chatlife_civmale08_012.animset].pc_animset",
+        "languages": {
+            "en": "//(0,3.597123)\\\\Oh, I’m definitely a fighter, sir.//(3.597123,5.4)\\\\You can count on that.//(5.4,9.25425)\\\\Faint heart never won fair lady, you know.",
+            "fr": "//(0,3.2)\\\\Oh, je n'abandonne jamais.//(3.2,5.3)\\\\Je me bats toujours jusqu'au bout.//(5.3,9.25425)\\\\Qui ne tente rien n'a rien, comme on dit.",
+            "it": "//(0,3.316687)\\\\Oh, io sono decisamente un lottatore, signore.//(3.316687,4.915212)\\\\Su questo può contarci.//(4.915212,9.584291)\\\\I deboli di cuore non conquistano mai le belle signore, sa.",
+            "de": "//(0,3.439959)\\\\Oh, ich bin auf jeden Fall ein Kämpfer.//(3.439959,5.248493)\\\\Darauf können Sie sich verlassen.//(5.248493,9.25425)\\\\Wer nichts wagt, der nichts gewinnt, wissen Sie?",
+            "es": "//(0,3.031569)\\\\Ah, yo soy de luchar hasta el final,//(3.031569,5.385017)\\\\señor. Se lo aseguro.//(5.385017,8.302359)\\\\Un corazón débil no conquista a las mujeres,//(8.302359,9.302359)\\\\¿sabe?",
+            "ru": "//(0,3.53619)\\\\О сэр, я всегда борюсь до конца.//(3.53619,5.310868)\\\\Можете быть уверены.//(5.310868,6.665188)\\\\Смелость города берет,//(6.665188,9.25425)\\\\и все в таком духе.",
+            "cn": "//(0,3.6)\\\\哦，我当然会勇往直前了，先生。//(3.6,5.4)\\\\你就放心吧。//(5.4,9.25425)\\\\没有英雄心，又怎么能抱得美人归。",
+            "tc": "//(0,3.6)\\\\噢，我總是盡力而為，先生。//(3.6,5.4)\\\\你就放心吧。//(5.4,9.25425)\\\\膽小之士向來無法奪得女性的青睞，你知道吧。",
+            "jp": "//(0,5.45)\\\\ああ、俺は生粋の戦士ですよ、旦那。期待してもらっていいですよ。//(5.45,9.25425)\\\\臆病者じゃ美人をものにできないって言いますからね。"
+        }
+    }
+}

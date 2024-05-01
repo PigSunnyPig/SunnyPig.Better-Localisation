@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/suburbia/27500_gartersnake/27500_story/dr27509_sheriffthreat.sweetdialog?/dr27509_sheriffthreat_sheriffmasterson_010.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr27509_sheriffthreat_sheriffmasterson_010",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27500_gartersnake/27500_story/dr27509_sheriffthreat_sheriffmasterson_010.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27500_gartersnake/27500_story/dr27509_sheriffthreat_sheriffmasterson_010.animset].pc_animset",
+        "languages": {
+            "en": "//(0,3.1)\\\\I think my sister-in-law sells that, it's all she posts about anyway.//(3.1,6.234025)\\\\\"Sea to Soul\" or something like that, right?",
+            "fr": "//(0,3.725276)\\\\Ah, je crois que ma belle-sœur en vend, elle n'arrête pas d'en parler.//(3.725276,9.210062)\\\\\"De la mer à l'âme\", c'est ça, non ?",
+            "it": "//(0,1.830589)\\\\Credo che mia cognata la venda...//(1.830589,3.661178)\\\\sui social ormai non posta altro.//(3.661178,6.857865)\\\\\"Dall'oceano, all'anima\" o qualcosa del genere, giusto?",
+            "de": "//(0,1.76548)\\\\Ich glaube, meine Schwägerin verkauft das.//(1.76548,3.456061)\\\\Sie postet zumindest ständig was darüber.//(3.456061,5.139213)\\\\„Von der See zur Seele“ oder so,//(5.139213,6.139213)\\\\nicht wahr?",
+            "es": "//(0,1.717855)\\\\Creo que mi cuñada vende esas cosas.//(1.717855,3.846763)\\\\Es de lo único que habla en redes sociales.//(3.846763,7.411549)\\\\«Del mar al alma» o algo así, ¿no?",
+            "ru": "//(0,1.846162)\\\\Кажись, моя невестка ее продает.//(1.846162,3.602285)\\\\Только о ней и пишет.//(3.602285,5.910792)\\\\«Из моря в душу» или типа того?",
+            "cn": "//(0,3.1)\\\\我弟媳好像卖那东西，她整天向人推荐来着。//(3.1,6.234025)\\\\「来自大海，滋润灵魂」还是啥的，对吧？",
+            "tc": "//(0,3.1)\\\\我嫂子好像在賣那東西，她每次發文都在提這個東西。//(3.1,6.234025)\\\\什麼「來自大海，滋潤靈魂」，對吧？",
+            "jp": "//(0,2.18)\\\\義理の姉妹がそれを売っていたような気が...//(2.18,3.8)\\\\そんなことでしか連絡してきませんがね。//(3.8,5.910792)\\\\「海から魂へ」とかそんなのでしたよね？"
+        }
+    }
+}

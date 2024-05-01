@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_skunk/27000_story/dr27044_housesalecassidy47callout.sweetdialog?/dr27044_housesalecassidy47callout_cassidy_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr27044_housesalecassidy47callout_cassidy_001",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_skunk/27000_story/dr27044_housesalecassidy47callout_cassidy_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_skunk/27000_story/dr27044_housesalecassidy47callout_cassidy_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,1.4997)\\\\Wait, aren't you the realtor?//(1.4997,3.374979)\\\\I've been waiting hours for you.",
+            "fr": "//(0,1.624452)\\\\Hé, vous ne seriez pas l'agent immobilier ?//(1.624452,3.374979)\\\\Ça fait des heures que je vous attends.",
+            "it": "//(0,2.087171)\\\\Ehi, ma lei non è l'agente immobiliare?//(2.087171,3.374979)\\\\La aspetto da ore.",
+            "de": "//(0,1.58012)\\\\Moment! Sind Sie nicht der Immobilienmakler?//(1.58012,3.374979)\\\\Ich warte schon seit Stunden auf Sie.",
+            "es": "//(0,2.153548)\\\\Un momento, ¿eres el agente inmobiliario?//(2.153548,3.374979)\\\\Llevo horas esperándote.",
+            "ru": "//(0,1.564465)\\\\Минуточку! Вы случайно не риелтор?//(1.564465,3.374979)\\\\Я вас уже несколько часов жду.",
+            "cn": "//(0,1.4997)\\\\等等，你不就是房地产经纪人吗？//(1.4997,3.374979)\\\\我都等了你好几个小时了。",
+            "tc": "//(0,1.4997)\\\\等等，你不就是房地產仲介嗎？//(1.4997,3.374979)\\\\我都等了你好幾個小時了。",
+            "jp": "//(0,30)\\\\待て、君は不動産屋じゃないか？ずっと待ってたんだぞ。"
+        }
+    }
+}

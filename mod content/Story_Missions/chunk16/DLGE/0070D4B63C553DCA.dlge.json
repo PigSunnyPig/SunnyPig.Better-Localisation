@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_skunk/27000_story/dr27057_cassidywilsonhouse1.sweetdialog?/dr27057_cassidywilsonhouse1_cassidy_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr27057_cassidywilsonhouse1_cassidy_001",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_skunk/27000_story/dr27057_cassidywilsonhouse1_cassidy_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_skunk/27000_story/dr27057_cassidywilsonhouse1_cassidy_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,3.696687)\\\\Hm, a neighborhood BBQ party. How suburban...//(3.696687,5.507292)\\\\Hm, my belly is rumbling a little...",
+            "fr": "//(0,2.076638)\\\\Hmm, un barbecue de quartier.//(2.076638,3.430653)\\\\C'est d'un banal...//(3.430653,5.507292)\\\\Tiens, j'ai un peu faim...",
+            "it": "//(0,1.694324)\\\\Mmh, un barbecue in giardino.//(1.694324,3.306014)\\\\Tipico delle zone di periferia...//(3.306014,5.507292)\\\\Oh, mi brontola un po' lo stomaco...",
+            "de": "//(0,2.181324)\\\\Hm, ein Grillfest in der Nachbarschaft.//(2.181324,3.134642)\\\\Wie vorstädtisch ...//(3.134642,5.507292)\\\\Aber mein Magen knurrt schon ein bisschen ...",
+            "es": "//(0,1.783616)\\\\Una, una barbacoa en el barrio.//(1.783616,3.491565)\\\\¡Qué típico de las zonas residenciales!...//(3.491565,5.507292)\\\\Mmm, me suenan las tripas un poco...",
+            "ru": "//(0,2.387311)\\\\Хм, пикник с барбекю у соседей.//(2.387311,3.430653)\\\\Типичный пригород...//(3.430653,5.507292)\\\\Ой, аж в животе заурчало...",
+            "cn": "//(0,3.696687)\\\\呃，一场邻里的室外烧烤聚会，这大概就是郊区的特色吧......//(3.696687,5.507292)\\\\呃，我肚子有点咕咕叫......",
+            "tc": "//(0,3.696687)\\\\呃，一場鄰裡的室外烤肉聚會，這大概就是郊區的特色吧......//(3.696687,5.507292)\\\\呃，我肚子有點咕咕叫......",
+            "jp": "//(0,3.52)\\\\ほう、町内バーベキューパーティーか。郊外らしいな...//(3.52,33.52)\\\\ううむ、腹が鳴ってきたぞ..."
+        }
+    }
+}

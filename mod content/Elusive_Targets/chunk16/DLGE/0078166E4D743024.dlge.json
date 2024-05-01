@@ -1,0 +1,30 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_elusive/27000_alabamaslammer/27000_alabamaslammer_handler/ds27400_agents.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "ds27400_agents_diana_001",
+                "weight": 1.0,
+                "soundtag": "Voiceover_Handler",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_elusive/27000_alabamaslammer/27000_alabamaslammer_handler/ds27400_agents_diana_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_elusive/27000_alabamaslammer/27000_alabamaslammer_handler/ds27400_agents_diana_001.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,3.95)\\\\It seems you’re not the only one hunting The Censor, 47.//(3.95,8.9)\\\\The agents hands are tied for now, luckily yours are not.//(8.9,14.102)\\\\If you can gain access to their computer, you should find some information on their prime suspect.",
+                    "fr": "//(0,1.5)\\\\On dirait bien que vous n'êtes pas le seul//(1.5,3.8)\\\\à traquer le Censeur, 47.//(3.8,8.7)\\\\Mais contrairement aux autorités, vous avez carte blanche.//(8.7,11.1)\\\\Si vous pouvez accéder à leur ordinateur,//(11.1,14.1984)\\\\vous devriez trouver des informations sur le suspect.",
+                    "it": "//(0,3.9)\\\\A quanto pare non sei l'unico a dare la caccia al Censore, 47.//(3.9,6.2)\\\\Per ora gli agenti hanno le mani legate,//(6.2,8.879455)\\\\ma tu fortunatamente no.//(8.879455,11.17251)\\\\Se riesci ad accedere ai loro computer,//(11.17251,14.6173)\\\\dovresti trovare delle informazioni sui loro principali sospettati.",
+                    "de": "//(0,1.55)\\\\Es scheint, als wären Sie nicht der Einzige,//(1.55,3.8)\\\\der den „Censor“ jagt, 47.//(3.8,6.3)\\\\Den Agenten sind vorerst die Hände gebunden.//(6.3,8.8)\\\\Glücklicherweise gilt das nicht für Ihre.//(8.8,11.1)\\\\Wenn Sie Zugang zu deren Computer erhalten können,//(11.1,14.10963)\\\\sollten Sie einige Informationen zu deren Hauptverdächtigen finden.",
+                    "es": "//(0,3.742)\\\\Parece que no eres el único que está buscando al Censor, 47.//(3.742,5.984)\\\\Los agentes tienen las manos atadas.//(5.984,8.63)\\\\Por suerte, tú no.//(8.63,14.42847)\\\\Si logras acceder a su ordenador, podrías conseguir información sobre su principal sospechoso.",
+                    "ru": "//(0,3.916687)\\\\Похоже, не ты один интересуешься Критиком, 47-й.//(3.916687,6.365276)\\\\Правда, у детективов сейчас связаны руки,//(6.365276,8.528687)\\\\а у тебя — полная свобода действий.//(8.528687,10.50186)\\\\Если доберешься до их компьютера,//(10.50186,14.10169)\\\\то наверняка сможешь узнать кое-что о главном подозреваемом.",
+                    "cn": "//(0,3.95)\\\\看来不只你对「审查员」的性命感兴趣，47。//(3.95,8.9)\\\\这些特工目前受到了诸多的限制，幸好你可以自由行动。//(8.9,14.102)\\\\如果你能使用他们的电脑，应该就可以找到一些关于首要嫌犯的信息。",
+                    "tc": "//(0,3.95)\\\\看來獵殺「審查員」的人不只有你，47。//(3.95,8.9)\\\\這些特務的行動現在受到了限制，幸好這對你沒影響。//(8.9,14.102)\\\\如果你能使用他們的電腦，應該就可以一些找到關於主要嫌犯的資訊。",
+                    "jp": "//(0,3.855)\\\\どうやら、センサーを狙っているのはあなただけじゃなさそうね、47。//(3.855,9)\\\\捜査官たちは今手が出せない状態だけど、運よくあなたは問題ないわ。//(9,14.10169)\\\\彼らのコンピューターにアクセスできれば、彼らの容疑者の情報を得られるはず。"
+                }
+            }
+        ]
+    }
+}

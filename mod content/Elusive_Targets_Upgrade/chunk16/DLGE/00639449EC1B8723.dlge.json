@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_elusive/27000_alabamaslammer/27000_alabamaslammer_handler/ds27403_pointoutkiller1.sweetdialog?/ds27403_pointoutkiller1_diana_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds27403_pointoutkiller1_diana_001",
+        "soundtag": "Voiceover_Handler",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_elusive/27000_alabamaslammer/27000_alabamaslammer_handler/ds27403_pointoutkiller1_diana_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_elusive/27000_alabamaslammer/27000_alabamaslammer_handler/ds27403_pointoutkiller1_diana_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\You should keep an eye on this one, 47.",
+            "fr": "//(0,30)\\\\Vous devriez suivre ça de plus près, 47.",
+            "it": "//(0,30)\\\\Dovresti tenere d'occhio questa persona, 47.",
+            "de": "//(0,30)\\\\Sie sollten den hier lieber im Auge behalten, 47.",
+            "es": "//(0,30)\\\\No lo pierdas de vista, 47.",
+            "ru": "//(0,30)\\\\Обрати на это внимание, 47-й.",
+            "cn": "//(0,30)\\\\你应该继续观察这个人，47。",
+            "tc": "//(0,30)\\\\你應該繼續觀察這個人，47。",
+            "jp": "//(0,30)\\\\この男には目を光らせておくべきだわ、47。"
+        }
+    }
+}

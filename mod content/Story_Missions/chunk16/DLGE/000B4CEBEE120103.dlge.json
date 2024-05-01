@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_skunk/27000_story/dr27092_healthjanusnursefollow.sweetdialog?/dr27092_healthjanusnursefollow_nelsonlafayette_002.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr27092_healthjanusnursefollow_nelsonlafayette_002",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_skunk/27000_story/dr27092_healthjanusnursefollow_nelsonlafayette_002.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_skunk/27000_story/dr27092_healthjanusnursefollow_nelsonlafayette_002.animset].pc_animset",
+        "languages": {
+            "en": "//(0,1.942393)\\\\I'm sorry, Mr. Janus.//(1.942393,31.94239)\\\\Bike trouble.",
+            "fr": "//(0,30)\\\\Excusez-moi, M. Janus. Un problème avec mon vélo.",
+            "it": "//(0,30)\\\\Mi scusi, signor Janus, ho avuto problemi con la bici.",
+            "de": "//(0,30)\\\\Tut mir leid, Mr. Janus. Probleme mit dem Fahrrad.",
+            "es": "//(0,30)\\\\Lo siento, señor Janus. Problemas con la bici.",
+            "ru": "//(0,30)\\\\Извините, мистер Янус. Проблемы с велосипедом.",
+            "cn": "//(0,1.942393)\\\\抱歉，杰纳斯先生。//(1.942393,31.94239)\\\\摩托车出故障了。",
+            "tc": "//(0,1.942393)\\\\抱歉，傑納斯先生。//(1.942393,31.94239)\\\\機車壞了。",
+            "jp": "//(0,30)\\\\ヤヌスさん、すいません。バイクの調子が少し..."
+        }
+    }
+}
