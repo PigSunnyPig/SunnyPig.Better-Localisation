@@ -5,9 +5,9 @@
 	"updateCheck": "https://raw.githubusercontent.com/PigSunnyPig/SunnyPig.github.io/main/updater.json",
 	"description": "优化《杀手：暗杀世界》的汉化文本（繁、简皆有），包括挑战、武器及服装、起始位置及偷运道具、主线及支线任务简报字幕……请点击下方的「齿轮」图标，以查看详细说明。",
 	"authors": [
-		"SunnyPigPig, Shiroibako, Element120, Echo, PVD, SuanJianSalt & WINNODD"
+		"SunnyPigPig, Shiroibako, Element120, Echo, SuanJianSalt & WINNODD"
 	],
-	"frameworkVersion": "2.33.11",
+	"frameworkVersion": "2.33.12",
 	"thumbs": ["ConsoleCmd OnlineResources_Disable 1"],
 	"loadBefore": [
 		"Lv.KumaCasual",
@@ -18,9 +18,6 @@
 		"mext.Ashley_Graham",
 		"mext.Harleen_Quinn",
 		"mext.Assassins_Creed_Syndicate_Evie_Frye"
-	],
-	"loadAfter": [
-		"dribbleondo.ts6br"
 	],
 	"options": [
 		{
@@ -17888,6 +17885,7 @@
 		"image": "framework content/Freelancer_2.png",
 		"tooltip": "优化《杀手：暗杀世界》里的「自由职业者」中的文本内容，如使当中的击杀条件描述更加明确。（计划中）",
 		"type": "select",
+		"contentFolders": ["mod content/Freelancer"],
 		"localisationOverrides": {
 			"00721E7431F678EA": {
 				"english": {},
@@ -17898,7 +17896,6 @@
 				"russian": {},
 				"chineseSimplified": 
 				{
-
 					"7681339": "制伏目标-棒球棍（+{0}&nbsp;{MERCES}）",
 					"9766579": "毒药击杀（+{0}&nbsp;{MERCES}）",
 					"23614232": "限时-制伏嫌疑人-无声",
