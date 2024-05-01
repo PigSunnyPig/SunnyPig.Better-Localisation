@@ -24,12 +24,12 @@
 - Shiroibako: 負責 MOD 的字幕修正，如字幕調較、增加缺失字眼等。
 - Element120: 負責 MOD 的字體優化，製作了針對簡體中文的粗體字體。
 - Echo: 負責 MOD 的圖片優化，優化挑戰圖片。
-- PVD: 提供文本翻譯的改進建議。
 - Suanjiansalt: 提供 rpkg 工具的協作。
 - WINNODD: 提供 rpkg 工具的協作，並作為作者的情感寄託。
 
 
 # 特別鳴謝 Special Thanks：
+- PVD: 提供文本翻譯的改進建議。
 - Janus (杰哥): 曾提供使用 rpkg 工具的幫助。
 - te47: 曾提供使用 Auto-Update 和 GitHub 的幫助。
 - SOHM 社區: 作為我在《殺手》圈子裡的一個家。
