@@ -6,6 +6,10 @@
 此 MOD 是受 Dribbleondo 的 The Great Big Localisation Revamp 及 The Mafia 的 Hitmanussy Localizationussy Modussy 所啟發而成。
 
 
+# 安裝途徑 Installation：
+此 MOD 需透過 SMF 進行安裝，詳情請參閱「DOCS」欄目。
+
+
 # 特色 Features：
 - 優化遊戲裡大量的挑戰文本內容，使當中的文字描述更加明確；同時也對部分圖片進行了修改。
 - 優化遊戲裡大量的裝備與武器名字，並補充其文字內容簡介；同時也對部分圖片進行了修改。
@@ -23,7 +27,7 @@
 - SunnyPigPig: 負責 MOD 的整體製作，如優化文本、修改機翻錯誤等。
 - Shiroibako: 負責 MOD 的字幕修正，如字幕調較、增加缺失字眼等。
 - Element120: 負責 MOD 的字體優化，製作了針對簡體中文的粗體字體。
-- Echo: 負責 MOD 的圖片優化，優化挑戰圖片。
+- Echo: 負責 MOD 的圖片優化，如優化了挑戰圖片。
 - Suanjiansalt: 提供 rpkg 工具的協作。
 - WINNODD: 提供 rpkg 工具的協作，並作為作者的情感寄託。
 
