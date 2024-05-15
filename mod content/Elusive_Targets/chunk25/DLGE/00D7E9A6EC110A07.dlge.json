@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11601_dawnmeeting.sweetdialog?/dr11601_dawnmeeting_orlando_et_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr11601_dawnmeeting_orlando_et_001",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11601_dawnmeeting_orlando_et_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11601_dawnmeeting_orlando_et_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Hello, Yazid. It’s good to see you again !",
+            "fr": "//(0,30)\\\\Salut, Yazid. Content de vous revoir !",
+            "it": "//(0.45,30.45)\\\\Salve, Yazid. Felice di rivederti!",
+            "de": "//(0,30)\\\\Hallo, Yazid! Schön, dich wiederzusehen!",
+            "es": "//(0,30)\\\\Hola, Yazid. ¡Me alegro de verte de nuevo!",
+            "ru": "//(0,30)\\\\Здравствуй, Язид. Рад тебя снова видеть!",
+            "cn": "//(0,30)\\\\你好，亚兹。很高兴见到你！",
+            "tc": "//(0,30)\\\\你好，亞茲。很高興見到你！",
+            "jp": "//(0,30)\\\\よぉ、ヤジード。また会えてうれしいぜ！"
+        }
+    }
+}

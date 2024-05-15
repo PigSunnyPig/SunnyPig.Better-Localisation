@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11601_dawnmeeting.sweetdialog?/dr11601_dawnmeeting_dawn_agent_et_006.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr11601_dawnmeeting_dawn_agent_et_006",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11601_dawnmeeting_dawn_agent_et_006.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11601_dawnmeeting_dawn_agent_et_006.animset].pc_animset",
+        "languages": {
+            "en": "//(0,5.25)\\\\Let me just check this. Very well. This looks like what we agreed.//(5.25,8.5)\\\\All the details are here. Good.//(8.5,11.2)\\\\Let me know when you have received confirmation from Bogota.//(11.2,41.2)\\\\Oh, by the way, make sure to try the snail soup! It’s a specialty of Marrakesh!",
+            "fr": "//(0,1.7)\\\\Je vais regarder ça.//(2.5,3.9)\\\\Parfait.//(3.9,8.5)\\\\Ça correspond à notre accord. Toutes les infos sont là. Bien.//(8.5,11.8)\\\\Prévenez-nous quand vous recevrez la confirmation de Bogota.//(11.8,41.8)\\\\Oh, au fait, je vous conseille la soupe à l'escargot ! C'est une spécialité de Marrakech !",
+            "it": "//(0,1.286)\\\\Fammi controllare.//(2.386,6.215)\\\\Perfetto, sembra sia tutto in ordine.//(6.215,8.55549)\\\\Proprio come da accordi. Bene!//(8.55549,11.688)\\\\Fammi sapere quando avrai ricevuto la conferma da Bogotà.//(11.688,16)\\\\A proposito, ti consiglio di assaggiare la zuppa di lumache!//(16,46)\\\\È una specialità di Marrakech!",
+            "de": "//(0,2.440491)\\\\Ich prüf das nur schnell.//(2.440491,8.5)\\\\Okay. Sieht gut aus. Alles ist da. Gut.//(8.5,11.7)\\\\Melde dich, wenn du die Bestätigung aus Bogota hast.//(11.7,41.7)\\\\Übrigens, probiere unbedingt die Schneckensuppe! Sie ist eine Spezialität aus Marrakesch!",
+            "es": "//(0,6.067178)\\\\Voy a comprobarlo. Muy bien. Parece que es lo que habíamos acordado.//(6.067178,11.52245)\\\\Aquí están todos los detalles. Bueno, avísame cuando recibas la confirmación de Bogotá.//(11.52245,41.52245)\\\\Por cierto, prueba la sopa de caracol. ¡Es la especialidad de Marrakech!",
+            "ru": "//(0,7.85)\\\\Посмотрим... Хорошо. Думаю, мы договорились. Все сведения здесь.//(7.85,11.6)\\\\Отлично. Сообщи, когда получишь подтверждение из Боготы.//(11.6,41.6)\\\\О, и не забудь попробовать суп с улитками! Местный деликатес!",
+            "cn": "//(0,5.25)\\\\我来检查一下。非常好，和我们谈的一样。//(5.25,8.5)\\\\所有的细节都在这里，很好。//(8.5,11.368)\\\\当你们收到来自波哥大的确认消息后，记得告诉我。//(11.368,41.368)\\\\哦，顺带一提，你们可一定要尝尝蜗牛浓汤！这可是马拉喀什的特色美食！",
+            "tc": "//(0,5.25)\\\\我來檢查一下。非常好，和我們談的一樣。//(5.25,8.5)\\\\所有的細節都在這裡，很好。//(8.5,11.368)\\\\當你們收到來自波哥大的確認消息後，記得告訴我。//(11.368,41.368)\\\\哦，順帶一提，你們可一定要嘗嘗蝸牛濃湯！這可是馬拉喀什的特色風味！",
+            "jp": "//(0,6.510469)\\\\確認させて くれ。 ふむふむ、 見たところ大丈夫そうだな。 一通りそろって いる。 よし、 ボゴタから//(6.510469,15.46237)\\\\連絡が きたら、 俺に 知らせて くれよ。 あとそうだな、 カタツムリの スープを 味わって みると いいぞ！//(15.46237,45.46237)\\\\あれは マラケシュ自慢の 料理だからな！"
+        }
+    }
+}

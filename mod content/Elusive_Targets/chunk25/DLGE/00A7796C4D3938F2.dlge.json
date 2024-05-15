@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11607_brothersgone.sweetdialog?/dr11607_brothersgone_renzo_et_002.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr11607_brothersgone_renzo_et_002",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11607_brothersgone_renzo_et_002.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11607_brothersgone_renzo_et_002.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Where is that shithead? Well screw him. If he wants to stay in this shitty city when we leave, that’s up to him!",
+            "fr": "//(0,2.78)\\\\Il est où cet abruti ?//(2.78,32.78)\\\\Tant pis pour lui. S'il veut rester dans cette ville de merde, ça le regarde !",
+            "it": "//(0,2.590491)\\\\Dov'è quella testa di cazzo?//(2.590491,32.59049)\\\\Che si fotta. Se vuole restare in questa merda di città, non sarò io a impedirglielo!",
+            "de": "//(0,4.9)\\\\Wo ist dieser Idiot? Scheiß auf ihn.//(4.9,34.9)\\\\Wenn er in dieser Drecksstadt bleiben will, statt abzureisen, ist das seine Sache!",
+            "es": "//(0,1.922393)\\\\¿Dónde está ese gilipollas?//(2.772,32.772)\\\\Bah, que le jodan. ¡Si quiere quedarse en esta mierda de ciudad cuando nos vayamos, allá él!",
+            "ru": "//(0,4.6)\\\\Где этот урод? А, пошел он.//(4.6,34.6)\\\\Если хочет остаться в этом свинарнике, когда мы улетим, пусть остается!",
+            "cn": "//(0,2.6)\\\\那个混蛋在哪？//(2.6,4.662)\\\\去他的吧。//(4.662,34.662)\\\\他要是在我们离开时，还想留在这破地方，那就随他去！",
+            "tc": "//(0,2.6)\\\\那個混蛋在哪？//(2.6,4.662)\\\\去他的吧。//(4.662,34.662)\\\\他要是在我們離開時，還想留在這破地方，那就隨他去！",
+            "jp": "//(0,6.074656)\\\\あのクソ野郎、 どこに 行ったんだ？ まあいい。 こんなクソったれた街に どうしても残りたいなら、//(6.074656,36.07466)\\\\勝手に しな！"
+        }
+    }
+}

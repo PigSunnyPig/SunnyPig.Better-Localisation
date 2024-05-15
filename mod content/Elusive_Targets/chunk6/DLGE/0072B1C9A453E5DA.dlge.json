@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/wet/43000_elusive/redsnapper/43600_handler/43600_redsnapperflyin.sweetdialog?/43600_redsnapperflyin_diana_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "43600_redsnapperflyin_diana_001",
+        "soundtag": "Voiceover_Handler",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/43000_elusive/redsnapper/43600_handler/43600_redsnapperflyin_diana_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/43000_elusive/redsnapper/43600_handler/43600_redsnapperflyin_diana_001.animset].pc_animset",
+        "languages": {
+            "en": "//[DIANA]\\\\//(0,1.604294)\\\\Good evening 47.//(1.604294,6.6)\\\\Sully “The Crusher” Bowden is currently setting up one of his “street fight” events,//(6.6,10.32245)\\\\riling up his fighters and taking illegal bets.//(10.32245,16.09582)\\\\The event takes place tomorrow night, so this is a perfect opportunity get close.//(16.09582,46.09582)\\\\Good luck 47.",
+            "fr": "//[DIANA]\\\\//(0,1.8)\\\\Bonsoir, 47.//(1.8,6.9)\\\\Sully \"Concasseur\" Bowden prépare un de ses événements de combat de rue en ce moment même,//(6.9,10.45)\\\\motivant ses combattants et prenant ses paris clandestins.//(10.45,16.35)\\\\Les combats auront lieu demain soir, vous avez donc une belle occasion de vous rapprocher d'ici là.//(16.35,46.35)\\\\Bonne chance, 47.",
+            "it": "//[DIANA]\\\\//(0,1.8)\\\\Buonasera, 47.//(1.8,6.9)\\\\Sully \"Schiacciasassi\" Bowden al momento sta organizzando uno dei suoi eventi di \"lotta clandestina\",//(6.9,10.59)\\\\aizzando i combattenti e raccogliendo scommesse illegali.//(10.59,16.55)\\\\L'evento non si terrà prima di domani notte, perciò questa è l'occasione perfetta per avvicinarsi.//(16.55,46.55)\\\\Buona fortuna, 47.",
+            "de": "//[DIANA]\\\\//(0,1.7)\\\\Guten Abend, 47.//(1.7,6.85)\\\\Sully „Der Zermalmer“ Bowden organisiert gerade eines von seinen „Streetfight“-Events.//(6.85,10.4)\\\\Dabei bringt er die Kämpfer richtig in Fahrt und nimmt illegale Wetten an.//(10.4,12.7)\\\\Das Event wird nicht vor morgen Abend stattfinden.//(12.7,16.35)\\\\Das ist also die perfekte Gelegenheit, dicht an ihn heranzukommen.//(16.35,46.35)\\\\Viel Glück, 47.",
+            "es": "//[DIANA]\\\\//(0,1.674294)\\\\Buenas noches, 47.//(1.674294,3.436687)\\\\Sully Bowden, «el Exprimidor»,//(3.436687,6.487669)\\\\está en estos momentos montando una de sus «peleas callejeras»,//(6.487669,10.38245)\\\\azuzando a los luchadores y aceptando apuestas ilegales.//(10.38245,12.74724)\\\\El acontecimiento se celebrará mañana a la noche,//(12.74724,16.04632)\\\\así que esta es la oportunidad perfecta para acercarte a él.//(16.04632,46.04632)\\\\Buena suerte, 47.",
+            "ru": "//[DIANA]\\\\//(0,1.724294)\\\\Добрый вечер, 47-й.//(1.724294,3.535)\\\\Салли Боуден по прозвищу Крушитель сейчас занят//(3.535,10.7)\\\\организацией очередного «уличного боя»://(10.7,10.7)\\\\собирает бойцов и принимает нелегальные ставки.//(10.7,12.87)\\\\Сам бой пройдет не раньше чем завтра вечером,//(12.87,15.725)\\\\так что сейчас самое подходящее время для удара.//(16.45,46.45)\\\\Удачи, 47-й.",
+            "cn": "//[DIANA]\\\\//(0,1.6)\\\\晚上好，47。//(1.6,6.8)\\\\萨利·「粉碎者」·鲍登目前正在准备举办一场「街头搏击」比赛。//(6.8,10.5)\\\\他在挑动斗士们的情绪，并接受非法下注。//(10.5,16.35)\\\\比赛要到明天晚上才开始，因此此时正是接近目标的绝佳时机。//(16.35,46.2)\\\\祝你好运，47。",
+            "tc": "//[DIANA]\\\\//(0,1.6)\\\\晚安，47。//(1.6,6.8)\\\\蘇利・「粉碎者」・波登目前正在準備一場「街頭格鬥」比賽，//(6.8,10.5)\\\\他在挑動格鬥家們的情緒，並接受非法賭注。//(10.5,16.35)\\\\該賽事明天晚上才會開始，所以這正是接近目標的好機會。//(16.35,46.2)\\\\祝你好運，47。",
+            "jp": "//[DIANA]\\\\//(0,1.68)\\\\こんばんは、47。//(1.68,6.9)\\\\サリー・\"ザ・クラッシャー\"・ボウデンは現在、\"ストリート・ファイト\"のイベントを立ち上げ中よ。//(6.9,10.505)\\\\選手たちを煽って違法な賭け事に使っている。//(10.505,16.36)\\\\イベントが開催されるのは明日の夜だから、今が近づくチャンスよ。//(16.36,46.36)\\\\幸運を祈るわ、47。"
+        }
+    }
+}

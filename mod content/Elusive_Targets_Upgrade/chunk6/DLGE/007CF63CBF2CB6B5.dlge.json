@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/wet/43000_elusive/redsnapper/43600_handler/ds43601_missiondone.sweetdialog?/ds43601_missiondone_diana_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds43601_missiondone_diana_001",
+        "soundtag": "Voiceover_Handler",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/43000_elusive/redsnapper/43600_handler/ds43601_missiondone_diana_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/43000_elusive/redsnapper/43600_handler/ds43601_missiondone_diana_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Targets eliminated. Well done. Now find an exit. Your money is being transferred now.",
+            "fr": "//(0,30)\\\\Cible éliminée. Bravo. Trouvez une issue, maintenant. Je m'occupe du transfert de fonds.",
+            "it": "//(0,30)\\\\Bersaglio eliminato. Ben fatto. Adesso cerca un'uscita. I tuoi soldi sono in fase di trasferimento.",
+            "de": "//(0,30)\\\\Ziel eliminiert. Gut gemacht. Suchen Sie einen Ausgang. Ihr Geld wird jetzt überwiesen.",
+            "es": "//(0,2.122393)\\\\Objetivo eliminado. Buen trabajo.//(2.122393,3.514785)\\\\Ahora, busca una salida.//(3.514785,33.51479)\\\\Te estoy transfiriendo ya el dinero.",
+            "ru": "//(0,3.8)\\\\Цель уничтожена. Отлично. Теперь направляйся к выходу.//(3.8,33.8)\\\\Деньги уже переводятся на твой счет.",
+            "cn": "//(0,2.289)\\\\目标已被消灭，干得漂亮。//(2.289,32.289)\\\\现在该去找出口了。我们正在把钱转给你。",
+            "tc": "//(0,2.289)\\\\目標已被消滅，做得好。//(2.289,32.289)\\\\現在該去找出口了。你的酬金正在轉帳中。",
+            "jp": "//(0,2.45)\\\\ターゲット排除完了。よくやったわ。//(2.45,32.45)\\\\さあ脱出ポイントを探すのよ。報酬は送金中よ。"
+        }
+    }
+}

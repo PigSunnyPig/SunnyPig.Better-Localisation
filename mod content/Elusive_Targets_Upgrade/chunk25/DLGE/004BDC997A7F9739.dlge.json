@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11601_dawnmeeting.sweetdialog?/dr11601_dawnmeeting_orlando_et_003.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr11601_dawnmeeting_orlando_et_003",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11601_dawnmeeting_orlando_et_003.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11601_dawnmeeting_orlando_et_003.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Yazid! My friend! Of course I have! And you know my employer really doesn’t take well to mistakes of any sort.",
+            "fr": "//(0,3.15)\\\\Yazid ! Mon ami ! Bien sûr que j'ai tout !//(3.15,33.15)\\\\Et vous savez bien que mon employeur ne tolère aucune erreur.",
+            "it": "//(0,2.95)\\\\Yazid! Amico mio! Ma certo!//(2.95,32.95)\\\\Sai che i miei superiori non tollerano sbagli di nessun tipo.",
+            "de": "//(0,2.7)\\\\Yazid! Mein Freund! Aber natürlich!//(2.7,32.7)\\\\Und du weißt, dass mein Arbeitgeber Fehler aller Art überhaupt nicht mag.",
+            "es": "//(0,2.944785)\\\\¡Yazid! ¡Amigo mío! ¡Por supuesto que lo tengo!//(2.944785,32.94479)\\\\Y sabes que a mi jefe no le gusta que cometamos errores de ningún tipo.",
+            "ru": "//(0,3)\\\\Язид! Друг мой! Ну, разумеется!//(3,33)\\\\И ты сам знаешь, что мой работодатель не терпит ошибок.",
+            "cn": "//(0,3.15)\\\\亚兹！我的朋友！我当然带齐了！//(3.15,33.15)\\\\你要知道我的雇主可不喜欢出现任何问题。",
+            "tc": "//(0,3.15)\\\\亞茲！我的朋友！我當然帶齊了！//(3.15,33.15)\\\\你要知道我的雇主可不喜歡出現任何問題。",
+            "jp": "//(0,5.703866)\\\\ああ、 そうだ！ 手に 入れたぜ！ 俺の 雇い主は どんなミスでも 許さないって のは、 お前も//(5.703866,35.70387)\\\\よく知ってるだろう。"
+        }
+    }
+}

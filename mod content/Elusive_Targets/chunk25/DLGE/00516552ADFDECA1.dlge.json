@@ -1,0 +1,201 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11603_cachecheckups.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "dr11603_cachecheckups_renzo_et_001",
+                "weight": 0.09999997019767584,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11603_cachecheckups_renzo_et_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11603_cachecheckups_renzo_et_001.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Hey, boys. Take care. I’m just going inside to check the stuff.",
+                    "fr": "//(0,2.34)\\\\Hé, les gars. Faites gaffe.//(2.34,32.34)\\\\Je vais à l'intérieur pour vérifier le matos.",
+                    "it": "//(0,30)\\\\Ehi, ragazzi. Occhi aperti. Vado dentro a controllare la mercanzia.",
+                    "de": "//(0,30)\\\\Hallo, Jungs! Seid wachsam. Ich gehe nur rein und prüfe die Ware.",
+                    "es": "//(0,30)\\\\Hola, muchachos. Tened cuidado. Voy dentro a echarle un vistazo al material.",
+                    "ru": "//(0,30)\\\\Парни. Смотрите в оба. Я пока зайду внутрь, кое-что проверю.",
+                    "cn": "//(0,30)\\\\嘿，小子们。多加注意些，我要进去检查一下那批东西。",
+                    "tc": "//(0,30)\\\\嘿，小夥子們。多加注意些，我要進去檢查一下那批東西。",
+                    "jp": "//(0,30)\\\\お前ら、気をつけろ。中身が無事か確認しに来たぞ。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr11603_cachecheckups_renzo_et_002",
+                "weight": 0.09999997019767584,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11603_cachecheckups_renzo_et_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11603_cachecheckups_renzo_et_002.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Just checking in again. Keep your eyes open! You know how much this stuff is worth!",
+                    "fr": "//(0,1.9)\\\\Me revoilà.//(1.9,31.9)\\\\Ouvrez l'œil ! Vous savez combien coûte ce matos !",
+                    "it": "//(0,30)\\\\Voglio assicurarmi che sia tutto in ordine. Tenete gli occhi aperti! Sapete quanto vale questa roba!",
+                    "de": "//(0,30)\\\\Ich sehe nur mal wieder vorbei. Haltet die Augen offen! Ihr wisst, wie viel das Zeug wert ist!",
+                    "es": "//(0,30)\\\\Solo estoy comprobándolo otra vez. ¡Estad bien atentos! ¡Sabéis lo mucho que vale todo esto!",
+                    "ru": "//(0,3.15)\\\\Просто еще раз зашел все проверить. Будьте начеку!//(3.15,33.15)\\\\Вы сами знаете, сколько это добро стоит!",
+                    "cn": "//(0,3.15)\\\\只是例行检查。眼睛都睁大点！//(3.15,33.15)\\\\你们知道这批东西值多少钱吧！",
+                    "tc": "//(0,3.15)\\\\只是例行檢查。眼睛都睜大點！//(3.15,33.15)\\\\你們知道這批東西值多少錢吧！",
+                    "jp": "//(0,30)\\\\様子を見に来ただけだ。居眠りするなよ！ どれだけ金がかかったか、わかってるな！"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr11603_cachecheckups_renzo_et_003",
+                "weight": 0.09999997019767584,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11603_cachecheckups_renzo_et_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11603_cachecheckups_renzo_et_003.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Keep a good watch on this stuff. If anyone takes it, the boss will boil you guys in a drum of oil.",
+                    "fr": "//(0,2.7)\\\\Veillez bien sur ce matos.//(2.7,32.7)\\\\Si quelqu'un le vole, le boss vous fera prendre un bain d'huile bouillante.",
+                    "it": "//(0,2.692)\\\\Massima attenzione, mi raccomando.//(2.692,32.692)\\\\Se qualcuno ruba questa roba, preparatevi a un bagno nell'olio bollente.",
+                    "de": "//(0,30)\\\\Behaltet das Zeug gut im Auge. Wenn es jemand abgreift, kocht euch der Boss in einem Fass voller Öl.",
+                    "es": "//(0,30)\\\\Vigilad bien todo esto. Si alguien se lo lleva, el jefe os arrancará la piel a tiras.",
+                    "ru": "//(0,3.1)\\\\Хорошенько за ним приглядывайте.//(3.1,33.1)\\\\Если что пропадет, босс вас живьем в масле сварит.",
+                    "cn": "//(0,2.7)\\\\都给我把这批货看好了。//(2.7,32.7)\\\\如果这批货被人拿走了，老大非把你们丢进油锅不可。",
+                    "tc": "//(0,2.7)\\\\都給我把這批貨看好了。//(2.7,32.7)\\\\要是這批貨被人拿走了，老大非把你們丟進油鍋不可。",
+                    "jp": "//(0,30)\\\\そいつをよーく見ておけよ。もし誰かが持ち出したら、お前の命はないと思うんだな。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr11603_cachecheckups_renzo_et_004",
+                "weight": 0.09999997019767584,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11603_cachecheckups_renzo_et_004.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11603_cachecheckups_renzo_et_004.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,4.65)\\\\Make sure no-one comes snooping around in this. If they do. Get rid of them.//(4.65,34.65)\\\\The local security know we’re here, and they are all paid off. Don’t be surprised if they come asking for help!",
+                    "fr": "//(0,2.92)\\\\Faites gaffe à ce que personne mette son nez ici.//(2.92,5.2)\\\\Si quelqu'un se pointe, butez-le.//(5.2,8.8)\\\\Les agents de sécurité savent qu'on est là. On les a tous achetés.//(8.8,38.8)\\\\Vous étonnez pas s'ils viennent vous demander de l'aide !",
+                    "it": "//(0,5.15)\\\\Assicuratevi che nessuno si avvicini. E sbarazzatevi di eventuali ficcanaso.//(5.15,8.718)\\\\La sicurezza del posto sa della nostra presenza, sono stati tutti pagati.//(8.718,38.718)\\\\Non meravigliatevi se verranno a chiedervi aiuto!",
+                    "de": "//(0,5.3)\\\\Sorgt dafür, dass hier niemand rumschnüffelt. Falls doch, entsorgt ihr ihn.//(5.3,8.9)\\\\Die örtlichen Sicherheitsbehörden wissen, dass wir hier sind, und sind alle bezahlt.//(8.9,38.9)\\\\Seid nicht überrascht, wenn sie euch um Hilfe bitten!",
+                    "es": "//(0,5.123)\\\\Aseguraos de que nadie venga a husmear. Si lo hacen, os deshacéis de ellos.//(5.123,8.85)\\\\Las fuerzas de seguridad locales saben que estamos aquí, y reciben su remuneración por ello.//(8.85,38.85)\\\\¡No os sorprendáis si vienen a pedir ayuda!",
+                    "ru": "//(0,5)\\\\Смотрите, чтобы никто тут не шастал. А если кто и появится... Избавьтесь от него.//(5,8.8)\\\\Местная служба безопасности знает, что мы здесь, и они все у нас в кармане.//(8.8,38.8)\\\\Так что не удивляйтесь, если кто-то из них придет и попросит помочь!",
+                    "cn": "//(0,4.818)\\\\别让其他人来搅局。要是有别人来的话，就把他们解決掉。//(4.818,34.818)\\\\当地安保人员知道我们在这里，我们已经把他们收买了。//(8.8,38.8)\\\\如果他们来寻求帮助，可别一惊一乍了！",
+                    "tc": "//(0,4.818)\\\\別讓其他人來攪局。要是有別人來的話，就把他們解決掉。//(4.818,34.818)\\\\當地保全人員知道我們在這裡，我們已經把他們收買了。//(8.8,38.8)\\\\要是他們來尋求幫助，可別太大驚小怪了！",
+                    "jp": "//(0,6.295761)\\\\誰も この辺に 近づかないように するんだ。 近づく奴が いたら追い払え。 地元の 警察は 俺たちが//(6.295761,36.29576)\\\\ここに いることを 知ってるし、 金を つかませて いる。 だから奴らが 来ても 驚くなよ！"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr11603_cachecheckups_renzo_et_005",
+                "weight": 0.09999997019767584,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11603_cachecheckups_renzo_et_005.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11603_cachecheckups_renzo_et_005.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Hey, it’s me. I’m just going to check on the stuff.",
+                    "fr": "//(0,30)\\\\Hé, c'est moi. Je vais jeter un œil au matos.",
+                    "it": "//(0,30)\\\\Ehi, sono io. Voglio solo assicurarmi che sia tutto in ordine.",
+                    "de": "//(0,30)\\\\Hey, ich bin's! Ich will nur mal die Ware kontrollieren.",
+                    "es": "//(0,30)\\\\Hola, soy yo. Simplemente voy a comprobar la mercancía.",
+                    "ru": "//(0,30)\\\\Привет, это я. Просто хочу проверить товар.",
+                    "cn": "//(0,30)\\\\嘿，是我。我要进去检查一下那批东西。",
+                    "tc": "//(0,30)\\\\嘿，是我。我要進去檢查一下那批東西。",
+                    "jp": "//(0,30)\\\\よぉ、俺だ。荷物が無事か、チェックしに来ただけだ。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr11603_cachecheckups_renzo_et_006",
+                "weight": 0.09999997019767584,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11603_cachecheckups_renzo_et_006.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11603_cachecheckups_renzo_et_006.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\We’ll be done soon. I’m just checking in on the gear.",
+                    "fr": "//(0,30)\\\\Ce sera bientôt fini. Je vérifie juste le matos.",
+                    "it": "//(0,30)\\\\Presto sarà tutto finito. Vado a controllare l'equipaggiamento.",
+                    "de": "//(0,30)\\\\Wir sind bald fertig. Ich überprüfe nur mal die Ware.",
+                    "es": "//(0,30)\\\\Pronto acabaremos. Estoy revisando el equipo.",
+                    "ru": "//(0,30)\\\\Скоро мы закончим. Я пока просто проверяю, все ли в порядке с товаром.",
+                    "cn": "//(0,30)\\\\马上就好。我只是检查一下装备。",
+                    "tc": "//(0,30)\\\\馬上就好。我只是檢查一下裝備。",
+                    "jp": "//(0,30)\\\\仕事はもう終わる。様子を見に来ただけさ。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr11603_cachecheckups_renzo_et_007",
+                "weight": 0.09999997019767584,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11603_cachecheckups_renzo_et_007.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11603_cachecheckups_renzo_et_007.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Heads up. I’m going to check the stuff. Make sure no-one is sneaking around where they shouldn’t be.",
+                    "fr": "//(0,30)\\\\Hé, je vais aller vérifier le matos. Veillez à ce que personne mette son nez où il devrait pas.",
+                    "it": "//(0,30)\\\\Occhi aperti. Vado a controllare il materiale. Assicuratevi che nessuno ficchi il naso dove non dovrebbe.",
+                    "de": "//(0,2.7)\\\\Achtung! Ich überprüfe jetzt die Ware.//(2.7,32.7)\\\\Sorgt dafür, dass keiner an Orten rumschnüffelt, wo er nichts zu suchen hat.",
+                    "es": "//(0,30)\\\\Mucha atención. Voy a comprobar la mercancía. Aseguraos de que no haya mirones por aquí.",
+                    "ru": "//(0,30)\\\\Смирно. Я пойду проверю товар. Смотрите, чтобы посторонние здесь не ошивались.",
+                    "cn": "//(0,30)\\\\当心，我要去检查一下东西。别让其他人来多管闲事。",
+                    "tc": "//(0,30)\\\\小心，我要去檢查一下東西。別讓其他人來多管閒事。",
+                    "jp": "//(0,30)\\\\荷物をチェックしに来たぞ。この辺によそ者が忍び込んでいないか、確認しておけ。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr11603_cachecheckups_renzo_et_008",
+                "weight": 0.09999997019767584,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11603_cachecheckups_renzo_et_008.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11603_cachecheckups_renzo_et_008.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\I’m back. Watch my back as I check through the stuff.",
+                    "fr": "//(0,30)\\\\Me revoilà. Couvrez-moi pendant que je vérifie le matos.",
+                    "it": "//(0,30)\\\\Sono tornato. Guardatemi le spalle mentre controllo il materiale.",
+                    "de": "//(0,30)\\\\Ich bin wieder da. Gebt mir Deckung, solange ich die Ware überprüfe.",
+                    "es": "//(0,30)\\\\Ya estoy aquí. Cubridme mientras compruebo la mercancía.",
+                    "ru": "//(0,30)\\\\Я вернулся. Приглядывайте тут, пока я проверю товар.",
+                    "cn": "//(0,30)\\\\我回来了，我检查东西的时候帮我看着点。",
+                    "tc": "//(0,30)\\\\我回來了，我檢查東西的時候幫我看著點。",
+                    "jp": "//(0,30)\\\\戻ったぞ。荷物をチェックしてる間、警戒しろ。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr11603_cachecheckups_renzo_et_009",
+                "weight": 0.09999997019767584,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11603_cachecheckups_renzo_et_009.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11603_cachecheckups_renzo_et_009.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Sit back, the boss is here to check on the stuff.",
+                    "fr": "//(0,30)\\\\Relax. Le boss est là pour jeter un œil au matos.",
+                    "it": "//(0,30)\\\\Rilassatevi. Il capo è qui per controllare la mercanzia.",
+                    "de": "//(0,30)\\\\Ganz ruhig, der Boss ist da, um die Ware zu kontrollieren.",
+                    "es": "//(0,30)\\\\Calma, el jefe ha venido a revisar la mercancía.",
+                    "ru": "//(0,30)\\\\Расслабьтесь, босс пришел проверить товар.",
+                    "cn": "//(0,30)\\\\别管闲事，老大要来检查一下那批东西。",
+                    "tc": "//(0,30)\\\\別管閒事，老大要來檢查一下那批東西。",
+                    "jp": "//(0,30)\\\\下がってな、俺が荷物をチェックするから。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr11603_cachecheckups_renzo_et_010",
+                "weight": 0.09999997019767584,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11603_cachecheckups_renzo_et_010.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11603_cachecheckups_renzo_et_010.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\No problem. Just making sure it’s all ok.",
+                    "fr": "//(0,30)\\\\Pas de problème. Je vérifie que tout va bien.",
+                    "it": "//(0,30)\\\\Tranquilli. Voglio solo assicurarmi che sia tutto in ordine.",
+                    "de": "//(0,30)\\\\Kein Problem. Ich vergewissere mich nur, dass alles okay ist.",
+                    "es": "//(0,30)\\\\No pasa nada. Solo quiero asegurarme de que todo esté bien.",
+                    "ru": "//(0,30)\\\\Никаких проблем. Просто хочу посмотреть, все ли в порядке.",
+                    "cn": "//(0,30)\\\\没问题，只要保证一切都没问题就行了。",
+                    "tc": "//(0,30)\\\\沒問題，只要保證一切都沒問題就行了。",
+                    "jp": "//(0,30)\\\\気にするな。アレが無事か確認するだけだ。"
+                }
+            }
+        ]
+    }
+}

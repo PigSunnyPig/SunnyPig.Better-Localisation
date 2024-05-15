@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11601_dawnmeeting.sweetdialog?/dr11601_dawnmeeting_dawn_agent_et_004.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr11601_dawnmeeting_dawn_agent_et_004",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11601_dawnmeeting_dawn_agent_et_004.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11601_dawnmeeting_dawn_agent_et_004.animset].pc_animset",
+        "languages": {
+            "en": "//(0,4.8)\\\\Whatever you say, Caruso. This plan of yours needs our help.//(4.8,34.8)\\\\So, let’s talk shop. Send me the updated transfer timelines.",
+            "fr": "//(0,2.1)\\\\C'est ça, Caruso.//(2.1,4.85)\\\\Vous avez besoin de notre aide pour ce plan.//(4.85,34.85)\\\\Alors, parlons business. Envoyez-moi les dates de transfert mises à jour.",
+            "it": "//(0,2.1)\\\\D'accordo, Caruso.//(2.1,6.6)\\\\Il vostro piano ha bisogno del nostro aiuto per funzionare, quindi parliamo d'affari.//(6.6,36.6)\\\\Inviami la cronologia aggiornata della transazione.",
+            "de": "//(0,2.092393)\\\\Wie du meinst, Caruso.//(2.092393,6.6)\\\\Ihr braucht bei eurem Plan unsere Hilfe. Also reden wir übers Geschäft.//(6.6,36.6)\\\\Schick mir die aktuellen Transferzeitpläne.",
+            "es": "//(0,4.737)\\\\Lo que tú digas, Caruso. Para cumplir vuestro plan necesitáis nuestra ayuda.//(4.737,34.737)\\\\Así que hablemos de negocios. Envíame los plazos de entrega actualizados.",
+            "ru": "//(0,6.287178)\\\\Как скажешь, Карузо. Вам нужна наша помощь. Так давай поговорим о деле.//(6.287178,36.28718)\\\\Отправь мне свежие данные по срокам доставки.",
+            "cn": "//(0,4.8)\\\\随你怎么说吧，卡鲁索。你的这个计划需要我们帮忙。//(4.8,34.8)\\\\所以，废话少说。快把最新的移交时间表发给我！",
+            "tc": "//(0,4.8)\\\\隨你怎麼說吧，卡盧索。你的這個計畫需要我們幫忙。//(4.8,34.8)\\\\所以，閒話少說。快把最新的移交時間表發給我！",
+            "jp": "//(0,6.477788)\\\\ああ、 そうかい。 お前たちが 企てたこの計画、 俺たちの 力が いるんだろう。 とりあえず、//(6.477788,36.47779)\\\\更新された輸送予定表を 送って くれ。"
+        }
+    }
+}

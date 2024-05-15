@@ -1,0 +1,106 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11602_dawnphonecalls.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "dr11602_dawnphonecalls_dawn_agent_et_001",
+                "weight": 0.2,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11602_dawnphonecalls_dawn_agent_et_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11602_dawnphonecalls_dawn_agent_et_001.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,5.1)\\\\Yes, hello my friend. I’m at the café. I know the Italian boys are in town.//(5.1,7.85)\\\\Yes, I am talking to them about it.//(7.85,37.85)\\\\Make sure our part is done! Get back to me when you're sure!",
+                    "fr": "//(0,1.2)\\\\Oui, bonjour mon ami.//(1.85,3.45)\\\\Je suis au café.//(3.45,7.85)\\\\Je sais que les Italiens sont en ville. Oui, je leur en parle.//(7.85,37.85)\\\\Veillez à ce qu'on remplisse notre part du contrat ! Recontactez-moi quand vous serez sûr !",
+                    "it": "//(0,3.267)\\\\Sì, ciao, amico mio. Sono alla caffetteria.//(3.267,5.3)\\\\So che gli italiani sono in città.//(5.3,7.874)\\\\Sì, gliene parlerò.//(7.874,10.569)\\\\Assicurati che la nostra parte dell'accordo sia rispettata.//(10.569,40.569)\\\\Richiamami quando avrai la conferma!",
+                    "de": "//(0,5.5)\\\\Ja, hallo, mein Freund. Ich bin im Café. Ich weiß, dass die Italiener in der Stadt sind.//(5.5,10.8)\\\\Ja, ich werde mit ihnen darüber reden. Sorge dafür, dass wir unseren Teil erfüllen!//(10.8,40.8)\\\\Melde dich, wenn du sicher bist!",
+                    "es": "//(0,1.2)\\\\Sí, hola.//(1.7,7.85)\\\\Estoy en la cafetería. Sé que los italianos están aquí. Sí, se lo comentaré.//(7.85,37.85)\\\\¡Asegúrate de cumplir nuestra parte! ¡Llámame de nuevo cuando esté hecho!",
+                    "ru": "//(0,5.4)\\\\Да, приветствую. Я в кафе. Я знаю, что итальянцы в городе.//(5.4,10.8)\\\\Да, мы это обсудили. Проследи за тем, чтобы мы выполнили свою часть сделки!//(10.8,40.8)\\\\Свяжись со мной, когда будешь знать точно!",
+                    "cn": "//(0,1.85)\\\\嗯，朋友们，你们好。//(1.85,5.258)\\\\我在咖啡馆，我知道那些意大利小子已经来了。//(5.258,7.85)\\\\嗯，我在和他们谈呢。//(7.85,37.85)\\\\赶紧完成我们的工作！确认好之后再打给我！",
+                    "tc": "//(0,1.85)\\\\嗯，朋友們，你們好。//(1.85,5.258)\\\\我在咖啡館，我知道那些意大利小夥子已經來了。//(5.258,7.85)\\\\嗯，我在和他們談呢。//(7.85,37.85)\\\\趕緊把我們的活弄完！確認好之後再打給我！",
+                    "jp": "//(0,7.926005)\\\\ああ、 お前か。 今カフェに いる。 イタリア人の 兄弟が いるのは 知って いる。 今、 その件で 彼らと 話を//(7.926005,37.92601)\\\\してる。 俺たちの 役割が 終わってるか 確認したら、 俺に 言うんだぞ！"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr11602_dawnphonecalls_dawn_agent_et_002",
+                "weight": 0.2,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11602_dawnphonecalls_dawn_agent_et_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11602_dawnphonecalls_dawn_agent_et_002.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,5.4)\\\\Yes. We’re just going through the last details of the operation. It’s only small stuff.//(5.4,7.7)\\\\Yes, I am sure we can resolve it in time for the operation.//(7.7,37.7)\\\\Yes, I'll call you back.",
+                    "fr": "//(0,0.6)\\\\Oui.//(1.21,3.75)\\\\On passe en revue les derniers détails de l'opération.//(4.38,7.7)\\\\Juste des petites choses. Oui, je suis sûr que tout sera prêt à temps pour l'opération.//(7.7,37.7)\\\\D'accord, je vous rappelle.",
+                    "it": "//(0,4.115)\\\\Sì, ci stiamo occupando degli ultimi dettagli dell'operazione.//(4.115,5.419294)\\\\Niente di particolare.//(5.419294,7.582)\\\\Sono sicuro che risolveremo tutto in tempo per l'operazione.//(7.582,37.582)\\\\Sì, ti richiamo.",
+                    "de": "//(0,5.6)\\\\Ja. Wir gehen gerade die letzten Details der Operation durch. Sind nur Kleinigkeiten.//(5.6,35.6)\\\\Ja, wir kriegen das bestimmt alles rechtzeitig vor der Operation hin. Ja, ich rufe dich zurück.",
+                    "es": "//(0,4.1)\\\\Sí. Sí, estamos revisando los últimos detalles de la operación.//(4.1,34.1)\\\\Son minucias. Sí, seguro que lo resolveremos a tiempo para la operación. Sí, te llamaré.",
+                    "ru": "//(0,4)\\\\Да. Мы обсуждаем последние детали операции.//(4,34)\\\\Мелочи. Да, я уверен, что мы успеем все решить. Да, я перезвоню.",
+                    "cn": "//(0,4.115)\\\\对，我们刚刚确认过行动的最后细节。//(4.115,5.378)\\\\只是些小事而已。//(5.378,7.7)\\\\嗯，我们肯定能在行动前及时解决的。//(7.7,37.7)\\\\好的，我过会再打给你。",
+                    "tc": "//(0,4.115)\\\\對，我們剛剛確認過行動的最後細節。//(4.115,5.378)\\\\只是些小事而已。//(5.378,7.7)\\\\嗯，我們肯定能在行動前及時解決的。//(7.7,37.7)\\\\好的，我過會再打給你。",
+                    "jp": "//(0,6.249451)\\\\ああ、 作戦の 細かいところを 確認してるところだ。 たいしたところじゃ ない。 作戦実行までに//(6.249451,36.24945)\\\\解決できるはずだ。 またかけ直すぞ。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr11602_dawnphonecalls_dawn_agent_et_003",
+                "weight": 0.2,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11602_dawnphonecalls_dawn_agent_et_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11602_dawnphonecalls_dawn_agent_et_003.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,4.7)\\\\Yes, Nne! I will do it! I will get the guns and the chemicals as you say.//(4.7,13.1)\\\\I... No, I will not fail. I will send you the details of the Delgado plan now.//(13.1,43.1)\\\\Yes. Directly from my phone. Yes, Nne! I will do it now! Goodbye, Nne!",
+                    "fr": "//(0,1.35)\\\\Oui, Nne !//(1.35,5.75)\\\\Je vais le faire ! J'obtiendrai les armes et les produits chimiques. Je...//(6.8,10.01)\\\\Non, je n'échouerai pas.//(10.01,12.9)\\\\Je vous envoie les détails du plan Delgado.//(13.85,16.6)\\\\Oui. Directement de mon téléphone.//(17.4,47.4)\\\\Oui, Nne ! Je m'en charge ! Au revoir, Nne !",
+                    "it": "//(0,4.799)\\\\Sì, Nne! Lo farò! Armi e sostanze chimiche, come da accordi.//(6.939,13.674)\\\\No... Non ti deluderò. Ti invio subito i dettagli del piano dei Delgado.//(13.674,16.1)\\\\Sì, dal telefono.//(17.324,47.324)\\\\Sì, Nne! Lo faccio subito! A risentirci, Nne!",
+                    "de": "//(0,5.5)\\\\Ja, Nne! Mache ich! Ich beschaffe die Waffen und Chemikalien, die du willst.//(5.5,13.9)\\\\Ich ... Nein, ich werde nicht versagen. Ich sende dir jetzt die Details des Delgado-Plans.//(13.9,43.9)\\\\Ja. Direkt von meinem Telefon. Ja, Nne! Jetzt sofort! Bis nachher, Nne!",
+                    "es": "//(0,5.737178)\\\\¡Sí, Nne! ¡Lo haré! Conseguiré las armas y los productos químicos. Yo...//(6.937,12.624)\\\\No, no fallaré. Ahora te envío la información del plan de Delgado.//(13.824,16.114)\\\\Sí. Directamente desde mi teléfono.//(17.214,47.214)\\\\¡Sí, Nne! ¡Lo haré ahora mismo! ¡Adiós, Nne!",
+                    "ru": "//(0,6)\\\\Да, Нне! Не волнуйся! Я доставлю оружие и химикаты. Я...//(7,13.3)\\\\Нет, я не подведу тебя. Сейчас я отправлю тебе подробную информацию о плане Дельгадо.//(13.9,16.6)\\\\Да. Прямо с моего телефона.//(17.35,47.35)\\\\Да, Нне! Сейчас сделаю! До свидания, Нне!",
+                    "cn": "//(0,4.7)\\\\是的，尼！交给我吧！我会拿到枪支和化学品的。//(4.7,9.664)\\\\我......不，我不会失败的。//(9.664,13.6)\\\\我现在就发给你「戴尔加多计划」的细节。//(13.6,16.6)\\\\对，从我的手机上发过去。//(17.35,47.4)\\\\是的，尼！我现在就去办！再见，尼！",
+                    "tc": "//(0,4.7)\\\\是的，諾！交給我吧！我會拿到槍支和化學品的。//(4.7,9.664)\\\\我......不，我不會失敗的。//(9.664,13.6)\\\\我現在就發給你「戴爾加多計畫」的細節。//(13.6,16.6)\\\\對，從我的手機上傳過去。//(17.35,47.4)\\\\是的，諾！我現在就去辦！再見，諾！",
+                    "jp": "//(0,9.671512)\\\\はい、 ナー様！ 承知しました！ ご注文の 武器と 化学物質を 確保しましょう。 失敗は...//(9.671512,17.93923)\\\\しませんから。 これからデルガドの 計画を 送信します。 はい、 携帯から 直接です。 わかりました！//(17.93923,47.93923)\\\\今すぐやります！ それでは！"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr11602_dawnphonecalls_dawn_agent_et_004",
+                "weight": 0.2,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11602_dawnphonecalls_dawn_agent_et_004.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11602_dawnphonecalls_dawn_agent_et_004.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,6.2)\\\\Yes. Good. Find out whatever you can about Globestar’s plans.//(6.2,7.521472)\\\\They're moving in very aggressively.//(7.521472,37.52147)\\\\If they push out Nne Obara and her boys, we need to have a new plan. Goodbye.",
+                    "fr": "//(0,0.6)\\\\Oui.//(2.25,3.2)\\\\Bien.//(3.7,8.02)\\\\Trouvez tout ce que vous pouvez sur les plans de Globestar. Ils se montrent très agressifs.//(8.02,38.02)\\\\S'ils se débarrassent de Nne Obara et de ses gars, il faudra trouver un autre plan. Au revoir.",
+                    "it": "//(0,0.7680981)\\\\Sì.//(2.118,2.818)\\\\Bene.//(3.65,7.91)\\\\Scopri ciò che puoi sui piani della Globestar. Si stanno muovendo con estrema aggressività.//(7.91,13.865)\\\\Se estrometteranno Nne Obara e i suoi uomini, ci servirà un nuovo piano.//(13.865,43.865)\\\\Arrivederci.",
+                    "de": "//(0,8.1)\\\\Ja. Gut. Finde so viel wie möglich über die Pläne von Globestar heraus. Sie gehen sehr aggressiv vor.//(8.1,38.1)\\\\Wenn sie Nne Obara und ihre Leute rausdrängen, brauchen wir einen neuen Plan. Bis bald!",
+                    "es": "//(0,1.018098)\\\\Sí.//(2.118,7.957668)\\\\Vale. Entérate de lo que puedas sobre los planes de Globestar. Su intervención es muy agresiva.//(7.957668,37.95767)\\\\Si echan a Nne Obara y sus hombres, vamos a necesitar otro plan. Adiós.",
+                    "ru": "//(0,0.7180981)\\\\Да.//(2.35,6.35)\\\\Отлично. Узнай все, что можешь, о планах «Глоубстар».//(6.35,8.12957)\\\\В последнее время они действуют очень агрессивно.//(8.12957,13.75)\\\\Если они вытеснят Нне Обару и ее парней, придется придумать новый план.//(13.75,43.75)\\\\До свидания.",
+                    "cn": "//(0,6.2)\\\\对，很好，查清「球星计划」的所有细节。//(6.2,7.521472)\\\\他们来势汹汹。//(7.521472,37.52147)\\\\如果他们干掉了尼·奥巴拉和她的手下，那我们就要想个新计划了。再见。",
+                    "tc": "//(0,6.2)\\\\對，很好，查出「球星計畫」的所有細節。//(6.2,7.521472)\\\\他們來勢洶洶。//(7.521472,37.52147)\\\\如果他們幹掉了諾．奧巴拉和她的手下，那我們就要想個新計畫了。再見。",
+                    "jp": "//(0,7.579013)\\\\ああ。 よし。 どうにかして、 グローブスターの 計画を 探るんだ。 奴らの 行動は 激しくなって きて//(7.579013,37.57901)\\\\いる。 もしナー・オバラと 彼女の 部下が 追い出されたら、 計画を 練り直すことに なる。 それじゃ。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr11602_dawnphonecalls_dawn_agent_et_005",
+                "weight": 0.2,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11602_dawnphonecalls_dawn_agent_et_005.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11602_dawnphonecalls_dawn_agent_et_005.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,7.381473)\\\\Hello, General. I appreciate that, of course. No, we, we're just meeting with some friends.//(7.381473,12.18245)\\\\We will be moving on soon. It is appreciated, sir.//(12.18245,42.18245)\\\\I’m sure we’ll have the opportunity to repay your hospitality in the future.",
+                    "fr": "//(0,1.2)\\\\Bonjour, Général.//(2.82,4.95)\\\\Je vous remercie.//(4.95,8.9)\\\\Non, nous avons retrouvé des amis. On va bientôt passer à l'action.//(10.08,12.45)\\\\C'est très gentil, monsieur.//(12.45,42.45)\\\\Je suis sûr qu'on aura l'occasion de vous rendre la pareille très bientôt.",
+                    "it": "//(0,1)\\\\Salve, generale.//(2.656,7.243374)\\\\Me ne rendo conto, naturalmente. No... Stavamo giusto per incontrare alcuni amici.//(7.243374,8.847669)\\\\Ci muoveremo presto.//(9.85,12.29)\\\\Lo apprezzo molto, signore.//(12.29,42.29)\\\\Sono sicuro che avremo l'opportunità di ripagare la sua ospitalità in futuro.",
+                    "de": "//(0,10.2)\\\\Hallo, General! Das weiß ich natürlich zu schätzen. Nein, wir treffen nur ein paar Freunde. Wir reisen bald weiter.//(10.2,40.2)\\\\Danke, Sir. Wir werden bestimmt in Zukunft Gelegenheit haben, uns für Ihre Gastfreundschaft zu revanchieren.",
+                    "es": "//(0,1.056196)\\\\Hola, general.//(2.75,8.6)\\\\Gracias. No, estábamos viendo a unos amigos. Pronto avanzaremos.//(9.8,39.8)\\\\Muchas gracias, señor. Seguro que en el futuro podremos devolverle tanta hospitalidad.",
+                    "ru": "//(0,1.1)\\\\Здравствуйте, генерал.//(2.9,9)\\\\Конечно же, я это очень ценю. Нет, просто встречаемся с друзьями. Мы ненадолго.//(10,12.4)\\\\Очень признателен, сэр.//(12.4,42.4)\\\\Уверен, в будущем нам представиться возможность как следует отблагодарить вас за гостеприимство.",
+                    "cn": "//(0,4.95)\\\\你好，将军。当然我很感动。//(4.95,7.381473)\\\\不，我们......我們正打算和一群朋友见面。//(7.381473,12.18245)\\\\我们马上就要出发了。非常感谢，先生。//(12.18245,42.18245)\\\\我们将来一定会有机会回报您的友好款待的。",
+                    "tc": "//(0,4.95)\\\\你好，將軍。當然我很感動。//(4.95,7.381473)\\\\不，我們......我們正打算和一群朋友見面。//(7.381473,12.18245)\\\\我們馬上就要出發了。非常感謝，先生。//(12.18245,42.18245)\\\\我們將來一定會有機會回報您的友好款待的。",
+                    "jp": "//(0,10.62533)\\\\もしもし、 将軍殿。 ええ、 感謝して おります。 いえ、 友人と 会合して いただけ です。 これから行動に//(10.62533,40.62533)\\\\移します。 どうも、 ありがとうございます。 そのご厚意に 応えられる機会は 近いうちに来るでしょう。"
+                }
+            }
+        ]
+    }
+}

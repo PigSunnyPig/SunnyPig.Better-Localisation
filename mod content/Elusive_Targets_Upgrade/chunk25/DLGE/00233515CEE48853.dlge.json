@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/marrakech/11600_elusive/11600_negroni/11600_negroni_handler/dr11610_diana.sweetdialog?/dr11610_diana_diana_et_005.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr11610_diana_diana_et_005",
+        "soundtag": "Voiceover_Handler",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_handler/dr11610_diana_diana_et_005.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_handler/dr11610_diana_diana_et_005.animset].pc_animset",
+        "languages": {
+            "en": "//(0,3)\\\\Interesting. That’s quite the weapons cache.//(3,33)\\\\The Delgado Cartel is infamous for gunrunning. I wonder if they are bringing them in, or taking them out.",
+            "fr": "//(0,3.22)\\\\Intéressant. C'est une sacrée cache d'armes.//(3.22,6.4)\\\\Le cartel Delgado est connu pour son trafic d'armes.//(6.4,36.4)\\\\Je me demande s'il les importe ou s'il les exporte.",
+            "it": "//(0,3.090491)\\\\Interessante. Un enorme deposito d'armi.//(3.090491,6.321472)\\\\Il cartello dei Delgado è famigerato per il contrabbando d'armi.//(6.321472,36.32147)\\\\Mi chiedo se le stiano importando o esportando.",
+            "de": "//(0,3.2)\\\\Interessant. Ein bemerkenswertes Waffenlager.//(3.2,6.4)\\\\Das Delgado-Kartell ist für seine Aktivitäten im Waffenschmuggel berüchtigt.//(6.4,36.4)\\\\Ich frage mich, ob sie sie anliefern oder wegbringen.",
+            "es": "//(0,6.458)\\\\Interesante. Es un alijo importante. El cártel de Delgado es tristemente famoso por el contrabando de armas.//(6.458,36.458)\\\\Me pregunto si van a comprarlas o a venderlas.",
+            "ru": "//(0,3.1)\\\\Любопытно. Здесь целый арсенал.//(3.1,6.3)\\\\Картель Дельгадо давно занимается контрабандой оружия.//(6.3,36.3)\\\\Интересно, они его ввозят или вывозят?",
+            "cn": "//(0,3)\\\\有意思，这可真是一大批武器。//(3,33)\\\\戴尔加多黑帮就是以军火走私而臭名昭著的。//(6.4,36.4)\\\\我想知道他们是把它们买进来，还是把它们卖出去。",
+            "tc": "//(0,3)\\\\有意思，這可真是一大批武器。//(3,33)\\\\戴爾加多黑幫就是以倒賣軍火而臭名昭著的。//(6.4,36.4)\\\\我想知道他們是把它們買進來，還是把它們賣出去。",
+            "jp": "//(0,7.066603)\\\\なるほど。 大量の 武器が 保管されてる。 デルガド・ カルテルは、 輸入か、 輸出かは 定かでは ないけど、//(7.066603,37.0666)\\\\武器の 密輸でも 有名よ。"
+        }
+    }
+}

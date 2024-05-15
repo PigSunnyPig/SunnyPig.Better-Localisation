@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11607_brothersgone.sweetdialog?/dr11607_brothersgone_orlando_et_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr11607_brothersgone_orlando_et_001",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11607_brothersgone_orlando_et_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11607_brothersgone_orlando_et_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,1.45)\\\\Where did he get to?//(3.6,33.6)\\\\Oh well, that makes things simpler, I suppose.",
+            "fr": "//(0,1.45)\\\\Où est-il passé ?//(4,34)\\\\Bah, ça simplifie les choses, en fait.",
+            "it": "//(0,1.5)\\\\Dove si è cacciato?//(3.772393,33.77239)\\\\Beh, questo semplifica le cose, suppongo.",
+            "de": "//(0,30)\\\\Wo ist er hin? Na ja, das erleichtert die Sache, denke ich.",
+            "es": "//(0,1.372393)\\\\¿Dónde se ha metido?//(3.972,33.972)\\\\Bueno, supongo que esto simplifica las cosas.",
+            "ru": "//(0,30)\\\\Куда он делся? А, ладно, так даже проще.",
+            "cn": "//(0,1.45)\\\\他去哪里了？//(3.6,33.6)\\\\嗯，我想这下事情就简单多了。",
+            "tc": "//(0,1.45)\\\\他去哪裡了？//(3.6,33.6)\\\\嗯，我想這下事情就簡單多了。",
+            "jp": "//(0,30)\\\\あいつはどこへ行ったんだ？ まあ、この方が都合がいいかもな。"
+        }
+    }
+}

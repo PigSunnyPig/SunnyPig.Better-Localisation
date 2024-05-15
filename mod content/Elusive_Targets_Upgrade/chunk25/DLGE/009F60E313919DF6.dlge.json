@@ -1,0 +1,125 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11604_convo_orlando.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "dr11604_convo_orlando_orlando_et_001",
+                "weight": 0.1666666368643425,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11604_convo_orlando_orlando_et_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11604_convo_orlando_orlando_et_001.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,4.5)\\\\Yeah, it’s irritating, I know, but did you have to execute those soup sellers?//(4.5,34.5)\\\\I mean, come on. They’re just doing their job.",
+                    "fr": "//(0,4.98)\\\\Oui, c'est énervant, je sais, mais il fallait VRAIMENT que tu tues ces vendeurs de soupe ?//(4.98,34.98)\\\\Sérieusement. Ils faisaient que leur boulot.",
+                    "it": "//(0,4.913)\\\\Sì, è fastidioso, lo so, ma era proprio necessario uccidere quei venditori di zuppe?//(4.913,34.913)\\\\Dai! Facevano solo il loro lavoro.",
+                    "de": "//(0,5.2)\\\\Ja, es ist irritierend, ich weiß, aber musstest du diese Suppenverkäufer hinrichten?//(5.2,35.2)\\\\Ich meine, sie haben doch nur ihre Arbeit gemacht.",
+                    "es": "//(0,4.813)\\\\Sí, es molesto, lo sé, ¿pero tenías que ejecutar a esos vendedores de sopa?//(4.813,34.813)\\\\Venga ya. Solo hacen su trabajo.",
+                    "ru": "//(0,5)\\\\Да, я понимаю, они действуют на нервы, но неужели было необходимо убивать этих ребят с супом?//(5,35)\\\\Что за фигня? Они же просто делали свою работу.",
+                    "cn": "//(0,4.826)\\\\嗯，是很不爽。我明白，不过你非得把那些卖汤小贩杀掉吗？//(4.826,34.826)\\\\我是说，得了吧。他们只是在做本职工作而已。",
+                    "tc": "//(0,(4.826)\\\\嗯，是很不爽。我明白，不過你非得把那些賣湯小販殺掉嗎？//(4.826,34.826)\\\\我是說，拜託。他們只是在做本職工作而已。",
+                    "jp": "//(0,4.690542)\\\\ああ、 イライラするのは わかるが、 あのスープ売りを 始末する必要は あったか？ あいつは ただ、//(4.690542,34.69054)\\\\自分の 仕事を やってただけ だ。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr11604_convo_orlando_orlando_et_002",
+                "weight": 0.1666666368643425,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11604_convo_orlando_orlando_et_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11604_convo_orlando_orlando_et_002.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,6.2)\\\\So, we’re just going to sit here until Bogota signs off, and Yazid picks up his stuff.//(6.2,36.2)\\\\Great. Just how I wanted to spend my weekend. In this place!",
+                    "fr": "//(0,6.3)\\\\Alors, on va attendre ici que Bogota nous prévienne et que Yazid récupère son matos ?//(6.3,36.3)\\\\Super. C'est comme ça que je voulais passer le week-end. Dans ce bouge !",
+                    "it": "//(0,6.235276)\\\\Quindi dobbiamo aspettare che Bogotà chiuda l'accordo e che Yazid ritiri la roba.//(6.235276,36.23528)\\\\Grandioso. Morivo dalla voglia di passare il weekend in questo posto!",
+                    "de": "//(0,6.141472)\\\\Wir sitzen hier also nur rum, bis Bogota sich abmeldet und Yazid seine Ware abholt.//(6.141472,36.14147)\\\\Toll. Genauso hatte ich mir mein Wochenende vorgestellt. Noch dazu an diesem Ort!",
+                    "es": "//(0,6.207668)\\\\Vamos a quedarnos aquí hasta que llegue la confirmación de Bogotá y Yazid se lleve la mercancía.//(6.207668,36.20767)\\\\Genial, justo como quería pasar el fin de semana. ¡Aquí mismo!",
+                    "ru": "//(0,6.3)\\\\Значит, мы просто будем торчать здесь, пока не получим отмашку из Боготы, а Язид не заберет свой товар.//(6.3,36.3)\\\\Отлично. Всегда мечтал вот так проводить выходные. Да еще и в таком месте!",
+                    "cn": "//(0,6.23)\\\\我们只需要在这里坐着等波哥大那边签字，然后亚兹过来拿走他的东西。//(6.23,36.2)\\\\棒极了，这可真是个美好的周末......尤其是在这个地方！",
+                    "tc": "//(0,6.23)\\\\我們只需要在這裡坐著等波哥大那邊簽字，然後亞茲過來拿走他的東西。//(6.23,36.2)\\\\太棒了，這可真是個美好的週末......尤其是在這個地方！",
+                    "jp": "//(0,6.605357)\\\\ボゴタが 確認して、 ヤジードが ブツを 手に するまで、 俺たちは ここで 待たなきゃならないのか。//(6.605357,36.60536)\\\\ふん。 こんな場所で 週末を 過ごすことに なるとはな！"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr11604_convo_orlando_orlando_et_003",
+                "weight": 0.1666666368643425,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11604_convo_orlando_orlando_et_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11604_convo_orlando_orlando_et_003.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\It’s like everything is just going around in circles. Shit. I’m probably just high or something.",
+                    "fr": "//(0,4)\\\\J'ai l'impression de tourner en rond.//(4,34)\\\\Merde. Je crois que je plane un peu trop...",
+                    "it": "//(0,3.85)\\\\È come se tutto girasse vorticosamente.//(3.85,33.85)\\\\Merda! Forse sono solo strafatto.",
+                    "de": "//(0,4)\\\\Es kommt mir vor, als würde sich alles nur im Kreis drehen.//(4,34)\\\\Scheiße. Wahrscheinlich bin ich nur high oder so.",
+                    "es": "//(0,30)\\\\Parece que todo me da vueltas. Joder, debo de estar colocado o algo.",
+                    "ru": "//(0,4.05)\\\\Такое чувство, будто все идет по кругу, как чертова карусель.//(4.05,34.05)\\\\Черт. Наверное, я просто под кайфом.",
+                    "cn": "//(0,4)\\\\就好像周围一切都在旋转一样。//(4,34)\\\\该死，我可能是嗑嗨了。",
+                    "tc": "//(0,4)\\\\就好像周圍一切都在旋轉一樣。//(4,34)\\\\該死，我可能是嗑嗨了。",
+                    "jp": "//(0,30)\\\\全く進捗が無いように思えるな。チクショウ。俺が一人であせってるだけかも知れない。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr11604_convo_orlando_orlando_et_004",
+                "weight": 0.1666666368643425,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11604_convo_orlando_orlando_et_004.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11604_convo_orlando_orlando_et_004.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Did... did I just say this? Probably did. What the hell was in those pills?",
+                    "fr": "//(0,3.3)\\\\Euh, c'est moi qui ai dit ça ?//(3.3,33.3)\\\\Sans doute. Il y avait quoi dans ces pilules ?",
+                    "it": "//(0,30)\\\\L'ho... L'ho detto davvero? Mi sa di sì. Che diavolo c'era in quelle pillole?",
+                    "de": "//(0,30)\\\\Hab ich ... das gerade wirklich gesagt? Wahrscheinlich schon. Was zum Teufel war in diesen Pillen?",
+                    "es": "//(0,30)\\\\Eh... ¿Acabo de decir eso? Probablemente. ¿Qué cojones eran esas pastillas?",
+                    "ru": "//(0,30)\\\\Я... Я это сказал? Похоже на то. Черт, что же было в тех таблетках?",
+                    "cn": "//(0,30)\\\\我......刚才这么说了？可能是吧。这些药片里混了什么东西？",
+                    "tc": "//(0,30)\\\\我......剛才這麼說了？可能是吧。這些藥片裡混了什麼東西？",
+                    "jp": "//(0,30)\\\\えっ... そんなことを言ったか？ たぶんそうかも。あのクスリに何が入ってたんだ？"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr11604_convo_orlando_orlando_et_005",
+                "weight": 0.1666666368643425,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11604_convo_orlando_orlando_et_005.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11604_convo_orlando_orlando_et_005.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\I could... I could actually really go for some soup right now. That’s... that’s pretty ironic actually.",
+                    "fr": "//(0,4.95)\\\\J'aimerais... J'aimerais bien manger de la soupe.//(4.95,34.95)\\\\C'est... C'est plutôt ironique, en fait.",
+                    "it": "//(0,30)\\\\Ora mi andrebbe davvero una zuppa. Ah, l'ironia della sorte...",
+                    "de": "//(0,30)\\\\Ich hätte jetzt ... tatsächlich Lust auf eine Suppe. Das ist ... ziemlich ironisch, finde ich.",
+                    "es": "//(0,4.6)\\\\Ahora mismo podría tomarme una sopa.//(4.6,34.6)\\\\Eso es... bastante irónico, la verdad.",
+                    "ru": "//(0,30)\\\\Я бы... Я бы сейчас с удовольствием супчика поел. Это даже... немного иронично.",
+                    "cn": "//(0,4.6)\\\\我想......现在我真该去喝点汤了。//(4.6,34.6)\\\\这还......真是讽刺啊。",
+                    "tc": "//(0,4.6)\\\\我想......現在我真該去喝點湯了。//(4.6,34.6)\\\\這還......真是諷刺啊。",
+                    "jp": "//(0,30)\\\\ああ... なんだかスープが飲みたくてたまらないな。結構... 皮肉めいたことだけどさ。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr11604_convo_orlando_orlando_et_006",
+                "weight": 0.1666666368643425,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11604_convo_orlando_orlando_et_006.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11604_convo_orlando_orlando_et_006.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,3)\\\\Screw it. The sooner we’re done here, the better!//(3,33)\\\\I want to get back to the plane, and then get the shit out of this country. God.",
+                    "fr": "//(0,4.06)\\\\Et merde. Plus vite on aura fini, mieux ce sera !//(4.06,34.06)\\\\Je veux retourner à l'avion et me casser de ce pays. Putain.",
+                    "it": "//(0,3.96)\\\\Fanculo! Prima finiamo, meglio è!//(3.96,33.96)\\\\Voglio solo tornare sull'aereo e filarmela da questo paese. Santo cielo...",
+                    "de": "//(0,4.1)\\\\Scheiß drauf. Je schneller wir hier fertig sind, desto besser!//(4.1,34.1)\\\\Ich will zurück zum Flugzeug und dann raus aus diesem Land. Meine Güte!",
+                    "es": "//(0,3.946687)\\\\Que le den. ¡Cuanto antes acabemos, mejor!//(3.946687,33.94669)\\\\Quiero volver al avión y largarme de una vez de este país. Dios.",
+                    "ru": "//(0,3.9)\\\\А, к черту. Чем быстрее мы тут закончим, тем лучше!//(3.9,33.9)\\\\Хочу побыстрее вернуться на самолет и свалить из этой вонючей страны. Боже.",
+                    "cn": "//(0,3.9)\\\\去他的，越快把事办完越好！//(3.9,33)\\\\我想赶紧回到飞机上，然后离开这个破国家。天啊！",
+                    "tc": "//(0,3.9)\\\\去他的，越快把事辦完越好！//(3.9,33)\\\\我想趕緊回到飛機上，然後離開這個破國家。上帝啊！",
+                    "jp": "//(0,6.391509)\\\\そんなのは どうでも いい。 さっさとここから 離れたい！ 飛行機に 乗って、 こんなクソみたいな国から//(6.391509,36.39151)\\\\オサラバしたいぜ。 まったく。"
+                }
+            }
+        ]
+    }
+}

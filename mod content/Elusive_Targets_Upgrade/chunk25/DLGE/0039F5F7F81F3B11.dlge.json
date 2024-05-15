@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11601_dawnmeeting.sweetdialog?/dr11601_dawnmeeting_orlando_et_005.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr11601_dawnmeeting_orlando_et_005",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11601_dawnmeeting_orlando_et_005.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11601_dawnmeeting_orlando_et_005.animset].pc_animset",
+        "languages": {
+            "en": "//(0,1.53)\\\\Of course. I’ll send them now.//(1.53,4.8)\\\\My brother and I will hang around a little longer,//(4.8,8.7)\\\\until we get confirmation from Bogota that you’ve done your part, okay?//(8.7,38.7)\\\\Then you can pick up your toys.",
+            "fr": "//(0,2.34)\\\\Bien sûr. Je les envoie.//(2.34,9.3)\\\\Mon frère et moi, on va attendre encore un peu que Bogota nous confirme que vous avez rempli votre part du contrat, d'accord ?//(9.3,39.3)\\\\Après, vous pourrez prendre vos joujoux.",
+            "it": "//(0,1.6)\\\\Certamente, lo faccio subito.//(2.25,9.05)\\\\Io e mio fratello ci tratterremo fino a quando Bogotà non confermerà che avete rispettato i patti, d'accordo?//(9.05,39.05)\\\\Poi potrai raccogliere i tuoi giocattoli.",
+            "de": "//(0,2.204294)\\\\Natürlich. Kommen sofort.//(2.204294,4.800982)\\\\Mein Bruder und ich bleiben noch hier,//(4.800982,9)\\\\bis wir die Bestätigung aus Bogota haben, dass du deinen Teil erfüllt hast, okay?//(9,39)\\\\Dann kannst du dein Spielzeug abholen.",
+            "es": "//(0,4.8)\\\\Claro, ahora mismo te los envío. Mi hermano y yo nos quedaremos un poco más,//(4.8,9.25)\\\\hasta que nos confirmen desde Bogotá que habéis cumplido vuestra parte, ¿de acuerdo?//(9.25,39.25)\\\\Después de eso podréis recoger vuestros juguetitos.",
+            "ru": "//(0,2)\\\\Конечно. Прямо сейчас и отправлю.//(2,9)\\\\Мы с братом немного задержимся. До тех пор, пока не получим из Боготы подтверждение, что твои люди сделали свое дело.//(9,39)\\\\А потом можешь забирать свои новые игрушки.",
+            "cn": "//(0,2.25)\\\\当然，我现在就发给他们。//(2.25,9.05)\\\\我和我兄弟在这里再转一会儿，直到波哥大那边确认你们已经完事，好吧？//(9.05,39.3)\\\\然后，你们就可以收拾你们的这些「玩具」了。",
+            "tc": "//(0,2.25)\\\\當然，我現在就發給他們。//(2.25,9.05)\\\\我和我兄弟在這裡再待一陣子，等到波哥大那邊確認你們已經辦完了事，好吧？//(9.05,39.3)\\\\然後，你們就可以收拾你們的這些「玩具」了。",
+            "jp": "//(0,6.268836)\\\\今すぐ送る。 お前の 役割が 果たされたことを ボゴタから 聞くまで、 俺は もう少しだけ 弟と この辺を//(6.268836,36.26884)\\\\ブラつく。 わかったか？ そのあとで、 お前は ブツを 受け取れるように なる。"
+        }
+    }
+}

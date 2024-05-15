@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/marrakech/11600_elusive/11600_negroni/11600_negroni_handler/dr11610_diana.sweetdialog?/dr11610_diana_diana_et_004.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr11610_diana_diana_et_004",
+        "soundtag": "Voiceover_Handler",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_handler/dr11610_diana_diana_et_004.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_handler/dr11610_diana_diana_et_004.animset].pc_animset",
+        "languages": {
+            "en": "//(0,2.142393)\\\\Welcome to Marrakesh, 47.//(2.142393,7)\\\\I suggest you shadow the targets to discover any information about why they are here.//(7,37)\\\\I will keep you updated. Good hunting, 47.",
+            "fr": "//(0,2.5)\\\\Bienvenue à Marrakech, 47.//(2.5,7.36)\\\\Je vous conseille de suivre les cibles pour découvrir ce qu'elles font ici.//(7.36,37.36)\\\\Je vous tiens au courant. Bonne chasse, 47.",
+            "it": "//(0,2.442)\\\\Benvenuto a Marrakech, 47.//(2.442,7.232)\\\\Ti consiglio di seguire i bersagli per raccogliere informazioni sul motivo della loro presenza in città.//(7.232,37.232)\\\\Ti aggiorno in caso di novità. Buona caccia, 47.",
+            "de": "//(0,2.4)\\\\Willkommen in Marrakesch, 47.//(2.4,7.3)\\\\Ich schlage vor, Sie beschatten die Zielpersonen, um Informationen über den Grund ihres Hierseins zu ermitteln.//(7.3,37.3)\\\\Ich halte Sie auf dem Laufenden. Waidmannsheil, 47!",
+            "es": "//(0,2.242393)\\\\Bienvenido a Marrakech, 47.//(2.242393,7.218)\\\\Te sugiero que sigas de cerca a los objetivos para averiguar el motivo por el que están aquí.//(7.218,37.218)\\\\Te mantendré informado. Buena caza, 47.",
+            "ru": "//(0,2.460491)\\\\Добро пожаловать в Марракеш, 47-й.//(2.460491,7.513)\\\\Рекомендую проследить за целями, чтобы узнать, зачем они здесь.//(7.513,37.513)\\\\Буду держать тебя в курсе. Доброй охоты, 47-й.",
+            "cn": "//(0,2.4)\\\\欢迎来到马拉喀什，47。//(2.4,7.3)\\\\我建议你尾随目标，以便查出他们来此的原因。//(7,37)\\\\我会向你汇报最新进展的。狩猎愉快，47。",
+            "tc": "//(0,2.4)\\\\歡迎來到馬拉喀什，47。//(2.4,7.3)\\\\我建議你尾隨目標，以便查出他們來此的原因。//(7,37)\\\\我會向你彙報最新進展的。狩獵愉快，47。",
+            "jp": "//(0,7.470467)\\\\マラケシュへ ようこそ。 標的たちを 追って、 ここにいる理由を 調べた方が よさそうね。 情報が//(7.470467,37.47047)\\\\入り次第追って連絡するわ。 期待してるわよ。"
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11606_orlandocalls.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "dr11606_orlandocalls_orlando_et_001",
+                "weight": 0.24999995529651375,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11606_orlandocalls_orlando_et_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11606_orlandocalls_orlando_et_001.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,3.1)\\\\Yeah, it’s me. We’ve got the weapons and the chemicals.//(3.1,6.5)\\\\They are here, with us, in two separate locations.//(6.5,11.55)\\\\Nice and safe! Look, that’s the way the boss wanted it.//(11.55,13.9)\\\\And I’m going to do it the way the boss says it.//(13.9,18.7)\\\\Yeah, I know he micromanages, but it’s his show.//(18.7,23)\\\\And you know... the crocodiles.//(24.6,54.6)\\\\Never mind! I’ll call you back when we’re airborne.",
+                    "fr": "//(0,3.75)\\\\Oui, c'est moi. On a les armes et les produits chimiques.//(3.75,6.98)\\\\Ils sont là, avec nous, dans deux endroits distincts.//(6.98,8.2)\\\\À l'abri !//(9.92,14.2)\\\\C'est ce que voulait le boss. Donc, je vais faire ce qu'il veut.//(15.35,18.95)\\\\Ouais, je sais qu'il veut tout gérer, mais c'est son show.//(20.2,23)\\\\Et puis... les crocodiles.//(24.7,54.7)\\\\Laisse tomber ! Je te rappelle une fois dans les airs.",
+                    "it": "//(0,3.651)\\\\Sì, sono io. Abbiamo le armi e le sostanze chimiche.//(3.651,8.2)\\\\Sono qui con noi, in due luoghi separati, al sicuro.//(9.772,13.8)\\\\Ascolta, il capo ha voluto così, quindi si fa così.//(15.15,19.98908)\\\\Lo so, vuole il controllo totale, ma è lui che comanda.//(19.98908,24.5)\\\\E lo sai... i coccodrilli.//(24.5,54.5)\\\\Non importa! Ti chiamo dopo il decollo.",
+                    "de": "//(0,3.7)\\\\Ja, ich bin's. Wir haben die Waffen und die Chemikalien.//(3.7,10)\\\\Sie sind hier bei uns, an zwei verschiedenen Orten. In Sicherheit!//(10,15.4)\\\\Der Boss wollte es so. Und ich mache das, was der Boss will.//(15.4,24.8)\\\\Ja, ich weiß, das ist Mikromanagement, aber es ist seine Show. Und na ja ... die Krokodile.//(24.8,54.8)\\\\Egal! Ich rufe wieder an, wenn wir in der Luft sind.",
+                    "es": "//(0,1.274294)\\\\Sí, soy yo.//(1.274294,3.650981)\\\\Tenemos las armas y los productos químicos.//(3.650981,8.24)\\\\Lo tenemos todo aquí con nosotros, en dos ubicaciones diferentes. ¡A buen recaudo!//(9.70626,14.05)\\\\Oye, así es como lo quería el jefe. Y voy a hacerlo de la manera que él ordene.//(15.352,18.85)\\\\Sí, ya sé que ejerce un control excesivo, pero él es quien manda aquí.//(20.145,23.1)\\\\Y ya sabes... los cocodrilos.//(24.43587,54.43587)\\\\¡No importa! Te llamaré cuando hayamos despegado.",
+                    "ru": "//(0,3.814785)\\\\Да, это я. Оружие и химикаты у нас.//(3.814785,8.35)\\\\Все здесь, в двух отдельных хранилищах. В полной безопасности!//(9.8,14.02295)\\\\Слушай, так распорядился босс. И я буду делать то, что он мне говорит.//(15.25,18.9)\\\\Да, я знаю, что он контролирует каждый наш шаг, но это его шоу.//(20.1,23.2)\\\\А еще... у него есть крокодилы.//(24.8,54.8)\\\\Неважно! Я перезвоню, когда мы поднимемся в воздух.",
+                    "cn": "//(0,3.6)\\\\对，是我。我们有武器和化学品。//(3.6,9.736)\\\\它们被安排在两个单独的地点，绝对安全无忧！//(9.736,15)\\\\听着，老大就是这么吩咐的。老大怎么说，我就怎么做。//(15,19.586)\\\\嗯，我知道他的微管理，不过这是他的事情。//(19.586,24.5)\\\\你知道的......那些鳄鱼。//(24.5,54.5)\\\\不管了！等我们坐上飞机，再给你回电话。",
+                    "tc": "//(0,3.6)\\\\對，是我。我們有武器和化學藥品。//(3.6,9.736)\\\\它們被安排在兩個單獨的地點，絕對安全無憂！//(9.736,15)\\\\聽著，老大就是這麼吩咐的。老大怎麼說，我就怎麼做。//(15,19.586)\\\\嗯，我知道他的微管理，但這是他的事情。//(19.586,24.5)\\\\你知道的......那些鱷魚。//(24.5,54.5)\\\\不管了！等我們坐上飛機，再給你回電話。",
+                    "jp": "//(0,7.751469)\\\\もしもし、 俺だ。 武器と 化学物質は 確保した。 この街の 別々の 場所で、 手下に 見張らせて いる。//(7.751469,14.09358)\\\\まったく安全な状態だ！ ああ、 ボスは そうして くれと 頼んだし、 俺は 言われたとおりに やるだけ//(14.09358,22.09756)\\\\だ。 そうだ。 彼が 細かいところを 管理するのは 知ってるが、 こいつは 奴の 仕事だ。 それに...//(22.09756,52.09756)\\\\ワニもな。 いや、 なんでも ない！ 飛行機に 乗ったら、 また電話する。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr11606_orlandocalls_orlando_et_002",
+                "weight": 0.24999995529651375,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11606_orlandocalls_orlando_et_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11606_orlandocalls_orlando_et_002.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,4.1)\\\\I’ve got an update. We've handed off the last piece of information to Yazid.//(4.1,6.1)\\\\All the pieces are out there.//(8.1,38.1)\\\\Okay. Look, just get back to me as soon as you hear something from Bogota!",
+                    "fr": "//(0,6.45)\\\\J'ai du nouveau. On a donné la dernière info à Yazid. Tout est au complet.//(8.13,38.13)\\\\D'accord. Rappelle-moi dès que tu as des nouvelles de Bogota !",
+                    "it": "//(0,6.2)\\\\Ho un aggiornamento. Abbiamo passato l'ultima serie di informazioni a Yazid. Ormai ci siamo.//(7.903,37.903)\\\\Ok! Ascolta, avvisami non appena hai notizie da Bogotà!",
+                    "de": "//(0,8.1)\\\\Ich habe ein Update. Wir haben Yazid die letzte Information übergeben. Er hat jetzt alle Teile.//(8.1,38.1)\\\\Okay. Melde dich einfach, sobald du was aus Bogota hörst!",
+                    "es": "//(0,6.35)\\\\Hay novedades. Hemos pasado la última información a Yazid. Todo está fuera.//(7.9,37.9)\\\\De acuerdo. Oye, ¡llámame en cuanto sepas algo de Bogotá!",
+                    "ru": "//(0,6.6)\\\\Есть новая информация. Мы передали Язиду всю информацию. Все, что нужно, уже у него.//(8.1,38.1)\\\\Хорошо. Слушай, просто свяжись со мной, когда получишь сигнал из Боготы!",
+                    "cn": "//(0,1.3)\\\\我收到了最新情报。//(1.3,6.5)\\\\我们也已经把最后一份情报交给亚兹了，所有情报都交付完毕了。//(8,38)\\\\好了，听着，波哥大那边一有消息就立即告诉我！",
+                    "tc": "//(0,1.3)\\\\我收到了最新情報。//(1.3,6.5)\\\\我們也已經把最後一份情報交給亞茲了，所有情報都交付完畢了。//(8,38)\\\\好了，聽著，波哥大那邊一有消息就立刻告訴我！",
+                    "jp": "//(0,7.772848)\\\\状況報告だ。 ヤジードに 最後の 情報を 渡した。 これで 全部渡し終えたはずだ。 わかった。 よし、 ボゴタから//(7.772848,37.77285)\\\\何か 返事が きたら、 すぐ俺に 報告するんだぞ！"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr11606_orlandocalls_orlando_et_003",
+                "weight": 0.24999995529651375,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11606_orlandocalls_orlando_et_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11606_orlandocalls_orlando_et_003.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,3.75)\\\\Ah, yes. Thank you for calling me back. About the inheritance.//(3.75,9.4)\\\\Can you confirm that on Silvio’s death it passes back to my brother and me?//(11.2,19.6)\\\\Uh-huh. Oh, the eldest brother first. Hmmm. No, I'm just thinking.//(19.6,49.6)\\\\Thank you, that’s good to know. We’ll be in touch, I’m sure.",
+                    "fr": "//(0,2.78)\\\\Ah, oui. Merci de m'avoir rappelé.//(2.78,9.69)\\\\À propos de l'héritage. Vous pouvez me confirmer qu'à la mort de Silvio, tout revient à mon frère et moi ?//(11.36,12.59)\\\\Oui, oui.//(13.78,16.32)\\\\Oh, l'aîné d'abord. Hmm.//(17.8,22.82)\\\\Non, je réfléchis. Merci, c'est bon à savoir.//(22.82,52.82)\\\\On se rappelle.",
+                    "it": "//(0,2.629)\\\\Ah, sì. Grazie per avermi richiamato.//(2.629,9.420061)\\\\Riguardo l'eredità, confermi che alla morte di Silvio sarà tutto mio e di mio fratello?//(13.67,16.05)\\\\Ah, prima il fratello maggiore. Uhm...//(17.649,47.649)\\\\No, riflettevo. Grazie, buono a sapersi. Ci risentiremo, ne sono sicuro.",
+                    "de": "//(0,4.4)\\\\Ah, ja. Danke, dass du anrufst. Wegen der Erbschaft.//(4.4,11.5)\\\\Kannst du bestätigen, dass nach Silvios Tod alles an meinen Bruder und mich fällt?//(11.5,18)\\\\Mhm. Oh, der älteste Bruder zuerst. Hmmm.//(18,48)\\\\Nein, war nur so ein Gedanke. Danke, gut zu wissen. Wir hören sicher wieder voneinander.",
+                    "es": "//(0,2.560491)\\\\Ah, sí. Gracias por llamar.//(2.560491,9.75)\\\\Sobre la herencia, ¿me puedes confirmar que al morir Silvio todo pasa a mi hermano y a mí?//(11.25626,12.256)\\\\Ajá.//(13.624,16.3)\\\\Ah, primero el hermano mayor. Hmm.//(17.703,47.703)\\\\No, solo estoy pensando. Gracias, está bien saberlo. Seguiremos en contacto, seguro.",
+                    "ru": "//(0,4.2)\\\\А, да. Спасибо, что перезвонил. Насчет наследства.//(4.2,9.8)\\\\Ты можешь подтвердить, что после смерти Сильвио все переходит нам с братом?//(11.25,12)\\\\Ага.//(13.8,16.4)\\\\О, значит, сначала старшему брату. Хм-м...//(17.7,47.7)\\\\Ничего, просто задумался. Спасибо, приму к сведению. До скорого.",
+                    "cn": "//(0,2.56)\\\\对的，谢谢你给我打电话回来。//(2.56,3.99)\\\\关于遗产的事情。//(3.99,9.52)\\\\你能确认在西尔维奥死后，财产由我们兄弟俩继承吗？//(11.3,17.68)\\\\嗯哼，嗯，长兄为大。呃。//(17.68,19.945)\\\\不，我只是在想事情。//(19.945,22.45)\\\\谢谢你告诉我这个好消息。//(22.45,52.45)\\\\我们一定会再联系的。",
+                    "tc": "//(0,2.56)\\\\對的，謝謝你給我打電話回來。//(2.56,3.99)\\\\關於遺產的事情。//(3.99,9.52)\\\\你能確認在西爾維奧死後，財產由我們兄弟倆繼承嗎？//(11.3,17.68)\\\\嗯哼，嗯，長兄為大。呃。//(17.68,19.945)\\\\不，我只是在想事情。//(19.945,22.45)\\\\謝謝你告訴我這個好消息。//(22.45,52.45)\\\\我們一定會再聯繫的。",
+                    "jp": "//(0,9.923664)\\\\ああ、 そうだ。 かけなおして くれて ありがとう。 遺産の 件だが、 シルヴィオの 死後、 俺と 弟の 二人に//(9.923664,20.6743)\\\\相続されるか 確認して くれるか？ ふむふむ。 長男が 先、 か。 うーむ。 いや、 考え事を して いただけ だ。//(20.6743,50.6743)\\\\それは よかった。 またあとで、 必ず連絡しよう。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr11606_orlandocalls_orlando_et_004",
+                "weight": 0.24999995529651375,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11606_orlandocalls_orlando_et_004.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11606_orlandocalls_orlando_et_004.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,2.5)\\\\Vito. Good to hear from you.//(4.1,11.5)\\\\No. No! You were supposed to be here, to meet us, to make this deal.//(13.45,18.66)\\\\I don’t care how “important” and “well connected” you are.//(18.66,21.85)\\\\We made the deal without you, and that’s too bad for you.//(21.85,25.35)\\\\The Delgado Cartel is well connected too.//(25.35,33.1)\\\\And the boss really does not like grandstanding amateurs, no matter how “well connected” they are.//(33.1,63.1)\\\\Make sure we don’t catch you in South America, fuckboy.",
+                    "fr": "//(0,2.6)\\\\Vito. Content de t'entendre.//(4.28,11.85)\\\\Non. Non ! Tu étais censé nous retrouver pour le deal.//(13.54,18.9)\\\\Je me fiche que tu sois \"important\" et que tu aies \"des relations\".//(18.9,22.75)\\\\On a passé le deal sans toi, dommage, mon grand.//(22.75,33.5)\\\\Le cartel Delgado a des relations lui aussi. Et le boss aime pas les amateurs démagos, même s'ils ont le bras long.//(34.08,64.08)\\\\T'as pas intérêt à ce qu'on te croise en Amérique du Sud, salopard.",
+                    "it": "//(0,2.772)\\\\Vito! Che piacere sentirti.//(4.272,11.6)\\\\No. No! Avresti dovuto essere qui, con noi, per firmare l'accordo.//(13.5,18.75)\\\\Non mi frega quanto sei \"importante\" e \"ammanicato\".//(18.75,22.65)\\\\Abbiamo concluso l'accordo senza di te, e non è una buona notizia.//(22.65,25.25)\\\\Anche il cartello dei Delgado è ben ammanicato.//(25.25,32.9)\\\\E il capo non è un grande fan dei dilettanti allo sbaraglio, ammanicati o no.//(34,64)\\\\Non farti mai beccare in Sud America, coglione.",
+                    "de": "//(0,2.4)\\\\Vito. Schön, dich zu hören.//(4.4,13.7)\\\\Nein. Nein! Du solltest uns hier treffen und den Deal abschließen.//(13.7,18.9)\\\\Mir ist egal, wie „wichtig“ und „vernetzt“ du bist.//(18.9,22.8)\\\\Wir haben den Deal ohne doch gemacht, und das ist dein Pech.//(22.8,25.5)\\\\Das Delgado-Kartell ist auch gut vernetzt.//(25.5,34.2)\\\\Und der Boss mag amateurhafte Selbstdarsteller gar nicht, egal, wie gut sie „vernetzt“ sind.//(34.2,64.2)\\\\Lass dich nicht von uns in Südamerika erwischen, Arschloch.",
+                    "es": "//(0,2.628589)\\\\Vito, me alegra saber de ti.//(4.14,5.14)\\\\No.//(6.14,11.6)\\\\¡No! Se supone que debías estar aquí para recibirnos y cerrar el trato.//(13.36,18.62718)\\\\Me da igual lo \"importante\" que seas y los \"contactos\" que tengas.//(18.62718,22.57816)\\\\Hemos hecho el negocio sin ti, tú te lo pierdes.//(22.57816,25.323)\\\\El cártel de Delgado también tiene buenos contactos.//(25.323,33.16871)\\\\Y al jefe no le gusta nada la gente engreída y poco profesional, por muchos \"contactos\" que tengan.//(34.069,64.069)\\\\Más te vale que no te encontremos por Sudamérica, cabrón.",
+                    "ru": "//(0,2.7)\\\\Вито. Рад тебя слышать.//(4.4,5.1)\\\\Нет.//(6.4,11.85)\\\\Нет! Ты же должен был быть здесь, встретить нас, помочь нам в делах.//(13.6,18.8)\\\\Мне все равно, что ты «важный» человек с «хорошими связями».//(18.8,22.2)\\\\Мы провернули дело без тебя, ну так тебе же хуже.//(22.2,25.50957)\\\\У картеля Дельгадо тоже хорошие связи.//(25.50957,34)\\\\А наш босс очень не любит самовлюбленных дилетантов, какими бы «важными» они ни были.//(34,64)\\\\Смотри не попадись нам в Южной Америке, говнюк.",
+                    "cn": "//(0,2.61)\\\\维托，很高兴听到你的声音。//(4.14,13.6)\\\\不，不！你应该来这里见我们俩，完成交易。//(13.6,18.18)\\\\我不在乎你有多「重要」或是「人脉有多广」。//(18.18,22.316)\\\\我们做交易的时候你不在，对你来说真是太不幸了。//(22.316,34)\\\\戴尔加多黑帮的人脉一样很广，而且老大非常不喜欢哗众取宠的业余人士，不管他们「人脉有多广」。//(34,64)\\\\别让我们在南美洲逮到你，小子。",
+                    "tc": "//(0,2.61)\\\\維托，很高興聽到你的聲音。//(4.14,13.6)\\\\不，不！你應該來這裡見我們倆，完成交易。//(13.6,18.18)\\\\我不在乎你有多「重要」或是「人脈有多廣」。//(18.18,22.316)\\\\我們做交易的時候你不在，對你來說真是太不幸了。//(22.316,34)\\\\戴爾加多黑幫的人脈一樣很廣，而且老大非常不喜歡嘩眾取寵的業餘人士，不管他們「人脈有多廣」。//(34,64)\\\\別讓我們在南美洲逮到你，小子。",
+                    "jp": "//(0,12.15039)\\\\ヴィトー。 出て くれたか。 いや、 そうじゃ ない！ お前は ここに いて、 俺たちと 会って この取引を//(12.15039,19.23812)\\\\するはずだっただろ。 お前の「重要さ」とか「コネ」なんて どうでも いい。 さっき、 お前抜きで 取引を//(19.23812,28.35091)\\\\済ませたが、 これは お前にとって 悪いことだ。 デルガド・ カルテルにも コネは ある。 それにボスは、//(28.35091,34.42611)\\\\大見得を 張る素人は どんな奴であれ大嫌いだ。 もしお前が 南アメリカで 俺たちに//(34.42611,64.42611)\\\\会おうものなら痛い目に 遭うぞ、 クソッタレめ。"
+                }
+            }
+        ]
+    }
+}

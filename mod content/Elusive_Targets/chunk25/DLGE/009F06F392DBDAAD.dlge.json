@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/marrakech/11600_elusive/11600_negroni/11600_negroni_handler/dr11610_diana.sweetdialog?/dr11610_diana_diana_et_008.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr11610_diana_diana_et_008",
+        "soundtag": "Voiceover_Handler",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_handler/dr11610_diana_diana_et_008.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_handler/dr11610_diana_diana_et_008.animset].pc_animset",
+        "languages": {
+            "en": "//(0,2)\\\\We have enough information, 47.//(2,9.33245)\\\\A large cache of weapons, Ether biotech equipment, a link to the Crystal Dawn, and whatever is on that PDA.//(9.33245,39.33245)\\\\I’m not sure if the Delgado Cartel is buying or selling, but that is more than enough information for our needs.",
+            "fr": "//(0,2.165)\\\\On a assez d'informations, 47.//(2.165,9.5)\\\\Une grande cache d'armes, du matériel biotechnologique Ether, un lien vers Crystal Dawn et les informations de ce PDA.//(9.5,39.5)\\\\J'ignore si le cartel Delgado est là pour acheter ou vendre, mais nous avons suffisamment d'informations comme ça.",
+            "it": "//(0,2.042393)\\\\Abbiamo informazioni sufficienti, 47.//(2.042393,5.527178)\\\\Un enorme deposito d'armi, attrezzature biotecnologiche della Ether,//(5.527178,9.326258)\\\\un legame con il Crystal Dawn e il contenuto del palmare.//(9.326258,12.732)\\\\Non è chiaro se il cartello dei Delgado sia l'acquirente o il venditore,//(12.732,42.732)\\\\ma le informazioni ottenute sono più che sufficienti.",
+            "de": "//(0,2.1)\\\\Wir haben genügend Informationen, 47.//(2.1,9.45)\\\\Ein großes Waffenlager, Biotech-Geräte von Ether, eine Verbindung zu Crystal Dawn sowie alles, was auf dem PDA ist.//(9.45,39.45)\\\\Ich bin nicht sicher, ob das Delgado-Kartell kauft oder verkauft, aber für uns sind das mehr als genug Informationen.",
+            "es": "//(0,2.092393)\\\\Tenemos bastante información, 47.//(2.092393,9.412)\\\\Un gran alijo de armas, equipamiento biotécnico de Ether, un vínculo con Crystal Dawn y lo que haya en la PDA.//(9.412,12.832)\\\\No sé si el cártel de Delgado pretende comprar o vender,//(12.832,42.832)\\\\pero esta es suficiente información para satisfacer nuestras necesidades.",
+            "ru": "//(0,2.25)\\\\У нас достаточно информации, 47-й.//(2.25,5.6)\\\\Целый склад оружия, биотехнологическое оборудование «Итер»,//(5.6,9.35)\\\\доказательство связи с «Хрустальной зарей» и все, что находится на этом планшете.//(9.35,39.35)\\\\Не знаю, чем занимается картель Дельгадо — покупает или продает — но здесь все данные, которые нам нужны.",
+            "cn": "//(0,2.165)\\\\我们已经掌握足够的情报了，47。//(2.165,9.5)\\\\一大批武器、苍穹公司的生物科技设备、与「水晶黎明」的联系，还有那台平板电脑上的情报。//(9.5,39.35)\\\\我不太确定戴尔加多黑帮所扮演的角色到底是买家还是卖家，但我们已经得到足够的情报了。",
+            "tc": "//(0,2.165)\\\\我們已經掌握足夠的情報了，47。//(2.165,9.5)\\\\一大批武器、乙太公司的生物科技設備、與「水晶黎明」的聯繫，還有那台平板電腦上的情報。//(9.5,39.35)\\\\我不太確定戴爾加多黑幫是在購買還是出售這些東西，但我們所收集的情報已經足夠了。",
+            "jp": "//(0,8.087566)\\\\十分な情報が 集まった。 大量の 武器、 エーテル社の 備品、 クリスタル・ ドーンとの 関係、 PDAの//(8.087566,38.08757)\\\\中身。 デルガド・ カルテルが 買う側なのか 売る側かは わからないけど、 予想以上の 情報が 得られたわね。"
+        }
+    }
+}

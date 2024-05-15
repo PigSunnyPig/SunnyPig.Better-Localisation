@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11601_dawnmeeting.sweetdialog?/dr11601_dawnmeeting_dawn_agent_et_002.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr11601_dawnmeeting_dawn_agent_et_002",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11601_dawnmeeting_dawn_agent_et_002.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11601_dawnmeeting_dawn_agent_et_002.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Cut to the chase, Caruso. Have you got everything we discussed?",
+            "fr": "//(0,30)\\\\Allez droit au but, Caruso. Vous avez tout ce dont on a parlé ?",
+            "it": "//(0,30)\\\\Andiamo al punto, Caruso. Hai tutto ciò di cui abbiamo discusso?",
+            "de": "//(0,1.942393)\\\\Komm zum Punkt, Caruso.//(1.942393,31.94239)\\\\Hast du alles, was wir besprochen haben?",
+            "es": "//(0,30)\\\\Corta el rollo, Caruso. ¿Tienes todo lo que comentamos?",
+            "ru": "//(0,30)\\\\К делу, Карузо! Вы достали все, о чем мы говорили?",
+            "cn": "//(0,30)\\\\不用说客套话了，卡鲁索。你把东西带齐了吗？",
+            "tc": "//(0,30)\\\\不用說客套話了，卡盧索。你把東西帶齊了嗎？",
+            "jp": "//(0,30)\\\\カルーソー、早速ビジネスだ。例のものは全部手に入れたか？"
+        }
+    }
+}

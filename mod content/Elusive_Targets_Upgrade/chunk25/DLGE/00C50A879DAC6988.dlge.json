@@ -1,0 +1,125 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11605_convo_renzo.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "dr11605_convo_renzo_renzo_et_001",
+                "weight": 0.1666666368643425,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11605_convo_renzo_renzo_et_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11605_convo_renzo_renzo_et_001.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,6.285276)\\\\Shit. I hate this goddamn city. Snail soup. Nice and fresh! No bones!//(6.285276,36.28527)\\\\Those shitheads aren’t going to be selling their snail soup any time soon!",
+                    "fr": "//(0,3.4)\\\\Merde. Je déteste cette foutue ville.//(3.4,7.75)\\\\De la soupe à l'escargot. Très fraîche ! Sans os !//(7.75,37.75)\\\\Ces crétins sont pas près de revendre leur soupe au mollusque !",
+                    "it": "//(0,3.309)\\\\Merda! Odio questa città del cazzo.//(3.309,7.685)\\\\\"Zuppa di lumache. Appena raccolte! Niente ossa!\"//(7.685,37.685)\\\\Ora quegli stronzi avranno qualche difficoltà a vendere la loro zuppa del cazzo!",
+                    "de": "//(0,7.9)\\\\Scheiße. Ich hasse diese verdammte Stadt. Schneckensuppe. Lecker und frisch! Ohne Knochen!//(7.9,37.9)\\\\Diese Dreckskerle werden ihre Schneckensuppe wohl nicht mehr verkaufen!",
+                    "es": "//(0,6.2)\\\\Joder, odio esta maldita ciudad. Sopa de caracol. ¡Fresca y deliciosa! ¡Sin huesos!//(7.555,37.555)\\\\¡Esos cabrones no van a vender sopa de caracol en mucho tiempo!",
+                    "ru": "//(0,3.208589)\\\\Черт. Я просто ненавижу этот город.//(3.208589,6.5)\\\\Суп с улитками. Свеженький! Без костей!//(7.7,37.7)\\\\Не скоро еще полудурки снова начнут толкать свой суп с улитками!",
+                    "cn": "//(0,3.4)\\\\该死，我真讨厌这座该死的城市！//(3.4,7.685)\\\\蜗牛浓汤，刚出锅的新鲜美食！还没有骨头！//(7.685,36.28527)\\\\那些蠢货别再想卖什么蜗牛浓汤了！",
+                    "tc": "//(0,3.4)\\\\該死，我真討厭這座該死的城市！//(3.4,7.685)\\\\蝸牛濃湯，剛出鍋的新鮮美食！還沒有骨頭！//(7.685,36.28527)\\\\那些蠢貨別再想賣什麼蝸牛濃湯了！",
+                    "jp": "//(0,7.742834)\\\\チクショウ。 この街は サイテーだぜ。 新鮮でおいしい、 カタツムリの スープだよ！ 骨は ないよ！//(7.742834,37.74284)\\\\カタツムリの スープを 売るクソどもを、 のさばらせてたまるか！"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr11605_convo_renzo_renzo_et_002",
+                "weight": 0.1666666368643425,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11605_convo_renzo_renzo_et_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11605_convo_renzo_renzo_et_002.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,4.3)\\\\Ah, you remember that we dropped Silvio down the well in Sapienza?//(4.3,9)\\\\By the church! He landed in that puddle at the bottom!//(9,15.84393)\\\\He screamed like he was going to die! I heard that Marco did the same thing now.//(15.84393,45.84393)\\\\Then he ran for governor or something. Too bad what happened to him, right?",
+                    "fr": "//(0,6.6)\\\\Ah, tu te souviens quand on a lâché Silvio dans le puits à Sapienza ? Près de l'église !//(6.6,11.05)\\\\Il a atterri dans une flaque au fond ! Il gueulait comme s'il allait y rester !//(13.02,16.8)\\\\Il paraît que Marco a fait la même chose.//(16.8,20.4)\\\\Et puis, il s'est présenté au poste de gouverneur, je crois.//(20.4,50.4)\\\\C'est moche ce qui lui est arrivé, hein ?",
+                    "it": "//(0,4.813)\\\\Ricordi quando abbiamo gettato Silvio nel pozzo a Sapienza?//(4.813,6.417)\\\\Accanto alla chiesa?//(6.417,12.898)\\\\È precipitato nell'acqua sul fondo! Gridava come se stesse morendo!//(12.898,20.212)\\\\Pare che Marco gli abbia fatto lo stesso scherzetto, poi si è candidato a sindaco o qualcosa del genere.//(20.212,50.212)\\\\Peccato per la fine che ha fatto...",
+                    "de": "//(0,6.7)\\\\Ah, weißt du noch, als wir Silvio in Sapienza in den Brunnen geworfen haben? Den bei der Kirche!//(6.7,13.2)\\\\Er ist in der Pfütze am Boden gelandet! Er hat geschrien, als müsste er sterben!//(13.2,17)\\\\Ich hab gehört, dass Marco dasselbe gemacht hat.//(17,47)\\\\Und dann hat er als Gouverneur oder so was kandidiert. Schade um ihn, was?",
+                    "es": "//(0,4.96908)\\\\Ah, ¿recuerdas cuando tiramos a Silvio por ese pozo en Sapienza?//(4.96908,13)\\\\¡Junto a la iglesia! ¡Aterrizó en el charco que había en el fondo! ¡Gritaba como si fuera a morirse!//(13,20.259)\\\\Me enteré de que Marco hizo mismo. Luego se presentó para ser gobernador o algo así.//(20.259,50.259)\\\\Es una pena lo que le ocurrió, ¿verdad?",
+                    "ru": "//(0,6.3)\\\\Ох, помнишь, как мы уронили Сильвио в колодец в Сапиенце? Рядом с церковью!//(6.3,11.2)\\\\Он упал в лужу на самом дне! Кричал так, словно умирает!//(13,16.5)\\\\Я слышал, Марко недавно то же самое проделал.//(16.5,20.3)\\\\А потом пытался баллотироваться на пост губернатора или что-то в этом духе.//(20.3,50.3)\\\\Жаль, что с ним так вышло, да?",
+                    "cn": "//(0,4.578)\\\\啊，你还记得我们在萨比恩撒时把西尔维奥丢进井里的事吧。//(4.578,12.686)\\\\就在教堂附近！他摔到了地下的水坑里！他的哀嚎就像是要死了一样！//(12.686,42.686)\\\\我听说马尔科也做过同样的事情，后来他就去竞选政府高官啥的了。他可真是惨啊，是吧？",
+                    "tc": "//(0,4.578)\\\\啊，你還記得我們在羅馬大學時把西爾維奧丟進井裡的事吧。//(4.578,12.686)\\\\就在教堂附近！他摔到了地下的水坑裡！他大喊大叫的，就像是要死了一般！//(12.686,42.686)\\\\我聽說馬爾柯也做過相同的事情，後來他就去競選政府高官什麼的了。他可真是慘啊，是吧？",
+                    "jp": "//(0,8.205712)\\\\ああ、 サピエンツァで シルヴィオを 投げ落としたことを 覚えてるか？ 教会の 隣だよ！ 井戸の 底から、//(8.205712,17.32317)\\\\大袈裟に 重症だって 叫んで たな！ マルコの 野郎も、 同じことを やったって 聞いたぜ。 そのあとあいつは//(17.32317,47.32317)\\\\知事か 何かに 立候補したが、 くたばったんだよな。 気の毒だと 思わないか？"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr11605_convo_renzo_renzo_et_003",
+                "weight": 0.1666666368643425,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11605_convo_renzo_renzo_et_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11605_convo_renzo_renzo_et_003.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Yeah, whatever. The sooner we’re done, the sooner we can get out of here.",
+                    "fr": "//(0,30)\\\\Ouais, peu importe. Plus vite on aura fini, plus vite on pourra se barrer d'ici.",
+                    "it": "//(0,30)\\\\Sì, come vuoi. Prima finiamo e prima ce ne andiamo.",
+                    "de": "//(0,30)\\\\Wie auch immer. Je früher wir fertig sind, desto früher kommen wir von hier weg.",
+                    "es": "//(0,30)\\\\Sí, bueno. Cuanto antes terminemos, antes podremos irnos de aquí.",
+                    "ru": "//(0,30)\\\\Да, конечно. Чем раньше закончим, тем быстрее сможем отсюда свалить.",
+                    "cn": "//(0,30)\\\\是啊，随便了。这事越早搞定，我们就能越早离开这里。",
+                    "tc": "//(0,30)\\\\是啊，隨你怎麼說吧。這事越早搞定，我們就能越早離開這裡。",
+                    "jp": "//(0,30)\\\\ああ、そうかい。仕事が早く終われば、それだけ早くここから出られるんだ。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr11605_convo_renzo_renzo_et_004",
+                "weight": 0.1666666368643425,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11605_convo_renzo_renzo_et_004.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11605_convo_renzo_renzo_et_004.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\I literally do not care. Sometimes I think you’re as bad as Silvio!",
+                    "fr": "//(0,30)\\\\Je m'en contrefiche. Des fois, tu es aussi naze que Silvio !",
+                    "it": "//(0,30)\\\\Non m'importa. A volte penso che tu sia peggio di Silvio!",
+                    "de": "//(0,30)\\\\Es ist mir wirklich egal. Manchmal glaube ich, du bist genauso schlimm wie Silvio!",
+                    "es": "//(0,30)\\\\La verdad es que me da igual. ¡A veces creo que eres tan malo como Silvio!",
+                    "ru": "//(0,30)\\\\Мне абсолютно все равно. Иногда мне кажется, что ты ничуть не лучше Сильвио!",
+                    "cn": "//(0,30)\\\\我真的一点都不在乎。有时候，我觉得你和西尔维奥一样坏！",
+                    "tc": "//(0,30)\\\\我真的一點都不在乎。有時候，我覺得你和西爾維奧一樣壞！",
+                    "jp": "//(0,30)\\\\正直どうでもいい。お前、シルヴィアみたいなクソ野郎になる時もあるんだな！"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr11605_convo_renzo_renzo_et_005",
+                "weight": 0.1666666368643425,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11605_convo_renzo_renzo_et_005.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11605_convo_renzo_renzo_et_005.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,3.84)\\\\Just keep talking, brother. I’m going to go and check on the shit.//(3.84,33.84)\\\\Make sure no one is digging around where they shouldn’t be!",
+                    "fr": "//(0,3.96)\\\\Cause toujours, frangin. Je vais aller jeter un œil.//(3.96,33.96)\\\\Je dois m'assurer que personne met son nez où il devrait pas.",
+                    "it": "//(0,1.8)\\\\Continua pure a parlare, fratello.//(1.8,31.8)\\\\Io vado a controllare che sia tutto in ordine. E ad assicurarmi che nessuno ficchi il naso dove non dovrebbe.",
+                    "de": "//(0,4.1)\\\\Red nur weiter, Bruder. Ich gehe jetzt und überprüfe die Ware.//(4.1,34.1)\\\\Sorge du dafür, dass keiner an Orten rumschnüffelt, wo er nichts zu suchen hat.",
+                    "es": "//(0,3.9)\\\\Tú sigue hablando, hermano. Yo voy a comprobar la mercancía.//(3.9,33.9)\\\\¡Me aseguraré de que nadie meta las narices donde no debe!",
+                    "ru": "//(0,4.15)\\\\Ты продолжай говорить, брат. Я пойду пока проверю, как там наше барахло.//(4.15,34.15)\\\\Смотри, чтоб посторонние здесь не шастали!",
+                    "cn": "//(0,30)\\\\继续说，兄弟。我去检查一下破玩意。//(3.84,33.84)\\\\别让其他人来多管闲事！",
+                    "tc": "//(0,30)\\\\繼續說，兄弟。我去檢查一下破玩意。//(3.84,33.84)\\\\別讓其他人來多管閒事！",
+                    "jp": "//(0,30)\\\\話を 続けてな、 兄弟。 俺は これからブツの 様子を 見に 行く。 まあ、 とにかくしっかり頼むぜ！"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr11605_convo_renzo_renzo_et_006",
+                "weight": 0.1666666368643425,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11605_convo_renzo_renzo_et_006.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_story/dr11605_convo_renzo_renzo_et_006.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,8.05)\\\\Look at them! I don’t care just how “hard working” and “poor” these people are, brother.//(8.05,12.55)\\\\I’m not going to put up with some jackass yelling stupid shit at me all day long.//(12.55,42.55)\\\\They try that with me... BAM! Kneecaps! BAM! Belly! Just like in Bogota.",
+                    "fr": "//(0,1.5)\\\\Regarde-les !//(3,8.38)\\\\Je me fiche que ces gens soient \"bosseurs\" ou \"super pauvres\".//(8.38,13.2)\\\\Je supporterais pas qu'un débile passe sa journée à me gueuler dessus.//(13.2,14.63)\\\\Qu'ils essaient un peu avec moi...//(14.63,44.63)\\\\BAM ! Dans les genoux ! BAM ! Dans le ventre !",
+                    "it": "//(0,2.936)\\\\Guardali! Bah...//(2.936,8.201)\\\\Non m'importa quanto siano \"diligenti\" e \"poveri\", fratello.//(8.201,13.06818)\\\\Non sopporterei le urla di qualche stupido coglione per tutto il giorno.//(13.06818,43.06818)\\\\Se ci provassero con me... BAM! Rotule! BAM! Pancia! Proprio come a Bogotà.",
+                    "de": "//(0,8.4)\\\\Sieh sie dir an! Mir ist egal, ob diese Leute „hart arbeiten“ und „arm“ sind, Bruder.//(8.4,13.2)\\\\Ich ertrage einfach keine Idioten, die mich den ganzen Tag lang anbrüllen.//(13.2,43.2)\\\\Wer das bei mir versucht ... Bumm! Kniescheibe! Bumm! Bauch! Genau wie in Bogota.",
+                    "es": "//(0,8.05)\\\\¡Míralos! Me da igual lo pobres y trabajadores que sean, hermano.//(8.05,12.95)\\\\No soporto que un idiota esté todo el día gritándome estupideces.//(12.95,42.95)\\\\Si intentan hacer eso conmigo... ¡pam! ¡En las rótulas! ¡Pam! ¡En la tripa! Justo como en Bogotá.",
+                    "ru": "//(0,8.2)\\\\Только посмотри! Мне плевать, что эти люди «трудолюбивы» и «бедны», брат.//(8.2,13)\\\\Я не собираюсь слушать их вопли с утра до ночи.//(13,43)\\\\Попробуют такое со мной и... БАМ! По коленям! БАМ! В живот! Как в Боготе.",
+                    "cn": "//(0,8.05)\\\\看看他们！我可不在乎这些人有多「努力」或是多「可怜」，兄弟。//(8.05,12.848)\\\\我可不能忍受一群蠢货整天对着我说蠢话。//(12.848,42.848)\\\\他们要是敢跟我来这套，我就......砰！先打膝盖！砰！再打肚子！就像在波哥大那时候一样。",
+                    "tc": "//(0,8.05)\\\\看看他們！我可不在乎這些人有多「努力」或是多「可憐」，兄弟。//(8.05,12.848)\\\\我可不能忍受一群蠢貨整天對著我說蠢話。//(12.848,42.848)\\\\他們要是敢跟我來這套，我就......砰！先打膝蓋！砰！再打肚子！就像在波哥大那時候一樣。",
+                    "jp": "//(0,7.222412)\\\\奴らを 見ろよ！ あいつらの「勤勉さ」や「貧しさ」なんて どうでも いいんだよ、 兄貴。 ただ、 あのバカどもが//(7.222412,15.67113)\\\\俺に 向かって くだらないことを わめき続けるのが イヤなんだ。 もし俺に ケンカを 売ろうものなら...//(15.67113,45.67113)\\\\ボゴタと 同じ目に あわせて やる。"
+                }
+            }
+        ]
+    }
+}
