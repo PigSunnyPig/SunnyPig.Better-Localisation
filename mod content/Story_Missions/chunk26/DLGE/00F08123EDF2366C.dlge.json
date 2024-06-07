@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/italy/10000_elusive/10000_capirinha/10000_capirinha_story/dr10612_argusgaming.sweetdialog?/dr10612_argusgaming_argus_et_003.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr10612_argusgaming_argus_et_003",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/10000_elusive/10000_capirinha/10000_capirinha_story/dr10612_argusgaming_argus_et_003.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/10000_elusive/10000_capirinha/10000_capirinha_story/dr10612_argusgaming_argus_et_003.animset].pc_animset",
+        "languages": {
+            "en": "//(0,1.5)\\\\They wanted me in the movie you know...//(1.5,31.5)\\\\That would have been wicked. Except you made a muck of it. Nice one!",
+            "fr": "//(0,1.9)\\\\Ils voulaient de moi pour le film, tu sais...//(1.9,5.19)\\\\Ça aurait été génial. Mais tu as tout foutu en l'air.//(5.19,35.19)\\\\Bien joué !",
+            "it": "//(0,1.79)\\\\Sai, mi volevano nel film...//(1.79,5.1)\\\\Sarebbe stato il massimo, ma tu hai incasinato tutto.//(5.1,35.1)\\\\Complimentoni!",
+            "de": "//(0,1.8)\\\\Sie wollten mich für den Film engagieren ...//(1.8,5)\\\\Das wäre ein Knaller geworden. Aber Sie haben es ruiniert.//(5,35)\\\\Ganz toll!",
+            "es": "//(0,30)\\\\Me querían para la película, ¿sabes? Habría sido una pasada, pero tú lo mandaste a la mierda. ¡Bien hecho!",
+            "ru": "//(0,30)\\\\Мне предлагали роль в экранизации. Вот это было бы круто. А ты все просрал.",
+            "cn": "//(0,1.5)\\\\他们想让我出演那部电影......//(1.5,5.19)\\\\肯定会爽翻天。除非你搞出什么乱子。//(5.19,35.1)\\\\笑死我了！",
+            "tc": "//(0,1.5)\\\\他們想讓我出演那部電影......//(1.5,5.19)\\\\肯定會爽翻天。除非你把它搞砸了。//(5.19,35.1)\\\\笑死我了！",
+            "jp": "//(0,3.19961)\\\\映画で 俺を 出演させたがって たんだ...//(3.19961,6.18525)\\\\すばらしい大作に なってただろうな。 お前が 台無しに するまではな。"
+        }
+    }
+}

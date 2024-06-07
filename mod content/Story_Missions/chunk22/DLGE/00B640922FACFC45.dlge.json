@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/hokkaido/2400_mamushi/2400_handler/2400_mamushi_flyin.sweetdialog?/2400_mamushi_flyin_diana_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "2400_mamushi_flyin_diana_001",
+        "soundtag": "Voiceover_Handler",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2400_mamushi/2400_handler/2400_mamushi_flyin_diana_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2400_mamushi/2400_handler/2400_mamushi_flyin_diana_001.animset].pc_animset",
+        "languages": {
+            "en": "//[DIANA]\\\\//(0,1.724)\\\\Good evening, 47.//(1.724.87)\\\\The annual snow festival is underway at the GAMA facility.//(5.87,10.15)\\\\Dmitri Fedorov is scheduled to be discharged from the hospital tomorrow,//(10.15,15.34)\\\\and has been seen wandering the public areas of the facility, enjoying the festivities.//(15.34,16.45)\\\\Good luck.",
+            "fr": "//[DIANA]\\\\//(0,1.356196)\\\\Bonsoir, 47.//(1.356196,5.8)\\\\Le festival de la neige annuel se déroule actuellement au complexe GAMA.//(5.8,10.05)\\\\Dmitri Fedorov doit quitter l'hôpital demain,//(10.05,13.385)\\\\et a été aperçu dans les zones publiques du complexe,//(13.385,15.2)\\\\profitant des festivités.//(15.2,16.35502)\\\\Bonne chance.",
+            "it": "//[DIANA]\\\\//(0,1.9)\\\\Buonasera, 47.//(1.9,4.1)\\\\Nel complesso del GAMA è in corso//(4.1,6.103734)\\\\l'annuale festival della neve.//(6.103734,10.25)\\\\Dmitri Fedorov verrà dimesso dall'ospedale domani//(10.25,13.45)\\\\ed è stato visto nelle aree comuni//(13.45,15.66)\\\\mentre si godeva i festeggiamenti.//(15.66,16.66)\\\\Buona fortuna.",
+            "de": "//[DIANA]\\\\//(0,1.549488)\\\\Guten Abend, 47.//(1.549488,3.758077)\\\\Das jährliche Schneefest ist in der//(3.758077,5.73047)\\\\GAMA-Klinik in vollem Gange.//(5.73047,10.1)\\\\Dmitri Fedorov soll morgen aus dem Krankenhaus entlassen werden.//(10.1,11.49841)\\\\Er wurde aber bei Spaziergängen in den//(11.49841,13.21015)\\\\öffentlichen Bereichen der Klinik gesehen,//(13.21015,15.24415)\\\\wo er an den Feierlichkeiten teilnahm.//(15.24415,16.35502)\\\\Viel Glück.",
+            "es": "//[DIANA]\\\\//(0,1.724294)\\\\Buenas tardes, 47.//(1.724294,6.04)\\\\Se está celebrando el festival anual de la nieve en las instalaciones de GAMA.//(6.04,10.03)\\\\Está previsto que Dmitri Fedorov reciba el alta mañana//(10.03,12.6)\\\\y ya ha sido visto paseándose por las zonas públicas//(12.6,15.5)\\\\de las instalaciones y disfrutando de las festividades.//(15.5,17.20178)\\\\Buena suerte.",
+            "ru": "//[DIANA]\\\\//(0,1.724294)\\\\Добрый вечер, 47-й.//(1.724294,6.010377)\\\\В клинике «ГАМА» начался праздник снега.//(6.010377,9.96762)\\\\Завтра врачи должны выписать Дмитрия Федорова,//(9.96762,12.82396)\\\\а сегодня он гуляет по коридорам больницы,//(12.82396,15.14916)\\\\наслаждаясь атмосферой праздника.//(15.14916,16.35502)\\\\Удачи.",
+            "cn": "//[DIANA]\\\\//(0,1.724)\\\\晚上好，47。//(1.724,5.87)\\\\一年一度的冰雪节正在伽马设施内举行。//(5.87,15.34)\\\\德米特里·费多罗夫计划于明天出院，而现时有人看见他在设施内的公共区域之中闲逛，欢度佳节。//(15.34,16.45)\\\\祝你好运。",
+            "tc": "//[DIANA]\\\\//(0,1.724)\\\\晚安，47。//(1.724,5.87)\\\\一年一度的冰雪節正在伽馬設施內舉行。//(5.87,15.34)\\\\德米特里・費德洛夫被安排於明天出院，而現時有人看見他在設施內的公共區域之中閒逛，歡度佳節。//(15.34,16.45)\\\\祝你好運。",
+            "jp": "//[DIANA]\\\\//(0,1.635)\\\\こんばんは、47。//(1.635,5.8)\\\\ガマの施設では年に一度の雪まつりが開催中よ。//(5.8,10.045)\\\\ドミトリー・フェドロフは明日退院予定で、//(10.045,15.365)\\\\施設の共有エリアでお祭りを楽しんでいるのを目撃されているわ。//(15.365,16.365)\\\\グッドラック。"
+        }
+    }
+}

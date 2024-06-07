@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12776_47suitclever.sweetdialog?/ds12776_47suitclever_diana_ws_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds12776_47suitclever_diana_ws_001",
+        "soundtag": "Voiceover_Handler",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12776_47suitclever_diana_ws_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12776_47suitclever_diana_ws_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\That suit will protect you from any risk of infection.",
+            "fr": "//(0,30)\\\\Cette combinaison vous protégera de tout risque d'infection.",
+            "it": "//(0,30)\\\\Quella tuta ti proteggerà da ogni rischio di infezione.",
+            "de": "//(0,30)\\\\Dieser Anzug schützt Sie vor jedem Infektionsrisiko.",
+            "es": "//(0,30)\\\\Eso te protegerá de todo riesgo de infección.",
+            "ru": "//(0,30)\\\\Этот костюм защитит тебя от опасности заражения.",
+            "cn": "//(0,30)\\\\这件衣服可以保护你免受任何感染风险的。",
+            "tc": "//(0,30)\\\\這件衣服會保護你免受任何感染風險的。",
+            "jp": "//(0,30)\\\\そのスーツを 着て いれば 感染しないわ。"
+        }
+    }
+}

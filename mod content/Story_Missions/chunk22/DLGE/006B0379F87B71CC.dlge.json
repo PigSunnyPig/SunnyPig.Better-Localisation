@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_snowcrane/2000_story/dr2058_stafftalkkai.sweetdialog?/dr2058_stafftalkkai_civmale03_005.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr2058_stafftalkkai_civmale03_005",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_snowcrane/2000_story/dr2058_stafftalkkai_civmale03_005.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_snowcrane/2000_story/dr2058_stafftalkkai_civmale03_005.animset].pc_animset",
+        "languages": {
+            "en": "//(0,2.75)\\\\Uh great, great. Again with the Shinto.//(2.75,7.75)\\\\What about the time the mainframe malfunctioned and KAI became all confused and child-like, huh?//(7.75,9.5)\\\\Everybody freaked out, remember that?//(9.5,39.5)\\\\Well, imagine this happening during surgery.",
+            "fr": "//(0,2.75\\\\Super. Encore ton shinto.//(2.75,8.07)\\\\Et la fois où l'ordinateur central a buggé, et que KAI se comportait comme une enfant paumée, alors ?//(8.07,15.07957)\\\\Tout le monde a flippé, tu te souviens ? Imagine que ça se produise en pleine opération.",
+            "it": "//(0,2.75)\\\\Per carità. Non riattaccare con lo Shintō.//(2.75,5.1)\\\\E che mi dici di quando il computer centrale è andato in panne//(5.1,7.892)\\\\e KAI si comportava come una bambina stordita, eh?//(7.892,9.642)\\\\Si spaventarono tutti, ricordi?//(9.642,39.642)\\\\Pensa se accadesse durante un intervento.",
+            "de": "//(0,0.99)\\\\Toll.//(0.99,3.208589)\\\\Gleich kommt wieder der Shintoismus.//(3.208589,5.6)\\\\Und was war, als der Mainframe die Fehlfunktion hatte und//(5.6,8.3)\\\\KAI verwirrt war und sich wie ein Kind benommen hat?//(8.3,9.8)\\\\Alle sind ausgerastet, weißt du noch?//(9.8,39.8)\\\\Stell dir mal vor, so was passiert bei einer Operation.",
+            "es": "//(0,2.895)\\\\Estupendo. Ya estamos otra vez con el sintoísmo.//(2.895,5.098)\\\\¿Qué me dices de aquella ocasión en la que la computadora central se estropeó//(5.098,9.608)\\\\y KAI estaba confusa y se comportaba como un niño? Todo el mundo flipaba, ¿te acuerdas?//(9.608,39.608)\\\\Imagínate que pase eso durante una operación.",
+            "ru": "//(0,3)\\\\Отлично. Опять синтоизм.//(3,8.1)\\\\А что насчет того случая, когда из-за ошибки мейнфрейма KAI перестала понимать, что происходит, и вела себя, как маленький ребенок?//(8.1,10)\\\\Все с ума посходили, помнишь?//(10,40)\\\\А представь, что такое произойдет в разгар операции.",
+            "cn": "//(0,2.895)\\\\好吧，好吧，又是神道教那一套东西。//(2.895,7.75)\\\\那么上次主机故障而导致 KAI 行为程序出错，思维紊乱且变得像个小孩一样，又该怎么说？//(7.75,9.5)\\\\所有人都被吓坏了，还记得吗？//(9.5,39.5)\\\\你想想，如果是在手术时出现那样的事情......",
+            "tc": "//(0,2.895)\\\\好吧，好吧，又是神道教那一套東西。//(2.895,7.75)\\\\那麼上次主機故障而導致 KAI 行為程序出錯，思維紊亂且變得像個小孩一樣，又該怎麼說？//(7.75,9.5)\\\\所有人都被嚇壞了，還記得嗎？//(9.5,39.5)\\\\你想想，如果是在手術時出現那樣的事情......",
+            "jp": "//(0,2.895)\\\\ほらきた、 まーた神道の 話か...//(2.895,9.400834)\\\\前に、 メインフレームが 不具合起こして、 KAIが 赤ん坊みたいに なったとき、 大変だっただろ？//(9.400834,11.88381)\\\\オペ中に あんなことに なったらどうするんだ？"
+        }
+    }
+}

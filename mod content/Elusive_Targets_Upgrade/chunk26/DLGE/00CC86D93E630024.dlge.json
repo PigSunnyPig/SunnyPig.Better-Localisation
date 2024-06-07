@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/italy/1000_elusive/1000_mintjulep/1000_mintjulep_handler/dr1607_diana.sweetdialog?/dr1607_diana_diana_et_003.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr1607_diana_diana_et_003",
+        "soundtag": "Voiceover_Handler",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_mintjulep/1000_mintjulep_handler/dr1607_diana_diana_et_003.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_mintjulep/1000_mintjulep_handler/dr1607_diana_diana_et_003.animset].pc_animset",
+        "languages": {
+            "en": "//[DIANA_ET]\\\\//(0,1.85)\\\\Good afternoon, 47.//(1.85,5.4)\\\\The congressman has arrived at Villa Caruso along with his detail.//(5.4,9.8)\\\\Security is unusually high, especially with Caruso in residence.//(9.8,39.8)\\\\Take care. Good hunting, 47.",
+            "fr": "//[DIANA_ET]\\\\//(0,1.7)\\\\Bonjour, 47.//(1.7,5.7)\\\\Le député est arrivé à la Villa Caruso, accompagné de son entourage.//(5.7,10)\\\\La sécurité est particulièrement renforcée, notamment suite à la présence de Silvio Caruso.//(10,40)\\\\Soyez prudent. Bonne chasse, 47.",
+            "it": "//[DIANA_ET]\\\\//(0,1.6)\\\\Buonasera, 47.//(1.6,5.6)\\\\Il membro del Congresso è arrivato a Villa Caruso insieme al suo entourage.//(5.6,7.5)\\\\Le misure di sicurezza sono particolarmente strette,//(7.5,10)\\\\in particolare da quando Silvio Caruso è tornato a casa.//(10,11.2)\\\\Fai attenzione.//(11.2,41.2)\\\\Buona caccia, 47.",
+            "de": "//[DIANA_ET]\\\\//(0,5.523374)\\\\Guten Tag, 47. Der Abgeordnete und sein Tross sind in der Villa Caruso eingetroffen.//(5.523374,9.84245)\\\\Die Sicherheitsvorkehrungen sind ungewöhnlich hoch, vor allem weil Caruso anwesend ist.//(9.84245,11.31485)\\\\Seien Sie also vorsichtig.//(11.31485,41.31485)\\\\Waidmanns Heil, 47.",
+            "es": "//[DIANA_ET]\\\\//(0,1.724294)\\\\Buenas tardes, 47.//(1.724294,5.682)\\\\El congresista ha llegado a Villa Caruso junto a su cuerpo de seguridad.//(5.682,9.924)\\\\Hay mucha seguridad, sobre todo porque Silvio Caruso se encuentra ahí.//(9.924,11.129)\\\\Ten cuidado.//(11.129,41.129)\\\\Buena caza, 47.",
+            "ru": "//[DIANA_ET]\\\\//(0,1.724294)\\\\Добрый день, 47-й.//(1.724294,5.21908)\\\\Конгрессмен со своими людьми прибыл на виллу Карузо.//(5.21908,10)\\\\Сильвио Карузо сейчас в особняке, и охрана усилена до предела.//(10,40)\\\\Будь осторожен. Доброй охоты, 47-й.",
+            "cn": "//[DIANA_ET]\\\\//(0,5.6)\\\\下午好，47。国会议员及其随行人员已经到了卡鲁索庄园。//(5.6,10)\\\\安保特别严密，卡鲁索在庄园里时尤其如此。//(10,40)\\\\要多加小心。狩猎愉快，47。",
+            "tc": "//[DIANA_ET]\\\\//(0,5.6)\\\\午安，47。國會議員和其隨行人員已經來到了卡魯索的別墅。//(5.6,10)\\\\保全異常緊密，特別是在卡魯索的住處。//(10,40)\\\\要多加注意。狩獵愉快，47。",
+            "jp": "//[DIANA_ET]\\\\//(0,5.75)\\\\こんにちは、 47。 議員は 部下と 一緒にカルーソーの 屋敷に 到着したわ。//(5.75,11.04)\\\\カルーソー本人も いることから、 警備は 普段よりも 厳重だから 気を つけて。//(11.04,12.42379)\\\\成果を 期待して いるわね、47。"
+        }
+    }
+}

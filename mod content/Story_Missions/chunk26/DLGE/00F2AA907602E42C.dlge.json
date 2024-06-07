@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/italy/7000_mamba/7000_handler/ds7011_priestconclusion.sweetdialog?/ds7011_priestconclusion_diana_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds7011_priestconclusion_diana_001",
+        "soundtag": "Voiceover_Handler",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/7000_mamba/7000_handler/ds7011_priestconclusion_diana_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/7000_mamba/7000_handler/ds7011_priestconclusion_diana_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Well done, 47. I dare say \"divine intervention” is in order.",
+            "fr": "//(0,30)\\\\Bien joué, 47. Je crois qu'une \"intervention divine\" ne saurait plus tarder.",
+            "it": "//(0,30)\\\\Molto bene, 47. Quello che definirei un \"intervento divino\"...",
+            "de": "//(0,30)\\\\Gute Arbeit, 47. Ich glaube, „göttliche Intervention“ steht an.",
+            "es": "//(0,30)\\\\Bien hecho, 47. Sería conveniente hacer una \"intervención divina\".",
+            "ru": "//(0,1.356196)\\\\Отлично, 47-й.//(1.356196,31.3562)\\\\Думаю, самое время для божественного вмешательства.",
+            "cn": "//(0,30)\\\\干得好，47。这家伙很快就要受到「天罚」了。",
+            "tc": "//(0,30)\\\\幹得不錯，47。這傢伙很快就要受到「天罰」了。",
+            "jp": "//(0,30)\\\\よくやったわ、47。「神の介在」があったようね。"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/italy/10000_elusive/10000_capirinha/10000_capirinha_story/dr10616_argusqadino.sweetdialog?/dr10616_argusqadino_argus_et_002.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr10616_argusqadino_argus_et_002",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/10000_elusive/10000_capirinha/10000_capirinha_story/dr10616_argusqadino_argus_et_002.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/10000_elusive/10000_capirinha/10000_capirinha_story/dr10616_argusqadino_argus_et_002.animset].pc_animset",
+        "languages": {
+            "en": "//(0,5.1)\\\\What? You fucking Trekkie? Bloody hell Dino. Don’t know how you put up with that...//(5.1,10.3)\\\\But it’s funny you ask, being a big fan of Icon myself since I was a lad.//(10.3,14)\\\\And I asked him exactly the same thing... But you know.//(14,44)\\\\This is film making. It’s about the drama. It’s all about the drama.",
+            "fr": "//(0,2.6)\\\\Quoi ? T'es fan de Star Trek ?//(2.6,6.05)\\\\Putain, Dino. Je sais pas comment tu supportes ça...//(6.05,7.95)\\\\Mais c'est marrant que tu demandes,//(7.95,12.58)\\\\parce que je suis fan d'Icon depuis que je suis petit. Et je lui ai posé la même question...//(12.58,42.58)\\\\Mais bon. C'est du cinéma. La clé, c'est le drame. Tout ça repose là-dessus.",
+            "it": "//(0,2.699)\\\\Cosa? Non sarai come uno di quei fan di Star Trek?//(2.699,6)\\\\Per la miseria, Dino. Non so come fai a sopportare questa gente...//(6,10.1)\\\\Ma è buffo che tu lo chieda, perché anch'io sono un grande fan di Icon sin dai tempi dell'adolescenza.//(10.1,12.495)\\\\E gli ho fatto esattamente la stessa domanda...//(12.495,42.495)\\\\Ma questo è il mondo del cinema. Ruota tutto intorno alla drammaticità. Conta solo questo.",
+            "de": "//(0,2.6)\\\\Was? Sind Sie ein verdammter Trekkie?//(2.6,6)\\\\Verdammt, Dino, wie hältst du das bloß aus ...?//(6,10.2)\\\\Aber Ihre Frage ist interessant. Ich bin selbst seit meiner Kindheit ein Fan von Icon.//(10.2,12.5)\\\\Und ich habe ihm dieselbe Frage gestellt ...//(12.5,14.09239)\\\\Aber Sie wissen ja,//(14.09239,44.09239)\\\\hier wird ein Film gedreht. Und da muss es dramatisch sein. Drama ist das Allerwichtigste.",
+            "es": "//(0,5.967178)\\\\¿Qué? ¿Eres un trekkie? Maldita sea Dino. No sé cómo puedes soportarlo...//(5.967178,10.259)\\\\Pero tiene gracia que lo preguntes, porque yo mismo soy fan de Icono desde niño.//(10.259,12.567)\\\\Y le pregunté exactamente lo mismo...//(12.567,42.567)\\\\Pero estamos hablando de hacer películas. Lo que interesa es el drama. Todo se centra en el drama.",
+            "ru": "//(0,2.8)\\\\Что? Ты, что ли, из этих ботанов?//(2.8,5.6)\\\\Черт возьми, Дино. Как ты, вообще, это терпишь?//(5.6,10.6)\\\\Но, вообще, хороший вопрос, все-таки я с детства был большим поклонником Идола.//(10.6,14)\\\\И я спросил у него то же самое. Но знаешь что?//(14,44)\\\\Кино — это большой бизнес. Нужна драма. Всем нужна только драма.",
+            "cn": "//(0,5.404)\\\\什么？你是《星际迷航》粉丝？迪诺真见鬼。不知道你是怎么忍下来的......//(5.404,12.354)\\\\不过你这么问真有意思，我从小时候就是《偶像》的铁杆粉丝。我问了他几乎一样的事情......//(12.354,42.354)\\\\不过你懂的。这是在拍电影，这是戏剧效果，这全都是戏剧效果。",
+            "tc": "//(0,5.404)\\\\什麼？你是《星際迷航》粉絲？迪諾真見鬼。不知道你是怎麼忍下來的...... //(5.404,12.354)\\\\不過你這麼問真有意思，我從小時候就是《聖像》的鐵杆粉絲。我問了他幾乎一樣的事情......//(12.354,42.354)\\\\不過你懂的。這是在拍電影，這是戲劇效果，這全都是戲劇效果。",
+            "jp": "//(0,6.373863)\\\\なに？ 何言ってるんだ？ ディーノの 野郎め。 こんな事を 聞く奴の 気が 知れないね...//(6.373863,13.18476)\\\\しかし、 面白いことを 聞くな。 俺は ガキの 頃から アイコンの ファンなんだ。 それで彼に 全く同じことを//(13.18476,17.51535)\\\\聞いた... まあ、 これが 映画撮影だ。 ドラマなんだよ。"
+        }
+    }
+}

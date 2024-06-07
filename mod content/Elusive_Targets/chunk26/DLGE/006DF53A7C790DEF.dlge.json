@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/italy/1000_elusive/1000_mintjulep/1000_mintjulep_story/dr1602_library.sweetdialog?/dr1602_library_troutt_et_007.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr1602_library_troutt_et_007",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_mintjulep/1000_mintjulep_story/dr1602_library_troutt_et_007.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_mintjulep/1000_mintjulep_story/dr1602_library_troutt_et_007.animset].pc_animset",
+        "languages": {
+            "en": "//(0,3.335276)\\\\You can learn a lot about a man by looking at his books.//(3.335276,33.33528)\\\\There's nothing like a good spy thriller or something about the Fulda Gap.",
+            "fr": "//(0,3.59908)\\\\On en apprend beaucoup sur quelqu'un en fouillant dans ses livres.//(3.59908,33.59908)\\\\Rien ne vaut un bon roman d'espionnage ! Ou un bouquin sur la trouée de Fulda !",
+            "it": "//(0,3.276687)\\\\I libri dicono molto sul loro proprietario.//(3.276687,5.675767)\\\\Non c'è nulla di meglio di un buon romanzo di spionaggio!//(5.675767,35.67577)\\\\O sul varco di Fulda!",
+            "de": "//(0,30)\\\\Bücher sagen eine Menge über ihren Besitzer aus. Es geht nichts über 'nen guten Spionage-Thriller. Oder irgendwas über die Fulda-Lücke.",
+            "es": "//(0,3.167)\\\\Puedes saber muchas cosas de un hombre mirando sus libros.//(3.167,33.167)\\\\¡No hay nada como un buen novela de espías! ¡O algo sobre la Brecha de Fulda!",
+            "ru": "//(0,3.3)\\\\О человеке многое можно узнать, взглянув на его книги.//(3.3,5.3)\\\\Нет ничего лучше хорошего шпионского триллера!//(5.3,35.3)\\\\Или чего-нибудь о Фульдском коридоре.",
+            "cn": "//(0,3.335)\\\\通过阅读一个人的书，你可以了解到作者的很多方面。//(3.335,33.335)\\\\没有什么比一部精彩的谍战惊悚小说或是有关富尔达峡谷的故事更引人入胜了。",
+            "tc": "//(0,3.335)\\\\透過閱讀一個人的書，你就能夠了解很多關於他的資訊。//(3.335,33.335)\\\\沒有比一部優秀的間諜驚悚小說或有關富爾達峽谷故事更好看的書了。",
+            "jp": "//(0,5.004939)\\\\著書を 見れば、 その人の ことが よくわかる。 スパイものの スリラー小説や、 フルダギャップか//(5.004939,6.881792)\\\\何かの 話は 最高だ。"
+        }
+    }
+}

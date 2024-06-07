@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/italy/1000_elusive/1000_mintjulep/1000_mintjulep_story/dr1603_livingroom.sweetdialog?/dr1603_livingroom_troutt_et_006.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr1603_livingroom_troutt_et_006",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_mintjulep/1000_mintjulep_story/dr1603_livingroom_troutt_et_006.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_mintjulep/1000_mintjulep_story/dr1603_livingroom_troutt_et_006.animset].pc_animset",
+        "languages": {
+            "en": "//(0,1.974294)\\\\I am, yes.//(1.974294,4.18049)\\\\Oh, right!//(4.18049,34.18049)\\\\Ah, cream and sugar, please.",
+            "fr": "//(0,30)\\\\Oui, je suis américain ! Oh ! Ha, avec du lait et du sucre, s'il vous plaît.",
+            "it": "//(0,2.024294)\\\\Sì, sono americano!//(2.024294,4.124294)\\\\Ah, giusto!//(4.124294,34.12429)\\\\Con latte e zucchero, per favore!",
+            "de": "//(0,30)\\\\Bin ich, ja! Oh, richtig! Mit Sahne und Zucker bitte.",
+            "es": "//(0,1.086)\\\\¡Sí, soy americano!//(1.94,3.014)\\\\¡Ah, eso!//(4.42,34.42)\\\\Con nata y azúcar, por favor.",
+            "ru": "//(0,2.092393)\\\\Да, я из Штатов...//(2.092393,32.09239)\\\\А, ну да! С сахаром и сливками, пожалуйста.",
+            "cn": "//(0,1.974294)\\\\我是美国人，是的。//(1.974294,4.18049)\\\\哦，对了！啊，请加一些奶油和糖，谢谢。",
+            "tc": "//(0,1.974294)\\\\我是美國人，是的。//(1.974294,4.18049)\\\\哦，對了！啊，請加一些奶油和糖，謝謝。",
+            "jp": "//(0,30)\\\\俺はアメリカンだ。ああ、ってそっちか！ ハハハ、クリームと砂糖を入れてくれ。"
+        }
+    }
+}

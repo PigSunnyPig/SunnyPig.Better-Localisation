@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12775_infectremind.sweetdialog?/ds12775_infectremind_diana_ws_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds12775_infectremind_diana_ws_001",
+        "soundtag": "Voiceover_Handler",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12775_infectremind_diana_ws_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12775_infectremind_diana_ws_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,5.8)\\\\47! I've located the antidote for the Nabazov virus, in the Stem Cell storage facility.//(5.8,35.8)\\\\Mind you, there is only that one sample. Get to it, quickly.",
+            "fr": "//(0,5.8)\\\\47 ! J'ai réussi à localiser l'antidote au virus de Nabazov, il se trouve dans l'échantillothèque de cellules souches.//(5.8,35.8)\\\\Attention, il n'y a qu'une seule dose. Filez.",
+            "it": "//(0,5.8)\\\\Ho localizzato l'antidoto per il virus Nabazov, 47! Si trova nel deposito di cellule staminali,//(5.8,35.8)\\\\ma c'è soltanto un campione. Corri a recuperarlo e non commettere errori.",
+            "de": "//(0,5.8)\\\\47! Ich habe das Gegenmittel für das Nabazov-Virus gefunden. Es ist im Stammzellenlager.//(5.8,35.8)\\\\Aber Vorsicht, es ist nur eine einzige Dosis. Holen Sie sie, schnell!",
+            "es": "//(0,5.8)\\\\¡47! He encontrado el antídoto para el virus Nabazov, está en la unidad de almacenamiento de células madre.//(5.8,35.8)\\\\Por cierto, solo hay una muestra. Ve a por ella, corre.",
+            "ru": "//(0,5.8)\\\\47-й! Я обнаружила антидот к вирусу Набазова, он в хранилище стволовых клеток комплекса.//(5.8,35.8)\\\\Имей в виду, образец только один. Скорее достань его.",
+            "cn": "//(0,5.8)\\\\47！我已找到了纳巴佐夫病毒的解药，就在干细胞存储设施中。//(5.8,35.8)\\\\注意，只有那一份样本。赶紧去拿吧！",
+            "tc": "//(0,5.8)\\\\47！我已找到了納巴佐夫病毒的解藥，就在幹細胞存儲設施中。//(5.8,35.8)\\\\注意，只有那一份樣本。趕快去拿吧！",
+            "jp": "//(0,5.8)\\\\47！ ウイルスの 解毒剤の 在り処が わかったわ。 幹細胞の 保管施設よ。//(5.8,35.8)\\\\ただし、 サンプルは 1つだけ。 速やかに 手に 入れて ちょうだい。"
+        }
+    }
+}

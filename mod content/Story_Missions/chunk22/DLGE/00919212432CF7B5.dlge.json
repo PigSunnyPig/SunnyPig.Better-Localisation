@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/hokkaido/2400_mamushi/2400_handler/ds2402_targetid.sweetdialog?/ds2402_targetid_diana_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds2402_targetid_diana_001",
+        "soundtag": "Voiceover_Handler",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2400_mamushi/2400_handler/ds2402_targetid_diana_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2400_mamushi/2400_handler/ds2402_targetid_diana_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\That is Dmitri Fedorov, responsible for the deaths of 26 employees at his faulty fireworks factory.",
+            "fr": "//(0,2.3)\\\\C'est... Dmitri Fedorov,//(2.3,4.9)\\\\responsable de la mort de 26 des ouvriers//(4.9,6.844917)\\\\de ses usines de feux d'artifice précaires.",
+            "it": "//(0,2.4)\\\\Quello è Dmitri Fedorov,//(2.4,5.13)\\\\responsabile della morte di 26 dei suoi operai//(5.13,8.743271)\\\\presso la sua fabbrica di fuochi d'artificio non a norma.",
+            "de": "//(0,2.283022)\\\\Das ... ist Dmitri Fedorov,//(2.283022,4.692827)\\\\verantwortlich für den Tod von 26 Angestellten//(4.692827,6.844916)\\\\in seinen unfallträchtigen Feuerwerksfabriken.",
+            "es": "//(0,1.849043)\\\\Ese... es Dmitri Fedorov,//(1.849043,4.776631)\\\\responsable de la muerte de 26 empleados en su//(4.776631,6.844917)\\\\insegura fábrica de fuegos artificiales.",
+            "ru": "//(0,2.164874)\\\\Это... Дмитрий Федоров.//(2.164874,4.815742)\\\\По его вине на принадлежащей ему пиротехнической//(4.815742,6.844917)\\\\фабрике погибли 26 рабочих.",
+            "cn": "//(0,30)\\\\那人......就是德米特里·费多罗夫，他那安全性堪忧的烟火工厂夺走了 26 名员工的生命。",
+            "tc": "//(0,30)\\\\那人......就是德米特里・費德洛夫，他那充斥著安全隱患的煙火工廠造成了 26 名員工的死亡。",
+            "jp": "//(0,2.368)\\\\あれがドミトリー・フェドロフね。//(2.368,32.368)\\\\所有の不良花火工場で26人の死者を出した事故の責任者よ。"
+        }
+    }
+}

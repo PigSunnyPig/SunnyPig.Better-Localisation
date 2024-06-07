@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/italy/10000_elusive/10000_capirinha/10000_capirinha_story/dr10612_argusgaming.sweetdialog?/dr10612_argusgaming_argus_et_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr10612_argusgaming_argus_et_001",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/10000_elusive/10000_capirinha/10000_capirinha_story/dr10612_argusgaming_argus_et_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/10000_elusive/10000_capirinha/10000_capirinha_story/dr10612_argusgaming_argus_et_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Man, I love Kane and Lynch. That shit is real!",
+            "fr": "//(0,30)\\\\J'adore Kane & Lynch. Trop cool, ce jeu !",
+            "it": "//(0,30)\\\\Io adoro Kane e Linch. È una figata pazzesca!",
+            "de": "//(0,30)\\\\Mann, ich liebe Kane und Lynch. Das ist nämlich real!",
+            "es": "//(0,30)\\\\Tío, me encanta \"Kane and Lynch\". ¡Es muy real!",
+            "ru": "//(0,30)\\\\Ох, как же мне нравится «Kane and Lynch». Охренительная игра!",
+            "cn": "//(0,30)\\\\老兄，我喜欢《凯恩与林奇》。那游戏太真实了！",
+            "tc": "//(0,30)\\\\天啊，我喜歡《喋血雙雄》。那遊戲太真實了！",
+            "jp": "//(0,30)\\\\ケイン&リンチは最高だ。マジでいいな！"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/italy/1000_elusive/1000_mintjulep/1000_mintjulep_story/dr1604_phonecalls.sweetdialog?/dr1604_phonecalls_troutt_et_002.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr1604_phonecalls_troutt_et_002",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_mintjulep/1000_mintjulep_story/dr1604_phonecalls_troutt_et_002.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_mintjulep/1000_mintjulep_story/dr1604_phonecalls_troutt_et_002.animset].pc_animset",
+        "languages": {
+            "en": "//(0,3.028589)\\\\It's me. Go to secure, please.//(3.778589,4.946687)\\\\Good.//(4.946687,11.09577)\\\\A journalist has gotten my number. Peter Briekmann at Scuttlebutt. com.//(12.89577,16.97436)\\\\It's a gossip website?! Oh, great.//(16.97436,22.15153)\\\\Find out what, if anything, he knows, and make it go away.//(23.20153,53.20153)\\\\If you have to. Call me when it's done.",
+            "fr": "//(0,2.2)\\\\C'est moi. Passe en ligne sécurisée.//(3.7,4.7)\\\\Bien.//(5.1,6.8)\\\\Un journaliste a obtenu mon numéro.//(8,11.1)\\\\Peter Briekmann, de chez Bruits de couloir.//(13,16.1)\\\\Un site de ragots ? Ah ouais, super.//(17.4,21.5)\\\\Découvre s'il sait quelque chose et quoi, et débrouille-toi pour que ça n'aille pas plus loin.//(23.2,25.1)\\\\S'il le faut, oui.//(25.1,55.1)\\\\Appelle-moi quand ce sera fait.",
+            "it": "//(0,1.086196)\\\\Sono io.//(1.086196,2.746687)\\\\Passa in privato, per favore.//(3.696687,4.914785)\\\\Ottimo.//(4.914785,7.991472)\\\\Un giornalista ha avuto il mio numero.//(7.991472,10.83196)\\\\Peter Briekmann di Scuttlebutt. com.//(12.982,16.67869)\\\\È un sito di gossip? Ah, grandioso.//(16.67869,21.492)\\\\Verifica se e cosa ha scoperto e fallo sparire.//(23,25.01)\\\\Se necessario.//(25.01,55.01)\\\\Chiamami quando sarà tutto sistemato.",
+            "de": "//(0,2.840491)\\\\Ich bin's. Können wir reden?//(3.940491,6.817178)\\\\Gut. Ein Journalist hat meine Nummer rausgekriegt.//(7.567178,10.60767)\\\\Peter Briekmann von Scuttlebutt. com//(12.85767,16.05767)\\\\Ist das 'ne Klatschseite? Na bravo.//(17.45767,21.05767)\\\\Finden Sie raus, was er weiß und kümmern Sie sich um ihn.//(23.20767,24.15767)\\\\Wenn es sein muss.//(25.00767,55.00767)\\\\Melden Sie sich, wenn die Sache erledigt ist.",
+            "es": "//(0,1.995)\\\\Soy yo. Ve a un sitio seguro.//(3.81,4.309)\\\\Bien.//(4.879,6.843)\\\\Un periodista ha conseguido mi número.//(7.824,10.498)\\\\Peter Briekmann, de Scuttlebutt. com.//(12.861,15.881)\\\\¿Es una página de prensa rosa? Vaya, hombre.//(17.289,21.02)\\\\Descubre qué sabe, si es que sabe algo, y haz que desaparezca,//(23.07,23.836)\\\\si es necesario.//(25.008,55.008)\\\\Llámame cuando acabes.",
+            "ru": "//(0,1)\\\\Это я.//(1,4)\\\\Перейди на защищенную линию.//(4,5)\\\\Так.//(5,8)\\\\Мой номер оказался у журналиста.//(8,12.95)\\\\Некий Питер Брикманн из «скаттлбатт-точка-ком».//(12.95,17.4)\\\\Это сайт со слухами? Замечательно.//(17.4,23.3)\\\\Узнай, что ему известно, и разберись с этим делом.//(23.3,25.4)\\\\Если придется.//(25.4,55.4)\\\\Позвони, когда закончишь.",
+            "cn": "//(0,3.028)\\\\是我。请用保密线路，谢谢。/(3.778,7.566)\\\\很好。有个记者弄到了我的电话号码。//(7.566,11.1)\\\\Scuttlebutt.com的彼得·布里克曼。//(12.89577,16.97436)\\\\那是个八卦网站？！啊，这下可好了。//(16.97436,22.15153)\\\\查查那家伙都知道些什么，然后把他掌握的材料都处理掉。//(23.2,25.1)\\\\如果有必要的话。//(25.1,55.1)\\\\事情办完之后，打电话给我。",
+            "tc": "//(0,3.028)\\\\是我。請接通保全，謝謝。/(3.778,7.566)\\\\很好。有個記者找到了我的電話號碼。//(7.566,11.1)\\\\Scuttlebutt. com的彼得．布里克曼。//(12.89577,16.97436)\\\\那是個八卦網站？！啊，現在可好了。//(16.97436,22.15153)\\\\給我找出他都知道些什麼，然後把他掌握的材料都處理掉。//(23.2,25.1)\\\\如果有必要的話。//(25.1,55.1)\\\\事情搞定之後，打電話給我。",
+            "jp": "//(0,10.902)\\\\俺だ。 通話を 暗号化しろ。 よし。 ジャーナリストが 俺の 電話番号を つかんだ。 ゴシップウェブサイトの//(10.902,23.01534)\\\\ピーター・ ブリークマンだ。 そうか。 奴が 何を 知って いるのか 調査した上で、 仕事を やめさせろ。//(23.01534,26.30613)\\\\終わったら俺に 電話するんだ。"
+        }
+    }
+}

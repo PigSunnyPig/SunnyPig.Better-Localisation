@@ -1,0 +1,30 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/italy/1000_elusive/1000_corpsereviver/1000_corpsereviver_handler/1635_corpsereviverflyin.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "1635_corpsereviverflyin_diana_001",
+                "weight": 1.0,
+                "soundtag": "Voiceover_Handler",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_corpsereviver/1000_corpsereviver_handler/1635_corpsereviverflyin_diana_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_corpsereviver/1000_corpsereviver_handler/1635_corpsereviverflyin_diana_001.animset].pc_animset",
+                "languages": {
+                    "en": "//[DIANA]\\\\//(0,1.724294)\\\\Good afternoon, 47.//(1.724294,4.550982)\\\\Troutt and Magee have arrived in Sapienza.//(4.550982,6.765767)\\\\We know Troutt is at the Villa Caruso,//(6.765767,10.88724)\\\\but you'll have to find out where Magee will be making contact with Mr. Keeble.//(10.88724,15.02012)\\\\Security is unusually high, especially with Caruso in residence.//(15.02012,45.02012)\\\\Do be careful, 47.",
+                    "fr": "//[DIANA]\\\\//(0,1.356196)\\\\Bonjour, 47.//(1.356196,4.432883)\\\\Troutt et Magee sont arrivés à Sapienza.//(4.432883,6.6)\\\\Nous savons que Troutt loge à la villa Caruso,//(6.6,10.7)\\\\mais vous devez découvrir où Magee retrouvera M. Keeble.//(10.7,12.8)\\\\La sécurité est particulièrement renforcée,//(12.8,15.1)\\\\en raison notamment de la présence de Silvio Caruso.//(15.1,45.1)\\\\Soyez prudent, 47.",
+                    "it": "//[DIANA]\\\\//(0,1.724294)\\\\Buon pomeriggio, 47.//(1.724294,4.601)\\\\Troutt e Magee sono arrivati a Sapienza.//(4.601,6.8)\\\\Sappiamo che Troutt sta a Villa Caruso,//(6.8,11)\\\\ma devi trovare Magee mettendoti in contatto con Mr. Keeble.//(11,12.875)\\\\Le misure di sicurezza sono particolarmente strette,//(12.875,15)\\\\in particolare da quando Caruso è a casa.//(15,45)\\\\Fai attenzione, 47.",
+                    "de": "//[DIANA]\\\\//(0,1.824294)\\\\Guten Tag, 47.//(1.824294,4.550981)\\\\Troutt und Magee sind in Sapienza eingetroffen.//(4.550981,10.75)\\\\Wir wissen, dass sich Troutt in der Villa Caruso aufhält, aber Sie werden selbst herausfinden müssen, wo Magee in Kontakt mit Mr.  Keeble treten möchte.//(10.75,15.11442)\\\\Die Sicherheitsvorkehrungen sind ungewöhnlich hoch, vor allem wegen Carusos Anwesenheit.//(15.11442,45.11442)\\\\Seien Sie bloß vorsichtig, 47.",
+                    "es": "//[DIANA]\\\\//(0,1.724)\\\\Buenas tardes, 47.//(1.724,4.6)\\\\Troutt y Magee han llegado a Sapienza.//(4.6,6.8)\\\\Sabemos que Troutt está en Villa Caruso,//(6.8,10.8)\\\\pero tendrás que encontrar dónde contactará Magee con el señor Keeble.//(10.8,15)\\\\Hay mucha seguridad, sobre todo porque Silvio Caruso se encuentra ahí.//(15,45)\\\\Ten cuidado, 47.",
+                    "ru": "//[DIANA]\\\\//(0,1.724294)\\\\Добрый день, 47-й.//(1.724294,4.432883)\\\\Траутт и Маги прибыли в Сапиенцу.//(4.432883,6.817669)\\\\Нам известно, что Траутт находится на вилле Карузо,//(6.817669,10.93675)\\\\но где Маги встречается с мистером Киблом, тебе придется узнавать самостоятельно.//(10.93675,15.04822)\\\\Охрана сейчас усилена до предела, особенно с учетом того, что Карузо находится в своей резиденции.//(15.04822,45.04822)\\\\Будь крайне осторожен, 47-й.",
+                    "cn": "//[DIANA]\\\\//(0,4.22)\\\\下午好，47。特朗特与麦基已到达萨比恩撒。//(4.22,6.69)\\\\我们获悉特朗特正在卡鲁索庄园活动，//(6.69,10.4)\\\\但麦基和济博先生的接头地点还需要你自己找出来。//(10.4,15)\\\\安保特别严密，卡鲁索在庄园里时尤其如此。//(15,17)\\\\要多加小心，47。",
+                    "tc": "//[DIANA]\\\\//(0,4.22)\\\\午安，47。特羅特與馬吉已到達羅馬大學。//(4.22,6.69)\\\\我們知道特羅特正住在卡魯索別墅，//(6.69,10.4)\\\\但馬吉和齊伯先生的會面地點還需要你自己找出來。//(10.4,15)\\\\保全異常嚴密，尤其在卡魯索別墅更是如此。//(15,17)\\\\千萬要小心，47。",
+                    "jp": "//[DIANA]\\\\//(0,1.645)\\\\こんにちは、47。//(1.645,4.57)\\\\トロウトとマギーがサピエンツァに到着したわ。//(4.57,6.64)\\\\トロウトはヴィラ・カルーソーにいることが判明しているけど、//(6.64,10.835)\\\\マギーがキーブルと落ち合う場所は自力で突き止めないといけない。//(10.835,15.1)\\\\警備はいつになく厳重よ、カルーソーがいるから特にね。//(15.1,45.1)\\\\十分気をつけて、47。"
+                }
+            }
+        ]
+    }
+}

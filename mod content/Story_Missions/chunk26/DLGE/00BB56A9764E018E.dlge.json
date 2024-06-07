@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/italy/10000_elusive/10000_capirinha/10000_capirinha_story/dr10610_argusfan.sweetdialog?/dr10610_argusfan_argus_manager_et_011.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr10610_argusfan_argus_manager_et_011",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/10000_elusive/10000_capirinha/10000_capirinha_story/dr10610_argusfan_argus_manager_et_011.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/10000_elusive/10000_capirinha/10000_capirinha_story/dr10610_argusfan_argus_manager_et_011.animset].pc_animset",
+        "languages": {
+            "en": "//(0,6.15)\\\\You heard the man – now get your bloody arse out of here! This area is for VIPs only, okay?//(6.15,36.15)\\\\And don’t forget your crazy cat pictures or what ever is was you were on about.",
+            "fr": "//(0,3.4)\\\\Tu as entendu le monsieur. Dégage d'ici !//(3.4,7.05)\\\\C'est une zone réservée aux VIP, compris ?//(7.05,37.05)\\\\Et n'oublie pas tes saletés de photos de chat ou je ne sais quoi.",
+            "it": "//(0,3.231)\\\\L'hai sentito... Ora porta quel maledetto culo lontano da qui!//(3.231,7.009571)\\\\Quest'area è riservata ai VIP, capito?//(7.009571,37.00957)\\\\E non dimenticare le tue stupide foto del gatto o chissà quale altra idiozia.",
+            "de": "//(0,3.2)\\\\Sie haben den Mann gehört – bewegen Sie Ihren verdammten Arsch von hier weg!//(3.2,6)\\\\Hier haben nur VIPs Zutritt, okay?//(6.75,36.75)\\\\Und nehmen Sie Ihre Katzenbilder mit oder wovon Sie da auch immer gefaselt haben.",
+            "es": "//(0,6.823374)\\\\Ya lo has oído... ¡Ahora lárgate de aquí! Esto es la zona VIP, ¿vale?//(6.823374,36.82337)\\\\Y no olvides las malditas fotos de tu gato o lo que quiera que fuese.",
+            "ru": "//(0,6.2)\\\\Ты его слышал — вали отсюда! Это зона только для важных персон, понял?//(6.8,36.8)\\\\И не забудь фотки своего кота или что у тебя там.",
+            "cn": "//(0,6.15)\\\\你都听见了吧，现在赶紧滚蛋吧！这里是 VIP 专区明白吗？//(6.15,36.15)\\\\还有别忘记拿走你的那些猫片什么的。",
+            "tc": "//(0,6.15)\\\\你都聽見了吧，現在趕緊滾蛋吧！這裡是 VIP 專區明白嗎？//(6.15,36.15)\\\\還有別忘記拿走你的那些貓照片什麼的。",
+            "jp": "//(0,7.420875)\\\\それじゃ、 さっさとここから 出て 行くんだ！ ここは VIP以外立ち入り禁止。 わかったか？ それと、//(7.420875,11.13131)\\\\さっきの ネコの 写真みたいなくだらない話は もう忘れるんだ。"
+        }
+    }
+}

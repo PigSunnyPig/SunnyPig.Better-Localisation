@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12759_virusspread1.sweetdialog?/ds12759_virusspread1_diana_ws_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds12759_virusspread1_diana_ws_001",
+        "soundtag": "Voiceover_Handler",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12759_virusspread1_diana_ws_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12759_virusspread1_diana_ws_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Shit! 47, listen. I've registered another infected patient. The virus is spreading. I've shared the data with you.",
+            "fr": "//(0,3.807485)\\\\47, écoutez. J'ai repéré un autre patient infecté.//(3.807485,5.655025)\\\\Le virus se propage.//(5.655025,8.536959)\\\\Je viens de vous envoyer les données.",
+            "it": "//(0,30)\\\\Ascolta, 47. Ho rilevato un altro paziente infetto. Il virus si sta diffondendo. Ti ho inviato tutte le informazioni.",
+            "de": "//(0,30)\\\\47, hören Sie zu. Ich habe noch einen infizierten Patienten registriert. Das Virus breitet sich aus. Ich habe die Daten mit Ihnen geteilt.",
+            "es": "//(0,30)\\\\Escucha, 47. He registrado otro paciente contagiado. El virus se está propagando. He compartido la información contigo.",
+            "ru": "//(0,30)\\\\Слушай, 47-й. Я засекла еще одного зараженного. Вирус распространяется. Отправляю тебе данные.",
+            "cn": "//(0,7.035)\\\\该死！47，听好。我又发现了一名受感染的病人，病毒正在扩散中。//(7.035,30)\\\\我已将相关数据分享给你了。",
+            "tc": "//(0,7.035)\\\\該死！47，聽好。我又發現了一名受感染的病人，病毒正在擴散中。//(7.035,30)\\\\我已將相關資料分享給你了。",
+            "jp": "//(0,30)\\\\聞いて、 47。 もう1人、 別の 感染者が いることが わかったの。 ウイルスが 拡散してる。 データを 共有するわ。"
+        }
+    }
+}

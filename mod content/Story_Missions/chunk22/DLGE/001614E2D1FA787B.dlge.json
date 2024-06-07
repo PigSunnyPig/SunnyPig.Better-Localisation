@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12762_47infected.sweetdialog?/ds12762_47infected_diana_ws_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds12762_47infected_diana_ws_001",
+        "soundtag": "Voiceover_Handler",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12762_47infected_diana_ws_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12762_47infected_diana_ws_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\47, I... You're infected. You will need to find a solution for that.",
+            "fr": "//(0,3.256397)\\\\47, je... vous êtes contaminé.//(3.256397,6.640604)\\\\Il faut que vous trouviez une solution.",
+            "it": "//(0,30)\\\\Ascolta, 47, io... Sei infetto. Dobbiamo trovare subito una soluzione.",
+            "de": "//(0,30)\\\\47, ich ... Sie sind infiziert. Sie müssen dafür eine Lösung finden.",
+            "es": "//(0,30)\\\\47, escucha... Estás infectado. Vas a tener que encontrar una solución.",
+            "ru": "//(0,30)\\\\47-й, мне... Ты заразился. Надо что-то придумать.",
+            "cn": "//(0,30)\\\\47，我......你被感染了。你必须尽快想办法治好自己。",
+            "tc": "//(0,30)\\\\47，我......你被感染了。你必須儘快想辦法治好自己。",
+            "jp": "//(0,30)\\\\47... 感染... して しまったのね。 治療法を 探しましょう。"
+        }
+    }
+}

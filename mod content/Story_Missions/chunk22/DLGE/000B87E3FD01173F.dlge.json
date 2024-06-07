@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12765_targetsdownnotclear.sweetdialog?/ds12765_targetsdownnotclear_diana_ws_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds12765_targetsdownnotclear_diana_ws_001",
+        "soundtag": "Voiceover_Handler",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12765_targetsdownnotclear_diana_ws_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12765_targetsdownnotclear_diana_ws_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Target down. Well done, 47. I'm still registering infected at the facility, however. Once you've contained the situation, head for an exit.",
+            "fr": "//(0,0.9379872)\\\\Cible éliminée.//(0.9379872,2.7959)\\\\Bien joué, 47 ! En revanche,//(2.7959,8.014462)\\\\je détecte toujours des individus contaminés sur le site. Une fois que vous aurez réglé le problème,//(8.014462,9.23175)\\\\direction la sortie.",
+            "it": "//(0,30)\\\\Bersaglio eliminato. Ben fatto, 47. Tuttavia, rilevo altri infetti nella struttura. Risolvi il problema e cerca una via d'uscita.",
+            "de": "//(0,30)\\\\Ziel neutralisiert. Gut gemacht, 47. Allerdings registriere ich nach wie vor infizierte Personen in der Anlage. Sobald Sie die Lage geklärt haben, begeben Sie sich zum Ausgang.",
+            "es": "//(0,30)\\\\Objetivo abatido. Bien hecho, 47. Pero todavía registro infectados en las instalaciones. Una vez contenida la situación, busca la salida.",
+            "ru": "//(0,30)\\\\Цель уничтожена. Прекрасно, 47-й. Но в комплексе еще остались зараженные. Как только справишься с ситуацией, направляйся к выходу.",
+            "cn": "//(0,2.75)\\\\目标已被消灭。干得不错，47。//(2.75,6.35)\\\\然而，我发现设施里仍有受感染人员。//(6.35,30)\\\\当你控制住局势后，就前往出口撤退吧。",
+            "tc": "//(0,2.75)\\\\目標已被消滅。幹得不錯，47。//(2.75,6.35)\\\\然而，我發現設施裡仍有受感染人員。//(6.35,30)\\\\當你控制住局勢後，就前往出口撤退吧。",
+            "jp": "//(0,30)\\\\ターゲットダウン。 お見事よ、 47。 でも、 まだ院内に 感染者が 残って いるわ。 確実に 始末して、 脱出地点に 向かって ちょうだい。"
+        }
+    }
+}

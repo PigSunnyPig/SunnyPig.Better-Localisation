@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12752_dianahazmathint.sweetdialog?/ds12752_dianahazmathint_diana_ws_002.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds12752_dianahazmathint_diana_ws_002",
+        "soundtag": "Voiceover_Handler",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12752_dianahazmathint_diana_ws_002.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12752_dianahazmathint_diana_ws_002.animset].pc_animset",
+        "languages": {
+            "en": "//(0,5.2)\\\\47! Entering the isolation ward without a hazmat suit is extremely dangerous.//(5.2,35.2)\\\\You'll risk exposing yourself to the virus. That cannot happen, 47.",
+            "fr": "//(0,5.2)\\\\47! Entrer dans le quartier d'isolement sans combinaison de protection est extrêmement dangereux,//(5.2,35.2)\\\\vous risquez de vous exposer au virus. Protégez-vous, 47.",
+            "it": "//(0,5.2)\\\\Entrare nel reparto di isolamento senza una tuta anti-contagio//(5.2,35.2)\\\\è troppo pericoloso, 47. Non puoi correre il rischio di esporti al virus.",
+            "de": "//(0,5.2)\\\\47! Das Betreten der Isolierstation ohne Schutzanzug ist extrem gefährlich.//(5.2,35.2)\\\\Sie riskieren, dem Virus ausgesetzt zu werden. Das darf nicht passieren, 47.",
+            "es": "//(0,5.2)\\\\¡47! Entrar en el ala de aislamiento sin el traje de contención biológica es muy peligroso.//(5.2,35.2)\\\\Te arriesgas a exponerte al virus, y eso no puede suceder, 47.",
+            "ru": "//(0,5.2)\\\\47-й! Входить в изолятор без защитного костюма очень опасно.//(5.2,35.2)\\\\Ты рискуешь заразиться. Этого нельзя допустить, 47-й.",
+            "cn": "//(0,5.2)\\\\47！不穿生化防护服就进入隔离病房是极度危险的。//(5.2,35.2)\\\\你将暴露于病毒感染范围内。那样是万万不可的，47。",
+            "tc": "//(0,5.2)\\\\47！不穿生化防護服就進入隔離病房是極度危險的。//(5.2,35.2)\\\\你將暴露於病毒感染範圍內。那樣是萬萬不可的，47。",
+            "jp": "//(0,5.2)\\\\47！ 防護服を 着ずに 隔離病棟に 入るのは 危険よ。//(5.2,35.2)\\\\ウイルスに 感染するおそれが ある。 そんなこと、 あっては ならない。"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/italy/7000_mamba/7000_story/dr7082_guardcheckabiattichurch.sweetdialog?/dr7082_guardcheckabiattichurch_bdygrd02_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr7082_guardcheckabiattichurch_bdygrd02_001",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/7000_mamba/7000_story/dr7082_guardcheckabiattichurch_bdygrd02_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/7000_mamba/7000_story/dr7082_guardcheckabiattichurch_bdygrd02_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\You got a visual on the VIP?",
+            "fr": "//(0,30)\\\\T'as le VIP en visuel ?",
+            "it": "//(0,30)\\\\Riesci a vedere il cliente?",
+            "de": "//(0,30)\\\\Kannst du den VIP sehen?",
+            "es": "//(0,30)\\\\¿Ves al VIP?",
+            "ru": "//(0,30)\\\\Объект в поле зрения?",
+            "cn": "//(0,30)\\\\你看见 VIP 了吗？",
+            "tc": "//(0,30)\\\\你看見 VIP 了嗎？",
+            "jp": "//(0,30)\\\\VIPを見失ってないか？"
+        }
+    }
+}

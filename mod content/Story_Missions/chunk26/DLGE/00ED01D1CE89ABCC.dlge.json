@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/italy/7000_mamba/7000_handler/ds7010_priestbriefing.sweetdialog?/ds7010_priestbriefing_diana_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds7010_priestbriefing_diana_001",
+        "soundtag": "Voiceover_Handler",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/7000_mamba/7000_handler/ds7010_priestbriefing_diana_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/7000_mamba/7000_handler/ds7010_priestbriefing_diana_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,5.393374)\\\\According to church staff, Marco Abiatti wants to meet with local priest Father Francesco,//(5.393374,8.83816)\\\\a highly respected member of the Sapienza community.//(8.83816,11.8)\\\\But Francesco is trying his best to dodge him.//(11.8,16.55)\\\\In fact, the priest has spoken out harshly against Abiatti on several public occasions.//(16.55,46.55)\\\\I wouldn't mind being a fly on the wall when those two exchange blows.",
+            "fr": "//(0,1.75)\\\\À en croire le personnel de l'église,//(1.75,5.7)\\\\Marco Abiatti tient à rencontrer un prêtre local, le père Francesco,//(5.7,8.9)\\\\membre éminent de la communauté de Sapienza.//(8.9,11.9)\\\\Mais Francesco fait tout ce qui est en son pouvoir pour l'éviter.//(11.9,17.1)\\\\À dire vrai, le prêtre a même plusieurs fois prononcé en public des mots très durs envers Abiatti.//(17.1,47.1)\\\\Je donnerais cher pour être une petite souris quand ces deux-là se parleront à coeur ouvert.",
+            "it": "//(0,3.34)\\\\Il personale della chiesa sostiene che Marco Abiatti voglia incontrare//(3.34,5.371)\\\\il prete della parrocchia locale, padre Francesco,//(5.371,8.454)\\\\un membro rispettato della comunità di Sapienza.//(8.454,11.556)\\\\Tuttavia, Francesco sta tentando in ogni modo di evitarlo.//(11.556,16.502)\\\\A dirla tutta, il sacerdote ha più volte espresso pubblicamente giudizi molto severi su Abiatti.//(16.502,46.502)\\\\Non mi dispiacerebbe poter assistere a un loro dibattito.",
+            "de": "//(0,5.5)\\\\Laut des Kirchenpersonals will sich Abiatti mit Vater Francesco treffen,//(5.5,9)\\\\einem angesehenen Mitglied der Gemeinde Sapienza.//(9,12)\\\\Allerdings legt der Priester keinen sonderlich großen Wert auf dieses Treffen,//(12,17)\\\\da er Abiatti bereits mehrfach öffentlich kritisiert hat.//(17,47)\\\\Ich würde zu gern Mäuschen spielen, wenn die beiden aufeinandertreffen.",
+            "es": "//(0,5.681)\\\\Según el personal de la iglesia, Marco Abiatti quiere reunirse con el cura local, el padre Francesco,//(5.681,8.913884)\\\\un miembro muy respetado de la comunidad de Sapienza,//(8.913884,11.815)\\\\pero Francesco hace lo posible por evitarlo.//(11.815,16.98)\\\\De hecho, el cura ha hablado muy mal de Abiatti en público en varias ocasiones.//(16.98,46.98)\\\\No me importaría presenciar un uno-contra-uno entre esos dos a escondidas.",
+            "ru": "//(0,4.28908)\\\\В церкви говорят, что Марко Абиатти хочет встретиться с местным священником,//(4.28908,9)\\\\падре Франческо, которого очень уважают в Сапиенце.//(9,12)\\\\Однако священник всеми силами избегает этой встречи.//(12,17.15)\\\\В своих выступлениях он не раз проходился по моральному облику Абиатти.//(17.15,47.15)\\\\Я бы не отказалась подслушать, как эта парочка будет обмениваться ударами.",
+            "cn": "//(0,8.7)\\\\教堂工作人员说，马尔科·阿布亚蒂想和德高望重的萨比恩撒当地牧师弗朗西斯科神父见面。//(8.7,11.7)\\\\但弗朗西斯科正在尽全力避免和他见面。//(11.7,17.1)\\\\实际上，这位牧师曾多次在公开场合义正辞严地发表反对阿布亚蒂的言论。//(17.1,47.1)\\\\我很期待这两人交锋时上演的好戏看。",
+            "tc": "//(0,8.7)\\\\教堂工作人員說，馬爾柯．艾比亞迪想和德高望重的羅馬大學當地牧師法蘭西斯科神父見面。//(8.7,11.7)\\\\但法蘭西斯科正在盡全力避免和他見面。//(11.7,17.1)\\\\實際上，這位牧師曾多次在公開場合義正辭嚴地發表反對艾比亞迪的言論。//(17.1,47.1)\\\\我很期待這兩人交鋒時上演的好戲。",
+            "jp": "//(0,6.285003)\\\\教会の 職員に よると、 マルコ・ アビアッティは、 フランチェスコ神父に 会いたがって いるらしいわ。//(6.285003,12.57001)\\\\でも彼自身は アビアッティを 避けようと して いる。 これまでにも 何回か、 フランチェスコ神父が//(12.57001,18.06939)\\\\アビアッティを 痛烈に 批判したことが あったわ。 この2人の 対決が 実現するなら、//(18.06939,20.20367)\\\\こっそり居合わせたいものね。"
+        }
+    }
+}

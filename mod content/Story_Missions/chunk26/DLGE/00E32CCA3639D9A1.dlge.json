@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/italy/7000_mamba/7000_handler/ds7000_idabiatti.sweetdialog?/ds7000_idabiatti_diana_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds7000_idabiatti_diana_001",
+        "soundtag": "Voiceover_Handler",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/7000_mamba/7000_handler/ds7000_idabiatti_diana_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/7000_mamba/7000_handler/ds7000_idabiatti_diana_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\That is your target, Marco Abiatti.",
+            "fr": "//(0,30)\\\\Voici votre cible, Marco Abiatti.",
+            "it": "//(0,30)\\\\Quello è il tuo bersaglio, Marco Abiatti.",
+            "de": "//(0,30)\\\\Das ist Ihr Ziel. Marco Abiatti.",
+            "es": "//(0,30)\\\\Ese es tu objetivo, Marco Abiatti.",
+            "ru": "//(0,30)\\\\Это твоя цель. Марко Абиатти.",
+            "cn": "//(0,30)\\\\那就是你的目标，马尔科·阿布亚蒂。",
+            "tc": "//(0,30)\\\\那就是你的目標，馬爾柯．艾比亞迪。",
+            "jp": "//(0,30)\\\\あれが標的のマルコ・アビアッティよ。"
+        }
+    }
+}

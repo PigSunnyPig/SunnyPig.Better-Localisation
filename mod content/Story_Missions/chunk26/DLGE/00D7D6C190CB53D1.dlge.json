@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/italy/10000_elusive/10000_capirinha/10000_capirinha_story/dr10614_argusbreakthrough.sweetdialog?/dr10614_argusbreakthrough_argus_manager_et_006.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr10614_argusbreakthrough_argus_manager_et_006",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/10000_elusive/10000_capirinha/10000_capirinha_story/dr10614_argusbreakthrough_argus_manager_et_006.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/10000_elusive/10000_capirinha/10000_capirinha_story/dr10614_argusbreakthrough_argus_manager_et_006.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Look. I’ll get all this sorted out. The charges will go away. We’ll get it back on rails again. Trust me!",
+            "fr": "//(0,3.9)\\\\Écoute. Je vais arranger ça. Ils vont abandonner les poursuites.//(3.9,33.9)\\\\Tout va rentrer dans l'ordre. Promis !",
+            "it": "//(0,3.783)\\\\Senti, vedrai che risolveremo questa faccenda. Le accuse cadranno.//(3.783,33.783)\\\\Rimetteremo tutto sui binari giusti. Fidati!",
+            "de": "//(0,1.7)\\\\Hören Sie, ich kriege das hin.//(1.7,3.8)\\\\Man wird die Anklage fallen lassen.//(3.8,33.8)\\\\Wir kommen wieder auf die Füße. Vertrauen Sie mir!",
+            "es": "//(0,30)\\\\Mira, voy a resolverlo todo. Haré que retiren los cargos. Pronto todo volverá a la normalidad. ¡Confía en mí!",
+            "ru": "//(0,30)\\\\Слушай. Я все решу. Все обвинения снимут. Все будет, как раньше. Поверь мне!",
+            "cn": "//(0,1.7)\\\\听着，我要把这件事弄清楚。//(1.7,33.9)\\\\费用都会解决的，我们会让它重归正轨的。相信我。",
+            "tc": "//(0,1.7)\\\\聽著，我要把這件事弄清楚。//(1.7,33.9)\\\\費用都會解決的，我們會讓它重歸正軌的。相信我。",
+            "jp": "//(0,30)\\\\まあ、 私が 何とかしますから。 罪は 許されるものですよ。 また仕事に 戻れますから。 信じて ください！"
+        }
+    }
+}

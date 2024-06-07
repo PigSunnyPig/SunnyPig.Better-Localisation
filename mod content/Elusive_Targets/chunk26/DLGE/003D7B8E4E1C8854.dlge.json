@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/italy/1000_elusive/1000_piscosour/1000_piscosour_story/dr1639_cubicpainting.sweetdialog?/dr1639_cubicpainting_gonzales_et_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr1639_cubicpainting_gonzales_et_001",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_piscosour/1000_piscosour_story/dr1639_cubicpainting_gonzales_et_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_piscosour/1000_piscosour_story/dr1639_cubicpainting_gonzales_et_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0.95,30.95)\\\\What is this, even? Needs a sign saying “vomit here.”",
+            "fr": "//(0,30)\\\\Ça représente quoi ? Faudrait rajouter une pancarte : \"Pour vomir, c'est ici\".",
+            "it": "//(0,2.654294)\\\\E questo cos'è?//(2.654294,32.65429)\\\\Serve un cartello con su scritto \"vomitare qui\".",
+            "de": "//(0,2.340491)\\\\Was soll das überhaupt sein?//(2.340491,32.34049)\\\\Ein Brechmittel?",
+            "es": "//(0,30)\\\\¿Pero eso qué es? Deberían colgar un cartel que ponga \"vomitar aquí\".",
+            "ru": "//(0,3)\\\\Что это за хрень?//(3,33)\\\\Тут надо табличку поставить: «блевать здесь».",
+            "cn": "//(0,30)\\\\这到底是什么？它需要写一个「请在此呕吐」的标语才行。",
+            "tc": "//(0,30)\\\\這到底是什麼？它需要寫一個「請在此嘔吐」的標語才對。",
+            "jp": "//(0,30)\\\\これは一体なんだ？ 「ここで吐いてください」って看板がいるな。"
+        }
+    }
+}

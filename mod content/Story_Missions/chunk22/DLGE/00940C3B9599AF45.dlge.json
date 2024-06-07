@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12757_targetsdownallclear.sweetdialog?/ds12757_targetsdownallclear_diana_ws_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds12757_targetsdownallclear_diana_ws_001",
+        "soundtag": "Voiceover_Handler",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12757_targetsdownallclear_diana_ws_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12757_targetsdownallclear_diana_ws_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Target eliminated. Well done, 47! Nobody else is infected. We've managed to contain the virus. Head for an exit as soon as you can.",
+            "fr": "//(0,1.131936)\\\\Cible éliminée.//(1.131936,4.048118)\\\\Bien joué, 47 ! Plus personne n'est contaminé,//(4.048118,6.865318)\\\\nous avons réussi à endiguer le virus.//(6.865318,9.118292)\\\\À présent, direction la sortie.",
+            "it": "//(0,30)\\\\Bersaglio eliminato. Ben fatto, 47! Non restano altri infetti. Siamo riusciti a contenere il virus. Ora non ti resta che trovare una via di fuga.",
+            "de": "//(0,30)\\\\Ziel eliminiert. Gut gemacht, 47! Es wurde sonst niemand infiziert. Wir konnten das Virus eindämmen. Begeben Sie sich so schnell wie möglich zum Ausgang.",
+            "es": "//(0,30)\\\\Objetivo eliminado. ¡Bien hecho, 47! Nadie más ha sido infectado. Hemos podido contener el virus. Dirígete a una salida cuanto antes.",
+            "ru": "//(0,30)\\\\Цель устранена. Отлично, 47-й! Больше зараженных нет. Мы смогли сдержать вирус. Направляйся к выходу как можно скорее.",
+            "cn": "//(0,3.192)\\\\目标已被消灭。做得好，47！//(3.192,7.15)\\\\再也没有其他感染者了，我们已经成功抑制住了病毒的传播。//(7.15,30)\\\\请尽快前往出口吧。",
+            "tc": "//(0,3.192)\\\\目標已被消滅。做得好，47！//(3.192,7.15)\\\\再也沒有其他感染者了，我們已經成功抑制住了病毒的傳播。//(7.15,30)\\\\請儘快前往出口吧。",
+            "jp": "//(0,30)\\\\排除完了。 さすがよ、 47！ 感染者は もういない。 ウイルスの 封じ込めは 成功よ。 出口に 向かって ちょうだい。"
+        }
+    }
+}

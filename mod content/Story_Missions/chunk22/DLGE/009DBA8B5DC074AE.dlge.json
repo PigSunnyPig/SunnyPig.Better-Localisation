@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12756_liebleiddead.sweetdialog?/ds12756_liebleiddead_diana_ws_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds12756_liebleiddead_diana_ws_001",
+        "soundtag": "Voiceover_Handler",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12756_liebleiddead_diana_ws_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12756_liebleiddead_diana_ws_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Target kill confirmed. Well done, 47. Time to wrap this up.",
+            "fr": "//(0,1.659959)\\\\Élimination de la cible confirmée.//(1.659959,2.267205)\\\\Beau travail,//(2.267205,3.751204)\\\\47. Terminez la mission,//(3.751204,4.751204)\\\\à présent.",
+            "it": "//(0,30)\\\\Uccisione confermata. Ben fatto, 47. È ora di chiudere la questione.",
+            "de": "//(0,30)\\\\Ziel neutralisiert. Gut gemacht, 47. Bringen Sie's zu Ende.",
+            "es": "//(0,30)\\\\Baja del objetivo confirmada. ¡Bien hecho, 47! Hora de irse.",
+            "ru": "//(0,30)\\\\Подтверждаю убийство цели. Прекрасно, 47-й. Пора закругляться.",
+            "cn": "//(0,30)\\\\已确认目标死亡。干得不错，47。该是时候做个了断了。",
+            "tc": "//(0,30)\\\\已確認目標死亡。幹得不錯，47。該是時候做個了斷了。",
+            "jp": "//(0,30)\\\\ターゲットダウン。 よくやったわ、 47。 終わらせましょう。"
+        }
+    }
+}

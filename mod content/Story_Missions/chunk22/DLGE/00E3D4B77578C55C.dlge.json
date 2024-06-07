@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12761_virusspreadexplosive.sweetdialog?/ds12761_virusspreadexplosive_diana_ws_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds12761_virusspreadexplosive_diana_ws_001",
+        "soundtag": "Voiceover_Handler",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12761_virusspreadexplosive_diana_ws_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12761_virusspreadexplosive_diana_ws_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\47, I have new information. We've registered a rather large rise in the number of infected. You know what to do.",
+            "fr": "//(0,2.123946)\\\\47, j'ai de nouvelles informations.//(2.123946,5.415306)\\\\Nous avons remarqué une brusque augmentation du nombre d'infections.//(5.415306,7.117917)\\\\Vous savez quoi faire.",
+            "it": "//(0,30)\\\\Ci sono novità, 47. Abbiamo rilevato una crescita repentina nel numero di infetti. Sai come procedere.",
+            "de": "//(0,30)\\\\47, ich habe neue Informationen. Wir registrieren einen ziemlich großen Anstieg bei der Anzahl der Infizierten. Sie wissen, was zu tun ist.",
+            "es": "//(0,30)\\\\47, tengo más información. Hemos registrado un aumento importante del número de infectados. Ya sabes qué hacer.",
+            "ru": "//(0,30)\\\\Есть новые данные, 47-й. Мы регистрируем большое количество новых инфицированных. Ты знаешь, что делать.",
+            "cn": "//(0,2.25)\\\\47，我得到了新情报。//(2.25,30)\\\\我们发现受感染者数量正在大幅增加，你知道该怎么办的。",
+            "tc": "//(0,2.25)\\\\47，我得到了新情報。//(2.25,30)\\\\我们发现受感染者數量正在大幅增加，你知道該怎麼辦的。",
+            "jp": "//(0,30)\\\\47、 新しい情報よ。 どうやら感染者が 急増してる。 やるべきことを やって ちょうだい。"
+        }
+    }
+}

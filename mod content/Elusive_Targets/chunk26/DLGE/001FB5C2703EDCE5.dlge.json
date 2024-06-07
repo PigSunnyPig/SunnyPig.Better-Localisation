@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/italy/1000_elusive/1000_mintjulep/1000_mintjulep_story/dr1605_vincellar.sweetdialog?/dr1605_vincellar_troutt_et_003.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr1605_vincellar_troutt_et_003",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_mintjulep/1000_mintjulep_story/dr1605_vincellar_troutt_et_003.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_mintjulep/1000_mintjulep_story/dr1605_vincellar_troutt_et_003.animset].pc_animset",
+        "languages": {
+            "en": "//(0,2.830491)\\\\Mm, not bad, I suppose.//(2.830491,32.83049)\\\\The air seems a little cool, though.",
+            "fr": "//(0,30)\\\\Hmm, pas mal, je dirais. Enfin, l'ambiance m'a l'air un peu fraîche.",
+            "it": "//(0,2.730491)\\\\Uhm, niente male, si direbbe.//(2.730491,32.73049)\\\\La temperatura è troppo bassa, però.",
+            "de": "//(0,2.674294)\\\\Hmm, nicht übel.//(2.674294,32.67429)\\\\Aber ein bisschen zu kühl, würde ich sagen.",
+            "es": "//(0,1.387)\\\\Mmm, no está mal, supongo.//(2.534,32.534)\\\\Aunque parece que el aire está un poco frío.",
+            "ru": "//(0,2.700491)\\\\Хм-м, что ж, неплохо, наверное.//(2.700491,32.70049)\\\\Правда, немного прохладно.",
+            "cn": "//(0,2.830491)\\\\嗯，还挺像回事的。//(2.830491,32.83049)\\\\不过，这里的气温似乎有点低了。",
+            "tc": "//(0,2.830491)\\\\嗯，好像還挺不錯的。//(2.830491,32.83049)\\\\但是，這裡的氣溫似乎太冷了一點。",
+            "jp": "//(0,30)\\\\ふむ、悪くないな。だが、空気が少し冷えているか。"
+        }
+    }
+}

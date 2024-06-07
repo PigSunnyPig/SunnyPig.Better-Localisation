@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12758_alltargetsdown.sweetdialog?/ds12758_alltargetsdown_diana_ws_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds12758_alltargetsdown_diana_ws_001",
+        "soundtag": "Voiceover_Handler",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12758_alltargetsdown_diana_ws_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12758_alltargetsdown_diana_ws_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,8.25)\\\\That's the last target, 47. Well done. However, you cannot leave before you've taken care of the infection you are carrying.//(8.25,38.25)\\\\You'll have to find the vaccine created by Dr. Liebleid.",
+            "fr": "//(0,8.25)\\\\C'était la dernière cible, 47. Bien joué. En revanche, vous ne pouvez pas partir avant de vous être guéri.//(8.25,38.25)\\\\Vous devez trouver le traitement mis au point par le docteur Liebleid.",
+            "it": "//(0,8.25)\\\\Quello era l'ultimo bersaglio, 47. Ottimo lavoro. Ma non puoi andartene da lì con il virus in circolo.//(8.25,38.25)\\\\Devi trovare il vaccino creato dal dottor Liebleid.",
+            "de": "//(0,8.25)\\\\Das war das letzte Ziel, 47. Gut gemacht. Aber Sie können erst weg, wenn Sie sich um die Infektion gekümmert haben, die Sie in sich tragen.//(8.25,38.25)\\\\Sie müssen den Impfstoff finden, den Dr. Liebleid entwickelt hat.",
+            "es": "//(0,8.25)\\\\Ese era el último objetivo, 47. Bien hecho. Pero no puedes irte antes de ocuparte de la infección que portas.//(8.25,38.25)\\\\Tendrás que encontrar la vacuna que fabricó el doctor Liebleid.",
+            "ru": "//(0,8.25)\\\\Это последняя цель, 47-й. Так держать. Но, ты не можешь уйти, пока не разберешься с инфекцией.//(8.25,38.25)\\\\Найди вакцину, которую создал доктор Либляйд.",
+            "cn": "//(0,3.35)\\\\最后一名目标已被消灭，47。干得不错。//(3.35,8.25)\\\\不过，你必须先处理好身上所感染的病毒才能离开 —— 你将需要找到利布莱德博士所研制的疫苗。",
+            "tc": "//(0,3.35)\\\\最後一名目標已被消滅，47。幹得不錯。//(3.35,8.25)\\\\不過，你必須先處理好身上所感染的病毒才能離開 —— 你將需要找到利布萊德博士所研製的疫苗。",
+            "jp": "//(0,30)\\\\今ので 最後よ、 47。 よくやった。 ただし、 あなたが 保有して いるウイルスを なんとかするまで、 脱出するわけには いかない。 リーブリード博士が 作って いたワクチンを 探して。"
+        }
+    }
+}

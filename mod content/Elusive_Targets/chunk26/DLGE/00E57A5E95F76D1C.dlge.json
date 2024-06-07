@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/italy/1000_elusive/1000_mintjulep/1000_mintjulep_story/dr1605_vincellar.sweetdialog?/dr1605_vincellar_troutt_et_002.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr1605_vincellar_troutt_et_002",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_mintjulep/1000_mintjulep_story/dr1605_vincellar_troutt_et_002.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_mintjulep/1000_mintjulep_story/dr1605_vincellar_troutt_et_002.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\The family estate in Maine has been making wines for a hundred years, so I know a bit about wine, yes.",
+            "fr": "//(0,4.9)\\\\Notre domaine familial dans le Maine comprend un vignoble, en effet, alors...//(4.9,34.9)\\\\j'imagine que je m'y connais un peu, oui.",
+            "it": "//(0,5.055276)\\\\La mia tenuta di famiglia nel Maine produce vini da secoli, per cui...//(5.055276,35.05527)\\\\ho una discreta conoscenza, già.",
+            "de": "//(0,30)\\\\Wir bauen auf unserem Familienanwesen in Maine seit 100 Jahren Wein an, insofern – ja, ich weiß ein bisschen was über Weine.",
+            "es": "//(0,30)\\\\La finca familiar de Maine lleva cien años produciendo vinos, así que sé un poco sobre vino, sí.",
+            "ru": "//(0,5.2)\\\\У моей семьи поместье в штате Мэн, где вина делают уже сто лет, так-что...//(5.2,35.2)\\\\Кое-что я в этом понимаю, да.",
+            "cn": "//(0,30)\\\\我在缅因州的家族资产已经拥有一百多年的酿酒历史，所以我对酒，确实是略知一二。",
+            "tc": "//(0,30)\\\\我在緬因州的家族資產已經釀了一百多年的酒呢，所以我對酒，確實是略知一二。",
+            "jp": "//(0,5.075397)\\\\メイン州に あるうちの 屋敷は、 百年間ワインを 作り続けて いる。 だからワインの ことは//(5.075397,6.798917)\\\\少々知ってるぞ。"
+        }
+    }
+}
