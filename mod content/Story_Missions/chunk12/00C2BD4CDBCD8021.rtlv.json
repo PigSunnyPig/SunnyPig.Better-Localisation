@@ -1,0 +1,19 @@
+{
+    "$schema": "https://tonytools.win/schemas/rtlv.schema.json",
+    "hash": "00C2BD4CDBCD8021",
+    "videos": {
+        "en": "00B1F19022F28098"
+    },
+    "subtitles": {
+        "xx": "//[GREY]\\\\//(0,1.572992)\\\\Olivia has found something interesting.//(1.572992,2.572992)\\\\I'll tell you on the way...//[47]\\\\//(0,1)\\\\Where are we going?//[GREY]\\\\//(0,7)\\\\Paradise.",
+        "en": "//[GREY]\\\\//(15,20.6)\\\\Olivia has found something interesting. I'll tell you on the way...//[47]\\\\//(20.6,22.3)\\\\- Where are we going?//[GREY]\\\\//(22.3,25)\\\\- To paradise, 47.",
+        "fr": "//[GREY]\\\\//(15,20.6)\\\\Olivia a trouvé quelque chose d'intéressant. Je te dirai ça en chemin.//[47]\\\\//(20.6,22.3)\\\\- Où allons-nous ?//[GREY]\\\\//(22.3,25)\\\\- Au paradis, 47.",
+        "it": "//[GREY]\\\\//(15,20.6)\\\\Olivia ha scoperto qualcosa di interessante. Te lo racconto per strada...//[47]\\\\//(20.6,22.3)\\\\- Dove stiamo andando?//[GREY]\\\\//(22.3,25)\\\\- In paradiso, 47.",
+        "de": "//[GREY]\\\\//(15,20.6)\\\\Olivia hat etwas Interessantes herausgefunden. Ich erzähle es Ihnen unterwegs ...//[47]\\\\//(20.6,22.3)\\\\- Wohin geht es?//[GREY]\\\\//(22.3,25)\\\\- Ins Paradies, 47.",
+        "es": "//[GREY]\\\\//(15,20.6)\\\\Olivia ha encontrado algo interesante. Te lo contaré de camino...//[47]\\\\//(20.6,22.3)\\\\- ¿Adónde vamos?//[GREY]\\\\//(22.3,25)\\\\- Al paraíso, 47.",
+        "ru": "//[GREY]\\\\//(15,20.6)\\\\Оливия нашла кое-что любопытное. Расскажу по дороге...//[47]\\\\//(20.6,22.3)\\\\- Куда мы идем?//[GREY]\\\\//(22.3,25)\\\\- В рай, 47-й.",
+        "cn": "//[GREY]\\\\//(15,20.6)\\\\奥莉薇娅发现了一些有趣的东西。我在路上再告诉你......//[47]\\\\//(20.6,22.3)\\\\- 我们要去什么地方？//[GREY]\\\\//(22.3,25)\\\\- 去天堂，47。",
+        "tc": "//[GREY]\\\\//(15,20.6)\\\\奧利維亞發現了一些有趣的東西。我在路上再告訴你......//[47]\\\\//(20.6,22.3)\\\\- 我們要去哪？//[GREY]\\\\//(22.3,25)\\\\- 去天堂，47。",
+        "jp": "//[GREY]\\\\//(15,20.6)\\\\オリヴィアがおもしろいものを見つけたぞ。道中で話そう...//[47]\\\\//(20.6,22.3)\\\\どこへ向かう気だ？//[GREY]\\\\//(22.3,25)\\\\パラダイスさ、47。"
+    }
+}
