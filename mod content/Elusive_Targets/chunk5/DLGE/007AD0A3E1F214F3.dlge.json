@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/elegant/llama/44000_elusive/44000_clerico/44000_clerico_handler/ds44551_missiondone.sweetdialog?/ds44551_missiondone_diana_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds44551_missiondone_diana_001",
+        "soundtag": "Voiceover_Handler",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/elegant/llama/44000_elusive/44000_clerico/44000_clerico_handler/ds44551_missiondone_diana_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/elegant/llama/44000_elusive/44000_clerico/44000_clerico_handler/ds44551_missiondone_diana_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,1.7)\\\\Target eliminated.//(1.7,31.7)\\\\Expect the client's payment, and a tasteful thank you card, shortly.",
+            "fr": "//(0,30)\\\\Cible éliminée. Vous recevrez le paiement accompagné d'une carte de remerciements très bientôt.",
+            "it": "//(0,30)\\\\Bersaglio eliminato. A breve ti verrà inviato il pagamento della cliente, corredato da un appropriato biglietto di ringraziamento.",
+            "de": "//(0,1.7)\\\\Ziel neutralisiert.//(1.7,3.4)\\\\Rechnen Sie umgehend mit der Zahlung der Klientin,//(3.4,33.4)\\\\begleitet von einer geschmackvollen Dankeskarte.",
+            "es": "//(0,30)\\\\Objetivo eliminado. Pronto te llegará el pago del cliente y una bonita tarjeta de agradecimiento.",
+            "ru": "//(0,1.79)\\\\Цель устранена.//(1.79,31.79)\\\\Клиентка вскоре отправит деньги и стильную открытку с благодарностью.",
+            "cn": "//(0,1.7)\\\\目标已消灭。//(1.7,31.7)\\\\你很快会收到客户汇来的报酬，并附带着一张精美的感谢卡片。",
+            "tc": "//(0,1.7)\\\\目標已消滅。//(1.7,31.7)\\\\你很快會收到客戶匯來的報酬，並附帶著一張精美的感謝卡片。",
+            "jp": "//(0,30)\\\\ターゲット排除完了。クライアントからの支払とお礼状はすぐに届くはずよ。"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/elegant/llama/44000_story/dr44008_expo_providenceoperativestalkkronstadt.sweetdialog?/dr44008_expo_providenceoperativestalkkronstadt_civfem09_004.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr44008_expo_providenceoperativestalkkronstadt_civfem09_004",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/elegant/llama/44000_story/dr44008_expo_providenceoperativestalkkronstadt_civfem09_004.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/elegant/llama/44000_story/dr44008_expo_providenceoperativestalkkronstadt_civfem09_004.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Anyway, Kronstadt stays in the \"family\". Same as the other assets.",
+            "fr": "//(0,30)\\\\Bref, Kronstadt reste dans la \"famille\". Comme les autres atouts.",
+            "it": "//(0,30)\\\\Comunque, la Kronstadt rimane in \"famiglia\". Così come le altre risorse.",
+            "de": "//(0,30)\\\\Jedenfalls bleibt Kronstadt in der „Familie“. Genau wie unsere anderen Anlagen.",
+            "es": "//(0,30)\\\\En fin, que Kronstadt se mantiene en la «familia». Igual que los otros activos.",
+            "ru": "//(0,2.828589)\\\\В общем, «Кронштадт» остался в «семье».//(2.828589,32.82859)\\\\Как и остальные активы.",
+            "cn": "//(0,30)\\\\无论如何，喀琅施塔得留在了「家人」手中，就跟其他资产一样。",
+            "tc": "//(0,30)\\\\不管怎樣，喀琅施塔得待在「家族」裡，就跟其他資產一樣。",
+            "jp": "//(0,30)\\\\どちらにしろ、クローンシュタットは「ファミリー」に残る。ほかの資産も同様よ。"
+        }
+    }
+}

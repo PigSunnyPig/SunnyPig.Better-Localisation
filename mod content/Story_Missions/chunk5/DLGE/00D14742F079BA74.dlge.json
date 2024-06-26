@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/elegant/frangipani/44000_pdlc_frangipani/pdlc44001_intro2.sweetdialog?/pdlc44001_intro2_frangipani_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "pdlc44001_intro2_frangipani_001",
+        "soundtag": "Voiceover_Handler_Sins",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44001_intro2_frangipani_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44001_intro2_frangipani_001.animset].pc_animset",
+        "languages": {
+            "en": "//[FRANGIPANI]\\\\//(0,7.1)\\\\Gifted kids like you think they can coast forever on their early successes. It's sad.//(7.1,13.7)\\\\They do shit just because they're already good, not because they're hungry for it.//(13.7,17)\\\\Your opponent? He's hungry for it.//(17,48)\\\\What about you? Is this what you want, or is it just what you know?",
+            "fr": "//[FRANGIPANI]\\\\//(0,7.3)\\\\Les gamins talentueux comme vous croient pouvoir se reposer sur leurs capacités... C'est triste.//(7.3,13.5)\\\\Ils font ce qu'ils font parce qu'ils sont déjà bons, pas parce qu'ils en veulent.//(13.5,43.5)\\\\Votre adversaire en veut, lui. Et vous ? Est-ce que vous en voulez, ou est-ce que vous ne faites que savoir ?",
+            "it": "//[FRANGIPANI]\\\\//(0,5.68)\\\\I bambini prodigio come te pensano di poter riposare sugli allori dei loro primi successi.//(5.68,7.5)\\\\Che tristezza.//(7.5,13.75)\\\\Fanno le cose solo perché sono già bravi, e non perché hanno fame di successo.//(13.75,17.25)\\\\Il tuo avversario? Lui sì che è affamato.//(17.25,47.25)\\\\E tu? Vuoi davvero tutto questo, o semplicemente questo è tutto quello che sai fare?",
+            "de": "//[FRANGIPANI]\\\\//(0,5.45)\\\\Begabte Kinder wie Sie meinen, sie könnten ewig von vergangenen Erfolgen zehren.//(5.45,13.45)\\\\Es ist traurig. Sie machen einen Scheiß, weil sie schon gut sind, nicht weil sie danach gieren.//(13.45,43.45)\\\\Ihr Gegner? Er giert danach. Was ist mit Ihnen? Ist es das, was Sie wollen, oder nur das, was Sie kennen?",
+            "es": "//[FRANGIPANI]\\\\//(0,5.389571)\\\\Los niños con talento como tú os creéis que podréis vivir eternamente de vuestros primeros éxitos.//(5.389571,9.99055)\\\\Es una pena. Cumplen sus misiones porque ya son buenos,//(9.99055,13.39914)\\\\no porque tengan hambre de éxitos.//(13.39914,17.12153)\\\\Tu rival está hambriento.//(17.12153,47.12153)\\\\¿Y tú? ¿Es esto lo que quieres o es que no conoces otra cosa?",
+            "ru": "//[FRANGIPANI]\\\\//(0,1.960491)\\\\Умные детки вроде тебя считают,//(1.960491,5.773374)\\\\будто могут всю жизнь кататься на своих первых достижениях.//(5.773374,7.00957)\\\\Это убого.//(7.00957,13.9)\\\\Они творят что хотят, ведь они молодцы и не жаждут успеха.//(13.9,19)\\\\Твой соперник мечтает о нём. А ты?//(19,49)\\\\Ты стремишься к нему или тебе хватает того, что есть?",
+            "cn": "//[FRANGIPANI]\\\\//(0,1.55)\\\\像你这样有天赋的孩子，//(1.55,5.6)\\\\自认为可以凭借早年的成就，舒舒服服地过一辈子。//(5.6,7.4)\\\\这真是可悲啊。//(7.4,13.6)\\\\这种人做事的动力往往只是因为能力所驱，而非野心。//(13.6,17.1)\\\\你的对手？他可是非常有野心的。//(17.1,48)\\\\那么你呢？这是你所渴望的，还是说，这不过是你唯一的专长？",
+            "tc": "//[FRANGIPANI]\\\\//(0,1.55)\\\\像你這種有天賦的小鬼，//(1.55,5.6)\\\\總是以為少年得志的自己，一生都是不可能會失敗的。//(5.6,7.4)\\\\這真是可憐啊。//(7.4,13.6)\\\\這些人做事的動力往往只是因為能力所驅，而非野心。//(13.6,17.1)\\\\你的對手？他可是非常有野心的。//(17.1,48)\\\\那麼你呢？這是你所渴望的，還是說，這不過是你唯一的專長？",
+            "jp": "//[FRANGIPANI]\\\\//(0,5.51)\\\\あなたみたいな天才児は、何もしなくてもいつまでもうまく行くと思っているところがある。//(5.51,7.24)\\\\哀れだね。//(7.24,13.67)\\\\元から出来るからそれに頼って、それを得るためにハングリーに努力しない。//(13.67,19)\\\\あなたの対戦相手？ハングリーさ。あなたはどう？//(19,49)\\\\このままでいい？それとも、これ以上試してみたことがないだけ？"
+        }
+    }
+}

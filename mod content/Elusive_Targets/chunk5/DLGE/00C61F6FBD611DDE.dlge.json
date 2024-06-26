@@ -1,0 +1,30 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/elegant/llama/44000_elusive/44000_jockeyclub/44000_jockeyclub_handler/ds444500_joannebayswaterid.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "ds444500_joannebayswaterid_diana_001",
+                "weight": 1.0,
+                "soundtag": "Voiceover_Handler",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/elegant/llama/44000_elusive/44000_jockeyclub/44000_jockeyclub_handler/ds444500_joannebayswaterid_diana_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/elegant/llama/44000_elusive/44000_jockeyclub/44000_jockeyclub_handler/ds444500_joannebayswaterid_diana_001.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,3.7)\\\\That is Joanne Bayswater. Rogue assassin.//(3.7,9.6)\\\\She is one of the best, and it is a mystery that she has never been on our radar until now.//(9.6,39.6)\\\\You need to be careful with this one, 47.",
+                    "fr": "//(0,3.65)\\\\C'est Joanne Bayswater, tueuse rebelle.//(3.65,9.35)\\\\Elle fait partie des meilleurs, et c'est un mystère qu'elle ait échappé à nos radars jusqu'à maintenant.//(9.35,39.35)\\\\Je vous conseille de rester prudent cette fois-ci, 47.",
+                    "it": "//(0,3.77)\\\\Quella è Joanne Bayswater. L'assassina solitaria.//(3.77,9.49)\\\\È una dei migliori ed è un mistero il perché fino ad ora non fosse mai finita nei nostri radar.//(9.49,39.49)\\\\Devi fare molta attenzione con lei, 47.",
+                    "de": "//(0,3.397)\\\\Das ist Joanne Bayswater. Abtrünnige Attentäterin.//(3.397,6.286)\\\\Sie ist eine der Besten, und es ist mir ein Rätsel,//(6.286,36.286)\\\\warum sie erst jetzt auf unserem Radar aufgetaucht ist. Bei ihr müssen Sie vorsichtig sein, 47.",
+                    "es": "//(0,3.3)\\\\Esa es Joanne Bayswater, asesina rebelde.//(3.8,9)\\\\Es una de las mejores y es un misterio que no hayamos sabido de su existencia hasta ahora.//(9.5,39.5)\\\\Ten mucho cuidado con ella, 47.",
+                    "ru": "//(0,3.75)\\\\Это Джоанна Бэйсуотер, опытная убийца, которая нарушила все правила игры.//(3.75,6.55)\\\\Она одна из лучших: до недавнего времени//(6.55,9.63)\\\\мы вообще не знали о ее существовании.//(9.63,39.63)\\\\Будь с ней осторожен, 47-й.",
+                    "cn": "//(0,3.728)\\\\那就是乔安妮·贝斯沃特，一名脱离组织的刺客。//(3.728,5.45)\\\\她的才能在业内数一数二，//(5.45,9.45)\\\\而且，她迄今为止从未引起过我们的关注，简直是不可思议。//(9.45,39.45)\\\\你在对付她时要多加小心了，47。",
+                    "tc": "//(0,3.728)\\\\那就是喬安娜‧貝斯瓦特，一名離群且危險的殺手。//(3.728,5.45)\\\\她是業內的一名頂尖高手，//(5.45,9.45)\\\\而且，對於她以往是如何躲過我們的注意，至今仍然是一個謎。//(9.45,39.45)\\\\這次你要多加小心了，47。",
+                    "jp": "//(0,3.53)\\\\あれがジョアン・ベイズウォーター。はぐれ暗殺者。//(3.53,9.585)\\\\実力はトップクラスで、これまで私たちのレーダーに引っかからなかったのが不思議なくらいね。//(9.585,39.585)\\\\今回は要注意よ、47。"
+                }
+            }
+        ]
+    }
+}

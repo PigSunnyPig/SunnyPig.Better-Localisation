@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/elegant/llama/44000_story/dr44323_yatesdianaofficeendb.sweetdialog?/dr44323_yatesdianaofficeendb_diana_002.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr44323_yatesdianaofficeendb_diana_002",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/elegant/llama/44000_story/dr44323_yatesdianaofficeendb_diana_002.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/elegant/llama/44000_story/dr44323_yatesdianaofficeendb_diana_002.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\47 will find you. You will pay for this.",
+            "fr": "//(0,30)\\\\47 vous retrouvera. Vous paierez.",
+            "it": "//(0,30)\\\\47 ti troverà. Te la farà pagare.",
+            "de": "//(0,30)\\\\47 wird Sie finden. Sie WERDEN dafür bezahlen.",
+            "es": "//(0,30)\\\\47 te encontrará. Vas a pagar por esto.",
+            "ru": "//(0,30)\\\\47-й найдет вас. Вы за это поплатитесь.",
+            "cn": "//(0,30)\\\\47 会找到你的，你会为此付出代价的。",
+            "tc": "//(0,30)\\\\47 會找到你的，你會為此付出代價的。",
+            "jp": "//(0,30)\\\\47は必ずあなたは探し出す。ただじゃ済まないわよ。"
+        }
+    }
+}
