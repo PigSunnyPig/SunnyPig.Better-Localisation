@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29811_qntrning01.sweetdialog?/dr29811_qntrning01_civmale09_002.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr29811_qntrning01_civmale09_002",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29811_qntrning01_civmale09_002.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29811_qntrning01_civmale09_002.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Sounds good. So, what do I do?",
+            "fr": "//(0,30)\\\\Si vous le dites. Alors, je fais quoi ?",
+            "it": "//(0,30)\\\\Va bene. Quindi, che faccio?",
+            "de": "//(0,30)\\\\Klingt gut. Also was mache ich?",
+            "es": "//(0,30)\\\\Suena bien. ¿Qué tengo que hacer?",
+            "ru": "//(0,30)\\\\Ладно. Что мне делать?",
+            "cn": "//(0,30)\\\\听起来不错。所以，我该怎么做？",
+            "tc": "//(0,30)\\\\聽起來不錯。所以，我該怎麼做？",
+            "jp": "//(0,30)\\\\わかりました。何をすれば良いのですか？"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29800_mocqnnoshow.sweetdialog?/dr29800_mocqnnoshow_civmale06_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr29800_mocqnnoshow_civmale06_001",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29800_mocqnnoshow_civmale06_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29800_mocqnnoshow_civmale06_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,3.6)\\\\Well, it seems we have a no-show!//(3.6,9.9)\\\\It seems that Mr. Quinn has decided to take the coward's way. Not very gentlemanly, I must say.//(9.9,14.7)\\\\We will of course deal with him immediately and punish him by death!//(14.7,18.2)\\\\Just kidding. But will be excommunicated...//(18.2,24.2)\\\\So, I hereby declare The Disruptor as our grand champion!//(24.2,54.2)\\\\Congratulations!",
+            "fr": "//(0,3.6)\\\\Nous avons visiblement un forfait... ?//(3.6,9.9)\\\\M. Quinn semble avoir décidé d'emprunter la voie de la lâcheté, ce qui n'est pas très gentleman de sa part.//(9.9,14.7)\\\\N'ayez crainte, il paiera de sa vie cette bassesse ! ...//(14.7,18.2)\\\\Je plaisante. Il sera tout de même excommunié cependant.//(18.2,24.2)\\\\Je déclare donc Le bouleversant ici présent notre grand champion !//(24.2,54.2)\\\\Félicitations !",
+            "it": "//(0,3.6)\\\\Beh, a quanto parte un partecipante ha dato forfait!//(3.6,9.9)\\\\Il signor Quinn deve aver deciso di comportarsi da codardo. Non è un comportamento da gentiluomo, devo ammetterlo.//(9.9,14.7)\\\\Naturalmente, ci occuperemo immediatamente della cosa e lo puniremo con la morte!//(14.7,18.2)\\\\Scherzo. Ma verrà squalificato...//(18.2,24.2)\\\\Quindi, proclamo il Disgregatore campione supremo!//(24.2,54.2)\\\\Congratulazioni!",
+            "de": "//(0,3.184785)\\\\Nun, es scheint, dass wir ein Nicht-Erscheinen haben!//(3.184785,9.9)\\\\Mr.  Quinn hat sich wohl entschieden, ein Feigling zu sein. Nicht sehr gediegen, muss ich sagen.//(9.9,14)\\\\Wir werden uns natürlich direkt um ihn kümmern und die Todesstrafe verhängen!//(14,17)\\\\Ich scherze. Aber er wird exkommuniziert ...//(17,47)\\\\Somit erkläre ich den Disruptor zu unserem großen Champion! Glückwunsch!",
+            "es": "//(0,3.8)\\\\¡Vaya, parece que alguien no ha comparecido!//(3.8,7.7)\\\\El señor Quinn ha decidido recorrer la senda de la cobardía.//(7.7,10.05)\\\\En mi opinión, eso no es muy de caballeros.//(10.05,14.8)\\\\¡Obviamente, nos ocuparemos de él de inmediato y lo castigaremos con la muerte!//(14.8,18.35)\\\\Es broma. Aunque sí que los excomulgaremos...//(18.35,48.35)\\\\Así pues, ¡nuestro gran campeón es El Reventador! ¡Enhorabuena!",
+            "ru": "//(0,10)\\\\Кажется, у нас неявка! Судя по всему, мистер Куинн струсил. Добропорядочные люди так себя не ведут.//(10,14.2)\\\\Мы, разумеется, примем срочные меры и покараем его смертью!//(14.2,18)\\\\Шучу, шучу. Но он определенно будет изгнан из Общества...//(18,48)\\\\Итак, я объявляю Великого Разрушителя победителем этого боя! Поздравляю!",
+            "cn": "//(0,3.6)\\\\好吧，看来有人没有现身哦！//(3.6,9.9)\\\\奎恩先生似乎选择当个胆小鬼了。我得说，这不太有绅士风度。//(9.9,14.7)\\\\我们当然会立刻解决他，并且处死他！//(14.7,18.2)\\\\开个玩笑而已。但他将会被逐出协会......//(18.2,54.2)\\\\所以，我在此宣布，「破坏者」为我们的总冠军！恭喜！",
+            "tc": "//(0,3.6)\\\\好吧，看來有人沒有現身喔！//(3.6,9.9)\\\\奎恩先生似乎決定當個孬種了。我得說，這不太像一個真男人。//(9.9,14.7)\\\\我們當然會立即處理他，並對他處以死刑！//(14.7,18.2)\\\\開玩笑的啦。但他將會被逐出協會......//(18.2,54.2)\\\\所以，我在此宣布，「顛覆者」是我們比賽的冠軍！恭喜！",
+            "jp": "//(0,3)\\\\どうやら欠場者が出たようです！//(3.7,9.89)\\\\クイン氏は臆病者の道を選ぶことに決めたようです。あまり紳士的とは言えませんね。//(9.89,14.315)\\\\もちろん、即座に対処し、クイン氏には死をもって罰します！//(14.315,18.135)\\\\というのは冗談ですが、彼は永久的に出場禁止となります。//(18.135,48.135)\\\\それでは、ここにザ・ディスラプターをグランド・チャンピオンと宣言します！おめでとうございます！"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29821_moc47invoke02.sweetdialog?/dr29821_moc47invoke02_civmale06_003.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr29821_moc47invoke02_civmale06_003",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29821_moc47invoke02_civmale06_003.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29821_moc47invoke02_civmale06_003.animset].pc_animset",
+        "languages": {
+            "en": "//(0,4.3)\\\\Well, it looks like Mr. Quinn has invoked the right of second!//(4.3,34.3)\\\\So, to fill his place, we have Mr...",
+            "fr": "//(0,4.3)\\\\Bien, il semblerait que M. Quinn ait décidé d'invoquer le droit de remplacement !//(4.3,34.3)\\\\Et pour prendre le relai, nous avons...",
+            "it": "//(0,4.3)\\\\Beh, a quanto pare, il signor Quinn ha invocato il Diritto di sostituzione!//(4.3,34.3)\\\\Quindi, prende il suo posto il signor...",
+            "de": "//(0,30)\\\\Nun, es sieht so aus, als hätte sich Mr. Quinn auf das Sekundantenanrecht berufen! An seiner Stelle tritt Mr.  ...",
+            "es": "//(0,4.25)\\\\¡Vaya, parece que el señor Quinn se ha acogido al derecho de reemplazo!//(4.25,34.25)\\\\Y su lugar lo va a ocupar el señor...",
+            "ru": "//(0,4.285)\\\\Итак, похоже, мистер Куинн воспользовался правом на секунданта!//(4.285,34.285)\\\\И вместо него на ринг выйдет мистер...",
+            "cn": "//(0,4.3)\\\\那么，看来奎恩先生行使了「代打权」！//(4.3,34.3)\\\\所以，代替他出赛的这位先生是......",
+            "tc": "//(0,4.3)\\\\那麼，看來奎恩先生行使了「替身權」！//(4.3,34.3)\\\\所以，代替他出賽的這位先生是......",
+            "jp": "//(0,30)\\\\どうやらクイン氏は代理人権を行使したようです。クイン氏に代わって闘うのは..."
+        }
+    }
+}

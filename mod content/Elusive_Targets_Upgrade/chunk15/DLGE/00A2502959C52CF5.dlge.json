@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29750_barorderpt.sweetdialog?/dr29750_barorderpt_et_pen_003.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr29750_barorderpt_et_pen_003",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29750_barorderpt_et_pen_003.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29750_barorderpt_et_pen_003.animset].pc_animset",
+        "languages": {
+            "en": "//(0,4)\\\\\"Atlantide Water\". The best water on the planet.//(4,34)\\\\Jesus Christ...",
+            "fr": "//(0,30)\\\\De l'eau Atlantide, la meilleure de la planète. Sérieux...",
+            "it": "//(0,30)\\\\Dell'acqua Atlantide! La migliore acqua del pianeta. Cristo santo...",
+            "de": "//(0,2.2)\\\\„Atlantide-Wasser\".//(2.2,4.1)\\\\Das beste Wasser der Welt.//(4.1,34.1)\\\\Gott im Himmel ...",
+            "es": "//(0,3.5)\\\\Agua Atlantide. El mejor agua del mundo.//(3.8,33.8)\\\\Por el amor de Dios...",
+            "ru": "//(0,30)\\\\Вода «Атлантид». Лучшая вода на планете. Гос-с-споди...",
+            "cn": "//(0,4)\\\\「亚特兰蒂之水」——这个星球上最棒的水。//(4,34)\\\\老天......",
+            "tc": "//(0,4)\\\\「亞特蘭提德之水」——世界上最棒的水。//(4,34)\\\\天哪......",
+            "jp": "//(0,30)\\\\「アトランティード水」だ。世界一うまい水だ。 まったく..."
+        }
+    }
+}

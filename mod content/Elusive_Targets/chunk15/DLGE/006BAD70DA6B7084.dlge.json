@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29858_ringbell.sweetdialog?/dr29858_ringbell_47_002.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr29858_ringbell_47_002",
+        "soundtag": "In-world_Maincharacter",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29858_ringbell_47_002.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29858_ringbell_47_002.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Your job. You were given a signal.",
+            "fr": "//(0,30)\\\\Votre boulot. On vous a donné le signal.",
+            "it": "//(0,30)\\\\Il tuo lavoro. Sei stato avvertito.",
+            "de": "//(0,30)\\\\Ihre Aufgabe. Man gab Ihnen ein Zeichen.",
+            "es": "//(0,30)\\\\Tu trabajo. Te hicieron una señal.",
+            "ru": "//(0,30)\\\\Твою работу. Сигнал уже подали.",
+            "cn": "//(0,30)\\\\确实是你的工作，刚才已经指示过你了。",
+            "tc": "//(0,30)\\\\的確是你的工作，剛才已經指示過你了。",
+            "jp": "//(0,30)\\\\お前の仕事をやったんだ。合図が送られただろ。"
+        }
+    }
+}

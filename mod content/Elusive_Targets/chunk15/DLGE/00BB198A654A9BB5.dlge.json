@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29803_qnwalk01.sweetdialog?/dr29803_qnwalk01_civmale09_009.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr29803_qnwalk01_civmale09_009",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29803_qnwalk01_civmale09_009.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29803_qnwalk01_civmale09_009.animset].pc_animset",
+        "languages": {
+            "en": "//(0,3.76)\\\\Oh no no no. I'm sorry! You don’t have time to meditate!//(3.76,33.76)\\\\I need you to teach me more, Master!",
+            "fr": "//(0,3.76)\\\\Pardonnez-moi ! Nous n'avons pas le temps de méditer !//(3.76,33.76)\\\\Vous devez m'en apprendre plus, Maître !",
+            "it": "//(0,3.76)\\\\Mi dispiace! Non c'è tempo per meditare!//(3.76,33.76)\\\\Devi insegnarmi altre cose, Maestro!",
+            "de": "//(0,30)\\\\Tut mir leid! Ihr habt keine Zeit zum Meditieren! Ihr müsst mich unterweisen, Meister!",
+            "es": "//(0,3.42)\\\\Lo siento, pero ¡no tienes tiempo para meditar!//(3.87,33.87)\\\\¡Necesito que me enseñes más cosas, maestro!",
+            "ru": "//(0,30)\\\\Прости, но сейчас не время медитировать! Покажи мне новые приемы, учитель!",
+            "cn": "//(0,3.76)\\\\噢，不不不，抱歉！你根本就没有时间冥想！//(3.76,33.76)\\\\我需要你多教我几招，师父！",
+            "tc": "//(0,3.76)\\\\噢，不不不，抱歉！你根本就沒有時間冥想！//(3.76,33.76)\\\\我需要你多教我幾招，師父！",
+            "jp": "//(0,30)\\\\いやいやいや！すみません！瞑想なんてする時間はありません！もっと教えてください、先生！"
+        }
+    }
+}

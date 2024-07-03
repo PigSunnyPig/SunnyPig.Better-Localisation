@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29811_qntrning01.sweetdialog?/dr29811_qntrning01_civmale07_009.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr29811_qntrning01_civmale07_009",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29811_qntrning01_civmale07_009.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29811_qntrning01_civmale07_009.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Yes, you are.",
+            "fr": "//(0,30)\\\\Mais oui, tu es un champion.",
+            "it": "//(0,30)\\\\Sì, è proprio così.",
+            "de": "//(0,30)\\\\Ja, bist du.",
+            "es": "//(0,30)\\\\Sí que lo eres.",
+            "ru": "//(0,30)\\\\Да, конечно.",
+            "cn": "//(0,30)\\\\没错，你实至名归。",
+            "tc": "//(0,30)\\\\沒錯，你實至名歸。",
+            "jp": "//(0,30)\\\\その通りだ。"
+        }
+    }
+}

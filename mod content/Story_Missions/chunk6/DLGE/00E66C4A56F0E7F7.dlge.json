@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/wet/rat/43000_story/dr43302_meetupsniperhint.sweetdialog?/dr43302_meetupsniperhint_rat_streetguardj_m05_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr43302_meetupsniperhint_rat_streetguardj_m05_001",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/rat/43000_story/dr43302_meetupsniperhint_rat_streetguardj_m05_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/rat/43000_story/dr43302_meetupsniperhint_rat_streetguardj_m05_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,1.7)\\\\Zhuan Jun’s not coming in?//(4.7,8.2)\\\\Yeah... I guess I can cover his shift.//(10,11.2)\\\\Will do.//(12.19055,42.19055)\\\\Hey, rifle. Up for another 4 hours with me in the rain? Yeah, thought not.",
+            "fr": "//(0,5)\\\\Zhuan Jun peut pas venir ?//(5,10.24)\\\\Mouais... Bon, bah je vais rester...//(10.24,17)\\\\Ça marche. Hé, tireur ! 4 h de plus avec moi sous la pluie, ça te branche ?//(17,47)\\\\... C'est ce que je pensais.",
+            "it": "//(0,1.5)\\\\Zhuan Jun non può venire?//(5.14,8.02)\\\\Sì... Penso di poterlo sostituire per il suo turno.//(10.25,10.93)\\\\Lo farò.//(12.41,17.27)\\\\Ehi, fucile! Che ne dici di altre 4 ore con me sotto la pioggia?//(17.27,47.27)\\\\Già, immaginavo la risposta.",
+            "de": "//(0,5.040491)\\\\Zhuan Jun kommt heute nicht?//(5.040491,10.30528)\\\\Ja ... Ich schätze, ich kann seine Schicht übernehmen.//(10.30528,12.30528)\\\\Wird gemacht.//(12.30528,17.29246)\\\\Hey, Gewehr! Lust auf noch mal vier Stunden im Regen mit mir?//(17.29246,47.29246)\\\\Ja, dachte ich mir schon.",
+            "es": "//(0,1.8)\\\\¿Zhuan Jun no va a venir?//(5.3,8.8)\\\\Sí... Supongo que podría cubrir su turno.//(10.4,11.5)\\\\Eso haré.//(12.5,16.3)\\\\¡Eh, rifle! ¿Te apuntas a pasar otras 4 horas juntos bajo la lluvia?//(17.3,47.3)\\\\Sí, ya suponía que no.",
+            "ru": "//(0,1.25)\\\\Чжуань Чжун не выйдет?//(5.1,9.25)\\\\Ну... Хорошо, я его подменю.//(10.2,13.7)\\\\Сделаю. Ну что, моя винтовочка?//(13.7,16.40859)\\\\Постоим еще четыре часа под дождем?//(16.40859,46.40859)\\\\Да, я тоже не в восторге.",
+            "cn": "//(0,4.8)\\\\王军不来了吗？//(4.8,8.2)\\\\好吧......我想我能接他的班。//(10,11.2)\\\\好的。//(12.19,17.2)\\\\喂，「步枪」！要来陪我再淋 4 个小时的雨吗？//(17.2,47.2)\\\\好吧，我想也是。",
+            "tc": "//(0,4.8)\\\\王鈞不來了嗎？//(4.8,8.2)\\\\好吧......我應該能替他的班。//(10,11.2)\\\\好的。//(12.19,17.2)\\\\喂，「步槍」！要跟我再去淋 4 個小時的雨嗎？//(17.2,47.2)\\\\好吧，我想也是。",
+            "jp": "//(0,1.7)\\\\ジュアン・ジュンが来ない？//(4.95,8.2)\\\\ああ... 奴のシフトもやってやるよ。//(10.25,11.063)\\\\わかった。//(12.35,15.9)\\\\おい、ライフルちゃん。あと4時間、雨の中よろしくな。//(17.2,47.2)\\\\ああ、そう言うと思った。"
+        }
+    }
+}

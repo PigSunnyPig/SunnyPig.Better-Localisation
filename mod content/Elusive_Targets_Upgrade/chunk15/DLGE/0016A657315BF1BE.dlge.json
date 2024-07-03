@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29853_ambstfffght01.sweetdialog?/dr29853_ambstfffght01_civmale09_008.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr29853_ambstfffght01_civmale09_008",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29853_ambstfffght01_civmale09_008.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29853_ambstfffght01_civmale09_008.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\You kidding? The Disruptor of course. Hands down.",
+            "fr": "//(0,30)\\\\Le bouleversant, évidemment. Facile.",
+            "it": "//(0,30)\\\\Sul Disgregatore naturalmente. Senza dubbi.",
+            "de": "//(0,30)\\\\Machst du Witze? Auf den Disruptor natürlich. Ganz klar.",
+            "es": "//(0,30)\\\\Por El Reventador, por supuesto. No hay color.",
+            "ru": "//(0,30)\\\\На Разрушителя, конечно. На кого же еще.",
+            "cn": "//(0,30)\\\\你在开玩笑吗？当然是「破坏之王」啦，毫无疑问。",
+            "tc": "//(0,30)\\\\你在開玩笑嗎？當然是「破壞之王」囉，毫無疑問。",
+            "jp": "//(0,30)\\\\ふざけてんのか？ディスラプターに決まってる。他はあり得ない。"
+        }
+    }
+}

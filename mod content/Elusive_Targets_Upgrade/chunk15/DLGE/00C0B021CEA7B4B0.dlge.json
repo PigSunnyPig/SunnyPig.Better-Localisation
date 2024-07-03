@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29818_ambreveal01.sweetdialog?/dr29818_ambreveal01_civmale09_007.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr29818_ambreveal01_civmale09_007",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29818_ambreveal01_civmale09_007.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29818_ambreveal01_civmale09_007.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Well, let's hope this Disruptor fellow can knock some sense into him.",
+            "fr": "//(0,30)\\\\Plus qu'à espérer que Le bouleversant lui assène quelques leçons de vie, alors...",
+            "it": "//(0,30)\\\\Beh, speriamo che quel Disgregatore riesca a farlo rinsavire a forza di pugni.",
+            "de": "//(0,30)\\\\Tja, dann hoffen wir mal, dass dieser Disruptor ihm etwas Vernunft einprügeln kann.",
+            "es": "//(0,30)\\\\Bueno, esperemos que El Reventador pueda hacerle entrar en razón a golpes.",
+            "ru": "//(0,30)\\\\Тогда понадеемся, что Разрушитель выбьет из него эту дурь.",
+            "cn": "//(0,30)\\\\嗯，希望这个「破坏之王」可以把他打醒吧。",
+            "tc": "//(0,30)\\\\嗯，希望這個「破壞之王」能夠將他的腦袋打得清醒一點吧。",
+            "jp": "//(0,30)\\\\じゃあ、ディスラプターって奴が少しはまともな考えを叩きこんでくれるように期待しておくかな。"
+        }
+    }
+}

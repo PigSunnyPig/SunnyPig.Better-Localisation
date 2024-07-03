@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29755_bardismiss.sweetdialog?/dr29755_bardismiss_47_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr29755_bardismiss_47_001",
+        "soundtag": "In-world_Maincharacter",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29755_bardismiss_47_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29755_bardismiss_47_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\I found the bottle our guest of honor wanted.",
+            "fr": "//(0,30)\\\\J'ai trouvé la bouteille que veut notre invité d'honneur.",
+            "it": "//(0,30)\\\\Ho la bottiglia per il nostro ospite d'onore.",
+            "de": "//(0,30)\\\\Ich habe die Flasche für unseren Ehrengast.",
+            "es": "//(0,30)\\\\He encontrado la botella que quería nuestro invitado de honor.",
+            "ru": "//(0,30)\\\\Я нашел бутылку для нашего дорогого гостя.",
+            "cn": "//(0,30)\\\\我找到我们贵宾想要的水了。",
+            "tc": "//(0,30)\\\\我找到我們貴賓想要的水了。",
+            "jp": "//(0,30)\\\\特別ゲストが欲しがってたボトルを見つけた。"
+        }
+    }
+}

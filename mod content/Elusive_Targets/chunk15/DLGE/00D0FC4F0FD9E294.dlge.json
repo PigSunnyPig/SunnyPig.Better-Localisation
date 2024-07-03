@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29803_qnwalk01.sweetdialog?/dr29803_qnwalk01_civmale07_004.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr29803_qnwalk01_civmale07_004",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29803_qnwalk01_civmale07_004.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29803_qnwalk01_civmale07_004.animset].pc_animset",
+        "languages": {
+            "en": "//(0,2.7)\\\\And that is why you are a pure soul.//(2.7,7.2)\\\\Because if you knew about ICA, I would have to take your life.//(7.2,10.1)\\\\But to teach I must tell you.//(10.1,40.1)\\\\I was named the legendary Agent 47.",
+            "fr": "//(0,2.7)\\\\Voilà pourquoi tu es une âme pure.//(2.7,7.2)\\\\Si tu connaissais l'ICA, je devrais t'éliminer.//(7.2,10.1)\\\\Mais pour te l'apprendre, je dois te le révéler ://(10.1,40.1)\\\\on m'appelait le légendaire agent 47.",
+            "it": "//(0,2.7)\\\\Lo vedi che sei un'anima pura?//(2.7,7.2)\\\\Se sapessi cos'è l'ICA, dovrei farti fuori.//(7.2,10.1)\\\\Ma per insegnarti, devo dirtelo.//(10.1,40.1)\\\\Il mio nome è Agente 47, praticamente una leggenda.",
+            "de": "//(0,7)\\\\Und deshalb bist du ein Unschuldslamm. Denn wenn du von der ICA wüsstest, müsste ich dich umbringen.//(7,37)\\\\Doch um dich auszubilden, muss ich es dir sagen: Ich war der legendäre Agent 47.",
+            "es": "//(0,6.6)\\\\Y por eso eres un alma pura. Si supieses lo que es la Agencia, tendría que matarte.//(7.35,9.85)\\\\Pero, para poder adiestrarte, tengo que contártelo.//(10.15,40.15)\\\\Yo era el legendario Agente 47.",
+            "ru": "//(0,6.9)\\\\Вот почему твоя душа столь чиста. Если бы ты знал об МКА, мне пришлось бы лишить тебя жизни.//(6.9,36.9)\\\\Но чтобы научить тебя, я все расскажу. Я был легендарным Агентом 47.",
+            "cn": "//(0,2.7)\\\\所以说你是一个单纯的人啊。//(2.7,7.2)\\\\如果你知道 ICA 的话，我就只能取走你的命了。//(7.2,10.1)\\\\但为了教你，我必须实话实说。//(10.1,40.1)\\\\我就是传奇特工 47。",
+            "tc": "//(0,2.7)\\\\那代表你是一個單純的人啊。//(2.7,7.2)\\\\如果你知道 ICA 的話，我就只能把你滅口了。//(7.2,10.1)\\\\但為了教你，我必須實話實說，//(10.1,40.1)\\\\我就是傳奇特務 47。",
+            "jp": "//(0,2.975)\\\\だからお前は穢れなき魂を持っているのだ。//(2.975,7.11)\\\\お前がICAについて知っていたら、お前を殺さねばならなかっただろう。//(7.11,10.18)\\\\だが、教えるにはまず伝えねばならない。//(10.18,40.18)\\\\私は伝説のエージェント47として知られていたのだ。"
+        }
+    }
+}

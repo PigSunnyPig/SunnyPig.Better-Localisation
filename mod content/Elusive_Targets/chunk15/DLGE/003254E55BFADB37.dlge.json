@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29821_moc47invoke02.sweetdialog?/dr29821_moc47invoke02_civmale06_007.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr29821_moc47invoke02_civmale06_007",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29821_moc47invoke02_civmale06_007.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29821_moc47invoke02_civmale06_007.animset].pc_animset",
+        "languages": {
+            "en": "//(0,2.9)\\\\Mr. Doe will take his place.//(2.9,32.9)\\\\Now let the fight begin!",
+            "fr": "//(0,30)\\\\M. Personne va prendre la place de M. Quinn. Reprise !",
+            "it": "//(0,2.9)\\\\Il signor Caio prenderà il suo posto.//(2.9,32.9)\\\\Che il combattimento abbia inizio!",
+            "de": "//(0,30)\\\\Mr.  Doe tritt an seine Stelle. Lassen wir den Kampf beginnen!",
+            "es": "//(0,30)\\\\Su lugar lo va a ocupar el señor Fulano. ¡Que empiece el combate!",
+            "ru": "//(0,30)\\\\Мистер Доу займет его место. Итак, начинаем бой!",
+            "cn": "//(0,30)\\\\「无名」先生将会接替他的位置。现在开始战斗吧！",
+            "tc": "//(0,30)\\\\「佚名」先生將會代替他出賽。現在就讓戰鬥開始吧！",
+            "jp": "//(0,30)\\\\ドー氏が代わりに闘います。さあ、始めましょう！"
+        }
+    }
+}

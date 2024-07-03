@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29859_47moc01.sweetdialog?/dr29859_47moc01_47_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr29859_47moc01_47_001",
+        "soundtag": "In-world_Maincharacter",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29859_47moc01_47_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29859_47moc01_47_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Excuse me, Disruptor. You need to come with me.",
+            "fr": "//(0,30)\\\\M. Bouleversant ? Veuillez me suivre, s'il vous plaît.",
+            "it": "//(0,30)\\\\Disgregatore? Possiamo scambiare due parole?",
+            "de": "//(0,30)\\\\Verzeihung, Disruptor. Sie müssten mitkommen.",
+            "es": "//(0,30)\\\\Disculpe, Reventador, pero tiene que venir conmigo.",
+            "ru": "//(0,30)\\\\Разрушитель, прошу прощения. Следуйте за мной.",
+            "cn": "//(0,30)\\\\打扰一下，「破坏人」。你需要跟我来一趟。",
+            "tc": "//(0,30)\\\\打擾一下，「顛覆人」。你需要跟我來一趟。",
+            "jp": "//(0,30)\\\\失礼します、ディスラプター。一緒に来てください。"
+        }
+    }
+}

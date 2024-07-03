@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29787_mocrules02.sweetdialog?/dr29787_mocrules02_civmale06_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr29787_mocrules02_civmale06_001",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29787_mocrules02_civmale06_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29787_mocrules02_civmale06_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,2.5)\\\\Gentlemen. Just to remind you of the rules.//(2.5,8.8)\\\\This is a fight to the death, but you can still invoke the Right to a Second if you so choose.//(8.8,38.9)\\\\There is no shame in that.",
+            "fr": "//(0,2.5)\\\\Messieurs ? Petit rappel des règles.//(2.5,8.85)\\\\C'est un combat à mort, mais vous êtes libre d'invoquer le droit de remplacement quand vous voulez.//(8.85,38.85)\\\\Il n'y a pas de honte à ça.",
+            "it": "//(0,2.5)\\\\Signori, volevo solo ricordarvi il regolamento.//(2.5,8.85)\\\\Si tratta di un combattimento all'ultimo sangue, ma potete ancora invocare il Diritto di sostituzione, se lo desiderate.//(8.85,38.85)\\\\Non c'è nulla di cui vergognarsi.",
+            "de": "//(0,2.5)\\\\Gentlemen? Nur um Sie an die Regeln zu erinnern.//(2.5,8.7)\\\\Der Kampf geht bis zum Tod, aber Sie können sich auf das Sekundantenanrecht berufen, wenn Sie möchten.//(8.7,38.7)\\\\Das ist keine Schande.",
+            "es": "//(0,2.65)\\\\Caballeros, quiero recordarles las normas.//(2.65,9.05)\\\\Esto es un combate a muerte, pero, si lo desean, pueden acogerse al derecho de reemplazo.//(9.05,39.05)\\\\No hay nada de vergonzoso en hacerlo.",
+            "ru": "//(0,4.549)\\\\Господа, напоминаю правила. Это бой насмерть,//(4.549,8.861)\\\\но при желании вы можете воспользоваться правом на секунданта.//(8.861,38.861)\\\\В этом нет ничего зазорного.",
+            "cn": "//(0,4.65)\\\\先生们？只是想提醒你们一下规则——这是一场殊死战，//(4.65,8.8)\\\\但你们愿意的话，仍然可以行使「代打权」。//(8.8,38.9)\\\\这并不丢人。",
+            "tc": "//(0,4.65)\\\\先生們？只是想提醒你們一下規則——這是一場殊死戰，//(4.65,8.8)\\\\但你們願意的話，仍然可以行使「替身權」。//(8.8,38.9)\\\\這一點也不丢人的。",
+            "jp": "//(0,2.55)\\\\お二人ともいいですか？ルールをもう一度説明します。//(2.55,8.91)\\\\これはどちらかが死ぬまでの闘いですが、代理人権を行使することもできます。//(8.91,38.91)\\\\その権利を行使しても何の恥もありません。"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29767_schminvk.sweetdialog?/dr29767_schminvk_civmale10_010.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr29767_schminvk_civmale10_010",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29767_schminvk_civmale10_010.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29767_schminvk_civmale10_010.animset].pc_animset",
+        "languages": {
+            "en": "//(0,1.6)\\\\I wouldn't.//(1.6,4.9)\\\\We'll figure out another way for you to get Quinn.//(4.9,34.9)\\\\Now, let's humiliate him a little. Take down his second.",
+            "fr": "//(0,1.6)\\\\Non.//(1.6,4.9)\\\\On va trouver un autre moyen d'avoir Quinn.//(4.9,13.26196)\\\\Humilions-le un peu et mettez ce chauve au tapis. Vous pourrez même ajouter ça à votre CV si vous voulez.",
+            "it": "//(0,5.049)\\\\No. Troveremo un altro modo perché tu possa mettere le mani su Quinn.//(5.049,8.023)\\\\Ma adesso umiliamolo un po' e mettiamo a tappeto quel pelato,//(8.023,38.023)\\\\non avevi sempre voluto farlo?",
+            "de": "//(0,4.6)\\\\Nein. Wir überlegen uns etwas anderes für Sie, um Quinn auszuschalten.//(4.6,34.6)\\\\Demütigen Sie ihn, indem Sie den Glatzkopf kaltmachen.",
+            "es": "//(0,4.66)\\\\No. Encontraremos otra forma de que te enfrentes a Quinn.//(4.98,34.98)\\\\De momento, vamos a humillarlo un poco. Acaba con su reemplazo.",
+            "ru": "//(0,7.59)\\\\Нет. Мы найдем для тебя другой способ устранить Куинна.//(7.59,37.59)\\\\А пока давай просто унизим его и уберем лысого мужика.",
+            "cn": "//(0,4.9)\\\\我不会这样做，我们会再想其他办法让你解决奎恩的。//(4.9,34.9)\\\\现在，我们先去羞辱他一下，把他的代替者解决掉。",
+            "tc": "//(0,4.9)\\\\我不會這樣做，我們會再想辦法讓你處理奎恩的。//(4.9,34.9)\\\\現在，我們先去羞辱一下他，解決掉他的替身。",
+            "jp": "//(0,1.8)\\\\俺ならやらんがな。//(1.8,4.935)\\\\クインを仕留める方法はまた別に考えよう。//(4.935,34.935)\\\\今はとりあえず奴にちょっと恥をかかせてやろう。あいつの代理人を倒すんだ。"
+        }
+    }
+}

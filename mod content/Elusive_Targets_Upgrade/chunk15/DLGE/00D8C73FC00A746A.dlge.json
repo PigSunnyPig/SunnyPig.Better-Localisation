@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29821_moc47invoke02.sweetdialog?/dr29821_moc47invoke02_47_005.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr29821_moc47invoke02_47_005",
+        "soundtag": "In-world_Maincharacter",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29821_moc47invoke02_47_005.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29821_moc47invoke02_47_005.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Doe – just Doe.",
+            "fr": "//(0,30)\\\\M. Personne.",
+            "it": "//(0,30)\\\\Caio, soltanto Caio.",
+            "de": "//(0,30)\\\\Doe – einfach nur Doe.",
+            "es": "//(0,30)\\\\Fulano... Fulano y nada más.",
+            "ru": "//(0,30)\\\\Доу. Просто Доу.",
+            "cn": "//(0,30)\\\\无名，叫我「无名」就行了。",
+            "tc": "//(0,30)\\\\佚名，叫我「佚名」就好。",
+            "jp": "//(0,30)\\\\ドー。ドーだけだ。"
+        }
+    }
+}

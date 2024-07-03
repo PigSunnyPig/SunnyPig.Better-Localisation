@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29789_mocrules04.sweetdialog?/dr29789_mocrules04_civmale09_002.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr29789_mocrules04_civmale09_002",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29789_mocrules04_civmale09_002.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29789_mocrules04_civmale09_002.animset].pc_animset",
+        "languages": {
+            "en": "//(0,2)\\\\Don't patronize me.//(2,32)\\\\I've got some moves under my belt.",
+            "fr": "//(0,2)\\\\Pas besoin.//(2,32)\\\\J'ai encore de la réserve.",
+            "it": "//(0,2.7)\\\\Non mi dire cosa devo fare.//(2.7,32.7)\\\\Ho ancora dei colpi in canna.",
+            "de": "//(0,2.1)\\\\Seien Sie nicht so herablassend.//(2.1,32.1)\\\\Ich habe richtig was drauf.",
+            "es": "//(0,30)\\\\No me seas condescendiente. Me estoy reservando.",
+            "ru": "//(0,30)\\\\Не надо меня жалеть. Я тоже знаю кое-какие приемы.",
+            "cn": "//(0,30)\\\\别来跟我说风凉话，我还留了几招压箱底的本事呢。",
+            "tc": "//(0,30)\\\\別把我當小孩，我還留了幾招沒有使出來呢。",
+            "jp": "//(0,30)\\\\俺を弱い者みたいに言うな。まだ隠し技を持ってる。"
+        }
+    }
+}

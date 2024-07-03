@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29803_qnwalk01.sweetdialog?/dr29803_qnwalk01_civmale07_008.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr29803_qnwalk01_civmale07_008",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29803_qnwalk01_civmale07_008.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29803_qnwalk01_civmale07_008.animset].pc_animset",
+        "languages": {
+            "en": "//(0,2.11)\\\\That's not the point, grasshopper!//(3.5,33.5)\\\\Must meditate when we get back.",
+            "fr": "//(0,2.11)\\\\Là n'est pas le sujet, petit scarabée !//(3.5,33.5)\\\\Nous méditerons à notre retour.",
+            "it": "//(0,2.11)\\\\Non è questo il punto, cavalletta!//(3.5,33.5)\\\\Al ritorno ci sarà da meditare.",
+            "de": "//(0,30)\\\\Das ist nicht der Punkt, Grashüpfer! Ich muss meditieren, sobald wir zurück sind.",
+            "es": "//(0,1.95)\\\\¡Esa no es la cuestión, pequeño saltamontes!//(3.67,33.67)\\\\Cuando volvamos, tengo que meditar.",
+            "ru": "//(0,3.46)\\\\Суть не в этом, кузнечик!//(3.46,33.46)\\\\Я займусь медитацией по возвращении.",
+            "cn": "//(0,2.11)\\\\那不是重点，徒弟！//(3.5,33.5)\\\\回去之后一定要冥想。",
+            "tc": "//(0,2.11)\\\\那不是重點，小鬼！//(3.5,33.5)\\\\回去之後一定要冥想。",
+            "jp": "//(0,30)\\\\そんなことは重要ではない！ 戻ったら瞑想だ。"
+        }
+    }
+}

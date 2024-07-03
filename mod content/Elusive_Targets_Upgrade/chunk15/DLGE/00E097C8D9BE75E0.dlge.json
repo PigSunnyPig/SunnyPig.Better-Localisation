@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29821_moc47invoke02.sweetdialog?/dr29821_moc47invoke02_civmale06_002.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr29821_moc47invoke02_civmale06_002",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29821_moc47invoke02_civmale06_002.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29821_moc47invoke02_civmale06_002.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Manners, Mr. Disruptor.",
+            "fr": "//(0,30)\\\\Un peu de manières, M. Bouleversant.",
+            "it": "//(0,30)\\\\Piano con le parole, signor Disgregatore.",
+            "de": "//(0,30)\\\\Benimm, Mr.  Disruptor.",
+            "es": "//(0,30)\\\\Esos modales, señor Reventador.",
+            "ru": "//(0,30)\\\\Не срывайтесь, мистер Разрушитель.",
+            "cn": "//(0,30)\\\\注意素质，「破坏之王」先生。",
+            "tc": "//(0,30)\\\\注意禮儀，「破壞之王」先生。",
+            "jp": "//(0,30)\\\\マナーを忘れないでくださいよ、ディスラプターさん。"
+        }
+    }
+}

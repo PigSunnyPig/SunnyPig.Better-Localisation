@@ -1,0 +1,87 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29774_trngbdgrndm02.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "dr29774_trngbdgrndm02_specops01_001",
+                "weight": 0.24999995529651375,
+                "soundtag": "In-world_Mission_Important",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29774_trngbdgrndm02_specops01_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29774_trngbdgrndm02_specops01_001.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\I got you.",
+                    "fr": "//(0,30)\\\\J'arrive.",
+                    "it": "//(0,30)\\\\D'accordo.",
+                    "de": "//(0,30)\\\\Ich pass auf Sie auf.",
+                    "es": "//(0,30)\\\\Por supuesto.",
+                    "ru": "//(0,30)\\\\Хорошо.",
+                    "cn": "//(0,30)\\\\明白了。",
+                    "tc": "//(0,30)\\\\沒問題。",
+                    "jp": "//(0,30)\\\\お任せを。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr29774_trngbdgrndm02_specops01_002",
+                "weight": 0.24999995529651375,
+                "soundtag": "In-world_Mission_Important",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29774_trngbdgrndm02_specops01_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29774_trngbdgrndm02_specops01_002.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Of course.",
+                    "fr": "//(0,30)\\\\Bien sûr.",
+                    "it": "//(0,30)\\\\Ma certo.",
+                    "de": "//(0,30)\\\\Natürlich.",
+                    "es": "//(0,30)\\\\Claro.",
+                    "ru": "//(0,30)\\\\Разумеется.",
+                    "cn": "//(0,30)\\\\当然。",
+                    "tc": "//(0,30)\\\\好的。",
+                    "jp": "//(0,30)\\\\もちろんです。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr29774_trngbdgrndm02_specops01_003",
+                "weight": 0.24999995529651375,
+                "soundtag": "In-world_Mission_Important",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29774_trngbdgrndm02_specops01_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29774_trngbdgrndm02_specops01_003.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\I love watching you work out.",
+                    "fr": "//(0,30)\\\\J'adore vous regarder vous entraîner.",
+                    "it": "//(0,30)\\\\Adoro guardarti mentre ti alleni.",
+                    "de": "//(0,30)\\\\Ich schau Ihnen so gern beim Trainieren zu.",
+                    "es": "//(0,30)\\\\Me encanta verle entrenar.",
+                    "ru": "//(0,30)\\\\Люблю смотреть, как вы качаетесь.",
+                    "cn": "//(0,30)\\\\我喜欢看你训练的样子。",
+                    "tc": "//(0,30)\\\\我喜歡看你訓練的樣子。",
+                    "jp": "//(0,30)\\\\あなたのトレーニングを見るのはいつでも楽しいものです。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr29774_trngbdgrndm02_specops01_004",
+                "weight": 0.24999995529651375,
+                "soundtag": "In-world_Mission_Important",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29774_trngbdgrndm02_specops01_004.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29774_trngbdgrndm02_specops01_004.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\It would be a pleasure.",
+                    "fr": "//(0,30)\\\\Avec plaisir.",
+                    "it": "//(0,30)\\\\Con piacere.",
+                    "de": "//(0,30)\\\\Es wäre mir ein Vergnügen.",
+                    "es": "//(0,30)\\\\Será un placer.",
+                    "ru": "//(0,30)\\\\С удовольствием.",
+                    "cn": "//(0,30)\\\\乐意之至。",
+                    "tc": "//(0,30)\\\\那是我的榮幸。",
+                    "jp": "//(0,30)\\\\よろこんで。"
+                }
+            }
+        ]
+    }
+}

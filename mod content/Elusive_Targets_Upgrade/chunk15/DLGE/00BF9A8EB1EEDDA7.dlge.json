@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29803_qnwalk01.sweetdialog?/dr29803_qnwalk01_civmale07_002.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr29803_qnwalk01_civmale07_002",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29803_qnwalk01_civmale07_002.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29803_qnwalk01_civmale07_002.animset].pc_animset",
+        "languages": {
+            "en": "//(0,1.4)\\\\It was... good.//(1.4,6.2)\\\\The student has learned well. Soon he will become a man.//(6.2,8.1)\\\\When we get back to the training room –//(8.1,38.1)\\\\I will teach you a trick I invented when I was an assassin with ICA.",
+            "fr": "//(0,1.4)\\\\C'était... pas mal.//(1.4,6)\\\\L'élève a appris vite. Il sera bientôt un homme, qui sait.//(6,10)\\\\Je t'apprendrai un truc quand on sera de retour à l'entraînement.//(10,40)\\\\Une technique que j'ai inventée quand j'étais assassin pour l'ICA.",
+            "it": "//(0,1.4)\\\\Hai fatto... bene.//(1.4,6.2)\\\\Il discepolo ha appreso come si deve. Presto diventerai un uomo.//(6.2,8.1)\\\\Quando torneremo alla sala dell'addestramento,//(8.1,38.1)\\\\ti insegnerò un trucchetto che ho ideato quando ero nell'ICA.",
+            "de": "//(0,6.2)\\\\Das war ... gut. Der Schüler hat fleißig gelernt. Bald wird er zum Mann werden.//(6.2,9.3)\\\\Wenn wir in den Trainingsraum zurückkommen – bringe ich dir einen Trick bei,//(9.3,39.3)\\\\den ich während meiner Zeit als Auftragsmörder der ICA erfand.",
+            "es": "//(0,5.9)\\\\Ha estado... bien. El alumno ha mejorado mucho. Pronto será ya todo un hombre.//(6.35,9.8)\\\\Cuando volvamos a la sala de entrenamiento, te enseñaré un truco que ideé//(9.8,39.8)\\\\cuando era asesino de la Agencia.",
+            "ru": "//(0,5.89)\\\\Это было... неплохо. Ученик хорошо усвоил уроки. Скоро он станет мужчиной.//(5.89,35.89)\\\\Когда мы вернемся в тренировочный зал, я научу тебя приему, который изобрел, пока работал наемным убийцей на МКА.",
+            "cn": "//(0,1.4)\\\\表现得......还不错。//(1.4,6.2)\\\\你的进步很大，很快就能成为一个男子汉。//(6.2,36.2)\\\\待我们回到训练室后，我会再教你一招我在 ICA 当刺客时所创的绝技。",
+            "tc": "//(0,1.4)\\\\表現得......還不錯。//(1.4,6.2)\\\\你的訓練很有成效，很快就能成為一個真正的男人。//(6.2,36.2)\\\\等我們回到訓練室後，我會再教你一招我在 ICA 當殺手時所創的招式。",
+            "jp": "//(0,1.436)\\\\悪くは... なかった。//(1.436,6.33)\\\\お前は良く学んでいる。あと少しで一人前になれるだろう。//(6.33,36.33)\\\\トレーニング室に戻ったら、私がICAの暗殺者だった時に考案した技を教えてあげよう。"
+        }
+    }
+}

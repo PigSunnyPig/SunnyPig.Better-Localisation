@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29858_ringbell.sweetdialog?/dr29858_ringbell_civmale07_003.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr29858_ringbell_civmale07_003",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29858_ringbell_civmale07_003.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29858_ringbell_civmale07_003.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\I was – I didn't see that. I'm sorry.",
+            "fr": "//(0,30)\\\\Je... Ah, j'avais pas vu. Désolé.",
+            "it": "//(0,30)\\\\Davvero? Non me ne sono accorto. Mi dispiace.",
+            "de": "//(0,30)\\\\Ich war ... Das habe ich übersehen. Sorry.",
+            "es": "//(0,30)\\\\Ah, yo... no la he visto. Perdón.",
+            "ru": "//(0,30)\\\\Я вроде... Я не заметил. Прости.",
+            "cn": "//(0,30)\\\\我在......我没看见，我很抱歉。",
+            "tc": "//(0,30)\\\\我在......我沒看見，我很抱歉。",
+            "jp": "//(0,30)\\\\確かに... 見落としていた。すまない。"
+        }
+    }
+}

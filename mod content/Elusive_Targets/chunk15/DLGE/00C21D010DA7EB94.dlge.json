@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29767_schminvk.sweetdialog?/dr29767_schminvk_civmale10_004.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr29767_schminvk_civmale10_004",
+        "soundtag": "In-world_Mission_Escort",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29767_schminvk_civmale10_004.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29767_schminvk_civmale10_004.animset].pc_animset",
+        "languages": {
+            "en": "//(0,4.8)\\\\I thought you always planned ahead – unlike us \"rich gombeens\".//(4.8,34.8)\\\\You do understand that our deal is off, if we don't get Quinn.",
+            "fr": "//(0,4.8)\\\\Moi qui croyais que vous anticipiez toujours tout, contrairement à nous \"riches dépravés\"...//(4.8,34.8)\\\\Vous comprenez que notre accord ne tient plus si Quinn vit ?",
+            "it": "//(0,4.8)\\\\Pensavo che tu pianificassi le cose per bene. Non come questi \"stupidi riccastri\".//(4.8,34.8)\\\\Lo capisci che senza Quinn l'affare salta?",
+            "de": "//(0,4.7)\\\\Ich dachte, Sie planen stets voraus – im Gegensatz zu uns „reichen Brummern“.//(4.7,34.7)\\\\Sie kapieren, dass unser Deal vom Tisch ist, wenn wir Quinn nicht kriegen, oder?",
+            "es": "//(0,4.55)\\\\Creía que tú siempre planeabas todo con tiempo, a diferencia de nosotros, los «ricachones».//(5.05,35.05)\\\\Sabes que el trato se cancela si Quinn no muere, ¿verdad?",
+            "ru": "//(0,4.725)\\\\А я думал, что ты всегда планируешь наперед — в отличие от нас, «богатых лохов».//(4.725,34.725)\\\\Пойми: сделка сорвется, если мы не уберем Куинна.",
+            "cn": "//(0,4.8)\\\\我还以为你总会未雨绸缪——不像我们这些「有钱的奸商」。//(4.8,34.8)\\\\你应该明白，如果我们不能搞定奎恩，我们之间的交易就会终止了。",
+            "tc": "//(0,4.9)\\\\我還以為你總會未雨綢繆——不像我們這種「有錢的奸商」。//(4.9,34.9)\\\\你應該明白，如果我們沒有解決奎恩，我們之間的交易就會終止了。",
+            "jp": "//(0,4.87)\\\\常に前もって計画しているんじゃないのか？俺たち「金持ちの金貸し」とは違ってな。//(4.87,34.87)\\\\クインを仕留められなかったら、取引は成立しないことはわかってるだろうな。"
+        }
+    }
+}

@@ -1,0 +1,228 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29816_qntrningrndm04.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "dr29816_qntrningrndm04_civmale09_001",
+                "weight": 0.04255318895299369,
+                "soundtag": "In-world_Mission_Important",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29816_qntrningrndm04_civmale09_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29816_qntrningrndm04_civmale09_001.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\I hate you, stupid Disruptor. Hate you, hate you, hate you!",
+                    "fr": "//(0,30)\\\\Je te déteste, sale bouleversant ! Pouah ! Caca ! Déteeeste !",
+                    "it": "//(0,30)\\\\Prendi questo, stupido sacco.",
+                    "de": "//(0,30)\\\\Ich hasse dich, dummer Disruptor. Hasse dich, hasse dich, hasse dich!",
+                    "es": "//(0,3.6)\\\\¡Te odio, estúpido Reventador!//(4.48,34.48)\\\\Te odio, te odio, ¡¡¡te odio!!!",
+                    "ru": "//(0,3.96)\\\\Я ненавижу тебя, тупой Разрушитель!//(3.96,6.56)\\\\Ненавижу! Ненавижу!//(6.56,36.56)\\\\НЕНАВИЖУ!",
+                    "cn": "//(0,30)\\\\我讨厌你，愚蠢的「破坏之王」！讨厌你，讨厌你，讨厌你！",
+                    "tc": "//(0,30)\\\\我恨你，愚蠢的「破壞之王」！恨你，恨你，恨你！",
+                    "jp": "//(0,30)\\\\お前なんか嫌いだ、バカなディスラプターめ！嫌いだ！嫌いだ！嫌いだ！"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr29816_qntrningrndm04_civmale09_002",
+                "weight": 0.04255318895299369,
+                "soundtag": "In-world_Mission_Important",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29816_qntrningrndm04_civmale09_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29816_qntrningrndm04_civmale09_002.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\I hate you, stupid Disruptor. Hate you, hate you, hate you!",
+                    "fr": "//(0,30)\\\\Je te déteste, sale bouleversant ! Pouah ! Caca ! Déteeeste !",
+                    "it": "//(0,30)\\\\Senti la mia RABBIA!",
+                    "de": "//(0,30)\\\\Ich hasse dich, dummer Disruptor. Hasse dich, hasse dich, hasse dich!",
+                    "es": "//(0,3.4)\\\\¡Te odio, estúpido Reventador!//(3.6,33.6)\\\\Te odio, te odio, ¡¡¡te odio!!!",
+                    "ru": "//(0,3.51)\\\\Я ненавижу тебя, тупой Разрушитель!//(3.51,6.21)\\\\Ненавижу! Ненавижу!//(6.21,36.21)\\\\НЕНАВИЖУ!",
+                    "cn": "//(0,30)\\\\我讨厌你，愚蠢的「破坏之王」！讨厌你，讨厌你，讨厌你！",
+                    "tc": "//(0,30)\\\\我恨你，愚蠢的「破壞之王」！恨你，恨你，恨你！",
+                    "jp": "//(0,30)\\\\お前なんか嫌いだ、バカなディスラプターめ！嫌いだ！嫌いだ！嫌いだ！"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr29816_qntrningrndm04_civmale09_003",
+                "weight": 0.04255318895299369,
+                "soundtag": "In-world_Mission_Important",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29816_qntrningrndm04_civmale09_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29816_qntrningrndm04_civmale09_003.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\I hate you, stupid Disruptor. Hate you, hate you, hate you!",
+                    "fr": "//(0,30)\\\\Je te déteste, sale bouleversant ! Pouah ! Caca ! Déteeeste !",
+                    "it": "//(0,30)\\\\Ti odio stupido Disgregatore! Ti odio, ti odio, ti odio!",
+                    "de": "//(0,30)\\\\Ich hasse dich, dummer Disruptor. Hasse dich, hasse dich, hasse dich!",
+                    "es": "//(0,3.27)\\\\¡Te odio... estúpido Reventador...!//(3.82,33.82)\\\\Te odio... te odio... ¡¡¡te odio...!!!",
+                    "ru": "//(0,3.36)\\\\Я ненавижу тебя, тупой Разрушитель!//(3.36,6.26)\\\\Ненавижу! Ненавижу!//(6.26,36.26)\\\\НЕНАВИЖУ!",
+                    "cn": "//(0,30)\\\\我讨厌你，愚蠢的「破坏之王」！讨厌你，讨厌你，讨厌你！",
+                    "tc": "//(0,30)\\\\我恨你，愚蠢的「破壞之王」！恨你，恨你，恨你！",
+                    "jp": "//(0,30)\\\\お前なんか嫌いだ、バカなディスラプターめ！嫌いだ！嫌いだ！嫌いだ！"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr29816_qntrningrndm04_civmale09_004",
+                "weight": 0.04255318895299369,
+                "soundtag": "In-world_Mission_Important",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29816_qntrningrndm04_civmale09_004.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29816_qntrningrndm04_civmale09_004.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\I'm gonna kill you! Disruptor!",
+                    "fr": "//(0,30)\\\\Je vais tu tuer, bouleversant !",
+                    "it": "//(0,30)\\\\Ti ucciderò Disgregatore!",
+                    "de": "//(0,30)\\\\Ich werde dich töten! Disruptor!",
+                    "es": "//(0,30)\\\\¡Te voy a matar, Reventador!",
+                    "ru": "//(0,30)\\\\Я тебя убью, Разрушитель!",
+                    "cn": "//(0,30)\\\\我要杀了你！「破坏之王」！",
+                    "tc": "//(0,30)\\\\我要殺了你！「破壞之王」！",
+                    "jp": "//(0,30)\\\\殺してやるぞ！ディスラプター！"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr29816_qntrningrndm04_civmale09_005",
+                "weight": 0.04255318895299369,
+                "soundtag": "In-world_Mission_Important",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29816_qntrningrndm04_civmale09_005.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29816_qntrningrndm04_civmale09_005.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\I'm gonna kill you! Disruptor!",
+                    "fr": "//(0,30)\\\\Je vais tu tuer, bouleversant !",
+                    "it": "//(0,30)\\\\Ti ucciderò Disgregatore!",
+                    "de": "//(0,30)\\\\Ich werde dich töten! Disruptor!",
+                    "es": "//(0,30)\\\\¡Te voy a matar... Reventador...!",
+                    "ru": "//(0,30)\\\\Я убью тебя, Разрушитель!",
+                    "cn": "//(0,30)\\\\我要杀了你！「破坏之王」！",
+                    "tc": "//(0,30)\\\\我要殺了你！「破壞之王」！",
+                    "jp": "//(0,30)\\\\殺してやるぞ！ディスラプター！"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr29816_qntrningrndm04_civmale09_006",
+                "weight": 0.10638297238248422,
+                "soundtag": "In-world_Mission_Important",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29816_qntrningrndm04_civmale09_006.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29816_qntrningrndm04_civmale09_006.animset].pc_animset",
+                "languages": {}
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr29816_qntrningrndm04_civmale09_007",
+                "weight": 0.10638297238248422,
+                "soundtag": "In-world_Mission_Important",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29816_qntrningrndm04_civmale09_007.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29816_qntrningrndm04_civmale09_007.animset].pc_animset",
+                "languages": {}
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr29816_qntrningrndm04_civmale09_008",
+                "weight": 0.04255318895299369,
+                "soundtag": "In-world_Mission_Important",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29816_qntrningrndm04_civmale09_008.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29816_qntrningrndm04_civmale09_008.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\I hate you, stupid Disruptor. Hate you, hate you, hate you!",
+                    "fr": "//(0,30)\\\\Je te déteste, sale bouleversant ! Pouah ! Caca ! Déteeeste !",
+                    "it": "//(0,30)\\\\Ti odio stupido Disgregatore! Ti odio, ti odio, ti odio!",
+                    "de": "//(0,30)\\\\Ich hasse dich, dummer Disruptor. Hasse dich, hasse dich, hasse dich!",
+                    "es": "//(0,2.45)\\\\¡Te odio, estúpido Reventador!//(3.07,33.07)\\\\Te odio, te odio, ¡¡¡te odio!!!",
+                    "ru": "//(0,2.56)\\\\Я ненавижу тебя, тупой Разрушитель!//(2.56,4.697)\\\\Ненавижу! Ненавижу!//(4.697,34.697)\\\\НЕНАВИЖУ!",
+                    "cn": "//(0,30)\\\\我讨厌你，愚蠢的「破坏之王」！讨厌你，讨厌你，讨厌你！",
+                    "tc": "//(0,30)\\\\我恨你，愚蠢的「破壞之王」！恨你，恨你，恨你！",
+                    "jp": "//(0,30)\\\\お前なんか嫌いだ、バカなディスラプターめ！嫌いだ！嫌いだ！嫌いだ！"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr29816_qntrningrndm04_civmale09_009",
+                "weight": 0.10638297238248422,
+                "soundtag": "In-world_Mission_Important",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29816_qntrningrndm04_civmale09_009.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29816_qntrningrndm04_civmale09_009.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\I... am... a... wonderful... kind... person...",
+                    "fr": "//(0,30)\\\\Je... suis... une... personne... adorable !",
+                    "it": "//(0,30)\\\\Io... sono... una persona... gentile... meravigliosa...",
+                    "de": "//(0,30)\\\\Ich... bin... eine... wundervolle... freundliche... Person...",
+                    "es": "//(0,30)\\\\Soy una... persona amable y adorable...",
+                    "ru": "//(0,3.036)\\\\Я... прекрасный...//(3.036,4.236)\\\\добрый...//(4.236,34.236)\\\\человек...",
+                    "cn": "//(0,30)\\\\我......是......个......大......好人......",
+                    "tc": "//(0,30)\\\\我......是......個......絕佳的......好人......",
+                    "jp": "//(0,30)\\\\俺は... 素晴らしく... 優しい... 人間だ..."
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr29816_qntrningrndm04_civmale09_010",
+                "weight": 0.10638297238248422,
+                "soundtag": "In-world_Mission_Important",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29816_qntrningrndm04_civmale09_010.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29816_qntrningrndm04_civmale09_010.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\I... am... a... big... strong... man!",
+                    "fr": "//(0,30)\\\\Je... suis... un... homme... puissant !",
+                    "it": "//(0,30)\\\\Io... sono... un uomo... grande... forte...",
+                    "de": "//(0,30)\\\\Ich... bin... ein... großer... starker... Mann!",
+                    "es": "//(0,30)\\\\¡Soy... un gran... hombretón!",
+                    "ru": "//(0,2.436)\\\\Я... большой...//(2.436,3.804)\\\\сильный...//(3.804,33.804)\\\\мужик!",
+                    "cn": "//(0,30)\\\\我......是......个......强......者！",
+                    "tc": "//(0,30)\\\\我......是......個......強大的......男人！",
+                    "jp": "//(0,30)\\\\俺は... でかくて... 強い... 男だ！"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr29816_qntrningrndm04_civmale09_011",
+                "weight": 0.10638297238248422,
+                "soundtag": "In-world_Mission_Important",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29816_qntrningrndm04_civmale09_011.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29816_qntrningrndm04_civmale09_011.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Feel... my... RAGE!",
+                    "fr": "//(0,30)\\\\Ressens... ma... HAINE !",
+                    "it": "//(0,30)\\\\Senti... la mia... RABBIA!",
+                    "de": "//(0,30)\\\\Spüre... meinen... ZORN!",
+                    "es": "//(0,30)\\\\¡Siente mi furia!",
+                    "ru": "//(0,1.268)\\\\Ощути...//(1.268,2.736)\\\\мою...//(2.736,32.736)\\\\ЯРОСТЬ!",
+                    "cn": "//(0,30)\\\\感受......我的......愤怒！",
+                    "tc": "//(0,30)\\\\嚐嚐......我的......怒火！",
+                    "jp": "//(0,30)\\\\俺の... 怒りを... 感じろ！"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr29816_qntrningrndm04_civmale09_012",
+                "weight": 0.10638297238248422,
+                "soundtag": "In-world_Mission_Important",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29816_qntrningrndm04_civmale09_012.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29816_qntrningrndm04_civmale09_012.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\I... will... kill... you... stupid... bag.",
+                    "fr": "//(0,30)\\\\Je... vais... te... buter... sac... à... merde.",
+                    "it": "//(0,30)\\\\Ti ucciderò... brutto... sacco... di merda.",
+                    "de": "//(0,30)\\\\Ich... werde... dich... töten... du... dummer... Sack.",
+                    "es": "//(0,30)\\\\¡Voy... a... matarte, maldito... saco!",
+                    "ru": "//(0,2.759)\\\\Я... убью... тебя...//(2.759,32.759)\\\\тупая... груша.",
+                    "cn": "//(0,30)\\\\我......会......杀了......你的......愚蠢的......沙袋。",
+                    "tc": "//(0,30)\\\\我......會......幹掉......你的......愚蠢的......沙包。",
+                    "jp": "//(0,30)\\\\俺は... お前を... 殺してやる... バカな... バッグめ。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr29816_qntrningrndm04_civmale09_013",
+                "weight": 0.10638297238248422,
+                "soundtag": "In-world_Mission_Important",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29816_qntrningrndm04_civmale09_013.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29816_qntrningrndm04_civmale09_013.animset].pc_animset",
+                "languages": {}
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29803_qnwalk01.sweetdialog?/dr29803_qnwalk01_civmale09_003.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr29803_qnwalk01_civmale09_003",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29803_qnwalk01_civmale09_003.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29803_qnwalk01_civmale09_003.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\ICA? Never heard of it.",
+            "fr": "//(0,30)\\\\L'ICA ? Jamais entendu parler.",
+            "it": "//(0,30)\\\\ICA? Mai sentita nominare.",
+            "de": "//(0,30)\\\\ICA? Nie davon gehört.",
+            "es": "//(0,30)\\\\¿La Agencia? No sé qué es eso.",
+            "ru": "//(0,30)\\\\МКА? Впервые слышу.",
+            "cn": "//(0,30)\\\\ICA？没听说过。",
+            "tc": "//(0,30)\\\\ICA？沒聽說過。",
+            "jp": "//(0,30)\\\\ICA？聞いたことありませんね。"
+        }
+    }
+}

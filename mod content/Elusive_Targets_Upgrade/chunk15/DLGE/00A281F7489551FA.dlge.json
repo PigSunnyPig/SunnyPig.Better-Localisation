@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29803_qnwalk01.sweetdialog?/dr29803_qnwalk01_civmale09_005.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr29803_qnwalk01_civmale09_005",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29803_qnwalk01_civmale09_005.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29803_qnwalk01_civmale09_005.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\47? To be legendary, shouldn't it have been Agent 1?",
+            "fr": "//(0,30)\\\\Agent 47 ? Pour être si légendaire, faudrait-il pas plutôt être numéro 1 ?",
+            "it": "//(0,30)\\\\Come James Bond? 007.",
+            "de": "//(0,1.5)\\\\47?//(1.5,31.5)\\\\Hätte es nicht Agent 1 sein müssen, um legendär zu sein?",
+            "es": "//(0,30)\\\\¿47? ¿Lo legendario no sería ser el Agente 1?",
+            "ru": "//(0,30)\\\\47? Быть Агентом 1 не легендарнее?",
+            "cn": "//(0,30)\\\\47？作为一个传奇人物的话，不应该是叫「特工 1 号」才对嘛？",
+            "tc": "//(0,30)\\\\47？作為一個傳奇人物的話，不是應該叫「特務 1 號」嗎？",
+            "jp": "//(0,30)\\\\47?伝説なら、エージェント1では？"
+        }
+    }
+}

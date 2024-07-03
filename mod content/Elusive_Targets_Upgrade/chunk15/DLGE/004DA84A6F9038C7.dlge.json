@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29821_moc47invoke02.sweetdialog?/dr29821_moc47invoke02_et_pen_008.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr29821_moc47invoke02_et_pen_008",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29821_moc47invoke02_et_pen_008.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29821_moc47invoke02_et_pen_008.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Any last wishes, baldy?",
+            "fr": "//(0,30)\\\\Une dernière volonté, crâne d'œuf ?",
+            "it": "//(0,30)\\\\Hai un ultimo desiderio, pelatino?",
+            "de": "//(0,30)\\\\Irgendwelche letzten Wünsche, Glatzkopf?",
+            "es": "//(0,30)\\\\¿Algún último deseo, calvorota?",
+            "ru": "//(0,30)\\\\Есть последнее желание, лысик?",
+            "cn": "//(0,30)\\\\有什么遗愿吗，秃子？",
+            "tc": "//(0,30)\\\\有什麼遺願嗎，禿頭？",
+            "jp": "//(0,30)\\\\死ぬ前に言いたい事は何かあるかい、ハゲちゃん？"
+        }
+    }
+}

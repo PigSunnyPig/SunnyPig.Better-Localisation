@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29789_mocrules04.sweetdialog?/dr29789_mocrules04_et_pen_003.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr29789_mocrules04_et_pen_003",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29789_mocrules04_et_pen_003.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29789_mocrules04_et_pen_003.animset].pc_animset",
+        "languages": {
+            "en": "//(0,1.4)\\\\Stop.//(1.4,31.4)\\\\You are embarrassing yourself.",
+            "fr": "//(0,1.4)\\\\T'es sûr ?//(1.4,31.4)\\\\Tu devrais arrêter de te ridiculiser.",
+            "it": "//(0,1.4)\\\\Ma smettila,//(1.4,31.4)\\\\ti stai rendendo ridicolo.",
+            "de": "//(0,1.6)\\\\Ach, hör auf.//(1.6,31.6)\\\\Du blamierst dich doch nur.",
+            "es": "//(0,30)\\\\Déjalo ya. Estás haciendo el ridículo.",
+            "ru": "//(0,30)\\\\Ой, всё. Хватит уже позориться.",
+            "cn": "//(0,30)\\\\别了，你这是在自取其辱。",
+            "tc": "//(0,30)\\\\拜託，你這是在自取其辱。",
+            "jp": "//(0,30)\\\\もうやめろよ。聞いてる方が恥ずかしくなってくる。"
+        }
+    }
+}

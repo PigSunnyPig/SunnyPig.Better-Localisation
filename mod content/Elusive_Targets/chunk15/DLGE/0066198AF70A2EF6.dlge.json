@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29811_qntrning01.sweetdialog?/dr29811_qntrning01_civmale07_003.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr29811_qntrning01_civmale07_003",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29811_qntrning01_civmale07_003.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29811_qntrning01_civmale07_003.animset].pc_animset",
+        "languages": {
+            "en": "//(0,5.2)\\\\Okay, forget what I told you outside. Sure, the Chi is important. But...//(5.2,35.2)\\\\winning is better.",
+            "fr": "//(0,30)\\\\Oublie tout ce que je t'ai dit dehors sur le chi. Enfin, le chi est important, mais... la victoire, c'est mieux.",
+            "it": "//(0,5.2)\\\\Ok, lascia stare quello che ti ho detto là fuori. Il Chi è importante, ma...//(5.2,35.2)\\\\vincere è meglio.",
+            "de": "//(0,30)\\\\Okay, vergiss, was ich dir draußen gesagt habe. Sicher, Chi ist wichtig. Aber ... Gewinnen ist wichtiger.",
+            "es": "//(0,30)\\\\Vale, olvida lo que te dije fuera. Sí, el chi es importante, pero... ganar lo es aún más.",
+            "ru": "//(0,30)\\\\Так, забудь обо всем, что я сказал снаружи. Ци, конечно, очень важна. Но... победа важнее.",
+            "cn": "//(0,4.35)\\\\好吧，忘记我在外面告诉你的道理。当然，「气」很重要。//(4.35,35.2)\\\\但是......获胜的感觉更重要。",
+            "tc": "//(0,4.35)\\\\好吧，忘掉我在外面跟你說的東西。「氣」固然很重要。//(4.35,35.2)\\\\但是......獲勝更重要。",
+            "jp": "//(0,30)\\\\私が外で言っていたことは忘れるのだ。気は確かに重要だが... 勝つことのほうがもっと重要だ。"
+        }
+    }
+}

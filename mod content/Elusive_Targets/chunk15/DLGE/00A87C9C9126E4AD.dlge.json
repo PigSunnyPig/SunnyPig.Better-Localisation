@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29858_ringbell.sweetdialog?/dr29858_ringbell_civmale07_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr29858_ringbell_civmale07_001",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29858_ringbell_civmale07_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29858_ringbell_civmale07_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Hey! What do you think you're doing! That's my job!",
+            "fr": "//(0,30)\\\\Hé ! Qu'est-ce que vous faites ? C'est mon boulot !",
+            "it": "//(0,30)\\\\Ehi! Cosa pensi di fare? È il mio lavoro quello!",
+            "de": "//(0,30)\\\\Hey! Was meinen Sie, was Sie da machen! Das ist meine Aufgabe!",
+            "es": "//(0,30)\\\\¡Oye! ¿Qué te crees que estás haciendo? ¡Ese es mi trabajo!",
+            "ru": "//(0,30)\\\\Эй! Ты чего делаешь? Это моя работа!",
+            "cn": "//(0,30)\\\\喂！你这是想怎样？！那是我的工作吧！",
+            "tc": "//(0,30)\\\\嘿！你這是想怎樣？！那是我的工作吧！",
+            "jp": "//(0,30)\\\\おい！なにしてる！それは俺がやる仕事だ！"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29786_mocrules01.sweetdialog?/dr29786_mocrules01_civmale06_003.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr29786_mocrules01_civmale06_003",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29786_mocrules01_civmale06_003.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29786_mocrules01_civmale06_003.animset].pc_animset",
+        "languages": {
+            "en": "//(0,3.1)\\\\Sorry... Mr. The Disruptor has agreed.//(3.1,5.5)\\\\So, everything is perfectly acceptable.//(5.5,8.2)\\\\And finally... And maybe most important of all!//(8.2,13.2)\\\\Our two contenders may invoke the right of a second if they so do choose –//(13.2,43.2)\\\\meaning they can forfeit their own presence with another poor individual who must take their place.",
+            "fr": "//(0,3.1)\\\\Pardon... M. Le bouleversant a accepté.//(3.1,5.5)\\\\Ainsi, tout est donc parfaitement acceptable.//(5.5,8.2)\\\\Dernier point, et non des moindres !//(8.2,13.2)\\\\Les combattants peuvent invoquer le droit de remplacement s'ils le veulent.//(13.2,43.2)\\\\Ils pourront donc laisser quelqu'un d'autre aller dans la cage pour se battre à leur place !",
+            "it": "//(0,3.1)\\\\Scusate... I signor Disgregatore ha accettato.//(3.1,5.5)\\\\Quindi è tutto perfettamente regolare.//(5.5,8.2)\\\\E infine... Forse la cosa più importante!//(8.2,13.2)\\\\I nostri contendenti possono invocare il Diritto di sostituzione se lo desiderano,//(13.2,43.2)\\\\vale a dire che possono rimpiazzare la propria presenza con un altro povero individuo che dovrà prendere il loro posto.",
+            "de": "//(0,5.6)\\\\Verzeihung ... Mr.  Der Disruptor hat eingewilligt. Also alles völlig akzeptabel.//(5.6,8)\\\\Und zu guter Letzt ... und vielleicht am allerwichtigsten://(8,12.90528)\\\\Unsere beiden Kontrahenten können sich auf das Sekundantenanrecht berufen, falls sie dies möchten –//(12.90528,42.90528)\\\\sie können ihren Platz an eine andere bedauernswerte Person abtreten.",
+            "es": "//(0,5.75)\\\\Perdón: el señor «El Reventador» ha aceptado, así que todo está en orden.//(5.75,10.25)\\\\Y, por último, y puede que lo más importante de todo, nuestros dos contendientes pueden acogerse//(10.25,13.1)\\\\al derecho de reemplazo si así lo desean.//(13.1,43.1)\\\\Eso significa que pueden dejar su lugar a otra pobre criatura que luche en su nombre.",
+            "ru": "//(0,3.11)\\\\Простите, мистер Великий Разрушитель — согласился.//(3.11,8.133)\\\\Поэтому всё в порядке. И наконец... Пожалуй, самое важное!//(8.133,13.1)\\\\Любой из соперников может при желании выставить на бой секунданта —//(13.1,43.1)\\\\то есть уйти и вместо себя отправить на ринг какого-нибудь незадачливого беднягу.",
+            "cn": "//(0,3.1)\\\\抱歉......「破坏之王」先生也同意了。//(3.1,5.5)\\\\因此，所采用的一切手段都是会被容许的。//(5.5,8.2)\\\\而最后......也许也是最重要的一点！//(8.2,13.2)\\\\如果我们的两位竞争者愿意的话，他们都可以行使「代打权」。//(13.2,43.2)\\\\这意味着他们本人就可以放弃自己的席位，让另一位可怜人接替他们的位置。",
+            "tc": "//(0,3.1)\\\\抱歉......「破壞之王」先生也同意了。//(3.1,5.5)\\\\所以，所採取的一切手段都是會被接納的。//(5.6,8.2)\\\\而最後......也許也是最重要的一點！//(8.2,13.2)\\\\如果願意的話，參賽者雙方都可以行使「替身權」。//(13.2,43.2)\\\\這意味著他們本人就可以放棄自己的席位，讓另一位可憐蟲來代替出賽。",
+            "jp": "//(0,5.6)\\\\失礼しました... ザ・ディスラプター氏も同意したルールなので、問題ありません。//(5.6,8.199)\\\\そして最後に... これが最も重要なルールとなるかもしれませんよ！//(8.199,13.35)\\\\彼らが望むなら、両者は代理人の権利を行使することができます。//(13.35,43.35)\\\\つまり、自分たちの出場権を放棄して、別の哀れな人物を代わりに出場させることができるのです。"
+        }
+    }
+}
