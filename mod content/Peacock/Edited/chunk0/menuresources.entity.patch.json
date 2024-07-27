@@ -1,0 +1,27 @@
+{
+    "tempHash": "0093A0F6345CF59D",
+    "tbluHash": "000B130B701B0A23",
+    "patch": [
+        {
+            "AddEntity": [
+                "feed27a52810e9bc",
+                {
+                    "parent": "23b3aa5d63435ab4",
+                    "name": "Peacock (Dynamic Resources)",
+                    "factory": "[modules:/zuitextentity.class].pc_entitytype",
+                    "blueprint": "[modules:/zuitextentity.class].pc_entityblueprint",
+                    "properties": {
+                        "m_pTextListResource": {
+                            "type": "ZRuntimeResourceID",
+                            "value": {
+                                "resource": "[assembly:/localization/hitman6/conversations/ui/pro/online/peacock.sweetmenutext].pc_localized-textlist",
+                                "flag": "5F"
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "patchVersion": 6
+}

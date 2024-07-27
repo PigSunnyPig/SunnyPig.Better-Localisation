@@ -1,0 +1,145 @@
+{
+    "hash": "00F4FFFC0BDCF5CF",
+    "languages": {
+        "xx": 
+        {
+            "UI_CONTRACT_NEGRONI_TITLE": "The Brothers",
+            "UI_CHALLENGES_ET_NEGRONI_A_TARGETDOWN_NAME": "The Brain",
+            "UI_CHALLENGES_ET_NEGRONI_A_TARGETDOWN_DESC": "<li>Assassinate The Brain.</li>",
+            "UI_CHALLENGES_ET_NEGRONI_B_TARGETDOWN_NAME": "The Brawler",
+            "UI_CHALLENGES_ET_NEGRONI_B_TARGETDOWN_DESC": "<li>Assassinate The Brawler.</li>",
+            "UI_CHALLENGES_ET_NEGRONI_SILENT_ASSASSIN_NAME": "Silent Assassin",
+            "UI_CHALLENGES_ET_NEGRONI_SILENT_ASSASSIN_DESC": "<li>Assassinate The Brain.</li><li>Assassinate The Brawler.</li><li>Only kill the targets.</il><li>No bodies found.</il><li>Do not get spotted.</il><li>If you are detected by cameras, erase or destroy the evidence.</li>",
+            "66632ec7-5782-4189-8568-59b7e95fffe3_key_et_negronisnailkey_title": "Caruso's Key",
+            "66632ec7-5782-4189-8568-59b7e95fffe3_key_et_negronisnailkey_description": "A key. Opens utility room in Marrakesh marketplace.",
+            "8de2b288-489b-4778-af8c-f6b3e6f84413_key_et_negroni_pda_title": "PDA",
+            "8de2b288-489b-4778-af8c-f6b3e6f84413_key_et_negroni_pda_description": "Contains information about Crystal dawn connection to the Delgado Cartel."
+        },
+        "en": 
+        {
+            "UI_CONTRACT_NEGRONI_TITLE": "The Brothers",
+            "UI_CHALLENGES_ET_NEGRONI_A_TARGETDOWN_NAME": "The Brain",
+            "UI_CHALLENGES_ET_NEGRONI_A_TARGETDOWN_DESC": "<li>Assassinate The Brain.</li>",
+            "UI_CHALLENGES_ET_NEGRONI_B_TARGETDOWN_NAME": "The Brawler",
+            "UI_CHALLENGES_ET_NEGRONI_B_TARGETDOWN_DESC": "<li>Assassinate The Brawler.</li>",
+            "UI_CHALLENGES_ET_NEGRONI_SILENT_ASSASSIN_NAME": "Silent Assassin",
+            "UI_CHALLENGES_ET_NEGRONI_SILENT_ASSASSIN_DESC": "<li>Assassinate The Brain.</li><li>Assassinate The Brawler.</li><li>Only kill the targets.</il><li>No bodies found.</il><li>Do not get spotted.</il><li>If you are detected by cameras, erase or destroy the evidence.</li>",
+            "66632ec7-5782-4189-8568-59b7e95fffe3_key_et_negronisnailkey_title": "Caruso's Key",
+            "66632ec7-5782-4189-8568-59b7e95fffe3_key_et_negronisnailkey_description": "A key. Opens utility room in Marrakesh marketplace.",
+            "8de2b288-489b-4778-af8c-f6b3e6f84413_key_et_negroni_pda_title": "PDA",
+            "8de2b288-489b-4778-af8c-f6b3e6f84413_key_et_negroni_pda_description": "Contains information about Crystal dawn connection to the Delgado Cartel."
+        },
+        "fr": 
+        {
+            "UI_CONTRACT_NEGRONI_TITLE": "Les frères",
+            "UI_CHALLENGES_ET_NEGRONI_A_TARGETDOWN_NAME": "Le cerveau",
+            "UI_CHALLENGES_ET_NEGRONI_A_TARGETDOWN_DESC": "<li>Assassinez le cerveau.</li>",
+            "UI_CHALLENGES_ET_NEGRONI_B_TARGETDOWN_NAME": "Le bagarreur",
+            "UI_CHALLENGES_ET_NEGRONI_B_TARGETDOWN_DESC": "<li>Assassinez le bagarreur.</li>",
+            "UI_CHALLENGES_ET_NEGRONI_SILENT_ASSASSIN_NAME": "Assassin silencieux",
+            "UI_CHALLENGES_ET_NEGRONI_SILENT_ASSASSIN_DESC": "<li>Assassinez le cerveau.</li><li>Assassinez le bagarreur.</li><li>Abattez uniquement les cibles.</li><li>Aucun corps trouvé.</li><li>Ne vous faites pas repérer.</li><li>Si vous êtes repéré par les caméras, effacez ou détruisez la vidéo.</li>",
+            "66632ec7-5782-4189-8568-59b7e95fffe3_key_et_negronisnailkey_title": "Clé de Caruso",
+            "66632ec7-5782-4189-8568-59b7e95fffe3_key_et_negronisnailkey_description": "Une clé ouvrant la salle de service se trouvant sur la place du marché de Marrakech.",
+            "8de2b288-489b-4778-af8c-f6b3e6f84413_key_et_negroni_pda_title": "PDA",
+            "8de2b288-489b-4778-af8c-f6b3e6f84413_key_et_negroni_pda_description": "Contient des informations sur la connexion entre Crystal Dawn et le cartel Delgado."
+        },
+        "it": 
+        {
+            "UI_CONTRACT_NEGRONI_TITLE": "I fratelli",
+            "UI_CHALLENGES_ET_NEGRONI_A_TARGETDOWN_NAME": "La mente",
+            "UI_CHALLENGES_ET_NEGRONI_A_TARGETDOWN_DESC": "<li>Elimina la mente.</li>",
+            "UI_CHALLENGES_ET_NEGRONI_B_TARGETDOWN_NAME": "Il bruto",
+            "UI_CHALLENGES_ET_NEGRONI_B_TARGETDOWN_DESC": "<li>Elimina il bruto.</li>",
+            "UI_CHALLENGES_ET_NEGRONI_SILENT_ASSASSIN_NAME": "Assassino silenzioso",
+            "UI_CHALLENGES_ET_NEGRONI_SILENT_ASSASSIN_DESC": "<li>Elimina la mente.</li><li>Elimina il bruto.</li><li>Elimina solo i bersagli.</li><li>Fai in modo che nessun corpo sia rinvenuto.</li><li>Non essere individuato.</li><li>Se vieni inquadrato dalle telecamere, cancella o distruggi le registrazioni.</li>",
+            "66632ec7-5782-4189-8568-59b7e95fffe3_key_et_negronisnailkey_title": "Chiave dei Caruso",
+            "66632ec7-5782-4189-8568-59b7e95fffe3_key_et_negronisnailkey_description": "Una chiave in grado di aprire il ripostiglio nel mercato di Marrakech.",
+            "8de2b288-489b-4778-af8c-f6b3e6f84413_key_et_negroni_pda_title": "Palmare",
+            "8de2b288-489b-4778-af8c-f6b3e6f84413_key_et_negroni_pda_description": "Contiene informazioni sui rapporti tra il Crystal Dawn e il cartello dei Delgado."
+        },
+        "de": 
+        {
+            "UI_CONTRACT_NEGRONI_TITLE": "Die Brüder",
+            "UI_CHALLENGES_ET_NEGRONI_A_TARGETDOWN_NAME": "Das Hirn",
+            "UI_CHALLENGES_ET_NEGRONI_A_TARGETDOWN_DESC": "<li>Eliminieren Sie das Hirn.</li>",
+            "UI_CHALLENGES_ET_NEGRONI_B_TARGETDOWN_NAME": "Der Rabauke",
+            "UI_CHALLENGES_ET_NEGRONI_B_TARGETDOWN_DESC": "<li>Eliminieren Sie den Rabauken.</li>",
+            "UI_CHALLENGES_ET_NEGRONI_SILENT_ASSASSIN_NAME": "Lautloser Killer",
+            "UI_CHALLENGES_ET_NEGRONI_SILENT_ASSASSIN_DESC": "<li>Eliminieren Sie das Hirn.</li><li>Eliminieren Sie den Rabauken.</li><li>Töten Sie nur die Ziele.</li><li>Keine Körper dürfen gefunden werden.</li><li>Bleiben Sie unbemerkt.</li><li>Werden Sie von Kameras gefilmt, löschen oder zerstören Sie die Beweise.</li>",
+            "66632ec7-5782-4189-8568-59b7e95fffe3_key_et_negronisnailkey_title": "Carusos Schlüssel",
+            "66632ec7-5782-4189-8568-59b7e95fffe3_key_et_negronisnailkey_description": "Ein Schlüssel für den Lagerraum am Markt in Marrakesch.",
+            "8de2b288-489b-4778-af8c-f6b3e6f84413_key_et_negroni_pda_title": "PDA",
+            "8de2b288-489b-4778-af8c-f6b3e6f84413_key_et_negroni_pda_description": "Enthält Information über Crystal Dawns Verbindung zum Delgado-Kartell."
+        },
+        "es": 
+        {
+            "UI_CONTRACT_NEGRONI_TITLE": "Los hermanos",
+            "UI_CHALLENGES_ET_NEGRONI_A_TARGETDOWN_NAME": "La mente",
+            "UI_CHALLENGES_ET_NEGRONI_A_TARGETDOWN_DESC": "<li>Asesina a la mente.</li>",
+            "UI_CHALLENGES_ET_NEGRONI_B_TARGETDOWN_NAME": "El matón",
+            "UI_CHALLENGES_ET_NEGRONI_B_TARGETDOWN_DESC": "<li>Asesina al matón.</li>",
+            "UI_CHALLENGES_ET_NEGRONI_SILENT_ASSASSIN_NAME": "Asesino silencioso",
+            "UI_CHALLENGES_ET_NEGRONI_SILENT_ASSASSIN_DESC": "<li>Asesina a la mente.</li><li>Asesina al matón.</li><li>Mata solo a los objetivos.</li><li>Que no descubran cuerpos.</li><li>Evita que te descubran.</li><li>Si te detectan las cámaras, borra o destruye las pruebas.</li>",
+            "66632ec7-5782-4189-8568-59b7e95fffe3_key_et_negronisnailkey_title": "Llave de Caruso",
+            "66632ec7-5782-4189-8568-59b7e95fffe3_key_et_negronisnailkey_description": "Una llave. Abre la puerta del cuarto de servicio en el mercado de Marrakech.",
+            "8de2b288-489b-4778-af8c-f6b3e6f84413_key_et_negroni_pda_title": "PDA",
+            "8de2b288-489b-4778-af8c-f6b3e6f84413_key_et_negroni_pda_description": "Contiene información sobre la conexión entre Crystal Dawn y el cártel de Delgado."
+        },
+        "ru": 
+        {
+            "UI_CONTRACT_NEGRONI_TITLE": "Братья",
+            "UI_CHALLENGES_ET_NEGRONI_A_TARGETDOWN_NAME": "Умник",
+            "UI_CHALLENGES_ET_NEGRONI_A_TARGETDOWN_DESC": "<li>Убейте Умника</li>",
+            "UI_CHALLENGES_ET_NEGRONI_B_TARGETDOWN_NAME": "Драчун",
+            "UI_CHALLENGES_ET_NEGRONI_B_TARGETDOWN_DESC": "<li>Убейте Драчуна.</li>",
+            "UI_CHALLENGES_ET_NEGRONI_SILENT_ASSASSIN_NAME": "Бесшумный убийца",
+            "UI_CHALLENGES_ET_NEGRONI_SILENT_ASSASSIN_DESC": "<li>Убейте Умника.</li><li>Убейте Драчуна.</li><li>Убивайте только цели.</li><li>Ни одно тело не должно быть обнаружено.</li><li>Не дайте себя заметить.</li><li>Если вас заметят камеры, стирайте или уничтожайте улики.</li>",
+            "66632ec7-5782-4189-8568-59b7e95fffe3_key_et_negronisnailkey_title": "Ключ Карузо",
+            "66632ec7-5782-4189-8568-59b7e95fffe3_key_et_negronisnailkey_description": "Ключ. Отпирает подсобное помещение на рынке Марракеша.",
+            "8de2b288-489b-4778-af8c-f6b3e6f84413_key_et_negroni_pda_title": "КПК",
+            "8de2b288-489b-4778-af8c-f6b3e6f84413_key_et_negroni_pda_description": "Содержит информацию о связях «Хрустальной зари» с картелем Дельгадо."
+        },
+        "cn": 
+        {
+            "UI_CONTRACT_NEGRONI_TITLE": "兄弟",
+            "UI_CHALLENGES_ET_NEGRONI_A_TARGETDOWN_NAME": "首脑",
+            "UI_CHALLENGES_ET_NEGRONI_A_TARGETDOWN_DESC": "<li>消灭「首脑」（伦佐·卡鲁索）。</li>",
+            "UI_CHALLENGES_ET_NEGRONI_B_TARGETDOWN_NAME": "打手",
+            "UI_CHALLENGES_ET_NEGRONI_B_TARGETDOWN_DESC": "<li>消灭「打手」（奥兰多·卡鲁索）。</li>",
+            "UI_CHALLENGES_ET_NEGRONI_SILENT_ASSASSIN_NAME": "沉默刺客",
+            "UI_CHALLENGES_ET_NEGRONI_SILENT_ASSASSIN_DESC": "<li>消灭「首脑」与「打手」（伦佐·卡鲁索与奥兰多·卡鲁索）。</li><li>无人发现尸体。</li><li>仅消灭目标。</li><li>别被发现。</li><li>如果你被安保摄像头拍摄到了，则必须销毁证据。</li>",
+            "66632ec7-5782-4189-8568-59b7e95fffe3_key_et_negronisnailkey_title": "卡鲁索的私人钥匙",
+            "66632ec7-5782-4189-8568-59b7e95fffe3_key_et_negronisnailkey_description": "一把私人钥匙，可以打开马拉喀什集市里的杂物间。",
+            "8de2b288-489b-4778-af8c-f6b3e6f84413_key_et_negroni_pda_title": "平板电脑",
+            "8de2b288-489b-4778-af8c-f6b3e6f84413_key_et_negroni_pda_description": "一部平板电脑，存有一些关于「水晶黎明」与戴尔加多贩毒集团之间的情报。"
+        },
+        "tc": 
+        {
+            "UI_CONTRACT_NEGRONI_TITLE": "兄弟",
+            "UI_CHALLENGES_ET_NEGRONI_A_TARGETDOWN_NAME": "首腦",
+            "UI_CHALLENGES_ET_NEGRONI_A_TARGETDOWN_DESC": "<li>消滅「首腦」（倫佐．卡魯索）。</li>",
+            "UI_CHALLENGES_ET_NEGRONI_B_TARGETDOWN_NAME": "打手",
+            "UI_CHALLENGES_ET_NEGRONI_B_TARGETDOWN_DESC": "<li>消滅「打手」（奧蘭多．卡魯索）。</li>",
+            "UI_CHALLENGES_ET_NEGRONI_SILENT_ASSASSIN_NAME": "無聲殺手",
+            "UI_CHALLENGES_ET_NEGRONI_SILENT_ASSASSIN_DESC": "<li>消滅「首腦」與「打手」（倫佐．卡魯索與奧蘭多．卡魯索）。</li><li>無人發現屍體。</li><li>僅消滅目標。</li><li>別被發現。</li><li>若是你被監視器鏡頭拍攝到了，則必須銷毀證據。</li>",
+            "66632ec7-5782-4189-8568-59b7e95fffe3_key_et_negronisnailkey_title": "卡魯索的私人鑰匙",
+            "66632ec7-5782-4189-8568-59b7e95fffe3_key_et_negronisnailkey_description": "一把私人鑰匙，可以打開馬拉喀什市集裡的雜物間。",
+            "8de2b288-489b-4778-af8c-f6b3e6f84413_key_et_negroni_pda_title": "平板電腦",
+            "8de2b288-489b-4778-af8c-f6b3e6f84413_key_et_negroni_pda_description": "一台平板電腦，存有一些關於「水晶黎明」與戴爾加多販毒集團之間的情報。"
+        },
+        "jp": 
+        {
+            "UI_CONTRACT_NEGRONI_TITLE": "ブラザーズ",
+            "UI_CHALLENGES_ET_NEGRONI_A_TARGETDOWN_NAME": "サミット",
+            "UI_CHALLENGES_ET_NEGRONI_A_TARGETDOWN_DESC": "<li>サミットを暗殺する。</li>",
+            "UI_CHALLENGES_ET_NEGRONI_B_TARGETDOWN_NAME": "ブローラー",
+            "UI_CHALLENGES_ET_NEGRONI_B_TARGETDOWN_DESC": "<li>ブローラーを暗殺する。</li>",
+            "UI_CHALLENGES_ET_NEGRONI_SILENT_ASSASSIN_NAME": "サイレントアサシン",
+            "UI_CHALLENGES_ET_NEGRONI_SILENT_ASSASSIN_DESC": "<li>サミットを暗殺する。</li><li>ブローラーを暗殺する。</li><li>ターゲットのみ殺害する。</li><li>死体を見つからないようにする。</li><li>発見されないようにする。</li><li>カメラに録画された場合、証拠を破壊または削除する。</li>",
+            "66632ec7-5782-4189-8568-59b7e95fffe3_key_et_negronisnailkey_title": "カルーソーの鍵",
+            "66632ec7-5782-4189-8568-59b7e95fffe3_key_et_negronisnailkey_description": "鍵。マラケシュ・マーケットの清掃用具室に入ることができる。",
+            "8de2b288-489b-4778-af8c-f6b3e6f84413_key_et_negroni_pda_title": "PDA",
+            "8de2b288-489b-4778-af8c-f6b3e6f84413_key_et_negroni_pda_description": "クリスタル・ドーンとデルガド・カルテルの関係性を暴く情報が記録されている。"
+        }
+    }
+}

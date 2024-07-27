@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/ancestral/bulldog/41000_elusive/41000_bramble/41000_bramble_handler/ds41511_targetescapeoutside.sweetdialog?/ds41511_targetescapeoutside_diana_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds41511_targetescapeoutside_diana_001",
+        "soundtag": "Voiceover_Handler",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/bulldog/41000_elusive/41000_bramble/41000_bramble_handler/ds41511_targetescapeoutside_diana_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/bulldog/41000_elusive/41000_bramble/41000_bramble_handler/ds41511_targetescapeoutside_diana_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\The target has left the building, 47. Get him, or he'll get away.",
+            "fr": "//(0,30)\\\\La cible a quitté le bâtiment, 47. Attrapez-le maintenant, ou il disparaîtra.",
+            "it": "//(0,30)\\\\Il bersaglio ha lasciato l'edificio, 47. Raggiungilo o riuscirà a fuggire.",
+            "de": "//(0,30)\\\\Das Ziel hat das Gebäude verlassen, 47. Erwischen Sie den Mann. Sonst entkommt er.",
+            "es": "//(0,30)\\\\El objetivo ha salido del edificio 47. Atrápalo o escapará.",
+            "ru": "//(0,30)\\\\Цель покинула здание, 47-й. Устрани его, иначе он уйдет.",
+            "cn": "//(0,30)\\\\目标已离开建筑了，47。赶快干掉他，否则他就逃之夭夭了。",
+            "tc": "//(0,30)\\\\目標已離開建築了，47。趕快解決他，否則他就逃之夭夭了。",
+            "jp": "//(0,30)\\\\ターゲットが建物から出て行ってしまったわ、47。早く捕まえないと、逃げてしまう。"
+        }
+    }
+}
