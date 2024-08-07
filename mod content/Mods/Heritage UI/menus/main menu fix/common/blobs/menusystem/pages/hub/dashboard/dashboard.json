@@ -197,7 +197,7 @@
                         }
                     },
                     "actiony": {
-                        "prompt_label": "前往目的地",
+                        "prompt_label": "$loc UI_MENU_PAGE_HUB_EVERGREEN",
                         "link": {
                             "page": "gamemode_evergreen",
                             "args": {
