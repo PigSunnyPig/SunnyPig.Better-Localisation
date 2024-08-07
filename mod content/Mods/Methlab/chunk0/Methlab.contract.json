@@ -1,0 +1,84 @@
+{
+    "Data": {
+		"Objectives": [{
+            "Id": "30f7780f-a3fc-4203-b154-aec9e3a0d038",
+            "Primary": true,
+            "IsHidden": true,
+            "SuccessEvent": {
+                "EventName": "Kill",
+                "EventValues": {
+                    "RepositoryId": "87822150-ed67-49ca-b184-2dba68392c19"
+                }
+            }
+        },{
+            "_comment": "----- Destroy Methlab -----",
+            "Id": "7effacb2-77d2-4a9c-86a7-6a69eb0aa1e2",
+            "Category": "primary",
+            "ExcludeFromScoring": false,
+            "ObjectiveType": "custom",
+            "ForceShowOnLoadingScreen": true,
+            "Image": "images/methlab.jpg",
+            "BriefingName": "$loc UI_CONTRACT_THE_CHEMIST_OBJA_BRIEFING_NAME",
+            "BriefingText": "$loc UI_CONTRACT_THE_CHEMIST_OBJA_BRIEFING_TEXT",
+            "LongBriefingText": "$loc UI_CONTRACT_THE_CHEMIST_OBJA_LONGBRIEFING",
+            "HUDTemplate": {
+                "display": "$loc UI_CONTRACT_THE_CHEMIST_OBJA_BRIEFING_TEXT",
+                "iconType": 17
+            },
+            "Type": "statemachine",
+            "Definition": {
+                "States": {
+                    "Start": {
+                        "Meth_Lab_Destroyed": {
+                            "Transition": "Success"
+                        }
+                    }
+                }
+            }
+        }],
+		"GameDifficulties": [{
+            "Difficulty": "easy",
+            "Bricks": [
+                "assembly:/_pro/scenes/missions/coastaltown/difficulty_easy_sapienza_octopus.brick"
+            ]
+        },
+        {
+            "Difficulty": "normal",
+            "Bricks": []
+        },
+        {
+            "Difficulty": "hard",
+            "Bricks": [
+                "assembly:/_pro/scenes/missions/coastaltown/octopus_pro1.brick"
+            ]
+        }],
+        "Bricks": [],
+        "RandomBricks": {
+            "TimeOfDay": [
+                "assembly:/_pro/scenes/missions/coastaltown/gamechangers_opportunities_killopportunities_methlab.brick"
+            ]
+        },
+        "GameChangers": [],
+		"Entrances": []
+    },
+    "Metadata": {
+        "UserData": null,
+        "CreatorUserId": "7545ee96-063a-49b6-a1d9-9fc2656e565b",
+        "TileImage": "images/methlab_tile.jpg",
+        "Location": "LOCATION_COASTALTOWN",
+        "Description": "UI_METHLAB_DESC",
+        "Title": "UI_METHLAB_TITLE",
+        "CodeName_Hint": "Amber",
+        "ScenePath": "assembly:/_PRO/Scenes/Missions/CoastalTown/_scene_octopus.entity",
+        "IsPublished": true,
+        "Id": "1a104b63-3e7e-43b9-9116-1b999c001e96",
+        "CreationTimestamp": "2014-04-04T09:41:27.06Z",
+        "LastUpdate": "2015-05-19T09:29:39.061Z",
+        "Type": "flashback",
+        "Subtype": "specialassignment",
+        "Release": "1.1.x",
+		"Entitlements": ["H1_LEGACY_STANDARD"],
+        "Opportunities": []
+    },
+    "UserData": {}
+}

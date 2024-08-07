@@ -1,0 +1,18 @@
+{
+    "file": "004F4B738474CEAD",
+    "patch": [  {
+        "op": "add",
+        "path": "/Root/Children/-",
+        "value": {
+            "Id": "1a104b63-3e7e-43b9-9116-1b999c001e96",
+            "_comment": "Meth",
+            "NarrativeContext": "Mission",
+            "Meta": {
+                "Ui": {
+                    "Row": 3,
+                    "Col": 5
+                }
+            }
+        }
+    }]
+}
