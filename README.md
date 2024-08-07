@@ -41,7 +41,7 @@
 - Janus (杰哥): 曾提供使用 rpkg 工具的幫助。
 - te47: 曾提供使用 Auto-Update 和 GitHub 的幫助。
 - SOHM 社區: 作為我在《殺手》圈子裡的一個家。
-- Dribbleondo & The Mafia: 作為 MOD 的靈感來源。
 - HITMAN MOD 社區：創造出各類奇蹟。
+- Dribbleondo & The Mafia: 作為 MOD 的靈感來源。
 - 「六点的萨拉热窝」: 作為我的「啟蒙者」。
 
