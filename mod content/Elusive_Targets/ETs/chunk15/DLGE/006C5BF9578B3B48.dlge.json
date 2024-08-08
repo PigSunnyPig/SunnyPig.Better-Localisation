@@ -10,7 +10,7 @@
         "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/_test_dialogue/evergreen_d/be_tryescape_diana_001.wav].pc_wes",
         "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/_test_dialogue/evergreen_d/be_tryescape_diana_001.animset].pc_animset",
         "languages": {
-            "en": "//[DIANA]\\\\//(0,2.7)\\\\47, The target is trying to escape!//(2.7,30)\\\\Don't let them get away.",
+            "en": "//[DIANA]\\\\//(0,2.7)\\\\47, the target is trying to escape!//(2.7,30)\\\\Don't let them get away.",
             "fr": "//[DIANA]\\\\//(0,2.7)\\\\47, la cible essaie de s'échapper !//(2.7,30)\\\\Arrêtez-la à tout prix.",
             "it": "//[DIANA]\\\\//(0,2.7)\\\\47, Il bersaglio sta cercando di fuggire!//(2.7,30)\\\\Non permettere che ci riesca.",
             "de": "//[DIANA]\\\\//(0,2.7)\\\\47, Das Ziel will entkommen!//(2.7,30)\\\\Lassen Sie das nicht zu.",
