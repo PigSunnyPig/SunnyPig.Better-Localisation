@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_goldendoublet/29000_goldendoublet_handler/ds29501_targetkilled.sweetdialog?/ds29501_targetkilled_diana_et_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds29501_targetkilled_diana_et_001",
+        "soundtag": "Voiceover_Handler",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_goldendoublet/29000_goldendoublet_handler/ds29501_targetkilled_diana_et_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_goldendoublet/29000_goldendoublet_handler/ds29501_targetkilled_diana_et_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,1.515837)\\\\Target eliminated.//(1.515837,4.570458)\\\\Well done, 47. The client should be pleased.",
+            "fr": "//(0,1.065837)\\\\Cible éliminée.//(1.065837,4.570458)\\\\Bien joué, 47. Voilà qui ravira le client.",
+            "it": "//(0,1.145371)\\\\Bersaglio eliminato.//(1.145371,4.570458)\\\\Ben fatto, 47. Il cliente sarà soddisfatto.",
+            "de": "//(0,1.415837)\\\\Ziel eliminiert.//(1.415837,2.852508)\\\\Gut gemacht, 47.//(2.852508,4.570458)\\\\Den Klienten sollte das freuen.",
+            "es": "//(0,1.145371)\\\\Objetivo eliminado.//(1.145371,1.938662)\\\\Buen trabajo,//(1.938662,4.570458)\\\\47. El cliente estará satisfecho.",
+            "ru": "//(0,30)\\\\Цель уничтожена. Отлично, 47. Клиент будет доволен.",
+            "cn": "//(0,30)\\\\目标已消灭。干得好，47。我们的客户应该会对此感到高兴的。",
+            "tc": "//(0,30)\\\\目標已消滅。做得好，47。我們的客戶應該會對此感到高興的。",
+            "jp": "//(0,30)\\\\ターゲットを排除。良くやったわ、47。クライアントは喜ぶはずよ。"
+        }
+    }
+}

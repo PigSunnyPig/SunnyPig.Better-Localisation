@@ -1,0 +1,30 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_skittlebomb/29000_skittlebomb_handler/ds29551_targetkilled.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "ds29551_targetkilled_diana_001",
+                "weight": 1.0,
+                "soundtag": "Voiceover_Handler",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_skittlebomb/29000_skittlebomb_handler/ds29551_targetkilled_diana_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_skittlebomb/29000_skittlebomb_handler/ds29551_targetkilled_diana_001.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,2.7)\\\\Target eliminated. Well done, 47.//(2.7,4.494)\\\\Don’t forget to pick up the voice recorder.",
+                    "fr": "//(0,0.9799954)\\\\Cible éliminée.//(0.9799954,4.494167)\\\\Bien joué, 47. N'oubliez pas de prendre le dictaphone.",
+                    "it": "//(0,2.810491)\\\\Bersaglio eliminato. Ben fatto, 47.//(2.810491,5.300982)\\\\Ricordati di raccogliere il registratore.",
+                    "de": "//(0,2.7)\\\\Ziel eliminiert. Gut gemacht, 47.//(2.7,6.528589)\\\\Vergessen Sie nicht, das Aufnahmegerät mitzunehmen.",
+                    "es": "//(0,0.9202433)\\\\Objetivo eliminado.//(0.9202433,2.644538)\\\\Buen trabajo, 47.//(2.644538,4.494167)\\\\No te olvides de coger la grabadora.",
+                    "ru": "//(0,1.217072)\\\\Цель устранена.//(1.217072,2.573268)\\\\Отлично, 47-й.//(2.573268,4.494167)\\\\Не забудь забрать диктофон.",
+                    "cn": "//(0,30)\\\\目标已消灭。干得好，47。别忘了取走录音机。",
+                    "tc": "//(0,30)\\\\目標已消滅。做得好，47。別忘了拿走錄音機。",
+                    "jp": "//(0,2.58)\\\\ターゲット排除。よくやったわ、47。//(2.58,32.58)\\\\ボイスレコーダーの回収を忘れずにね。"
+                }
+            }
+        ]
+    }
+}

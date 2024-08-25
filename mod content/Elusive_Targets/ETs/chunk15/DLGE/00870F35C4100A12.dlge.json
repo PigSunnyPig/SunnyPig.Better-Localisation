@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_goldendoublet/29000_goldendoublet_handler/ds29503_missiondone.sweetdialog?/ds29503_missiondone_diana_et_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds29503_missiondone_diana_et_001",
+        "soundtag": "Voiceover_Handler",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_goldendoublet/29000_goldendoublet_handler/ds29503_missiondone_diana_et_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_goldendoublet/29000_goldendoublet_handler/ds29503_missiondone_diana_et_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Job done, 47. Head for an exit and I'll wire the money as per usual.",
+            "fr": "//(0,1.35)\\\\Bien joué, 47.//(1.35,4.124)\\\\Trouvez une sortie et je vais transférer l'argent sur votre compte.",
+            "it": "//(0,0.6675932)\\\\Incarico terminato,//(0.6675932,2.01206)\\\\47. Cerca l'uscita,//(2.01206,4.124)\\\\effettuerò il pagamento come al solito.",
+            "de": "//(0,1.442393)\\\\Das wäre erledigt, 47.//(1.442393,2.3)\\\\Gehen Sie zum Ausgang und//(2.3,5.66908)\\\\wir überweisen wie üblich das Geld.",
+            "es": "//(0,1.6)\\\\Buen trabajo, 47.//(1.6,4.3266)\\\\Dirígete a una salida mientras te envío el dinero, como siempre.",
+            "ru": "//(0,1.524294)\\\\Задание выполнено, 47-й.//(1.524294,2.371399)\\\\Иди к выходу.//(2.371399,4.124)\\\\Я перечислю средства обычным способом.",
+            "cn": "//(0,30)\\\\任务已完成，47。前往出口吧，而我就会像往常一样把钱打给你。",
+            "tc": "//(0,30)\\\\任務已完成，47。前往出口吧，而我就會如往常般把錢匯過去。",
+            "jp": "//(0,30)\\\\任務完了、47。出口に向かってちょうだい。いつも通り送金するわ。"
+        }
+    }
+}

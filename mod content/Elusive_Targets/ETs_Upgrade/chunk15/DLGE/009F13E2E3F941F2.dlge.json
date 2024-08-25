@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_goldendoublet/29000_goldendoublet_handler/ds29502_journalstolen.sweetdialog?/ds29502_journalstolen_diana_et_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds29502_journalstolen_diana_et_001",
+        "soundtag": "Voiceover_Handler",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_goldendoublet/29000_goldendoublet_handler/ds29502_journalstolen_diana_et_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_goldendoublet/29000_goldendoublet_handler/ds29502_journalstolen_diana_et_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Excellent, 47. That's the notebook secured.",
+            "fr": "//(0,30)\\\\Excellent, 47. Cela règle l'affaire du carnet.",
+            "it": "//(0,30)\\\\Eccellente, 47. Abbiamo il taccuino.",
+            "de": "//(0,30)\\\\Ausgezeichnet, 47. Damit wäre das Notizbuch gesichert.",
+            "es": "//(0,30)\\\\Excelente, 47. Has conseguido la agenda.",
+            "ru": "//(0,30)\\\\Замечательно, 47. Записная книжка у тебя.",
+            "cn": "//(0,30)\\\\非常好，47。笔记本已到手了。",
+            "tc": "//(0,30)\\\\做得好，47。已取得筆記本了。",
+            "jp": "//(0,30)\\\\素晴らしいわ、47。ノートを確保したわね。"
+        }
+    }
+}
