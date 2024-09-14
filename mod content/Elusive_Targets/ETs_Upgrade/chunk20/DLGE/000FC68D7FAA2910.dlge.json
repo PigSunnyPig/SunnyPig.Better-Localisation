@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31109_guardawkward.sweetdialog?/dr31109_guardawkward_bdygrd04_002.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr31109_guardawkward_bdygrd04_002",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31109_guardawkward_bdygrd04_002.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31109_guardawkward_bdygrd04_002.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Well, it's my job, so...",
+            "fr": "//(0,30)\\\\Ben, c'est mon boulot, donc...",
+            "it": "//(0,30)\\\\Beh, è il mio lavoro, quindi...",
+            "de": "//(0,30)\\\\Tja, das ist ja meine Arbeit. Also ...",
+            "es": "//(0,30)\\\\Bueno, es mi trabajo, así que...",
+            "ru": "//(0,30)\\\\Ну, это моя работа, так что...",
+            "cn": "//(0,30)\\\\呃，我就是干这行的，所以......",
+            "tc": "//(0,30)\\\\這，這是我的工作，所以......",
+            "jp": "//(0,30)\\\\これが私の仕事ですから..."
+        }
+    }
+}

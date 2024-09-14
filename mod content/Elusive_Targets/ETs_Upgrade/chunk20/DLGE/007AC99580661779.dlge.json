@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31109_guardawkward.sweetdialog?/dr31109_guardawkward_et_adonisfalse_003.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr31109_guardawkward_et_adonisfalse_003",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31109_guardawkward_et_adonisfalse_003.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31109_guardawkward_et_adonisfalse_003.animset].pc_animset",
+        "languages": {
+            "en": "//(0,4.1)\\\\Right, yeah. I-I get that. I mostly mean, like...//(4.1,6)\\\\I don't know.//(6,8.531021)\\\\I guess I never pictured myself with a bodyguard.",
+            "fr": "//(0,1.845197)\\\\Oui, oui, je sais bien.//(1.845197,3.449492)\\\\Je veux dire...//(3.449492,5.8)\\\\Enfin, je ne sais pas.//(5.8,8.531021)\\\\Je ne m'étais jamais imaginée avec un garde du corps à mes côtés.",
+            "it": "//(0,2)\\\\Già, giusto. Certo, capisco.//(2,4.5)\\\\Volevo solo dire che...//(4.5,8.531021)\\\\Non lo so, non avrei mai immaginato che sarei andata in giro con una guardia del corpo.",
+            "de": "//(0,4.7)\\\\Ja, gut. Ich ... Ich verstehe schon. Ich meine nur ...//(4.7,6.026978)\\\\Also ich weiß nicht.//(6.026978,8.531021)\\\\Ich hätte nicht gedacht, dass ich je einen Leibwächter haben würde.",
+            "es": "//(0,2.277355)\\\\Sí, claro. E-eso lo entiendo.//(2.277355,3.594612)\\\\Bueno, en su mayoría,//(3.594612,5.496498)\\\\es decir... No sé.//(5.496498,7.761772)\\\\Supongo que nunca me había imaginado con un//(7.761772,8.761772)\\\\guardaespaldas.",
+            "ru": "//(0,2.189253)\\\\А, ну да. Понимаю.//(2.189253,5.209735)\\\\Я имею в виду... Даже не знаю.//(5.209735,6.554497)\\\\Я как-то не думала,//(6.554497,8.531021)\\\\что у меня будет телохранитель.",
+            "cn": "//(0,4.5)\\\\对，也是啊。我、我明白。我意思是......//(4.5,34.7)\\\\我也说不清楚。我以前从来没有想过自己身边会有保镖。",
+            "tc": "//(0,4.5)\\\\對，也是啊。我、我明白。我是說......//(4.5,34.7)\\\\我也說不清楚。我好像從來沒有想過自己身邊會有保鏢。",
+            "jp": "//(0,4.168)\\\\わかったわ。そうね。つまりね...//(4.168,34.168)\\\\なんというか。ボディガードをつけるなんて考えてなかったから。"
+        }
+    }
+}

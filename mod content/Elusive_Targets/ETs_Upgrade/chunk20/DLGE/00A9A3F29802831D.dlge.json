@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31100_terraceguards.sweetdialog?/dr31100_terraceguards_bdygrd06_003.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr31100_terraceguards_bdygrd06_003",
+        "soundtag": "In-world_Mission_Normal",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31100_terraceguards_bdygrd06_003.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31100_terraceguards_bdygrd06_003.animset].pc_animset",
+        "languages": {
+            "en": "//(0.4,4.270981)\\\\Yeah, he's got baleen on him like a whale, man.//(4.270981,6.25)\\\\Maybe that's what he does on his break,//(6.25,9.839979)\\\\you know... He goes out into the water and strains out a bunch of krill to eat.",
+            "fr": "//(0,4.15)\\\\Il a tellement de fanons, on croirait voir une baleine.//(4.15,6.35)\\\\C'est peut-être comme ça qu'il s'occupe quand il part en pause...//(6.35,9.839979)\\\\Il part pêcher du krill en haute mer.",
+            "it": "//(0,4.5)\\\\Sì, assomigliano ai fanoni, i \"denti\" delle balene.//(4.5,7.5)\\\\Forse nella pausa va a farsi una bella nuotata//(7.5,9.997417)\\\\per raccogliere e filtrare un bel po' di krill da mangiare.",
+            "de": "//(0,4.2)\\\\Ja. Der sieht damit echt aus wie ein Bartenwal.//(4.2,6.35)\\\\Vielleicht macht er das ja in seinen Pausen, weißt du?//(6.35,9.84)\\\\Er geht raus ins Wasser und fischt sich damit Krill aus dem Meer.",
+            "es": "//(0,4.186)\\\\Sí, tío. Tiene una barba que parece una ballena.//(4.186,5.996)\\\\Puede que a eso se dedique en los descansos.//(5.996,7.975741)\\\\Ya sabes... Se zambulle en el mar y usa la barba para//(7.975741,9.839979)\\\\agarrar un montón de krill para comer.",
+            "ru": "//(0,4.585)\\\\Это точно, у него усищи, как у кита.//(4.585,5.790276)\\\\Может, он этим и занимается на перекурах?//(5.790276,10.23506)\\\\Ну... Сует башку в воду и процеживает планктон через усы?",
+            "cn": "//(0.4,4.28)\\\\可不是嘛，他那胡子跟鲸须似的，老兄。//(4.28,6.25)\\\\说不定，他休息时就是那么干的。//(6.25,9.839979)\\\\你懂的......跳到水里用胡子滤出一堆小鱼小虾来吃。",
+            "tc": "//(0.4,4.28)\\\\對啊，他那跟鯨鬚一樣，老兄。//(4.28,6.25)\\\\搞不好，他休息的時候就是那麼做的。//(6.25,9.839979)\\\\你也知道......跳去水裡用鬍子濾出一些小魚小蝦來吃。",
+            "jp": "//(0,4.2)\\\\ああ、クジラみたいなヒゲだよな。//(4.2,6.68)\\\\休憩時間にそれやってるんじゃないか。//(6.68,9.839979)\\\\クジラになって水中にもぐってオキアミを取って食ってるんだ。"
+        }
+    }
+}

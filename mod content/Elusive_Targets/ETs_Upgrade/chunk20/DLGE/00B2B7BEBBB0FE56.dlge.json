@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31109_guardawkward.sweetdialog?/dr31109_guardawkward_et_adonisfalse_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr31109_guardawkward_et_adonisfalse_001",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31109_guardawkward_et_adonisfalse_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31109_guardawkward_et_adonisfalse_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\So do you... Do this kind of thing a lot?",
+            "fr": "//(0,30)\\\\Alors, vous... Vous faites ça souvent ?",
+            "it": "//(0,30)\\\\Quindi... Lo fai spesso?",
+            "de": "//(0,30)\\\\Also machst du ... Machst du so was öfter?",
+            "es": "//(0,30)\\\\Entonces..., ¿haces estas cosas muy a menudo?",
+            "ru": "//(0,30)\\\\Значит, вы... Часто таким занимаетесь?",
+            "cn": "//(0,30)\\\\话说，你......经常干这种事吗？",
+            "tc": "//(0,30)\\\\話說，你......經常做這種事嗎？",
+            "jp": "//(0,30)\\\\それであなた... こんなことばかりやってるの？"
+        }
+    }
+}

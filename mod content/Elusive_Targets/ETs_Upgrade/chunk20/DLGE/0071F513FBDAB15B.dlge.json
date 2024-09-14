@@ -1,0 +1,106 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31107_doublerehearse.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "dr31107_doublerehearse_et_adonisfalse_001",
+                "weight": 0.2,
+                "soundtag": "In-world_Mission_Important",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31107_doublerehearse_et_adonisfalse_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31107_doublerehearse_et_adonisfalse_001.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,5.337178)\\\\\"When I meet individuals in the community, I'm often overhwhelmed by their...\"//(5.337178,11.77087)\\\\I am... I'm... \"I'm\" probably sounds more approachable...//(11.77087,13.214)\\\\Maybe too approachable...",
+                    "fr": "//(0,2.1)\\\\\"Quand je rencontre des personnes de la communauté,//(2.1,4.5)\\\\je suis souvent frappée par leur...\"//(4.5,8.7)\\\\Hmm... Frappée... Émue...//(8.7,13.214)\\\\\"Émue\" me rend plus sensible, mais peut-être trop...",
+                    "it": "//(0,5.5)\\\\\"Quando incontro le persone della comunità, vengo spesso sopraffatta dal loro...\"//(5.5,9.102649)\\\\Vengo colpita... Vengo sopraffatta...//(9.102649,11.5)\\\\\"Colpita\" forse suona meglio, più alla mano...//(11.5,13.214)\\\\Forse fin troppo alla mano...",
+                    "de": "//(0,5.037178)\\\\„Wenn ich auf Menschen aus der Community treffe, überwältigt mich oft ihr ...“//(5.878697,13.214)\\\\Überwältigt mich ... „Bin ich überwältigt“ klingt wahrscheinlich nahbarer ... aber vielleicht auch zu nahbar ...",
+                    "es": "//(0,2.146)\\\\«Cuando conozco a los miembros de la comunidad,//(2.146,5.006546)\\\\suelo sentirme sobrecogida ante...».//(5.006546,6.469366)\\\\Sobrecogida...//(6.469366,8.195624)\\\\¿Será mejor decir «me asombra»?//(8.195624,10.52188)\\\\«Me asombra» suena más cercano.//(10.52188,13.214)\\\\Aunque puede que sea demasiado cercano...",
+                    "ru": "//(0,4.894916)\\\\«Общаясь с гражданами, я подчас поражаюсь их...»//(4.894916,7.553461)\\\\Подчас... Часто...//(7.553461,11.724)\\\\«Часто» звучит более доходчиво...//(11.724,13.214)\\\\Пожалуй, даже чересчур...",
+                    "cn": "//(0,5.425)\\\\“当我与社区里人们见面时，我常常对他们的......”//(5.425,35.425)\\\\我常常......我常......“我常”听起来应该更加和蔼可亲......也许和蔼过头了......",
+                    "tc": "//(0,5.5)\\\\「當我見到社群裡的人時，我往往被他們的......」//(5.5,35.5)\\\\我往往......我總是......「我總是」感覺比較親近......或許有點太親近了......",
+                    "jp": "//(0,4.868)\\\\「この近隣の皆様とお会いすると、わたくしはしばしば圧倒され...」//(4.868,8.17)\\\\「わたくし」かしら、それとも「わたし」...//(8.17,11.75)\\\\「わたし」の方が親しみやすいわね...//(11.75,13.214)\\\\親しみやすすぎるかしら..."
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr31107_doublerehearse_et_adonisfalse_002",
+                "weight": 0.2,
+                "soundtag": "In-world_Mission_Important",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31107_doublerehearse_et_adonisfalse_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31107_doublerehearse_et_adonisfalse_002.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,3.7)\\\\\"Many among us have never had to ask ourselves what we would do//(3.7,11.05)\\\\if our closest friend betrayed our trust, ruined our name, our life, everything we had built...//(11.05,15.84773)\\\\Would we rage against them? Or would we forgive?\"//(15.84773,19.25)\\\\Right, right, this should feel like a real emotional crescendo.//(19.25,20.386)\\\\Need to lean into that...",
+                    "fr": "//(0,2.15)\\\\\"Beaucoup d'entre nous n'ont jamais eu à se poser la//(2.15,4.25)\\\\question de ce qu'ils feraient si leur ami//(4.25,7.8)\\\\le plus proche les trahissait, salissait leur nom,//(7.8,10.9)\\\\détruisait leur vie et tout ce qu'ils avaient bâti...//(10.9,12.9)\\\\Seraient-ils furieux ?//(12.9,15.79019)\\\\Lui pardonneraient-ils ?\"//(15.79019,19.40501)\\\\Bien, bien, on sent bien la gradation émotionnelle.//(19.40501,20.40501)\\\\Parfait...",
+                    "it": "//(0,4.5)\\\\\"Molti di noi non si sono mai chiesti cosa faremmo se il nostro amico più caro tradisse la nostra fiducia,//(4.5,11)\\\\infangasse il nostro nome, ci rovinasse la vita e tutto quello che abbiamo costruito...//(11,16)\\\\Ci infurieremmo? O lo perdoneremmo?\"//(16,19.5)\\\\Bene, bene, deve sembrare un autentico crescendo emotivo.//(19.5,21.94914)\\\\Bisogna scivolarci lentamente...",
+                    "de": "//(0,6.617669)\\\\„Viele von uns mussten sich nie fragen, was wir tun würden, wenn uns unsere engste Freundin verrät,//(6.617669,11)\\\\unseren Namen durch den Dreck zieht, unser Leben und alles, was wir uns aufgebaut haben, ruiniert ...//(11,14.75)\\\\Würden wir deswegen vor Wut toben? Oder würden wir Vergebung zeigen?“//(16.25,20.386)\\\\Genau so. Es soll sich ja wie ein emotionales Crescendo anfühlen. Darauf muss ich es auslegen ...",
+                    "es": "//(0,2.470191)\\\\«Muchos de nosotros nunca tuvimos que preguntarnos//(2.470191,4.940383)\\\\qué haríamos si nuestro amigo más cercano//(4.940383,6.114077)\\\\traicionaba nuestra confianza,//(6.114077,8.699308)\\\\si arruinaba nuestro nombre y nuestra vida,//(8.699308,11.64883)\\\\si destrozaba todo lo que habíamos creado...//(11.64883,13.53971)\\\\¿Nos enfadaríamos con ellos?//(13.53971,15.978)\\\\¿O los perdonaríamos?».//(15.978,18.942)\\\\Vale, esto es un buen crescendo emocional.//(18.942,20.38602)\\\\Tengo que seguir por ahí...",
+                    "ru": "//(0,2.562)\\\\«Многие из нас ни разу не думали о том,//(2.562,3.633)\\\\как поступили бы,//(3.633,6.563478)\\\\если кто-то из близких друзей предал их доверие,//(6.563478,11.21936)\\\\очернил имя, разрушил жизнь и всё, что они создали...//(11.21936,16.097)\\\\Разгневались бы — или, наоборот, простили?»//(16.097,18.68917)\\\\Да, да, здесь должен быть пик эмоций.//(18.68917,20.38602)\\\\Нужно развить эту мысль...",
+                    "cn": "//(0,6.154)\\\\“我们中的很多人或许一辈子都用不着问自己：当我们最好的朋友背叛自己、//(6.154,11.05)\\\\毁掉我们的名声、生活以及辛苦经营的一切时，我们该怎么办......//(11.05,16.1)\\\\我们是对他们大发雷霆，还是原谅他们？”//(16.1,20.38602)\\\\对，对，这应该给人情绪渐强的感觉。得朝那个方向靠......",
+                    "tc": "//(0,6.4)\\\\「我們之中有許多人從來沒有想過被最親近的朋友背叛時該怎麼做，//(6.4,11)\\\\他們毀了我們的名譽、我們的人生、我們打造的一切......//(11,16.1)\\\\我們會對他們生氣嗎？還是原諒他們？」//(16.1,20.38602)\\\\對、對，這樣感覺才像是真情流露，這方面得加強一下......",
+                    "jp": "//(0,2.58)\\\\「一番の親友に信頼を裏切られたら、//(2.58,6.23)\\\\評判、生活、築いてきたものを台無しにされたらどうするのか、//(6.23,11.23)\\\\などと自問自答する人などほとんどいないでしょう。//(11.23,16.29)\\\\激怒すればいいのでしょうか？許せばいいのでしょうか？」//(16.29,19.28)\\\\そう、これよ、盛り上がって本当の感情のように聞こえるわ。//(19.28,20.38602)\\\\そこにうまく持っていかないと..."
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr31107_doublerehearse_et_adonisfalse_003",
+                "weight": 0.2,
+                "soundtag": "In-world_Mission_Important",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31107_doublerehearse_et_adonisfalse_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31107_doublerehearse_et_adonisfalse_003.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,4.200982)\\\\\"The legend of the phoenix describes a incomparable, powerful creature//(4.200982,8.013865)\\\\that perishes only to emerge from the ashes reborn.//(8.013865,13.2)\\\\Renewed. And like the phoenix, I...//(13.2,19.06147)\\\\Like the phoenix, I see myself not as damaged or diminished by this traumatic experience,//(19.06147,22.1)\\\\but revitalized!\"//(22.1,24.39967)\\\\Good. That's good...",
+                    "fr": "//(0,2.576687)\\\\\"La légende du phénix dépeint une créature//(2.576687,4.28)\\\\à la puissance incomparable,//(4.28,8)\\\\qui meurt seulement pour renaître de ses propres cendres.//(8,9.25)\\\\Un renouveau.//(9.25,12.4)\\\\Et tel le phénix, je...//(12.4,14.55055)\\\\TEL le phénix,//(14.55055,17.44)\\\\je ne me vois ni usée ni diminuée par//(17.44,19.2)\\\\cette expérience traumatisante,//(19.2,22.4)\\\\mais plutôt revigorée, renforcée...\"//(22.4,24.39967)\\\\Bien. C'est bien...",
+                    "it": "//(0,3.312883)\\\\\"La leggenda della fenice parla di una magnifica creatura//(3.312883,8)\\\\potente che muore solo per poi rinascere dalle proprie ceneri.//(8,13.5)\\\\Rinnovata. E al pari della fenice, io...//(13.5,19)\\\\\"AL PARI DELLA fenice non mi sento danneggiata o sminuita da questa esperienza traumatica,//(19,22)\\\\bensì rivitalizzata...\"//(22,24.39967)\\\\Bene. Molto bene.",
+                    "de": "//(0,7.9)\\\\„In der Legende vom Phönix vergeht eine unvergleichlich mächtige Kreatur, um aus ihrer Asche wiedergeboren zu werden.//(7.9,11.4)\\\\Mit neuer Kraft erfüllt. Und wie der Phönix werde ich ...“//(13.2,19.3)\\\\„WIE der Phönix sehe ich mich nicht durch diese traumatische Erfahrung beschädigt,//(19.3,21.29)\\\\sondern werde neue Kraft daraus schöpfen ...“//(22.6,24.4)\\\\Gut. Das ist gut ...",
+                    "es": "//(0,3.093673)\\\\«La leyenda del fénix habla de una criatura//(3.093673,4.766576)\\\\incomparable y muy poderosa,//(4.766576,8.246958)\\\\capaz de morir para renacer de sus propias cenizas//(8.246958,10.31907)\\\\como una criatura renovada.//(10.31907,13.14766)\\\\Al igual que el fénix, yo...//(13.14766,15.35029)\\\\Al igual que el fénix,//(15.35029,18.83067)\\\\no me veo dañada ni mermada por esta experiencia//(18.83067,21.80227)\\\\traumática, sino que me veo revitalizada...».//(21.80227,24.39967)\\\\Bien. Eso está bien...",
+                    "ru": "//(0,4.217)\\\\«Есть легенда о фениксе, несравненном магическом существе,//(4.217,5.98)\\\\которое погибает, чтобы потом воскреснуть//(5.98,9.748003)\\\\из пепла с новыми силами.//(9.748003,13.36)\\\\И, подобно фениксу, я...//(13.36,17.13971)\\\\Подобно фениксу, я чувствую не боль и унижение,//(17.13971,19.32057)\\\\которые мне довелось пережить,//(19.32057,22.125)\\\\а прилив сил...»//(22.125,24.39967)\\\\Хорошо. Очень хорошо...",
+                    "cn": "//(0,7.915)\\\\“不死鸟的传说讲的是一只力量强大无比的生物死亡后在灰烬中重生的故事。//(7.915,13.55)\\\\重生后，它的一切焕然一新。就像不死鸟一样，我......//(13.55,18.977)\\\\“就·像·不死鸟一样，我并没有因这次惨痛的经历而认为自己已经残缺或是心灰意冷，//(18.977,22.3)\\\\我反而觉得重获新生......”//(22.3,29.64202)\\\\很好。非常好......",
+                    "tc": "//(0,10.7681)\\\\「傳說中的鳳凰是一種無可比擬的強大生物，牠們只會在死灰中重生、復甦。//(10.7681,14.9)\\\\而就跟鳳凰一樣，我......就跟鳳凰一樣，//(14.9,19.3)\\\\我不認為我會因為這次悲慘的經歷而受到傷害或是受創，//(19.3,24.39967)\\\\反之，我將越戰越勇......」很好，這樣很好......",
+                    "jp": "//(0,4.127)\\\\「不死鳥の伝説は、比類なき力を持つ生き物が、//(4.127,9.4)\\\\死してのち再び灰から生まれ復活する話です。再生するのです。//(9.4,13.03)\\\\そして不死鳥のように私は...//(13.03,19.443)\\\\まるで不死鳥のように、自分があのトラウマ的経験で傷ついたり委縮したりしているとは思いません。//(19.443,22.775)\\\\むしろ新たな活力を得て...」//(22.775,24.39967)\\\\いいわ、悪くない..."
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr31107_doublerehearse_et_adonisfalse_004",
+                "weight": 0.2,
+                "soundtag": "In-world_Mission_Important",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31107_doublerehearse_et_adonisfalse_004.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31107_doublerehearse_et_adonisfalse_004.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,3.444785)\\\\\"When the least among us bends and falls...\"//(3.444785,6.95)\\\\No... maybe...//(6.95,13)\\\\\"When the least among us bends, falls, and breaks, we must deign to stoop...\"//(13,16.12737)\\\\Hmm, I need to work on the flow there...",
+                    "fr": "//(0,3)\\\\\"Quand les minorités plient et tombent...\"//(3,7)\\\\Non... Peut-être...//(7,9.898592)\\\\\"Quand les minorités plient, tombent et se brisent,//(9.898592,12.45757)\\\\nous devons nous pencher...\"//(12.45757,16.12737)\\\\Hmm, le rythme n'est pas bon...",
+                    "it": "//(0,3.5)\\\\\"Quando l'ultimo fra noi si piega e cade...\"//(3.5,7)\\\\No... magari...//(7,13.5)\\\\\"Quando l'ultimo tra noi si piega, cade e si spezza, dobbiamo degnarci di abbassarci...\"//(13.5,16.12737)\\\\Uhm, qui devo lavorare sulla scorrevolezza...",
+                    "de": "//(0,2.8)\\\\„Wenn die Schwächsten unter uns zu Boden gehen ...“//(3.224,10.35)\\\\Nein ... Vielleicht: „Wenn die Schwächsten unter uns zu Boden gehen und nicht mehr hochkommen,//(10.35,12)\\\\müssen wir ihnen die Hand reichen ...“//(13.5,16.127)\\\\Hm, da muss ich noch am Flow arbeiten ...",
+                    "es": "//(0,3.812883)\\\\«Cuando los más débiles de nosotros cedan y desfallezcan...».//(3.812883,8.591853)\\\\No... A ver así... «Cuando los más débiles de nosotros cedan,//(8.591853,10.4672)\\\\se vengan abajo y desfallezcan,//(10.4672,13.354)\\\\debemos rebajarnos a inclinarnos...».//(13.354,16.12737)\\\\Mmm. Debo repasar el ritmo de esta parte...",
+                    "ru": "//(0,3.723283)\\\\«Когда слабейшие из нас оступаются и падают...»//(3.723283,7.409)\\\\Нет... Может...//(7.409,10.41837)\\\\«Когда слабейшие из нас оступаются, падают и ломаются,//(10.41837,13.651)\\\\мы должны проявить снисхождение...»//(13.651,16.12737)\\\\Хм. Надо поработать над ритмом...",
+                    "cn": "//(0,3.85)\\\\“当我们之中的弱者在重压之下屈服......”//(3.85,7.196)\\\\不对......或许应该这样......//(7.196,13.345)\\\\“当我们之中的弱者在重压之下屈服崩溃，我们必须放低姿态弯下腰......”//(13.345,24.51871)\\\\嗯，这里的节奏还不太对......",
+                    "tc": "//(0,5.7)\\\\「當我們之中最軟弱的人受挫、倒下......」不對......//(5.7,13)\\\\這樣吧「當我們之中最軟的人受挫、倒下並屈服時，我們絕不能放棄......」//(13,16.12737)\\\\嗯，我必須改善這裡的流暢度......",
+                    "jp": "//(0,3.768)\\\\「一部の人々がくじけ、堕落し...」//(3.768,7.34)\\\\違う、それよりも//(7.34,13.53)\\\\「一部の人々がくじけ、堕落し、壊れる時、私達は膝を折り...」//(13.53,16.12737)\\\\うーん、言葉の流れを何とかしないと..."
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr31107_doublerehearse_et_adonisfalse_005",
+                "weight": 0.2,
+                "soundtag": "In-world_Mission_Important",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31107_doublerehearse_et_adonisfalse_005.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31107_doublerehearse_et_adonisfalse_005.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,4.700982)\\\\\"I know that if Jacqueline were here today, she would...\"//(4.700982,8.031473)\\\\Jackie? No, no, Jacqueline's better.//(8.031473,9.907229)\\\\Need to keep a little distance there, don't we...",
+                    "fr": "//(0,4)\\\\\"Si Jacqueline était ici aujourd'hui, elle...\"//(4,7.625)\\\\Jackie ? Non non, Jacqueline.//(7.625,9.907229)\\\\Il faut maintenir une certaine distance, quand même...",
+                    "it": "//(0,6)\\\\\"So che se Jacqueline fosse stata qui oggi, avrebbe...\" Jackie?//(6,8)\\\\No, Jacqueline è meglio.//(8,9.907229)\\\\Qui è necessario mantenere un po' le distanze...",
+                    "de": "//(0,3.953)\\\\„Ich weiß, wenn Jacqueline heute hier wäre, würde sie ...“//(4.95,9.907)\\\\Jackie? Nein, Jacqueline ist besser. Wir wollen ja ein wenig auf Distanz bleiben, nicht wahr ...",
+                    "es": "//(0,4.485)\\\\«Sé que, si Jacqueline estuviese hoy aquí, diría...».//(4.485,6.185)\\\\¿Jackie?//(6.185,7.885)\\\\No, mejor Jacqueline.//(7.885,9.907229)\\\\Casi que será mejor mantener un poco las distancias...",
+                    "ru": "//(0,4.90908)\\\\«Я знаю, что, если бы Жаклин была сегодня здесь, она бы...»//(4.90908,8.047)\\\\Джеки? Нет, лучше «Жаклин».//(8.047,9.907229)\\\\Нужно отстраниться от нее, не так ли...",
+                    "cn": "//(0,4.65)\\\\“我知道，假如杰奎琳今天也在场，她就会......”//(4.65,34.65)\\\\小杰怎么样？不，还是杰奎琳吧。用不着叫得那么亲密...",
+                    "tc": "//(0,4.9)\\\\「我知道若是賈桂琳今天在此，她會......」//(4.9,34.9)\\\\小琳？不，賈桂琳比較好。我得保持點距離才好......",
+                    "jp": "//(0,4.7)\\\\「ジャクリーンが今日ここにいたら、きっと...」//(4.7,7.965)\\\\ジャッキー？いいえ、愛称よりもジャクリーンがいいわね。//(7.965,9.907229)\\\\ちょっと距離を置かないと。"
+                }
+            }
+        ]
+    }
+}

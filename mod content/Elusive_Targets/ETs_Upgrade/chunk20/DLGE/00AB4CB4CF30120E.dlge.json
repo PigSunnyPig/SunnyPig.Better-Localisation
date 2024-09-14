@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31109_guardawkward.sweetdialog?/dr31109_guardawkward_bdygrd04_004.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr31109_guardawkward_bdygrd04_004",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31109_guardawkward_bdygrd04_004.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31109_guardawkward_bdygrd04_004.animset].pc_animset",
+        "languages": {
+            "en": "//(0,3.641021)\\\\Sure, but most people would never picture Dame Barbara without one.",
+            "fr": "//(0,1.022034)\\\\Peut-être, mais bon,//(1.022034,3.641021)\\\\personne n'imagine Dame Barbara sans garde du corps.",
+            "it": "//(0,1.5)\\\\Capisco, è che la maggior parte delle persone//(1.5,4.432883)\\\\non si immaginerebbe mai Dama Barbara senza una guardia del corpo.",
+            "de": "//(0,5.773374)\\\\Klar, aber die meisten Leute können sich Dame Barbara gar nicht ohne einen vorstellen.",
+            "es": "//(0,2.689902)\\\\Ya, pero la mayoría de la gente no concibe que la dama//(2.689902,3.689902)\\\\vaya sin guardaespaldas.",
+            "ru": "//(0,2.393148)\\\\Понимаю. Но многие привыкли видеть даму Барбару//(2.393148,3.641021)\\\\с личной охраной.",
+            "cn": "//(0,30)\\\\对啊，可是大多数人应该无法想像芭芭拉女爵士身边没有保镖的样子吧。",
+            "tc": "//(0,30)\\\\是啊，不過大多數人應該無法想像芭芭拉女爵士身邊沒有保鏢的樣子吧。",
+            "jp": "//(0,30)\\\\バーバラ卿がボディーガードなしなんて想像できない人がほとんどでしょう。"
+        }
+    }
+}

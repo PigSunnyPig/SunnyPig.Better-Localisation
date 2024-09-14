@@ -1,0 +1,106 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31103_doublebanter03.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "dr31103_doublebanter03_et_adonisfalse_001",
+                "weight": 0.2,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31103_doublebanter03_et_adonisfalse_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31103_doublebanter03_et_adonisfalse_001.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Right. We should get back to it then, shouldn't we?",
+                    "fr": "//(0,1.655008)\\\\Bien, nous devrions nous y remettre dans ce cas,//(1.655008,2.655008)\\\\n'est-ce pas ?",
+                    "it": "//(0,30)\\\\Bene. Dovremmo rimetterci al lavoro, dico bene?",
+                    "de": "//(0,30)\\\\Genau. Wir sollten zurück an die Arbeit, was?",
+                    "es": "//(0,30)\\\\Claro. En fin, deberíamos volver al trabajo.",
+                    "ru": "//(0,30)\\\\Точно. Ну что, тогда продолжим, а?",
+                    "cn": "//(0,30)\\\\好了。我们该继续干活了。",
+                    "tc": "//(0,30)\\\\也是，那我們應該趕快回去，對吧？",
+                    "jp": "//(0,30)\\\\いいわ。じゃあそろそろ再開しましょうか。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr31103_doublebanter03_et_adonisfalse_002",
+                "weight": 0.2,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31103_doublebanter03_et_adonisfalse_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31103_doublebanter03_et_adonisfalse_002.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Okay, that's fair enough.",
+                    "fr": "//(0,30)\\\\D'accord, très bien.",
+                    "it": "//(0,30)\\\\Ok, hai ragione.",
+                    "de": "//(0,30)\\\\Okay, das ist gut genug.",
+                    "es": "//(0,30)\\\\Ah, vale.",
+                    "ru": "//(0,30)\\\\Да, хорошо.",
+                    "cn": "//(0,30)\\\\嗯，好。",
+                    "tc": "//(0,30)\\\\嗯，好吧。",
+                    "jp": "//(0,30)\\\\わかった、それでいいわ。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr31103_doublebanter03_et_adonisfalse_003",
+                "weight": 0.2,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31103_doublebanter03_et_adonisfalse_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31103_doublebanter03_et_adonisfalse_003.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Sure. Well, don't let me keep you.",
+                    "fr": "//(0,30)\\\\D'accord. Je ne voudrais pas vous retenir.",
+                    "it": "//(0,30)\\\\Sicuro. Beh, non ti trattengo oltre.",
+                    "de": "//(0,30)\\\\Sicher. Dann lass dich nicht von mir aufhalten.",
+                    "es": "//(0,30)\\\\Claro. No te molesto más.",
+                    "ru": "//(0,30)\\\\Конечно. Не буду вас задерживать.",
+                    "cn": "//(0,30)\\\\当然。我就不耽搁你了。",
+                    "tc": "//(0,30)\\\\好，那我就不留你了。",
+                    "jp": "//(0,30)\\\\わかったわ。進めててちょうだい。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr31103_doublebanter03_et_adonisfalse_004",
+                "weight": 0.2,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31103_doublebanter03_et_adonisfalse_004.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31103_doublebanter03_et_adonisfalse_004.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\It's fine. We've got this.",
+                    "fr": "//(0,30)\\\\Ça va. Tout va bien se passer.",
+                    "it": "//(0,30)\\\\È tutto a posto. Abbiamo tutto sotto controllo.",
+                    "de": "//(0,30)\\\\Es klappt schon. Wir schaffen das.",
+                    "es": "//(0,30)\\\\No pasa nada. Está todo controlado.",
+                    "ru": "//(0,30)\\\\Все хорошо. Мы справимся.",
+                    "cn": "//(0,30)\\\\没事。我们能行。",
+                    "tc": "//(0,30)\\\\沒關係，我們行的。",
+                    "jp": "//(0,30)\\\\それでいいわ。やれるわよ。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr31103_doublebanter03_et_adonisfalse_005",
+                "weight": 0.2,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31103_doublebanter03_et_adonisfalse_005.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31103_doublebanter03_et_adonisfalse_005.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\What's the worst that could happen, right?",
+                    "fr": "//(0,30)\\\\Franchement, qu'est-ce qui pourrait bien arriver ?",
+                    "it": "//(0,1.193016)\\\\In fondo, qual è la cosa peggiore che potrebbe//(1.193016,2.193016)\\\\capitare?",
+                    "de": "//(0,30)\\\\Was soll denn auch schon passieren?",
+                    "es": "//(0,30)\\\\¿Qué es lo peor que podría pasar?",
+                    "ru": "//(0,30)\\\\Хуже ведь не будет, верно?",
+                    "cn": "//(0,30)\\\\再糟糕又能糟糕到哪里去呢？",
+                    "tc": "//(0,30)\\\\能出什麼差錯，對吧？",
+                    "jp": "//(0,30)\\\\どんな酷いことが起こるの、ってね？"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31109_guardawkward.sweetdialog?/dr31109_guardawkward_et_adonisfalse_005.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr31109_guardawkward_et_adonisfalse_005",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31109_guardawkward_et_adonisfalse_005.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31109_guardawkward_et_adonisfalse_005.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Right, right...",
+            "fr": "//(0,30)\\\\Oui, oui...",
+            "it": "//(0,30)\\\\Giusto, giusto...",
+            "de": "//(0,30)\\\\Natürlich, natürlich ...",
+            "es": "//(0,30)\\\\Eso es cierto, sí...",
+            "ru": "//(0,30)\\\\Да, верно...",
+            "cn": "//(0,30)\\\\是，说得也是......",
+            "tc": "//(0,30)\\\\是，說得也是......",
+            "jp": "//(0,30)\\\\そう、そうね..."
+        }
+    }
+}

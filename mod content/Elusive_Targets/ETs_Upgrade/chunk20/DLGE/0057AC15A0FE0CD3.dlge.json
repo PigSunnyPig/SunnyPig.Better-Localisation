@@ -1,0 +1,30 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/newzealand/31000_elusive/31000_adonis/31000_adonis_handler/ds31101_laptopexpo.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "ds31101_laptopexpo_diana_001",
+                "weight": 1.0,
+                "soundtag": "Voiceover_Handler",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_handler/ds31101_laptopexpo_diana_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_handler/ds31101_laptopexpo_diana_001.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,2.95)\\\\Intonation, emphasis, posture.//(2.95,6.912)\\\\These look like performance notes. They must belong to the double.",
+                    "fr": "//(0,2.9)\\\\Intonation, emphase, posture...//(2.9,5.23)\\\\Ça ressemble à des notes de prise de parole.//(5.23,6.912)\\\\Elles doivent appartenir à la doublure.",
+                    "it": "//(0,3)\\\\Intonazione, enfasi, postura.//(3,6.912001)\\\\Sembrano appunti per l'esibizione in pubblico, devono appartenere alla controfigura.",
+                    "de": "//(0,2.9)\\\\Sprachmelodie, Betonung, Körperhaltung.//(2.9,7.261472)\\\\Das sind offenbar Notizen für einen Auftritt. Die gehören wohl dem Double.",
+                    "es": "//(0,0.929215)\\\\Entonación, énfasis,//(0.929215,4.333767)\\\\postura... Estas notas son sobre cómo comportarse.//(4.333767,6.912)\\\\Creo que pertenecen a la doble.",
+                    "ru": "//(0,3.194)\\\\Интонация, ударение, жесты.//(3.194,5.376)\\\\Это пометки для выступления.//(5.376,6.912)\\\\Их, видимо, добавил двойник.",
+                    "cn": "//(0,30)\\\\语调、重读、姿态。看起来像演出用的注释。肯定是替身的。",
+                    "tc": "//(0,30)\\\\語調、強調、姿態。這些似乎是表演的附註。這肯定是屬於替身的。",
+                    "jp": "//(0,5.3)\\\\イントネーション、強調、姿勢。演出メモみたい。//(5.3,35.3)\\\\影武者のものに違いないわ。"
+                }
+            }
+        ]
+    }
+}

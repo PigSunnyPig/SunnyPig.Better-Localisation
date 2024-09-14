@@ -1,0 +1,106 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31102_doublebanter02.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "dr31102_doublebanter02_et_adonis_001",
+                "weight": 0.2,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31102_doublebanter02_et_adonis_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31102_doublebanter02_et_adonis_001.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Yeah, it's really coming together.",
+                    "fr": "//(0,30)\\\\Oui, ça va le faire.",
+                    "it": "//(0,30)\\\\Sì, è tutto a posto.",
+                    "de": "//(0,30)\\\\Ja, doch. Langsam kommt es ins Rollen.",
+                    "es": "//(0,30)\\\\Sí, va todo de maravilla.",
+                    "ru": "//(0,30)\\\\Да, все идет отлично.",
+                    "cn": "//(0,30)\\\\嗯，十分顺利。",
+                    "tc": "//(0,30)\\\\是啊，一切非常順利。",
+                    "jp": "//(0,30)\\\\いいわ、まとまってきた。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr31102_doublebanter02_et_adonis_002",
+                "weight": 0.2,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31102_doublebanter02_et_adonis_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31102_doublebanter02_et_adonis_002.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Ehh...",
+                    "fr": "//(0,30)\\\\Euh...",
+                    "it": "//(0,30)\\\\Eh...",
+                    "de": "//(0,30)\\\\Äh ...",
+                    "es": "//(0,30)\\\\Esto...",
+                    "ru": "//(0,30)\\\\Э-э-э...",
+                    "cn": "//(0,30)\\\\呃......",
+                    "tc": "//(0,30)\\\\這......",
+                    "jp": "//(0,30)\\\\うーん..."
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr31102_doublebanter02_et_adonis_003",
+                "weight": 0.2,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31102_doublebanter02_et_adonis_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31102_doublebanter02_et_adonis_003.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,2.770896)\\\\As long as we both pull our weight here, we should be fine.",
+                    "fr": "//(0,1.888391)\\\\Tant qu'on y met du nôtre toutes les deux,//(1.888391,2.888391)\\\\ça devrait aller.",
+                    "it": "//(0,2.770896)\\\\Finché ognuno continua a dare il proprio contributo, non dovremmo avere problemi.",
+                    "de": "//(0,2.771)\\\\Solange wir uns beide wirklich reinhängen, sollte das schon klappen.",
+                    "es": "//(0,1.381916)\\\\Si todos nos esforzamos al máximo,//(1.381916,2.770896)\\\\seguro que todo sale bien.",
+                    "ru": "//(0,30)\\\\Если каждый займется делом, у нас всё получится.",
+                    "cn": "//(0,30)\\\\只要我们两人都全力以赴，那就应该没问题。",
+                    "tc": "//(0,30)\\\\只要我們把工作做好，應該就不會有問題。",
+                    "jp": "//(0,30)\\\\私たちが2人そろって精魂つぎ込めば、大丈夫のはずよ。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr31102_doublebanter02_et_adonis_004",
+                "weight": 0.2,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31102_doublebanter02_et_adonis_004.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31102_doublebanter02_et_adonis_004.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Mm, good enough.",
+                    "fr": "//(0,30)\\\\Hm, ça ira.",
+                    "it": "//(0,30)\\\\Uhm, bene.",
+                    "de": "//(0,30)\\\\Hm, das reicht.",
+                    "es": "//(0,30)\\\\Mmm, bastante bien.",
+                    "ru": "//(0,30)\\\\М-м-м... Годится.",
+                    "cn": "//(0,30)\\\\嗯，可以。",
+                    "tc": "//(0,30)\\\\嗯，還行。",
+                    "jp": "//(0,30)\\\\うーん、悪くないか。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr31102_doublebanter02_et_adonis_005",
+                "weight": 0.2,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31102_doublebanter02_et_adonis_005.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31102_doublebanter02_et_adonis_005.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Honestly, this may be the calm before the storm.",
+                    "fr": "//(0,30)\\\\C'est sans doute le calme avant la tempête.",
+                    "it": "//(0,1.5)\\\\Detto sinceramente,//(1.5,3.662578)\\\\questa potrebbe essere la calma prima della tempesta.",
+                    "de": "//(0,2.640998)\\\\Ehrlich gesagt könnte das die Ruhe vor dem Sturm//(2.640998,3.640998)\\\\sein.",
+                    "es": "//(0,0.3331574)\\\\Sinceramente,//(0.3331574,3.438187)\\\\creo que esto es la calma que precede a la tormenta.",
+                    "ru": "//(0,30)\\\\Мне кажется, это может быть затишьем перед бурей.",
+                    "cn": "//(0,30)\\\\老实说，这或许就是风暴之前的宁静。",
+                    "tc": "//(0,30)\\\\說實話，這或許會是暴風雨前的平靜。",
+                    "jp": "//(0,30)\\\\嵐の前の静けさな気がしてしょうがないわ。"
+                }
+            }
+        ]
+    }
+}

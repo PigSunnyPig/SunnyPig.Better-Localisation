@@ -1,0 +1,30 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/newzealand/31000_elusive/31000_adonis/31000_adonis_handler/31100_adonisflyin.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "31100_adonisflyin_diana_001",
+                "weight": 1.0,
+                "soundtag": "Voiceover_Handler",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_handler/31100_adonisflyin_diana_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_handler/31100_adonisflyin_diana_001.animset].pc_animset",
+                "languages": {
+                    "en": "//[DIANA]\\\\//(0,2.660491)\\\\Welcome to New Zealand, 47.//(2.660491,8.813865)\\\\Your target and her double are both preparing for their undoubtedly tearful comeback speech.//(8.813865,13.18578)\\\\I suspect Dame Barbara wouldn't settle for anything less than a perfect doppelganger,//(13.18578,16.4974)\\\\so a little additional reconnaissance might be in order.",
+                    "fr": "//[DIANA]\\\\//(0,2.45)\\\\Bienvenue en Nouvelle-Zélande, 47.//(2.45,5.405276)\\\\Votre cible et son double sont en pleins préparatifs//(5.405276,8.6)\\\\pour leur discours de retour.//(8.6,11.3)\\\\Je pense que Dame Barbara s'est vraiment efforcée//(11.3,13.3)\\\\de trouver une doublure parfaitement identique,//(13.3,16.4974)\\\\et vous devrez certainement glaner plus d'informations pour les distinguer.",
+                    "it": "//[DIANA]\\\\//(0,2.460491)\\\\Benvenuto in Nuova Zelanda, 47.//(2.460491,9)\\\\Il bersaglio e la sua controfigura si stanno preparando a recitare il loro discorso di rientro strappalacrime.//(9,13)\\\\Sono abbastanza sicura che Dama Barbara abbia scelto una controfigura perfetta,//(13,16.50333)\\\\perciò sarà necessario effettuare qualche altra indagine.",
+                    "de": "//[DIANA]\\\\//(0,2.65)\\\\Willkommen in Neuseeland, 47.//(2.65,8.75)\\\\Ihr Ziel und dessen Double bereiten beide eine tränenreiche Comeback-Ansprache vor.//(8.75,13.25)\\\\Vermutlich wird sich Dame Barbara nur mit einer perfekten Doppelgängerin zufriedengeben.//(13.25,16.5)\\\\Also könnte ein wenig zusätzliche Aufklärung nötig sein.",
+                    "es": "//[DIANA]\\\\//(0,2.460491)\\\\Bienvenido a Nueva Zelanda, 47.//(2.460491,4.593582)\\\\Tanto tu objetivo como su doble se están//(4.593582,7.042171)\\\\preparando para lo que, sin duda,//(7.042171,9)\\\\será un lacrimógeno discurso de reaparición.//(9,13.53718)\\\\Sospecho que Barbara no aceptará nada que no sea una doble perfecta,//(13.53718,18.01315)\\\\así que te recomiendo que hagas labores extra de reconocimiento.",
+                    "ru": "//[DIANA]\\\\//(0,2.728589)\\\\Добро пожаловать в Новую Зеландию, 47-й.//(2.728589,6.982854)\\\\Твоя цель и ее двойник готовятся к выступлению,//(6.982854,8.92428)\\\\призванному растрогать зрителей.//(8.92428,13.44623)\\\\Думаю, дама Барбара нашла себе идеального двойника,//(13.44623,16.4974)\\\\так что понадобится предварительная разведка.",
+                    "cn": "//[DIANA]\\\\//(0,2.6)\\\\欢迎来到新西兰，47。//(2.6,8.81)\\\\你的目标及其替身都在准备一场催人泪下的复出演讲。//(8.81,13.18)\\\\我推测，只有完美的替身才能让芭芭拉女爵士感到满意，//(13.18,16.4974)\\\\所以你或许需要多做一些侦察行动。",
+                    "tc": "//[DIANA]\\\\//(0,2.6)\\\\歡迎來到紐西蘭，47。//(2.6,8.81)\\\\你的目標及其替身都在準備一場淚聲俱下的復出演講。//(8.81,13.18)\\\\我猜測，芭芭拉女爵士不會聘用不完美的替身，//(13.18,16.4974)\\\\所以你或許應該多做一些偵察行動。",
+                    "jp": "//[DIANA]\\\\//(0,2.606)\\\\ニュージーランドへようこそ、47。//(2.606,8.9)\\\\ターゲットと影武者のどちらも、涙ながらの復活スピーチの用意をしている。//(8.9,13.16)\\\\バーバラ卿は完璧な影武者じゃなきゃ納得しないと思うの。//(13.16,16.4974)\\\\だから偵察もひと手間余計にかける必要があるわ。"
+                }
+            }
+        ]
+    }
+}

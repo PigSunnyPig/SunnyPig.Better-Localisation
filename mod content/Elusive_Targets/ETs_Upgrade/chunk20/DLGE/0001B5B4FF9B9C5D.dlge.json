@@ -1,0 +1,106 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31101_doublebanter01.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "dr31101_doublebanter01_et_adonisfalse_001",
+                "weight": 0.2,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31101_doublebanter01_et_adonisfalse_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31101_doublebanter01_et_adonisfalse_001.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\How's it coming?",
+                    "fr": "//(0,30)\\\\Alors ?",
+                    "it": "//(0,30)\\\\Come va?",
+                    "de": "//(0,30)\\\\Wie läuft es so?",
+                    "es": "//(0,30)\\\\¿Cómo va?",
+                    "ru": "//(0,30)\\\\Ну, как там дела?",
+                    "cn": "//(0,30)\\\\情况如何？",
+                    "tc": "//(0,30)\\\\情況如何？",
+                    "jp": "//(0,30)\\\\調子はどう？"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr31101_doublebanter01_et_adonisfalse_002",
+                "weight": 0.2,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31101_doublebanter01_et_adonisfalse_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31101_doublebanter01_et_adonisfalse_002.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Any progress?",
+                    "fr": "//(0,30)\\\\Ça avance ?",
+                    "it": "//(0,30)\\\\Novità?",
+                    "de": "//(0,30)\\\\Schon Fortschritte?",
+                    "es": "//(0,30)\\\\¿Algún avance?",
+                    "ru": "//(0,30)\\\\Есть успехи?",
+                    "cn": "//(0,30)\\\\有什么进展吗？",
+                    "tc": "//(0,30)\\\\有什麼進展嗎？",
+                    "jp": "//(0,30)\\\\何か進展はあった？"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr31101_doublebanter01_et_adonisfalse_003",
+                "weight": 0.2,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31101_doublebanter01_et_adonisfalse_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31101_doublebanter01_et_adonisfalse_003.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\I'm feeling pretty good about this.",
+                    "fr": "//(0,30)\\\\Je le sens bien.",
+                    "it": "//(0,30)\\\\Devo dire che ho un buon presentimento.",
+                    "de": "//(0,30)\\\\Ich habe ein gutes Gefühl dabei.",
+                    "es": "//(0,30)\\\\Esto me da muy buena espina.",
+                    "ru": "//(0,30)\\\\Пока мне всё нравится.",
+                    "cn": "//(0,30)\\\\我感觉很不错。",
+                    "tc": "//(0,30)\\\\這樣感覺不錯。",
+                    "jp": "//(0,30)\\\\うまくいきそうな気がするわ。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr31101_doublebanter01_et_adonisfalse_004",
+                "weight": 0.2,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31101_doublebanter01_et_adonisfalse_004.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31101_doublebanter01_et_adonisfalse_004.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Everything going smoothly?",
+                    "fr": "//(0,30)\\\\Tout se passe bien ?",
+                    "it": "//(0,30)\\\\Sta andando tutto liscio?",
+                    "de": "//(0,30)\\\\Läuft alles glatt?",
+                    "es": "//(0,30)\\\\¿Va todo bien?",
+                    "ru": "//(0,30)\\\\Всё идет по плану?",
+                    "cn": "//(0,30)\\\\一切是否顺利？",
+                    "tc": "//(0,30)\\\\一切還順利嗎？",
+                    "jp": "//(0,30)\\\\すべて順調？"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr31101_doublebanter01_et_adonisfalse_005",
+                "weight": 0.2,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31101_doublebanter01_et_adonisfalse_005.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31101_doublebanter01_et_adonisfalse_005.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Are things going well at your end?",
+                    "fr": "//(0,30)\\\\Tout va bien de ce côté ?",
+                    "it": "//(0,30)\\\\Tutto a posto dalle tue parti?",
+                    "de": "//(0,30)\\\\Wie sieht’s aus bei dir? Läuft alles gut?",
+                    "es": "//(0,30)\\\\¿Cómo van las cosas por ahí? ¿Todo en orden?",
+                    "ru": "//(0,30)\\\\У вас там всё хорошо?",
+                    "cn": "//(0,30)\\\\你那边的情况顺利吗？",
+                    "tc": "//(0,30)\\\\你那邊的情況還順利嗎？",
+                    "jp": "//(0,30)\\\\そっちはいい感じ？"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/newzealand/31000_elusive/31000_adonis/31000_adonis_handler/ds31100_speechexpo.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "ds31100_speechexpo_diana_001",
+                "weight": 1.0,
+                "soundtag": "Voiceover_Handler",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_handler/ds31100_speechexpo_diana_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_handler/ds31100_speechexpo_diana_001.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,3.773374)\\\\Looks like there are quite a few editing notes in this document, 47 --//(3.773374,6.15)\\\\and rather granular ones, at that.//(6.15,7.959)\\\\I think you've found your target.",
+                    "fr": "//(0,3.8)\\\\Ce document contient de nombreuses notes de révision, 47...//(3.8,6.15)\\\\et plutôt granuleuses, semble-t-il.//(6.15,8.161067)\\\\On dirait bien que vous avez trouvé votre cible.",
+                    "it": "//(0,3.5)\\\\Sembra che su questo documento ci sia qualche nota, 47...//(3.5,6)\\\\e in questo punto ce ne sono addirittura alcune di troppo.//(6,16.60773)\\\\Credo che tu abbia trovato il tuo bersaglio.",
+                    "de": "//(0,3.65)\\\\Dieses Dokument scheint einige Änderungswünsche aufzuweisen, 47.//(3.65,8.733865)\\\\Einige davon sind ziemlich kleinteilig. Ich glaube, Sie haben Ihr Ziel gefunden.",
+                    "es": "//(0,2.296504)\\\\Parece que este documento tiene unas cuantas notas//(2.296504,3.641203)\\\\de edición, 47...//(3.641203,4.595974)\\\\y bastante granuladas,//(4.595974,7.959396)\\\\de hecho. Creo que has encontrado a tu objetivo.",
+                    "ru": "//(0,3.749)\\\\В этом документе много правок, 47-й,//(3.749,6.208)\\\\и все они весьма подробные.//(6.208,7.959396)\\\\Похоже, ты нашел свою цель.",
+                    "cn": "//(0,3.7)\\\\看来这份文件里留下了很多注释，47。//(3.7,33.5)\\\\而且还是非常详细的呢——我想你似乎已经找到你的目标了。",
+                    "tc": "//(0,3.7)\\\\看來這個文件裡留下了許多附註，47。//(3.7,33.5)\\\\而且還是非常詳細的呢——我看你似乎已經找到你的目標了。",
+                    "jp": "//(0,6.18)\\\\この書類にはたくさんの編集メモがあるみたい、47。あとは細かな記載も。//(6.18,7.959396)\\\\ターゲットを見つけたみたいね。"
+                }
+            }
+        ]
+    }
+}

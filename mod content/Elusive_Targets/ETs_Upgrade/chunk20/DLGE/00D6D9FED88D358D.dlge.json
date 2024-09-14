@@ -1,0 +1,106 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31108_targetmumble.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "dr31108_targetmumble_et_adonis_001",
+                "weight": 0.2,
+                "soundtag": "In-world_Mission_Important",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31108_targetmumble_et_adonis_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31108_targetmumble_et_adonis_001.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,3.764)\\\\\"...To this day, I believe that the director...\"//(3.764,5.47)\\\\No, no...//(5.47,9.221964)\\\\\"To this day, I believe that my dear friend Jacqueline//(9.221964,13.535)\\\\did not set out to do what she did with greed in her heart.//(13.535,22.028)\\\\She was a kind but misguided person who only ever deserved our forgiveness and understanding...\"//(22.028,23.814)\\\\Okay, that's good...",
+                    "fr": "//(0,3.520326)\\\\\"...Aujourd'hui encore, je pense que la présidente...\"//(3.520326,5.956705)\\\\Non, non... \"Aujourd'hui encore,//(5.956705,9.4)\\\\je ne crois pas que ma très chère amie Jacqueline//(9.4,13.4)\\\\ait agi par simple cupidité.//(13.4,16.7)\\\\C'était une personne honnête, mais qui a été abusée,//(16.7,21)\\\\et qui ne mérite que notre pardon et notre compréhension...\"//(21,23.81425)\\\\OK, c'est bien comme ça...",
+                    "it": "//(0,3.322583)\\\\\"...ancora oggi, credo che la direttrice...\"//(3.322583,6)\\\\No, no...//(6,13.74619)\\\\\"Ancora oggi, credo che la mia cara amica Jacqueline non abbia agito spinta dall'avidità.//(13.74619,17)\\\\Era una persona buona che aveva permesso ad altri di portarla sulla cattiva strada.//(17,21.72564)\\\\Non si è mai meritata altro che il nostro perdono e la nostra comprensione...\"//(21.72564,23.81425)\\\\Ok, così va bene.",
+                    "de": "//(0,3.9)\\\\ „...Bis heute glaube ich, dass die Direktorin ...“//(3.9,5.6)\\\\Nein, nein ...//(5.6,13.5)\\\\„Bis heute glaube ich, dass meine liebe Freundin Jacqueline ihre Taten nicht aus reiner Gier verübte.//(13.5,21.1)\\\\Sie war ein gütiger, wenn auch fehlgeleiteter Mensch, der nur Vergebung und Verständnis verdient ...“//(22.1,23.81425)\\\\Okay, das ist gut ...",
+                    "es": "//(0,4.093)\\\\«...a día de hoy, creo que la directora...».//(4.093,6.865)\\\\No, no... «A día de hoy,//(6.865,9.643)\\\\sigo creyendo que mi querida amiga Jacqueline//(9.643,13.96)\\\\no hizo lo que hizo motivada por la codicia de su corazón.//(13.96,17.009)\\\\Era una persona buena, pero descarriada,//(17.009,21.499)\\\\que merecía nuestro perdón y nuestra comprensión».//(21.499,23.81425)\\\\Vale, así está bien...",
+                    "ru": "//(0,3.696687)\\\\«...По сей день я считаю, что директор...»//(3.696687,5.752884)\\\\Нет, нет...//(5.752884,8.853865)\\\\«По сей день я считаю, что моя дорогая подруга Жаклин//(8.853865,13.731)\\\\совершила этот проступок вовсе не из корысти.//(13.731,14.731)\\\\Она была добрым человеком,//(14.731,16.96344)\\\\который просто сбился с пути.//(16.96344,21.75372)\\\\Она заслужила прощение и понимание...»//(21.75372,23.81425)\\\\Так, это хорошо...",
+                    "cn": "//(0,3.764)\\\\「......至今，我仍然相信该负责人......」//(3.764,5.47)\\\\不、不对......//(5.47,13.535)\\\\「至今，我仍然相信我亲爱的朋友杰奎琳，并非出于贪婪才做出了那些事。//(13.535,22.028)\\\\她为人善良，只是不慎误入歧途，理应得到我们的原谅和理解......」//(22.028,23.814)\\\\嗯，这样就很好......",
+                    "tc": "//(0,3.764)\\\\「......直到今天，我仍相信該負責人......」//(3.764,5.47)\\\\不、不對......//(5.47,13.535)\\\\「直到今天，我仍相信我親愛的朋友賈桂琳，並非出於貪婪才做出了那些事。//(13.535,22.028)\\\\她為人善良，只是不慎誤入歧途，理應得到我們的原諒和諒解......」//(22.028,23.814)\\\\好了，這樣就很好......",
+                    "jp": "//(0,3.485)\\\\「今日でも、かの責任者が...」//(3.485,5.465)\\\\違う、違う...//(5.465,9.49)\\\\「今日でも、大切な友人ジャクリーンが、//(9.49,13.372)\\\\欲に駆られてあのようなことを行ったとは信じていません。//(13.372,17)\\\\彼女は優しくも道を誤ってしまった人なのです。//(17,21.44)\\\\私達は許し、理解してあげなけれならないのです...」//(21.44,23.81425)\\\\オーケー、これでいいわ..."
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr31108_targetmumble_et_adonis_002",
+                "weight": 0.2,
+                "soundtag": "In-world_Mission_Important",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31108_targetmumble_et_adonis_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31108_targetmumble_et_adonis_002.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,4.52532)\\\\\"...And I ask you, where was the media then?\"//(4.52532,7.931625)\\\\Hm, better soften that a bit actually...",
+                    "fr": "//(0,4.25)\\\\\"...Et je vous le demande : Où étaient les médias à ce moment ?\"...//(4.25,7.931625)\\\\Hmm, je devrais sans doute adoucir un peu...",
+                    "it": "//(0,4.54908)\\\\\"...E quindi io vi chiedo: dov'erano i media in quel momento?\"//(4.54908,7.931625)\\\\...Uhm, meglio addolcirla un po'.",
+                    "de": "//(0,3.3)\\\\„...Und ich frage: Wo waren die Medien da?“//(4.85,7.931625)\\\\... Hmm, vielleicht sollten wir das etwas abschwächen ...",
+                    "es": "//(0,4.54908)\\\\«...Y yo os pregunto: ¿Dónde estaba la prensa en aquel momento?».//(4.54908,7.931625)\\\\Mmm... Será mejor suavizar un poco el tono...",
+                    "ru": "//(0,4.82)\\\\«...Позвольте узнать, где же тогда была пресса?»...//(4.82,7.931625)\\\\Хм, надо слегка смягчить эту фразу...",
+                    "cn": "//(0,4.52532)\\\\「......试问，那时候媒体去哪儿了？」//(4.52532,7.931625)\\\\嗯，这里语气得稍微柔和一点......",
+                    "tc": "//(0,4.52532)\\\\「......試問，當時媒體在哪了？」//(4.52532,7.931625)\\\\嗯，這裡語氣最好委婉一點......",
+                    "jp": "//(0,4.6)\\\\「私は尋ねたい、マスコミはどこにいたのでしょうと」//(4.6,34.6)\\\\...うーん、ちょっと和らげた方がいいわね。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr31108_targetmumble_et_adonis_003",
+                "weight": 0.2,
+                "soundtag": "In-world_Mission_Important",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31108_targetmumble_et_adonis_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31108_targetmumble_et_adonis_003.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,8.15)\\\\\"...To my detractors, of which I know many remain, I can only ever extend the olive branch of...\"//(9.75,12.1)\\\\Human compassion?//(12.1,15.35)\\\\Just compassion, maybe. I don't need to put a bow on it.//(15.35,17.54583)\\\\Obviously it wouldn't be animal compassion...",
+                    "fr": "//(0,3.440142)\\\\\"...À mes détracteurs, et ils sont toujours nombreux,//(3.440142,7.558742)\\\\je ne peux que tendre la branche d'olivier de...\"//(7.558742,11.7)\\\\Deee... la compassion humaine ?//(11.7,13.85)\\\\Compassion tout court ?//(13.85,15.025)\\\\Inutile de broder,//(15.025,17.54583)\\\\c'est évident qu'on ne parle pas de compassion animale...",
+                    "it": "//(0,8)\\\\\"...Ai miei detrattori non posso far altro che porgere il ramo d'ulivo della...\"//(8,12)\\\\Uhm, della compassione umana?//(12,13.5)\\\\Magari solo della compassione.//(13.5,15.5)\\\\Non c'è bisogno di infiocchettare troppo,//(15.5,17.54583)\\\\è ovvio che non si stia parlando di compassione animale...",
+                    "de": "//(0,7.85)\\\\„...Meinen Kritikern, von denen es sicher noch viele gibt, kann ich nur einen Olivenzweig der ...\"//(7.85,15.2)\\\\Ufff ... Der aufrichtigsten Vergebung reichen? Nein, nur Vergebung vielleicht. Man muss es ja auch nicht übertreiben.//(15.2,18.81288)\\\\So aufrichtig ist diese Vergebung nun auch wieder nicht ...",
+                    "es": "//(0,1.256241)\\\\«...A mis detractores,//(1.256241,3.645593)\\\\que sé que aún tengo muchos,//(3.645593,7.557971)\\\\tan solo puedo extenderles la rama de olivo de...».//(7.557971,12.2)\\\\Uf... ¿Compasión humana?//(12.2,14.114)\\\\O compasión, a secas.//(14.114,15.566)\\\\No hay motivo para remarcarlo.//(15.566,17.54583)\\\\Obviamente, no va a ser compasión animal...",
+                    "ru": "//(0,1.517591)\\\\«...Всем своим противникам,//(1.517591,4.404025)\\\\которых — я знаю — всё еще немало,//(4.404025,10)\\\\я протягиваю оливковую ветвь...»//(10,12.45)\\\\Чего?... Человеческого сострадания?//(12.45,13.8)\\\\Пожалуй, просто сострадания.//(13.8,14.8)\\\\Обойдусь без украшений.//(14.8,17.54583)\\\\И так ясно, что сострадание не звериное...",
+                    "cn": "//(0,8.15)\\\\「...至于我的批评者，我知道现时仍有很多那样的人，我只想向你们伸出橄榄枝，以表达......」//(9.75,12.1)\\\\......人类的同情心？也许只要「同情心」就行了，我没必要如此十全十美。//(15.35,17.54583)\\\\这显然不可能是动物的同情心......",
+                    "tc": "//(0,8.15)\\\\「...至於我的批評者，我知道現時仍有很多那樣的人，我只想向你們伸出橄欖枝，以表達......」//(9.75,12.1)\\\\......人類的憐憫之心？也許只要「憐憫之心」就好了，我沒必要如此十全十美，//(15.35,17.54583)\\\\這顯然不可能是動物的憐憫之心......",
+                    "jp": "//(0,3.882)\\\\「未だ多くおられるでしょう私を非難する方々に対して、//(3.882,8.05)\\\\私は和解の手を差し伸べることしか...」//(8.05,12.25)\\\\ええと、差し伸べる？慈悲の手？//(12.25,15.45)\\\\単に理解して欲しいってことかしら。わざわざ入れることはないかしらね。//(15.45,17.54583)\\\\同情を買いたいわけじゃないのだし..."
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr31108_targetmumble_et_adonis_004",
+                "weight": 0.2,
+                "soundtag": "In-world_Mission_Important",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31108_targetmumble_et_adonis_004.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31108_targetmumble_et_adonis_004.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,2.85)\\\\\"Who among us has not...\"//(2.85,32.853)\\\\Ugh, no, that sounds so rote when I say it like that, doesn't it...",
+                    "fr": "//(0,1.918224)\\\\\"Qui parmi nous n'a jamais...\"//(1.918224,5.033439)\\\\Oula, ça sent la répétition à plein nez avec cette//(5.033439,6.033439)\\\\formulation...",
+                    "it": "//(0,2.344671)\\\\\"Chi tra noi non ha mai...\"//(2.344671,5.853021)\\\\Argh, no, suona troppo ripetitivo se lo dico così...",
+                    "de": "//(0,2.8)\\\\„Wer unter uns hat nicht ...“//(2.8,8.205276)\\\\Igitt! Das klingt ja viel zu formelhaft, wenn ich das so laut ausspreche ...",
+                    "es": "//(0,2.999)\\\\«¿Quién de entre nosotros no ha...?».//(2.999,6.098908)\\\\Arg, no. Queda fatal que yo diga algo así, ¿no?",
+                    "ru": "//(0,2.796687)\\\\«Есть ли среди нас такие, кто не...»//(2.796687,5.853021)\\\\О, нет. Эта фраза звучит слишком избито...",
+                    "cn": "//(0,2.853)\\\\「我们之中还有谁未曾......」//(2.853,32.853)\\\\呃，不行，那样听起来太生硬了，是不是......",
+                    "tc": "//(0,2.853)\\\\「我們之中還有誰未曾......」//(2.853,32.853)\\\\呃，不行，那樣聽起來太古板了，是不是......",
+                    "jp": "//(0,2.885)\\\\「私たちの誰が...」//(2.885,32.885)\\\\だめね。これじゃ機械的すぎるわ、こんな言い方すると..."
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr31108_targetmumble_et_adonis_005",
+                "weight": 0.2,
+                "soundtag": "In-world_Mission_Important",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31108_targetmumble_et_adonis_005.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31108_targetmumble_et_adonis_005.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,2.77266)\\\\\"I have devoted my life to service.//(2.77266,5.45)\\\\Whether it was serving my employees, my community,//(5.45,9.72653)\\\\or the underprivileged with their palms outstretched, and I plan to...//(9.72653,12.3)\\\\I've continued to...\"//(12.3,15.1)\\\\More conviction, more conviction...//(15.1,19)\\\\\"And I will forever continue to do so...\"//(19,21.24088)\\\\Meh, might be a bit clumsy...",
+                    "fr": "//(0,2.9)\\\\\"J'ai consacré ma vie à servir les autres...//(2.9,5.55)\\\\Mes salariés, ma communauté,//(5.55,7.628817)\\\\les nécessiteux qui tendaient les mains...//(7.628817,11.75)\\\\Et je compte... Et j'ai continué à...\"//(11.75,14.6)\\\\Plus de conviction, plus de conviction.//(14.6,18.5)\\\\\"Et je continuerai ainsi tous les jours que Dieu fait...\"//(18.5,21.271)\\\\Euh, c'est peut-être un peu trop, là...",
+                    "it": "//(0,2.5)\\\\\"Ho dedicato la mia vita a servire la mia comunità,//(2.5,8)\\\\i miei impiegati o i meno fortunati che tendevano le mani verso di me,//(8,13)\\\\e ho intenzione di... Ho continuato a...\"//(13,15.44152)\\\\Più convinzione, più convinta...//(15.44152,19)\\\\\"E continuerò per sempre a farlo...\"//(19,21.24088)\\\\Uhm, mi sembra un po' goffo...",
+                    "de": "//(0,2.7)\\\\„Ich habe mein Leben dem Dienst an anderen gewidmet.//(2.7,9.5)\\\\Ob nun an meinen Angestellten, an meiner Gemeinde oder an den Unterprivilegierten mit ihren ausgestreckten Händen, und ich habe vor ...//(9.5,12.8)\\\\Ich habe das fortlaufend beibehalten ...“//(12.8,15.4)\\\\Mehr Überzeugung, mehr Überzeugung ...//(15.4,19.27)\\\\„Und das werde ich auch Zeit meines Lebens tun ...“//(19.27,21.24088)\\\\Hm. Das klingt zu unbeholfen ...",
+                    "es": "//(0,2.633)\\\\«He dedicado toda mi vida a servir a los demás,//(2.633,4.529)\\\\ya fuesen mis empleados,//(4.529,6.634)\\\\mi comunidad o la gente sin privilegios que pedía//(6.634,8.386)\\\\ayuda con las manos extendidas.//(8.386,12.731)\\\\Pretendo... He seguido...».//(12.731,15.5)\\\\Con más convicción, venga. Más convicción...//(15.5,19.042)\\\\«Y seguiré dedicando el resto de mi vida a servir a los demás».//(19.042,22.74165)\\\\Mmm, queda un poco burdo...",
+                    "ru": "//(0,2.84)\\\\«Я посвятила свою жизнь служению —//(2.84,4.392715)\\\\я служила собственным сотрудникам,//(4.392715,6.901358)\\\\служила обществу и обездоленным людям,//(6.901358,7.96)\\\\ждущим милости с протянутой рукой;//(7.96,12.79469)\\\\и я намерена... Я продолжаю...»//(12.79469,15.09754)\\\\Надо более убедительно...//(15.09754,19.11345)\\\\«И я буду поступать так всегда...»//(19.11345,21.24088)\\\\Хм, как-то неуклюже звучит...",
+                    "cn": "//(0,9.72653)\\\\「我一生都致力于服务他人，无论是我的员工、我的社区，还是那些有所求的贫困之人。而我打算......//(9.72653,12.3)\\\\我将继续......」//(12.3,15.1)\\\\更坚定些、更坚定些......//(15.1,19)\\\\「而我将会永远继续坚持下去......」//(19,21.24088)\\\\嗯，似乎有点弄巧成拙......",
+                    "tc": "//(0,9.72653)\\\\「我一生都致力於服務他人，無論是我的員工、我的社群，還是那些有所求的貧困之人。而我打算......//(9.72653,12.3)\\\\我將繼續......」//(12.3,15.1)\\\\更堅定一點、更堅定一點......//(15.1,19)\\\\「而我將會永遠繼續堅持下去......」//(19,21.24088)\\\\嗯，感覺有點呆板......",
+                    "jp": "//(0,2.84)\\\\「私は人生をご奉仕するために捧げました。//(2.84,5.665)\\\\その相手が私のために働く人々やコミュニティ、//(5.665,9.33)\\\\または救いを求める恵まれない人々の誰のためであっても、私は考え...//(9.33,12.35)\\\\私は続けて...」//(12.35,14.843)\\\\もっと信念を込めないと...//(14.843,19.28)\\\\「そして私はこの先も続けていくことを...」//(19.28,21.24088)\\\\ふむ、ちょっとぎこちないかしらね..."
+                }
+            }
+        ]
+    }
+}

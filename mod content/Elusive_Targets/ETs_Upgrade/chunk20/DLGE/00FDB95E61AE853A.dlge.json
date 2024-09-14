@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31100_terraceguards.sweetdialog?/dr31100_terraceguards_bdygrd04_004.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr31100_terraceguards_bdygrd04_004",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31100_terraceguards_bdygrd04_004.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31100_terraceguards_bdygrd04_004.animset].pc_animset",
+        "languages": {
+            "en": "//(0,5.209979)\\\\Yeah. You know, it's not a great joke if I have to look it up in an encyclopedia.",
+            "fr": "//(0,0.8680981)\\\\Ouais.//(0.8680981,3.557166)\\\\Tu sais, c'est plus vraiment une blague si je dois sortir//(3.557166,5.209979)\\\\un bouquin pour la comprendre.",
+            "it": "//(0,3)\\\\Già... certo farebbe più ridere se non dovessi//(3,5.538388)\\\\andare a cercare il significato di ogni parola sul dizionario.",
+            "de": "//(0,5.2)\\\\Ja. Aber du weißt schon, dass es kein guter Witz ist, wenn man ihn erst nachschlagen muss, oder?",
+            "es": "//(0,2.231776)\\\\Ya... Verás, para que un chiste sea bueno,//(2.231776,4.238301)\\\\es importante que el de enfrente no necesite una//(4.238301,5.238301)\\\\enciclopedia para entenderlo.",
+            "ru": "//(0,0.8680981)\\\\Точно...//(0.8680981,2.828589)\\\\Слушай, соль хорошей шутки должна//(2.828589,5.209979)\\\\быть понятной без словаря.",
+            "cn": "//(0,30)\\\\嗯，话说，如果我得查百科才能听懂你的笑话，那说明你的笑话并不高明。",
+            "tc": "//(0,30)\\\\嗯，話說，如果我得查百科才能聽懂你的笑話，那就表示你的笑話不高明。",
+            "jp": "//(0,1.168)\\\\そうかもな。//(1.168,31.168)\\\\ところで百科事典で調べなきゃ意味がわからんジョークはダメだと思うぜ。"
+        }
+    }
+}

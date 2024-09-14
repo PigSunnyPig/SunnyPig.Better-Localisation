@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31100_terraceguards.sweetdialog?/dr31100_terraceguards_bdygrd06_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr31100_terraceguards_bdygrd06_001",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31100_terraceguards_bdygrd06_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31100_terraceguards_bdygrd06_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0.85,30.85)\\\\Can't believe they put the new guy on Dame Barb.",
+            "fr": "//(0.85,30.85)\\\\J'arrive pas à croire qu'ils aient mis le nouveau sur Dame Barb.",
+            "it": "//(0,4.068729)\\\\È incredibile che abbiano messo il tizio nuovo su Dama Barbara.",
+            "de": "//(0,4.069)\\\\Kaum zu glauben, dass sie Dame Barb dem Neuen zugeteilt haben.",
+            "es": "//(0,2.304607)\\\\Es increíble que asignasen al nuevo como//(2.304607,4.068729)\\\\guardaespaldas de la dama.",
+            "ru": "//(0,4.068729)\\\\Даже не верится, что они приставили новичка к даме Барб.",
+            "cn": "//(0,30)\\\\真不敢相信他们竟然派了那个新人去保护芭芭拉女爵士。",
+            "tc": "//(0,30)\\\\真不敢相信他們竟然給芭芭拉女爵士派了那個新傢伙。",
+            "jp": "//(0,30)\\\\バーバラ卿に新しい奴を配置するとはな。"
+        }
+    }
+}

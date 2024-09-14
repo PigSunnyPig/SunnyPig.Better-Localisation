@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31100_terraceguards.sweetdialog?/dr31100_terraceguards_bdygrd04_002.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr31100_terraceguards_bdygrd04_002",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31100_terraceguards_bdygrd04_002.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31100_terraceguards_bdygrd04_002.animset].pc_animset",
+        "languages": {
+            "en": "//(0,1.979406)\\\\Did you see the mustache on him?//(1.979406,4.15)\\\\That thing's straight out of the 70s.//(4.15,6.412)\\\\Probably has a tiny comb for it and everything.",
+            "fr": "//(0,1.49101)\\\\T'as vu sa moustache ?//(1.49101,4.275)\\\\Il sort des années 70, ce mec !//(4.275,6.411854)\\\\Tu paries qu'il se trimballe avec un mini-peigne sur lui ?",
+            "it": "//(0,1.781959)\\\\Hai visto che razza di baffi ha?//(1.781959,4)\\\\Sembra uscito dagli anni '70.//(4,6.695873)\\\\Di sicuro ci passa sopra la cera e se li sistema con un pettinino...",
+            "de": "//(0,4.06)\\\\Hast du seinen Schnurrbart gesehen? Das Ding stammt doch direkt aus den Siebzigern.//(4.06,6.262)\\\\Wahrscheinlich hat er dafür sogar einen kleinen Kamm.",
+            "es": "//(0,2.055318)\\\\¿Has visto el bigotazo que se gasta?//(2.055318,3.864735)\\\\Parece sacado directamente de los 70.//(3.864735,5.586039)\\\\Seguro que tiene un minipeine para atusárselo//(5.586039,6.586039)\\\\y todo.",
+            "ru": "//(0,1.657589)\\\\Ты его усы видел?//(1.657589,3.624526)\\\\Они словно прямиком из семидесятых...//(3.624526,6.411854)\\\\Парень, наверное, носит с собой маленькую расческу.",
+            "cn": "//(0,1.97)\\\\你看到他脸上的那道胡子了吗？//(1.97,31.5)\\\\那根本就是 70 年代的东西，说不定他还有一把梳理胡子用的小梳子呢。",
+            "tc": "//(0,1.97)\\\\你看見他臉上的那道鬍子了嗎？//(1.97,31.65)\\\\那根本就是 70 年代的東西，他搞不好還有一把梳理鬍子的小梳子呢。",
+            "jp": "//(0,4.118)\\\\あいつの口ヒゲ見たか？70年代のスタイルだぜ。//(4.118,34.118)\\\\きっと専用のクシなんかも持ってるさ。"
+        }
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31105_guardsmoke.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "dr31105_guardsmoke_bdygrd06_001",
+                "weight": 0.3333333333333333,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31105_guardsmoke_bdygrd06_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31105_guardsmoke_bdygrd06_001.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,3.561687)\\\\Command, escorting the primary outside for a cigarette, over.",
+                    "fr": "//(0,2.712997)\\\\Contrôle, j'escorte la cible dehors pour fumer.//(2.712997,3.712997)\\\\Terminé.",
+                    "it": "//(0,3.710583)\\\\Comando, accompagno fuori l'obiettivo primario per una sigaretta, passo.",
+                    "de": "//(0,3.563)\\\\Kommandostelle, begleite das Primärziel nach draußen zum Rauchen. Over.",
+                    "es": "//(0,3.069)\\\\Mando, el objetivo principal quiere salir a fumar. Iré como escolta.//(3.069,6.16908)\\\\Cambio.",
+                    "ru": "//(0,30)\\\\База, сопровождаю номер один на перекур. Прием.",
+                    "cn": "//(0,30)\\\\指挥中心，正在护送主要目标去户外抽烟，完毕。",
+                    "tc": "//(0,30)\\\\指揮中心，正在護送主要目標到外面抽煙，完畢。",
+                    "jp": "//(0,30)\\\\本部、最重要人のタバコのため屋外まで付き添います、どうぞ。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr31105_guardsmoke_bdygrd06_002",
+                "weight": 0.3333333333333333,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31105_guardsmoke_bdygrd06_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31105_guardsmoke_bdygrd06_002.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,4.316)\\\\Command, I'm escorting the package outside for a cigarette break, over.",
+                    "fr": "//(0,2.755096)\\\\Contrôle, j'escorte le colis dehors pour une pause//(2.755096,4.315854)\\\\cigarette. Terminé.",
+                    "it": "//(0,4.315854)\\\\Comando, accompagno fuori il pacco per una pausa sigaretta, passo.",
+                    "de": "//(0,4.800982)\\\\Kommandostelle, ich begleite das Paket nach draußen zur Raucherpause. Over.",
+                    "es": "//(0,3.705)\\\\Mando, el paquete quiere ir a fumar y voy a ir a acompañarlo.//(3.705,6.405276)\\\\Cambio.",
+                    "ru": "//(0,30)\\\\База, я сопровождаю ценный груз на перекур. Прием.",
+                    "cn": "//(0,30)\\\\指挥中心，我正在护送目标去户外抽烟，完毕。",
+                    "tc": "//(0,30)\\\\指揮中心，我正在護送目標到外面抽根煙，完畢。",
+                    "jp": "//(0,30)\\\\本部、一服のため屋外へレディをお連れします、どうぞ。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr31105_guardsmoke_bdygrd06_003",
+                "weight": 0.3333333333333333,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31105_guardsmoke_bdygrd06_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31105_guardsmoke_bdygrd06_003.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,1.446014)\\\\Command, it's me.//(1.446014,3.717469)\\\\Principle has requested a smoke break.//(3.717469,5.754159)\\\\Escorting her. Over.",
+                    "fr": "//(0,3.372647)\\\\Contrôle, mobile demande une sortie pour fumer.//(3.372647,5.592771)\\\\Je l'escorte. Terminé.",
+                    "it": "//(0,1.302258)\\\\Comando, sono io.//(1.302258,3.903903)\\\\Il principale chiede di fare una pausa sigaretta.//(3.903903,4.83753)\\\\L'accompagno fuori.//(4.83753,5.83753)\\\\Passo.",
+                    "de": "//(0,6.537178)\\\\Kommandostelle, ich bin’s. Leitziel will eine Raucherpause machen. Ich begleite es. Over.",
+                    "es": "//(0,3.6259)\\\\Mando, soy yo. El objetivo ha pedido salir a fumar.//(3.6259,4.83753)\\\\Voy a escoltarla.//(4.83753,5.83753)\\\\Cambio.",
+                    "ru": "//(0,3.607916)\\\\База, это я. Номер один хочет выйти покурить.//(3.607916,4.705168)\\\\Сопровождаю ее.//(4.705168,5.705168)\\\\Прием.",
+                    "cn": "//(0,3.717469)\\\\指挥中心，是我。委托人要求去抽烟休息一下。//(3.717469,4.754159)\\\\正在护送她。完毕。",
+                    "tc": "//(0,3.717469)\\\\指揮中心，是我。委託人要求去抽根煙。//(3.717469,4.754159)\\\\正在護送她，完畢。",
+                    "jp": "//(0,30)\\\\本部、私です。要人が一服するということです。護衛につきます、どうぞ。"
+                }
+            }
+        ]
+    }
+}

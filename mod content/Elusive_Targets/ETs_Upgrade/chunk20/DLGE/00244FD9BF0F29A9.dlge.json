@@ -1,0 +1,30 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/newzealand/31000_elusive/31000_adonis/31000_adonis_handler/ds31103_wrongtarget.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "ds31103_wrongtarget_diana_001",
+                "weight": 1.0,
+                "soundtag": "Voiceover_Handler",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_handler/ds31103_wrongtarget_diana_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_handler/ds31103_wrongtarget_diana_001.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,4.300982)\\\\I'm not confident that was the real Dame Barbara, 47.//(4.300982,5.739979)\\\\Better safe than sorry.",
+                    "fr": "//(0,1.75)\\\\Je ne suis pas sûre qu'il s'agissait//(1.75,4)\\\\de la véritable Dame Barbara, 47.//(4,5.739979)\\\\Mieux vaut ne pas prendre de risques.",
+                    "it": "//(0,4)\\\\Non sono sicura che quella fosse la vera Dama Barbara, 47.//(4,5.739979)\\\\Prevenire è meglio che curare.",
+                    "de": "//(0,4.35)\\\\Ich bin mir nicht sicher, ob das die wahre Dame Barbara ist, 47.//(4.35,6.525276)\\\\Gehen wir lieber auf Nummer sicher.",
+                    "es": "//(0,2.577492)\\\\Tengo mis dudas de que esa fuese la auténtica//(2.577492,4.301786)\\\\Barbara Keating, 47.//(4.301786,5.739979)\\\\Más vale prevenir que curar.",
+                    "ru": "//(0,4.320981)\\\\Я не уверена, что это была настоящая дама Барбара, 47-й.//(4.320981,5.739979)\\\\Лучше подстраховаться.",
+                    "cn": "//(0,30)\\\\我不太确定那是真正的芭芭拉女爵士，47。你最好确保万无一失。",
+                    "tc": "//(0,30)\\\\我不太確定那是真正的芭芭拉女爵士，47。你最好確保萬無一失。",
+                    "jp": "//(0,4.318)\\\\あれが本物のバーバラ卿だったとの確信が持てないわ、47。//(4.318,34.318)\\\\念には念をってね。"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31104_targetsmoke.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "dr31104_targetsmoke_et_adonis_001",
+                "weight": 0.3333333333333333,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31104_targetsmoke_et_adonis_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31104_targetsmoke_et_adonis_001.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Ugh, I need a cigarette.",
+                    "fr": "//(0,30)\\\\Hmm, j'ai besoin d'une cigarette.",
+                    "it": "//(0,30)\\\\Argh, ho bisogno di una sigaretta.",
+                    "de": "//(0,30)\\\\Ach, ich brauche eine Zigarette.",
+                    "es": "//(0,30)\\\\Arg. Necesito un cigarrillo.",
+                    "ru": "//(0,30)\\\\Уф, мне нужна сигарета.",
+                    "cn": "//(0,30)\\\\呃，我要抽根烟。",
+                    "tc": "//(0,30)\\\\呃，真想抽根煙。",
+                    "jp": "//(0,30)\\\\あー、タバコがほしい。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr31104_targetsmoke_et_adonis_002",
+                "weight": 0.3333333333333333,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31104_targetsmoke_et_adonis_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31104_targetsmoke_et_adonis_002.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\This is exhausting. I need a smoke.",
+                    "fr": "//(0,30)\\\\Tout ça est épuisant. J'ai besoin d'une cigarette...",
+                    "it": "//(0,30)\\\\Sono esausta, devo fumare una sigaretta.",
+                    "de": "//(0,30)\\\\Das ist so anstrengend. Ich muss eine rauchen.",
+                    "es": "//(0,30)\\\\Esto es agotador. Necesito ir a fumar.",
+                    "ru": "//(0,30)\\\\Это выматывает. Нужно покурить.",
+                    "cn": "//(0,30)\\\\累死我了。我要抽根烟。",
+                    "tc": "//(0,30)\\\\真累，我得去抽根煙。",
+                    "jp": "//(0,30)\\\\疲れてきた。一服しないと。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr31104_targetsmoke_et_adonis_003",
+                "weight": 0.3333333333333333,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31104_targetsmoke_et_adonis_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31104_targetsmoke_et_adonis_003.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\That's enough of that, I need a smoke.",
+                    "fr": "//(0,30)\\\\Ça suffit. J'ai besoin d'une cigarette...",
+                    "it": "//(0,30)\\\\Ne ho abbastanza, devo fumare una sigaretta.",
+                    "de": "//(0,30)\\\\Das reicht fürs Erste. Ich muss eine rauchen.",
+                    "es": "//(0,30)\\\\Bueno, a descansar, que necesito un cigarrillo.",
+                    "ru": "//(0,30)\\\\С меня хватит. Надо покурить.",
+                    "cn": "//(0,30)\\\\够了，我要抽根烟。",
+                    "tc": "//(0,30)\\\\我受夠了，我得去抽根煙。",
+                    "jp": "//(0,30)\\\\よし、一服しましょう。"
+                }
+            }
+        ]
+    }
+}

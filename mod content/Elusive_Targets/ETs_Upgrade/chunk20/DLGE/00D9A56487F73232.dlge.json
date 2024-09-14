@@ -1,0 +1,87 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31110_startread.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "dr31110_startread_et_adonisfalse_001",
+                "weight": 0.24999995529651375,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31110_startread_et_adonisfalse_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31110_startread_et_adonisfalse_001.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Okay, let's see here...",
+                    "fr": "//(0,30)\\\\Alors, voyons ça...",
+                    "it": "//(0,30)\\\\Ok, vediamo un po' qui...",
+                    "de": "//(0,30)\\\\Okay, dann wollen wir mal sehen ...",
+                    "es": "//(0,30)\\\\Vale, veamos...",
+                    "ru": "//(0,30)\\\\Так, посмотрим...",
+                    "cn": "//(0,30)\\\\好，我们来看看......",
+                    "tc": "//(0,30)\\\\好，我們來看看......",
+                    "jp": "//(0,30)\\\\そうね、ではここ..."
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr31110_startread_et_adonisfalse_002",
+                "weight": 0.24999995529651375,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31110_startread_et_adonisfalse_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31110_startread_et_adonisfalse_002.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\All right, where was I...",
+                    "fr": "//(0,30)\\\\Bon, où en étais-je...",
+                    "it": "//(0,30)\\\\Ok, dov'ero rimasta...",
+                    "de": "//(0,30)\\\\Na gut. Wo war ich ...",
+                    "es": "//(0,30)\\\\Vale, ¿por dónde...?",
+                    "ru": "//(0,30)\\\\На чем я остановилась...",
+                    "cn": "//(0,30)\\\\好吧，我说到哪了......",
+                    "tc": "//(0,30)\\\\好吧，我說到哪了......",
+                    "jp": "//(0,30)\\\\さてと、どこだったかしら..."
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr31110_startread_et_adonisfalse_003",
+                "weight": 0.24999995529651375,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31110_startread_et_adonisfalse_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31110_startread_et_adonisfalse_003.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Ahem...",
+                    "fr": "//(0,30)\\\\Ahem...",
+                    "it": "//(0,30)\\\\Ehm...",
+                    "de": "//(0,30)\\\\Ähem ...",
+                    "es": "//(0,30)\\\\Ejem...",
+                    "ru": "//(0,30)\\\\Кхм...",
+                    "cn": "//(0,30)\\\\咳咳......",
+                    "tc": "//(0,30)\\\\嗯哼......",
+                    "jp": "//(0,30)\\\\エヘン..."
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr31110_startread_et_adonisfalse_004",
+                "weight": 0.24999995529651375,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31110_startread_et_adonisfalse_004.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31110_startread_et_adonisfalse_004.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Hm, what to do about this section...",
+                    "fr": "//(0,30)\\\\Hmm, que faire pour cette section... ?",
+                    "it": "//(0,30)\\\\Uhm, come sistemo questa sezione?",
+                    "de": "//(0,30)\\\\Hm. Was machen wir mit dem nächsten Abschnitt ...",
+                    "es": "//(0,30)\\\\Mmm, ¿qué hago con esta parte?...",
+                    "ru": "//(0,30)\\\\Хм, как поступить с этим абзацем?",
+                    "cn": "//(0,30)\\\\嗯，这一部分该怎么办呢......",
+                    "tc": "//(0,30)\\\\嗯，這一部分該怎麼辦呢......",
+                    "jp": "//(0,30)\\\\んー、ここでどうすれば..."
+                }
+            }
+        ]
+    }
+}

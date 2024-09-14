@@ -1,0 +1,87 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31111_endread.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "dr31111_endread_et_adonisfalse_001",
+                "weight": 0.24999995529651375,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31111_endread_et_adonisfalse_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31111_endread_et_adonisfalse_001.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Good enough for now...",
+                    "fr": "//(0,30)\\\\Ça ira pour le moment...",
+                    "it": "//(0,30)\\\\Per adesso va bene...",
+                    "de": "//(0,30)\\\\Das sollte fürs Erste reichen ...",
+                    "es": "//(0,30)\\\\Vale, ya basta por ahora...",
+                    "ru": "//(0,30)\\\\Пока сойдет и так...",
+                    "cn": "//(0,30)\\\\目前而言已经可以了。",
+                    "tc": "//(0,30)\\\\目前這樣應該就行了......",
+                    "jp": "//(0,30)\\\\今のところ十分だわ..."
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr31111_endread_et_adonisfalse_002",
+                "weight": 0.24999995529651375,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31111_endread_et_adonisfalse_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31111_endread_et_adonisfalse_002.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Hmm...",
+                    "fr": "//(0,30)\\\\Hmm...",
+                    "it": "//(0,30)\\\\Uhm...",
+                    "de": "//(0,30)\\\\Hm ...",
+                    "es": "//(0,30)\\\\Mmm...",
+                    "ru": "//(0,30)\\\\Хм-м...",
+                    "cn": "//(0,30)\\\\嗯......",
+                    "tc": "//(0,30)\\\\嗯......",
+                    "jp": "//(0,30)\\\\んー..."
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr31111_endread_et_adonisfalse_003",
+                "weight": 0.24999995529651375,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31111_endread_et_adonisfalse_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31111_endread_et_adonisfalse_003.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\I'll come back to that one later...",
+                    "fr": "//(0,30)\\\\J'y reviendrai plus tard...",
+                    "it": "//(0,30)\\\\Ci tornerò più tardi...",
+                    "de": "//(0,30)\\\\Das schaue ich mir später noch mal an ...",
+                    "es": "//(0,30)\\\\Luego volveré sobre esta parte...",
+                    "ru": "//(0,30)\\\\К этому вернусь позже...",
+                    "cn": "//(0,30)\\\\晚些时候再来处理那块......",
+                    "tc": "//(0,30)\\\\我晚點再回來看看那個......",
+                    "jp": "//(0,30)\\\\これは後に回しましょう..."
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr31111_endread_et_adonisfalse_004",
+                "weight": 0.24999995529651375,
+                "soundtag": "In-world_Mission_Normal",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31111_endread_et_adonisfalse_004.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_story/dr31111_endread_et_adonisfalse_004.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Still missing something there...",
+                    "fr": "//(0,30)\\\\Il manque encore quelque chose ici...",
+                    "it": "//(0,30)\\\\Qui manca ancora qualcosa...",
+                    "de": "//(0,30)\\\\Hier fehlt doch immer noch was ...",
+                    "es": "//(0,30)\\\\Aquí sigo echando en falta algo...",
+                    "ru": "//(0,30)\\\\Тут чего-то недостает...",
+                    "cn": "//(0,30)\\\\还是少了些什么......",
+                    "tc": "//(0,30)\\\\那裡還是少了點什麼......",
+                    "jp": "//(0,30)\\\\まだ何かが足りないわね..."
+                }
+            }
+        ]
+    }
+}
