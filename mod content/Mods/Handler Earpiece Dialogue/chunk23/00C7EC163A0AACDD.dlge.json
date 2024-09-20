@@ -1,0 +1,49 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/12500_white_spider/12500_rabies/12500_handler/ds12547_sweating.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds12547_sweating_diana_ws_001",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12547_sweating_diana_ws_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12547_sweating_diana_ws_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Something in the doctor's notes. \"Subject sweating heavily. Possible accelerated infection. Observe\". Subject. Charming.",
+					"fr": "//(0,30)\\\\Tiens, il y a quelque chose dans les notes du docteur : \"Hypersudation chez le sujet. Accélération probable de l'infection. Garder en observation.\" Le \"sujet\", c'est charmant.",
+					"it": "//(0,30)\\\\C'è qualcosa tra le note del dottore. \"Il soggetto è madido di sudore. L'infezione progredisce velocemente. In osservazione\". Il \"soggetto\"... Carino.",
+					"de": "//(0,30)\\\\In den Notizen des Arztes steht: \"Subjekt schwitzt stark. Möglicherweise beschleunigte Infektion. Beobachten.\" \"Subjekt.\" Nett.",
+					"es": "//(0,30)\\\\Esto es de las notas del doctor. \"El sujeto suda abundantemente. Posible aceleración de la infección. Observar\". Sujeto. Qué delicado.",
+					"ru": "//(0,30)\\\\В заметках доктора есть кое-что. «Объект обильно потеет. Возможно ускоренное развитие болезни. Вести наблюдение». Объект. Очаровательно.",
+					"cn": "//(0,30)\\\\医生笔记里有些文字。“实验对象对象大量出汗。可能加快了感染速度。持续观察”。实验对象。有意思。",
+					"tc": "//(0,30)\\\\醫生筆記裡有些文字。「實驗物件物件大量出汗。可能加快了感染速度。持續觀察」。實驗物件。有意思。",
+					"jp": "//(0,30)\\\\ドクターの メモには「被験者の 汗が 増加。 要観察」と あるわ。 ふぅーん..."
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds12547_sweating_diana_ws_002",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12547_sweating_diana_ws_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12547_sweating_diana_ws_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\This might be tricky to spot, but you're looking for someone sweating a lot. Most likely a symptom of the infection.",
+					"fr": "//(0,30)\\\\Ça risque d'être difficile à identifier, mais vous devez trouver quelqu'un qui transpire beaucoup. C'est probablement un des symptômes de l'infection.",
+					"it": "//(0,30)\\\\Non sarà semplice da individuare, ma sappi che il tuo bersaglio suda molto. Probabilmente è un sintomo del contagio.",
+					"de": "//(0,30)\\\\Es könnte schwierig werden, das zu entdecken, aber Sie suchen jemanden, der stark schwitzt. Höchstwahrscheinlich ein Symptom der Infektion.",
+					"es": "//(0,30)\\\\Este lugar podría darte problemas, pero estás buscando a alguien sudando a mares. Probablemente un síntoma de la infección.",
+					"ru": "//(0,30)\\\\Может, это нелегко заметить, но тебе нужен тот, кто сильно потеет. Скорее всего, это симптом заболевания.",
+					"cn": "//(0,30)\\\\这家伙可能不太好找，你得看看在大量出汗的人。很可能是感染的症状。",
+					"tc": "//(0,30)\\\\這傢伙可能不太好找，你得看看在大量出汗的人。很可能是感染的症狀。",
+					"jp": "//(0,30)\\\\難しいでしょうけど、 汗を かいて いる人を 探して みて。 おそらく感染による 症状よ。"
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32533_sp_khabkokillreznikov.sweetdialog?/ds32533_sp_khabkokillreznikov_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32533_sp_khabkokillreznikov_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32533_sp_khabkokillreznikov_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32533_sp_khabkokillreznikov_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\47, Khabko's assaulting the warden! I think he's killing him.",
+			"fr": "//(0,30)\\\\47, Khabko s'en prend au directeur... Je crois qu'il essaie de le tuer !",
+			"it": "//(0,30)\\\\47, Khabko attacca il direttore! Credo che lo stia uccidendo.",
+			"de": "//(0,30)\\\\47, Khabko greift den Gefängnisdirektor an! Ich glaube, er bringt ihn um.",
+			"es": "//(0,30)\\\\¡47, Khabko está atacando al alcaide! Creo que lo está matando.",
+			"ru": "//(0,30)\\\\47-й, Хабко напал на начальника тюрьмы! Кажется, он решил его убить.",
+			"cn": "//(0,30)\\\\47，卡布科正在袭击监狱长！我觉得他想杀死对方。",
+			"tc": "//(0,30)\\\\47，卡伯克正在襲擊典獄長！我看他快要把他殺了。",
+			"jp": "//(0,30)\\\\47、カブコが所長に襲いかかったわ！殺すつもりね。"
+		}
+	}
+}

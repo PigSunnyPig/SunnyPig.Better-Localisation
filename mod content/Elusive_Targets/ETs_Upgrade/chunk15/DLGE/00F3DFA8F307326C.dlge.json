@@ -9,16 +9,16 @@
         "soundtag": "Voiceover_Handler",
         "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/_test_dialogue/evergreen_d/be_escaped_diana_001.wav].pc_wes",
         "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/_test_dialogue/evergreen_d/be_escaped_diana_001.animset].pc_animset",
-        "languages": {
-            "en": "//[DIANA]\\\\//(0,1.65)\\\\We lost them, 47!//(1.65,30)\\\\Our client won't be pleased.",
-            "fr": "//[DIANA]\\\\//(0,1.65)\\\\Nous avons perdu la cible, 47 !//(1.65,30)\\\\Notre client ne sera pas content.",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,30)\\\\We lost them, 47! Our clients won't be pleased.",
+			"fr": "//[DIANA]\\\\//(0,1.65)\\\\Nous avons perdu la cible, 47 !//(1.65,30)\\\\Notre client ne sera pas content.",
             "it": "//[DIANA]\\\\//(0,1.65)\\\\Non riusciamo a prenderlo, 47!//(1.65,30)\\\\Il nostro cliente non sarà contento.",
-            "de": "//[DIANA]\\\\//(0,1.65)\\\\Wir können ihn nicht fangen, 47!//(1.65,30)\\\\Unser Kunde wird nicht erfreut sein.",
+			"de": "//[DIANA]\\\\//(0,1.65)\\\\Wir haben sie verloren, 47!//(1.65,30)\\\\Unsere Klienten werden nicht begeistert sein.",
             "es": "//[DIANA]\\\\//(0,1.65)\\\\¡Perdimos el blanco, 47!//(1.65,30)\\\\Nuestro cliente no estará contento.",
-            "ru": "//[DIANA]\\\\//(0,1.65)\\\\Мы потеряли цель, 47-й!//(1.65,30)\\\\Наш клиент будет недоволен.",
-            "cn": "//[DIANA]\\\\//(0,30)\\\\我们跟丢了目标，47！我们的客户不会对此感到高兴的。",
-            "tc": "//[DIANA]\\\\//(0,30)\\\\我們追丟了目標，47！我們的客戶不會對此感到高興的。",
+			"ru": "//[DIANA]\\\\//(0,30)\\\\Мы их упустили, 47-й! Наши клиенты будут недовольны.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\我们跟丢了目标，47！我们的客户不会对此感到高兴的。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\我們追丟了目標，47！我們的客戶不會對此感到高興的。",
             "jp": "//[DIANA]\\\\//(0,1.65)\\\\目標を見失いました、47!//(1.65,30)\\\\顧客は喜ばないでしょう。"
-        }
+		}
     }
 }

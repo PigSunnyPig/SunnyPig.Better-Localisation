@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32530_sp_reznikovpilotmeet.sweetdialog?/ds32530_sp_reznikovpilotmeet_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32530_sp_reznikovpilotmeet_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32530_sp_reznikovpilotmeet_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32530_sp_reznikovpilotmeet_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.103)\\\\Warden Reznikov is meeting up with the pilot//(2.103,7.153374)\\\\above the prison yard. What now?",
+			"fr": "//(0,30)\\\\Reznikov va retrouver le pilote au-dessus de la cour de la prison. Que faire maintenant ?",
+			"it": "//(0,30)\\\\Il direttore Reznikov si è incontrato con il pilota nel cortile della prigione. E adesso?",
+			"de": "//(0,30)\\\\Gefängnisdirektor Reznikov trifft sich mit dem Piloten über dem Gefängnishof. Was jetzt?",
+			"es": "//(0,30)\\\\El alcaide Reznikov se ha reunido con el piloto sobre el patio de la cárcel. ¿Y ahora qué?",
+			"ru": "//(0,30)\\\\Начальник тюрьмы Резников встречается с пилотом над двором тюрьмы. Что дальше?",
+			"cn": "//(0,3.5)\\\\监狱长列兹尼科夫正在监狱大院上方和飞行员碰头。//(3.5,33.5)\\\\现在是什么情况？",
+			"tc": "//(0,30)\\\\典獄長雷茲尼克瓦正在和監獄操場上方的飛行員碰面。現在怎麼辦？",
+			"jp": "//(0,30)\\\\レズニコフ所長は屋上でパイロットと合流しているわ。どうする？"
+		}
+	}
+}

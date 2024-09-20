@@ -1,0 +1,87 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/evergreen/handler/ed080_clbrtmissonfailpost.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ed080_clbrtmissonfailpost_diana_001",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed080_clbrtmissonfailpost_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed080_clbrtmissonfailpost_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\That was unfortunate, 47. But I'm sure you will do better next time. Let me know when you're ready.",
+					"fr": "//(0,1.685)\\\\C’était fâcheux, 47.//(1.685,4.115)\\\\Mais je suis sûre que vous ferez mieux la prochaine fois.//(4.115,34.115)\\\\Faites-moi savoir quand vous êtes prêt.",
+					"it": "//(0,4)\\\\Che sfortuna, 47. Sono sicura che farai meglio la prossima volta.//(4,34)\\\\Fammi sapere quando sarai pronto.",
+					"de": "//(0,1.8)\\\\Das war Pech, 47.//(1.8,4.4)\\\\Aber ich bin mir sicher, nächstes Mal schlagen Sie sich besser.//(4.4,34.4)\\\\Lassen Sie es mich wissen, sobald Sie bereit sind.",
+					"es": "//(0,1.992393)\\\\Qué mala suerte, 47.//(1.992393,4.361473)\\\\No obstante, tengo claro que la próxima vez lo harás mejor.//(4.361473,34.36147)\\\\Avísame cuando estés preparado.",
+					"ru": "//(0,4.181)\\\\Очень досадно, 47-й. Но я уверена, что в следующий раз ты справишься.//(4.181,34.181)\\\\Дай знать, как будешь готов.",
+					"cn": "//(0,30)\\\\太不幸了，47。但我相信你下次能做得更好。准备好时就告诉我。",
+					"tc": "//(0,30)\\\\真是遺憾，47。但是我相信你下次表現會更好的。準備好告訴我。",
+					"jp": "//(0,30)\\\\残念だったわね、47。でも次はもっとうまくいくはずよ。準備ができたら教えて。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed080_clbrtmissonfailpost_diana_002",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed080_clbrtmissonfailpost_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed080_clbrtmissonfailpost_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,4.334)\\\\I'm sorry that your last assignment ended the way it did. But don't give up.//(4.334,6.7)\\\\I'm sure you will get back in the game.//(6.7,36.7)\\\\Contact to me when you're ready for your next assignment.",
+					"fr": "//(0,2.78)\\\\Navrée que votre dernière mission se soit terminée ainsi.//(2.78,4.045)\\\\Mais n'abandonnez pas.//(4.045,6.44)\\\\Je suis sûre que vous corrigerez le tir sans attendre.//(6.44,36.44)\\\\Contactez-moi quand vous serez prêt pour votre prochaine mission.",
+					"it": "//(0,3)\\\\Mi dispiace che il tuo ultimo incarico sia finito così.//(3,6)\\\\Ma non arrenderti. Sono sicura che tornerai in pista.//(6,36)\\\\Contattami quando sarai pronto per il tuo prossimo incarico.",
+					"de": "//(0,3.15)\\\\Es tut mir leid, dass der letzte Auftrag so endete.//(3.15,4.25)\\\\Aber geben Sie nicht auf.//(4.25,6.2)\\\\Ich bin mir sicher, Sie finden wieder ins Spiel.//(6.5,36.5)\\\\Kontaktieren Sie mich, sobald Sie bereit für Ihren nächsten Auftrag sind.",
+					"es": "//(0,3.064785)\\\\Lamento que tu último encargo haya acabado así,//(3.064785,4.237178)\\\\pero no te rindas.//(4.237178,6.531963)\\\\Seguro que no tardas en volver a arrasar.//(6.531963,12.29485)\\\\Avísame cuando estés listo para afrontar el próximo encargo.",
+					"ru": "//(0,3.196687)\\\\Мне жаль, что предыдущее задание обернулось провалом.//(3.196687,6.611)\\\\Но не унывай. Уверена, ты скоро вернешься в форму.//(6.611,36.611)\\\\Свяжись со мной, как будешь готов взяться за следующее задание.",
+					"cn": "//(0,4.21)\\\\我很抱歉，你上次任务的结果就是如此。但不要放弃。//(4.21,34.21)\\\\我相信你会重振旗鼓。准备好继续执行任务时就联系我。",
+					"tc": "//(0,3.1)\\\\很遺憾，你的上一個任務結果不佳。//(3.1,6.7)\\\\但是別放棄，你一定會再次上手的。//(6.7,36.7)\\\\為下一場任務做好準備時告訴我。",
+					"jp": "//(0,6.37)\\\\前回の任務は残念な結末だったわね。でも諦めないで。また調子は戻るはずよ。//(6.37,36.37)\\\\次の任務の準備が整ったら連絡して。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed080_clbrtmissonfailpost_diana_003",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed080_clbrtmissonfailpost_diana_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed080_clbrtmissonfailpost_diana_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,3.37)\\\\No worries 47. Everyone has an off day.//(3.37,7.051)\\\\Reflect and I'm sure you will achieve your goal the next time.//(7.051,37.051)\\\\Let me know when you're back on your feet.",
+					"fr": "//(0,1.243)\\\\Pas d'inquiétude, 47.//(1.243,3.175)\\\\Tout le monde connaît des baisses de régime.//(3.175,6.862)\\\\Analysez vos erreurs et je suis sûre vous réussirez la prochaine fois.//(6.862,36.862)\\\\Prévenez-moi quand vous serez remis sur pied.",
+					"it": "//(0,3)\\\\Non preoccuparti, 47. Tutti hanno una brutta giornata.//(3,6.5)\\\\Riflettici e sono sicura che la prossima volta riuscirai a raggiungere il tuo obiettivo.//(6.5,36.5)\\\\Fammi sapere quando ti sarai rimesso in sesto.",
+					"de": "//(0,1.45)\\\\Keine Sorge, 47.//(1.45,3.3)\\\\Jeder hat mal einen schlechten Tag.//(3.3,6.65)\\\\Denken Sie noch einmal über alles nach und ich bin mir sicher, Sie erreichen beim nächsten Mal Ihr Ziel.//(7.05,37.05)\\\\Lassen Sie es mich wissen, sobald Sie wieder auf den Beinen sind.",
+					"es": "//(0,1.442393)\\\\No te preocupes, 47.//(1.442393,3.264785)\\\\Todos tenemos días malos.//(3.264785,6.995768)\\\\Reflexiona y seguro que la próxima vez consigues el objetivo.//(6.995768,36.99577)\\\\Avísame cuando estés listo para volver a la carga.",
+					"ru": "//(0,2.945)\\\\Не переживай, 47-й. У всех бывают неудачные дни.//(2.945,6.902)\\\\Уверена, ты сделаешь выводы и в следующий раз добьешься успеха.//(6.902,36.902)\\\\Дай знать, когда поправишься.",
+					"cn": "//(0,3.08)\\\\不必担心，47。人非圣贤，孰能无过。//(3.08,6.93)\\\\好好反思一下，我相信下次你一定能达成目标。//(6.93,36.93)\\\\恢复过来后就告诉我。",
+					"tc": "//(0,3.2)\\\\別擔心，47。難免會有失誤。//(3.2,7.2)\\\\好好反省，我相信你下次能達成目標的。//(7.2,37.2)\\\\準備好的時候告訴我。",
+					"jp": "//(0,3.16)\\\\心配しないで、47。誰だって調子の悪い日はあるわ。//(3.16,6.895)\\\\今回の反省を活かせば、次は目標を達成できるはずよ。//(6.895,36.895)\\\\回復したら連絡して。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed080_clbrtmissonfailpost_diana_004",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_DevCommentary",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed080_clbrtmissonfailpost_diana_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed080_clbrtmissonfailpost_diana_004.animset].pc_animset",
+				"languages": {
+					"en": "//(0,5.2)\\\\Now, now. Don't be down. As you know, this line of work can be... challenging.//(5.2,35.2)\\\\Recover and let me know when you are ready to move on.",
+					"fr": "//(0,1.441)\\\\Allons, ne soyez pas abattu.//(1.441,4.738)\\\\Comme vous le savez, ce corps de métier peut être... exigeant.//(4.738,34.738)\\\\Récupérez et faites-moi savoir quand vous serez prêt à passer à autre chose.",
+					"it": "//(0,1.6)\\\\Via, via. Non essere triste.//(1.6,4.6)\\\\Sai bene che questo lavoro può essere... impegnativo.//(4.6,34.6)\\\\Riprenditi e fammi sapere quando sarai pronto.",
+					"de": "//(0,1.6)\\\\Na, na. Seien Sie nicht niedergeschlagen.//(1.6,3.6)\\\\Wie Sie wissen, kann diese Art von Arbeit ...//(3.9,4.85)\\\\anspruchsvoll sein.//(5.2,35.2)\\\\Erholen Sie sich und lassen Sie es mich wissen, sobald Sie weitermachen wollen.",
+					"es": "//(0,1.548589)\\\\Venga, venga, no te vengas abajo.//(1.548589,5.111472)\\\\Sabes de sobra que este trabajo puede ser... complicado.//(5.111472,35.11147)\\\\Recupérate y avísame cuando estés listo para seguir.",
+					"ru": "//(0,1.138)\\\\Ну-ну, не вешай нос.//(1.6,5.3)\\\\Ты прекрасно знаешь, что это... непростая работа.//(5.3,35.3)\\\\Поправляйся и сообщи, когда будешь готов продолжить.",
+					"cn": "//(0,1.36)\\\\好了，好了。别垂头丧气。//(1.36,5)\\\\你懂得，干这行的有时候就是......很难。//(5,35)\\\\恢复一下，准备好出发时就告诉我。",
+					"tc": "//(0,5.1)\\\\好了，好了，不用難過。這一行本來就是這樣......有挑戰性。//(5.1,35.1)\\\\好好恢復，要繼續的時候告訴我。",
+					"jp": "//(0,1.43)\\\\ほらほら、落ち込まないの。//(1.43,5.06)\\\\知っているとは思うけど、この仕事は... 困難な時もあるのよ。//(5.06,35.06)\\\\元気を回復して、次に進む準備ができたら教えて。"
+				}
+			}
+		]
+	}
+}

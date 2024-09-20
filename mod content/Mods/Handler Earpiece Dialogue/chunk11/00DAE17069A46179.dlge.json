@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32527_sp_foodpoisoned.sweetdialog?/ds32527_sp_foodpoisoned_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32527_sp_foodpoisoned_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32527_sp_foodpoisoned_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32527_sp_foodpoisoned_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Hm, adding a bit of spice to Khabko's dinner, 47?",
+			"fr": "//(0,30)\\\\Vous épicez un peu le dîner de Khabko, 47 ?",
+			"it": "//(0,30)\\\\Uhm, che ne dici di condire un po' la cena di Khabko, 47?",
+			"de": "//(0,30)\\\\Hm, wollen Sie Khabkos Essen ein wenig nachwürzen, 47?",
+			"es": "//(0,30)\\\\Mmm, ¿dándole alegría a la cena de Khabko, 47?",
+			"ru": "//(0,30)\\\\Хм-м. Что, 47-й, решил добавить специй в трапезу Хабко?",
+			"cn": "//(0,30)\\\\嗯，你是想给卡布科的饭菜再加点“猛料”吗，47？",
+			"tc": "//(0,30)\\\\嗯，想為卡伯克的晚餐加點料嗎，47？",
+			"jp": "//(0,30)\\\\ふむ、カブコの夕食にスパイスを添えてあげるつもり、47？"
+		}
+	}
+}

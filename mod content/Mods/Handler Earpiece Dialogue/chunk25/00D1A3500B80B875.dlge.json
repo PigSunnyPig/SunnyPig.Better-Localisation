@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/marrakech/11000_python/11000_handler/ds11017_fortuneconclusion.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds11017_fortuneconclusion_diana_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11000_python/11000_handler/ds11017_fortuneconclusion_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11000_python/11000_handler/ds11017_fortuneconclusion_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Good thinking, 47. It's time to read Mendola his misfortune. Pardon the pun.",
+					"fr": "//(0,1.3)\\\\Bien trouvé 47.//(1.3,4.85)\\\\C'est le temps de lire sa \"malchance\" à Mendola.//(4.85,34.85)\\\\Désolée pour la mauvaise blague.",
+					"it": "//(0,1.324)\\\\Buona idea, 47.//(1.324,31.324)\\\\È ora di rivelare a Mendola la sua \"malasorte\". Perdona la battuta.",
+					"de": "//(0,4.9)\\\\Gut mitgedacht, 47. Nun ist es Zeit, Mendola die Wahrheit über seine Zukunft mitzuteilen.//(4.9,34.9)\\\\Verzeihen Sie den Wortwitz.",
+					"es": "//(0,30)\\\\Bien pensado, 47. Es hora de leerle a Mendola el poco futuro que le queda. Perdona el chiste.",
+					"ru": "//(0,30)\\\\Отличная идея, 47-й. Пришло время предсказать Мендоле его «несчастье». Прости за каламбур.",
+					"cn": "//(0,30)\\\\这个主意好，47。是时候给门多拉算算命了。这双关有点冷。",
+					"tc": "//(0,30)\\\\這個主意好，47。是時候給門多拉算算命了。這雙關有點冷。",
+					"jp": "//(0,30)\\\\いい考えだわ、47。メンドーラの不幸な運勢を占ってあげるのよ。"
+				}
+			}
+		]
+	}
+}

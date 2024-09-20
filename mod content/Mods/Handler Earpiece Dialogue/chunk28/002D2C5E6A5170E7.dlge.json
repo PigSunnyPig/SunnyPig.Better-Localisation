@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/rocky/dugong/46000_handler/ds46016_missiondone.sweetdialog?/ds46016_missiondone_grey_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds46016_missiondone_grey_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/rocky/dugong/46000_handler/ds46016_missiondone_grey_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/rocky/dugong/46000_handler/ds46016_missiondone_grey_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,0.707)\\\\And that's that.//(0.707,3.361206)\\\\The rest will pick up the pieces.//(3.361206,5.699)\\\\...It's time to go, 47.//(5.699,7.321697)\\\\I'll see you soon.",
+			"fr": "//(0,3.4)\\\\Et voilà, terminé. Les autres vont retourner à leur vie d'avant...//(3.4,33.4)\\\\Il est temps de filer, 47. À bientôt.",
+			"it": "//(0,3.718)\\\\Abbiamo finito. Del resto se ne occuperanno altri.//(3.718,5)\\\\È ora di andare, 47.//(5.9,35.9)\\\\A presto.",
+			"de": "//(0,2.35)\\\\Und das wäre das. Die anderen werden den Rest erledigen. ...//(3.5,4.9)\\\\Wird Zeit zu gehen, 47.//(5.8,35.8)\\\\Wir sehen uns bald wieder.",
+			"es": "//(0,2.4)\\\\Pues ya estaría. El resto se encargará de recoger los restos.//(3.65,5.2)\\\\Es hora de irse, 47...//(6.1,36.1)\\\\Hasta pronto.",
+			"ru": "//(0,2.33)\\\\Ну, вот и всё. Остальные довершат начатое.//(3.8,33.8)\\\\...Пора в путь, 47-й. До скорого.",
+			"cn": "//(0,30)\\\\这就行了。其他人会去收尾。......该撤了，47。一会见。",
+			"tc": "//(0,30)\\\\這樣就行了，剩下的會有人處理。 ......該走了，47。我們回頭見。",
+			"jp": "//(0,2.5)\\\\一件落着、ということだな。後は残った奴らが仕切りなおすだろう。//(3.57,33.57)\\\\...そろそろ時間だ、47。また近いうちに会おう。"
+		}
+	}
+}

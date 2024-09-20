@@ -1,0 +1,68 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "00502130FE703D9B",
+	"DITL": "005CC166F7715F6D",
+	"CLNG": "00063B34B5153AEE",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds20025_sp_explosion_diana_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20025_sp_explosion_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20025_sp_explosion_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Unusually noisy, 47.",
+					"fr": "//(0,30)\\\\Inhabituellement bruyant, 47.",
+					"it": "//(0,30)\\\\Fin troppo rumoroso, 47.",
+					"de": "//(0,30)\\\\Ungewöhnlich laut, 47.",
+					"es": "//(0,30)\\\\Muy escandaloso, 47.",
+					"ru": "//(0,30)\\\\Необычно громко, 47-й.",
+					"cn": "//(0,30)\\\\47，这次你一反常态，搞出了很大的动静。",
+					"tc": "//(0,30)\\\\非常大聲，47......",
+					"jp": "//(0,30)\\\\随分派手ね。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds20025_sp_explosion_diana_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20025_sp_explosion_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20025_sp_explosion_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\That was quite the explosion, 47.",
+					"fr": "//(0,30)\\\\C'était une sacrée explosion, 47.",
+					"it": "//(0,30)\\\\Alla faccia dell'esplosione, 47.",
+					"de": "//(0,30)\\\\Das war eine ordentliche Explosion, 47.",
+					"es": "//(0,30)\\\\Vaya pedazo de explosión, 47.",
+					"ru": "//(0,30)\\\\Мощно грохнуло, 47-й.",
+					"cn": "//(0,30)\\\\47，爆炸声好响啊。",
+					"tc": "//(0,30)\\\\那爆炸真是大，47。",
+					"jp": "//(0,30)\\\\かなり大きな爆発だったわね。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds20025_sp_explosion_diana_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20025_sp_explosion_diana_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20025_sp_explosion_diana_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\47, what on Earth are you up to?",
+					"fr": "//(0,30)\\\\Mais qu'est-ce que vous faites, 47 ?",
+					"it": "//(0,30)\\\\47, che diavolo hai intenzione di fare?",
+					"de": "//(0,30)\\\\47, was zum Teufel haben Sie vor?",
+					"es": "//(0,30)\\\\47, ¿qué diablos estás haciendo?",
+					"ru": "//(0,30)\\\\47-й, ты что такое задумал?",
+					"cn": "//(0,30)\\\\47，你到底有何打算？",
+					"tc": "//(0,30)\\\\47，你到底在幹什麼？",
+					"jp": "//(0,30)\\\\47、一体何をしているの？"
+				}
+			}
+		]
+	}
+}

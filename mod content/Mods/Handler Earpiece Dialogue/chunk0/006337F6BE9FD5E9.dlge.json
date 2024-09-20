@@ -1,0 +1,106 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/evergreen/handler/ed052_tells/ed052_tellsd.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ed052_tellsd_diana_001",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed052_tells/ed052_tellsd_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed052_tells/ed052_tellsd_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\I hope these tells can be used to your advantage.",
+					"fr": "//[DIANA]\\\\//(0,3)\\\\J'espère que ces signes caractéristiques pourront être utilisés à votre avantage.",
+					"it": "//[DIANA]\\\\//(0,30)\\\\Spero che queste informazioni ti siano d'aiuto.",
+					"de": "//[DIANA]\\\\//(0,2.757039)\\\\Hoffentlich können Sie diese Kennzeichen zu Ihrem Vorteil nutzen.",
+					"es": "//[DIANA]\\\\//(0,3.576687)\\\\Espero que puedas usar a tu favor estas observaciones.",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\Надеюсь, эти приметы помогут в работе.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\希望这些情报能给你提供优势。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\希望你能夠善用這些特徵。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\この情報が役に立つといいわ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed052_tellsd_diana_002",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed052_tells/ed052_tellsd_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed052_tells/ed052_tellsd_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\Use these traits to your advantage.",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Utilisez ces traits à votre avantage.",
+					"it": "//[DIANA]\\\\//(0,30)\\\\Usa queste caratteristiche a tuo vantaggio.",
+					"de": "//[DIANA]\\\\//(0,30)\\\\Nutzen Sie diese Eigenschaften zu Ihrem Vorteil.",
+					"es": "//[DIANA]\\\\//(0,30)\\\\Usa estos rasgos en tu provecho.",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\Ищи цель по этим приметам.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\好好利用这些特征。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\善用這些特徵。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\この特徴をうまく利用して。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed052_tellsd_diana_003",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed052_tells/ed052_tellsd_diana_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed052_tells/ed052_tellsd_diana_003.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\I'm sorry we don't have more.",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Je suis désolée, nous n'avons rien de plus.",
+					"it": "//[DIANA]\\\\//(0,30)\\\\Mi dispiace non poterti dire di più.",
+					"de": "//[DIANA]\\\\//(0,30)\\\\Tut mir leid. Mehr haben wir nicht.",
+					"es": "//[DIANA]\\\\//(0,30)\\\\Siento que no tengamos más.",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\Увы, других подробностей нет.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\很遗憾，我们无法提供更多信息了。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\抱歉，我們就只有這些情報。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\ごめんなさい、これで情報は全部よ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed052_tellsd_diana_004",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed052_tells/ed052_tellsd_diana_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed052_tells/ed052_tellsd_diana_004.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\That's all I have for you at present.",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\C'est tout ce que j'ai pour vous pour le moment.",
+					"it": "//[DIANA]\\\\//(0,30)\\\\Non ho altre informazioni al momento.",
+					"de": "//[DIANA]\\\\//(0,30)\\\\Das ist alles, was wir aktuell haben.",
+					"es": "//[DIANA]\\\\//(0,30)\\\\Eso es todo lo que tengo por ahora.",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\Это всё, что есть на данный момент.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\目前我只能给你提供这些信息了。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\目前只有這些。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\今のところ、教えられる情報はこれですべて。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed052_tellsd_diana_005",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed052_tells/ed052_tellsd_diana_005.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed052_tells/ed052_tellsd_diana_005.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\I hope this will help.",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\J'espère que cela vous sera utile.",
+					"it": "//[DIANA]\\\\//(0,30)\\\\Spero che tutto questo ti sia d'aiuto.",
+					"de": "//[DIANA]\\\\//(0,30)\\\\Ich hoffe, dass es hilft.",
+					"es": "//[DIANA]\\\\//(0,30)\\\\Espero que te sea de ayuda.",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\Надеюсь, это поможет.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\希望这些信息有用。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\希望這會有幫助。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\役に立つといいわ。"
+				}
+			}
+		]
+	}
+}

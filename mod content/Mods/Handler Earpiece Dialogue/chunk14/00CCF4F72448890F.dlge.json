@@ -1,0 +1,68 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "00CCF4F72448890F",
+	"DITL": "005CC166F7715F6D",
+	"CLNG": "00063B34B5153AEE",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds20014_sp_butlerpanic_diana_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20014_sp_butlerpanic_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20014_sp_butlerpanic_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\The butler noticed the ruined painting. He seems to be quite upset.",
+					"fr": "//(0,30)\\\\Le majordome a remarqué le tableau détruit. Il a l'air plutôt en colère.",
+					"it": "//(0,30)\\\\Il maggiordomo ha notato il dipinto rovinato. Sembra abbastanza sconvolto.",
+					"de": "//(0,30)\\\\Dem Butler ist das beschädigte Gemälde aufgefallen. Er wirkt ziemlich erbost.",
+					"es": "//(0,30)\\\\El mayordomo ha visto el cuadro estropeado. Parece bastante afectado.",
+					"ru": "//(0,30)\\\\Дворецкий заметил испорченную картину. Кажется, он сильно расстроен.",
+					"cn": "//(0,30)\\\\管家注意到了被毁的画。他看起来非常不开心。",
+					"tc": "//(0,30)\\\\管家發現了被糟蹋的畫作。他似乎很生氣。",
+					"jp": "//(0,30)\\\\執事が蜂の巣になった絵画に気付いたわよ。動揺しているわ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds20014_sp_butlerpanic_diana_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20014_sp_butlerpanic_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20014_sp_butlerpanic_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\47, the butler has found the ruined painting. He looks to be on the brink of panic.",
+					"fr": "//(0,30)\\\\47, le majordome a trouvé le tableau détruit. Il a l'air au bord de la crise de nerfs.",
+					"it": "//(0,30)\\\\47, il maggiordomo ha trovato il dipinto rovinato. Sembra proprio che stia per andare nel panico.",
+					"de": "//(0,30)\\\\47, der Butler hat das beschädigte Gemälde entdeckt. Er scheint kurz vor einer Panik zu stehen.",
+					"es": "//(0,30)\\\\47, el mayordomo ha encontrado el cuadro estropeado. Parece estar al borde de un ataque.",
+					"ru": "//(0,30)\\\\47-й, дворецкий обнаружил испорченную картину. Кажется, он на грани паники.",
+					"cn": "//(0,30)\\\\47，管家发现了被毁的画。他仿佛处于崩溃的边缘。",
+					"tc": "//(0,30)\\\\47，管家發現了被糟蹋的畫作。他似乎快抓狂了。",
+					"jp": "//(0,30)\\\\執事が蜂の巣になった絵画を見つけたわ。パニック寸前ね。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds20014_sp_butlerpanic_diana_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20014_sp_butlerpanic_diana_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20014_sp_butlerpanic_diana_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Heads up, 47. The butler has discovered the ruined painting. He looks upset.",
+					"fr": "//(0,30)\\\\Il y a du nouveau, 47. Le majordome a trouvé le tableau détruit. Il a l'air choqué.",
+					"it": "//(0,30)\\\\Occhi aperti, 47. Il maggiordomo ha scoperto il dipinto rovinato. Sembra sconvolto.",
+					"de": "//(0,30)\\\\Aufpassen, 47. Der Butler hat das beschädigte Gemälde entdeckt. Er wirkt aufgebracht.",
+					"es": "//(0,30)\\\\Cuidado, 47. El mayordomo ha encontrado el cuadro estropeado. Se le ve contrariado.",
+					"ru": "//(0,30)\\\\Внимание, 47-й. Дворецкий обнаружил испорченную картину. Выглядит расстроенным.",
+					"cn": "//(0,30)\\\\注意，47。管家发现了被毁的画。他看起来很不高兴。",
+					"tc": "//(0,30)\\\\注意了，47。管家看到了被糟蹋的畫作。他似乎很不高興。",
+					"jp": "//(0,30)\\\\注意して。執事が蜂の巣になった絵画を見つけたわ。動揺してるわよ。"
+				}
+			}
+		]
+	}
+}

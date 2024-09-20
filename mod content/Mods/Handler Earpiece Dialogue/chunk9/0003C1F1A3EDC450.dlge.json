@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/gamemodes/versusmode/20_announcer_nexttarget15sec.sweetdialog?/20_announcer_nexttarget15sec_announcer_versus_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "20_announcer_nexttarget15sec_announcer_versus_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/gamemodes/versusmode/20_announcer_nexttarget15sec_announcer_versus_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/gamemodes/versusmode/20_announcer_nexttarget15sec_announcer_versus_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Next target in 15 seconds.",
+			"fr": "//(0,30)\\\\Prochaine cible dans 15 secondes.",
+			"it": "//(0,30)\\\\Prossimo bersaglio tra 15 secondi.",
+			"de": "//(0,30)\\\\Nächstes Ziel in 15 Sekunden.",
+			"es": "//(0,30)\\\\Siguiente objetivo dentro de 15 segundos.",
+			"ru": "//(0,30)\\\\Следующая цель — через 15 секунд.",
+			"cn": "//(0,30)\\\\15秒后出现下个目标。",
+			"tc": "//(0,30)\\\\下一個目標將會在15秒後出現。",
+			"jp": "//(0,30)\\\\次のターゲット出現まであと15秒。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25048_dawoodcontractbriefinghint2.sweetdialog?/ds25048_dawoodcontractbriefinghint2_diana_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25048_dawoodcontractbriefinghint2_diana_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25048_dawoodcontractbriefinghint2_diana_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25048_dawoodcontractbriefinghint2_diana_002.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.245408)\\\\47, she's talking to the Maelstrom.//(2.245408,4.720606)\\\\I'd recognize that voice anywhere.//(4.720606,6.147293)\\\\They're meeting up at the small bridge//(6.147293,7.305882)\\\\in front of the train yard.//(7.305882,10.20588)\\\\Now's your chance!",
+			"fr": "//(0,1.825131)\\\\47, elle parle au Maelström.//(1.825131,3.834295)\\\\Je reconnaîtrais sa voix n'importe où.//(3.834295,6.29171)\\\\Ils se sont donné rendez-vous sur le petit pont//(6.29171,7.745954)\\\\devant la gare de triage,//(7.745954,8.745955)\\\\profitez-en !",
+			"it": "//(0,2.070538)\\\\47, sta parlando con Maelstrom.//(2.070538,3.730334)\\\\Riconoscerei quella voce ovunque.//(3.730334,5.588892)\\\\Si incontreranno presso il ponticello dinnanzi//(5.588892,7.248689)\\\\al deposito dei treni.//(7.248689,8.487729)\\\\È la tua occasione!",
+			"de": "//(0,2.295408)\\\\47, sie redet mit dem Maelstrom.//(2.295408,4.499799)\\\\Diese Stimme würde ich überall erkennen.//(4.499799,5.69029)\\\\Sie treffen sich bei der//(5.69029,7.281)\\\\kleinen Brücke vor dem Bahndepot.//(7.281,9.380781)\\\\Das ist Ihre Chance!",
+			"es": "//(0,1.952712)\\\\47, está hablando con el Torbellino.//(1.952712,4.5)\\\\Reconocería esa voz en cualquier parte.//(4.5,7.6)\\\\Se van a reunir en el puentecito que hay frente al depósito de trenes.//(7.6,10.47596)\\\\¡Es tu oportunidad!",
+			"ru": "//(0,1.997634)\\\\47-й, она говорит с Вихрем.//(1.997634,4.196696)\\\\Я узнаю этот голос где угодно.//(4.196696,6.288668)\\\\Они должны встретиться на небольшом мостике перед//(6.288668,7.292317)\\\\вагонным депо.//(7.292317,8.487729)\\\\Не упусти этот шанс!",
+			"cn": "//(0,6.89628)\\\\47，她正在和大漩涡通话。那个人的声音我一下子就能认出来。他们准备在火车站前面的小桥//(6.89628,8.487729)\\\\上见面。你的机会来了！",
+			"tc": "//(0,4.568)\\\\47，她正在和大漩渦通話。那個人的聲音我一下子就可以認出來。//(4.568,8.487729)\\\\他們準備在火車站前面的小橋上見面。你的機會來了！",
+			"jp": "//(0,2.605)\\\\47、彼女はメイルストロムと話しているわ。//(2.605,4.595)\\\\彼の声だとすぐにわかる。//(4.595,7.45)\\\\操車場の前にある小さな橋で待ち合わせするみたい。//(7.45,8.487729)\\\\今がチャンスよ！"
+		}
+	}
+}

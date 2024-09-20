@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/bulldog/41000_handler/ds41037_handlermurderintelreceived.sweetdialog?/ds41037_handlermurderintelreceived_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41037_handlermurderintelreceived_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/bulldog/41000_handler/ds41037_handlermurderintelreceived_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/bulldog/41000_handler/ds41037_handlermurderintelreceived_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\This is very useful information, 47.",
+			"fr": "//(0,30)\\\\Voilà des informations très intéressantes, 47.",
+			"it": "//(0,30)\\\\Sono informazioni molto utili, 47.",
+			"de": "//(0,30)\\\\Das sind sehr nützliche Informationen, 47.",
+			"es": "//(0,30)\\\\Esta información es muy útil, 47.",
+			"ru": "//(0,30)\\\\Это очень полезные сведения, 47-й.",
+			"cn": "//(0,30)\\\\这一情报非常有用，47。",
+			"tc": "//(0,30)\\\\這是非常有用的資訊，47。",
+			"jp": "//(0,30)\\\\これは非常に有益な情報よ、47。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_skunk/27000_handler/ds27006_bothtargetsdown2.sweetdialog?/ds27006_bothtargetsdown2_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds27006_bothtargetsdown2_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_skunk/27000_handler/ds27006_bothtargetsdown2_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_skunk/27000_handler/ds27006_bothtargetsdown2_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,2.689082)\\\\And that is Nolan Cassidy taken care of.//(2.689082,4.516125)\\\\Both targets are confirmed killed.",
+			"fr": "//[DIANA]\\\\//(0,2.149683)\\\\Parfait, Nolan Cassidy est neutralisé.//(2.149683,4.516125)\\\\Les deux cibles sont confirmées mortes.",
+			"it": "//[DIANA]\\\\//(0,2.401736)\\\\E anche Nolan Cassidy è stato sistemato.//(2.401736,4.516125)\\\\Entrambi gli obiettivi sono stati abbattuti.",
+			"de": "//[DIANA]\\\\//(0,2.422684)\\\\Und damit wäre Nolan Cassidy erledigt.//(2.422684,4.516125)\\\\Beide Ziele sind offiziell ausgeschaltet.",
+			"es": "//[DIANA]\\\\//(0,2.7)\\\\Y adiós a Nolan Cassidy.//(2.7,4.516125)\\\\Se confirma la muerte de los dos objetivos.",
+			"ru": "//[DIANA]\\\\//(0,2.450785)\\\\Вот и Нолан Кэссиди ликвидирован.//(2.450785,4.516125)\\\\Подтверждаю убийство обеих целей.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\诺兰·卡西迪已被消灭。两名目标都已确认死亡。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\諾蘭．凱西迪已被消滅。兩名目標都已確認死亡。",
+			"jp": "//[DIANA]\\\\//(0,2.68)\\\\さらにノーラン・キャシディを排除ね。//(2.68,32.68)\\\\ターゲット双方とも死亡を確認したわ。"
+		}
+	}
+}

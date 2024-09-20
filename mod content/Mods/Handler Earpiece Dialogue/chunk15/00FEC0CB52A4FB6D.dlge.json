@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_magpie/29000_handler/29000_flyin.sweetdialog?/29000_flyin_diana_006.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "29000_flyin_diana_006",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_magpie/29000_handler/29000_flyin_diana_006.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_magpie/29000_handler/29000_flyin_diana_006.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,1)\\\\Right.//(1,3.3)\\\\These gatherings are shrouded in mystery,//(3.3,6.8)\\\\so we have limited intel on what to expect on the other side of the walls.",
+			"fr": "//[DIANA]\\\\//(0,3.5)\\\\Bien. Ces rassemblements sont entourés de mystère,//(3.5,7.5)\\\\donc nous ne savons que peu de choses concernant ce qui nous attend de l'autre côté de ces murs.",
+			"it": "//[DIANA]\\\\//(0,3.5)\\\\Già. Questi raduni sono avvolti dal mistero,//(3.5,6.8)\\\\ecco perché abbiamo informazioni limitate su ciò che vi aspetta dall'altra parte delle mura.",
+			"de": "//[DIANA]\\\\//(0,3.5)\\\\So. Diese Versammlungen sind geheimnisumwittert,//(3.5,6.8)\\\\weshalb wir nur begrenzte Informationen dazu haben, was uns auf der anderen Seite der Mauern erwartet.",
+			"es": "//[DIANA]\\\\//(0,1.3)\\\\Eso es.//(1.3,3.9)\\\\Estas reuniones están envueltas en un halo de misterio,//(3.9,7.8)\\\\así que no tenemos mucha información sobre lo que nos vamos a encontrar al otro lado del muro.",
+			"ru": "//[DIANA]\\\\//(0,3.5)\\\\Верно. Съезды проходят в атмосфере секретности,//(3.5,7.2)\\\\поэтому мы очень мало знаем о том, что творится за этими стенами.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\是啊。他们的集会带着一层神秘色彩，因此我们对实际情况也知之甚少。",
+			"tc": "//[DIANA]\\\\//(0,3.5)\\\\是啊。他們的集會帶著一層神秘色彩，//(3.5,33.5)\\\\因此我們對實際情況也知之甚少。",
+			"jp": "//[DIANA]\\\\//(0,1.1)\\\\ええ。//(1.1,3.48)\\\\この集まりは謎に包まれていて、//(3.48,6.8)\\\\壁の向こう側で行われていることついては限られた情報しかないわ。"
+		}
+	}
+}

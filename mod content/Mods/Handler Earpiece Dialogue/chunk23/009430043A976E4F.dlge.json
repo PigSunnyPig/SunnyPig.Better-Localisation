@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_bull/8000_handler/ds8002_rosedown.sweetdialog?/ds8002_rosedown_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds8002_rosedown_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_bull/8000_handler/ds8002_rosedown_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_bull/8000_handler/ds8002_rosedown_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Sean Rose confirmed down. Nicely done, 47.",
+			"fr": "//(0,30)\\\\Mort de Sean Rose confirmée. Bien joué, 47.",
+			"it": "//(0,30)\\\\Confermo, Sean Rose è morto. Ottimo lavoro, 47.",
+			"de": "//(0,2)\\\\Sean Rose ist aus dem Weg.//(2,32)\\\\Gute Arbeit, 47.",
+			"es": "//(0,30)\\\\Sean Rose abatido. Bien hecho, 47.",
+			"ru": "//(0,1.604294)\\\\Шон Роуз уничтожен.//(1.604294,31.60429)\\\\Очень хорошо, 47-й.",
+			"cn": "//(0,2)\\\\肖恩·罗斯确认击杀。//(2,32)\\\\干得漂亮，47。",
+			"tc": "//(0,30)\\\\肖恩．羅斯確認擊殺。幹得漂亮，47。",
+			"jp": "//(0,30)\\\\ショーン・ローズの死亡を確認。さすがね。"
+		}
+	}
+}

@@ -1,0 +1,106 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/12500_white_spider/12500_rabies/12500_handler/ds12520_idnow.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds12520_idnow_diana_ws_001",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12520_idnow_diana_ws_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12520_idnow_diana_ws_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Do you have the Target?",
+					"fr": "//(0,30)\\\\Vous avez vue sur la cible ?",
+					"it": "//(0,30)\\\\Hai individuato il bersaglio?",
+					"de": "//(0,30)\\\\Haben Sie die Zielperson?",
+					"es": "//(0,30)\\\\¿Tienes al objetivo?",
+					"ru": "//(0,30)\\\\Цель обнаружена?",
+					"cn": "//(0,30)\\\\你找到目标了吗？",
+					"tc": "//(0,30)\\\\你找到目標了嗎？",
+					"jp": "//(0,30)\\\\どう？ 見つけた？"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds12520_idnow_diana_ws_002",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12520_idnow_diana_ws_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12520_idnow_diana_ws_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Do you have eyes-on?",
+					"fr": "//(0,30)\\\\Vous avez un visuel ?",
+					"it": "//(0,30)\\\\Ce l'hai sotto tiro?",
+					"de": "//(0,30)\\\\Haben Sie Sichtkontakt?",
+					"es": "//(0,30)\\\\¿Lo estás viendo?",
+					"ru": "//(0,30)\\\\Видишь цель?",
+					"cn": "//(0,30)\\\\你找到目标了吗？",
+					"tc": "//(0,30)\\\\你找到目標了嗎？",
+					"jp": "//(0,30)\\\\そこから 見える？"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds12520_idnow_diana_ws_003",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12520_idnow_diana_ws_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12520_idnow_diana_ws_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Can you see him?",
+					"fr": "//(0,30)\\\\Vous le voyez ?",
+					"it": "//(0,30)\\\\Riesci a vederlo?",
+					"de": "//(0,30)\\\\Sehen Sie ihn?",
+					"es": "//(0,30)\\\\¿Puedes verlo?",
+					"ru": "//(0,30)\\\\Видишь его?",
+					"cn": "//(0,30)\\\\你能看到他吗？",
+					"tc": "//(0,30)\\\\你能看到他嗎？",
+					"jp": "//(0,30)\\\\どう？ 見える？"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds12520_idnow_diana_ws_004",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12520_idnow_diana_ws_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12520_idnow_diana_ws_004.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Have you located the Target?",
+					"fr": "//(0,30)\\\\Vous avez localisé la cible ?",
+					"it": "//(0,30)\\\\Hai localizzato il bersaglio?",
+					"de": "//(0,30)\\\\Haben Sie die Zielperson gefunden?",
+					"es": "//(0,30)\\\\¿Has localizado al objetivo?",
+					"ru": "//(0,30)\\\\Ты обнаружил цель?",
+					"cn": "//(0,30)\\\\你找到目标了吗？",
+					"tc": "//(0,30)\\\\你找到目標了嗎？",
+					"jp": "//(0,30)\\\\位置は わかった？"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds12520_idnow_diana_ws_005",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12520_idnow_diana_ws_005.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12520_idnow_diana_ws_005.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Have you located him?",
+					"fr": "//(0,30)\\\\Vous l'avez localisé ?",
+					"it": "//(0,30)\\\\L'hai localizzato?",
+					"de": "//(0,30)\\\\Haben Sie ihn gefunden?",
+					"es": "//(0,30)\\\\¿Lo has localizado?",
+					"ru": "//(0,30)\\\\Нашел его?",
+					"cn": "//(0,30)\\\\你找到他了吗？",
+					"tc": "//(0,30)\\\\你找到他了嗎？",
+					"jp": "//(0,30)\\\\居場所は わかった？"
+				}
+			}
+		]
+	}
+}

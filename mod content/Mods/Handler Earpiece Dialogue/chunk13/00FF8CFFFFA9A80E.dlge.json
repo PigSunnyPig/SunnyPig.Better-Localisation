@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32008_sp_dragoneyeescaping.sweetdialog?/ds32008_sp_dragoneyeescaping_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32008_sp_dragoneyeescaping_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32008_sp_dragoneyeescaping_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32008_sp_dragoneyeescaping_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Dragon Eye is heading for an exit. Don't let him escape, 47!",
+			"fr": "//(0,30)\\\\Œil de dragon se dirige vers une issue. Ne le laissez pas s'échapper, 47 !",
+			"it": "//(0,30)\\\\Occhio di drago si sta dirigendo verso un'uscita. Non lasciare che scappi, 47!",
+			"de": "//(0,30)\\\\Das Drachenauge ist auf dem Weg zu einem Ausgang. Lassen Sie ihn nicht entkommen, 47!",
+			"es": "//(0,30)\\\\Ojo de Dragón está buscando una salida. ¡No permitas que escape, 47!",
+			"ru": "//(0,30)\\\\Глаз дракона направляется к выходу. Не дай ему уйти, 47-й!",
+			"cn": "//(0,30)\\\\龙眼正在前往出口。47，别让他逃了！",
+			"tc": "//(0,30)\\\\獨眼龍正朝著出口前進。別讓他逃了，47！",
+			"jp": "//(0,30)\\\\龍の目は出口に向かってる。逃さないで、47！"
+		}
+	}
+}

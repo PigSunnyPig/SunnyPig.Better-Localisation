@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/miami/21000_flamingo/21000_handler/ds21079_thestig.sweetdialog?/ds21079_thestig_diana_004.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds21079_thestig_diana_004",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/miami/21000_flamingo/21000_handler/ds21079_thestig_diana_004.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/miami/21000_flamingo/21000_handler/ds21079_thestig_diana_004.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.918718)\\\\Some say he does a perfect shave//(2.918718,6.254397)\\\\and has an insatiable fondness for hiding in//(6.254397,9.041494)\\\\cupboards. All we know is,//(9.041494,10.70933)\\\\his name is 47!",
+			"fr": "//(0,3.617356)\\\\On raconte qu'il est impeccablement rasé et qu'il//(3.617356,6.94457)\\\\adore se cacher dans des placards.//(6.94457,8.900655)\\\\Tout ce qu'on sait,//(8.900655,10.70933)\\\\c'est qu'il s'appelle 47 !",
+			"it": "//(0,3.416737)\\\\Dicono che sappia radersi alla perfezione e che//(3.416737,5.705238)\\\\adori nascondersi nelle credenze.//(5.705238,8.847923)\\\\Tutto quello che sappiamo è che...//(8.847923,10.70933)\\\\si chiama 47.",
+			"de": "//(0,0.9959847)\\\\Manche sagen,//(0.9959847,3.993359)\\\\er wäre perfekt rasiert und verspüre ein//(3.993359,4.989344)\\\\unstillbares Verlangen,//(4.989344,7.711959)\\\\sich in Schränken zu verstecken.//(7.711959,10.70933)\\\\Wir wissen nur eines: Sein Name ist 47!",
+			"es": "//(0,2.946678)\\\\Hay quien dice que logra unos afeitados perfectos//(2.946678,6.393678)\\\\y que le gusta sobremanera esconderse en armarios.//(6.393678,8.367338)\\\\Lo único que sabemos...//(8.367338,10.70933)\\\\es que se llama 47.",
+			"ru": "//(0,3.920803)\\\\Говорят, он всегда гладко выбрит и обожает//(3.920803,6.253341)\\\\прятаться в шкафах.//(6.253341,8.568574)\\\\Мы знаем только то,//(8.568574,10.70933)\\\\что его зовут 47-й!",
+			"cn": "//(0,30)\\\\有人说他的头锃光瓦亮，并对躲在碗橱中情有独钟。我们只知道，他的名字叫47！",
+			"tc": "//(0,30)\\\\聽說他鬍子剃得乾淨，而且對於藏在櫥櫃裡有永遠無法滿足的喜好。我們只知道，他的名字是47！",
+			"jp": "//(0,10.70933)\\\\彼は完璧なスキンヘッドにしていて、押し入れに隠れることをこの上なく愛しているといわれている。彼について知っていることはただ一つ、その名は47！"
+		}
+	}
+}

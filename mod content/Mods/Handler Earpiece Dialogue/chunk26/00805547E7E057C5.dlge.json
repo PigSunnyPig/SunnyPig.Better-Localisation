@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/italy/7000_mamba/7000_handler/ds7015_fireworksconclusion.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds7015_fireworksconclusion_diana_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/7000_mamba/7000_handler/ds7015_fireworksconclusion_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/7000_mamba/7000_handler/ds7015_fireworksconclusion_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,1.4)\\\\Well done, 47.//(1.4,3.45)\\\\Vanity is a fickle thing.//(3.45,33.45)\\\\But I’m sure fireworks are equally so.",
+					"fr": "//(0,1.48)\\\\Bien joué, 47.//(1.48,31.48)\\\\On peut aisément jouer avec l'orgueil, mais avec les feux d'artifices aussi.",
+					"it": "//(0,3.402883)\\\\Ben fatto, 47. I vanesi possono essere piuttosto capricciosi,//(3.402883,33.40288)\\\\ma scommetto che lo stesso può dirsi dei fuochi d'artificio.",
+					"de": "//(0,1.6)\\\\Gute Arbeit, 47.//(1.6,31.6)\\\\Eitelkeit kann verdammt gefährlich sein. Genau wie das Feuerwerk.",
+					"es": "//(0,1.324)\\\\Bien hecho, 47.//(1.324,31.324)\\\\La vanidad puede ser muy caprichosa. Pero los fuegos artificiales también.",
+					"ru": "//(0,30)\\\\Отлично, 47-й. Тщеславие — вещь опасная. Как и фейерверки.",
+					"cn": "//(0,30)\\\\干得好，47。他的虚荣心可以为我们所用。烟火也是如此。",
+					"tc": "//(0,30)\\\\幹得不錯，47。他的虛榮心可以為我們所用。煙火也是如此。",
+					"jp": "//(0,30)\\\\よくできた、47。虚栄心は移り気なものよ。でも花火もきっと同じね。"
+				}
+			}
+		]
+	}
+}

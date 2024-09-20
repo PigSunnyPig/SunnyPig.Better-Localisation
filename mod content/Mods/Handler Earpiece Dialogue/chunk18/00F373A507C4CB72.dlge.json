@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colombia/23000_elusive/23000_highball/23000_highball_handler/ds23802_satellitehint.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds23802_satellitehint_diana_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colombia/23000_elusive/23000_highball/23000_highball_handler/ds23802_satellitehint_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colombia/23000_elusive/23000_highball/23000_highball_handler/ds23802_satellitehint_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,3.8)\\\\This must be the satellite transmitter that he is sending his broadcast from.//(3.8,5.817479)\\\\My guess is he’s nearby.",
+					"fr": "//(0,2.048709)\\\\Il s'agit sûrement de l'émetteur du satellite qui//(2.048709,3.933094)\\\\lui sert à diffuser ses messages.//(3.933094,5.817479)\\\\Il ne doit pas être loin.",
+					"it": "//(0,1.382306)\\\\Questo dev'essere il trasmettitore satellitare//(1.382306,3.416599)\\\\dal quale invia i suoi messaggi.//(3.416599,4.336109)\\\\Tirando a indovinare,//(4.336109,5.817479)\\\\non si trova lontano.",
+					"de": "//(0,1.449969)\\\\Das muss der Satellitentransmitter sein,//(1.449969,2.90874)\\\\über den er sendet.//(2.90874,3.814221)\\\\Ich würde schätzen,//(3.814221,5.817479)\\\\er ist ganz in der Nähe.",
+					"es": "//(0,2.452908)\\\\Este ha de ser el transmisor por satélite que está//(2.452908,3.767257)\\\\empleando para la retransmisión.//(3.767257,5.817479)\\\\Apuesto a que está cerca de aquí.",
+					"ru": "//(0,1.447627)\\\\Видимо, это спутниковый передатчик,//(1.447627,3.31473)\\\\с помощью которого Мурильо транслирует свои//(3.31473,4.461236)\\\\передачи. Полагаю,//(4.461236,5.817479)\\\\он где-то рядом.",
+					"cn": "//(0,30)\\\\这个肯定就是他发送广播信号所用的卫星发射机。我猜他就在附近。",
+					"tc": "//(0,30)\\\\這肯定就是他用來發送廣播的衛星發送器。我看他就在這附近。",
+					"jp": "//(0,3.94)\\\\これは放送に使っている衛星送信機に違いないわ。//(3.94,33.94)\\\\彼は近くにいるはずよ。"
+				}
+			}
+		]
+	}
+}

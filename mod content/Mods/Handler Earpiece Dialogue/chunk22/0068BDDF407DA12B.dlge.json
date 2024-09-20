@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12777_47protecc.sweetdialog?/ds12777_47protecc_diana_ws_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds12777_47protecc_diana_ws_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12777_47protecc_diana_ws_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12777_47protecc_diana_ws_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\The suit will prevent the virus from infecting anyone around you... Mindful of collateral as always, 47.",
+			"fr": "//(0,1.715033)\\\\Cette combinaison vous empêchera de contaminer//(1.715033,3.246654)\\\\ceux qui vous entourent...//(3.246654,3.911515)\\\\Comme d'habitude,//(3.911515,5.148054)\\\\évitez les dégâts collatéraux,//(5.148054,6.148054)\\\\47.",
+			"it": "//(0,30)\\\\La tuta impedirà al virus di infettare le persone intorno a te. Come sempre, 47, limita i danni collaterali...",
+			"de": "//(0,30)\\\\Der Anzug wird verhindern, dass das Virus jemanden um Sie herum infiziert ... Achten Sie wie immer auf Kollateralschäden, 47.",
+			"es": "//(0,30)\\\\El traje evitará que contagies el virus a nadie a tu alrededor... Como siempre, cuidado con los daños colaterales, 47.",
+			"ru": "//(0,30)\\\\Этот костюм не даст тебе заразить других... Как всегда, помнишь о косвенном ущербе, 47-й.",
+			"cn": "//(0,30)\\\\这件衣服会避免病毒感染你周围的其他人...请和以往一样别造成无辜者伤亡，47。",
+			"tc": "//(0,30)\\\\這件衣服會避免病毒感染你周圍的其他人......請和以往一樣別波及無辜，47。",
+			"jp": "//(0,30)\\\\そのスーツを 着て いれば、 周りの 人が ウイルスに かかることは ないわ... 巻き添え被害には 注意してね。"
+		}
+	}
+}

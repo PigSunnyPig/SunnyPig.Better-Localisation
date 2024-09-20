@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/rocky/dugong/46000_handler/ds46023_intelmilitia.sweetdialog?/ds46023_intelmilitia_grey_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds46023_intelmilitia_grey_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/rocky/dugong/46000_handler/ds46023_intelmilitia_grey_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/rocky/dugong/46000_handler/ds46023_intelmilitia_grey_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.111)\\\\I'd be lying if I said I didn't regret some part of this.//(4.111,10.664)\\\\It's safe to say I don't pick my allies for their congeniality, but they aren't all like Noel.//(10.664,12.595)\\\\There are good people here.//(12.595,16.047)\\\\People who want the same things we want...//(16.047,18.40394)\\\\But now's not the time to get sentimental.",
+			"fr": "//(0,3.9)\\\\Je t'avoue que ce que je vois ici me fait un peu mal au cœur.//(3.9,10.5)\\\\Je ne traîne pas avec des cadors, certes, mais ils ne sont pas tous non plus comme Noel.//(10.5,15.7)\\\\Il y a des gars bien, ici. Des gars qui veulent la même chose que nous...//(15.7,45.7)\\\\Mais bon, c'est pas le moment d'être sentimental.",
+			"it": "//(0,4.099)\\\\Mentirei se ti dicessi che non provo alcun senso di colpa.//(4.099,10.427)\\\\Ammetto che non scelgo i miei alleati in base alla simpatia, ma non tutti sono come Noel.//(10.427,12.5)\\\\Ci sono anche delle brave persone qui.//(12.5,14)\\\\Persone che con i nostri stessi ideali...//(16,46)\\\\Ma non è il momento di fare il sentimentale.",
+			"de": "//(0,2.8)\\\\Ich würde lügen, wenn ich sagen würde, dass mein Anteil daran mir nicht leidtäte.//(3.85,8.2)\\\\Man kann wohl sagen, dass ich mir meine Verbündeten nicht wegen ihres Charmes aussuche –//(8.2,10.6)\\\\aber sie sind nicht alle wie Noel.//(10.6,12.35)\\\\Es gibt hier auch gute Leute.//(12.35,14.15)\\\\Leute, die das Gleiche wollen wie wir ...//(15.7,45.7)\\\\Aber das ist nicht die Zeit für Gefühlsduselei.",
+			"es": "//(0,2.95)\\\\Mentiría si dijese que no me arrepiento de algunas cosas.//(4.15,9.8)\\\\Se podría decir que no elijo a mis aliados por su simpatía, pero, desde luego, no son todos como Noel.//(10.75,14.3)\\\\Aquí hay gente buena, gente que quiere lo mismo que nosotros...//(15.95,45.95)\\\\En fin, no es momento para ponerse sentimentales.",
+			"ru": "//(0,2.73)\\\\Я бы покривил душой, сказав, что ничуть не жалею об этом.//(4.08,9.5)\\\\Да, я не выбираю союзников за их ум, но они не все такие, как Ноэль.//(10.65,12.72)\\\\Среди них есть и хорошие люди.//(12.72,13.95)\\\\Те, кто разделяет наши с тобой устремления...//(16.05,46.05)\\\\Но сейчас не время сентиментальничать.",
+			"cn": "//(0,4.258)\\\\如果说我没有什么遗憾的话，那是骗人的。//(4.258,11.037)\\\\可以肯定的说，我挑选同伴不看是否意气相投，只要他们不跟诺埃尔一样就行。//(11.037,41.037)\\\\这里也是有好人的。跟我们目标一致的人......但现在不是多愁善感的时候。",
+			"tc": "//(0,3.9)\\\\要說我毫不後悔，那是騙人的。//(3.9,8)\\\\雖然說我挑選盟友的時候並不在乎他們是否與我志同道合，//(8,10.6)\\\\但是他們並不是全部都像諾爾這樣。//(10.6,15.8)\\\\其中也有好人，擁有跟我們一樣理想的人......//(15.8,45.8)\\\\不過現在不是感傷的時候。",
+			"jp": "//(0,3.16)\\\\後悔していることがないと言えばウソになる。//(4.06,9.92)\\\\相性で仲間を選んでいるわけではないが、みんながノエルみたいなわけじゃない。//(10.77,14.02)\\\\いいヤツもいるんだ。我々と同じことを望んでいるヤツも...//(15.82,45.82)\\\\でも、今は感傷的になっている場合ではない。"
+		}
+	}
+}

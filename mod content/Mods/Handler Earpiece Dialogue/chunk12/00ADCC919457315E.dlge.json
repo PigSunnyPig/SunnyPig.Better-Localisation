@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/greedy/33000_raccoon/33000_handler/ds33009_missioncomplete.sweetdialog?/ds33009_missioncomplete_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds33009_missioncomplete_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/greedy/33000_raccoon/33000_handler/ds33009_missioncomplete_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/greedy/33000_raccoon/33000_handler/ds33009_missioncomplete_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.572945)\\\\That's the last objective completed.//(1.572945,3.665338)\\\\Exfiltrate the bank, 47.//(3.665338,9.582516)\\\\Miss Hall will want to have a close look at that data.",
+			"fr": "//(0,1.673721)\\\\C'était le dernier objectif.//(1.673721,4.323)\\\\Quittez la banque, 47.//(4.323,6.372427)\\\\Mademoiselle Hall sera très intéressée par ces données.",
+			"it": "//(0,1.089818)\\\\Ultimo obiettivo completato.//(1.089818,2.832211)\\\\Esci dalla banca 47,//(2.832211,5.61885)\\\\la signorina Hall vorrà dare una bella occhiata//(5.61885,6.986948)\\\\a quei dati.",
+			"de": "//(0,1.846007)\\\\Damit wäre das letzte Ziel erfüllt.//(1.846007,4.006498)\\\\Verlassen Sie die Bank, 47.//(4.006498,5.2)\\\\Miss Hall möchte sich diese Daten//(5.2,7.883184)\\\\sicher gern genauer ansehen.",
+			"es": "//(0,1.660506)\\\\Ese era el último objetivo.//(1.660506,2.529105)\\\\Sal del banco,//(2.529105,5.495383)\\\\47. A la señorita Hall le gustará analizar esos datos//(5.495383,6.495383)\\\\a fondo.",
+			"ru": "//(0,1.693382)\\\\Последняя задача выполнена.//(1.693382,3.513428)\\\\Покинь банк, 47-й.//(3.513428,6.372427)\\\\Мисс Холл тщательно изучит эти данные.",
+			"cn": "//(0,30)\\\\最后一个目标已完成。撤离银行，47。霍尔女士想要亲自看一下数据。",
+			"tc": "//(0,30)\\\\最後一個目標完成了。撤離銀行，47。霍爾女士會想要仔細檢查這個數據的。",
+			"jp": "//(0,4.027)\\\\最後の目標を達成。銀行を脱出して、47。//(4.027,34.027)\\\\ミス・ホールにデータを詳しく調べてもらいましょう。"
+		}
+	}
+}

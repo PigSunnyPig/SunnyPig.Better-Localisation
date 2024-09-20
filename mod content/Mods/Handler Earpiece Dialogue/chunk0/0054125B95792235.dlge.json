@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/golden/gecko/40000_story/dr40131_greystorymeetingbrief.sweetdialog?/dr40131_greystorymeetingbrief_grey_003.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr40131_greystorymeetingbrief_grey_003",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/gecko/40000_story/dr40131_greystorymeetingbrief_grey_003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/gecko/40000_story/dr40131_greystorymeetingbrief_grey_003.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.85)\\\\There's a lounge area at the top of the building. It can be sealed off for private conversations.//(4.85,8.313812)\\\\If we lure the targets there, they'll be trapped.",
+			"fr": "//(0,2.455)\\\\Il y a un grand salon tout en haut du bâtiment.//(2.455,5.19)\\\\Il peut être verrouillé pour les conversations privées.//(5.19,8.314)\\\\Si on attire les cibles là-bas, elles seront piégées.",
+			"it": "//(0,2.507102)\\\\C'è un'area lounge in cima all'edificio.//(2.507102,5.014204)\\\\Può essere sigillata per conversazioni private.//(5.014204,6.828858)\\\\Se attiriamo lì i bersagli,//(6.828858,8.313812)\\\\saranno in trappola.",
+			"de": "//(0,2.187773)\\\\An der Spitze des Gebäudes gibt es einen//(2.187773,2.832711)\\\\Lounge-Bereich.//(2.832711,5.118478)\\\\Er kann für private Gespräche abgeriegelt werden.//(5.118478,7.121932)\\\\Wenn wir die Ziele dorthin locken können,//(7.121932,8.313812)\\\\sind sie gefangen.",
+			"es": "//(0,4.7)\\\\Hay una sala en lo alto del edificio. A veces se cierra para conversaciones privadas.//(4.7,34.7)\\\\Si conseguimos que los objetivos vayan allí, quedarán atrapados.",
+			"ru": "//(0,2.4)\\\\На верхнем этаже здания есть зона отдыха.//(2.4,5)\\\\Ее можно закрыть для частных переговоров.//(5,35)\\\\Если заманить туда цели, они попадут в ловушку.",
+			"cn": "//(0,4.8)\\\\大楼楼顶有个休息区。那个地方可以封闭起来，进行私人谈话。//(4.8,34.8)\\\\如果把目标引到那里的话，他们就无路可逃了。",
+			"tc": "//(0,5)\\\\建築的頂端有個休息區。它能被封閉來進行私人會議。//(5,35)\\\\如果我們將目標引到那裡，他們就別想逃脫了。",
+			"jp": "//(0,4.97)\\\\ビルの最上階にラウンジエリアがある。密談するために閉め切ることが可能だ。//(4.97,34.97)\\\\ターゲットをそこに誘い込めば、閉じ込める事ができる。"
+		}
+	}
+}

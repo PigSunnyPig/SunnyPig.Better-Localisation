@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_flirtini/8000_flirtini_handler/dr8620_diana.sweetdialog?/dr8620_diana_diana_et_004.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8620_diana_diana_et_004",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_flirtini/8000_flirtini_handler/dr8620_diana_diana_et_004.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_flirtini/8000_flirtini_handler/dr8620_diana_diana_et_004.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA_ET]\\\\//(0,30)\\\\The target is evacuating, 47. Engage him now.",
+			"fr": "//[DIANA_ET]\\\\//(0,30)\\\\La cible s'échappe, 47 ! Éliminez-la !",
+			"it": "//[DIANA_ET]\\\\//(0,30)\\\\Il bersaglio sta fuggendo, 47! Attaccalo ora!",
+			"de": "//[DIANA_ET]\\\\//(0,30)\\\\Die Zielperson zieht sich zurück, 47! Zugriff! Schnell!",
+			"es": "//[DIANA_ET]\\\\//(0,30)\\\\¡El objetivo está huyendo, 47! ¡Encárgate de él ya!",
+			"ru": "//[DIANA_ET]\\\\//(0,30)\\\\Цель эвакуируется, 47-й. Догони его!",
+			"cn": "//[DIANA_ET]\\\\//(0,30)\\\\47，目标正在撤离。立刻动手。",
+			"tc": "//[DIANA_ET]\\\\//(0,30)\\\\目標正在撤離，47。立即消滅他。",
+			"jp": "//[DIANA_ET]\\\\//(0,30)\\\\標的が離脱しようとしてる！ すぐ接触して！"
+		}
+	}
+}

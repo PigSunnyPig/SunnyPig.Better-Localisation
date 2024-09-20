@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/greedy/33000_raccoon/33000_handler/ds33016_vaultdooropen.sweetdialog?/ds33016_vaultdooropen_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds33016_vaultdooropen_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/greedy/33000_raccoon/33000_handler/ds33016_vaultdooropen_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/greedy/33000_raccoon/33000_handler/ds33016_vaultdooropen_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,0.9648743)\\\\Great work, 47,//(0.9648743,3.173182)\\\\you now have access to the vault.",
+			"fr": "//(0,0.8647661)\\\\Excellent, 47.//(0.8647661,3.061301)\\\\Vous avez maintenant accès à la chambre forte.",
+			"it": "//(0,0.5587394)\\\\Ottimo lavoro,//(0.5587394,2.644844)\\\\47, hai ottenuto l'accesso alla camera blindata.",
+			"de": "//(0,1.2)\\\\Reife Leistung, 47.//(1.2,31.2)\\\\Jetzt haben Sie Zugang zum Tresorraum.",
+			"es": "//(0,1.2)\\\\Buen trabajo, 47.//(1.2,2.87031)\\\\Ahora tienes acceso a la cámara acorazada.",
+			"ru": "//(0,1.224294)\\\\Хорошая работа, 47-й.//(1.224294,10.58218)\\\\Теперь ты можешь попасть в хранилище.",
+			"cn": "//(0,6.159775)\\\\干得漂亮，47，你现在拥有金库的出入权限了。",
+			"tc": "//(0,10.58218)\\\\做得好，47，你現在能夠自由進出保險庫了。",
+			"jp": "//(0,10.58218)\\\\上出来よ、47、これで金庫室に入れるわ。"
+		}
+	}
+}

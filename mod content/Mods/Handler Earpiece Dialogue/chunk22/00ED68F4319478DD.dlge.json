@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_snowcrane/2000_handler/ds2027_bothtargetsdown.sweetdialog?/ds2027_bothtargetsdown_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds2027_bothtargetsdown_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_snowcrane/2000_handler/ds2027_bothtargetsdown_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_snowcrane/2000_handler/ds2027_bothtargetsdown_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\That's both targets down. Time to find an exit. We're done here.",
+			"fr": "//(0,1.85)\\\\Les deux cibles sont mortes.//(1.85,31.85)\\\\Il est temps de trouver une sortie. On en a fini ici.",
+			"it": "//(0,30)\\\\Entrambi i bersagli eliminati. Trova un'uscita. Qui abbiamo finito.",
+			"de": "//(0,1.727)\\\\Beide Ziele neutralisiert.//(1.727,3.2)\\\\Zeit für den Abgang.//(3.2,33.2)\\\\Wir sind hier fertig.",
+			"es": "//(0,30)\\\\Los dos objetivos han sido eliminados. Busca una salida. Hemos completado el trabajo aquí.",
+			"ru": "//(0,30)\\\\Обе цели мертвы. Пора искать выход. Здесь мы закончили.",
+			"cn": "//(0,3.218098)\\\\两个目标都已被消灭。是时候找出口了。//(3.218098,33.2181)\\\\我们在这里的事情已经办完了。",
+			"tc": "//(0,30)\\\\兩個目標都已被消滅。是時候找出口了。沒什麼好說的了。",
+			"jp": "//(0,30)\\\\全ターゲット・ダウン。用は済んだわ... 脱出して。"
+		}
+	}
+}

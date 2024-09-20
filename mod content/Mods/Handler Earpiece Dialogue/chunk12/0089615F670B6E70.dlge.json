@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/greedy/33000_raccoon/33000_handler/ds33006_firstdiskrecovered.sweetdialog?/ds33006_firstdiskrecovered_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds33006_firstdiskrecovered_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/greedy/33000_raccoon/33000_handler/ds33006_firstdiskrecovered_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/greedy/33000_raccoon/33000_handler/ds33006_firstdiskrecovered_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.344487)\\\\That's the first backup data disk secured.//(2.344487,3.847483)\\\\Two more to locate.",
+			"fr": "//(0,2.08793)\\\\Premier disque de données sécurisé.//(2.08793,3.847483)\\\\Encore deux à récupérer.",
+			"it": "//(0,2.290946)\\\\Primo disco dati di backup messo in sicurezza.//(2.290946,3.847483)\\\\Ne restano due da localizzare.",
+			"de": "//(0,30)\\\\Gut. Wir haben die erste Daten-Disc. Fehlen noch zwei.",
+			"es": "//(0,2.6)\\\\Has conseguido el primer disco de datos con la copia de seguridad.//(2.6,5.917178)\\\\Quedan dos por localizar.",
+			"ru": "//(0,30)\\\\Первый диск с данными у тебя. Осталось найти еще два.",
+			"cn": "//(0,30)\\\\第一份数据备份存盘到手了。还有两份。",
+			"tc": "//(0,30)\\\\第一個備用數據硬碟到手了。還得找到兩個。",
+			"jp": "//(0,30)\\\\1つ目のバックアップデータディスクを確保。残り2つを探して。"
+		}
+	}
+}

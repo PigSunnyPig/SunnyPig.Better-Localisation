@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_goldendoublet/29000_goldendoublet_handler/ds29500_mirandajamisonid.sweetdialog?/ds29500_mirandajamisonid_diana_et_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds29500_mirandajamisonid_diana_et_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_goldendoublet/29000_goldendoublet_handler/ds29500_mirandajamisonid_diana_et_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_goldendoublet/29000_goldendoublet_handler/ds29500_mirandajamisonid_diana_et_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.576982)\\\\That is Miranda Jamison.//(2.576982,4.61416)\\\\Art price fixer, thief//(4.61416,8.61416)\\\\and responsible for at least three artist suicides.",
+			"fr": "//(0,2.032574)\\\\Voici... Miranda Jamison.//(2.032574,5.704009)\\\\Voleuse, elle fixe les prix d'œuvres d'art et a déjà//(5.704009,7.964729)\\\\mené plusieurs artistes au suicide.",
+			"it": "//(0,1.775081)\\\\Quella è Miranda Jamison.//(1.775081,3.762729)\\\\Una ladra responsabile della fissazione dei//(3.762729,5.195824)\\\\prezzi nel mondo dell'arte,//(5.195824,7.964729)\\\\nonché del suicidio di almeno tre artisti.",
+			"de": "//(0,2.499717)\\\\Das ist Miranda Jamison.//(2.499717,3.737541)\\\\Herrin der Kunstpreise,//(3.737541,6.342705)\\\\Diebin und verantwortlich für den Suizid von//(6.342705,7.96473)\\\\mindestens drei Künstlern.",
+			"es": "//(0,2.388127)\\\\Esa... es Miranda Jamison.//(2.388127,3.570694)\\\\Tasadora de arte,//(3.570694,6.415114)\\\\ladrona y responsable de un mínimo de tres//(6.415114,7.964729)\\\\suicidios de artistas.",
+			"ru": "//(0,2.304314)\\\\Это... Миранда Джеймисон.//(2.304314,4.051155)\\\\На ее совести ценовой сговор,//(4.051155,7.964729)\\\\воровство и самоубийства как минимум трех художников.",
+			"cn": "//(0,30)\\\\那人......就是米兰达·贾米森她窃取艺术品，操控艺术品价格，还导致至少三名艺术家自杀身亡。",
+			"tc": "//(0,30)\\\\那......就是米蘭達‧賈米斯。美術價格壟斷家、小偷和至少造成了三名藝術家自殺的人。",
+			"jp": "//(0,2.465)\\\\あれがミランダ・ジャミソン。//(2.465,4.882)\\\\美術価格の操作人、泥棒、//(4.882,34.882)\\\\それから少なくとも3人の芸術家の自殺に関与しているわ。"
+		}
+	}
+}

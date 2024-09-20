@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/cutscenes_s03/m02_bulldog/m02_bulldog_flyin.sweetdialog?/m02_bulldog_flyin_diana_003.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "m02_bulldog_flyin_diana_003",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/cutscenes_s03/m02_bulldog/m02_bulldog_flyin_diana_003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/cutscenes_s03/m02_bulldog/m02_bulldog_flyin_diana_003.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,30)\\\\The revenant Alexa Carlisle and her three adult children, younger brother Zachary, grandson and daughter-in-law are all gathered to conduct Carlisle’s sham funeral.",
+			"fr": "//[DIANA]\\\\//(0,30)\\\\Alexa Carlisle, la revenante, est réunie avec ses trois enfants, son petit frère Zachary, son petit-fils et sa belle-fille pour mener à bien ses fausses obsèques.",
+			"it": "//[DIANA]\\\\//(0,7.38)\\\\La rediviva Alexa Carlisle e i suoi tre figli ormai adulti, suo fratello minore Zachary, suo nipote e sua nuora//(7.38,37.38)\\\\sono tutti qui riuniti per partecipare al finto funerale di Carlisle.",
+			"de": "//[DIANA]\\\\//(0,30)\\\\Die Wiedergängerin Alexa Carlisle und ihre drei erwachsenen Kinder, ihr jüngerer Bruder Zachary, der Enkel und die Schwiegertochter haben sich alle versammelt, um Carlisles Scheinbeerdigung beizuwohnen.",
+			"es": "//[DIANA]\\\\//(0,7.35)\\\\El espectro de Alexa Carlisle, sus tres hijos adultos, su hermano pequeño Zachary, su nieto y su nuera//(7.35,37.35)\\\\se han reunido para celebrar el funeral falso de la matriarca de la familia.",
+			"ru": "//[DIANA]\\\\//(0,30)\\\\Воскресшая Алекса Карлайл и трое ее взрослых детей, младший брат Закари, а также внук и невестка приехали сюда, чтобы инсценировать похороны Карлайл.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\久别归来的阿莱莎·卡莱尔、她的三个已经成年的孩子、弟弟扎切里、孙子以及儿媳齐聚于此，参加卡莱尔欺骗世人的葬礼。",
+			"tc": "//[DIANA]\\\\//(0,4)\\\\起死回生的艾力克薩‧卡萊爾和她的三個成人子嗣、//(4,34)\\\\弟弟札卡里和媳婦通通聚在一起為卡萊爾舉辦一場假葬禮。",
+			"jp": "//[DIANA]\\\\//(0,30)\\\\亡霊のアレクサ・カーライルと3人の子供たち、弟のザカリー、孫、そして嫁が、カーライルの偽の葬式を行うために集まっている。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/rocky/dugong/46000_handler/ds46025_satellitelast.sweetdialog?/ds46025_satellitelast_grey_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds46025_satellitelast_grey_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/rocky/dugong/46000_handler/ds46025_satellitelast_grey_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/rocky/dugong/46000_handler/ds46025_satellitelast_grey_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,5.54908)\\\\Now you just have to deal with the satellite control unit.",
+			"fr": "//(0,30)\\\\Il ne reste plus qu'à s'occuper de l'unité de contrôle du satellite.",
+			"it": "//(0,30)\\\\Ora devi occuparti solo dell'unità di controllo del satellite.",
+			"de": "//(0,30)\\\\Jetzt müssen wir uns nur noch um die Satelliten-Steuereinheit kümmern.",
+			"es": "//(0,30)\\\\Ya solo tienes que encargarte de la unidad de control del satélite.",
+			"ru": "//(0,30)\\\\Теперь осталось разобраться с блоком управления спутником.",
+			"cn": "//(0,30)\\\\现在你只要处理掉卫星控制单元就行了。",
+			"tc": "//(0,30)\\\\現在你只要處理好衛星控制裝置的事就行了。",
+			"jp": "//(0,30)\\\\さあ、あとは衛星のコントロールユニットを処理するだけ。"
+		}
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_kingcobra/25000_kingcobra_handler/25600_kingcobraflyin.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "25600_kingcobraflyin_diana_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_kingcobra/25000_kingcobra_handler/25600_kingcobraflyin_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_kingcobra/25000_kingcobra_handler/25600_kingcobraflyin_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,2.092393)\\\\Welcome to Mumbai, 47.//(2.092393,4.420981)\\\\Your target, along with a conspicuous//(4.420981,6.817668)\\\\coterie of paid guards, has taken up//(6.817668,9.426257)\\\\residence in a nearby apartment complex.//(9.426257,12.54724)\\\\It won't be easy to get close, but then again,//(12.54724,14.67393)\\\\a natural showman like Carnaby is unlikely//(14.67393,17.69202)\\\\to stay cooped up forever.",
+					"fr": "//[DIANA]\\\\//(0,2.337591)\\\\Bienvenue à Bombay, 47.//(2.337591,5.918232)\\\\Votre cible, ainsi qu'une clique de gardes du corps,//(5.918232,7.291)\\\\a établi ses quartiers//(7.291,9.308723)\\\\dans un groupe d'appartements non loin.//(9.308723,11.5698)\\\\Il sera sans doute difficile de s'en approcher,//(11.5698,14.276)\\\\mais connaissant le goût pour le spectacle de Carnaby,//(14.276,16.27591)\\\\il ne devrait pas rester enfermé chez lui très longtemps.",
+					"it": "//[DIANA]\\\\//(0,2.092393)\\\\Benvenuto a Mumbai, 47.//(2.092393,3.316687)\\\\Il tuo bersaglio,//(3.316687,6.04957)\\\\insieme a una cospicua cricca di guardie ben pagate,//(6.04957,9.171716)\\\\ha preso residenza in un complesso di appartamenti nelle vicinanze.//(9.171716,10.52271)\\\\Non sarà facile avvicinarsi,//(10.52271,13.95796)\\\\ma come ti ho già detto, uno showman nato come Carnaby//(13.95796,16.25594)\\\\non può restare rinchiuso a lungo.",
+					"de": "//[DIANA]\\\\//(0,2.092393)\\\\Willkommen in Mumbai, 47.//(2.092393,3.885843)\\\\Ihr Ziel hat sich zusammen mit einem//(3.885843,5.926334)\\\\verdächtigen Klüngel von bezahlten Wachen//(5.926334,9.5)\\\\in einem Apartmentkomplex in der Nähe eingenistet.//(9.5,11.14485)\\\\Es wird nicht leicht, an ihn ranzukommen,//(11.14485,12.29762)\\\\doch jemand wie Carnaby,//(12.29762,13.68559)\\\\der für die Bühne geboren ist,//(13.68559,15.42608)\\\\wird sich wahrscheinlich nicht lange//(15.42608,16.42608)\\\\irgendwo verbarrikadieren.",
+					"es": "//[DIANA]\\\\//(0,1.9)\\\\Bienvenido a Bombay, 47.//(1.9,3.2)\\\\Tu objetivo,//(3.2,6)\\\\junto con un grupito muy llamativo de guardias a sueldo,//(6,7.840491)\\\\está afincado en un complejo//(7.840491,9.117294)\\\\de apartamentos cercano.//(9.117294,11.19986)\\\\No será fácil acercarse a él,//(11.19986,14.14464)\\\\pero seguro que un artista nato como Carnaby//(14.14464,16.25594)\\\\no aguantará enjaulado eternamente.",
+					"ru": "//[DIANA]\\\\//(0,2.41)\\\\Добро пожаловать в Мумбаи, 47-й.//(2.41,5.937)\\\\Твоя цель вместе с небольшой группой телохранителей//(5.937,9.327)\\\\поселилась в жилом комплексе неподалеку.//(9.327,12.5483)\\\\Попасть туда нелегко, но, с другой стороны,//(12.5483,14.20057)\\\\шоумен вроде Карнеби уж точно не будет все время//(14.20057,16.25594)\\\\сидеть в четырех стенах.",
+					"cn": "//[DIANA]\\\\//(0,9.42)\\\\欢迎来到孟买，47。你的目标，以及他雇的那群显眼的保镖，就住在附近的一座公寓大楼里。//(9.42,16.25594)\\\\想靠近并不容易，但像卡纳比这样天生的喜欢出风头的人不可能永远窝在家里。",
+					"tc": "//[DIANA]\\\\//(0,2.3)\\\\歡迎來到孟買，47。//(2.3,9.3)\\\\你的目標帶著一群聘雇的護衛並且住在附近的公寓裡。//(9.3,16.3)\\\\接近目標並不容易，但是像卡納比這樣天生的表演家可不會一直待在裡頭。",
+					"jp": "//[DIANA]\\\\//(0,2.265)\\\\ムンバイへようこそ、47。//(2.265,6.07)\\\\ターゲットは、人目に付く雇われガードマンたちと一緒に//(6.07,9.27)\\\\近くのアパートに住んでいるわ。//(9.27,11.36)\\\\近づくのは簡単じゃないけれど、//(11.36,14.26)\\\\でもカーナビーのようなショーマンが//(14.26,16.25594)\\\\永遠に閉じこもっているとは思えない。"
+				}
+			}
+		]
+	}
+}

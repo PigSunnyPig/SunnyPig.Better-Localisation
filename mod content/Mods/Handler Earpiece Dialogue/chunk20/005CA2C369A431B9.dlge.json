@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/newzealand/31000_sheep/31000_cinematic/31000_laptop.sweetdialog?/31000_laptop_diana_009.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "31000_laptop_diana_009",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_sheep/31000_cinematic/31000_laptop_diana_009.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_sheep/31000_cinematic/31000_laptop_diana_009.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,1.80183)\\\\I see them. Damn.//(1.80183,5.707106)\\\\Okay. We got all we're going to get. Go to stage two, 47.//(5.707106,9.10189)\\\\Eliminate Reynard – and preferably without raising suspicion.//(9.10189,11.66477)\\\\One step ahead of the shadow client for once.//(11.66477,13.91477)\\\\Let's keep it that way.",
+			"fr": "//[DIANA]\\\\//(0,1.5)\\\\Je les vois. Mince.//(1.5,3.75)\\\\Bon... Contentons-nous de ça pour le moment.//(3.75,5.57)\\\\Passez à l'étape deux, 47.//(5.57,9)\\\\Éliminez Reynard, de préférence sans éveiller les soupçons.//(9,10.85)\\\\Nous avons un coup d'avance sur le client de l'ombre//(10.85,40.85)\\\\pour une fois, essayons de le garder.",
+			"it": "//[DIANA]\\\\//(0,2.01)\\\\Li vedo. Maledizione.//(2.01,4.01)\\\\Ok... questo è il massimo che potremo ottenere.//(4.01,5.78)\\\\Passa alla seconda fase, 47.//(5.78,9.36)\\\\Elimina Reynard e, se possibile, senza destare sospetti.//(9.36,11.75)\\\\Per una volta siamo un passo avanti rispetto al cliente ombra.//(11.75,41.75)\\\\Vediamo di mantenere il vantaggio.",
+			"de": "//[DIANA]\\\\//(0,5.65)\\\\Ich sehe sie. Mist. Okay ... Mehr kriegen wir da nicht. Weiter mit Phase Zwei, 47.//(5.65,9.05)\\\\Eliminieren Sie Reynard, und zwar am besten, ohne Verdacht zu erwecken.//(9.05,11.6)\\\\Wir sind dem Schattenklienten zur Abwechslung mal einen Schritt voraus.//(11.6,41.6)\\\\Und das soll auch so bleiben.",
+			"es": "//[DIANA]\\\\//(0,2.104294)\\\\Los veo. Mierda.//(2.104294,4.181)\\\\Vale... tenemos todo lo que podíamos conseguir.//(4.181,6.01)\\\\Pasa a la fase dos, 47.//(6.01,7.034)\\\\Elimina a Reynard,//(7.034,9.306)\\\\preferiblemente sin levantar sospechas.//(9.306,10.03)\\\\Por una vez,//(10.03,11.875)\\\\vamos un paso por delante del cliente clandestino.//(11.875,41.875)\\\\Sigamos así.",
+			"ru": "//[DIANA]\\\\//(0,3.982883)\\\\Вижу их. Черт. Ладно... мы добыли всё, что смогли.//(3.982883,5.743374)\\\\Приступай ко второй фазе, 47-й.//(5.743374,9.27196)\\\\Устрани Рейнард, и желательно без подозрений.//(9.27196,11.34865)\\\\Мы наконец-то на шаг впереди таинственного клиента.//(11.34865,41.34865)\\\\Надо удержать преимущество.",
+			"cn": "//[DIANA]\\\\//(0,3.93)\\\\我看到他们了。见鬼。好吧......数据上传只能到此为止了。//(3.93,9.228)\\\\开始第二阶段，47.消灭雷纳德，且最好不要令其他人。//(9.228,39.228)\\\\这一次我们总算领先影子客户一步了。我们再接再厉。",
+			"tc": "//[DIANA]\\\\//(0,2)\\\\我看見了，該死。//(2,5.9)\\\\算了，我們能取得的就這些了，進行第二階段，47。//(5.9,9.3)\\\\消滅雷納德，最好別打草驚蛇。//(9.3,39.3)\\\\我們終於搶先了影子客戶一步。我們保持下去吧。",
+			"jp": "//[DIANA]\\\\//(0,1.7)\\\\こちらでも確認した。まあいいわ。//(1.7,5.7)\\\\目的の物は手に入れた。ステージ2に移行して、47。//(5.7,9.2)\\\\レイナードを排除するのよ。なるべく疑念を生じさせない方法でね。//(9.2,11.51)\\\\今は影のクライアントの一歩先を行ってるわ。//(11.51,41.51)\\\\この有利な立場を維持するのよ。"
+		}
+	}
+}

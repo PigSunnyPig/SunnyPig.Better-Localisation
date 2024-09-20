@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colombia/23000_hippo/23000_handler/ds23041_oppbackpackerconclusion.sweetdialog?/ds23041_oppbackpackerconclusion_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds23041_oppbackpackerconclusion_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colombia/23000_hippo/23000_handler/ds23041_oppbackpackerconclusion_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colombia/23000_hippo/23000_handler/ds23041_oppbackpackerconclusion_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.724294)\\\\Nice one, 47.//(1.724294,4.932883)\\\\And now for Franco to sample his handiwork.",
+			"fr": "//(0,1.35)\\\\Bien vu, 47.//(1.35,4.564785)\\\\Franco peut maintenant goûter le fruit de son travail.",
+			"it": "//(0,1.724294)\\\\Ben fatto, 47.//(1.724294,5.300982)\\\\E adesso è il momento che Franco provi il suo lavoro manuale.",
+			"de": "//(0,1.5483)\\\\Gut gemacht, 47.//(1.5483,6.09738)\\\\Und jetzt kann Franco mal Bekanntschaft mit der eigenen Arbeit machen.",
+			"es": "//(0,1.724294)\\\\Buen trabajo, 47.//(1.724294,4.359687)\\\\Y ahora, hagamos que Franco pruebe su obra.",
+			"ru": "//(0,1.527619)\\\\Удачный ход, 47-й.//(1.527619,4.359687)\\\\Подождем, пока Франко оценит плоды его труда.",
+			"cn": "//(0,30)\\\\干得好，47。现在，让弗朗科试用一下他的作品吧。",
+			"tc": "//(0,30)\\\\幹得好，47。現在，讓佛朗科試展示他的手作品吧。",
+			"jp": "//(0,1.65)\\\\よくやったわ、47。//(1.65,31.65)\\\\あとはフランコに手作りの味を味わってもらうだけね。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/12500_white_spider/12500_rabies/12500_handler/ds12529_infectrun1.sweetdialog?/ds12529_infectrun1_diana_ws_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds12529_infectrun1_diana_ws_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12529_infectrun1_diana_ws_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12529_infectrun1_diana_ws_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Wait, 47! One of the infected is trying escape. Take him down now! We can't let any of them get away!",
+			"fr": "//(0,30)\\\\Attendez, 47 ! Un des porteurs du virus tente de s'échapper. Abattez-le immédiatement, on ne peut pas les laisser s'échapper !",
+			"it": "//(0,30)\\\\Aspetta, 47! Uno degli infetti sta cercando di scappare. Eliminalo subito! Non possiamo permettere che raggiunga l'esterno!",
+			"de": "//(0,30)\\\\Moment, 47! Einer der Infizierten will fliehen. Schalten Sie ihn sofort aus! Wir dürfen keinen von ihnen entkommen lassen!",
+			"es": "//(0,30)\\\\¡Espera, 47! Uno de los infectados está tratando de escapar. ¡Elimínalo, no dejes que se escape ninguno!",
+			"ru": "//(0,30)\\\\47-й, погоди! Один из зараженных пытается сбежать. Стреляй быстрее! Никто из них не должен выбраться!",
+			"cn": "//(0,30)\\\\等等，47！有一名感染者试图逃跑。快消灭他！我们不能让任何一个感染者逃跑！",
+			"tc": "//(0,30)\\\\等等，47！有一名感染者試圖逃跑。快消滅他！我們不能讓任何一個感染者逃跑！",
+			"jp": "//(0,30)\\\\待って、 47！ 感染者が 逃げようと してるわ。 絶対に 外に 出しては だめよ！"
+		}
+	}
+}

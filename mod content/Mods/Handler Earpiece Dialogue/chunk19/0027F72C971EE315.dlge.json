@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/miami/21000_elusive/21000_sambuca/21000_sambuca_handler/ds21601_missiondone.sweetdialog?/ds21601_missiondone_diana_003.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds21601_missiondone_diana_003",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/miami/21000_elusive/21000_sambuca/21000_sambuca_handler/ds21601_missiondone_diana_003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/miami/21000_elusive/21000_sambuca/21000_sambuca_handler/ds21601_missiondone_diana_003.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.69875)\\\\The money is being transferred now, 47. Time to find an exit.",
+			"fr": "//(0,2.4)\\\\L'argent est en cours de transfert, 47.//(2.4,4.196687)\\\\Il est temps de trouver une sortie.",
+			"it": "//(0,2.61)\\\\Il denaro è fase di trasferimento, 47.//(2.61,4.196687)\\\\È ora di trovare l'uscita.",
+			"de": "//(0,2.596687)\\\\Das Geld wird Ihnen jetzt überwiesen, 47.//(2.596687,4.196687)\\\\Zeit, einen Ausgang zu finden.",
+			"es": "//(0,30)\\\\Ya se ha transferido el dinero, 47. Busca una salida.",
+			"ru": "//(0,2.496687)\\\\Деньги уже переведены на твой счет, 47-й.//(2.496687,4.196687)\\\\Пора искать выход.",
+			"cn": "//(0,30)\\\\我们正在把钱转给你，47。该找出口了。",
+			"tc": "//(0,30)\\\\資金已經在轉帳了，47。從這裡撤退吧。",
+			"jp": "//(0,30)\\\\送金中よ、47。脱出ポイントを探して。"
+		}
+	}
+}

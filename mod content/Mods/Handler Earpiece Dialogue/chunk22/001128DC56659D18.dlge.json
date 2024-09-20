@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_snowcrane/2000_handler/ds2829_47ihaveintel.sweetdialog?/ds2829_47ihaveintel_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds2829_47ihaveintel_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_snowcrane/2000_handler/ds2829_47ihaveintel_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_snowcrane/2000_handler/ds2829_47ihaveintel_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\47, I have intel.",
+			"fr": "//(0,30)\\\\47, j'ai des renseignements.",
+			"it": "//(0,30)\\\\47, ho delle informazioni.",
+			"de": "//(0,30)\\\\47, ich habe Informationen.",
+			"es": "//(0,30)\\\\Tengo información, 47.",
+			"ru": "//(0,30)\\\\47-й, у меня есть сведения.",
+			"cn": "//(0,30)\\\\47，我有情报了。",
+			"tc": "//(0,30)\\\\47，我有情報了。",
+			"jp": "//(0,30)\\\\47、情報よ。"
+		}
+	}
+}

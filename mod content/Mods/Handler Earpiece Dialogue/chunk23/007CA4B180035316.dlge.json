@@ -1,0 +1,49 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/12500_white_spider/12500_rabies/12500_handler/ds12551_clipboard.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds12551_clipboard_diana_ws_001",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12551_clipboard_diana_ws_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12551_clipboard_diana_ws_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\This indicates the Target is engaged in record-keeping. But nothing online. Look for someone with a clipboard.",
+					"fr": "//(0,30)\\\\La cible s'occuperait de l'archivage de données, mais rien de numérique. Cherchez quelqu'un avec un bloc-notes.",
+					"it": "//(0,30)\\\\Da qui emerge che il bersaglio si occupa di archiviazione, ma non lavora online. Cerca qualcuno con un portablocco.",
+					"de": "//(0,30)\\\\Das weist darauf hin, dass die Zielperson etwas mit Verwaltung zu tun hat. Aber nicht online. Suchen Sie jemanden mit einem Klemmbrett.",
+					"es": "//(0,30)\\\\Esto indica que el objetivo se dedica a la contabilidad, pero a la antigua usanza. Busca a alguien que lleve papeles.",
+					"ru": "//(0,30)\\\\Здесь говорится, что цель ведет бухгалтерию. Но не использует электронные ресурсы. Тебе нужен кто-то с доской-планшетом.",
+					"cn": "//(0,30)\\\\这说明目标在进行数据记录。但并没有用到网络。找找手持记录板的人。",
+					"tc": "//(0,30)\\\\這說明目標在進行資料記錄。但並沒有用到網路。找找手持夾板的人。",
+					"jp": "//(0,30)\\\\ターゲットは 記録係か 何かの ようね。 クリップボードを 持った人物を 探して みましょう。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds12551_clipboard_diana_ws_002",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12551_clipboard_diana_ws_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12551_clipboard_diana_ws_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\He's taking an inventory, 47. It's not online, though. Hmm. I'd guess he's using a clipboard.",
+					"fr": "//(0,30)\\\\Il fait l'inventaire, 47, mais je ne le vois pas en ligne. Hmm, il doit utiliser un bloc-notes.",
+					"it": "//(0,30)\\\\Sta redigendo un inventario, 47, ma non lavora online. Uhm... Forse usa un comune portablocco.",
+					"de": "//(0,30)\\\\Er erstellt ein Inventar, 47. Aber nicht online. Hmm. Wahrscheinlich benutzt er ein Klemmbrett.",
+					"es": "//(0,30)\\\\Está haciendo un inventario, 47, pero no en Internet. Supongo que llevará los papeles encima.",
+					"ru": "//(0,30)\\\\Он занимается инвентаризацией, 47-й. Но без электронных ресурсов. Хм. Думаю, у него есть доска-планшет.",
+					"cn": "//(0,30)\\\\他在进行库存清查，47。不过并非在线操作。嗯。我想他在使用笔记板。",
+					"tc": "//(0,30)\\\\他在進行庫存清查，47。不過並非線上操作。嗯。我想他在使用筆記板。",
+					"jp": "//(0,30)\\\\ターゲットは 在庫管理を 担当して いるらしいわ、 47。 クリップボードを 持ってるかも。"
+				}
+			}
+		]
+	}
+}

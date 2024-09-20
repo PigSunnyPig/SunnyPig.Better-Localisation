@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/tutorial/9000_handler/ds9262_opp_satefyfirstbriefing.sweetdialog?/ds9262_opp_satefyfirstbriefing_young_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds9262_opp_satefyfirstbriefing_young_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/tutorial/9000_handler/ds9262_opp_satefyfirstbriefing_young_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/tutorial/9000_handler/ds9262_opp_satefyfirstbriefing_young_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.75)\\\\So. Jasper Knight is leaving Cuba on a Soviet fighter jet.//(3.75,8.65)\\\\But first he needs to test the jet’s safety features. Huh.//(8.65,12.75)\\\\Say you could somehow tamper with the ejector seat mechanism,//(12.75,42.75)\\\\you could presumably get Knight to trigger his own demise. Hmm that might just work.",
+			"fr": "//(0,0.6680981)\\\\Bon.//(1.018098,3.035276)\\\\Jasper Knight doit quitter Cuba à bord d'un avion de chasse soviétique.//(3.535276,7.554)\\\\Mais d'abord, il doit tester le protocole de sécurité de celui-ci.//(7.754,8.45)\\\\Hmm...//(8.6,12.08288)\\\\Imaginons que vous parveniez à saboter le siège éjectable,//(12.78288,14.99147)\\\\vous pourriez sans doute pousser Knight//(14.99147,16.69147)\\\\à provoquer sa propre mort.//(18.2,48.2)\\\\J'ai hâte de voir ça !",
+			"it": "//(0,3.8)\\\\D'accordo, Jasper Knight conta di lasciare Cuba a bordo di un caccia sovietico,//(3.8,6.822)\\\\ma prima deve verificare i sistemi di sicurezza dell'aereo.//(7.581,12.824)\\\\Uhm... Se tu riuscissi a manomettere il meccanismo del seggiolino eiettabile,//(12.824,42.824)\\\\Knight finirebbe per causare la sua stessa dipartita. Potrebbe funzionare.",
+			"de": "//(0,3.932883)\\\\Also, Jasper Knight verlässt Kuba in einem sowjetischen Kampfjet.//(3.932883,7)\\\\Aber vorher muss er die Sicherheitsmaßnahmen des Jets überprüfen.//(7.745767,8.613865)\\\\Hm.//(8.613865,13.03485)\\\\Nehmen wir an, Sie könnten ein wenig am Schleudersitz herumschrauben,//(13.03485,17)\\\\dann würde Knight möglicherweise seinen eigenen Absturz auslösen.//(17.65,47.65)\\\\Klingt doch gut.",
+			"es": "//(0,4.169)\\\\Veamos. Jasper Knight va a abandonar Cuba en un caza soviético,//(4.169,7.918)\\\\pero primero tiene que revisar las medidas de seguridad del avión.//(7.918,13.255)\\\\Mmm... Si consiguieras sabotear el mecanismo del asiento eyectable de alguna manera,//(13.255,17)\\\\podrías hacer que Knight acabase consigo mismo.//(17,19.10429)\\\\Mmm... Puede funcionar.",
+			"ru": "//(0,4.03)\\\\Итак. Джаспер Найт должен покинуть Кубу на советском истребителе.//(4.03,7.698)\\\\Но сперва ему нужно проверить системы безопасности самолета.//(7.698,10.64659)\\\\Хм. Возможно, если испортить механизм катапультирования,//(10.64659,16.367)\\\\это спровоцирует несчастный случай, который убьет Найта.//(16.367,46.367)\\\\Звучит многообещающе.",
+			"cn": "//(0,0.6180982)\\\\好了。//(0.6180982,3.736196)\\\\贾斯珀·奈特将乘坐苏联的喷气式战斗机//(3.736196,7.586196)\\\\离开古巴首先他需要测试飞机的安全特性。//(7.586196,12.6862)\\\\哼。若是你能在弹射座椅的机械装置上动手脚，//(12.6862,16.8862)\\\\也许你可以让奈特死于自己之手。//(16.8862,46.8862)\\\\听起来很有希望。",
+			"tc": "//(0,3.643)\\\\看來，賈斯珀．奈特將乘坐蘇聯的噴氣式戰鬥機離開古巴。//(3.643,6.79)\\\\首先他需要測試飛機的安全特性。//(6.79,16.989)\\\\呵。假如你微調一下彈射座椅，他應該就可以把自己的命運掌握在他手裡了。//(16.989,46.989)\\\\嗯，這樣可能有用。",
+			"jp": "//(0,4.7)\\\\どうやら、ジャスパー・ナイトはソ連のジェット戦闘機でキューバを出るつもりね。//(4.7,10.2)\\\\でも、まずはジェット機の安全装置をテストするみたい。 そうね...//(10.2,19.25119)\\\\たとえば脱出シートを細工すれば、 ナイト自らの手が最期を迎えさせることができるかも。"
+		}
+	}
+}

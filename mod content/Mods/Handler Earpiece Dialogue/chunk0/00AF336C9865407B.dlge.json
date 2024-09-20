@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/golden/gecko/40000_story/dr40152_greystory_greyactivatepanel.sweetdialog?/dr40152_greystory_greyactivatepanel_grey_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr40152_greystory_greyactivatepanel_grey_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/gecko/40000_story/dr40152_greystory_greyactivatepanel_grey_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/gecko/40000_story/dr40152_greystory_greyactivatepanel_grey_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.975976)\\\\The partners are alone now.//(1.975976,4.151363)\\\\I'll activate the panel controlling the room's//(4.151363,5.195031)\\\\security features.//(5.195031,6.228651)\\\\When you're ready,//(6.228651,8.515396)\\\\use it to start the show.",
+			"fr": "//(0,2.082)\\\\Les partenaires sont seuls, à présent.//(2.082,5.911)\\\\Je vais activer le terminal qui contrôle les fonctions de sécurité de la pièce.//(5.911,8.515)\\\\Quand tu seras prêt, tu pourras t'en servir pour leur jouer un tour.",
+			"it": "//(0,1.841561)\\\\Ora i partner sono soli.//(1.841561,5.78)\\\\Attiverò il pannello che controlla le funzioni della stanza di sicurezza.//(5.78,11.32352)\\\\Quando sei pronto, usalo per dare inizio alla festa.",
+			"de": "//(0,1.884768)\\\\Die Partner sind jetzt allein.//(1.884768,3.167102)\\\\Ich aktiviere die Steuerung,//(3.167102,5.348295)\\\\um die Abriegelung des Raums einzuleiten.//(5.348295,6.630629)\\\\Wenn du bereit bist,//(6.630629,8.515396)\\\\kannst du die Show starten.",
+			"es": "//(0,5.7)\\\\Los socios ya están solos. Activaré el panel que controla las funciones de seguridad.//(5.7,8.515396)\\\\Cuando estés listo, úsalo y que empiece el espectáculo.",
+			"ru": "//(0,2.828589)\\\\Партнеры остались одни. Я активирую панель,//(2.828589,5.801)\\\\отвечающую за блокировку зала.//(5.801,35.801)\\\\Когда будешь готов устроить шоу, используй ее.",
+			"cn": "//(0,5.5)\\\\现在只剩“同伙”了。我马上就会启动控制房间安保功能的控制面板。//(5.5,35.5)\\\\等你准备好了，就准备用它开始表演吧。",
+			"tc": "//(0,5.7)\\\\現在只剩下同夥了。我會啟動面板控制的房間保全功能。//(5.7,35.7)\\\\準備好的時候就啟動它。",
+			"jp": "//(0,1.805)\\\\パートナーズだけになった。//(1.805,5.54)\\\\部屋のセキュリティー機能を制御するパネルを有効化する。//(5.54,35.54)\\\\準備ができたら、それを使ってショーを始めよう。"
+		}
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/golden/gecko/40000_handler/ds40001_ingramid.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds40001_ingramid_grey_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/gecko/40000_handler/ds40001_ingramid_grey_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/gecko/40000_handler/ds40001_ingramid_grey_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,1.504294)\\\\That's Carl Ingram...//(1.504294,5.2)\\\\Providence Partner and brass balls billionaire.//(5.2,35.2)\\\\A legendary political fixer, Ingram is old money and as rotten as they come.",
+					"fr": "//(0,5.3)\\\\Voilà Carl Ingram... partenaire de Providence et milliardaire inflexible.//(5.3,9.66)\\\\Arrangeur politique légendaire, c'est un vieux riche pourri comme on n'en fait plus.",
+					"it": "//(0,5.405)\\\\Quello è Carl Ingram, socio di Providence e miliardario con le palle quadrate.//(5.405,13.28294)\\\\Ingram è un risolutore politico leggendario, è ricco di famiglia e marcio tanto quanto i suoi soldi.",
+					"de": "//(0,1.504716)\\\\Das ist Carl Ingram ...//(1.504716,4.581403)\\\\Providence-Partner und Billionär mit Eiern aus Stahl.//(4.581403,6.789992)\\\\Als legendärer Strippenzieher in der Politik//(6.789992,8.262385)\\\\entstammt Ingram echtem Geldadel//(8.262385,9.660417)\\\\und ist so verkommen, wie man nur sein kann.",
+					"es": "//(0,5.3)\\\\Ese es Carl Ingram... socio de Providence. Un multimillonario que los tiene cuadrados.//(5.3,35.3)\\\\Ingram es toda una leyenda en hacer chanchullos políticos y viene de una familia podrida de dinero.",
+					"ru": "//(0,3.944785)\\\\Это Карл Ингрэм... Партнер «Провиденса» и дерзкий миллиардер.//(3.944785,33.94479)\\\\Ингрэм — знаменитый политический решала и старый толстосум, прогнивший до мозга костей.",
+					"cn": "//(0,4.939)\\\\那位是卡尔·英格拉姆，神意秘会的合伙人，胆大妄为的亿万富翁。//(4.939,34.939)\\\\英格拉姆是位传奇的政治掮客，也是个老油条，烂到骨子里了。",
+					"tc": "//(0,1.7)\\\\那就是卡爾‧英格倫......//(1.7,5.1)\\\\是神意秘會同夥，也是個難纏的億萬富翁。//(5.1,35.1)\\\\他是政界具傳奇性的疏通專家，英格倫出生於名門世族，而且非常腐敗。",
+					"jp": "//(0,1.68)\\\\あれがカール・イングラム...//(1.68,4.9)\\\\プロヴィデンスのパートナーで、肝っ玉の据わった億万長者だ。//(4.9,34.9)\\\\伝説の政治フィクサーで、イングラムは代々続く名家だが腐敗しきっている。"
+				}
+			}
+		]
+	}
+}

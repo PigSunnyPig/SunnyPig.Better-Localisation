@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/rat/43000_handler/ds43329_meetupoliviatargetsmeet.sweetdialog?/ds43329_meetupoliviatargetsmeet_oliviahall_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds43329_meetupoliviatargetsmeet_oliviahall_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/rat/43000_handler/ds43329_meetupoliviatargetsmeet_oliviahall_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/rat/43000_handler/ds43329_meetupoliviatargetsmeet_oliviahall_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3)\\\\Royce is just about to confront Hush in person.//(3,7.7)\\\\We want to hear this, 47. I’ve managed to get a hot mic hack on her phone.//(7.7,37.7)\\\\Enjoy the show.",
+			"fr": "//(0,5.2)\\\\Royce va aller voir Hush en personne. Il faut qu'on écoute ça, 47.//(5.2,35.2)\\\\J'ai réussi à pirater le micro de son téléphone, on va pouvoir tout entendre. Profitez du spectacle.",
+			"it": "//(0,3.06)\\\\Royce sta per confrontarsi con Hush in persona.//(3.06,33.06)\\\\È il caso di ascoltarli, 47. Sono riuscita a metterle una cimice nel telefono, perciò goditi lo spettacolo.",
+			"de": "//(0,5.237178)\\\\Royce will Hush persönlich zur Rede stellen. Das wollen wir hören, 47.//(5.237178,35.23718)\\\\Ich habe ihr Handy so gehackt, dass das Mikro aktiv ist. Viel Spaß bei der Show.",
+			"es": "//(0,2.5)\\\\Royce está a punto de vérselas con Hush en persona.//(3.1,4.5)\\\\Nos conviene oír la conversación, 47.//(5.3,35.3)\\\\He logrado pinchar el micro del teléfono de ella. Disfruta del espectáculo.",
+			"ru": "//(0,2.708589)\\\\Ройс собирается высказать всё Хашу лично.//(2.708589,4.800982)\\\\Нельзя это пропустить, 47-й.//(4.800982,8)\\\\Мне удалось подключиться к микрофону на ее телефоне.//(8,38)\\\\Шоу начинается.",
+			"cn": "//(0,5)\\\\罗伊斯即将亲自面对哈什。这正是我们想看到的，47。//(5,35)\\\\我设法监听了她的手机。等着看好戏吧。",
+			"tc": "//(0,5.3)\\\\羅伊斯正打算要當面和賀許對質。我們得聽聽，47。//(5.3,35.3)\\\\我成功接上了她手機的麥克風。好好享受一下吧。",
+			"jp": "//(0,5.2)\\\\もうすぐロイスがハッシュと直接会うわ。これは聞いておかないとね、47。//(5.2,35.2)\\\\ロイスの電話をスピーカーでつないだ。ショーを楽しんで。"
+		}
+	}
+}

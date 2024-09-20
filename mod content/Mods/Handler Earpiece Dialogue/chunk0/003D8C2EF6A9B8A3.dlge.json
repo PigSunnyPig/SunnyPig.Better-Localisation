@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/tutorial/9000_handler/ds9256_hidebodies.sweetdialog?/ds9256_hidebodies_young_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds9256_hidebodies_young_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/tutorial/9000_handler/ds9256_hidebodies_young_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/tutorial/9000_handler/ds9256_hidebodies_young_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Remember to hide your tracks. There should be a container nearby.",
+			"fr": "//(0,1.38)\\\\N'oubliez pas de masquer vos traces.//(1.658589,31.65859)\\\\Il doit y avoir un conteneur près de vous.",
+			"it": "//(0,30)\\\\Ricorda di nascondere le tracce. Dovresti trovare un cassone nei paraggi.",
+			"de": "//(0,30)\\\\Vergessen Sie nicht, Ihre Spuren zu verwischen. In der Nähe müsste ein Container stehen.",
+			"es": "//(0,30)\\\\Recuerda ocultar tu rastro. Debería haber un contenedor cerca.",
+			"ru": "//(0,30)\\\\Не забудь замести следы. Поблизости должен быть контейнер.",
+			"cn": "//(0,30)\\\\别忘了掩盖行踪。附近应该有容器。",
+			"tc": "//(0,30)\\\\別忘了掩蓋行蹤。附近應該有容器。",
+			"jp": "//(0,30)\\\\痕跡は消して。近くにコンテナがあるはず。"
+		}
+	}
+}

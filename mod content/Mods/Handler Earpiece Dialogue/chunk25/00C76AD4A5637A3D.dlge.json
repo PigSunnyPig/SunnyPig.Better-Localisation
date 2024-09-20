@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/marrakech/11600_elusive/11600_maitai/11600_maitai_handler/dr11600_diana.sweetdialog?/dr11600_diana_diana_et_010.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr11600_diana_diana_et_010",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_maitai/11600_maitai_handler/dr11600_diana_diana_et_010.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_maitai/11600_maitai_handler/dr11600_diana_diana_et_010.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA_ET]\\\\//(0,30)\\\\That's the guest list. It's time for Mr. Giggles' final performance.",
+			"fr": "//[DIANA_ET]\\\\//(0,1.4)\\\\C'est la liste d'invités.//(1.4,31.4)\\\\Il est temps pour M. Giggles de donner sa dernière représentation.",
+			"it": "//[DIANA_ET]\\\\//(0,30)\\\\Quella è la lista degli ospiti. È giunta l'ora di chiudere il sipario su Mister Giggles.",
+			"de": "//[DIANA_ET]\\\\//(0,30)\\\\Das ist die Gästeliste. Es ist Zeit für Mr Giggles' letzten Auftritt.",
+			"es": "//[DIANA_ET]\\\\//(0,30)\\\\Esa es la lista de invitados. Ha llegado el momento de la actuación final de Mr. Giggles.",
+			"ru": "//[DIANA_ET]\\\\//(0,30)\\\\Это список гостей. Мистеру Гигглсу пора дать свое последнее представление.",
+			"cn": "//[DIANA_ET]\\\\//(0,30)\\\\这是宾客名单。该让“咯笑先生”进行最后一次演出了。",
+			"tc": "//[DIANA_ET]\\\\//(0,30)\\\\這是賓客名單。該讓「傻笑先生」進行最後一次演出了。",
+			"jp": "//[DIANA_ET]\\\\//(0,30)\\\\ゲストリストよ。ミスター・ギグルスの最後のパフォーマンスね。"
+		}
+	}
+}

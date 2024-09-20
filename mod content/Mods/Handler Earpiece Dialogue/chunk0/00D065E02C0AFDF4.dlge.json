@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/golden/gecko/40000_story/dr40040_superimportantintro.sweetdialog?/dr40040_superimportantintro_grey_009.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr40040_superimportantintro_grey_009",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/gecko/40000_story/dr40040_superimportantintro_grey_009.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/gecko/40000_story/dr40040_superimportantintro_grey_009.animset].pc_animset",
+		"languages": {
+			"en": "//[GREY]\\\\//(0,2.5)\\\\We need absolute focus on this one.//(2.5,7.5)\\\\If Ingram and Stuyvesant are alerted to our presence, we may lose them for good.//(7.5,9.763655)\\\\We are so close, 47.",
+			"fr": "//[GREY]\\\\//(0,3.11)\\\\Il va falloir être concentré comme jamais cette fois.//(3.11,8.03)\\\\Si Ingram et Stuyvesant savent qu'on est là, on pourrait les perdre pour de bon.//(8.03,14.15104)\\\\On est si près du but, 47...",
+			"it": "//[GREY]\\\\//(0,2.247588)\\\\Ci serve la massima concentrazione.//(2.247588,6.447)\\\\Se qualcuno avverte Ingram e Stuyvesant della nostra presenza, potremmo perderli per sempre.//(7.736,10.74526)\\\\Ci siamo quasi, 47.",
+			"de": "//[GREY]\\\\//(0,2.659944)\\\\Wir brauchen bei dieser Sache volle Konzentration.//(2.659944,4.887613)\\\\Wenn Ingram und Stuyvesant auf uns aufmerksam//(4.887613,7.333)\\\\werden, könnten wir sie ganz verlieren.//(7.333,9.709764)\\\\Wir sind dicht dran, 47.",
+			"es": "//[GREY]\\\\//(0,2.3)\\\\Tenemos que estar muy centrados.//(2.8,6.3)\\\\Si alertan de nuestra presencia a Ingram y Stuyvesant, puede que los perdamos para siempre.//(7.7,37.7)\\\\Estamos muy cerca, 47.",
+			"ru": "//[GREY]\\\\//(0,2.340491)\\\\Мы должны действовать очень четко.//(2.340491,7.377668)\\\\Если Ингрэм и Стейвесант узнают о нашем присутствии, мы упустим их навсегда.//(7.377668,37.37767)\\\\Мы почти у цели, 47-й.",
+			"cn": "//[GREY]\\\\//(0,4.8)\\\\这个任务我们必须集中精神。要是被英格拉姆和斯图维森特发现的话，//(4.8,34.8)\\\\我们可能就再也找不到他们了。我们已经只差一步了，47。",
+			"tc": "//[GREY]\\\\//(0,2.8)\\\\我們必須百分百專注。//(2.8,7.7)\\\\如果英格倫和史岱文森發現了我們的存在，我們可能會永遠失去他們。//(7.7,37.7)\\\\我們就差一點點，47。",
+			"jp": "//[GREY]\\\\//(0,2.83)\\\\気を抜くなよ。//(2.83,6.415)\\\\イングラムとストイフェサントに勘づかれたら、もう二度とチャンスはないかもしれない。//(7.705,37.705)\\\\もうそこまで来てるんだ、47。"
+		}
+	}
+}

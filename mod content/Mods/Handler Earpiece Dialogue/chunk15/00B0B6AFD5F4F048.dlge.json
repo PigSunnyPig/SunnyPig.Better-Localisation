@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_penicillin/29000_penicillin_handler/ds29757_ringbellcomp.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds29757_ringbellcomp_diana_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_handler/ds29757_ringbellcomp_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_handler/ds29757_ringbellcomp_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,1.7)\\\\That's the end of the round.//(1.7,4.2)\\\\Quinn will most likely head back to his locker room.//(4.2,34.2)\\\\A perfect chance to \"convince\" him to stand down and take his place?",
+					"fr": "//(0,1.7)\\\\Fin du round.//(1.7,4.2)\\\\Quinn va certainement prendre la direction des vestiaires.//(4.2,34.2)\\\\Peut-être aurez-vous l'occasion de le \"convaincre\" de vous laisser sa place ?",
+					"it": "//(0,1.7)\\\\È la fine del round.//(1.7,4.2)\\\\Probabilmente, Quinn tornerà nel suo spogliatoio.//(4.2,34.2)\\\\Un'opportunità ideale per \"convincerlo\" a farsi da parte e lasciare che tu lo sostituisca, no?",
+					"de": "//(0,1.7)\\\\Das ist das Ende der Runde.//(1.7,4.2)\\\\Quinn wird wahrscheinlich wieder in die Umkleide gehen.//(4.2,34.2)\\\\Die ideale Gelegenheit, um ihn davon zu „überzeugen“, sich zurückzuziehen, und seinen Platz einzunehmen?",
+					"es": "//(0,1.7)\\\\Se ha acabado el asalto.//(1.7,4.2)\\\\Es muy probable que Quinn regrese al vestuario.//(4.2,34.2)\\\\Podría ser la oportunidad perfecta para «convencerlo» de que se haga a un lado y así poder ocupar su lugar.",
+					"ru": "//(0,1.7)\\\\Раунд завершен.//(1.7,4.2)\\\\Куинн сейчас наверняка отправится в раздевалку.//(4.2,34.2)\\\\Быть может, это отличная возможность «убедить» его отступиться и занять его место?",
+					"cn": "//(0,1.7)\\\\回合结束。//(1.7,4.2)\\\\奎恩大概率会回更衣室。//(4.2,34.2)\\\\也许这是“说服”他退位让贤的绝佳机会？",
+					"tc": "//(0,4.3)\\\\這一回合結束了，奎恩應該會回到他的休息室。//(4.3,34.3)\\\\這應該是個說服他讓你代替他比賽的大好機會？",
+					"jp": "//(0,1.7)\\\\ラウンド終了。//(1.7,4.2)\\\\クインはロッカールームに戻るはず。//(4.2,34.2)\\\\今なら代わりにあなたが闘うよう彼を「説得」できるかもしれないわね。"
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25060_lostlovebriefing.sweetdialog?/ds25060_lostlovebriefing_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25060_lostlovebriefing_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25060_lostlovebriefing_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25060_lostlovebriefing_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.714785)\\\\So, armed thugs belonging to the street gang//(2.714785,5.309571)\\\\known as \"The Crows\" have evacuated a hill//(5.309571,7.250061)\\\\in the slums of Mumbai.//(7.250061,9.350061)\\\\This could be worth investigating.",
+			"fr": "//(0,3.894785)\\\\Une bande armée appartenant au gang des \"Crows\"//(3.894785,7.244702)\\\\ont évacué une colline dans les bidonvilles de Bombay.//(7.244702,9.106771)\\\\Ça vaut le coup d'enquêter.",
+			"it": "//(0,2.226821)\\\\E così un gruppo di criminali armati appartenenti//(2.226821,5.2887)\\\\alla gang nota col nome di \"i Corvi\" ha fatto evacuare//(5.2887,7.336911)\\\\una collina nei sobborghi di Mumbai.//(7.336911,9.106771)\\\\È il caso di indagare.",
+			"de": "//(0,1.344569)\\\\So. Bewaffnete Schläger,//(1.344569,3.734426)\\\\die zu einer Straßenbande namens „die Crows“ gehören,//(3.734426,6.707633)\\\\haben einen Hügel in den Slums von Mumbai geräumt.//(6.707633,9.106771)\\\\Das sollte man sich vielleicht genauer ansehen.",
+			"es": "//(0,1.067696)\\\\Unos matones armados,//(1.067696,4.061483)\\\\que pertenecen a la banda callejera de los «Cuervos»,//(4.061483,7.386665)\\\\han evacuado una colina en los suburbios de Bombay.//(7.386665,9.106771)\\\\Podría ser interesante investigarlo.",
+			"ru": "//(0,4.016068)\\\\Вооруженные головорезы из уличной банды «Вороны»//(4.016068,7.290437)\\\\выгнали всех из одного холма в трущобах Мумбаи.//(7.290437,9.106771)\\\\Стоит разузнать об этом побольше.",
+			"cn": "//(0,7.1)\\\\所以说，一群被称为“乌鸦帮”的武装暴徒赶走了孟买贫民窟山上的所有人。//(7.1,37.1)\\\\这或许值得调查一番。",
+			"tc": "//(0,7.1)\\\\所以說，一群被稱為「烏鴉幫」的武裝暴徒趕走孟買貧民窟山上的所有人。//(7.1,37.1)\\\\這或許值得好好調查。",
+			"jp": "//(0,3.895)\\\\「CROWS」と呼ばれるストリートギャングに所属している武装集団が、//(3.895,7.16)\\\\ムンバイのスラム街にある丘の住民たちを立ち退かせたみたい。//(7.16,9.106771)\\\\これは調査する価値があるかもしれないわ。"
+		}
+	}
+}

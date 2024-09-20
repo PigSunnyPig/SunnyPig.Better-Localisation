@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/tutorial/9000_handler/ds9250_guardcoined.sweetdialog?/ds9250_guardcoined_young_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds9250_guardcoined_young_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/tutorial/9000_handler/ds9250_guardcoined_young_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/tutorial/9000_handler/ds9250_guardcoined_young_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Good. He is distracted. Now's your chance.",
+			"fr": "//(0,0.4)\\\\Parfait.//(0.7180981,1.418098)\\\\Il est distrait.//(1.722393,31.72239)\\\\C'est le moment !",
+			"it": "//(0,30)\\\\Bene, si è distratto. È la tua occasione.",
+			"de": "//(0,30)\\\\Gut. Er ist abgelenkt. Das ist Ihre Chance.",
+			"es": "//(0,30)\\\\Bien. Está distraído. Es tu oportunidad.",
+			"ru": "//(0,1.631)\\\\Хорошо. Он отвлекся.//(1.631,31.631)\\\\Это твой шанс.",
+			"cn": "//(0,30)\\\\很好。你把他引开了。你的机会来了。",
+			"tc": "//(0,30)\\\\很好。你把他引開了。你的機會來了。",
+			"jp": "//(0,30)\\\\よし、注意を引けた。チャンスよ。"
+		}
+	}
+}

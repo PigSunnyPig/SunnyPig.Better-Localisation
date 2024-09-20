@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colombia/23000_hippo/23000_handler/ds23002_idmartinez.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds23002_idmartinez_diana_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colombia/23000_hippo/23000_handler/ds23002_idmartinez_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colombia/23000_hippo/23000_handler/ds23002_idmartinez_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,1.776317)\\\\That is Andrea Martínez.//(1.776317,5.294188)\\\\The Delgado cartel PR officer and public face.",
+					"fr": "//(0,1.533893)\\\\Voici Andrea Martínez.//(1.533893,3.760295)\\\\Elle gère la communication du cartel,//(3.760295,5.294188)\\\\interne et publique.",
+					"it": "//(0,1.28696)\\\\Quella è Andrea Martínez.//(1.28696,7.428432)\\\\Si occupa delle pubbliche relazioni del cartello dei Delgado, ed è il suo volto pubblico.",
+					"de": "//(0,1.914)\\\\Das ... ist Andrea Martínez.//(1.914,4.168)\\\\PR-Leiterin des Delgado-Kartells//(4.168,5.872589)\\\\und sein Aushängeschild.",
+					"es": "//(0,1.79)\\\\Esa es Andrea Martínez,//(1.79,6.21226)\\\\la cara y la encargada de relaciones públicas del cártel de Delgado.",
+					"ru": "//(0,1.648064)\\\\Это Андреа Мартинес,//(1.648064,3.630102)\\\\пресс-секретарь и официальный представитель//(3.630102,5.294188)\\\\картеля Дельгадо.",
+					"cn": "//(0,30)\\\\那个就是安德里亚·马丁内斯。戴尔加多黑帮的公关主管以及形象代言人。",
+					"tc": "//(0,30)\\\\那個就是安德里亞．馬丁尼斯。戴爾加多黑幫的公關主管以及形象代言人。",
+					"jp": "//(0,1.768)\\\\あれがアンドレア・マルチネス。//(1.768,31.768)\\\\デルガド・カルテルの広報担当で組織の対外的な代表者。"
+				}
+			}
+		]
+	}
+}

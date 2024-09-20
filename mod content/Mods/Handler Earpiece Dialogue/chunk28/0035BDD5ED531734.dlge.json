@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/rocky/dugong/46000_handler/ds46027_crestlast.sweetdialog?/ds46027_crestlast_grey_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds46027_crestlast_grey_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/rocky/dugong/46000_handler/ds46027_crestlast_grey_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/rocky/dugong/46000_handler/ds46027_crestlast_grey_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Now all that's left to deal with is... Noel Crest himself.",
+			"fr": "//(0,30)\\\\Bien, il ne reste plus qu'un problème à régler : Crest.",
+			"it": "//(0,2.708589)\\\\Ora non ci resta che occuparci...//(2.708589,32.70859)\\\\Di Noel Crest in persona.",
+			"de": "//(0,2.6)\\\\Jetzt muss man sich nur noch um ...//(2.6,32.6)\\\\Noel Crest selbst kümmern.",
+			"es": "//(0,30)\\\\Ya solo queda... ocuparse del propio Noel Crest.",
+			"ru": "//(0,30)\\\\А теперь нас ждет главная цель... Ноэль Крест.",
+			"cn": "//(0,30)\\\\现在剩下要处理的就是......诺埃尔·克雷斯。",
+			"tc": "//(0,30)\\\\現在只剩下一件事......諾爾·克雷斯特本人。",
+			"jp": "//(0,30)\\\\さあ、あと片づけないとならないのは... ノエル・クレスト本人だな。"
+		}
+	}
+}

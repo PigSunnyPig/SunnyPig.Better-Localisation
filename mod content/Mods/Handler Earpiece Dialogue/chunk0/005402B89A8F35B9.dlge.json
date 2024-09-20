@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/tutorial/9000_handler/ds9009_targetdown.sweetdialog?/ds9009_targetdown_young_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds9009_targetdown_young_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/tutorial/9000_handler/ds9009_targetdown_young_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/tutorial/9000_handler/ds9009_targetdown_young_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.522393)\\\\Your target is down.//(1.522393,31.52239)\\\\Now head towards an exit.",
+			"fr": "//(0,30)\\\\La cible a été abattue. Rejoignez une sortie.",
+			"it": "//(0,30)\\\\Bersaglio neutralizzato. Ora dirigiti verso una delle uscite.",
+			"de": "//(0,1.522393)\\\\Ihr Ziel wurde neutralisiert.//(1.522393,31.52239)\\\\Suchen Sie jetzt einen Ausgang.",
+			"es": "//(0,30)\\\\Objetivo eliminado. Ahora dirígete a una salida.",
+			"ru": "//(0,30)\\\\Цель уничтожена. А теперь поспеши к выходу.",
+			"cn": "//(0,1.37)\\\\目标已被消灭。//(1.37,31.37)\\\\现在前往出口。",
+			"tc": "//(0,30)\\\\目標已被消滅。現在前往出口。",
+			"jp": "//(0,30)\\\\ターゲットを排除。出口へ向かって。"
+		}
+	}
+}

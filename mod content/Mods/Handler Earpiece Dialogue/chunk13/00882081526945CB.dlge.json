@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32009_sp_spiderlilyescaping.sweetdialog?/ds32009_sp_spiderlilyescaping_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32009_sp_spiderlilyescaping_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32009_sp_spiderlilyescaping_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32009_sp_spiderlilyescaping_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Spider Lily is on the move, 47. She's heading for an exit. Stop her!",
+			"fr": "//(0,30)\\\\Spider Lily se déplace, 47. Arrêtez-la avant qu'elle ne s'enfuie !",
+			"it": "//(0,30)\\\\Giglio ragno è in movimento, 47. Si dirige verso l'uscita. Fermala!",
+			"de": "//(0,30)\\\\Die Spinnenlilie ist unterwegs, 47. Sie geht zu einem Ausgang. Halten Sie sie auf!",
+			"es": "//(0,30)\\\\Lirio Araña se ha puesto en marcha, 47. Se dirige hacia la salida. ¡Detenla!",
+			"ru": "//(0,30)\\\\Ликорис уходит, 47-й. Она направляется к выходу. Останови её!",
+			"cn": "//(0,30)\\\\47，蜘蛛兰开始行动了。她正在前往出口。拦住她！",
+			"tc": "//(0,30)\\\\彼岸花展開了行動，47。她正在朝出口前去，阻止她！",
+			"jp": "//(0,30)\\\\ヒガンバナが移動中よ、47。出口に向かってる。止めて！"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/miami/21000_flamingo/21000_handler/ds21004_sierraknoxdown.sweetdialog?/ds21004_sierraknoxdown_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds21004_sierraknoxdown_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/miami/21000_flamingo/21000_handler/ds21004_sierraknoxdown_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/miami/21000_flamingo/21000_handler/ds21004_sierraknoxdown_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Target down. Next up, Robert Knox.",
+			"fr": "//(0,30)\\\\Cible éliminée. Suivante : Robert Knox.",
+			"it": "//(0,30)\\\\Bersaglio eliminato. E ora, Robert Knox.",
+			"de": "//(0,30)\\\\Ziel neutralisiert. Nächstes Ziel: Robert Knox.",
+			"es": "//(0,30)\\\\Objetivo abatido. El siguiente, Robert Knox.",
+			"ru": "//(0,30)\\\\Цель уничтожена. Следующий — Роберт Нокс.",
+			"cn": "//(0,30)\\\\目标已被消灭。下一个是罗伯特·诺克斯。",
+			"tc": "//(0,30)\\\\目標已被消滅。下一個是羅伯特．諾克斯。",
+			"jp": "//(0,30)\\\\ターゲットダウン。次、ロバート・ノックス。"
+		}
+	}
+}

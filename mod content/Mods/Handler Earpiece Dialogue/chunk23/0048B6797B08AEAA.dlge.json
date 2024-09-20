@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_bull/8000_handler/ds8020_oppinterpolbriefing.sweetdialog?/ds8020_oppinterpolbriefing_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds8020_oppinterpolbriefing_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_bull/8000_handler/ds8020_oppinterpolbriefing_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_bull/8000_handler/ds8020_oppinterpolbriefing_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.064785)\\\\Penelope Graves is still new to this outfit,//(3.064785,6.5)\\\\and it looks like Rose is going to test her dedication to the cause.//(6.5,11.7)\\\\He's arranged for one of the communications technicians to act as an outside agent.//(11.7,15.7)\\\\The tech is supposed to show her an Interpol badge and escort her to the slurry pit,//(15.7,17.9)\\\\asking her to betray the militia.//(17.9,47.9)\\\\Might I suggest a last minute recasting, 47?",
+			"fr": "//(0,6.8)\\\\Penelope Graves est encore novice et on dirait que Rose va tester sa loyauté.//(6.8,11.78)\\\\Il a demandé à un technicien de la communication de jouer les agents externes.//(11.78,18.45)\\\\Il doit lui montrer un insigne d'Interpol, l'emmener à la fosse à lisier et lui demander de trahir la milice.//(18.45,22.59055)\\\\Que diriez-vous de le remplacer, 47 ?",
+			"it": "//(0,3.064785)\\\\Penelope Graves si è unita di recente all'organizzazione,//(3.064785,6.8)\\\\e sembra che Rose voglia mettere alla prova la sua dedizione alla causa.//(6.8,12)\\\\Ha chiesto a un tecnico delle comunicazioni di spacciarsi per un agente esterno.//(12,15.619)\\\\L'uomo dovrà mostrarle un distintivo dell'Interpol, scortarla alla fossa dei liquami//(15.619,18.4)\\\\e chiederle di tradire la milizia.//(18.4,48.4)\\\\Posso suggerire un cambio d'attore dell'ultimo minuto, 47?",
+			"de": "//(0,2.944785)\\\\Penelope Graves ist noch neu in dieser Zelle//(2.944785,6.6)\\\\und wie es aussieht, will Rose ihre Loyalität auf die Probe stellen.//(6.6,9.5)\\\\Er hat einen seiner Kommunikationstechniker gebeten,//(9.5,11.6)\\\\sich als Interpol-Agent auszugeben,//(11.6,18.2)\\\\um Graves zum Absetzbecken zu bringen und dort zum Überlaufen zu bewegen.//(18.2,48.2)\\\\Wäre das nicht ein Job für Sie, 47?",
+			"es": "//(0,6.5)\\\\Penelope Graves es nueva en el grupo y parece ser que Rose va a poner a prueba su dedicación a la causa.//(6.5,11.5)\\\\Le ha encargado a uno de los técnicos de comunicaciones que haga de agente externo.//(11.5,18)\\\\El técnico debe enseñarle la placa de la Interpol y llevarla al foso de lodo para que traicione a la milicia.//(18,48)\\\\¿Listo para un cambio de reparto de última hora, 47?",
+			"ru": "//(0,3.55)\\\\Пенелопа Грейвс здесь новое лицо, и похоже,//(3.55,6.9)\\\\что Роуз собирается проверить ее преданность.//(6.9,12)\\\\По его указанию, один из техников по связи выступит в роли внешнего агента.//(12,14.05)\\\\Техник должен будет показать значок работника Интерпола//(14.05,18.17632)\\\\и сопроводить ее к компостной яме, где попросит ее предать группировку.//(18.17632,48.17632)\\\\Могу ли я предложить заменить действующее лицо в последний момент, 47-й?",
+			"cn": "//(0,6.6)\\\\佩内洛普·格雷夫斯刚来不久，而罗斯似乎在检验她的忠心。//(6.6,11.7)\\\\他安排了一名通信技师假扮成外来的特工。//(11.7,17.8)\\\\这名技师会向她出示国际刑警的徽章并带她前往泥浆池附近，要求她背叛民兵组织。//(17.8,47.8)\\\\我们上演一次悬崖勒马如何，47？",
+			"tc": "//(0,6.7)\\\\佩內洛普．格拉夫斯剛來不久，而羅斯似乎在測試她的忠誠度。//(6.7,11.8)\\\\他安排了一名通訊技師假扮成外來的特務。//(11.8,18.2)\\\\這名技師會向她出示國際刑警的徽章並帶她前往泥漿池附近，要求她背叛民兵組織。//(18.2,48.2)\\\\我們來一次臨時換角如何，47？",
+			"jp": "//(0,6.989616)\\\\ペネロペ・ グレイブスは 加入したばかり だから、 ローズは 彼女を 試そうと して いるようね。 通信技師に、//(6.989616,12.58131)\\\\外部の エージェント役を やらせるみたい。 その技師は 彼女に インターポールの バッジを 見せてから、//(12.58131,19.57092)\\\\汚水池まで 連れて 行き、 傭兵たちを 裏切るよう彼女に 頼む流れよ。 あなたが 代役を 務めて みるのは//(19.57092,21.46977)\\\\どうかしら。"
+		}
+	}
+}

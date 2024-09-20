@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/cutscenes_s03/m01_gecko/m01_gecko_flyin.sweetdialog?/m01_gecko_flyin_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "m01_gecko_flyin_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/cutscenes_s03/m01_gecko/m01_gecko_flyin_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/cutscenes_s03/m01_gecko/m01_gecko_flyin_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,3.092393)\\\\Welcome to Dubai, 47.",
+			"fr": "//[DIANA]\\\\//(0,30)\\\\Bienvenue à Dubaï, 47.",
+			"it": "//[DIANA]\\\\//(0,30)\\\\Benvenuto a Dubai, 47.",
+			"de": "//[DIANA]\\\\//(0,30)\\\\Willkommen in Dubai, 47.",
+			"es": "//[DIANA]\\\\//(0,30)\\\\Bienvenido a Dubái, 47.",
+			"ru": "//[DIANA]\\\\//(0,30)\\\\Добро пожаловать в Дубай, 47-й.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\欢迎来到迪拜，47。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\歡迎來到杜拜，47。",
+			"jp": "//[DIANA]\\\\//(0,30)\\\\ドバイへようこそ、47。"
+		}
+	}
+}

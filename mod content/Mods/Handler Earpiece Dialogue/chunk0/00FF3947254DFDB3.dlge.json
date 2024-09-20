@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/golden/gecko/40000_handler/ds40010_guardoppreveal.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds40010_guardoppreveal_grey_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/gecko/40000_handler/ds40010_guardoppreveal_grey_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/gecko/40000_handler/ds40010_guardoppreveal_grey_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,2.340068)\\\\Stuyvesant is expecting a replacement guard.//(2.340068,4.033821)\\\\If you can locate him,//(4.033821,6.895965)\\\\we should be able to get within strangling distance//(6.895965,8.6)\\\\of the little worm.",
+					"fr": "//(0,3.5)\\\\Stuyvesant attend un nouveau garde.//(3.5,8.6)\\\\Si tu arrives à le trouver, on pourra s'approcher suffisamment pour étrangler cette petite fouinasse.",
+					"it": "//(0,3.444785)\\\\Stuyvesant sta aspettando un sostituto della sua guardia.//(3.444785,5.037178)\\\\Se riuscissi a localizzarlo,//(5.037178,10.58626)\\\\dovremmo essere in grado di arrivare abbastanza vicini a quel vermiciattolo.",
+					"de": "//(0,1.69912)\\\\Stuyvesant wartet auf Ersatz für seinen//(1.69912,3.100155)\\\\derzeitigen Leibwächter.//(3.100155,4.775221)\\\\Wenn man ihn aufspürt,//(4.775221,6.799406)\\\\sollte man nah genug an den kleinen Wurm//(6.799406,8.6)\\\\herankommen können, um ihm den Hals umzudrehen.",
+					"es": "//(0,3.1)\\\\Stuyvesant está esperando al guardaespaldas sustituto.//(3.5,8.6)\\\\Si lo localizas, ese gusano se nos debería poner a distancia de estrangulamiento.",
+					"ru": "//(0,2.340491)\\\\Стейвесант ждет прибытия нового телохранителя.//(2.340491,5.893374)\\\\Если найдешь его, мы подберемся к червяку так близко,//(5.893374,35.89338)\\\\что сможем раздавить его.",
+					"cn": "//(0,3.53)\\\\斯图维森特在等某个新来的守卫。//(3.53,33.53)\\\\如果能找到那个守卫的话，应该就能找到那条小虫子的位置。",
+					"tc": "//(0,3.5)\\\\史岱文森正在等一名替代警衛。//(3.5,33.5)\\\\如果你能找到他，我們應該能夠接近並勒死這個鼠輩。",
+					"jp": "//(0,3.025)\\\\ストイフェサントは警備の交代要員を待っている。//(3.025,33.025)\\\\彼を見つけることができれば、奴の首に手をかけられる距離に近づけそうだ。"
+				}
+			}
+		]
+	}
+}

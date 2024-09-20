@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32019_sp_craneactivated.sweetdialog?/ds32019_sp_craneactivated_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32019_sp_craneactivated_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32019_sp_craneactivated_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32019_sp_craneactivated_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Hm, what are you up to, 47?",
+			"fr": "//(0,30)\\\\À quoi pensez-vous, 47 ?",
+			"it": "//(0,30)\\\\Ehm... cos'hai intenzione di fare, 47?",
+			"de": "//(0,30)\\\\Hm, was haben Sie jetzt vor, 47?",
+			"es": "//(0,30)\\\\Mmm... ¿Qué estás tramando?",
+			"ru": "//(0,30)\\\\Хм. Что ты задумал, 47-й?",
+			"cn": "//(0,30)\\\\嗯，47，你打算干嘛？",
+			"tc": "//(0,30)\\\\嗯，你在做什麼，47？",
+			"jp": "//(0,30)\\\\ふむ、何をするつもり、47？"
+		}
+	}
+}

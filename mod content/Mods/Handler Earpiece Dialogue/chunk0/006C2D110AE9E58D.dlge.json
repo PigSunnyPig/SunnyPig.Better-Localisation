@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/tutorial/9000_handler/ds9266_opplost.sweetdialog?/ds9266_opplost_young_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds9266_opplost_young_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/tutorial/9000_handler/ds9266_opplost_young_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/tutorial/9000_handler/ds9266_opplost_young_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Your actions have changed the mission conditions. You may need to revise your plans.",
+			"fr": "//(0,2.362883)\\\\Vos actions ont changé le cours de la mission.//(2.362883,32.36288)\\\\Vous aurez besoin de revoir vos plans.",
+			"it": "//(0,30)\\\\Le tue azioni hanno cambiato le condizioni della missione. Potresti dover ripianificare.",
+			"de": "//(0,2.6)\\\\Die Missionsbedingungen haben sich infolge Ihrer Handlungen geändert.//(2.6,32.6)\\\\Möglicherweise müssen Sie Ihre Pläne überdenken.",
+			"es": "//(0.1,2.713)\\\\Tus acciones han modificado las condiciones de la misión.//(2.713,32.713)\\\\Puede que tengas que cambiar tus planes.",
+			"ru": "//(0,2.243)\\\\Твои действия изменили положение дел.//(2.243,32.243)\\\\Тебе придется пересмотреть свои планы.",
+			"cn": "//(0,2.468098)\\\\你的行动改变了任务的条件。//(2.468098,32.4681)\\\\你可能需要重新制定你的计划。",
+			"tc": "//(0,30)\\\\你的行動改變了任務的條件。你可能需要重新制定你的計畫。",
+			"jp": "//(0,30)\\\\あなたの行動でミッションの状況が変わったわ。やり方を変えるのよ。"
+		}
+	}
+}

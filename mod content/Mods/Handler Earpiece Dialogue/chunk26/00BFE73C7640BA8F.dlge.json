@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/italy/10000_copperhead/10000_handler/ds10016_robotbriefing.sweetdialog?/ds10016_robotbriefing_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds10016_robotbriefing_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/10000_copperhead/10000_handler/ds10016_robotbriefing_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/10000_copperhead/10000_handler/ds10016_robotbriefing_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.31908)\\\\With a little tampering, the prop teeth can be made lethal.//(3.31908,7.333865)\\\\And apparently, Dino Bosco does his own stunts.//(7.333865,37.33387)\\\\Always good to see an actor willing to die for his art.",
+			"fr": "//(0,3.35)\\\\Donc, si on les trafique un petit peu, les fausses dents peuvent devenir mortelles.//(3.35,6.9)\\\\Et visiblement, Bosco réalise ses propres cascades.//(6.9,36.9)\\\\C'est toujours beau de voir un acteur mourir pour son art.",
+			"it": "//(0,3.480982)\\\\Con una piccola modifica i denti finti possono diventare letali.//(3.480982,7.166257)\\\\E a quanto pare Dino Bosco non usa controfigure per le scene pericolose.//(7.166257,37.16626)\\\\Fa sempre piacere vedere un attore rischiare la propria vita sulla scena.",
+			"de": "//(0,3.812883)\\\\Mit kleinen Änderungen könnten die falschen Zähne tödlich werden.//(3.812883,7.257668)\\\\Und offenbar macht Dino Bosco seine Stunts selber.//(7.257668,37.25767)\\\\Es ist immer gut, wenn ein Schauspieler bereit ist, für seine Kunst zu sterben.",
+			"es": "//(0,3.14)\\\\Con un poco de nuestra ayuda, los dientes de atrezo pueden convertirse en una trampa mortal.//(3.14,7)\\\\Y al parecer Dino Bosco hace sus escenas de acción sin doble.//(7,37)\\\\Siempre es agradable ver a un actor dispuesto a morir por su arte.",
+			"ru": "//(0,3.444785)\\\\Путем небольшого вмешательства фальшивые зубы могут стать смертельными.//(3.444785,7.2)\\\\И очевидно, Дино Боско выполняет свои трюки сам.//(7.2,37.2)\\\\Всегда приятно видеть актера, который готов умереть за свое искусство.",
+			"cn": "//(0,3.3)\\\\只要稍加摆弄，道具假牙也会十分致命。//(3.3,7.2)\\\\很明显的是，迪诺·博斯科坚持不用特技替身演员。//(7.2,37.2)\\\\愿意为了艺术“献身”的演员真是了不起。",
+			"tc": "//(0,3.3)\\\\只要稍加擺弄，道具假牙也會十分致命。//(3.3,33.3)\\\\很明顯的是，迪諾．博斯科堅持不用特技替身演員。願意為了藝術「獻身」的演員真是了不起。",
+			"jp": "//(0,6.396128)\\\\ちょっとした細工で、 作り物の 歯も 危険な武器に なるわ。 しかもディーノ・ボスコは 自分で スタントを//(6.396128,10.39371)\\\\こなしてる。 芸術に 命を かけるなんて、 素敵ね。"
+		}
+	}
+}

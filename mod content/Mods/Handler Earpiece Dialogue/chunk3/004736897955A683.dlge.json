@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/bulldog/41000_handler/ds41078_handlerspotemmaingreenhouse.sweetdialog?/ds41078_handlerspotemmaingreenhouse_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41078_handlerspotemmaingreenhouse_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/bulldog/41000_handler/ds41078_handlerspotemmaingreenhouse_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/bulldog/41000_handler/ds41078_handlerspotemmaingreenhouse_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Emma Carlisle in the greenhouse. How curious.",
+			"fr": "//(0,30)\\\\Emma Carlisle dans la serre. Curieux...",
+			"it": "//(0,30)\\\\Emma Carlisle nella serra. Che strano.",
+			"de": "//(0,2.340491)\\\\Emma Carlisle ist im Gewächshaus.//(2.340491,32.34049)\\\\Wie seltsam.",
+			"es": "//(0,30)\\\\Emma Carlisle en el invernadero. Qué curiosos.",
+			"ru": "//(0,30)\\\\Эмма Карлайл в оранжерее. Любопытно.",
+			"cn": "//(0,30)\\\\艾玛·卡莱尔在温室里。有意思。",
+			"tc": "//(0,30)\\\\艾瑪‧卡萊爾在溫室裡。真有趣。",
+			"jp": "//(0,30)\\\\エマ・カーライルが温室にいるわね。興味深いわ。"
+		}
+	}
+}

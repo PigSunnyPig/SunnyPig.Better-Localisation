@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/bulldog/41000_handler/ds41069_handlerzacharysdiaryhandwriting.sweetdialog?/ds41069_handlerzacharysdiaryhandwriting_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41069_handlerzacharysdiaryhandwriting_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/bulldog/41000_handler/ds41069_handlerzacharysdiaryhandwriting_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/bulldog/41000_handler/ds41069_handlerzacharysdiaryhandwriting_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\And, 47, the handwriting doesn’t match the suicide letter in his room, proving he didn't write it himself.",
+			"fr": "//(0,5.1)\\\\47, l'écriture n'est pas la même que celle de la lettre de suicide dans sa chambre,//(5.1,35.1)\\\\ce qui signifie qu'il ne l'a pas écrite lui-même.",
+			"it": "//(0,30)\\\\E, 47, la grafia non combacia con il biglietto d'addio nella sua camera, è la prova che non l'ha scritto lui.",
+			"de": "//(0,1.006196)\\\\Und, 47://(1.006196,5.03908)\\\\Die Handschrift passt nicht zum Abschiedsbrief in seinem Zimmer,//(5.03908,35.03908)\\\\womit bewiesen wäre, dass er ihn nicht verfasst hat.",
+			"es": "//(0,30)\\\\Además, 47, la letra no coincide con la de la carta de suicidio de Zachary. Eso demuestra que no la escribió él.",
+			"ru": "//(0,4)\\\\Кстати, 47-й, обрати внимание: почерк в дневнике//(4,6)\\\\и в предсмертной записке разный.//(6,36)\\\\Записку составил не он.",
+			"cn": "//(0,5.2)\\\\还有，47，日记的字迹与他房间里发现的自杀字条字迹不符，//(5.2,35.2)\\\\看来并非他本人所写。",
+			"tc": "//(0,5.1)\\\\而且，47，這筆跡並不吻合他房間中的遺書，//(5.1,35.1)\\\\這代表這並不是他自己寫的。",
+			"jp": "//(0,5.175)\\\\それに、47、部屋にあった遺書と筆跡が一致しないので、//(5.175,35.175)\\\\遺書は自分で書いたものではないことが証明されたわ。"
+		}
+	}
+}

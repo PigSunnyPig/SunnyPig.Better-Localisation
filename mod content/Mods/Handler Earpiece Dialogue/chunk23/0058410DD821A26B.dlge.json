@@ -1,0 +1,68 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/12500_white_spider/12500_rabies/12500_handler/ds12516_confirmation_alternatetarget.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds12516_confirmation_alternatetarget_diana_ws_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12516_confirmation_alternatetarget_diana_ws_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12516_confirmation_alternatetarget_diana_ws_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Wait... Okay, target kill confirmed. That wasn't the one I was providing you intel on though, 47.",
+					"fr": "//(0,30)\\\\Attendez... Oui, neutralisation de la cible confirmée. Mais ce n'était pourtant pas celle que je vous avais demandé, 47.",
+					"it": "//(0,30)\\\\Un attimo... Sì, confermo l'uccisione di un bersaglio, ma non era quello che ti stavo indicando, 47.",
+					"de": "//(0,30)\\\\Moment ... Okay, Ziel neutralisiert. Allerdings nicht das, über das ich Sie informiert habe, 47.",
+					"es": "//(0,30)\\\\Un momento... Sí, objetivo eliminado. Pero ese no era sobre el que estaba informando, 47.",
+					"ru": "//(0,30)\\\\Погоди... хорошо, подтверждаю убийство цели. Но мои данные указывали на другого человека, 47-й.",
+					"cn": "//(0,30)\\\\稍等...好的，目标确认被消灭。不过那不是我提供的情报目标，47。",
+					"tc": "//(0,30)\\\\稍等......好的，目標確認被消滅。那不是我提供的情報目標，47。",
+					"jp": "//(0,30)\\\\待って... オーケー、 ターゲット排除。 指定した相手では ないけど、 問題ないわ、 47。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds12516_confirmation_alternatetarget_diana_ws_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12516_confirmation_alternatetarget_diana_ws_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12516_confirmation_alternatetarget_diana_ws_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Ah, okay... Well, that was a target as well, I suppose.",
+					"fr": "//(0,30)\\\\Oh, bien... C'était sûrement aussi une cible, j'imagine.",
+					"it": "//(0,30)\\\\Ah, ok... In effetti, anche quello era un bersaglio.",
+					"de": "//(0,30)\\\\Ah, okay ... gut, das war anscheinend auch ein Ziel.",
+					"es": "//(0,30)\\\\Bueno, sí... Ese también era un objetivo.",
+					"ru": "//(0,30)\\\\А, ладно... Похоже, это тоже была твоя цель.",
+					"cn": "//(0,30)\\\\啊，好吧...嗯，我想那也是一名目标吧。",
+					"tc": "//(0,30)\\\\啊，好吧......嗯，我想那也是一名目標吧。",
+					"jp": "//(0,30)\\\\えっと、 大丈夫... 標的だったようね。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds12516_confirmation_alternatetarget_diana_ws_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12516_confirmation_alternatetarget_diana_ws_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12516_confirmation_alternatetarget_diana_ws_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Skipping ahead, are we? Target killed.",
+					"fr": "//(0,30)\\\\On prend de l'avance, 47 ? Cible neutralisée.",
+					"it": "//(0,30)\\\\Vuoi fare di testa tua, eh? Bersaglio ucciso.",
+					"de": "//(0,30)\\\\Sie greifen mir vor, was? Zielperson ausgeschaltet.",
+					"es": "//(0,30)\\\\Quieres adelantar tarea, ¿verdad? Objetivo eliminado.",
+					"ru": "//(0,30)\\\\Бежим впереди паровоза? Цель убита.",
+					"cn": "//(0,30)\\\\进展顺利。目标已击杀。",
+					"tc": "//(0,30)\\\\進展順利。目標已擊殺。",
+					"jp": "//(0,30)\\\\順番飛ばしかしら？ 標的を 排除。"
+				}
+			}
+		]
+	}
+}

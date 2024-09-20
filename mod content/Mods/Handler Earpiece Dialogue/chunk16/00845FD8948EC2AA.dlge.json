@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_skunk/27000_handler/ds27006_bothtargetsdown2.sweetdialog?/ds27006_bothtargetsdown2_grey_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds27006_bothtargetsdown2_grey_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_skunk/27000_handler/ds27006_bothtargetsdown2_grey_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_skunk/27000_handler/ds27006_bothtargetsdown2_grey_002.animset].pc_animset",
+		"languages": {
+			"en": "//[GREY]\\\\//(0,5.3125)\\\\All that remains now is to find the information we came for and then get out of here.",
+			"fr": "//[GREY]\\\\//(0,2.754441)\\\\Il ne reste plus qu'à trouver les informations que//(2.754441,5.3125)\\\\nous sommes venus chercher et filer d'ici.",
+			"it": "//[GREY]\\\\//(0,2.315025)\\\\Adesso non ci resta che recuperare le informazioni//(2.315025,5.3125)\\\\per le quali siamo venuti e andarcene da qui.",
+			"de": "//[GREY]\\\\//(0,1.2)\\\\Jetzt müssen wir nur noch//(1.2,4.2)\\\\die gesuchten Informationen finden//(4.2,5.394221)\\\\und dann von hier verschwinden.",
+			"es": "//[GREY]\\\\//(0,2.8)\\\\Lo único que resta ahora es encontrar la información//(2.8,5.3125)\\\\que vinimos a buscar y salir de aquí.",
+			"ru": "//[GREY]\\\\//(0,1.766433)\\\\Теперь осталось найти сведения,//(1.766433,3.532865)\\\\за которыми мы пришли,//(3.532865,5.3125)\\\\и убраться отсюда.",
+			"cn": "//[GREY]\\\\//(0,30)\\\\现在我们只需要找到情报就能离开了。",
+			"tc": "//[GREY]\\\\//(0,30)\\\\現在我們只需要找到情報就可以離開了。",
+			"jp": "//[GREY]\\\\//(0,30)\\\\あとは目的の情報を見つけてここから出るだけだ。"
+		}
+	}
+}

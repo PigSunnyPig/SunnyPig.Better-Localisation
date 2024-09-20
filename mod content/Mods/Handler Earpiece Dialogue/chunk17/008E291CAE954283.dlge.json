@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25070_maelstromshahmeetingid.sweetdialog?/ds25070_maelstromshahmeetingid_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25070_maelstromshahmeetingid_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25070_maelstromshahmeetingid_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25070_maelstromshahmeetingid_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.86908)\\\\47, Rangan is meeting someone on a barge near the tower.//(3.86908,5.263423)\\\\I believe it's...//(5.263423,7.743914)\\\\Yes, it's The Maelstrom, 47.//(7.743914,8.843914)\\\\Now's your shot.",
+			"fr": "//(0,2.028589)\\\\47, Rangan a rendez-vous avec quelqu'un//(2.028589,3.792)\\\\sur une péniche près de la tour.//(3.792,7.895)\\\\Je crois que... Oui, c'est bien le Maelström, 47.//(7.895,10.84535)\\\\Ne manquez pas cette occasion.",
+			"it": "//(0,3.5)\\\\47, Rangan ha un appuntamento con qualcuno su una chiatta vicino alla torre.//(3.5,5.048755)\\\\Credo proprio che sia...//(5.048755,7.561148)\\\\Sì, è Maelstrom, 47.//(7.561148,8.811148)\\\\Adesso tocca a te.",
+			"de": "//(0,2.328589)\\\\47, Rangan trifft sich mit jemandem//(2.328589,3.96908)\\\\auf einem Kahn beim Turm.//(3.96908,7.81)\\\\Ich glaube, es ist ... Ja, es ist der Maelstrom, 47.//(7.81,10.71006)\\\\Jetzt haben Sie Ihre Chance.",
+			"es": "//(0,4)\\\\47, Rangan se va a reunir con alguien en una barcaza, cerca de la torre.//(4,7.7)\\\\Creo que es... Sí, es el Torbellino, 47.//(7.7,9.713618)\\\\Es tu oportunidad.",
+			"ru": "//(0,4.059189)\\\\47-й, Ранжан встречается с кем-то на барже возле башни.//(4.059189,7.78968)\\\\Полагаю, это... Да, это Вихрь.//(7.78968,8.88968)\\\\Действуй, 47-й.",
+			"cn": "//(0,5)\\\\47，朗甘正在高塔旁边的驳船里与某个人见面。我相信那个人就是......//(5,8.774499)\\\\没错，那个人就是大漩涡，47。你的机会来了。",
+			"tc": "//(0,5)\\\\47，朗甘正在高塔旁的接駁船與某個人見面。我相信那個人就是......//(5,8.7745)\\\\沒錯，那個人就是大漩渦，47。你的機會來了。",
+			"jp": "//(0,5.077)\\\\47、ランガンがタワー近くの小型船で誰かと会ってるわ。あれは...//(5.077,8.7745)\\\\そうだわ、メイルストロムよ、47。今がチャンスよ。"
+		}
+	}
+}

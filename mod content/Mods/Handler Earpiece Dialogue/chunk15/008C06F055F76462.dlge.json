@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_magpie/29000_handler/ds29042_targetsdown47hasnokillswitch.sweetdialog?/ds29042_targetsdown47hasnokillswitch_grey_003.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds29042_targetsdown47hasnokillswitch_grey_003",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_magpie/29000_handler/ds29042_targetsdown47hasnokillswitch_grey_003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_magpie/29000_handler/ds29042_targetsdown47hasnokillswitch_grey_003.animset].pc_animset",
+		"languages": {
+			"en": "//[GREY]\\\\//(0,3.010491)\\\\Yes, that might just work.//(3.010491,33.01049)\\\\Search one of the twins, 47.",
+			"fr": "//[GREY]\\\\//(0,30)\\\\Oui, ça devrait marcher. Fouillez une des jumelles.",
+			"it": "//[GREY]\\\\//(0,3.21)\\\\Sì, potrebbe funzionare.//(3.21,5.631361)\\\\Perquisisci una delle gemelle, 47.",
+			"de": "//[GREY]\\\\//(0,2.646399)\\\\Ja, das könnte wohl klappen.//(2.646399,5.10689)\\\\Such einen der Zwillinge, 47.",
+			"es": "//[GREY]\\\\//(0,2.998)\\\\Sí, eso podría funcionar.//(2.998,6.294362)\\\\Registra a una de las gemelas, 47.",
+			"ru": "//[GREY]\\\\//(0,30)\\\\Да, это должно сработать. Обыщи одну из сестер, 47-й.",
+			"cn": "//[GREY]\\\\//(0,30)\\\\不错，这个应该会有用。找找孪生姐妹的其中一人，47。",
+			"tc": "//[GREY]\\\\//(0,30)\\\\不錯，這個應該會有用。找孿生姐妹的其中一人，47。",
+			"jp": "//[GREY]\\\\//(0,30)\\\\そうだ、それしかない。双子の片割れを探せ、47。"
+		}
+	}
+}

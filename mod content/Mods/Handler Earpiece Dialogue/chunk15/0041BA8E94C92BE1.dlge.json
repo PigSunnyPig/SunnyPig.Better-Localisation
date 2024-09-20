@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_magpie/29000_handler/ds29044_targetsdown_47triggershint_b.sweetdialog?/ds29044_targetsdown_47triggershint_b_diana_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds29044_targetsdown_47triggershint_b_diana_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_magpie/29000_handler/ds29044_targetsdown_47triggershint_b_diana_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_magpie/29000_handler/ds29044_targetsdown_47triggershint_b_diana_002.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,1.865104)\\\\Hm. Armed with that,//(1.865104,5.2)\\\\I bet you could make the Constant come quietly.//(5.2,7.027001)\\\\Good thinking, 47.",
+			"fr": "//[DIANA]\\\\//(0,3.747058)\\\\Hmm. Avec ça, le Constant devrait vous suivre sans//(3.747058,5.275551)\\\\faire de vagues.//(5.275551,6.918375)\\\\Bien vu, 47.",
+			"it": "//[DIANA]\\\\//(0,2.66)\\\\Mmm... con quello,//(2.66,5.57)\\\\scommetto che la Costante non farà resistenza.//(5.57,6.918375)\\\\Ottima idea, 47.",
+			"de": "//[DIANA]\\\\//(0,3.5)\\\\Hm. Wenn man damit bewaffnet ist, würde ich wetten,//(3.5,5.428196)\\\\dass die Konstante ohne Gegenwehr mitkommt.//(5.428196,7.152491)\\\\Gut mitgedacht, 47.",
+			"es": "//[DIANA]\\\\//(0,3.232491)\\\\Mmm. Con eso, seguro que consigues convencer al//(3.232491,5.354812)\\\\Constante para que te acompañe.//(5.354812,6.918375)\\\\Buena idea, 47.",
+			"ru": "//[DIANA]\\\\//(0,2.785548)\\\\Хм. Думаю, увидав эту штуку,//(2.785548,4.914677)\\\\Константа сопротивляться не станет.//(4.914677,5.83891)\\\\Хорошая идея,//(5.83891,6.918375)\\\\47-й.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\嗯。有了这个，我想\"永恒常量\"肯定会乖乖听话了。47，这个办法好。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\嗯。有了這個，我想「常任」肯定會乖乖聽話。47，這個辦法好。",
+			"jp": "//[DIANA]\\\\//(0,30)\\\\ふむ、それを持っていれば、コンスタントは大人しく従うはずよ。よくやったわ、47。"
+		}
+	}
+}

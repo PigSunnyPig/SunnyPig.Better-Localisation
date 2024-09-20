@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/miami/21700_cottonmouth/21700_handler/ds21703_exitupdate.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds21703_exitupdate_diana_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/miami/21700_cottonmouth/21700_handler/ds21703_exitupdate_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/miami/21700_cottonmouth/21700_handler/ds21703_exitupdate_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,6.7)\\\\47, I’m currently hacking into Krish’s phone records... and he seems to have made several calls to Vermont...//(6.7,10.6)\\\\Neither he or Atlantide are located anywhere near there.//(10.6,12.92915)\\\\I will get back to you as soon as I know more...//(12.92915,15.60569)\\\\I think there is more to this than meets the eye...",
+					"fr": "//(0,4.23908)\\\\47, j'ai réussi à accéder à l'historique des appels de Krish,//(4.23908,10.68485)\\\\et il en a passé beaucoup vers le Vermont, alors que ni lui ni Atlantide n'en sont proches.//(10.68485,12.96905)\\\\Je reviens vers vous dès que j'en sais plus.//(12.96905,17.88623)\\\\Je pense que nous avons ici quelqu'un qui cache bien son jeu...",
+					"it": "//(0,3.932883)\\\\47, mi sono impossessata dei tabulati telefonici di Krish...//(3.932883,6.62957)\\\\sono state fatte moltissime chiamate in Vermont,//(6.62957,10.7)\\\\ma né lui né Atlantide hanno sede laggiù.//(10.7,13.1)\\\\Ti avviserò non appena scopro qualcosa in più.//(13.1,16.65743)\\\\Credo che sotto la superficie ci sia molto più di quanto riusciamo a immaginare.",
+					"de": "//(0,4)\\\\47, ich hacke mich gerade in Krishs Verbindungsnachweise ...//(4,6.512883)\\\\und er scheint mehrfach nach Vermont telefoniert zu haben ...//(6.512883,8.353374)\\\\Doch weder er noch Atlantide//(8.353374,10.8)\\\\sind irgendwo in der Nähe ansässig.//(10.8,11.7)\\\\Ich melde mich wieder,//(11.7,13.2)\\\\sobald ich mehr darüber weiß ...//(13.2,14.14112)\\\\Ich glaube, es steckt mehr hinter dieser Sache,//(14.14112,15.60569)\\\\als man vielleicht vermutet ...",
+					"es": "//(0,1.931261)\\\\47, estoy pirateando los registros telefónicos//(1.931261,5.093552)\\\\de Krish... Parece que ha hecho varias llamadas a//(5.093552,7.950552)\\\\Vermont... Ni Atlantide ni él se encuentran cerca//(7.950552,9.281106)\\\\de esa región.//(9.281106,12.13811)\\\\Volveré a llamarte en cuanto descubra algo más...//(12.13811,15.60569)\\\\Creo que esto es más gordo de lo que parece.",
+					"ru": "//(0.5,4.064785)\\\\47-й, я сейчас изучаю записи телефонных звонков Криша...//(4.064785,6.544824)\\\\Похоже, он несколько раз звонил в Вермонт...//(6.544824,10.68266)\\\\Но его дом и офис «Атлантид» находятся вовсе не там.//(10.68266,12.64054)\\\\Я сразу сообщу, как только узнаю подробности...//(12.64054,15.60569)\\\\Похоже, дело серьезнее, чем я себе представляла...",
+					"cn": "//(0,3.524386)\\\\47，我正在破解克里什的通话记录......//(3.524386,6.833323)\\\\他似乎打了几通电话去佛蒙特州......//(6.833323,13)\\\\他本人以及亚特兰蒂公司里那里都很远。我一有更多情报就会通知你......//(13,15.60569)\\\\我感觉此事另有蹊跷......",
+					"tc": "//(0,6.7)\\\\47，我們現在正在侵入克里西的電話紀錄......看來他向維蒙特打了許多電話......//(6.7,13)\\\\他和亞特蘭提德都不在那裡。我找到更多資訊時會立即告訴你......//(13,15.60569)\\\\我看這件事沒有這麼簡單......",
+					"jp": "//(0,3.758646)\\\\47、現在クリッシュの通話記録をハッキングしているわ...//(3.758646,6.85)\\\\どうやらバーモントに数回、電話をかけているようね...//(6.85,10.65)\\\\クリッシュもアトランティードもその近くでは目撃されていないわ。//(10.65,13)\\\\詳細が判明次第、また報告するけれど...//(13,15.60569)\\\\他にも何か隠されているような気がするわ..."
+				}
+			}
+		]
+	}
+}

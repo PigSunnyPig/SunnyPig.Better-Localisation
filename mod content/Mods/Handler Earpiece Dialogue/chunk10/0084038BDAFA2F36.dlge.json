@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/opulent/34000_stingray/34000_handler/ds34019_spaoppconclude.sweetdialog?/ds34019_spaoppconclude_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds34019_spaoppconclude_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/opulent/34000_stingray/34000_handler/ds34019_spaoppconclude_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/opulent/34000_stingray/34000_handler/ds34019_spaoppconclude_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Well... Let's see where this ends, shall we?",
+			"fr": "//(0,30)\\\\Bon... Voyons où cela nous mène, hm ?",
+			"it": "//(0,30)\\\\Beh... Vediamo un po' dove porterà questa storia.",
+			"de": "//(0,30)\\\\Nun ... Mal sehen, wohin Sie das führt, nicht wahr?",
+			"es": "//(0,30)\\\\Bueno... ¿Te parece si descubrimos cómo acaba esto?",
+			"ru": "//(0,30)\\\\Что ж... Посмотрим, чем все это закончится?",
+			"cn": "//(0,30)\\\\噫......事情会变成什么样呢？我们拭目以待吧。",
+			"tc": "//(0,30)\\\\這......讓我們看看這會有什麼結果吧？",
+			"jp": "//(0,30)\\\\まあ... どうなることか、見てみましょう。"
+		}
+	}
+}

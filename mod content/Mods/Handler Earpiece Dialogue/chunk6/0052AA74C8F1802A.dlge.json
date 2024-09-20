@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/rat/43000_handler/ds43380_exitoliviasure.sweetdialog?/ds43380_exitoliviasure_oliviahall_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds43380_exitoliviasure_oliviahall_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/rat/43000_handler/ds43380_exitoliviasure_oliviahall_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/rat/43000_handler/ds43380_exitoliviasure_oliviahall_001.animset].pc_animset",
+		"languages": {
+			"en": "//[OLIVIAHALL]\\\\//(0,2.3)\\\\Okay, good.//(2.3,5.537178)\\\\I've set up a link to an information non-profit site.//(5.537178,9)\\\\When you press that button, it’s up there and the whole world will know.//(9,11.1)\\\\There’s no undo, 47.//(11.1,14)\\\\This will shut the ICA down for good.//(14,44)\\\\You really okay with this? It’s who you’ve been for so long.",
+			"fr": "//[OLIVIAHALL]\\\\//(0,5.55)\\\\Parfait. J'ai créé un lien vers un site d'informations à but non lucratif.//(5.55,9.05)\\\\Quand vous appuierez sur cette touche, tout partira dessus, et le monde entier saura.//(9.05,13.99)\\\\Pas de retour en arrière, 47. Ça arrêtera l'ICA pour de bon.//(13.99,43.99)\\\\Ça ira pour vous ? C'était votre identité pendant si longtemps...",
+			"it": "//[OLIVIAHALL]\\\\//(0,5.65)\\\\Ok, bene. Ho impostato un collegamento con un sito informativo non-profit.//(5.65,9.23)\\\\Non appena premerai quel pulsante, sarà tutto online e tutto il mondo saprà.//(9.23,14.12)\\\\Non si torna indietro, 47. Con questo, l'ICA chiuderà bottega per sempre.//(14.12,44.12)\\\\Sei davvero sicuro? Ne fai parte da così tanti anni.",
+			"de": "//[OLIVIAHALL]\\\\//(0,2.606196)\\\\Okay, gut.//(2.606196,5.600982)\\\\Ich habe eine Verbindung zu einer Non-Profit-Datenbörse eingerichtet.//(5.600982,9.09245)\\\\Wenn Sie auf den Knopf drücken, wird alles hochgeladen und die ganze Welt weiß Bescheid.//(9.09245,14.23392)\\\\Das lässt sich nicht mehr rückgängig machen, 47. Damit wird die ICA für immer ausgeschaltet.//(14.23392,44.23392)\\\\Ist Ihnen das wirklich recht? So lange Zeit war die ICA doch Ihr gesamtes Leben.",
+			"es": "//[OLIVIAHALL]\\\\//(0,5.1)\\\\Vale, he configurado un enlace a un sitio de noticias sin ánimo de lucro.//(5.7,11)\\\\Cuando pulses ese botón, el mundo lo sabrá todo. No habrá vuelta atrás, 47.//(11.6,13.5)\\\\Esto cerrará la Agencia para siempre.//(14.2,16.5)\\\\¿Seguro que quieres hacerlo?//(17.2,47.2)\\\\Esta ha sido buena parte de tu vida.",
+			"ru": "//[OLIVIAHALL]\\\\//(0,5.9)\\\\Так, отлично. Я подключилась к сайту независимых журналистов.//(5.9,7.5)\\\\Когда ты нажмешь на кнопку, все данные уйдут туда,//(7.5,9.5)\\\\а о деятельности агентства узнает весь мир.//(9.5,11.3)\\\\Пути назад не будет, 47-й.//(11.3,17.3)\\\\МКА исчезнет навсегда. Ты точно готов?//(17.3,47.3)\\\\Они долго были частью твоей жизни.",
+			"cn": "//[OLIVIAHALL]\\\\//(0,5.5)\\\\好，做得好。我已连上了一个非营利网站。//(5.5,9)\\\\当你按下那个按钮时，数据就会上传，全世界都会知道。//(9,14)\\\\做了就没法回头了，47。这将使ICA彻底完蛋。//(14,44)\\\\这么做真的没问题吗？毕竟你在那里干了这么久。",
+			"tc": "//[OLIVIAHALL]\\\\//(0,5.6)\\\\噢，好。我連上了一個資訊非營利網站。//(5.6,9.2)\\\\當你按下按鈕的時候，全世界都會看見它。//(9.2,11.6)\\\\這裡沒有後悔的餘地，47。//(11.6,17.2)\\\\這會永遠關閉 ICA，你確定要這麼做？//(17.2,47.2)\\\\這一直以來都是你的身份。",
+			"jp": "//[OLIVIAHALL]\\\\//(0,1.19)\\\\よし。//(2.7,9.1)\\\\ある非営利の情報サイトへのリンクを設置したわ。ボタンを押したら、サイトに掲示されて、全世界の知るところになる。//(9.1,14.2)\\\\後戻りはできないわよ、47。ICAは完全に終わる。//(14.2,17.2)\\\\本当にいいの？//(17.2,47.2)\\\\それが長い間、あなたの人生だったのよ。"
+		}
+	}
+}

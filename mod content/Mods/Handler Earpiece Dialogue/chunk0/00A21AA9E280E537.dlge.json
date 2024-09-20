@@ -1,0 +1,87 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/evergreen/handler/ed046_leavefordestination.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ed046_leavefordestination_diana_001",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed046_leavefordestination_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed046_leavefordestination_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\Safe journey, 47.",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Bon vol, 47.",
+					"it": "//[DIANA]\\\\//(0,30)\\\\Buon viaggio, 47.",
+					"de": "//[DIANA]\\\\//(0,30)\\\\Gute Reise, 47.",
+					"es": "//[DIANA]\\\\//(0,30)\\\\Buen viaje, 47.",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\Счастливого пути, 47-й.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\祝你一路平安，47。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\一路順風，47。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\行ってらっしゃい、47。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed046_leavefordestination_diana_002",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed046_leavefordestination_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed046_leavefordestination_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\Bon voyage, 47.",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Bon voyage, 47.",
+					"it": "//[DIANA]\\\\//(0,30)\\\\Bon voyage, 47.",
+					"de": "//[DIANA]\\\\//(0,30)\\\\Bon voyage, 47.",
+					"es": "//[DIANA]\\\\//(0,30)\\\\Bon voyage, 47.",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\Доброго пути, 47-й.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\一路顺风，47。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\一路平安，47。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\よい旅を、47。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed046_leavefordestination_diana_003",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed046_leavefordestination_diana_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed046_leavefordestination_diana_003.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\Have a good trip, 47.",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Profitez du voyage, 47.",
+					"it": "//[DIANA]\\\\//(0,30)\\\\Ti auguro buon viaggio, 47.",
+					"de": "//[DIANA]\\\\//(0,30)\\\\Haben Sie eine gute Reise, 47.",
+					"es": "//[DIANA]\\\\//(0,30)\\\\Que tengas buen viaje, 47.",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\Удачно добраться, 47-й.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\祝你旅途愉快，47。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\祝你旅途愉快，47。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\旅を楽しんできて、47。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed046_leavefordestination_diana_004",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed046_leavefordestination_diana_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed046_leavefordestination_diana_004.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\I'll be in touch when you reach your destination.",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Je vous contacterai à votre arrivée.",
+					"it": "//[DIANA]\\\\//(0,2.67128)\\\\Ti contatterò quando avrai raggiunto la tua destinazione.",
+					"de": "//[DIANA]\\\\//(0,30)\\\\Ich melde mich, sobald Sie Ihr Ziel erreicht haben.",
+					"es": "//[DIANA]\\\\//(0,30)\\\\Me pondré en contacto cuando llegues a tu destino.",
+					"ru": "//[DIANA]\\\\//(0,2.319896)\\\\Я выйду на связь, когда ты прибудешь в пункт назначения.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\你抵达目的地后，我会联系你的。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\你達到目的地之後我們再聯繫。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\目的地に着いたら連絡するわ。"
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,49 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/newzealand/31000_sheep/31000_handler/ds31007_tutorial_allcctv.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds31007_tutorial_allcctv_diana_001",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_sheep/31000_handler/ds31007_tutorial_allcctv_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_sheep/31000_handler/ds31007_tutorial_allcctv_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,1.156021)\\\\Nicely done, 47.//(1.156021,3.959083)\\\\Getting caught on tape is the last thing we need.",
+					"fr": "//(0,3.091774)\\\\Bien joué, 47. Évitons autant que possible d'être//(3.091774,4.091774)\\\\filmé.",
+					"it": "//(0,2.482016)\\\\Ben fatto, 47. L'ultima cosa che vogliamo è comparire//(2.482016,3.959083)\\\\in un video della sorveglianza.",
+					"de": "//(0,2.734785)\\\\Gut gemacht, 47. Auf Band festgehalten zu werden,//(2.734785,32.73479)\\\\ist das Letzte, was wir brauchen.",
+					"es": "//(0,1.724294)\\\\Bien hecho, 47.//(1.724294,31.72429)\\\\Lo último que necesitamos es que aparezcas grabado en una cinta.",
+					"ru": "//(0,1.724294)\\\\Хорошо сработано, 47-й.//(1.724294,31.72429)\\\\Нельзя попадать в поле зрения камер.",
+					"cn": "//(0,30)\\\\干得漂亮，47。我们绝不要暴露在监控录像里。",
+					"tc": "//(0,30)\\\\幹得漂亮，47。我們最不想要的就是被監視攝影機拍到。",
+					"jp": "//(0,30)\\\\よくやったわ、47。カメラに写ることだけは避けたいものね。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds31007_tutorial_allcctv_diana_002",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_sheep/31000_handler/ds31007_tutorial_allcctv_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_sheep/31000_handler/ds31007_tutorial_allcctv_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Nicely done, 47. Should allow you to move more freely.",
+					"fr": "//(0,0.6224917)\\\\Beau travail,//(0.6224917,3.490521)\\\\47. Vous allez pouvoir vous déplacer plus librement.",
+					"it": "//(0,30)\\\\Ben fatto, 47. Adesso puoi muoverti più liberamente.",
+					"de": "//(0,1.674294)\\\\Gut gemacht, 47.//(1.674294,31.67429)\\\\So sollten Sie sich freier bewegen können.",
+					"es": "//(0,1.724294)\\\\Bien hecho, 47.//(1.724294,31.72429)\\\\Así podrás moverte con mayor libertad.",
+					"ru": "//(0,1.724294)\\\\Хорошо сработано, 47-й.//(1.724294,31.72429)\\\\Теперь ты сможешь перемещаться свободнее.",
+					"cn": "//(0,30)\\\\干得漂亮，47。这样你应该就可以更自由地行动了。",
+					"tc": "//(0,30)\\\\幹得漂亮，47。這樣應該可以讓你更來去自如。",
+					"jp": "//(0,30)\\\\良い腕だわ、47。これでもっと自由に行動ができるはずだわ。"
+				}
+			}
+		]
+	}
+}

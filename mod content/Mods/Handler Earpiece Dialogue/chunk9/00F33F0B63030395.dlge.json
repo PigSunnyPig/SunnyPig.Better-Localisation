@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/gamemodes/versusmode/84_announcer_opponentkillnoticed.sweetdialog?/84_announcer_opponentkillnoticed_announcer_versus_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "84_announcer_opponentkillnoticed_announcer_versus_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/gamemodes/versusmode/84_announcer_opponentkillnoticed_announcer_versus_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/gamemodes/versusmode/84_announcer_opponentkillnoticed_announcer_versus_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Opponent's kill was witnessed.",
+			"fr": "//(0,30)\\\\Élimination de votre adversaire repérée.",
+			"it": "//(0,30)\\\\L'eliminazione dell'avversario è stata vista.",
+			"de": "//(0,30)\\\\Der Kill Ihres Gegners wurde gesehen.",
+			"es": "//(0,30)\\\\Hay testigos del asesinato del contrincante.",
+			"ru": "//(0,30)\\\\Убийство, совершенное противником, заметили.",
+			"cn": "//(0,30)\\\\对手击杀时被人发现了。",
+			"tc": "//(0,30)\\\\對手在擊殺時被發現了。",
+			"jp": "//(0,30)\\\\相手のキルが目撃された。"
+		}
+	}
+}

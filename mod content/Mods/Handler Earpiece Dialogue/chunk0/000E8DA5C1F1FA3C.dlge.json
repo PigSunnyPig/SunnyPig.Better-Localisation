@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/golden/gecko/40000_story/dr40182_greystoryscanwindowfirst.sweetdialog?/dr40182_greystoryscanwindowfirst_grey_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr40182_greystoryscanwindowfirst_grey_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/gecko/40000_story/dr40182_greystoryscanwindowfirst_grey_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/gecko/40000_story/dr40182_greystoryscanwindowfirst_grey_001.animset].pc_animset",
+		"languages": {
+			"en": "//[GREY]\\\\//(0,5)\\\\Hm, locked. 47, use your camera and scan the lock, will you?//(5,7.787922)\\\\I think I can override the window's controls from here.",
+			"fr": "//[GREY]\\\\//(0,1.341943)\\\\Hm, c'est verrouillé.//(1.341943,3.820522)\\\\47, utilise l'appareil photo pour scanner le verrou,//(3.820522,6.501447)\\\\tu veux ? Je devrais pouvoir forcer les commandes//(6.501447,7.75)\\\\des fenêtres d'ici.",
+			"it": "//[GREY]\\\\//(0,1.724294)\\\\Mmh, è bloccata.//(1.724294,5.18)\\\\47, usa la telecamera per scansionare la serratura.//(5.18,10.47006)\\\\Penso di poter aggirare i controlli delle finestre da qui.",
+			"de": "//[GREY]\\\\//(0,1.885143)\\\\Hm. Verschlossen.//(1.885143,4.996615)\\\\47, kannst du deine Kamera benutzen und das Schloss scannen?//(4.996615,7.75)\\\\Ich glaube, ich kann die Fensterkontrolle von hier aus überschreiben.",
+			"es": "//[GREY]\\\\//(0,1.4)\\\\Mmm, cerrada.//(2,4.7)\\\\47, usa tu cámara para escanear la cerradura, ¿quieres?//(5,35)\\\\Creo que puedo anular los controles de las ventanas desde aquí.",
+			"ru": "//[GREY]\\\\//(0,4.564785)\\\\Хм. Заперто. 47-й, достань камеру и просканируй замок.//(4.564785,34.56479)\\\\Я попробую перехватить управление этим окном.",
+			"cn": "//[GREY]\\\\//(0,4.7)\\\\嗯，被锁定了。47，用你的摄像头扫描一下那个锁，好吗？//(4.7,34.7)\\\\我觉得我可以在这里获得窗户的控制权。",
+			"tc": "//[GREY]\\\\//(0,5)\\\\嗯，鎖住了。47，用你的相機掃描鎖頭吧？//(5,35)\\\\我應該能從這裡超控窗戶的控制。",
+			"jp": "//[GREY]\\\\//(0,2.1)\\\\ふむ、ロックがかかっている。//(2.1,4.8)\\\\47、カメラを使って、ロックをスキャンしてくれるか？//(4.8,34.8)\\\\ここから窓の制御機能をオーバーライドできると思う。"
+		}
+	}
+}

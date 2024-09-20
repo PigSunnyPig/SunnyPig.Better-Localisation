@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/cutscenes_s03/m04_rat/m04_rat_flyin.sweetdialog?/m04_rat_flyin_oliviahall_005.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "m04_rat_flyin_oliviahall_005",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/cutscenes_s03/m04_rat/m04_rat_flyin_oliviahall_005.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/cutscenes_s03/m04_rat/m04_rat_flyin_oliviahall_005.animset].pc_animset",
+		"languages": {
+			"en": "//[OLIVIAHALL]\\\\//(0,30)\\\\While Imogen Royce, the Archivist, runs the day-to-day business of the ICA data facility.",
+			"fr": "//[OLIVIAHALL]\\\\//(0,30)\\\\Imogen Royce, l'Archiviste, gère le business routinier du complexe de données de l'ICA.",
+			"it": "//[OLIVIAHALL]\\\\//(0,30)\\\\Mentre Imogen Royce, l'Archivista, si occupa giorno per giorno della sua attività nel centro dati dell'ICA.",
+			"de": "//[OLIVIAHALL]\\\\//(0,30)\\\\Wohingegen Imogen Royce, die Archivarin, das Tagesgeschäft des ICA Datenzentrums leitet.",
+			"es": "//[OLIVIAHALL]\\\\//(0,30)\\\\Por otra parte, Imogen Royce controla las operaciones cotidianas de la instalación de la Agencia.",
+			"ru": "//[OLIVIAHALL]\\\\//(0,30)\\\\За повседневную работу дата-центра МКА отвечает архивариус Имоджен Ройс.",
+			"cn": "//[OLIVIAHALL]\\\\//(0,30)\\\\而伊莫金·罗伊斯，即“档案保管员”，则是ICA数据设施日常事务的负责人。",
+			"tc": "//[OLIVIAHALL]\\\\//(0,30)\\\\而檔案員伊摩金‧羅伊斯則負責 ICA 數據中心的每日作業。",
+			"jp": "//[OLIVIAHALL]\\\\//(0,30)\\\\一方、アーキビストのイモジェン・ロイスは、ICAのデータ施設の日常業務を行っている。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/opulent/34000_stingray/34000_handler/ds34017_portmanoppconclude.sweetdialog?/ds34017_portmanoppconclude_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds34017_portmanoppconclude_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/opulent/34000_stingray/34000_handler/ds34017_portmanoppconclude_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/opulent/34000_stingray/34000_handler/ds34017_portmanoppconclude_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.691434)\\\\So that's Jason Portman taken care of.//(2.691434,5.704875)\\\\I wonder what Miss Vetrova will do now?",
+			"fr": "//(0,2.950982)\\\\Bien, nous n'aurons plus à nous soucier de Jason Portman.//(2.950982,8.245767)\\\\Je me demande ce que va faire Mlle Vetrova, à présent ?",
+			"it": "//(0,2.9)\\\\Jason Portman è andato.//(2.9,6.009614)\\\\Mi chiedo quale sarà la prossima mossa della signorina Vetrova.",
+			"de": "//(0,2.537137)\\\\Damit hätten wir uns um Jason Portman gekümmert.//(2.537137,3.438848)\\\\Ich frage mich,//(3.438848,5.704875)\\\\was Miss Vetrova jetzt wohl anstellen wird.",
+			"es": "//(0,2.90127)\\\\Vale, ya nos hemos ocupado de Jason Portman.//(2.90127,5.704875)\\\\Me pregunto qué hará ahora la señorita Vetrova.",
+			"ru": "//(0,2.583092)\\\\Проблема с Джейсоном Портманом решена.//(2.583092,5.704875)\\\\Интересно, что теперь сделает мисс Ветрова?",
+			"cn": "//(0,30)\\\\已经搞定詹森·波特曼了。维特洛娃女士现在打算怎么办呢？",
+			"tc": "//(0,30)\\\\傑森．波特曼已經解決了。不知道韋特羅瓦會做什麼？",
+			"jp": "//(0,3.18)\\\\さあ、ジェイソン・ポートマンの排除完了したわ。//(3.18,33.18)\\\\ミス・ベトロワはこの後どうするかしら？"
+		}
+	}
+}

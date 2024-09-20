@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/evergreen/handler/ed085_mechclbrtnrwrdunlck.sweetdialog?/ed085_mechclbrtnrwrdunlck_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ed085_mechclbrtnrwrdunlck_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed085_mechclbrtnrwrdunlck_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed085_mechclbrtnrwrdunlck_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Please accept a token of gratitude for outstanding excellence.",
+			"fr": "//(0,30)\\\\Veuillez accepter ce cadeau en l'honneur de vos services exceptionnels.",
+			"it": "//(0,30)\\\\Ti prego di accettare questo in segno di gratitudine per la tua straordinaria eccellenza.",
+			"de": "//(0,30)\\\\Bitte nehmen Sie dieses Zeichen der Dankbarkeit für Ihre außergewöhnliche Leistung.",
+			"es": "//(0,30)\\\\Acepta esto como agradecimiento por la excelencia que has demostrado.",
+			"ru": "//(0,30)\\\\Прими это в награду за блестящую работу.",
+			"cn": "//(0,30)\\\\你的表现十分出色，这是一点心意，请笑纳。",
+			"tc": "//(0,30)\\\\為了感謝你出色的表現，請接受這份謝禮。",
+			"jp": "//(0,30)\\\\傑出した功績に対して、感謝のしるしを贈るわ。"
+		}
+	}
+}

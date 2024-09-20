@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25032_fanhint2.sweetdialog?/ds25032_fanhint2_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25032_fanhint2_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25032_fanhint2_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25032_fanhint2_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.564785)\\\\Dawood Rangan has leased an industrial strength fan,//(3.564785,7.309571)\\\\normally used for clearing smoke from construction tunnels.//(7.309571,9.806258)\\\\That's a beast of a machine, 47.//(9.806258,13.04343)\\\\The crew have put some sort of limiter on the fan output,//(13.04343,15.77304)\\\\but maybe you can make a few changes?",
+			"fr": "//(0,2.624154)\\\\Dawood Rangan a loué un ventilateur industriel//(2.624154,4.873429)\\\\surpuissant servant normalement à évacuer la//(4.873429,7.257036)\\\\fumée des tunnels de construction.//(7.257036,10.63095)\\\\C'est un tel monstre que l'équipe technique a dû//(10.63095,13.38943)\\\\installer un genre de limiteur dessus...//(13.38943,15.77304)\\\\Vous pourriez peut-être le bricoler ?",
+			"it": "//(0,1.472393)\\\\Dawood Rangan ha noleggiato//(1.472393,3.78)\\\\un gigantesco ventilatore industriale,//(3.78,4.88)\\\\di quelli che di solito vengono usati per//(4.88,7.479818)\\\\eliminare il fumo dai tunnel in costruzione.//(7.479818,9.8)\\\\È un vero e proprio bestione, 47.//(9.8,11.7)\\\\Lo staff ha impostato un limite//(11.7,13.2)\\\\alla potenza del ventilatore,//(13.2,14.2)\\\\ma forse puoi fare qualche piccola modifica...",
+			"de": "//(0,2.208589)\\\\Dawood Rangan hat sich eine Industrie-Windmaschine//(2.208589,4.905276)\\\\geliehen, mit der man normalerweise den Rauch//(4.905276,7.103014)\\\\aus Bautunneln bläst.//(7.103014,9.649701)\\\\Das ist eine echt brutale Maschine, 47.//(9.649701,12.64639)\\\\Die Techniker haben eine Art Abregler installiert,//(12.64639,15.77304)\\\\aber vielleicht können Sie das ja beheben?",
+			"es": "//(0,1.472393)\\\\Dawood Rangan ha alquilado//(1.472393,3.5)\\\\un ventilador de potencia industrial,//(3.5,6)\\\\de los que suelen usarse para eliminar el humo//(6,7.5)\\\\en los túneles en obras.//(7.5,10)\\\\Esa máquina es una bestia parda, 47.//(10,13.2)\\\\El equipo le ha puesto un limitador de viento,//(13.2,15.77304)\\\\pero tal vez podrías modificarlo un poco.",
+			"ru": "//(0,3.791)\\\\Давуд Ранжан арендовал промышленный вентилятор,//(3.791,5.263392)\\\\которым обычно выдувают дым//(5.263392,7.317687)\\\\из строительных тоннелей.//(7.317687,10.06008)\\\\Это зверский агрегат, 47-й.//(10.06008,13.08867)\\\\Техники установили на него ограничитель скорости,//(13.08867,16.46535)\\\\но ты ведь наверняка сможешь кое-что поменять?",
+			"cn": "//(0,3.5)\\\\达伍德·朗甘租来了一台工业用的强力风扇，//(3.5,7.2)\\\\这种风扇通常都用来驱散隧道里浓烟。//(7.2,10)\\\\这台风扇的力量不容小觑，47。//(10,13.2)\\\\剧组人员在风扇上安装了功率限制安全锁，//(13.2,15.773)\\\\不过，说不定你能稍微动点手脚？",
+			"tc": "//(0,3.5)\\\\達伍德．朗甘租來一台工業強力風扇，//(3.5,7.2)\\\\這種風扇通常都用來驅散隧道的濃煙。//(7.2,10)\\\\這台風扇的力量不容小覷，47。//(10,13.2)\\\\劇組人員在風扇上安裝功率限制安全鎖，//(13.2,15.77304)\\\\不過，說不定你可以稍微動點手腳？",
+			"jp": "//(0,3.535)\\\\ダウッド・ランガンが業務用送風機をレンタルしたみたい。//(3.535,7.355)\\\\普通はトンネル工事で煙を排出するために使われるものよ。//(7.355,9.88)\\\\あれはバケモノマシンよ、47。//(9.88,12.995)\\\\スタッフがファンの出力にリミッターみたいなものを装着したらしいけど、//(12.995,15.77304)\\\\少し手を加えてみたらどうかしら？"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25075_kashmirianscountingalternate.sweetdialog?/ds25075_kashmirianscountingalternate_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25075_kashmirianscountingalternate_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25075_kashmirianscountingalternate_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25075_kashmirianscountingalternate_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.91908)\\\\Well, well... It appears we have a rival assassin in Mumbai//(3.91908,6.83276)\\\\and he's training his sights on Dawood Rangan.//(6.83276,14.40515)\\\\By the looks of it, I'd say we're dealing with a local operator known as \"The Kashmirian.\"",
+			"fr": "//(0,4)\\\\Eh bien, on dirait que nous avons un assassin rival à Bombay//(4,6.8)\\\\et il entraîne sa vue sur Dawood Rangan.//(6.8,8.161)\\\\En y regardant de plus près,//(8.161,10.279)\\\\je dirais qu'il s'agit d'un assassin local//(10.279,14.37194)\\\\plus connu comme le \"Cachemiri\".",
+			"it": "//(0,1.100448)\\\\Bene, bene...//(1.100448,4.045233)\\\\Sembrerebbe che abbiamo un assassino rivale a Mumbai//(4.045233,6.753822)\\\\e sta puntando a Dawood Rangan.//(6.753822,8.346215)\\\\Da quello che sembra,//(8.346215,10.87237)\\\\direi che è un assassino locale conosciuto come \"il Kashmiro\".",
+			"de": "//(0,1.193021)\\\\So, so ...//(1.193021,2.320011)\\\\Es scheint, als hätten wir//(2.320011,4.110502)\\\\einen konkurrierenden Auftragsmörder in Mumbai//(4.110502,6.705287)\\\\und er hat Dawood Rangan ins Visier genommen.//(6.705287,8.833875)\\\\Ich würde sagen, wir haben es//(8.833875,10.19973)\\\\mit einem lokalen Betreiber zu tun,//(10.19973,14.59306)\\\\der als \"Kaschmiri\" bekannt ist.",
+			"es": "//(0,4.2)\\\\Vaya vaya... Por lo visto tenemos un asesino rival en Bombay,//(4.2,6.8)\\\\y tiene la mira puesta en Dawood Rangan.//(6.8,10.1)\\\\Por lo que parece, estamos tratando con un sicario local,//(10.1,14.37194)\\\\conocido como «el Cachemir».",
+			"ru": "//(0,1.202213)\\\\Так, так, так...//(1.202213,4.0189)\\\\Похоже, в Мумбаи у нас есть убийца-конкурент,//(4.0189,6.727489)\\\\и он планирует устранить Давуда Ранжана.//(6.727489,9.056077)\\\\Судя по всему, мы имеем дело//(9.056077,14.37194)\\\\с местным наемником, известным как Кашмирец.",
+			"cn": "//(0,6.8)\\\\好吧，好吧......看起来我们在孟买碰到与我们一样的刺客了，他正在远望达伍德·朗甘。//(6.8,11.742)\\\\如果我没弄错的话，我们应对的是当地的杀手，被称作“克什米尔人”。",
+			"tc": "//(0,4.1)\\\\好吧......看來我們遇到孟買出身的同行了，//(4.1,6.8)\\\\他正在瞭望朗甘的高塔。//(6.8,11.742)\\\\我沒弄錯的話，我們應對的是本地的殺手，被稱為「喀什米爾人」。",
+			"jp": "//(0,1.238)\\\\あら、あれは...//(1.238,4.1)\\\\ライバルの暗殺者がムンバイにいるわね。//(4.1,6.9)\\\\どうやらダウッド・ランガンに照準を合わせているみたい。//(6.9,14.37194)\\\\見たところ、あれは「カシミリアン」と呼ばれている地元のヒットマンよ。"
+		}
+	}
+}

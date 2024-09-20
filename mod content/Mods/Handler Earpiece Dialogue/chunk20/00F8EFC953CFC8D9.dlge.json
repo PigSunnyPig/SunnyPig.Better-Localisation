@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/newzealand/31000_sheep/31000_handler/ds31008_hiddenroom.sweetdialog?/ds31008_hiddenroom_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds31008_hiddenroom_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_sheep/31000_handler/ds31008_hiddenroom_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_sheep/31000_handler/ds31008_hiddenroom_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.746301)\\\\Encrypted. Hm.//(2.746301,7.401521)\\\\Assuming there's a key, Reynard wouldn't just leave it lying around.",
+			"fr": "//(0,2.92)\\\\Un cryptage. Hmm.//(2.92,4.5)\\\\S'il y avait une clé,//(4.5,34.5)\\\\Reynard ne la laisserait probablement pas traîner comme ça.",
+			"it": "//(0,3)\\\\Cifrato. Uhm.//(3,33)\\\\Se ci fosse una chiave, dubito che Reynard la lascerebbe in giro come se niente fosse.",
+			"de": "//(0,4.464785)\\\\Verschlüsselt. Hm. Wenn es dafür einen Schlüssel gibt,//(4.464785,34.46479)\\\\wird Reynard ihn nicht einfach herumliegen lassen.",
+			"es": "//(0,3)\\\\Encriptado. Mmm.//(3,33)\\\\Suponiendo que haya una llave, Reynard no se la dejaría cerca.",
+			"ru": "//(0,1.718)\\\\Зашифровано.//(1.718,4.364785)\\\\Хм. Даже если к нему есть ключ,//(4.364785,34.36478)\\\\Рейнард вряд ли оставила его на столе.",
+			"cn": "//(0,30)\\\\加密了。嗯。如果有钥匙的话，雷纳德肯定不会把它随便乱放。",
+			"tc": "//(0,30)\\\\加密過的。嗯。假設有密碼好了，雷納德一定不會隨便擺放。",
+			"jp": "//(0,2.7)\\\\暗号化されてる。うーん。//(2.7,32.7)\\\\解除キーがあるとしても、レイナードがその辺に置いておくわけないでしょうね。"
+		}
+	}
+}

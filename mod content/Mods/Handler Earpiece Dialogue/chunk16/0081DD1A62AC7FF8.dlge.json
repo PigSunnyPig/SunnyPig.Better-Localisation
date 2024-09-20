@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/suburbia/27500_gartersnake/27500_handler/ds27501_targetdown.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds27501_targetdown_diana_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27500_gartersnake/27500_handler/ds27501_targetdown_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27500_gartersnake/27500_handler/ds27501_targetdown_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,1.209863)\\\\Target eliminated.//(1.209863,3.3)\\\\Excellent work, 47.//(3.3,5.188063)\\\\Time to make your exit.",
+					"fr": "//(0,3.5)\\\\Cible éliminée. Excellent travail, 47.//(3.5,5.188063)\\\\Il est temps de quitter les lieux.",
+					"it": "//(0,1.131306)\\\\Bersaglio eliminato.//(1.131306,2.25172)\\\\Un lavoro eccellente,//(2.25172,5.188063)\\\\47. È il momento di andartene.",
+					"de": "//(0,3.5)\\\\Ziel eliminiert. Ausgezeichnete Arbeit, 47.//(3.5,5.188063)\\\\Es wird Zeit, die Beine in die Hand zu nehmen.",
+					"es": "//(0,1.209863)\\\\Objetivo eliminado.//(1.209863,2.408078)\\\\Un trabajo excelente,//(2.408078,5.188063)\\\\47. Es hora de irse.",
+					"ru": "//(0.5,1.804987)\\\\Цель устранена.//(1.804987,3.129282)\\\\Отличная работа, 47-й.//(3.129282,5.188063)\\\\Тебе пора уходить.",
+					"cn": "//(0,30)\\\\目标已消灭。干得漂亮，47。是时候离开了。",
+					"tc": "//(0,30)\\\\目標已消滅。做得好，47。該撤離了。",
+					"jp": "//(0,3.59)\\\\ターゲットを排除。素晴らしい仕事だったわ、47。//(3.59,33.59)\\\\脱出ルートを探して。"
+				}
+			}
+		]
+	}
+}

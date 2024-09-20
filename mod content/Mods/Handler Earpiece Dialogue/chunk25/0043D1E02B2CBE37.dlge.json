@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/marrakech/6000_elusive/6000_cosmopolitan/6000_cosmopolitan_handler/dr6600_diana.sweetdialog?/dr6600_diana_diana_et_005.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr6600_diana_diana_et_005",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/6000_elusive/6000_cosmopolitan/6000_cosmopolitan_handler/dr6600_diana_diana_et_005.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/6000_elusive/6000_cosmopolitan/6000_cosmopolitan_handler/dr6600_diana_diana_et_005.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA_ET]\\\\//(0,30)\\\\The courier is leaving. You must acquire the package at all costs, 47.",
+			"fr": "//[DIANA_ET]\\\\//(0,30)\\\\Le coursier s'en va. Vous devez récupérer le colis à tout prix, 47.",
+			"it": "//[DIANA_ET]\\\\//(0,1.490491)\\\\Il corriere si sta allontanando.//(1.490491,31.49049)\\\\Devi recuperare la merce a ogni costo, 47.",
+			"de": "//[DIANA_ET]\\\\//(0,30)\\\\Der Kurier geht. Wir brauchen dieses Paket, 47. Koste es, was es wolle.",
+			"es": "//[DIANA_ET]\\\\//(0,30)\\\\El mensajero se va. Debes conseguir el paquete a toda costa, 47.",
+			"ru": "//[DIANA_ET]\\\\//(0,1.236196)\\\\Курьер уходит.//(1.236196,31.2362)\\\\Ты должен любой ценой забрать посылку, 47-й.",
+			"cn": "//[DIANA_ET]\\\\//(0,30)\\\\信使正在离开。你必须不惜一切代价取得包裹，47。",
+			"tc": "//[DIANA_ET]\\\\//(0,30)\\\\信使正在離開。你必需不計一切取得包裹，47。",
+			"jp": "//[DIANA_ET]\\\\//(0,30)\\\\配達員が去ってしまう。何としてもパッケージを手に入れるのよ、47。"
+		}
+	}
+}

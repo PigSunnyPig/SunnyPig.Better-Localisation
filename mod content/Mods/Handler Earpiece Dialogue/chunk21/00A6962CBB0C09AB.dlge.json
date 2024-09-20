@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/marrakech/11000_python/11000_handler/ds11020_onetargetdwnonetarget.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds11020_onetargetdwnonetarget_diana_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11000_python/11000_handler/ds11020_onetargetdwnonetarget_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11000_python/11000_handler/ds11020_onetargetdwnonetarget_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Target down. One more to go.",
+					"fr": "//(0,30)\\\\Cible à terre. Plus qu'une.",
+					"it": "//(0,30)\\\\Bersaglio eliminato. Ancora un altro.",
+					"de": "//(0,30)\\\\Ziel neutralisiert. Ein Ziel verbleibt.",
+					"es": "//(0,30)\\\\Objetivo abatido. Falta uno.",
+					"ru": "//(0,30)\\\\Цель уничтожена. Осталась еще одна.",
+					"cn": "//(0,30)\\\\目标已被消灭。还有一个。",
+					"tc": "//(0,30)\\\\目標確認。還有一個。",
+					"jp": "//(0,30)\\\\ターゲット・ダウン。あと一人よ。"
+				}
+			}
+		]
+	}
+}

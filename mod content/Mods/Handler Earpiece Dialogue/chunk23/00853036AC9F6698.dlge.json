@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_bull/8000_story/dr8101_firstrevealprovidence.sweetdialog?/dr8101_firstrevealprovidence_diana_006.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8101_firstrevealprovidence_diana_006",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_bull/8000_story/dr8101_firstrevealprovidence_diana_006.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_bull/8000_story/dr8101_firstrevealprovidence_diana_006.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,1.93)\\\\A hypothesis, nothing more.//(1.93,4.699)\\\\The idea that a small cabal of kingmakers,//(4.699,7.42)\\\\controlling enough corporate and political leaders,//(7.42,37.42)\\\\could effectively run the world in secret.",
+			"fr": "//[DIANA]\\\\//(0,2.18)\\\\Une hypothèse, rien de plus !//(2.18,32.18)\\\\On imaginait que des stratèges contrôlaient les grands noms de la politique et de l'entreprise afin de diriger le monde en secret.",
+			"it": "//[DIANA]\\\\//(0,1.842393)\\\\Un'ipotesi, niente di più!//(1.842393,4.857178)\\\\L'idea che una congrega di poche personalità influenti,//(4.857178,7.394)\\\\con un numero sufficiente di imprenditori e leader politici in loro potere,//(7.394,37.394)\\\\potrebbe effettivamente governare il mondo da dietro le quinte.",
+			"de": "//[DIANA]\\\\//(0,2.122393)\\\\Eine Hypothese. Mehr nicht.//(2.122393,5)\\\\Die Idee, dass ein kleiner Kreis von Königsmachern,//(5,35)\\\\die genügend Politiker und Unternehmensleiter kontrollieren, insgeheim die Welt regieren könnte.",
+			"es": "//[DIANA]\\\\//(0,2.090491)\\\\¡Nada más que una hipótesis!//(2.090491,5.1)\\\\Se supone que es una camarilla formada por poderes en la sombra,//(5.1,7.8)\\\\gente que controla a suficientes líderes empresariales y políticos//(7.8,37.8)\\\\como para dominar el mundo en secreto.",
+			"ru": "//[DIANA]\\\\//(0,2.3)\\\\Гипотеза, не более того.//(2.3,5.1)\\\\Идея, согласно которой небольшая группа, определяющая, в чьи руки попадет власть,//(5.1,35.1)\\\\контролирующая достаточно политических и бизнес-лидеров, может по сути тайно управлять миром.",
+			"cn": "//[DIANA]\\\\//(0,2.069)\\\\只是个假设而已。//(2.069,32.069)\\\\关于一小群保皇党控制充足的企业与政治领袖，便能秘密操控世界。",
+			"tc": "//[DIANA]\\\\//(0,5)\\\\這只是個假設而已。關於一小群幕後黑手//(5,35)\\\\控制充足的企業與政治領袖，便能秘密操控世界。",
+			"jp": "//[DIANA]\\\\//(0,7.432137)\\\\あれは 単なる仮説よ。 一部の 権力者たちが 結託して、 大企業や 政界を 牛耳り、 密かに 世界を 意の//(7.432137,9.459084)\\\\ままに 動かして いる。"
+		}
+	}
+}

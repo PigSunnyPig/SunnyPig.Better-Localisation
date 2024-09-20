@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25077_maelstromnehaletter.sweetdialog?/ds25077_maelstromnehaletter_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25077_maelstromnehaletter_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25077_maelstromnehaletter_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25077_maelstromnehaletter_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.460491)\\\\Hm, a letter signed \"Wazir.\"//(2.460491,5.625276)\\\\This house once belonged to The Maelstrom, 47.//(5.625276,35.62527)\\\\This confirms a connection between him and the woman living here now.",
+			"fr": "//(0,2.460491)\\\\Hmm, une lettre signée \"Wazir\".//(2.460491,5.625276)\\\\Cette maison appartenait autrefois au Maelström, 47.//(5.625276,35.62527)\\\\Cela confirme son lien avec la femme qui y vit actuellement.",
+			"it": "//(0,2.460491)\\\\Uhm, una lettera firmata \"Wazir\".//(2.460491,5.28908)\\\\Questa casa apparteneva a Maelstrom, 47.//(5.28908,35.28908)\\\\È la conferma che c'è un collegamento tra lui e la donna che ora abita qui.",
+			"de": "//(0,2.828589)\\\\Hm, ein Brief unterschrieben mit „Wazir“.//(2.828589,5.775276)\\\\Dieses Haus gehörte mal dem Maelstrom, 47.//(5.775276,8.158)\\\\Damit wäre die Verbindung zwischen ihm und der Frau,//(8.158,38.158)\\\\die jetzt dort lebt, bestätigt.",
+			"es": "//(0,2.7)\\\\Mmm. Una carta firmada por «Wazir».//(2.7,5.7)\\\\Esta casa pertenecía antaño al Torbellino, 47.//(5.7,35.7)\\\\Esto confirma que existe una conexión entre él y la mujer que vive aquí ahora.",
+			"ru": "//(0,2.542393)\\\\Хм, письмо от «Вазира».//(2.542393,5.520981)\\\\47-й, этот дом раньше принадлежал Вихрю.//(5.520981,7.001472)\\\\Значит, между ним и женщиной,//(7.001472,37.00147)\\\\которая сейчас тут живет, есть некая связь.",
+			"cn": "//(0,2.785)\\\\嗯，一封署名“维齐尔”的信件。//(2.785,32.785)\\\\这间房子曾经属于大漩涡，47。这说明他和如今住在这里的女人有所联系。",
+			"tc": "//(0,30)\\\\嗯，一封署名為「維齊爾」的信。這棟房子曾屬於大漩渦，47。這進一步確認他與現在窩居於此的女人的關係。",
+			"jp": "//(0,2.6)\\\\ふむ、「ワジール」と署名された手紙。//(2.6,5.55)\\\\この家は以前メイルストロムが所有していたのよ、47。//(5.55,35.55)\\\\これで彼と現在ここに住んでいる女性との繋がりを確認できたわ。"
+		}
+	}
+}

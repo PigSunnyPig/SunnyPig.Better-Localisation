@@ -1,0 +1,125 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/evergreen/handler/ed031_welcomegen.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ed031_welcomegen_diana_001",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed031_welcomegen_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed031_welcomegen_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,2.956937)\\\\The Syndicate is currently operating in the area.//(2.956937,4.65)\\\\Find them and eliminate.",
+					"fr": "//[DIANA]\\\\//(0,2.640968)\\\\Le syndicat agit actuellement dans le secteur.//(2.640968,4.65)\\\\Trouvez ses membres et éliminez-les.",
+					"it": "//[DIANA]\\\\//(0,4.65)\\\\L'organizzazione opera attualmente nell'area. Trovali ed eliminali.",
+					"de": "//[DIANA]\\\\//(0,3)\\\\Das Syndikat ist in diesem Gebiet aktiv.//(3,4.951107)\\\\Finden Sie seine Mitglieder und eliminieren Sie sie.",
+					"es": "//[DIANA]\\\\//(0,2.472932)\\\\El sindicato opera actualmente en la zona.//(2.472932,4.65)\\\\Encuentra a sus miembros y elimínalos.",
+					"ru": "//[DIANA]\\\\//(0,4.65)\\\\В этом районе действует синдикат. Найди его агентов и устрани их.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\辛迪加目前正在该区域活动。找到并消灭他们。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\組織目前正在這個區域行動，找到並消滅他們。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\シンジケートがこのエリアで活動中よ。みつけ出して排除して。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed031_welcomegen_diana_002",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed031_welcomegen_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed031_welcomegen_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,5.54908)\\\\We have intel that the Syndicate is active in the area.",
+					"fr": "//[DIANA]\\\\//(0,3.3)\\\\D'après nos renseignements, le syndicat est très actif dans le secteur.",
+					"it": "//[DIANA]\\\\//(0,5.223875)\\\\Secondo le nostre informazioni, l'organizzazione è attiva in quest'area.",
+					"de": "//[DIANA]\\\\//(0,5.223875)\\\\Wir haben Informationen, dass das Syndikat in diesem Gebiet aktiv ist.",
+					"es": "//[DIANA]\\\\//(0,2.063996)\\\\Tenemos información de que el sindicato está//(2.063996,3.643935)\\\\activo en la zona.",
+					"ru": "//[DIANA]\\\\//(0,5.223875)\\\\Мы узнали о том, что в этом районе действует синдикат.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\我们的情报指出该地区有辛迪加活动。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\我們的情報指出組織正在這個區域活動。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\シンジケートがこのエリアで活動中という情報が入ったわ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed031_welcomegen_diana_003",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed031_welcomegen_diana_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed031_welcomegen_diana_003.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,4.3)\\\\We have been informed that the Syndicate is currently in operation here.//(4.3,5.917178)\\\\But you know what to do.",
+					"fr": "//[DIANA]\\\\//(0,3.85)\\\\Nous avons été informés que le syndicat mène actuellement des opérations ici.//(3.85,5.5)\\\\Vous savez quoi faire.",
+					"it": "//[DIANA]\\\\//(0,3.869519)\\\\Siamo stati informati che l'organizzazione è attiva qui, al momento.//(3.869519,5.312875)\\\\Sai cosa fare.",
+					"de": "//[DIANA]\\\\//(0,4.05)\\\\Wir wurden informiert, dass das Syndikat aktuell hier aktiv ist.//(4.05,5.312875)\\\\Doch Sie wissen ja, was zu tun ist.",
+					"es": "//[DIANA]\\\\//(0,2.201805)\\\\Nos han informado de que el sindicato está haciendo//(2.201805,4.001985)\\\\de las suyas por estos lares.//(4.001985,5.312875)\\\\Ya sabes qué hacer.",
+					"ru": "//[DIANA]\\\\//(0,3.612)\\\\Нам сообщили о том, что в настоящее время здесь действует синдикат.//(4.3,6.037178)\\\\Ты знаешь что делать.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\我们得到消息称辛迪加目前正在这里活动。不过你知道该怎么做。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\我們收到資訊，組織目前正在這裡作業。你知道該怎麼做的。",
+					"jp": "//[DIANA]\\\\//(0,3.93)\\\\シンジケートがここで活動しているという情報が入ったの。//(3.93,33.93)\\\\何をするべきかはわかっているわね。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed031_welcomegen_diana_004",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed031_welcomegen_diana_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed031_welcomegen_diana_004.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,4.75)\\\\Intel tells us that the operative Syndicate Members are currently in the area.//(4.75,6.711812)\\\\Track them down and do what you do best.",
+					"fr": "//[DIANA]\\\\//(0,4.42)\\\\Nos informateurs nous ont rapporté que des agents du syndicat opéraient dans la zone.//(4.42,6.986)\\\\Retrouvez-les, et faites ce que vous savez faire de mieux.",
+					"it": "//[DIANA]\\\\//(0,3.526113)\\\\Secondo le informazioni sono presenti agenti attivi dell'organizzazione nell'area.//(3.526113,6.711812)\\\\Rintracciali e fai ciò che sai fare meglio.",
+					"de": "//[DIANA]\\\\//(0,4.15)\\\\Laut unseren Informationen sollen Syndikatsmitglieder in dieser Gegend aktiv sein.//(4.6,6.711812)\\\\Spüren Sie sie auf und tun Sie, was Sie am besten können.",
+					"es": "//[DIANA]\\\\//(0,2.087926)\\\\Ha llegado a mi conocimiento que hay miembros//(2.087926,4.008383)\\\\operativos del sindicato en la zona.//(4.008383,6.711812)\\\\Localízalos y haz lo que mejor se te da.",
+					"ru": "//[DIANA]\\\\//(0,3.965)\\\\По данным разведки, в этом районе сейчас находятся агенты синдиката.//(4.300982,6.986)\\\\Найди их и займись любимым делом.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\情报指出辛迪加重要成员目前就在该区域中。找到并消灭他们。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\情報指出組織的作業員正在這個區域。找出他們並發揮你的專長。",
+					"jp": "//[DIANA]\\\\//(0,4.44)\\\\情報によると、このエリアで活動中のシンジケートメンバーがいるそうよ。//(4.44,6.711812)\\\\追跡してあなたのやり方で始末して。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed031_welcomegen_diana_005",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed031_welcomegen_diana_005.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed031_welcomegen_diana_005.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,3.65)\\\\Intel tells us that there are Syndicate Members in the area.//(3.65,9.361963)\\\\I trust you can find them and eliminate them.",
+					"fr": "//[DIANA]\\\\//(0,3.202)\\\\D'après nos informations, des membres du syndicat se trouvent dans le secteur.//(3.202,6.5)\\\\Je compte sur vous pour les débusquer et les éliminer.",
+					"it": "//[DIANA]\\\\//(0,3.458927)\\\\Secondo le informazioni ci sono dei membri dell'organizzazione nell'area.//(3.458927,6.25)\\\\Confido che li scoverai e li eliminerai.",
+					"de": "//[DIANA]\\\\//(0,3.5)\\\\Laut unseren Informationen sollen Syndikatsmitglieder in dieser Gegend aktiv sein.//(3.5,6.25)\\\\Ich vertraue darauf, dass Sie sie finden und eliminieren können.",
+					"es": "//[DIANA]\\\\//(0,2.275792)\\\\Ha llegado a mi conocimiento que hay miembros del//(2.275792,3.630732)\\\\sindicato en la zona.//(3.630732,6.25)\\\\Confío en que puedas dar con ellos y eliminarlos.",
+					"ru": "//[DIANA]\\\\//(0,3.2)\\\\Разведка доложила, что здесь находятся агенты синдиката.//(3.655,6.25)\\\\Полагаю, ты сумеешь найти их и уничтожить.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\情报指出该区域中存在辛迪加成员。你一定能找到并消灭他们。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\情報指出這個區域內有組織成員。我相信你能找到並消滅他們。",
+					"jp": "//[DIANA]\\\\//(0,3.537)\\\\情報によると、このエリアにシンジケートメンバーがいるそうよ。//(3.537,6.25)\\\\あなたなら彼らをみつけ出して排除できるはずね。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed031_welcomegen_diana_006",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed031_welcomegen_diana_006.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed031_welcomegen_diana_006.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,2.521128)\\\\Syndicate Members are currently in the area.//(2.521128,4.740625)\\\\Find them and take them down.",
+					"fr": "//[DIANA]\\\\//(0,2.73)\\\\Des membres du syndicat se trouvent actuellement dans le secteur.//(2.73,5.063)\\\\Trouvez-les, et éliminez-les.",
+					"it": "//[DIANA]\\\\//(0,4.740625)\\\\Ci sono membri dell'organizzazione attualmente nell'area. Trovali e liberati di loro.",
+					"de": "//[DIANA]\\\\//(0,2.85)\\\\Syndikatsmitglieder sind aktuell in diesem Gebiet.//(2.85,4.740625)\\\\Finden Sie sie und schalten Sie sie aus.",
+					"es": "//[DIANA]\\\\//(0,2.822758)\\\\Hay actualmente miembros del sindicato en la zona.//(2.822758,4.740625)\\\\Encuéntralos y acaba con ellos.",
+					"ru": "//[DIANA]\\\\//(0,4.740625)\\\\В районе действуют агенты синдиката. Найди их и ликвидируй.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\辛迪加成员目前就在区域中。找到并消灭他们。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\組織成員目前正在這個區域中，找到並消滅他們。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\シンジケートメンバーが今このエリアにいるわ。みつけ出して排除して。"
+				}
+			}
+		]
+	}
+}

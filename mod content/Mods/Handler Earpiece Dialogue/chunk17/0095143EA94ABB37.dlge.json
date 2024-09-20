@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25073_opppainterbriefing.sweetdialog?/ds25073_opppainterbriefing_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25073_opppainterbriefing_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25073_opppainterbriefing_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25073_opppainterbriefing_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.217178)\\\\A local hitman known as \"The Kashmirian\" is in Mumbai on business.//(4.217178,8.52485)\\\\He set up a sniper nest in a tower above a stairwell in the local chawl.//(8.52485,11.35154)\\\\It appears he's targeting the luxury apartment//(11.35154,15.2323)\\\\belonging to Dawood Rangan, but has encountered a problem.//(15.2323,17.4823)\\\\Perhaps you can assist him?",
+			"fr": "//(0,2.55)\\\\Un tueur à gages local connu sous le nom du \"Cachemiri\"//(2.55,4.5)\\\\est à Bombay pour un contrat.//(4.5,6.294)\\\\Il a établi un perchoir dans une tour,//(6.294,8.766)\\\\au-dessus d'une cage d'escalier, dans le chawl du quartier.//(8.766,13.4)\\\\On dirait qu'il vise l'appartement de luxe de Dawood Rangan,//(13.4,15.05)\\\\mais il semble avoir un problème.//(15.05,19.22848)\\\\Peut-être pourriez-vous l'aider ?",
+			"it": "//(0,2.364856)\\\\L'assassino indiano che porta il nome di Kashmiro//(2.364856,4.835637)\\\\si trova a Mumbai per un incarico.//(4.835637,6.150492)\\\\Ha allestito una postazione da cecchino su una//(6.150492,9.671273)\\\\torre in cima alle scale nei chawl.//(9.671273,10.98613)\\\\Sembra che il suo obiettivo sia il lussuoso//(10.98613,13.31492)\\\\appartamento di Dawood Rangan,//(13.31492,15.7857)\\\\ma a quanto pare ha un problema.//(15.7857,17.66527)\\\\Forse puoi dargli una mano.",
+			"de": "//(0,0.904135)\\\\Der indische Auftragskiller,//(0.904135,2.592146)\\\\den sie den Kaschmiri nennen,//(2.592146,4.340405)\\\\ist geschäftlich in Mumbai.//(4.340405,6.025908)\\\\Er hat sich ein Scharfschützennest in einem Turm//(6.025908,8.6526)\\\\über einem Treppenhaus im örtlichen Chawl eingerichtet.//(8.6526,11.07993)\\\\Offenbar ist sein Ziel das Luxusapartment,//(11.07993,15.08091)\\\\das Dawood Rangan gehört, aber da gibt es ein Problem.//(15.08091,17.66527)\\\\Vielleicht können Sie ihm ja helfen?",
+			"es": "//(0,2.5)\\\\Un sicario local, conocido como «el Cachemir»//(2.5,4.128072)\\\\está en Bombay por un trabajo.//(4.128072,6.80933)\\\\Ha montado un nido de francotirador en una torre,//(6.80933,9)\\\\sobre una escalera del chawl de la zona.//(9,13.5)\\\\Por lo visto, su objetivo es el apartamento de lujo que pertenece a Dawood Rangan...//(13.5,15.5)\\\\aunque parece tener un problemilla.//(15.5,18.48196)\\\\Tal vez puedas ayudarle.",
+			"ru": "//(0,2.560122)\\\\Индийский наемный убийца по кличке Кашмирец//(2.560122,4.400613)\\\\приехал в Мумбаи по делу//(4.400613,6.3273)\\\\и устроил себе снайперскую позицию в башне//(6.3273,8.917791)\\\\над лестничным пролетом местного чоула.//(8.917791,11.55351)\\\\Он направил оружие на элитную квартиру//(11.55351,13.64598)\\\\Давуда Ранжана,//(13.64598,15.432)\\\\но столкнулся с проблемой.//(15.432,17.66527)\\\\Поможешь ему?",
+			"cn": "//(0,4.9)\\\\那个被称为“克什米尔人”的印度籍杀手也在这里。//(4.9,9)\\\\他已经在当地公寓楼梯井上面的塔上搭好了狙击点。//(9,15.6)\\\\看起来，他的目标是达伍德·朗甘旗下的某座豪华公寓，不过他似乎遇到了某种问题。//(15.6,17.665)\\\\或许你可以帮他的忙？",
+			"tc": "//(0,4.9)\\\\那個被稱為「喀什米爾人」的印度籍殺手也在這裡。//(4.9,9)\\\\他已經在當地公寓樓梯井上塔搭好狙擊點。//(9,15.6)\\\\看起來，他的目標是達伍德．朗甘旗下的某座豪華公寓，不過他似乎遇到某種問題。//(15.6,17.66527)\\\\或許你可以幫他的忙？",
+			"jp": "//(0,4.11)\\\\「カシミリアン」として知られるヒットマンがムンバイに仕事で来ているわ。//(4.11,8.535)\\\\共同住宅の階段の吹き抜けの上をスナイパーの巣にしたようよ。//(8.535,13.365)\\\\ダウッド・ランガンが所有する高級マンションを狙っているようだけど、//(13.365,15.08)\\\\どうやら問題に出くわしたみたい。//(15.08,17.66527)\\\\手を貸してあげられないかしら？"
+		}
+	}
+}

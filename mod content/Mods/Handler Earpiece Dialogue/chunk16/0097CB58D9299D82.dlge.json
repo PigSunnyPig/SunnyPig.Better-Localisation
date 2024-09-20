@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_skunk/27000_handler/ds27078_healthdoorlocked.sweetdialog?/ds27078_healthdoorlocked_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds27078_healthdoorlocked_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_skunk/27000_handler/ds27078_healthdoorlocked_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_skunk/27000_handler/ds27078_healthdoorlocked_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,2.379736)\\\\47, you have to find a way out of there.//(2.379736,5.378816)\\\\I can't possibly construct a viable ID for you in time.//(5.378816,9.361542)\\\\I'll have Miss Hall remotely interfere with their search but we can't keep it up for long.",
+			"fr": "//[DIANA]\\\\//(0,2.367)\\\\47, vous devez sortir d'ici,//(2.367,5.516)\\\\je n'aurai pas le temps de vous créer une fausse identité.//(5.516,8)\\\\Je vais demander à mademoiselle Hall de perturber leurs recherches à distance,//(8,9.361542)\\\\mais cela ne les retiendra pas longtemps.",
+			"it": "//[DIANA]\\\\//(0,2.217645)\\\\47, devi trovare il modo di uscire perché non//(2.217645,5.66243)\\\\riuscirò a crearti un identificativo falso in tempo.//(5.66243,11.19961)\\\\Farò in modo che la signorina Hall interferisca con la loro ricerca, ma non riuscirò a tirarla troppo lunga.",
+			"de": "//[DIANA]\\\\//(0,2.4)\\\\47, Sie müssen einen Weg dort raus finden.//(2.4,3.7)\\\\Ich kann rechtzeitig einfach keine passende//(3.7,5.5)\\\\Identität für Sie erstellen.//(5.5,6.4)\\\\Ich weise Miss Hall an,//(6.4,8)\\\\dass sie per Internet ihre Suche stört,//(8,9.361542)\\\\aber das können wir nicht lange durchziehen.",
+			"es": "//[DIANA]\\\\//(0,2.2)\\\\47, tienes que encontrar la forma de salir de ahí.//(2.2,5.45)\\\\No podré crearte una identificación viable a tiempo.//(5.45,7.9)\\\\Haré que la señorita Hall interfiera de forma remota la búsqueda,//(7.9,11.36724)\\\\pero no podemos darte mucho tiempo.",
+			"ru": "//[DIANA]\\\\//(0,2.375)\\\\47-й, уходи оттуда.//(2.375,4.615)\\\\Мне не сделать поддельное удостоверение личности//(4.615,7.312)\\\\так быстро. Я попрошу мисс Холл удаленно вмешаться//(7.312,9.361542)\\\\в их поиски, но нас надолго не хватит.",
+			"cn": "//[DIANA]\\\\//(0,5.571)\\\\47，你得想办法离开这里。我没法为你及时制作出有效的ID。//(5.571,9.362)\\\\我会叫霍尔女士远程干扰他们的搜索，但这不是长久之计。",
+			"tc": "//[DIANA]\\\\//(0,2.368)\\\\47，你得想辦法離開這裡。//(2.368,5.468)\\\\我沒法為你及時做出有效的ID。//(5.468,9.361542)\\\\我會叫霍爾女士遠端干擾他們的搜索，但這不是長久之計。",
+			"jp": "//[DIANA]\\\\//(0,2.43)\\\\47、脱出手段を見つけて。//(2.43,5.283)\\\\私では恐らく有効なIDを時間内に構築するのは無理よ。//(5.283,9.361542)\\\\ホールさんに彼らが捜索するのを遠隔から妨害してもらうけど、長くはもたない。"
+		}
+	}
+}

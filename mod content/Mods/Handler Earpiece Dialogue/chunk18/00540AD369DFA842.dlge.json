@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colombia/23000_hippo/23000_handler/23000_hippo_flyin.sweetdialog?/23000_hippo_flyin_diana_005.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "23000_hippo_flyin_diana_005",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colombia/23000_hippo/23000_handler/23000_hippo_flyin_diana_005.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colombia/23000_hippo/23000_handler/23000_hippo_flyin_diana_005.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,2.664785)\\\\Armed sicarios patrol the streets of the village,//(2.664785,32.66478)\\\\ready to enforce harsh punishments to those who do not comply.",
+			"fr": "//[DIANA]\\\\//(0,2.795)\\\\Des sicarios armés patrouillent dans les rues du village,//(2.795,32.795)\\\\prêts à tabasser tous ceux qui ne marchent pas dans les clous.",
+			"it": "//[DIANA]\\\\//(0,2)\\\\Sicari armati pattugliano le strade del villaggio,//(2,32)\\\\pronti a infliggere punizioni severe a tutti quelli che non si attengono alle regole.",
+			"de": "//[DIANA]\\\\//(0,3.605276)\\\\Bewaffnete Patrouillen von Sicarios streifen durch die Straßen des Dorfs und sind bereit,//(3.605276,33.60528)\\\\jeden hart zu bestrafen, der ihren Anweisungen nicht Folge leistet.",
+			"es": "//[DIANA]\\\\//(0,2.696687)\\\\Sicarios armados patrullan las calles del pueblo,//(2.696687,32.69669)\\\\listos para impartir severos castigos a quienes no acaten sus órdenes.",
+			"ru": "//[DIANA]\\\\//(0,2)\\\\Улицы патрулируют вооруженные отряды сикарио,//(2,32)\\\\готовые жестоко наказать любого, кто ослушается приказа.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\武装暴徒在村子的街道中巡逻，随时准备对不服从的平民执行冷酷惩罚。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\武裝守衛在村莊街道巡邏，如果有人不服從命令，隨時採取強硬的懲罰行動。",
+			"jp": "//[DIANA]\\\\//(0,2.656)\\\\武装したシカリオが村を巡回していて、//(2.656,32.656)\\\\命令に従わない者に対しては厳しい処分を与えているわ。"
+		}
+	}
+}

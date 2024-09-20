@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_skunk/27000_handler/ds27004_cassidydown.sweetdialog?/ds27004_cassidydown_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds27004_cassidydown_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_skunk/27000_handler/ds27004_cassidydown_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_skunk/27000_handler/ds27004_cassidydown_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,1.548539)\\\\Nolan Cassidy is down.//(1.548539,4.450833)\\\\Good work, 47. Janus awaits your attention.",
+			"fr": "//[DIANA]\\\\//(0,1.425782)\\\\Nolan Cassidy est neutralisé.//(1.425782,3.025)\\\\Beau travail, 47.//(3.025,4.557225)\\\\Janus vous attend, à présent.",
+			"it": "//[DIANA]\\\\//(0,1.296074)\\\\Nolan Cassidy è morto.//(1.296074,3.020369)\\\\Ottimo lavoro, 47.//(3.020369,4.450833)\\\\Janus aspetta di avere la tua attenzione.",
+			"de": "//[DIANA]\\\\//(0,1.654)\\\\Nolan Cassidy ist erledigt.//(1.654,3.1)\\\\Gute Arbeit, 47.//(3.1,4.450833)\\\\Janus wartet auf Ihre Zuwendungen.",
+			"es": "//[DIANA]\\\\//(0,1.725497)\\\\Nolan Cassidy ha sido abatido.//(1.725497,3.1)\\\\Buen trabajo, 47.//(3.1,4.450833)\\\\Janus reclama tu atención.",
+			"ru": "//[DIANA]\\\\//(0,1.44752)\\\\Нолан Кэссиди устранен.//(1.44752,4.450833)\\\\Молодец, 47-й. Теперь тебя ждет Янус.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\诺兰·卡西迪已被消灭。干得好，47。还有杰纳斯要对付。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\諾蘭．凱西迪已被消滅。幹得好，47。還有傑納斯要對付。",
+			"jp": "//[DIANA]\\\\//(0,30)\\\\ノーラン・キャシディ排除。お見事、47。次はヤヌスがお待ちかねよ。"
+		}
+	}
+}

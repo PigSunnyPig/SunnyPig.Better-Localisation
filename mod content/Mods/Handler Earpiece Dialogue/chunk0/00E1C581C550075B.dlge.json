@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/tutorial/9000_handler/ds9253_mechanichint.sweetdialog?/ds9253_mechanichint_young_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds9253_mechanichint_young_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/tutorial/9000_handler/ds9253_mechanichint_young_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/tutorial/9000_handler/ds9253_mechanichint_young_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,5.25)\\\\Hm, I see. In order to make adjustments to the jet and perform the role of safety inspector,//(5.25,35.25)\\\\you are going to need a mechanic's disguise.",
+			"fr": "//(0,0.45)\\\\Hmm,//(0.4880982,1.238098)\\\\je vois.//(1.624294,5.515)\\\\Pour apporter des modifications à l'avion et vous faire passer pour l'inspecteur de sécurité,//(5.747668,35.74767)\\\\il va vous falloir un déguisement de mécanicien.",
+			"it": "//(0,1.356196)\\\\Uhm, capisco.//(1.356196,5.037178)\\\\Ti servirà un travestimento da meccanico per apportare modifiche all'aereo//(5.037178,35.03718)\\\\e impersonare il ruolo dell'ispettore di sicurezza.",
+			"de": "//(0,1.356196)\\\\Hm, verstehe.//(1.356196,31.3562)\\\\Um Änderungen am Jet vornehmen und als Sicherheitsinspektor auftreten zu können, müssen Sie sich als Mechaniker verkleiden.",
+			"es": "//(0,1.7)\\\\Ya veo...//(1.7,6)\\\\Para poder realizar ajustes en el avión y hacer de inspector de seguridad,//(6,36)\\\\vas a necesitar un disfraz de mecánico.",
+			"ru": "//(0,1.356196)\\\\Хм, ясно.//(1.356196,5.157178)\\\\Чтобы покопаться в самолете и притвориться инструктором по технике безопасности,//(5.157178,35.15718)\\\\нужна форма механика.",
+			"cn": "//(0,5.468098)\\\\嗯，我明白了，为了扮演安全检查员的角色并调校飞机，//(5.468098,35.4681)\\\\你需要机械工的伪装。",
+			"tc": "//(0,30)\\\\嗯，我明白了。為了扮演安全檢查員的角色並調校飛機，你需要機械工的偽裝。",
+			"jp": "//(0,5)\\\\なるほどね。ジェット機を点検したり、安全検査官になりすますには//(5,7.64075)\\\\整備士に変装する必要があるわね。"
+		}
+	}
+}

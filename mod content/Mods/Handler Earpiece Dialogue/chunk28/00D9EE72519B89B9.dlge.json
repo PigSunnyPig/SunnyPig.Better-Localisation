@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/rocky/dugong/46000_handler/46000_flyin.sweetdialog?/46000_flyin_grey_005.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "46000_flyin_grey_005",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/rocky/dugong/46000_handler/46000_flyin_grey_005.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/rocky/dugong/46000_handler/46000_flyin_grey_005.animset].pc_animset",
+		"languages": {
+			"en": "//[GREY]\\\\//(0,7.997668)\\\\Knowing Crest, he'll have given his to someone he trusts, but Akka is less inclined to delegate.",
+			"fr": "//[GREY]\\\\//(0,6.082958)\\\\Crest aura sûrement confié la sienne à quelqu'un de confiance, mais je doute qu'Akka ait fait pareil.",
+			"it": "//[GREY]\\\\//(0,0.7070827)\\\\Conoscendo Crest,//(0.7070827,3)\\\\la sua sarà in mano a qualcuno di cui si fida,//(3,6.082958)\\\\mentre Akka non ama delegare.",
+			"de": "//[GREY]\\\\//(0,0.9)\\\\So wie ich Crest kenne,//(0.9,3.1)\\\\wird er seine Karte jemandem geben, dem er vertraut,//(3.1,6.082958)\\\\aber Akka neigt wohl eher nicht zum Delegieren.",
+			"es": "//[GREY]\\\\//(0,3.25)\\\\Conociendo a Crest, le habrá dado la suya a alguien de su confianza;//(3.25,6.082958)\\\\en cambio, Akka es menos propensa a delegar.",
+			"ru": "//[GREY]\\\\//(0,3.38)\\\\Крест наверняка отдал свою карту доверенному лицу,//(3.38,6.082958)\\\\но Акка явно держит карту при себе.",
+			"cn": "//[GREY]\\\\//(0,30)\\\\据我对克雷斯的了解，他会把他手头的钥匙卡交给信赖的人保管，但艾卡会自己保管。",
+			"tc": "//[GREY]\\\\//(0,3.2)\\\\依我對克雷斯特的瞭解，他會把這些交給他信任的人，//(3.2,33.2)\\\\但阿卡應該不會這麼輕易信任手下。",
+			"jp": "//[GREY]\\\\//(0,6.082958)\\\\クレストのことだから、1枚は信用している人間に預けているはずだが、アッカはそうはしないだろう。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/12500_white_spider/12500_rabies/12500_handler/ds12535_exp_resume.sweetdialog?/ds12535_exp_resume_diana_ws_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds12535_exp_resume_diana_ws_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12535_exp_resume_diana_ws_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12535_exp_resume_diana_ws_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Now back to our explosives expert...",
+			"fr": "//(0,30)\\\\Revenons à notre expert en explosifs...",
+			"it": "//(0,30)\\\\Ora torniamo al nostro esperto di esplosivi...",
+			"de": "//(0,30)\\\\Und jetzt zurück zu unserem Sprengstoffexperten ...",
+			"es": "//(0,30)\\\\Ahora vuelve a por el experto en explosivos.",
+			"ru": "//(0,30)\\\\Вернемся к нашему эксперту-подрывнику...",
+			"cn": "//(0,30)\\\\现在回来看看我们的爆破专家...",
+			"tc": "//(0,30)\\\\現在回來看看我們的爆破專家......",
+			"jp": "//(0,30)\\\\あとは、 爆発物担当ね..."
+		}
+	}
+}

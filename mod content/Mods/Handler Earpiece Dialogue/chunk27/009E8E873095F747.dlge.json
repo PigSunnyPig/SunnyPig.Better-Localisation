@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_fashion/3000_handler/ds3335_oppcocktailbriefing.sweetdialog?/ds3335_oppcocktailbriefing_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds3335_oppcocktailbriefing_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_fashion/3000_handler/ds3335_oppcocktailbriefing_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_fashion/3000_handler/ds3335_oppcocktailbriefing_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,6.7)\\\\According to staff, Viktor Novikov’s favorite drink is a rather obscure cocktail known as a Bare Knuckle Boxer.//(6.7,10.1)\\\\The recipe, however, has been misplaced in the basement.//(10.1,40.1)\\\\Sounds like a chance opportunity to get on Novikov’s good side.",
+			"fr": "//(0,1.2)\\\\Selon son personnel,//(1.2,6.8)\\\\la boisson préférée de Viktor Novikov est un cocktail peu connu, le \"Bare Knuckle Boxer\",//(6.8,10.1)\\\\dont la recette a été malencontreusement égarée quelque part dans les sous-sols.//(10.1,40.1)\\\\Une excellente occasion de vous faire bien voir de Novikov.",
+			"it": "//(0,3.680982)\\\\L'entourage di Novikov sostiene che il suo drink preferito sia//(3.680982,6.757668)\\\\uno sconosciuto cocktail chiamato Bare Knuckle Boxer.//(6.757668,10.69055)\\\\Tuttavia, la ricetta è finita per errore nel seminterrato.//(10.69055,40.69055)\\\\Mi sembra un'ottima occasione per entrare nelle grazie di Novikov.",
+			"de": "//(0,6.821472)\\\\Laut des Personals ist Viktor Novikovs Lieblingsdrink ein vergleichsweise unbekannter Cocktail namens Bare Knuckle Boxer.//(6.821472,36.82147)\\\\Dummerweise hat jemand das Rezept im Keller vergessen. Das wäre doch eine Möglichkeit, sich bei Novikov beliebt zu machen.",
+			"es": "//(0,6.7)\\\\Según el personal, lo que más le gusta beber a Viktor Novikov es un curioso cóctel conocido como \"púgil añejo\".//(6.7,10)\\\\Sin embargo, la receta se ha extraviado por el sótano.//(10,40)\\\\Parece una buena oportunidad para ganarte el favor de Novikov.",
+			"ru": "//(0,6.7)\\\\Судя по словам обслуги, любимый напиток Новикова — редкий коктейль «Боксер без перчаток».//(6.7,10)\\\\Его рецепт по ошибке оказался в подвале.//(10,40)\\\\Неплохая возможность сыграть на слабостях Новикова.",
+			"cn": "//(0,1.16)\\\\据工作人员称，//(1.16,4.7)\\\\诺维科夫最喜欢的饮料是一种没听说过的鸡尾酒，//(4.7,6.2)\\\\名叫“无手套拳击手”。//(6.2,9.7)\\\\不过它的配方被误放在地下室里了。//(9.7,39.7)\\\\听上去是个接近诺维科夫的好机会。",
+			"tc": "//(0,6.7)\\\\據工作人員稱，諾維科夫最喜歡的飲料是一種沒聽說過的雞尾酒，名叫「拳手鐵拳」。//(6.7,36.7)\\\\不過它的配方被誤放在地下室裡了。聽上去是個接近諾維科夫的好機會。",
+			"jp": "//(0,5.955555)\\\\スタッフに よると、 ヴィクター・ ノビコフは、 「ベア・ナックル・ ボクサー」っていう カクテルが 大好きみたい。//(5.955555,13.4)\\\\ただ、 そのレシピを 地下室に 忘れて きて しまったらしいわ。 ノビコフ側の 人間に 恩を 売るいい機会よ。"
+		}
+	}
+}

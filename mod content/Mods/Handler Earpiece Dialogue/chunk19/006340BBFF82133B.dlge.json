@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/miami/21000_flamingo/21000_handler/ds21010_oppkillbriefing.sweetdialog?/ds21010_oppkillbriefing_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds21010_oppkillbriefing_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/miami/21000_flamingo/21000_handler/ds21010_oppkillbriefing_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/miami/21000_flamingo/21000_handler/ds21010_oppkillbriefing_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.870982)\\\\Ted Mendez, a defense funding consultant with the US military,//(3.870982,8.34352)\\\\is scheduled for a private demonstration of a new Kronstadt robotics project.//(8.34352,14.13162)\\\\Sounds like a way to get up close and personal with Robert Knox, 47.",
+			"fr": "//(0,3.552883)\\\\Ted Mendez, un conseiller en financement pour l'armée américaine,//(3.552883,5.798275)\\\\a rendez-vous pour une démonstration privée d'un nouveau//(5.798275,8.4)\\\\projet en robotique de Kronstadt.//(8.4,12.90688)\\\\Peut-être un moyen de vous rapprocher de Robert Knox, 47.",
+			"it": "//(0,2.8964)\\\\Ted Mendez, un consulente per i fondi della difesa//(2.8964,4.239937)\\\\per conto dell'esercito statunitense,//(4.239937,6.724518)\\\\ha in programma di assistere a una dimostrazione//(6.724518,8.320388)\\\\privata del nuovo progetto di robotica Kronstadt.//(8.320388,13.25327)\\\\Sembrerebbe un modo per avvicinarsi a Robert Knox, 47.",
+			"de": "//(0,2.696687)\\\\Ted Mendez, ein Berater für die Budgetplanung//(2.696687,4.993374)\\\\des US-Militärs, hat einen Termin für eine//(4.993374,8.221114)\\\\Privatvorführung des neuen Kronstadt-Robotikprojekts.//(8.221114,9.14242)\\\\Klingt nach einem Weg,//(9.14242,12.74994)\\\\um ganz nah an Robert Knox heranzukommen, 47.",
+			"es": "//(0,2.176681)\\\\Ted Méndez, un asesor financiero en materia de//(2.176681,4.100382)\\\\defensa del ejército de los EE.//(4.100382,6.893606)\\\\UU. , tiene cita para una demostración privada del//(6.893606,8.817307)\\\\nuevo proyecto de robótica de Kronstadt.//(8.817307,11.17019)\\\\Me parece una forma cercana y personal de conocer//(11.17019,12.03971)\\\\a Robert Knox,//(12.03971,13.03971)\\\\47.",
+			"ru": "//(0,2.217106)\\\\Тед Мендес, финансовый консультант по военным//(2.217106,3.382786)\\\\заказам армии США,//(3.382786,5.485637)\\\\приглашен на закрытую презентацию нового проекта//(5.485637,7.3636)\\\\«Кронштадт Индастриз» по робототехнике.//(7.3636,9.931182)\\\\Кажется, это хороший шанс подобраться к Роберту//(9.931182,11.79781)\\\\Ноксу и узнать его лично,//(11.79781,12.79781)\\\\47-й.",
+			"cn": "//(0,8.4)\\\\来自美军的国防经费顾问泰德·门德兹正计划私下参观喀琅施塔得的一项新机器人项目。//(8.4,12.75)\\\\听起来是个与罗伯特·诺克斯单人私下接触的好机会，47。",
+			"tc": "//(0,8.4)\\\\來自美軍的國防經費顧問泰德．門德茲正計劃私下參觀喀琅施塔得的一項新機器人項目。//(8.4,12.74994)\\\\聽起來是個與羅伯特．諾克斯單人私下接觸的好機會，47。",
+			"jp": "//(0,12.74994)\\\\米国防総省の防衛資金コンサルタントであるテッド・メンデス氏は、新たなクローンシュタット・ロボティクスプロジェクトの非公開デモンストレーションを予定しているわ。ロバート・ノックスと親密にやりとりする方法のように聞こえるわね。"
+		}
+	}
+}

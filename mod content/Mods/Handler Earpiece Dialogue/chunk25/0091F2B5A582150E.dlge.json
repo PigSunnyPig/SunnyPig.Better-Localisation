@@ -1,0 +1,21 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/marrakech/11600_elusive/11600_negroni/11600_negroni_handler/dr11610_diana.sweetdialog?/dr11610_diana_diana_et_011.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"langmap": "xx,en,fr,it,de,es",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr11610_diana_diana_et_011",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_handler/dr11610_diana_diana_et_011.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_handler/dr11610_diana_diana_et_011.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Orlando has been eliminated. Now for Renzo.",
+			"fr": "//(0,1.61)\\\\Orlando a été éliminé.//(1.985,31.985)\\\\Au tour de Renzo.",
+			"it": "//(0,30)\\\\Orlando è stato eliminato. Ora tocca a Renzo.",
+			"de": "//(0,30)\\\\Orlando ist damit neutralisiert. Weiter gehts mit Renzo.",
+			"es": "//(0,30)\\\\Orlando ha sido eliminado. Ahora le toca a Renzo."
+		}
+	}
+}

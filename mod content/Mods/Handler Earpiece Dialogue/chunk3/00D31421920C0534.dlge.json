@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/cutscenes_s03/m02_bulldog/m02_bulldog_flyin.sweetdialog?/m02_bulldog_flyin_diana_004.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "m02_bulldog_flyin_diana_004",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/cutscenes_s03/m02_bulldog/m02_bulldog_flyin_diana_004.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/cutscenes_s03/m02_bulldog/m02_bulldog_flyin_diana_004.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,30)\\\\Curiously, Carlisle summoned a famous London PI soon after arriving this morning, but his purpose at Thornbridge is yet unclear.",
+			"fr": "//[DIANA]\\\\//(0,30)\\\\Curieusement, elle a aussi fait venir un détective privé londonien dès son arrivée ce matin, mais le but de sa visite n'est pas encore clair.",
+			"it": "//[DIANA]\\\\//(0,5.745)\\\\Stranamente, Carlisle ha fatto venire un famoso investigatore privato di Londra stamattina, subito dopo essere arrivata,//(5.745,35.745)\\\\ma il motivo della sua presenza alla tenuta Thornbridge non è ancora chiaro.",
+			"de": "//[DIANA]\\\\//(0,30)\\\\Interessanterweise hat Carlisle kurz nach ihrer Ankunft einen berühmten Privatdetektiv aus London gerufen, aber was er in Thornbridge soll, bleibt unklar.",
+			"es": "//[DIANA]\\\\//(0,5.7)\\\\Curiosamente, lo primero que hizo Alexa Carlisle al llegar esta mañana fue llamar a un famoso detective privado//(5.7,35.7)\\\\para que acuda a Thornbridge. Se desconoce con qué fin.",
+			"ru": "//[DIANA]\\\\//(0,30)\\\\Любопытно, что сегодня утром, после приезда в Торнбридж, Карлайл вызвала из Лондона известного частного сыщика, но цель его визита неясна.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\令人不解的是，卡莱尔在今晨抵达后不久就找了伦敦的一位知名私家侦探，但他来索布里奇的目的尚不明了。",
+			"tc": "//[DIANA]\\\\//(0,5.6)\\\\奇怪的是，卡萊爾今早剛剛來到倫敦就喚來了一名知名的私家偵探，//(5.6,35.6)\\\\但它來到索恩橋的目的仍然不明。",
+			"jp": "//[DIANA]\\\\//(0,5.7)\\\\奇妙なことに、カーライルは今朝ここに着くと、すぐにロンドンから有名な私立探偵を呼んだわ。//(5.7,35.7)\\\\ソーンブリッジでの目的はわからない。"
+		}
+	}
+}

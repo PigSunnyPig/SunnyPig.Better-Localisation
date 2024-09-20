@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_cross/4000_handler/ds4032_bothtargetsdownspecial.sweetdialog?/ds4032_bothtargetsdownspecial_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds4032_bothtargetsdownspecial_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_cross/4000_handler/ds4032_bothtargetsdownspecial_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_cross/4000_handler/ds4032_bothtargetsdownspecial_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,5.925276)\\\\Both targets down. Bravo, 47. A fitting end, if I ever saw one.//(5.925276,35.92528)\\\\The clients will approve. Now head towards an exit.",
+			"fr": "//(0,5.896)\\\\Les deux cibles ont été éliminées. Respect, 47. Voilà une fin appropriée ou je ne m'y connais pas.//(5.896,35.896)\\\\Nos clients seront ravis. Maintenant, rejoignez une sortie.",
+			"it": "//(0,3.328589)\\\\Entrambi i bersagli eliminati. Complimenti, 47.//(3.328589,5.873375)\\\\Non riesco a immaginare una fine più appropriata.//(5.873375,35.87337)\\\\I clienti apprezzeranno. Ora raggiungi un'uscita.",
+			"de": "//(0,5.66908)\\\\Beide Ziele neutralisiert. Respekt, 47. Wenn das kein passendes Ende ist.//(5.66908,35.66908)\\\\Unsere Klienten werden sehr zufrieden sein. Ich denke, Sie sollten das Hotel jetzt verlassen.",
+			"es": "//(0,5.907178)\\\\Ambos objetivos abatidos. Enhorabuena, 47. Un final muy apropiado, en mi opinión.//(5.907178,35.90718)\\\\Los clientes darán su visto bueno. Ahora dirígete a una salida.",
+			"ru": "//(0,2.960491)\\\\Обе цели мертвы. Браво, 47-й.//(2.960491,5.66908)\\\\Самый достойный конец на моей памяти.//(5.66908,35.66908)\\\\Клиенты будут довольны. Направляйся к выходу.",
+			"cn": "//(0,3.318098)\\\\两个目标都已被消灭。棒极了，47。//(3.318098,33.3181)\\\\真是适合他们的结局，客户一定会很满意的。现在前往出口。",
+			"tc": "//(0,3.4)\\\\兩個目標都已被消滅。棒極了，47。//(3.4,33.4)\\\\真是適合他們的結局，客戶一定會很滿意的。現在前往出口。",
+			"jp": "//(0,30)\\\\両ターゲット・ ダウン。 お見事よ、 47。 まさにお似合いの 結末だわ。 さあ、 出口に 向かって。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25056_slumsentry.sweetdialog?/ds25056_slumsentry_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25056_slumsentry_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25056_slumsentry_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25056_slumsentry_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,5.405276)\\\\47, our intel suggests The Maelstrom is hiding somewhere in the city slums.//(5.405276,8.936258)\\\\I've marked the headquarters of The Crows on your map.",
+			"fr": "//(0,3.064785)\\\\47, nos informations laissent penser que le Maelström//(3.064785,5.791472)\\\\se cache quelque part dans les bidonvilles.//(5.791472,9.124356)\\\\J'ai marqué le repaire des Crows sur votre carte,//(9.124356,39.12436)\\\\vous pourriez y trouver des indices sur sa position.",
+			"it": "//(0,2.080491)\\\\47, secondo le nostre informazioni,//(2.080491,6.011473)\\\\Maelstrom è nascosto da qualche parte nei sobborghi della città.//(6.011473,9.02436)\\\\Ti ho segnato la sede dei Corvi sulla mappa.//(9.02436,39.02436)\\\\Potrebbero esserci degli indizi su come trovarlo.",
+			"de": "//(0,2.448589)\\\\47, unsere Infos deuten darauf hin,//(2.448589,4.28908)\\\\dass der Maelstrom sich irgendwo//(4.28908,5.847669)\\\\in den Slums der Stadt versteckt.//(5.847669,7.556258)\\\\Ich habe das Hauptquartier der Crows//(7.556258,8.979)\\\\auf Ihrer Karte markiert.//(8.979,38.979)\\\\Vielleicht können Sie dort Hinweise auf ihn finden.",
+			"es": "//(0,5.8)\\\\47, creemos que el Torbellino se oculta en algún rincón de los suburbios de la ciudad.//(5.8,8.8)\\\\Te he marcado la guarida de los Cuervos en el mapa.//(8.8,38.8)\\\\Puede que allí encuentres pistas sobre su paradero.",
+			"ru": "//(0,2.080491)\\\\47-й, судя по нашим данным,//(2.080491,5.83908)\\\\Вихрь прячется в бедном районе города.//(5.83908,8.915767)\\\\Я отметила базу «Воронов» на твоей карте.//(8.915767,38.91577)\\\\Возможно, там есть какие-нибудь зацепки.",
+			"cn": "//(0,5.666)\\\\47，我们的情报显示大漩涡正躲在这座城区贫民窟的某处。//(5.666,35.666)\\\\我已经将乌鸦帮的总部标注在了你的地图上。其中也许包含有找到他的线索。",
+			"tc": "//(0,5.768)\\\\47，我們的情報指出大漩渦正躲在城市的貧民窟中。//(5.768,35.768)\\\\我會在地圖上標出烏鴉的總部。可能隱藏找到行蹤的線索。",
+			"jp": "//(0,2.185)\\\\47、情報筋によると、//(2.185,5.82)\\\\メイルストロムはスラム街のどこかに隠れているみたい。//(5.82,8.85)\\\\地図に「CROWS」本部の場所に印を付けといたわ。//(8.85,38.85)\\\\彼を探す手がかりが見つかれるかもしれない。"
+		}
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/evergreen/handler/ed048_failbonus.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ed048_failbonus_diana_001",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed048_failbonus_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed048_failbonus_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\A shame, 47. This will affect your payout.",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Dommage, 47. Cela se répercutera sur la prime.",
+					"it": "//[DIANA]\\\\//(0,30)\\\\Che peccato, 47. Questo influirà sul tuo compenso.",
+					"de": "//[DIANA]\\\\//(0,1.45)\\\\Eine Schande, 47.//(1.45,3.0495)\\\\Das wird sich auf Ihre Bezahlung auswirken.",
+					"es": "//[DIANA]\\\\//(0,30)\\\\Una pena, 47. Esto afectará a tu retribución.",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\Очень жаль, 47-й. Тебе выплатят меньше.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\可惜啊，47。你的报酬会受影响的。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\真可惜，47。這會影響你的收入。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\残念ね、47。あなたの報酬に影響することになるわ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed048_failbonus_diana_002",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed048_failbonus_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed048_failbonus_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,1.458875)\\\\47. Unfortunately,//(1.458875,4.7685)\\\\your careless actions will impact your payout.",
+					"fr": "//[DIANA]\\\\//(0,0.786)\\\\47.//(0.786,4.623)\\\\Malheureusement, votre imprudence va influer sur votre prime.",
+					"it": "//[DIANA]\\\\//(0,4.86895)\\\\47. Purtroppo, una linea d'azione così sconsiderata influirà sul tuo compenso.",
+					"de": "//[DIANA]\\\\//(0,4.7685)\\\\47. Leider wird sich dieses unvorsichtige Handeln auf Ihre Bezahlung auswirken.",
+					"es": "//[DIANA]\\\\//(0,1.844294)\\\\47, por desgracia,//(1.844294,4.7685)\\\\tu total falta de tacto afectará a tu retribución.",
+					"ru": "//[DIANA]\\\\//(0,4.7685)\\\\47-й, увы, твои безрассудные действия повлияют на размер выплаты.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\47。很不幸，你马虎的举动会影响你的报酬。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\47，很遺憾，你莽撞的行為會影響你的收入。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\47。残念ながら、あなたの軽率な行動は報酬に影響するわ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed048_failbonus_diana_003",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed048_failbonus_diana_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed048_failbonus_diana_003.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,2.5)\\\\You need to be more careful, 47.//(2.5,32.5)\\\\That just had an impact on your payout.",
+					"fr": "//[DIANA]\\\\//(0,2.15)\\\\Vous devriez faire plus attention, 47.//(2.15,4.568583)\\\\Vous venez d'amputer une partie de votre prime.",
+					"it": "//[DIANA]\\\\//(0,4.568583)\\\\Devi fare più attenzione, 47. Il tuo compenso ne risentirà.",
+					"de": "//[DIANA]\\\\//(0,2.4)\\\\Sie müssen vorsichtiger sein, 47.//(2.4,4.568583)\\\\Das hat sich gerade auf die Bezahlung ausgewirkt.",
+					"es": "//[DIANA]\\\\//(0,2.428589)\\\\Has de tener más cuidado, 47.//(2.428589,4.568583)\\\\Eso solo afectará a tu retribución.",
+					"ru": "//[DIANA]\\\\//(0,2.5)\\\\Действуй осторожнее, 47-й.//(2.5,4.568583)\\\\Ты только что сократил размер своей выплаты.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\你得多加小心，47。那么做对你的报酬产生了影响。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\你得小心一點，47。那個行為會影響你的收入。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\もう少し気をつけないと、47。今の行動はあなたの報酬に影響したわ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed048_failbonus_diana_004",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed048_failbonus_diana_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed048_failbonus_diana_004.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,1.766)\\\\How unfortunate.//(1.766,3.590396)\\\\That will affect your final payment.",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Comme c'est dommage... Cela va affecter votre prime.",
+					"it": "//[DIANA]\\\\//(0,3.590396)\\\\Che sfortuna. Questo influirà sul tuo compenso finale.",
+					"de": "//[DIANA]\\\\//(0,1.6)\\\\Wie schade.//(1.6,4.076687)\\\\Das wird sich auf die Abschlusszahlung auswirken.",
+					"es": "//[DIANA]\\\\//(0,30)\\\\Vaya por Dios. Eso afectará a tu prima final.",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\Какая жалость. Это повлияет на размер твоей выплаты.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\太不幸了。你的最终报酬会受影响。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\真遺憾，這會影響你的最終收入。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\残念ね。あなたの最終的な報酬に影響するわ。"
+				}
+			}
+		]
+	}
+}

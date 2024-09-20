@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/bangkok/12000_white_spider/12000_zika/12000_handler/ds12041_diana_nabazov_down.sweetdialog?/ds12041_diana_nabazov_down_diana_ws_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds12041_diana_nabazov_down_diana_ws_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/12000_white_spider/12000_zika/12000_handler/ds12041_diana_nabazov_down_diana_ws_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/12000_white_spider/12000_zika/12000_handler/ds12041_diana_nabazov_down_diana_ws_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Target elimination confirmed. Good work, 47. Now for Sister Yulduz.",
+			"fr": "//(0,30)\\\\Élimination confirmée. Bon travail, 47. Et maintenant, passez à Soeur Yulduz.",
+			"it": "//(0,30)\\\\Eliminazione confermata. Ottimo lavoro, 47. Ora è il turno di sorella Yulduz.",
+			"de": "//(0,30)\\\\Eliminierung der Zielperson bestätigt. Gute Arbeit, 47. Jetzt zu Schwester Yulduz.",
+			"es": "//(0,30)\\\\Eliminación del objetivo confirmada. Buen trabajo, 47. Ahora a por la hermana Yulduz.",
+			"ru": "//(0,30)\\\\Подтверждаю устранение цели. Отличная работа, 47-й. Остается сестра Юлдуз.",
+			"cn": "//(0,30)\\\\目标已确认被消灭。干得好，47。现在轮到尤尔杜兹修女了。",
+			"tc": "//(0,30)\\\\目標已確認被消滅。幹得好，47。現在輪到尤爾德茲修女了。",
+			"jp": "//(0,30)\\\\ターゲット排除。 お見事よ、 47。 次は シスター・ ユルドゥスね。"
+		}
+	}
+}

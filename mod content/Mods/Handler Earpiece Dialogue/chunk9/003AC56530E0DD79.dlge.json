@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32020_sp_dishshot.sweetdialog?/ds32020_sp_dishshot_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32020_sp_dishshot_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32020_sp_dishshot_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32020_sp_dishshot_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Taking out their communcations? What are you thinking, 47?",
+			"fr": "//(0,30)\\\\Couper leurs communications ? Qu'avez-vous derrière la tête, 47 ?",
+			"it": "//(0,30)\\\\Vuoi far fuori i loro sistemi di comunicazione? Che cos'hai in mente, 47?",
+			"de": "//(0,30)\\\\Sie schalten ihre Kommunikationsmittel aus? Wie denken Sie sich denn dabei, 47?",
+			"es": "//(0,30)\\\\¿Dejarlos sin comunicaciones? ¿Qué estás tramando, 47?",
+			"ru": "//(0,30)\\\\Портишь им средства связи? Что ты задумал, 47-й?",
+			"cn": "//(0,30)\\\\破坏他们的通讯？47，你在想什么？",
+			"tc": "//(0,30)\\\\破壞他們的通訊？你在想什麼，47？",
+			"jp": "//(0,30)\\\\奴らの通信手段を取り上げるつもり？何を考えてるの、47？"
+		}
+	}
+}

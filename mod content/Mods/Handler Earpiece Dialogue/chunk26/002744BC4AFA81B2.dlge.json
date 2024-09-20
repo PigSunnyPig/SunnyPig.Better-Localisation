@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/italy/1000_elusive/1000_harveywallbanger/1000_harveywallbanger_handler/dr1621_diana.sweetdialog?/dr1621_diana_diana_et_003.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr1621_diana_diana_et_003",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_harveywallbanger/1000_harveywallbanger_handler/dr1621_diana_diana_et_003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_harveywallbanger/1000_harveywallbanger_handler/dr1621_diana_diana_et_003.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.104294)\\\\Welcome to Sapienza.//(2.104294,5.73957)\\\\Catherine Feller has informed us that the target has agreed to the meeting//(5.73957,8.67055)\\\\but has not yet indicated where it will take place.//(8.67055,11.15153)\\\\You will need to acquire the target on the ground.//(11.15153,15.4092)\\\\Be aware that there seems to be an increased security presence in and around the town hall.//(15.4092,45.4092)\\\\Good hunting, 47.",
+			"fr": "//(0,2.3)\\\\Bienvenue à Sapienza.//(2.3,8.6)\\\\Catherine Feller nous a fait savoir que la cible avait accepté le rendez-vous, mais n'a pas encore suggéré de lieu.//(8.6,11.25)\\\\Vous devrez donc la localiser par vous-même.//(11.25,15.6)\\\\Soyez prudent : la sécurité semble avoir été renforcée dans la mairie et ses environs.//(15.6,45.6)\\\\Bonne chasse, 47.",
+			"it": "//(0,2.254294)\\\\Benvenuto a Sapienza.//(2.254294,5.80957)\\\\Catherine Feller ci ha comunicato che il bersaglio ha accettato di partecipare all'incontro,//(5.80957,8.468159)\\\\senza tuttavia specificare il luogo prescelto.//(8.468159,11.09485)\\\\Starà a te individuare la sua posizione.//(11.09485,13.57012)\\\\Tieni presente che, per qualche motivo, numerosi agenti di sicurezza si stanno radunando//(13.57012,15.57012)\\\\all'interno del municipio e nell'area circostante.//(15.57012,45.57012)\\\\Buona caccia, 47.",
+			"de": "//(0,2.004294)\\\\Willkommen in Sapienza.//(2.004294,8.520061)\\\\Catherine Feller hat uns informiert, dass die Zielperson dem Treffen zugestimmt, aber noch keinen Ort dafür genannt hat.//(8.520061,10.86485)\\\\Sie werden das Ziel vor Ort ausmachen müssen.//(10.86485,15.35632)\\\\Beachten Sie, dass die Sicherheitsvorkehrungen im Rathaus selbst und in der unmittelbaren Umgebung verstärkt wurden.//(15.35632,45.35632)\\\\Waidmanns Heil, 47.",
+			"es": "//(0,2.33)\\\\Bienvenido a Sapienza.//(2.33,5.86)\\\\Catherine Feller nos informa de que el objetivo ha aceptado asistir a la reunión,//(5.86,8.6)\\\\pero no se ha especificado dónde será.//(8.6,11.195)\\\\Tendrás que ocuparte del objetivo sobre el terreno.//(11.195,15.6)\\\\Ten cuidado, parece que habrá mucha seguridad en el ayuntamiento y sus alrededores.//(15.6,45.6)\\\\Buena caza, 47.",
+			"ru": "//(0,1.972393)\\\\Добро пожаловать в Сапиенцу.//(1.972393,6)\\\\Кэтрин Феллер сообщает, что цель готова к встрече,//(6,8.65)\\\\но точное место пока неизвестно.//(8.65,11.25)\\\\Тебе придется обнаружить цель самостоятельно.//(11.25,15.75)\\\\Есть сведения, что количество охранников в ратуше и ее окрестностях увеличено.//(15.75,45.75)\\\\Доброй охоты, 47-й.",
+			"cn": "//(0,30)\\\\欢迎来到萨比恩撒。凯瑟琳·费勒告知我们目标同意见面，但尚未说明在何处见面。你需要在现场发现目标。注意，市政厅内和附近一带的安保力量似乎得到了加强。狩猎愉快，47。",
+			"tc": "//(0,2.1)\\\\歡迎來到羅馬大學。//(2.1,8.67)\\\\凱特林．費勒告知了我們目標同意會面然而確切地點卻尚未決定。//(8.67,11.15)\\\\你將需要在現場找到目標。//(11.15,15.4)\\\\請注意，市中心的保全似乎加強了戒備。//(15.4,45.4)\\\\狩獵愉快，47。",
+			"jp": "//(0,4.065)\\\\サピエンツァへ ようこそ。 キャサリン・フェラーが 報告して くれたけれど、//(4.065,8.7)\\\\標的は会うことには 合意したものの 場所は確定して いないそうよ。//(8.7,11.072)\\\\現地で 標的の 所在を 確認してちょうだい。//(11.072,15.25)\\\\公会堂とその 周辺の 警備は 厳重だから、 気を つけるのよ。//(15.25,16.89617)\\\\期待して いるわ、47。"
+		}
+	}
+}

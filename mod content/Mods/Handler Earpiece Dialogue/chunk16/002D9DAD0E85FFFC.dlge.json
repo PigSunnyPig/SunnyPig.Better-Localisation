@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_skunk/27000_handler/ds27043_oppfumigationconclusion.sweetdialog?/ds27043_oppfumigationconclusion_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds27043_oppfumigationconclusion_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_skunk/27000_handler/ds27043_oppfumigationconclusion_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_skunk/27000_handler/ds27043_oppfumigationconclusion_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,1.642422)\\\\Nicely done, 47.//(1.642422,3.963187)\\\\This should keep things nice and quiet inside the house.",
+			"fr": "//[DIANA]\\\\//(0,1.724294)\\\\Beau travail, 47.//(1.724294,5.537178)\\\\Voilà qui devrait calmer les choses dans la maison.",
+			"it": "//[DIANA]\\\\//(0,1.6)\\\\Ben fatto, 47.//(1.6,2.9)\\\\Questo dovrebbe mantenere tranquillo//(2.9,4.072392)\\\\l'interno della casa.",
+			"de": "//[DIANA]\\\\//(0,1.234149)\\\\Gut gemacht, 47.//(1.234149,3.963187)\\\\So sollte die Lage im Haus schön ruhig bleiben.",
+			"es": "//[DIANA]\\\\//(0,3.963187)\\\\Bien, 47. Esto debería mantener las cosas tranquilas dentro de la casa.",
+			"ru": "//[DIANA]\\\\//(0,0.706786)\\\\Хорошо сработано,//(0.706786,3.963187)\\\\47-й. Теперь в доме будет тихо и спокойно.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\47，干得漂亮。这样一来家里应该既整洁又安静了。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\47，幹得漂亮。這樣一來家裡應該既整潔又安靜了。",
+			"jp": "//[DIANA]\\\\//(0,30)\\\\上出来だわ、47。これで家の中がいい感じに静かになるわね。"
+		}
+	}
+}

@@ -1,0 +1,68 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/12500_white_spider/12500_rabies/12500_handler/ds12571_text_hint.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds12571_text_hint_diana_ws_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12571_text_hint_diana_ws_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12571_text_hint_diana_ws_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\I have the Target's cell number, 47. I'll page him...",
+					"fr": "//(0,30)\\\\J'ai le numéro de portable de la cible, 47. Je vais lui envoyer un message.",
+					"it": "//(0,30)\\\\Ho il numero di telefono del bersaglio. Gli mando un messaggio.",
+					"de": "//(0,30)\\\\Ich habe die Handynummer der Zielperson, 47. Ich sende ihm eine SMS ...",
+					"es": "//(0,30)\\\\Tengo el número de móvil del objetivo, 47. Voy a llamarlo...",
+					"ru": "//(0,30)\\\\Я нашла номер мобильного цели, 47-й. Сейчас его выманю...",
+					"cn": "//(0,30)\\\\我拿到了目标的手机号码，47。我来呼叫他...",
+					"tc": "//(0,30)\\\\我拿到了目標的手機號碼，47。我來呼叫他......",
+					"jp": "//(0,30)\\\\ターゲットの 携帯番号を 手に 入れたから、 かけて みるわね..."
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds12571_text_hint_diana_ws_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12571_text_hint_diana_ws_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12571_text_hint_diana_ws_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\I'll send a message to the Target's phone, 47.",
+					"fr": "//(0,30)\\\\J'envoie un message sur le portable de la cible, 47.",
+					"it": "//(0,30)\\\\Invio un messaggio al cellulare del bersaglio, 47.",
+					"de": "//(0,30)\\\\Ich sende eine SMS an das Handy der Zielperson, 47.",
+					"es": "//(0,30)\\\\Voy a mandar un SMS al móvil del objetivo, 47.",
+					"ru": "//(0,30)\\\\Я отправлю сообщение на телефон цели, 47-й.",
+					"cn": "//(0,30)\\\\我会给目标的手机发送一条消息，47。",
+					"tc": "//(0,30)\\\\我會給目標的手機發送一條消息，47。",
+					"jp": "//(0,30)\\\\ターゲットの 携帯に メッセージを 送って みる。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds12571_text_hint_diana_ws_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12571_text_hint_diana_ws_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12571_text_hint_diana_ws_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\I'll call the Target's cell-phone, 47. Keep your eyes open.",
+					"fr": "//(0,30)\\\\J'appelle le portable de la cible, 47. Ouvrez l'oeil.",
+					"it": "//(0,30)\\\\Chiamo il cellulare del bersaglio, 47. Tieni gli occhi aperti.",
+					"de": "//(0,30)\\\\Ich rufe das Handy der Zielperson an, 47. Halten Sie die Augen offen.",
+					"es": "//(0,30)\\\\Voy a llamar al móvil del objetivo, 47. Abre bien los ojos.",
+					"ru": "//(0,30)\\\\Я позвоню на мобильный цели, 47-й. Смотри внимательно.",
+					"cn": "//(0,30)\\\\我会呼叫目标的手机，47。注意观察。",
+					"tc": "//(0,30)\\\\我會呼叫目標的手機，47。注意觀察。",
+					"jp": "//(0,30)\\\\ターゲットの 携帯に かけて みるわ、 47。 しっかり見て て。"
+				}
+			}
+		]
+	}
+}

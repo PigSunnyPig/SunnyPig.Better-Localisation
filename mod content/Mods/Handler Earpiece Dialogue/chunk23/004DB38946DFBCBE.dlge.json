@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_bushwhacker/8000_bushwhacker_handler/dr8605_diana.sweetdialog?/dr8605_diana_diana_et_003.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8605_diana_diana_et_003",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_bushwhacker/8000_bushwhacker_handler/dr8605_diana_diana_et_003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_bushwhacker/8000_bushwhacker_handler/dr8605_diana_diana_et_003.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA_ET]\\\\//(0,3.4)\\\\Good morning, 47. Welcome to Colorado.//(3.4,7.580982)\\\\The target is notorious for changing his appearance and mannerisms.//(7.580982,10.8)\\\\You will need to sweep the compound to locate him.//(10.8,15.3)\\\\Remember, you must eliminate the target in manner that appears accidental.//(15.3,19.25)\\\\Avoid explosives, as these are too likely to draw close attention.//(19.25,49.25)\\\\Good hunting.",
+			"fr": "//[DIANA_ET]\\\\//(0,3.85)\\\\Bonjour, 47. Bienvenue au Colorado.//(3.85,8.3)\\\\La cible est connue pour ses transformations physiques.//(8.3,10.94)\\\\Vous allez devoir quadriller toute la zone pour le localiser.//(10.94,15.64)\\\\Attention, souvenez-vous que vous devez éliminer la cible de sorte à faire croire à un accident.//(15.64,45.64)\\\\Évitez les explosifs, cela attirerait trop l'attention sur vous. Bonne chasse.",
+			"it": "//[DIANA_ET]\\\\//(0,3.710491)\\\\Buongiorno, 47. Benvenuto in Colorado.//(3.710491,8.145767)\\\\Il bersaglio è noto per la sua capacità di cambiare aspetto e atteggiamenti.//(8.145767,10.87436)\\\\Per trovarlo, dovrai setacciare la tenuta.//(10.87436,15.48914)\\\\Ricorda, la morte del bersaglio deve sembrare accidentale.//(15.48914,19.468)\\\\Evita gli esplosivi, attirerebbero attenzioni indesiderate.//(19.468,49.468)\\\\Buona caccia.",
+			"de": "//[DIANA_ET]\\\\//(0,3.8)\\\\Guten Morgen, 47. Willkommen in Colorado.//(3.8,8)\\\\Die Zielperson ist bekannt dafür, Aussehen und Verhalten zu wechseln.//(8,11)\\\\Sie werden die Anlage gründlich durchsuchen müssen, um ihn aufzuspüren.//(11,15.65)\\\\Und vergessen Sie nicht, die Beseitigung des Ziels muss nach einem Unfall aussehen.//(15.65,45.65)\\\\Vermeiden Sie Sprengstoff, das erregt zu schnell Aufmerksamkeit. Waidmannsheil!",
+			"es": "//[DIANA_ET]\\\\//(0,3.578589)\\\\Buenos días, 47. Bienvenido a Colorado.//(3.578589,7.877669)\\\\El objetivo es conocido por cambiar su aspecto y sus gestos.//(7.877669,10.95436)\\\\Deberás inspeccionar todo el complejo para localizarlo.//(10.95436,15.3)\\\\Recuerda, debes eliminar al objetivo de manera que parezca un accidente.//(15.3,45.3)\\\\Evita los explosivos, ya que podrían atraer mucho la atención. Buena caza.",
+			"ru": "//[DIANA_ET]\\\\//(0,3.7)\\\\Доброе утро, 47-й. Добро пожаловать в Колорадо.//(3.7,8.1)\\\\Цель славится своим умением менять внешность и манеру держаться.//(8.1,10.9)\\\\Тебе придется как следует прочесать местность, чтобы найти его.//(10.9,15.5)\\\\Помни, цель необходимо уничтожить так, чтобы все выглядело, как несчастный случай.//(15.5,45.5)\\\\Избегай взрывов, иначе ты привлечешь ненужное внимание. Доброй охоты.",
+			"cn": "//[DIANA_ET]\\\\//(0,3.4)\\\\早上好，47。欢迎来到科罗拉多。//(3.4,7.5)\\\\你的目标以改变自己的外貌和行为而出名。//(7.5,10.8)\\\\你需要全面搜索设施才能找到他。//(10.8,15.3)\\\\记住，你必须制造不会令人起疑的意外消灭目标。//(15.3,19.25)\\\\不要用炸药，因为炸药太容易引起他人的注意。//(19.25,49.25)\\\\祝你狩猎愉快。",
+			"tc": "//[DIANA_ET]\\\\//(0,3.4)\\\\早安，47。歡迎來到科羅拉多。//(3.4,10.8)\\\\目標以改變外觀與行為的能力出名。你必需搜索整個基地來找到他。//(10.8,15.3)\\\\記得，你必需以看似意外的方式來消滅目標。//(15.3,19.25)\\\\避免使用炸藥，那些東西會吸引太多注意力。//(19.25,49.25)\\\\狩獵愉快。",
+			"jp": "//[DIANA_ET]\\\\//(0,3.585)\\\\おはよう、 47。 コロラドへ ようこそ。//(3.585,8.175)\\\\標的は その外見や癖を変えることで 知られて いるわ。//(8.175,10.85)\\\\彼を 見つけるには、 一帯を くまなく洗う必要が あるでしょうね。//(10.85,15.365)\\\\必ず事故に 見せかけ、 目立たないように 始末して。//(15.365,19.365)\\\\爆発物などの 使用は注目を集めるから 避けたほうが いいわ。//(19.365,20.39333)\\\\成功を 祈ってる。"
+		}
+	}
+}

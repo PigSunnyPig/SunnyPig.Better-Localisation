@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/italy/1000_virus/1000_handler/ds1032_therapyconclusion.sweetdialog?/ds1032_therapyconclusion_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds1032_therapyconclusion_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_virus/1000_handler/ds1032_therapyconclusion_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_virus/1000_handler/ds1032_therapyconclusion_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\A private therapy session with Caruso. Nicely done, 47.",
+			"fr": "//(0,30)\\\\Un entretien thérapeutique privé avec Caruso. Bien joué, 47.",
+			"it": "//(0,2.826687)\\\\Una sessione di terapia privata con Caruso.//(2.826687,32.82669)\\\\Bel colpo, 47.",
+			"de": "//(0,2.740491)\\\\Eine private Therapiesitzung mit Caruso.//(2.740491,32.74049)\\\\Nicht übel, 47.",
+			"es": "//(0,2.699)\\\\Una sesión privada de terapia con Caruso.//(2.699,32.699)\\\\Bien hecho, 47.",
+			"ru": "//(0,3)\\\\Сеанс психотерапии наедине с Карузо.//(3,33)\\\\Очень хорошо, 47-й.",
+			"cn": "//(0,3)\\\\给卡鲁索进行一对一治疗吗......//(3,33)\\\\干得漂亮，47。",
+			"tc": "//(0,30)\\\\給卡魯索進行一對一治療。幹得漂亮，47。",
+			"jp": "//(0,30)\\\\カルーソーと2人きりでカウンセリングね。よくやったわ。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/newzealand/31000_sheep/31000_story/dr31003_noonehome.sweetdialog?/dr31003_noonehome_diana_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr31003_noonehome_diana_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_sheep/31000_story/dr31003_noonehome_diana_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_sheep/31000_story/dr31003_noonehome_diana_002.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.476341)\\\\I trust your instinct.//(1.476341,4.857323)\\\\Reynard and her entourage must be out for the evening.//(4.857323,7.282979)\\\\Well. This should make your job easier.",
+			"fr": "//(0,1.955789)\\\\Je m'en remets à votre instinct.//(1.955789,4.708956)\\\\Reynard et son entourage ont dû sortir ce soir.//(4.708956,7.282979)\\\\Bien, voilà qui va vous faciliter la tâche.",
+			"it": "//(0,1.897775)\\\\Mi fido del tuo istinto.//(1.897775,5.710659)\\\\Reynard e il suo entourage devono essere fuori stasera.//(5.710659,7.282979)\\\\Beh, questo dovrebbe facilitarti il lavoro.",
+			"de": "//(0,1.75)\\\\Ich vertraue Ihrem Instinkt.//(1.75,5.25)\\\\Reynard und ihre Leute sind wohl den Abend unterwegs.//(5.25,8.750563)\\\\Sollte Ihren Job einfacher machen.",
+			"es": "//(0,1.47815)\\\\Confío en tu instinto.//(1.47815,4.236749)\\\\Reynard y su séquito deben de haber salido a pasar//(4.236749,5.528969)\\\\la velada. Bueno,//(5.528969,7.282979)\\\\eso debería facilitarnos el trabajo.",
+			"ru": "//(0,1.692822)\\\\Я доверяю твоему чутью.//(1.692822,3.059507)\\\\Рейнард и ее свита,//(3.059507,5.171243)\\\\похоже, уехали на какую-то вечеринку.//(5.171243,7.282979)\\\\Что ж, это упрощает задачу.",
+			"cn": "//(0,5.1)\\\\我相信你的直觉。雷纳德和她的手下今晚肯定出去有事了。//(5.1,35.1)\\\\这样也好，因为你应该能轻松一点了。",
+			"tc": "//(0,30)\\\\我相信你的直覺。雷納德和她的隨從肯定是出門了。嗯，這下你的工作簡單多了。",
+			"jp": "//(0,1.69)\\\\あなたの直感を信じるわ。//(1.69,4.9)\\\\レイナードと仲間は出掛けているみたいね。//(4.9,34.9)\\\\仕事がやりやすいはずよ。"
+		}
+	}
+}

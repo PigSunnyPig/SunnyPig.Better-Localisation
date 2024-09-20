@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_sakini/3000_sakini_handler/dr3680_diana.sweetdialog?/dr3680_diana_diana_et_005.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr3680_diana_diana_et_005",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_sakini/3000_sakini_handler/dr3680_diana_diana_et_005.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_sakini/3000_sakini_handler/dr3680_diana_diana_et_005.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA_ET]\\\\//(0,30)\\\\An update, 47: The target is in the kitchen.",
+			"fr": "//[DIANA_ET]\\\\//(0,30)\\\\Une info pour vous, 47 : la cible est dans la cuisine.",
+			"it": "//[DIANA_ET]\\\\//(0,30)\\\\Ho novità, 47. Il bersaglio è in cucina.",
+			"de": "//[DIANA_ET]\\\\//(0,30)\\\\Nur zur Info, 47. Das Ziel ist in der Küche.",
+			"es": "//[DIANA_ET]\\\\//(0,30)\\\\Te notifico que el objetivo está en la cocina, 47.",
+			"ru": "//[DIANA_ET]\\\\//(0,30)\\\\Новые данные, 47-й. Цель на кухне.",
+			"cn": "//[DIANA_ET]\\\\//(0,30)\\\\47，最新情报指出，目标在厨房里。",
+			"tc": "//[DIANA_ET]\\\\//(0,30)\\\\有更新，47。目標正在廚房中。",
+			"jp": "//[DIANA_ET]\\\\//(0,30)\\\\アップデートよ、47。ターゲットはキッチンにいるわ。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/evergreen/handler/ed082_hardcoremode.sweetdialog?/ed082_hardcoremode_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ed082_hardcoremode_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed082_hardcoremode_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed082_hardcoremode_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.680982)\\\\I admire your courage. You are truly an expert assassin.//(4.680982,34.68098)\\\\But remember, your objectives will be more unforgiving, should you go forth.",
+			"fr": "//(0,1.79)\\\\J'admire votre courage.//(1.79,4.58)\\\\Vous prouvez votre expertise en tant qu'assassin.//(4.58,34.58)\\\\Mais n'oubliez pas, plus vous avancerez et moins les objectifs seront cléments.",
+			"it": "//(0,4.312883)\\\\Ammiro il tuo coraggio. Sei davvero un assassino esperto.//(4.312883,34.31288)\\\\Ricorda, però, che i tuoi obiettivi saranno ancora più spietati, se proseguirai.",
+			"de": "//(0,1.95)\\\\Ich bewundere Ihren Mut.//(1.95,4.3)\\\\Sie sind wirklich ein Meisterkiller.//(4.6,5.7)\\\\Doch denken Sie daran://(5.7,35.7)\\\\Ihre Ziele werden immer unnachsichtiger, falls Sie weitermachen.",
+			"es": "//(0,1.854294)\\\\Admiro tu valor.//(1.854294,4.580982)\\\\Está claro que eres un asesino experto.//(4.580982,7.047669)\\\\Pero recuerda que, si quieres seguir adelante,//(7.047669,37.04767)\\\\tus objetivos serán cada vez más exigentes.",
+			"ru": "//(0,4.336)\\\\Восхищена твоей отвагой. Ты поистине опытный киллер.//(4.336,34.336)\\\\Но учти: если продолжишь работу, задания станут еще более суровыми.",
+			"cn": "//(0,4.52)\\\\我钦佩你的勇气。你不愧是个专家级刺客。//(4.52,34.52)\\\\但请记住，如果你选择继续，前方的目标容错率会更低。",
+			"tc": "//(0,4.6)\\\\我很欣賞你的勇氣，你果真是一名暗殺高手。//(4.6,34.6)\\\\不過記得了，選擇繼續的話，你的目標將會更加困難。",
+			"jp": "//(0,4.745)\\\\あなたの勇気を称賛するわ。あなたは真のプロのアサシンよ。//(4.745,34.745)\\\\でも、今後の目標はもっと過酷になることを肝に銘じておいて。"
+		}
+	}
+}

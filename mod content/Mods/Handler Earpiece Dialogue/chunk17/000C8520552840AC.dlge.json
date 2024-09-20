@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25035_barberreveal2.sweetdialog?/ds25035_barberreveal2_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25035_barberreveal2_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25035_barberreveal2_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25035_barberreveal2_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.000982)\\\\This barber is tangled up in some shady business, 47.//(4.000982,5.477049)\\\\But even more interesting,//(5.477049,8.347049)\\\\he may have seen a picture of the Maelstrom,//(8.347049,11.60023)\\\\in the hideout of the street gang known as the Crows.//(11.60023,14.78792)\\\\That picture would be very helpful to our cause.",
+			"fr": "//(0,2.727019)\\\\Ce barbier baigne dans des affaires douteuses,//(2.727019,4.842947)\\\\47. Plus intéressant encore,//(4.842947,8.193093)\\\\il pourrait bien avoir vu une photo du Maelström//(8.193093,12.04886)\\\\dans le repaire d'un gang qu'on appelle les Crows.//(12.04886,14.78792)\\\\Cela pourrait nous être particulièrement utile.",
+			"it": "//(0,3.932883)\\\\Il barbiere è coinvolto in qualche giro losco, 47.//(3.932883,6.812795)\\\\Ma la cosa più interessante è che potrebbe aver//(6.812795,12.09807)\\\\visto una foto di Maelstrom nel rifugio della gang di strada dei Corvi.//(12.09807,14.97894)\\\\Quella foto potrebbe esserci molto, molto utile.",
+			"de": "//(0,1.840491)\\\\Dieser Barbier ist in zwielichtige//(1.840491,3.564785)\\\\Geschäfte verwickelt, 47.//(3.564785,5.405276)\\\\Aber was noch interessanter ist://(5.405276,7.718243)\\\\Er könnte im Versteck der Straßenbande,//(7.718243,8.98675)\\\\die man die „Crows“ nennt,//(8.98675,11.83733)\\\\ein Foto des Maelstroms gesehen haben.//(11.83733,14.78792)\\\\Dieses Foto wäre uns äußerst hilfreich.",
+			"es": "//(0,3.932883)\\\\Ese barbero está metido en negocios muy turbios, 47.//(3.932883,6.273362)\\\\Lo que nos interesa es que podría haber visto//(6.273362,9.460343)\\\\una foto del Torbellino en el escondite de esa banda//(9.460343,11.48673)\\\\callejera conocida como «los Cuervos».//(11.48673,14.78792)\\\\Esa foto podría sernos muy útil para nuestra causa.",
+			"ru": "//(0,3.646687)\\\\Этот парикмахер замешан в темных делишках, 47-й.//(3.646687,5.765276)\\\\Но что еще интереснее, он, возможно,//(5.765276,9.436762)\\\\видел фотографию Вихря в тайном//(9.436762,11.88398)\\\\убежище уличной банды «Вороны».//(11.88398,14.78792)\\\\Эта фотография нам бы пригодилась.",
+			"cn": "//(0,3.9)\\\\理发师似乎被牵扯进了不正当的勾当之中，47。//(3.9,11.8)\\\\更有趣的是，他有可能在被称为“乌鸦帮”的黑帮老窝里，见过大漩涡的照片。//(11.8,14.788)\\\\这张照片或许会对我们非常有价值。",
+			"tc": "//(0,3.9)\\\\理髮師似乎被牽扯進不正當的勾當，47。//(3.9,11.8)\\\\更有趣的是，他有可能在被稱為「烏鴉幫」的黑幫老巢，見過大漩渦的照片。//(11.8,14.78792)\\\\這張照片或許對我們非常有價值。",
+			"jp": "//(0,3.62)\\\\この床屋は何かいかがわしいことに巻き込まれているようね、47。//(3.62,5.465)\\\\それよりも興味深いことに、//(5.465,8.237)\\\\彼はCROWSと呼ばれているストリートギャングの隠れ家で//(8.237,11.95)\\\\メイルストロムの写真を見た可能性があるの。//(11.95,14.78792)\\\\その写真は我々の任務に大いに役立つわ。"
+		}
+	}
+}

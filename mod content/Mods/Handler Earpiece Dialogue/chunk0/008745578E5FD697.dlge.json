@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/tutorial/9000_handler/ds9120_firstdisguise.sweetdialog?/ds9120_firstdisguise_young_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds9120_firstdisguise_young_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/tutorial/9000_handler/ds9120_firstdisguise_young_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/tutorial/9000_handler/ds9120_firstdisguise_young_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.762883)\\\\You put on his clothes. That's a first.//(3.762883,8.251963)\\\\Might just work, though. People do tend to see uniforms, not faces.//(8.251963,38.25196)\\\\Be cautious, though. Some people are more observant than others. Not bad, Initiate.",
+			"fr": "//(0,5)\\\\Vous avez mis ses habits. C'est une première. Cela pourrait marcher.//(5,8)\\\\Les gens ont tendance à voir les uniformes, pas les visages.//(8,38)\\\\Soyez attentif, cependant. Certaines personnes sont plus attentives que les autres.",
+			"it": "//(0,3.830982)\\\\Ti sei messo i suoi vestiti. Questa mi è nuova.//(3.830982,5.085276)\\\\Potrebbe funzionare però.//(5.085276,7.97055)\\\\La maggior parte della gente tende a ricordare le uniformi. Non le facce.//(7.97055,11.92055)\\\\Fai attenzione però. Alcune persone fanno più attenzione ai dettagli di altre.//(11.92055,41.92055)\\\\Non male, recluta.",
+			"de": "//(0,1.690491)\\\\Sie haben seine Kleidung angezogen.//(1.690491,4.721472)\\\\Das ist ja was ganz Neues. Könnte gerade so klappen.//(4.721472,7.30626)\\\\Leute neigen dazu, Uniformen zu sehen, statt Gesichter.//(7.30626,9.12865)\\\\Seien Sie jedoch vorsichtig.//(9.12865,12.137)\\\\Manche Leute sind aufmerksamer als andere.//(12.137,42.137)\\\\Nicht schlecht, Rekrut.",
+			"es": "//(0,3.7)\\\\¡Te has puesto su ropa! Eres el primero que lo hace.//(3.7,8)\\\\Podría funcionar. La gente tiende a ver uniformes, no caras.//(8,12.1)\\\\Aunque ten cuidado, algunos son más observadores que otros.//(12.1,42.1)\\\\No está mal, iniciado.",
+			"ru": "//(0,3.576687)\\\\Ты надел его одежду. Это что-то новенькое.//(3.576687,8.284)\\\\Но вполне может сработать. Как правило, люди видят униформу, а не лицо.//(8.284,12.217)\\\\Но будь осторожен! Некоторые люди более наблюдательны, чем другие.//(12.217,42.217)\\\\Неплохо, новичок.",
+			"cn": "//(0,5)\\\\你穿上了他的衣服。这是第一步。不过说不定能管用。//(5,8)\\\\别人一般只看你穿的制服，很少看你的长相。//(8,12)\\\\不过还是得多加小心。有些人观察力特别敏锐。//(12,42)\\\\还不错嘛，新人。",
+			"tc": "//(0,5.1)\\\\你穿上了他的衣服。我還是第一次見呢。不過說不定能管用。//(5.1,8)\\\\別人一般只看你穿的制服，很少看你的長相。//(8,12)\\\\不過還是得多加小心。有些人觀察力特別敏銳。//(12,42)\\\\還不錯嘛，新人。",
+			"jp": "//(0,5.5)\\\\服を奪って変装したのね。 初めてのケースだけどうまくいくでしょう。//(5.5,9)\\\\人の目は顔よりも服装に向けられがちだから。//(9,13.17477)\\\\でも気をつけて 中には観察力の鋭い者もいるわ。"
+		}
+	}
+}

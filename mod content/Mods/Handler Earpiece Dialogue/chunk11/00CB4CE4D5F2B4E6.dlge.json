@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32517_sp_riotreinforceadmin.sweetdialog?/ds32517_sp_riotreinforceadmin_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32517_sp_riotreinforceadmin_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32517_sp_riotreinforceadmin_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32517_sp_riotreinforceadmin_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.730193)\\\\Guards are coming from the administration//(1.730193,3.852084)\\\\building to fight the rioting prisoners.",
+			"fr": "//(0,30)\\\\Des gardiens arrivent du bâtiment administratif pour tenter de contenir l'émeute.",
+			"it": "//(0,30)\\\\Le guardie arrivano dall'edificio amministrativo per contrastare i detenuti in rivolta.",
+			"de": "//(0,30)\\\\Es kommen Wachen aus dem Verwaltungsgebäude, um die aufständischen Gefangenen zu bekämpfen.",
+			"es": "//(0,30)\\\\Los guardias del pabellón administrativo están saliendo a combatir a los prisioneros amotinados.",
+			"ru": "//(0,30)\\\\Для усмирения заключенных стягивают охрану из административного корпуса.",
+			"cn": "//(0,30)\\\\从行政楼里出来的守卫正在和暴动的犯人战斗。",
+			"tc": "//(0,30)\\\\警衛正在從行政大樓來對付暴動中的囚犯們。",
+			"jp": "//(0,30)\\\\暴徒に対処するべく管理棟から守衛が出てきたわね。"
+		}
+	}
+}

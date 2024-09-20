@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_magpie/29000_handler/ds29025_idzoe.sweetdialog?/ds29025_idzoe_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds29025_idzoe_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_magpie/29000_handler/ds29025_idzoe_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_magpie/29000_handler/ds29025_idzoe_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.477891)\\\\That is Zoe Washington.//(2.477891,8.6)\\\\Chairwoman of The Ark Society, professional treasure hunter and Providence operative.//(8.6,9.758)\\\\Quite a mouthful.",
+			"fr": "//(0,4.496)\\\\Voici Zoe Washington. Dirigeante de la société de l'Arche,//(4.496,8.6)\\\\chasseuse de trésors et agent de Providence.//(8.6,10.57315)\\\\Un sacré morceau.",
+			"it": "//(0,2.544303)\\\\Eccola lì... Zoe Washington.//(2.544303,4.136696)\\\\Presidentessa della Ark Society,//(4.136696,5.609088)\\\\cacciatrice di tesori professionista//(5.609088,8.84)\\\\e agente di Providence.//(8.84,9.84)\\\\Non le manca proprio niente.",
+			"de": "//(0,2.466891)\\\\Das ... ist Zoe Washington.//(2.466891,4.509369)\\\\Vorsitzende der Ark-Gesellschaft,//(4.509369,6.295566)\\\\professionelle Schatzjägerin//(6.295566,8.505474)\\\\und Providence-Agentin.//(8.505474,9.75775)\\\\Keine kleine Ansage.",
+			"es": "//(0,2.647064)\\\\Esa es... Zoe Washington.//(2.647064,4.746062)\\\\Presidenta de la Ark Society,//(4.746062,8.69)\\\\buscadora de tesoros profesional y agente de Providence.//(8.69,9.75775)\\\\Casi nada.",
+			"ru": "//(0,2.375739)\\\\Это... Зои Вашингтон.//(2.375739,3.995234)\\\\Председатель «Общества Ковчега»,//(3.995234,8.571921)\\\\профессиональная охотница за сокровищами и агент «Провиденса».//(8.571921,9.821921)\\\\Уф, сколько регалий.",
+			"cn": "//(0,30)\\\\那是......佐伊·华盛顿。方舟会的女主席，职业宝藏猎人，也是神意秘会的成员。头衔真长啊。",
+			"tc": "//(0,30)\\\\那是佐伊．華盛頓。方舟會的女主席，職業寶藏獵人，也是神意秘會的成員。頭銜真長啊。",
+			"jp": "//(0,2.5)\\\\あれは... ゾーイ・ワシントン。//(2.5,6.5)\\\\アーク・ソサエティの会長にしてプロのトレジャーハンター。//(6.5,9.75775)\\\\おまけにプロヴィデンスの工作員でもある。なんだか早口言葉みたいね。"
+		}
+	}
+}

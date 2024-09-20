@@ -1,0 +1,29 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/edgy/fox/42000_elusive/42000_tomorrowland/42700_tomorrowland_handler/ds42700_targetid.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Sequence",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds42700_targetid_diana_001",
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/edgy/fox/42000_elusive/42000_tomorrowland/42700_tomorrowland_handler/ds42700_targetid_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/edgy/fox/42000_elusive/42000_tomorrowland/42700_tomorrowland_handler/ds42700_targetid_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,2.8)\\\\That is Alexios Laskaridis.//(2.8,32.8)\\\\He should be here with one of his bodyguards, so be careful.",
+					"fr": "//(0,2.9)\\\\Voici Alexios Laskaridis.//(2.9,32.9)\\\\Il est certainement venu avec l'un de ses gardes du corps, donc restez prudent.",
+					"it": "//(0,30)\\\\Quello è Alexios Laskaridis. Dovrebbe essere accompagnato da una delle sue guardie del corpo, quindi fa' attenzione.",
+					"de": "//(0,2.82)\\\\Das ist Alexios Laskaridis.//(2.82,32.82)\\\\Er sollte mit einem seiner Leibwächter hier sein. Also seien Sie vorsichtig.",
+					"es": "//(0,30)\\\\Ese es Alexios Laskaridis. Ten cuidado, seguro que ha venido con uno de sus guardaespaldas.",
+					"ru": "//(0,30)\\\\Это Алексиос Ласкаридис. Будь осторожен — скорее всего, его сопровождает телохранитель.",
+					"cn": "//(0,2.8)\\\\那就是亚历克西奥斯·拉斯卡里迪斯。//(2.8,32.8)\\\\他应该和他的一个保镖在这里，所以要小心。",
+					"tc": "//(0,2.9)\\\\那就是亞力修斯·拉斯卡里迪斯。//(2.9,32.9)\\\\他身邊應該會帶著一名保鏢，小心了。",
+					"jp": "//(0,30)\\\\あれがアレクシオス・ラスカリディスよ。護衛を1人連れてきているはず。気をつけて。"
+				}
+			}
+		]
+	}
+}

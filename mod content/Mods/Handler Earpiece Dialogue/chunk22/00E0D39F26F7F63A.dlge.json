@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_snowcrane/2000_handler/ds2004_sodersdown.sweetdialog?/ds2004_sodersdown_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds2004_sodersdown_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_snowcrane/2000_handler/ds2004_sodersdown_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_snowcrane/2000_handler/ds2004_sodersdown_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.4)\\\\Soders down. To be honest, I'm not sure what to feel about this one.//(4.4,34.4)\\\\Well, that's for another time. Yamazaki awaits.",
+			"fr": "//(0,1.6)\\\\Soders est hors-course.//(1.6,5)\\\\Honnêtement, je ne sais pas s'il faut s'en réjouir ou non.//(5,35)\\\\Allez, continuons. Yamazaki nous attend.",
+			"it": "//(0,1.6)\\\\Soders eliminato.//(1.6,4.439)\\\\Sinceramente, non so cosa pensare di questa vicenda.//(4.95,34.95)\\\\Ma non è il momento di riflettere. Yamazaki ci attende.",
+			"de": "//(0,1.7)\\\\Soders ist erledigt.//(1.7,5.2)\\\\Ganz ehrlich, ich weiß nicht, wie ich dazu stehen soll.//(5.2,7.2)\\\\Aber das klären wie ein andermal.//(7.2,37.2)\\\\Yamazaki wartet.",
+			"es": "//(0,1.672)\\\\Soders ha sido eliminado.//(1.672,4.991)\\\\Para serte sincera, no sé cómo me siento en este momento.//(4.991,34.991)\\\\Bueno, no hay tiempo para esto. Yamazaki es la siguiente.",
+			"ru": "//(0,5.25)\\\\Содерс мертв. Честно говоря, я пока даже не знаю, что об этом думать.//(5.25,35.25)\\\\Что ж, это может подождать. Следующая на очереди — Ямадзаки.",
+			"cn": "//(0,5.168098)\\\\索德斯已死。说实话，我不知该对此事作何感想。//(5.168098,35.1681)\\\\算了，现在不是想这些的时候。山崎还等着我们。",
+			"tc": "//(0,30)\\\\索德斯已死。說實話，我不知該對此事作何感想。算了，現在不是想這些的時候。山崎還等著我們。",
+			"jp": "//(0,30)\\\\ターゲット・ダウン。正直... 複雑ね。でも、感傷にひたるのはあと。次はヤマザキよ。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/marrakech/11600_elusive/11600_maitai/11600_maitai_handler/dr11600_diana.sweetdialog?/dr11600_diana_diana_et_008.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr11600_diana_diana_et_008",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_maitai/11600_maitai_handler/dr11600_diana_diana_et_008.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_maitai/11600_maitai_handler/dr11600_diana_diana_et_008.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA_ET]\\\\//(0,30)\\\\Target down. I'm sure he would have preferred a larger audience.",
+			"fr": "//[DIANA_ET]\\\\//(0,1.29)\\\\Cible abattue.//(1.29,31.29)\\\\Je suis sûre qu'il aurait préféré avoir un public plus nombreux.",
+			"it": "//[DIANA_ET]\\\\//(0,30)\\\\Bersaglio eliminato. Sono certa che avrebbe voluto un pubblico più vasto a questo spettacolo.",
+			"de": "//[DIANA_ET]\\\\//(0,30)\\\\Ziel neutralisiert. Er hätte sich wahrscheinlich ein größeres Publikum gewünscht.",
+			"es": "//[DIANA_ET]\\\\//(0,30)\\\\Objetivo abatido. Estoy segura de que hubiera preferido tener más público.",
+			"ru": "//[DIANA_ET]\\\\//(0,30)\\\\Цель уничтожена. Подозреваю, что он предпочел бы больше зрителей.",
+			"cn": "//[DIANA_ET]\\\\//(0,30)\\\\目标已被消灭。要是观众再多一点的话对他肯定更有好处。",
+			"tc": "//[DIANA_ET]\\\\//(0,30)\\\\目標已倒下。要是觀眾再多一點的話對他肯定更有好處。",
+			"jp": "//[DIANA_ET]\\\\//(0,30)\\\\ターゲット・ダウン。もっと華々しく最期を迎えたかったでしょうね。"
+		}
+	}
+}

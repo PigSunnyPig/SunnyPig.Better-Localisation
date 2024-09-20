@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_snowcrane/2000_handler/ds2001_sodersid.sweetdialog?/ds2001_sodersid_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds2001_sodersid_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_snowcrane/2000_handler/ds2001_sodersid_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_snowcrane/2000_handler/ds2001_sodersid_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\That is Erich Soders. Former training director at the ICA. Regrettable.",
+			"fr": "//(0,30)\\\\Voici Erich Soders, ancien directeur chez l'ICA. Dommage.",
+			"it": "//(0,30)\\\\Quello è Erich Soders, ex capo istruttore dell'ICA. Purtroppo.",
+			"de": "//(0,2.35)\\\\Das ist Erich Soders.//(2.35,32.35)\\\\Früherer Trainingsdirektor bei der ICA. Sehr bedauerlich.",
+			"es": "//(0,30)\\\\Ese es Erich Soders, antiguo director de entrenamiento de la Agencia. Deplorable.",
+			"ru": "//(0,30)\\\\Это Эрих Содерс. В прошлом главный инструктор МКА. Увы.",
+			"cn": "//(0,30)\\\\埃里希·索德斯。ICA前任训练部长。很可惜。",
+			"tc": "//(0,30)\\\\埃里希．索德斯。ICA前任訓練部長。很可惜。",
+			"jp": "//(0,30)\\\\いたわ。エリック・ソーダースよ。ICAの元訓練担当官。残念ね。"
+		}
+	}
+}

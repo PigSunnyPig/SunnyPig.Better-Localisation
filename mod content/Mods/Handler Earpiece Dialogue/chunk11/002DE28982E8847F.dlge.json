@@ -1,0 +1,87 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_handler/ds20045_sp_dianainterestingaction.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds20045_sp_dianainterestingaction_diana_001",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_handler/ds20045_sp_dianainterestingaction_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_handler/ds20045_sp_dianainterestingaction_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Hm, What are you up to, 47",
+					"fr": "//(0,30)\\\\À quoi pensez-vous, 47 ?",
+					"it": "//(0,30)\\\\Ehm... cos'hai intenzione di fare, 47?",
+					"de": "//(0,30)\\\\Hm, was haben Sie jetzt vor, 47?",
+					"es": "//(0,30)\\\\Mmm... ¿Qué estás tramando?",
+					"ru": "//(0,30)\\\\Хм. Что ты задумал, 47-й?",
+					"cn": "//(0,30)\\\\嗯，47，你打算干嘛？",
+					"tc": "//(0,30)\\\\嗯，你在做什麼，47？",
+					"jp": "//(0,30)\\\\ふむ、何をするつもり、47？"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds20045_sp_dianainterestingaction_diana_002",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_handler/ds20045_sp_dianainterestingaction_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_handler/ds20045_sp_dianainterestingaction_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Looking to attract some attention, 47?",
+					"fr": "//(0,30)\\\\Vous voulez attirer l'attention, 47 ?",
+					"it": "//(0,30)\\\\Stai cercando di attirare l'attenzione, 47?",
+					"de": "//(0,30)\\\\Wollen Sie Aufmerksamkeit erregen, 47?",
+					"es": "//(0,30)\\\\¿Quieres llamar la atención, 47?",
+					"ru": "//(0,30)\\\\Хочешь привлечь внимание, 47-й?",
+					"cn": "//(0,30)\\\\47，你想引起别人的注意吗？",
+					"tc": "//(0,30)\\\\想要吸引注意嗎，47？",
+					"jp": "//(0,30)\\\\注目を集める気かしら？"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds20045_sp_dianainterestingaction_diana_003",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_handler/ds20045_sp_dianainterestingaction_diana_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_handler/ds20045_sp_dianainterestingaction_diana_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Nice shot. I'm guessing there's a plan in motion here?",
+					"fr": "//(0,30)\\\\Joli tir. J'imagine que vous avez quelque chose en tête ?",
+					"it": "//(0,30)\\\\Bel colpo. Immagino che tu abbia un piano in mente, vero?",
+					"de": "//(0,30)\\\\Guter Schuss. Ich schätze, da wurde ein Plan in Gang gesetzt, hm?",
+					"es": "//(0,30)\\\\Buen tiro. Supongo que esto formará parte de tu gran plan.",
+					"ru": "//(0,30)\\\\Отличный выстрел. Полагаю, это часть твоего плана?",
+					"cn": "//(0,30)\\\\好枪法。我猜这肯定是你计划的一部分吧？",
+					"tc": "//(0,30)\\\\好槍法。我猜你有了計畫？",
+					"jp": "//(0,30)\\\\良い一撃ね。何か計画があるのよね？"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds20045_sp_dianainterestingaction_diana_004",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_handler/ds20045_sp_dianainterestingaction_diana_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_handler/ds20045_sp_dianainterestingaction_diana_004.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Interesting choice, 47. What are you up to?",
+					"fr": "//(0,30)\\\\Intéressant, 47. À quoi pensez-vous donc ?",
+					"it": "//(0,30)\\\\Scelta interessante, 47. Cos'hai intenzione di fare?",
+					"de": "//(0,30)\\\\Interessante Entscheidung, 47. Was hat er nur vor?",
+					"es": "//(0,30)\\\\Una elección interesante, 47. ¿Qué pretendes?",
+					"ru": "//(0,30)\\\\Интересное решение, 47-й. Что ты задумал?",
+					"cn": "//(0,30)\\\\47，你这一手有点意思。你究竟有何打算？",
+					"tc": "//(0,30)\\\\真有趣的選擇，47。你在想什麼？",
+					"jp": "//(0,30)\\\\興味深い選択だわ。何をしているの？"
+				}
+			}
+		]
+	}
+}

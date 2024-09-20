@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/bulldog/41000_handler/ds41056_handlerthisisrebeccasroom.sweetdialog?/ds41056_handlerthisisrebeccasroom_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41056_handlerthisisrebeccasroom_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/bulldog/41000_handler/ds41056_handlerthisisrebeccasroom_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/bulldog/41000_handler/ds41056_handlerthisisrebeccasroom_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\This is Rebecca’s room.",
+			"fr": "//(0,30)\\\\C'est la chambre de Rebecca.",
+			"it": "//(0,30)\\\\Questa è la camera di Rebecca.",
+			"de": "//(0,30)\\\\Das ist Rebeccas Zimmer.",
+			"es": "//(0,30)\\\\Es la habitación de Rebecca.",
+			"ru": "//(0,30)\\\\Это комната Ребекки.",
+			"cn": "//(0,30)\\\\这是瑞贝卡的房间。",
+			"tc": "//(0,30)\\\\這是瑞貝卡的房間。",
+			"jp": "//(0,30)\\\\ここはレベッカの部屋。"
+		}
+	}
+}

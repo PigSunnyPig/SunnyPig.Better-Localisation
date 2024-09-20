@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/bulldog/41000_handler/ds41027_handlerfloorplans.sweetdialog?/ds41027_handlerfloorplans_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41027_handlerfloorplans_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/bulldog/41000_handler/ds41027_handlerfloorplans_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/bulldog/41000_handler/ds41027_handlerfloorplans_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Hmm, a photocopy of the floorplans... Somebody's been researching the secret ins and outs of Thornbridge Manor.",
+			"fr": "//(0,3.7)\\\\Hm, une copie de plans...//(3.7,33.7)\\\\On dirait que quelqu'un cherche à connaître les moindres recoins du manoir Thornbridge.",
+			"it": "//(0,3.77)\\\\Uhm, una fotocopia delle planimetrie...//(3.77,33.77)\\\\Qualcuno ha setacciato la tenuta Thornbridge in lungo e in largo per scoprire il suo segreto...",
+			"de": "//(0,3.590491)\\\\Hm. Eine Kopie des Grundrisses ...//(3.590491,33.59049)\\\\Jemand sucht nach allen geheimen Ecken und Wegen von Thornbridge Manor.",
+			"es": "//(0,3.8)\\\\Mmm, una fotocopia de los planos de la casa...//(3.8,33.8)\\\\Alguien ha estado buscando formas secretas de entrar y salir de la mansión Thornbridge.",
+			"ru": "//(0,3.5)\\\\Хм-м, фотодубликат плана этажей...//(3.5,33.5)\\\\Кому-то нужно было знать все потайные ходы в поместье Торнбридж.",
+			"cn": "//(0,30)\\\\嗯，楼层平面图的复印件......有人在探查索布里奇庄园的秘密。",
+			"tc": "//(0,30)\\\\嗯，平面圖的影印本......有人在研究索恩橋庄園的裡裡外外。",
+			"jp": "//(0,3.61)\\\\ふむ、間取り図のコピーね...//(3.61,33.61)\\\\ソーンブリッジ・マナーの秘密の出入り口を誰かが探っていたようよ。"
+		}
+	}
+}

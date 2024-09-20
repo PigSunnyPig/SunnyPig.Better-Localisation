@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/marrakech/6000_coup/6000_handler/ds6013_evacconclusion.sweetdialog?/ds6013_evacconclusion_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds6013_evacconclusion_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/6000_coup/6000_handler/ds6013_evacconclusion_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/6000_coup/6000_handler/ds6013_evacconclusion_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Good show, 47. Strandberg is on the move, and we know exactly where he is heading.",
+			"fr": "//(0,30)\\\\Excellent travail, 47. Strandberg est en route et nous savons exactement où il va.",
+			"it": "//(0,1.824294)\\\\Molto bene, 47.//(1.824294,31.82429)\\\\Strandberg sta fuggendo, e noi sappiamo esattamente dov'è diretto.",
+			"de": "//(0,1.7)\\\\Tolle Vorstellung, 47.//(1.7,31.7)\\\\Strandberg ist unterwegs und wir wissen genau, wohin er will.",
+			"es": "//(0,1.724294)\\\\Buen espectáculo, 47.//(1.724294,31.72429)\\\\Ahora Strandberg se ha puesto en marcha y sabemos exactamente adónde se dirige.",
+			"ru": "//(0,1.724294)\\\\Отличное представление, 47-й.//(1.724294,31.72429)\\\\Стрендберг выдвинулся, и мы точно знаем, куда он направляется.",
+			"cn": "//(0,30)\\\\干得漂亮，47。斯特兰博格正在转移，而我们知道他要去哪里。",
+			"tc": "//(0,30)\\\\幹得漂亮，47。史川伯格正在轉移，而我們知道他要去哪裡。",
+			"jp": "//(0,30)\\\\お見事よ、47。ストランドバーグは動き出したし、目的地もわかったわ。"
+		}
+	}
+}

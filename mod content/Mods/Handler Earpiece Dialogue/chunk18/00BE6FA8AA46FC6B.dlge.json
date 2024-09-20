@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colombia/23000_hippo/23000_handler/ds23044_mansionentry.sweetdialog?/ds23044_mansionentry_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds23044_mansionentry_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colombia/23000_hippo/23000_handler/ds23044_mansionentry_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colombia/23000_hippo/23000_handler/ds23044_mansionentry_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.478589)\\\\You're entering the lion's den, 47.//(2.478589,4.033271)\\\\Tread carefully.//(4.033271,6.20091)\\\\Practically everyone here is dangerous,//(6.20091,8.609625)\\\\not least Rico Delgado himself.",
+			"fr": "//(0,3.682)\\\\Vous entrez dans la gueule du loup, 47, prudence.//(3.682,6.2)\\\\Tout le monde ici ou presque représente un danger,//(6.2,8.609625)\\\\et particulièrement Rico Delgado.",
+			"it": "//(0,2.55)\\\\Stai per entrare nella tana del leone, 47.//(2.55,4.001408)\\\\Fai attenzione.//(4.001408,6.18)\\\\Praticamente chiunque, qui, è pericoloso,//(6.18,10.37859)\\\\e Rico Delgado non è da meno.",
+			"de": "//(0,2.465)\\\\Sie betreten jetzt die Höhle des Löwen, 47.//(2.465,3.881)\\\\Seien Sie auf der Hut.//(3.881,6.235272)\\\\Praktisch jeder hier ist gefährlich,//(6.235272,8.609625)\\\\nicht zuletzt Rico Delgado selbst.",
+			"es": "//(0,2.5)\\\\Te estás metiendo en la boca del lobo, 47.//(2.5,4)\\\\Ve con cuidado.//(4,9.146708)\\\\Aquí todo el mundo es peligroso, no solo Rico Delgado.",
+			"ru": "//(0,2.448596)\\\\Ты входишь в логово зверя,//(2.448596,4.617055)\\\\47-й. Осторожно.//(4.617055,6.605907)\\\\Здесь почти все опасные,//(6.605907,8.609625)\\\\особенно Рико Дельгадо.",
+			"cn": "//(0,3.8)\\\\47，你即将深入虎穴。小心行事。//(3.8,33.8)\\\\在这里，包括里科·戴尔加多本人在内的所有人都可能对你构成威胁。",
+			"tc": "//(0,3.8)\\\\47，你即將深入虎穴。小心行事。//(3.8,33.8)\\\\這裡包括里科．戴爾加多本人在內的所有人都可能對你構成威脅。",
+			"jp": "//(0,2.32)\\\\ここは非常に危険な場所よ、47。//(2.32,3.8)\\\\慎重に事を運ぶのよ。//(3.8,6)\\\\ここにいる全員が危険人物だわ。//(6,36)\\\\リコ・デルガドだけじゃないのよ。"
+		}
+	}
+}

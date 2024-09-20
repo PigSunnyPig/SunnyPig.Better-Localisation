@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/miami/21000_flamingo/21000_handler/ds21036_oppcheckupconclusion.sweetdialog?/ds21036_oppcheckupconclusion_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds21036_oppcheckupconclusion_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/miami/21000_flamingo/21000_handler/ds21036_oppcheckupconclusion_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/miami/21000_flamingo/21000_handler/ds21036_oppcheckupconclusion_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.724294)\\\\Excellent work, 47.//(1.724294,6.273375)\\\\Sierra Knox should be on her way to the emergency area.",
+			"fr": "//(0,1.5)\\\\Excellent travail, 47.//(1.5,6.905276)\\\\Sierra Knox devrait être en route pour le centre médical.",
+			"it": "//(0,1.724294)\\\\Eccellente lavoro, 47.//(1.724294,3.575)\\\\Sierra Knox probabilmente si sta dirigendo//(3.575,5.300982)\\\\verso la zona di pronto soccorso.",
+			"de": "//(0,1.724294)\\\\Hervorragende Arbeit, 47.//(1.724294,3.400982)\\\\Sierra Knox sollte schon auf dem Weg//(3.400982,7.273375)\\\\in den Notfallbereich sein.",
+			"es": "//(0,0.6701558)\\\\Excelente trabajo,//(0.6701558,3.654549)\\\\47. Sierra Knox debería estar de camino hacia la//(3.654549,4.91025)\\\\zona de urgencias.",
+			"ru": "//(0,1.724294)\\\\Отличная работа, 47-й.//(1.724294,3.196687)\\\\Сьерра Нокс уже должна//(3.196687,5.537178)\\\\идти в зону скорой помощи.",
+			"cn": "//(0,30)\\\\非常好，47。希拉·诺克斯要前往救护区了。",
+			"tc": "//(0,30)\\\\非常好，47。希拉．諾克斯要前往救護區了。",
+			"jp": "//(0,30)\\\\素晴らしいわ、47。シエラ・ノックスはいま緊急治療エリアに向かっているはずよ。"
+		}
+	}
+}

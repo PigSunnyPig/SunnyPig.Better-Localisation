@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/italy/1000_virus/1000_handler/ds1037_detectivebriefing.sweetdialog?/ds1037_detectivebriefing_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds1037_detectivebriefing_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_virus/1000_handler/ds1037_detectivebriefing_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_virus/1000_handler/ds1037_detectivebriefing_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.38908)\\\\According to our research, Sal Falcone, a private investigator from Milan,//(4.38908,8.101963)\\\\has performed services for Silvio Caruso in the past.//(8.101963,14.31583)\\\\The question is, does Falcone still work for Caruso, or does De Santis have an agenda of her own?//(14.31583,44.31583)\\\\Only one way to find out.",
+			"fr": "//(0,4.4)\\\\Selon nos informations, Sal Falcone, un détective privé milanais,//(4.4,7.9)\\\\a déjà fourni ses services à Silvio Caruso par le passé.//(7.9,11.5)\\\\Reste à savoir s'il travaille encore pour Caruso,//(11.5,41.5)\\\\ou si De Santis a des intentions qui lui sont propres. Il n'y a qu'un moyen de le savoir.",
+			"it": "//(0,4.607177)\\\\Le nostre ricerche confermano che Sal Falcone, un investigatore privato di Milano,//(4.607177,8.133865)\\\\ha già svolto incarichi per Silvio Caruso.//(8.133865,9.28816)\\\\La domanda è://(9.28816,14.53724)\\\\Falcone lavora ancora per Caruso o De Santis sta tramando qualcosa?//(14.53724,44.53724)\\\\C'è solo un modo per scoprirlo.",
+			"de": "//(0,3.920982)\\\\Laut unserer Recherchen hat Sal Falcone, ein Privatdetektiv aus Mailand,//(3.920982,7.733865)\\\\in der Vergangenheit mehrmals Nachforschungen für Silvio Caruso angestellt.//(7.733865,13.87534)\\\\Die Frage ist, arbeitet Falcone noch immer für Caruso oder verfolgt De Santis eigene Ziele?//(13.87534,43.87534)\\\\Es gibt nur einen Weg, es rauszufinden.",
+			"es": "//(0,4.416)\\\\Según nuestra investigación, Sal Falcone, un detective privado de Milán,//(4.416,7.947)\\\\ha trabajado para Silvio Caruso en el pasado.//(7.947,14.24)\\\\La cuestión es: ¿Falcone sigue trabajando para Caruso o De Santis tiene sus propios planes?//(14.24,44.24)\\\\Solo hay una forma de averiguarlo.",
+			"ru": "//(0,4.55)\\\\Судя по нашим данным, миланский частный детектив Сэл Фальконе//(4.55,8)\\\\в прошлом уже оказывал услуги Карузо.//(8,12)\\\\Возникает вопрос: он здесь по поручению Сильвио,//(12,14)\\\\или у Де Сантис есть собственные планы?//(14,44)\\\\Есть только один способ это выяснить.",
+			"cn": "//(0,4.4)\\\\根据我们的研究，萨尔·法科尼是个来自米兰的私家侦探，//(4.4,7.7)\\\\以前曾为西尔维奥·卡鲁索办过事。//(7.7,11)\\\\问题是，法科尼依然听命于卡鲁索吗？//(11,14.4)\\\\还是说德·桑蒂斯有自己的打算？//(14.4,44.4)\\\\只能亲自查清楚了。",
+			"tc": "//(0,4.6)\\\\根據我們的研究，薩爾．法科尼是個來自米蘭的私家偵探，//(4.6,8)\\\\以前曾為西爾維奧．卡魯索辦過事。//(8,11.6)\\\\問題是，法科尼依然聽命於卡魯索嗎？//(11.6,41.6)\\\\還是說德．桑蒂斯有自己的打算？只能親自查清楚了。",
+			"jp": "//(0,7.305152)\\\\サル・ ファルコーネ。 ミラノ出身の 私立探偵。 過去に カルーソーの 依頼を こなして いるわ。 今も//(7.305152,13.87979)\\\\続けて いるのか、 それともデ・サンティスが 単独で 動いて いるのかは わからない。 明らかに する方法は、//(13.87979,15.86435)\\\\1つだけの ようね。"
+		}
+	}
+}

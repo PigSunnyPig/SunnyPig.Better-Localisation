@@ -1,0 +1,49 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/12500_white_spider/12500_rabies/12500_handler/ds12553_guitar.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds12553_guitar_diana_ws_001",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12553_guitar_diana_ws_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12553_guitar_diana_ws_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\You're looking for a musician, 47. He plays acoustic guitar.",
+					"fr": "//(0,30)\\\\Cherchez un musicien, 47. Il joue de la guitare acoustique.",
+					"it": "//(0,30)\\\\Devi cercare un musicista, 47. Suona la chitarra acustica.",
+					"de": "//(0,30)\\\\Sie suchen einen Musiker, 47. Er spielt akustische Gitarre.",
+					"es": "//(0,30)\\\\Ahora buscas a un músico, 47. Toca la guitarra acústica.",
+					"ru": "//(0,30)\\\\Тебе нужен музыкант, 47-й. Он играет на акустической гитаре.",
+					"cn": "//(0,30)\\\\你要找的是一位音乐家，47。他演奏的是吉他。",
+					"tc": "//(0,30)\\\\你要找的是一位音樂家，47。他演奏的是吉他。",
+					"jp": "//(0,30)\\\\47、 アコースティックギターを 弾いて いる人を 探して。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds12553_guitar_diana_ws_002",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12553_guitar_diana_ws_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12553_guitar_diana_ws_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\This should be easy to spot. He likes to play the guitar.",
+					"fr": "//(0,30)\\\\Cette cible devrait être facile à identifier : il aime jouer de la guitare.",
+					"it": "//(0,30)\\\\Trovare questo bersaglio non sarà difficile. Suona spesso la chitarra.",
+					"de": "//(0,30)\\\\Der dürfte leicht zu finden sein. Er spielt gerne Gitarre.",
+					"es": "//(0,30)\\\\Este debería ser fácil de encontrar. Le gusta tocar la guitarra.",
+					"ru": "//(0,30)\\\\Его наверняка легко заметить. Он любит играть на гитаре.",
+					"cn": "//(0,30)\\\\这应该很好找。他喜欢弹奏吉他。",
+					"tc": "//(0,30)\\\\這應該很好找。他喜歡彈奏吉他。",
+					"jp": "//(0,30)\\\\これは 簡単ね。 彼は ギターを 弾くらしいわ。"
+				}
+			}
+		]
+	}
+}

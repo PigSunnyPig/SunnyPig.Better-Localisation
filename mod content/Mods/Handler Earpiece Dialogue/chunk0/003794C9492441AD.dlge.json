@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/tutorial/9000_handler/ds9216_instinct.sweetdialog?/ds9216_instinct_young_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds9216_instinct_young_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/tutorial/9000_handler/ds9216_instinct_young_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/tutorial/9000_handler/ds9216_instinct_young_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,6.05)\\\\As previous tests have established, you exhibit an unusual level of enhanced sensory perception.//(6.05,36.05)\\\\Use your instinct now to sense the position and movement of people around you and identify your target.",
+			"fr": "//(0,2.364785)\\\\Comment nous l'avons vu dans nos tests précédents,//(2.364785,6.041472)\\\\vous montrez une perception sensorielle particulièrement développée.//(6.091472,9.83294)\\\\Utilisez votre instinct pour capter la position et les déplacements des personnes autour de vous,//(9.98294,39.98294)\\\\et ainsi identifier votre cible.",
+			"it": "//(0,1.960491)\\\\Come stabilito dai precedenti test,//(1.960491,5.724)\\\\il potenziamento delle tue percezioni sensoriali ha prodotto risultati fuori dall'ordinario.//(5.724,8.23)\\\\Usa l'istinto per identificare il bersaglio determinando la posizione//(8.23,38.23)\\\\e i movimenti delle persone intorno a te, e identifica il bersaglio.",
+			"de": "//(0,5.8)\\\\Frühere Tests haben gezeigt, dass Sie über eine außerordentlich ausgeprägte Wahrnehmung verfügen.//(5.8,35.8)\\\\Setzen Sie diesen Instinkt jetzt ein, um Positionen und Bewegungen der Personen um Sie herum zu erspüren und Ihr Ziel zu identifizieren.",
+			"es": "//(0,6.141472)\\\\Tal y como indican las pruebas previas, muestras un nivel inusual de percepción sensorial mejorada.//(6.141472,9.569)\\\\Usa tu instinto ahora para detectar la posición y el movimiento de la gente a tu alrededor,//(9.569,15.22773)\\\\y así identificar a tu objetivo.",
+			"ru": "//(0,2.356)\\\\Как показали предыдущие испытания,//(2.356,5.703)\\\\ты обладаешь необычайно развитым восприятием.//(5.703,9.99208)\\\\Инстинкт поможет тебе понять, где находятся другие люди, почувствовать их движения//(9.99208,11.301)\\\\и даже найти свою цель.",
+			"cn": "//(0,6.068098)\\\\之前的测试发现你展现出了非同寻常的敏锐感知能力。//(6.068098,9.968098)\\\\现在，使用你的直觉感知周围人们的位置和动向，//(9.968098,39.9681)\\\\并辨认出你的目标。",
+			"tc": "//(0,6)\\\\之前的測試發現你展現出了非同尋常的敏銳感知能力。//(6,36)\\\\現在，使用你的直覺感知周圍人們的位置和動向，並辨認出你的目標。",
+			"jp": "//(0,2.7)\\\\これまでの試験で、あなたは類いまれなる//(2.7,5.6)\\\\認知能力の持ち主であることを証明した。//(5.6,9.5)\\\\その能力で近くにいる人物の位置や動きを感じ取り//(9.5,11.30094)\\\\ターゲットを特定するのよ。"
+		}
+	}
+}

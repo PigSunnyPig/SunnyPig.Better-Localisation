@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_bull/8000_story/dr8101_firstrevealprovidence.sweetdialog?/dr8101_firstrevealprovidence_diana_008.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8101_firstrevealprovidence_diana_008",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_bull/8000_story/dr8101_firstrevealprovidence_diana_008.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_bull/8000_story/dr8101_firstrevealprovidence_diana_008.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,30)\\\\Keep looking, 47. We need full disclosure.",
+			"fr": "//[DIANA]\\\\//(0,30)\\\\Continuez à chercher, 47. On doit élucider tout ça.",
+			"it": "//[DIANA]\\\\//(0,1.642393)\\\\Continua a cercare, 47.//(1.642393,31.64239)\\\\Abbiamo bisogno di più informazioni.",
+			"de": "//[DIANA]\\\\//(0,30)\\\\Suchen Sie weiter, 47. Wir brauchen alle Informationen.",
+			"es": "//[DIANA]\\\\//(0,30)\\\\Sigue buscando, 47. Necesitamos todos los datos.",
+			"ru": "//[DIANA]\\\\//(0,1.8)\\\\Продолжай поиски, 47-й.//(1.8,31.8)\\\\Нам нужна полная картина.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\注意观察，47。我们需要彻底揭开他们的面纱。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\繼續找找，47。我們需要查個水落石出。",
+			"jp": "//[DIANA]\\\\//(0,30)\\\\続けて、47。全てを暴くわよ。"
+		}
+	}
+}

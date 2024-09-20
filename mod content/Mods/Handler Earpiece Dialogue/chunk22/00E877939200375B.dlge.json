@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_dirtyoctopus/2000_dirtyoctopus_handler/dr2620_diana.sweetdialog?/dr2620_diana_diana_et_007.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr2620_diana_diana_et_007",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_dirtyoctopus/2000_dirtyoctopus_handler/dr2620_diana_diana_et_007.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_dirtyoctopus/2000_dirtyoctopus_handler/dr2620_diana_diana_et_007.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA_ET]\\\\//(0,3.937178)\\\\It seems that the target is in the process of receiving keratoplasty,//(3.937178,6.850061)\\\\most likely with the intent to fool retinal scanners.//(6.850061,36.85006)\\\\Look for a patient with an eye covered.",
+			"fr": "//[DIANA_ET]\\\\//(0,6.9)\\\\Il semble que la cible ait subi une kératoplastie, sûrement pour tromper les scanners rétiniens.//(6.9,36.9)\\\\Cherchez un patient avec un bandeau sur l'œil.",
+			"it": "//[DIANA_ET]\\\\//(0,3.965)\\\\Sembra che il bersaglio abbia richiesto una cheratoplastica,//(3.965,6.81)\\\\forse con l'intento di ingannare degli scanner retinici.//(6.81,36.81)\\\\Cerca un paziente con una garza sull'occhio.",
+			"de": "//[DIANA_ET]\\\\//(0,6.653865)\\\\Es sieht so aus, als erhielte die Zielperson eine Behandlung wegen Keratoplastik, wahrscheinlich mit dem Ziel, Netzhautscanner zu täuschen.//(6.653865,36.65387)\\\\Suchen Sie einen Patienten, bei dem ein Auge abgedeckt oder verbunden ist.",
+			"es": "//[DIANA_ET]\\\\//(0,4.01908)\\\\Parece que el objetivo se está sometiendo a una queratoplastia, seguramente//(4.01908,34.01908)\\\\para burlar los escáneres de retina. Busca un paciente con un ojo tapado.",
+			"ru": "//[DIANA_ET]\\\\//(0,3.871)\\\\Похоже, цель проходит процедуру кератопластики,//(3.871,7.05)\\\\скорее всего, для того, чтобы обмануть сканеры сетчатки.//(7.05,37.05)\\\\Ищи пациента с повязкой на глазу.",
+			"cn": "//[DIANA_ET]\\\\//(0,6.638)\\\\目标似乎正在接受角膜成形术，其目的很可能是欺骗视网膜扫描仪。//(6.638,36.638)\\\\注意寻找一只眼睛有缝线的病人。",
+			"tc": "//[DIANA_ET]\\\\//(0,6.7)\\\\目標似乎正在接受角膜成形術，其目的很可能是欺騙視網膜掃描器。//(6.7,36.7)\\\\注意尋找一隻眼睛有縫線的病人。",
+			"jp": "//[DIANA_ET]\\\\//(0,6.421581)\\\\標的は 角膜の 手術を おこなったようよ。 網膜スキャナーを あざむくためでしょうね。 眼帯を//(6.421581,9.173688)\\\\して いる患者を 探して。"
+		}
+	}
+}

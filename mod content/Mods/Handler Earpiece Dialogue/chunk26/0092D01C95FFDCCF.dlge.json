@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/italy/12250_white_spider/12250_ebola/12250_handler/ds12260_diana_weapon_get.sweetdialog?/ds12260_diana_weapon_get_diana_ws_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds12260_diana_weapon_get_diana_ws_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/12250_white_spider/12250_ebola/12250_handler/ds12260_diana_weapon_get_diana_ws_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/12250_white_spider/12250_ebola/12250_handler/ds12260_diana_weapon_get_diana_ws_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,6.05)\\\\Excellent, 47. I'll have a team ready to take possession of the weaponised virus as soon as you extract.//(6.05,9.113865)\\\\Do be careful with it.",
+			"fr": "//(0,1.225113)\\\\Excellent, 47.//(1.225113,4.217789)\\\\J'envoie une équipe récupérer le virus dès que vous//(4.217789,5.99954)\\\\aurez quitté la zone.//(5.99954,7.448771)\\\\Faites-attention à vous.",
+			"it": "//(0,1.345216)\\\\Eccellente, 47.//(1.345216,4.631278)\\\\Farò arrivare una squadra di recupero che si occupi//(4.631278,6.222583)\\\\dell'arma dopo l'estrazione.//(6.222583,7.448771)\\\\Fai attenzione.",
+			"de": "//(0,0.3791145)\\\\Ausgezeichnet,//(0.3791145,2.290221)\\\\47. Ich schicke ein Team,//(2.290221,4.384786)\\\\das das waffenfähige Virus an sich nimmt,//(4.384786,5.916779)\\\\sobald Sie sich absetzen.//(5.916779,7.448771)\\\\Seien Sie vorsichtig damit.",
+			"es": "//(0,1.08042)\\\\Excelente, 47.//(1.08042,3.719645)\\\\Tendré un equipo listo para hacerse cargo del arma//(3.719645,5.584208)\\\\biológica en cuanto la extraigas.//(5.584208,7.448771)\\\\Ten mucho cuidado con ella.",
+			"ru": "//(0,2.265144)\\\\Отлично, 47-й. Я подготовлю отряд,//(2.265144,3.339825)\\\\который заберет вирус,//(3.339825,5.394298)\\\\как только ты его достанешь.//(5.394298,7.448771)\\\\Будь с ним очень осторожен.",
+			"cn": "//(0,30)\\\\非常好，47。你一撤离我就会立刻派一支小队去取病毒武器。请务必当心。",
+			"tc": "//(0,30)\\\\非常好，47。你一撤離我就會立刻派一支小隊去取病毒武器。請務必當心。",
+			"jp": "//(0,30)\\\\よくやったわ、 47。 回収班を 待機させて おくから、 脱出まで 気を 抜かないように。"
+		}
+	}
+}

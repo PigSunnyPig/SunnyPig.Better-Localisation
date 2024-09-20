@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/opulent/34000_stingray/34000_cinematics/34000_flyin.sweetdialog?/34000_flyin_diana_004.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "34000_flyin_diana_004",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/opulent/34000_stingray/34000_cinematics/34000_flyin_diana_004.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/opulent/34000_stingray/34000_cinematics/34000_flyin_diana_004.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,30)\\\\Steven Bradley alternates between looking after a strict training regimen and working on a small, private island.",
+			"fr": "//[DIANA]\\\\//(0,2.208589)\\\\Steven Bradley alterne quant à lui//(2.208589,7.21348)\\\\entraînement sportif rigoureux et responsabilités sur l'île.",
+			"it": "//[DIANA]\\\\//(0,4.5)\\\\Steven Bradley si alterna tra un rigido regime di allenamento//(4.5,7.107838)\\\\e il lavoro su una piccola isola privata.",
+			"de": "//[DIANA]\\\\//(0,2.240491)\\\\Steven Bradley wechselt zwischen einem//(2.240491,5)\\\\strengen Trainingsplan und seiner Arbeit//(5,7.213479)\\\\auf einer kleinen privaten Insel.",
+			"es": "//[DIANA]\\\\//(0,1.840491)\\\\Steven Bradley alternará entre vigilar//(1.840491,4.71512)\\\\un estricto régimen de entrenamiento y trabajar//(4.71512,7.213479)\\\\en una pequeña isla privada.",
+			"ru": "//[DIANA]\\\\//(0.45,3.014338)\\\\Стивен Брэдли чередует отдых после интенсивных//(3.014338,7.21348)\\\\тренировок и работу на небольшом частном острове.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\史蒂文·布拉德利在一座私人小岛上进行严格的训练项目和埋头工作。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\史蒂芬‧布萊德利將監督嚴格的訓練方案並著手於小型的私人小島。",
+			"jp": "//[DIANA]\\\\//(0,4.555)\\\\スティーブン・ブラッドレイは厳密なトレーニングに励む傍ら、//(4.555,34.555)\\\\小さな個人所有の島で働いているわ。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_skunk/27000_handler/ds27072_cassidyguncollection.sweetdialog?/ds27072_cassidyguncollection_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds27072_cassidyguncollection_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_skunk/27000_handler/ds27072_cassidyguncollection_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_skunk/27000_handler/ds27072_cassidyguncollection_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,2.804839)\\\\Cassidy looks to be a gun enthusiast.//(2.804839,6.254875)\\\\The room looks like it's outfitted with a lot of security and alarms.",
+			"fr": "//[DIANA]\\\\//(0,2.204371)\\\\On dirait que Cassidy aime les armes.//(2.204371,4.314238)\\\\La pièce semble équipée de toute une batterie//(4.314238,6.254875)\\\\d'alarmes et de mesures de sécurité.",
+			"it": "//[DIANA]\\\\//(0,2.576752)\\\\Credo che Cassidy sia un appassionato di armi.//(2.576752,5.054839)\\\\La stanza sembra attrezzata con un marea di allarmi//(5.054839,6.254875)\\\\sistemi di sicurezza.",
+			"de": "//[DIANA]\\\\//(0,2.017105)\\\\Cassidy ist offenbar ein Waffensammler.//(2.017105,3.920533)\\\\Der Raum scheint mit einer Menge//(3.920533,4.872246)\\\\Sicherheitsvorkehrungen und Alarmen//(4.872246,6.254875)\\\\ausgestattet zu sein.",
+			"es": "//[DIANA]\\\\//(0,3.175889)\\\\Por lo visto, a Cassidy le entusiasman las armas.//(3.175889,5.256619)\\\\La habitación parece contar con mucha seguridad//(5.256619,6.256619)\\\\y alarmas.",
+			"ru": "//[DIANA]\\\\//(0,2.223264)\\\\Кэссиди явно любит пушки.//(2.223264,5.127684)\\\\Эта комната напичкана кучей охранных систем и//(5.127684,6.254875)\\\\сигнализаций.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\卡西迪看来是个枪械爱好者。这个房间似乎装了大量安保装置和警报器。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\凱西迪看來是個槍械愛好者。這個房間似乎裝上大量保全裝置和警報器。",
+			"jp": "//[DIANA]\\\\//(0,2.518)\\\\キャシディは銃マニアのようね。//(2.518,32.518)\\\\部屋にはたくさんのセキュリティと警報が設置されているみたい。"
+		}
+	}
+}

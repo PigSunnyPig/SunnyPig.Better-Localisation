@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/rocky/dugong/46000_handler/ds46017_oppmeetingreveal.sweetdialog?/ds46017_oppmeetingreveal_grey_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds46017_oppmeetingreveal_grey_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/rocky/dugong/46000_handler/ds46017_oppmeetingreveal_grey_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/rocky/dugong/46000_handler/ds46017_oppmeetingreveal_grey_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.819)\\\\It seems that Crest is waiting for Akka to call a meeting.//(2.819,10.46626)\\\\Getting them both in one place would certainly save some time.",
+			"fr": "//(0,30)\\\\Crest semble attendre qu'Akka organise un rendez-vous. On gagnera du temps en les ayant tous les deux au même endroit.",
+			"it": "//(0,2.89)\\\\Sembra che Crest stia aspettando che Akka organizzi un incontro.//(2.89,32.89)\\\\In effetti, risparmieremmo del tempo se entrambi si trovassero nello stesso luogo.",
+			"de": "//(0,2.75)\\\\Es scheint, als würde Crest darauf warten, dass Akka ein Treffen ansetzt.//(2.75,32.75)\\\\Sie beide an einem Ort zu haben, würde uns etwas Zeit sparen.",
+			"es": "//(0,2.65)\\\\Parece que Crest está esperando a que Akka convoque una reunión.//(3,33)\\\\Sin duda, nos ahorraría tiempo que ambos estuviesen en la misma ubicación.",
+			"ru": "//(0,2.95)\\\\Похоже, Крест ждет, когда Акка позовет его на встречу.//(2.95,32.95)\\\\Если они окажутся в одном месте, это сэкономит нам время.",
+			"cn": "//(0,30)\\\\看来克雷斯在等待艾卡召集会面。等他们同时出现时一并干掉，肯定能省不少时间。",
+			"tc": "//(0,3)\\\\克雷斯特似乎正在等待阿卡安排會面。//(3,33)\\\\讓他們兩人來到同一個地方的確能省點時間。",
+			"jp": "//(0,3)\\\\クレストはアッカとミーティングの予定があるようだ。//(3,33)\\\\1か所で2人まとめて片づけられたら、時間の節約になるな。"
+		}
+	}
+}

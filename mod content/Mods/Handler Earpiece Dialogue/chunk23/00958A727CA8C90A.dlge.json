@@ -1,0 +1,49 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/12500_white_spider/12500_rabies/12500_handler/ds12560_sleepy.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds12560_sleepy_diana_ws_001",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12560_sleepy_diana_ws_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12560_sleepy_diana_ws_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Strange. This target seems to be... really tired. Perhaps a symptom of the infection? Look for someone having a nap.",
+					"fr": "//(0,30)\\\\Étrange... Cette cible semble épuisée. Peut-être un symptôme de l'infection ? Cherchez quelqu'un qui fait la sieste.",
+					"it": "//(0,30)\\\\È strano. Questo bersaglio sembra... terribilmente stanco. Che sia un sintomo dell'infezione? Cerca qualcuno che sta dormendo.",
+					"de": "//(0,30)\\\\Merkwürdig. Die Zielperson ist anscheinend ... richtig müde. Vielleicht ein Symptom der Infektion? Suchen Sie jemanden, der ein Nickerchen macht.",
+					"es": "//(0,30)\\\\Qué raro. El objetivo parece estar cansadísimo... ¿Será otro síntoma de la infección? Busca a alguien echando una siesta.",
+					"ru": "//(0,30)\\\\Странно. Похоже, эта цель... чувствует сильную усталость. Возможно, один из симптомов болезни? Поищи того, кто дремлет.",
+					"cn": "//(0,30)\\\\真奇怪。这名目标看起来......很累。也许是感染的症状？找找正在打盹的人。",
+					"tc": "//(0,30)\\\\真奇怪。這名目標看起來......很累。也許是感染的症狀？找找正在打盹的人。",
+					"jp": "//(0,30)\\\\変ね。 このターゲットは どうやら... 疲れてるみたい。 ウイルスの せいかしら？ 仮眠を とって いる人を 探して。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds12560_sleepy_diana_ws_002",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12560_sleepy_diana_ws_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12560_sleepy_diana_ws_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\The Doctor's journal refers to \"unexpected, extreme narcolepsy\". The Target might be lying down, or asleep.",
+					"fr": "//(0,30)\\\\Le journal du docteur parle de \"narcolepsie extrême et soudaine\". La cible doit être allongée ou en train de dormir.",
+					"it": "//(0,30)\\\\La cartella del dottore parla di \"estrema e inattesa narcolessia\". Il bersaglio potrebbe essere disteso o addormentato.",
+					"de": "//(0,30)\\\\Der Doktor schreibt von \"plötzlicher, extremer Narkolepsie\". Die Zielperson liegt möglicherweise herum oder schläft.",
+					"es": "//(0,30)\\\\El diario del doctor habla de \"narcolepsia repentina y profunda\". El objetivo podría estar echado, o durmiendo.",
+					"ru": "//(0,30)\\\\В заметках нашего доктора говорится о «неожиданной ярко проявляющейся нарколепсии». Цель может лежать или спать.",
+					"cn": "//(0,30)\\\\医生的日志中提到“意料之外的极度嗜睡”。目标现在可能在躺着或是熟睡。",
+					"tc": "//(0,30)\\\\醫生的日誌中提到「意料之外的極度嗜睡」。目標現在可能在躺著或是熟睡。",
+					"jp": "//(0,30)\\\\ドクターの メモには、 「極端なナルコレプシー」と ある。 ターゲットは 寝て いる可能性が あるわ。"
+				}
+			}
+		]
+	}
+}

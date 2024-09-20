@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/marrakech/6000_elusive/6000_cosmopolitan/6000_cosmopolitan_handler/dr6600_diana.sweetdialog?/dr6600_diana_diana_et_003.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr6600_diana_diana_et_003",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/6000_elusive/6000_cosmopolitan/6000_cosmopolitan_handler/dr6600_diana_diana_et_003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/6000_elusive/6000_cosmopolitan/6000_cosmopolitan_handler/dr6600_diana_diana_et_003.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA_ET]\\\\//(0,4.9)\\\\The courier seems nervous, 47. He is unlikely to make the pickup if he’s suspicious.//(4.9,34.9)\\\\I suggest you drop back.",
+			"fr": "//[DIANA_ET]\\\\//(0,2.460491)\\\\Le coursier semble nerveux, 47.//(2.460491,32.46049)\\\\Il risque de ne pas faire la livraison s'il se doute de quoi que ce soit. Je vous suggère de vous éloigner.",
+			"it": "//[DIANA_ET]\\\\//(0,2.460491)\\\\Il corriere sembra nervoso, 47.//(2.460491,4.807178)\\\\Non effettuerà il ritiro, se sospetta qualcosa.//(4.807178,34.80718)\\\\Dovresti allontanarti.",
+			"de": "//[DIANA_ET]\\\\//(0,2.496687)\\\\Der Kurier scheint nervös zu sein, 47.//(2.496687,5.17957)\\\\Wenn er Verdacht schöpft, lässt er die Übergabe platzen.//(5.17957,35.17957)\\\\Halten Sie sich also bedeckt.",
+			"es": "//[DIANA_ET]\\\\//(0,2.15)\\\\El mensajero parece nervioso, 47.//(2.15,4.97)\\\\Es poco probable que recoja el paquete si sospecha de algo.//(4.97,34.97)\\\\Te sugiero que te quedes atrás.",
+			"ru": "//[DIANA_ET]\\\\//(0,30)\\\\Курьер нервничает, 47-й. Если у него возникнут подозрения, встреча сорвется. Советую тебе отойти.",
+			"cn": "//[DIANA_ET]\\\\//(0,30)\\\\47，信使看起来很紧张。如果他起疑心，很可能会放弃交接。我建议你退后一点。",
+			"tc": "//[DIANA_ET]\\\\//(0,30)\\\\信使似乎非常緊張，47。他要是起了疑心可能就不會完成提取。我建議你退後。",
+			"jp": "//[DIANA_ET]\\\\//(0,2.255)\\\\配達員は緊張しているみたいよ、47。//(2.255,4.96)\\\\彼は 怪しんで いる状態では、 パッケージを 取りに 行かないでしょうね。//(4.96,34.96)\\\\引いた方が いいと思うわ。"
+		}
+	}
+}

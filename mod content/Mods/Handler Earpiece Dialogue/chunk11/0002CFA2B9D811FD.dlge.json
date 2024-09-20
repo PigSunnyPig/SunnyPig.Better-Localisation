@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32511_sp_riotbreakingout.sweetdialog?/ds32511_sp_riotbreakingout_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32511_sp_riotbreakingout_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32511_sp_riotbreakingout_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32511_sp_riotbreakingout_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Perfect, 47. That seems to have started the riot. It should help cover our tracks and hide any bodies in the rioting crowd.",
+			"fr": "//(0,30)\\\\Parfait, 47. On dirait que l'émeute a bel et bien démarré. Ça devrait vous permettre d'agir discrètement et de cacher les corps facilement.",
+			"it": "//(0,30)\\\\Perfetto, 47. Sembra aver scatenato la rivolta. Sarà utile per coprire le nostre tracce e nascondere i corpi nella folla in rivolta.",
+			"de": "//(0,30)\\\\Perfekt, 47. Das scheint den Aufstand ausgelöst zu haben. So können wir unsere Spuren verwischen und etwaige Leichen in der tobenden Menge verbergen.",
+			"es": "//(0,30)\\\\Perfecto, 47. Parece que eso ha servido para iniciar el motín. Eso nos ayudará a cubrir nuestras huellas y a ocultar cadáveres entre la multitud amotinada.",
+			"ru": "//(0,1.356196)\\\\Превосходно, 47-й.//(1.356196,3.416687)\\\\Кажется, тебе удалось спровоцировать бунт.//(3.416687,33.41669)\\\\Он поможет нам замести следы, а трупы во время бунта никто и не заметит.",
+			"cn": "//(0,3.4)\\\\47，太完美了。看来你把监狱暴动引发起来了。//(3.4,33.4)\\\\这应该能帮助我们掩盖行踪，暴动的人群能有效隐藏所有尸体。",
+			"tc": "//(0,30)\\\\太完美了，47。看來這引發了暴動。這場暴動的人群應該能夠幫助我們隱藏蹤跡和屍體。",
+			"jp": "//(0,3.56)\\\\完璧よ、47。暴動が始まったようね。//(3.56,33.56)\\\\暴動の渦中にいれば痕跡も死体も隠せるはず。"
+		}
+	}
+}

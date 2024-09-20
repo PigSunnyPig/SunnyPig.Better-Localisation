@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/golden/gecko/40000_story/dr40128_greystoryserverroomreminder.sweetdialog?/dr40128_greystoryserverroomreminder_grey_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr40128_greystoryserverroomreminder_grey_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/gecko/40000_story/dr40128_greystoryserverroomreminder_grey_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/gecko/40000_story/dr40128_greystoryserverroomreminder_grey_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.496242)\\\\The server room should be behind one of the doors//(2.496242,3.584188)\\\\in this hallway.",
+			"fr": "//(0,3.584)\\\\La salle des serveurs doit être derrière l'une des portes de ce couloir.",
+			"it": "//(0,2.100338)\\\\La stanza del server dovrebbe essere dietro a una//(2.100338,3.584187)\\\\delle porte di questo corridoio.",
+			"de": "//(0,1.878177)\\\\Der Serverraum sollte direkt hinter einer der//(1.878177,3.584188)\\\\Türen in diesem Gang sein.",
+			"es": "//(0,3.584188)\\\\La sala de servidores debería estar detrás de las puertas de ese pasillo.",
+			"ru": "//(0,30)\\\\Одна из дверей этого коридора должна вести к серверной.",
+			"cn": "//(0,30)\\\\服务器室应该就在这条走廊的某扇门后面。",
+			"tc": "//(0,30)\\\\伺服器室應該就在走廊上的某道門後。",
+			"jp": "//(0,30)\\\\この廊下の扉のどれかが、サーバールームにつながっているはずだ。"
+		}
+	}
+}

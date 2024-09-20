@@ -1,0 +1,68 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "007631DD99AC0DE3",
+	"DITL": "005CC166F7715F6D",
+	"CLNG": "00063B34B5153AEE",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds20050_sp_langkilled_diana_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20050_sp_langkilled_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20050_sp_langkilled_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Dorian Lang is confirmed killed.",
+					"fr": "//(0,30)\\\\Élimination de Dorian Lang confirmée.",
+					"it": "//(0,30)\\\\Confermo che Dorian Lang è stato ucciso.",
+					"de": "//(0,30)\\\\Dorian Lang ist definitiv tot.",
+					"es": "//(0,30)\\\\Confirmo la muerte de Dorian Lang.",
+					"ru": "//(0,30)\\\\Подтверждаю, ДОРИАН ЛЭНГ убит.",
+					"cn": "//(0,30)\\\\多利安·朗已确认死亡。",
+					"tc": "//(0,30)\\\\確認多里安．朗已被擊殺。",
+					"jp": "//(0,30)\\\\ドリアン・ラングの死亡を確認。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds20050_sp_langkilled_diana_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20050_sp_langkilled_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20050_sp_langkilled_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Lang is down. Nice work, 47.",
+					"fr": "//(0,30)\\\\Lang est mort. Bien joué, 47.",
+					"it": "//(0,30)\\\\Lang è a terra. Ottimo lavoro, 47.",
+					"de": "//(0,30)\\\\Lang ist am Boden. Gute Arbeit, 47.",
+					"es": "//(0,30)\\\\Lang ha sido abatido. Buen trabajo, 47.",
+					"ru": "//(0,30)\\\\ЛЭНГ ликвидирован. Неплохо сработано, 47-й.",
+					"cn": "//(0,30)\\\\朗已被击毙。漂亮，47。",
+					"tc": "//(0,30)\\\\多里安．朗已倒地。做得漂亮，47。",
+					"jp": "//(0,30)\\\\ラングを仕留めたわね。良い仕事ぶりね。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds20050_sp_langkilled_diana_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20050_sp_langkilled_diana_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20050_sp_langkilled_diana_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Lang has been eliminated.",
+					"fr": "//(0,30)\\\\Lang a été éliminé.",
+					"it": "//(0,30)\\\\Lang è stato eliminato.",
+					"de": "//(0,30)\\\\Lang wurde eliminiert.",
+					"es": "//(0,30)\\\\Lang ha sido eliminado.",
+					"ru": "//(0,30)\\\\ЛЭНГ уничтожен.",
+					"cn": "//(0,30)\\\\朗已被消灭。",
+					"tc": "//(0,30)\\\\朗已被消滅。",
+					"jp": "//(0,30)\\\\ラングを排除。"
+				}
+			}
+		]
+	}
+}

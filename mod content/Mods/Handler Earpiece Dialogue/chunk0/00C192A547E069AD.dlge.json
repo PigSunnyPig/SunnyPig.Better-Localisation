@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/evergreen/handler/ed086_answrcongrathotp2.sweetdialog?/ed086_answrcongrathotp2_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ed086_answrcongrathotp2_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed086_answrcongrathotp2_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed086_answrcongrathotp2_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,5.037178)\\\\The assignment was a success, but the campaign is not over yet.//(5.037178,9.3)\\\\We have uncovered plenty more collaborators with the defeated syndicate.//(9.3,13.88724)\\\\So, the stakes will be higher with the next available Assignments.//(13.88724,43.88724)\\\\Think carefully when choosing your next step.",
+			"fr": "//(0,4.612)\\\\Cette mission était un succès, mais la campagne n'est pas encore terminée.//(4.612,9)\\\\Nous avons découvert que le syndicat que vous avez vaincu compte bon nombre d'autres collaborateurs.//(9,13.546)\\\\Par conséquent, les enjeux seront plus élevés lors des prochaines missions disponibles.//(13.546,43.546)\\\\Réfléchissez bien avant de choisir votre prochaine destination.",
+			"it": "//(0,5.037178)\\\\L'incarico è stato un successo, ma la campagna non è ancora finita.//(5.037178,8.113865)\\\\Abbiamo scoperto molti altri collaboratori dell'organizzazione sconfitta.//(8.113865,13.63914)\\\\La posta in gioco, quindi, sarà più alta durante i nuovi incarichi disponibili.//(13.63914,43.63914)\\\\Scegli bene la tua prossima mossa.",
+			"de": "//(0,2.1)\\\\Der Auftrag war ein Erfolg,//(2.1,4.5)\\\\doch die Kampagne ist noch nicht vorbei.//(5,8.9)\\\\Wir haben reichlich weitere Kollaborateure des besiegten Syndikats aufgedeckt.//(9.3,13.7)\\\\Daher wird der Einsatz bei den nächsten Aufträgen auch höher sein.//(13.7,43.7)\\\\Denken Sie genau nach, bevor Sie sich für den nächsten Schritt entscheiden.",
+			"es": "//(0,2.228589)\\\\El encargo ha sido un éxito,//(2.228589,5.005276)\\\\pero la campaña aún no ha terminado.//(5.005276,7.213865)\\\\Hemos descubierto que el sindicato derrotado//(7.213865,9.386258)\\\\tiene muchos más colaboradores.//(9.386258,13.60104)\\\\Por tanto, los próximos encargos serán más complejos.//(13.60104,43.60104)\\\\Piensa bien antes de elegir tu siguiente paso.",
+			"ru": "//(0,5.01)\\\\Задание успешно выполнено, но кампания продолжается.//(5.01,9.314)\\\\Мы обнаружили целый ряд сообщников уничтоженного синдиката.//(9.314,13.911)\\\\Ставки растут, и дальнейшие задания станут еще опаснее.//(13.911,43.911)\\\\Будь осторожен, выбирая следующий шаг.",
+			"cn": "//(0,4.64)\\\\任务确实成功了，但战斗还远未结束。//(4.64,9.06)\\\\我们发现被击败的辛迪加还有许多同伙。//(9.06,13.57)\\\\因此，下个可接受的任务的风险将会更高。//(13.57,43.57)\\\\在选择进行下一步之前，请三思。",
+			"tc": "//(0,4.9)\\\\任務成功，但戰役還沒結束。//(4.9,9.2)\\\\我們發現了被擊敗的組織還有更多合作人。//(9.2,13.7)\\\\所以，接下來的任務風險會更高。//(13.7,43.7)\\\\選擇下一步之前請三思。",
+			"jp": "//(0,4.71)\\\\任務は成功したけど、キャンペーンはまだ終わっていない。//(4.71,9.075)\\\\排除したシンジケートの協力者が多数明るみに出たわ。//(9.075,13.63)\\\\だから、次の任務からはリスクが上がるでしょうね。//(13.63,43.63)\\\\次の一歩を踏み出す時は慎重に考えなさい。"
+		}
+	}
+}

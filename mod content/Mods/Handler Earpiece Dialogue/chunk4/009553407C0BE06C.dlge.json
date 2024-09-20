@@ -1,0 +1,29 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/edgy/fox/42000_elusive/42000_tomorrowland/42700_tomorrowland_handler/42700_tmlflyin.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Sequence",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "42700_tmlflyin_diana_001",
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/edgy/fox/42000_elusive/42000_tomorrowland/42700_tomorrowland_handler/42700_tmlflyin_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/edgy/fox/42000_elusive/42000_tomorrowland/42700_tomorrowland_handler/42700_tmlflyin_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,4.4)\\\\Good evening 47, and welcome to Berlin.//(4.4,8)\\\\Tonight you shouldn't have any trouble locating your target.//(8,13.5)\\\\He's keeping to the upper level of the club, and doing very little to fly under anyone's radar.//(13.5,22.2)\\\\I haven't found any record of them crossing paths before, but I wonder if he's trying to bait the club’s owner out of the back room for a meeting.//(22.2,52.2)\\\\Best of luck, agent.",
+					"fr": "//[DIANA]\\\\//(0,4.45)\\\\Bonsoir, 47, et bon retour à Berlin.//(4.45,8.1)\\\\Ce soir, vous ne devriez pas avoir autant de difficultés à localiser votre cible ://(8.1,10.2)\\\\celle-ci reste dans les étages supérieurs du club,//(10.2,13.8)\\\\et se montre particulièrement discrète pour ne pas éveiller les soupçons.//(13.8,17.4)\\\\J'ignore s'ils se sont déjà rencontrés ou non,//(17.4,22.25)\\\\mais il essaie probablement d'attirer le propriétaire du club dans une salle isolée pour un rendez-vous.//(22.25,52.25)\\\\Bonne chance, 47.",
+					"it": "//[DIANA]\\\\//(0,4.4)\\\\Buonasera, 47, e benvenuto a Berlino.//(4.4,8)\\\\Stasera non dovresti avere alcun problema a trovare il tuo bersaglio.//(8,13.5)\\\\È nel piano superiore del club e sta facendo di tutto per mantenere un profilo basso.//(13.5,17)\\\\Non ho trovato nessun documento riguardo a un precedente incontro tra i due,//(17,22.2)\\\\ma mi chiedo se non stia cercando di attirare il proprietario del club fuori dalla stanza sul retro per un incontro.//(22.2,52.2)\\\\Buona fortuna, agente.",
+					"de": "//[DIANA]\\\\//(0,4.4)\\\\Guten Abend, 47, und willkommen in Berlin.//(4.4,8)\\\\Heute sollten Sie keine Schwierigkeiten haben, Ihr Ziel zu finden.//(8,13.5)\\\\Es hält sich im oberen Teil des Clubs auf und tut kaum etwas, um unter dem Radar zu fliegen.//(13.5,16.55)\\\\Mir liegen keine Aufzeichnungen darüber vor, dass sich die Wege der beiden schon einmal gekreuzt hätten,//(16.55,22.2)\\\\doch ich frage mich, ob er versucht, den Clubbesitzer für ein Treffen aus dem Hinterzimmer zu locken.//(22.2,52.2)\\\\Viel Glück, Agent.",
+					"es": "//[DIANA]\\\\//(0,4.4)\\\\Buenas noches, 47, y bienvenido a Berlín.//(4.4,8)\\\\Esta noche no deberías tener problema para localizar a tu objetivo://(8,13.5)\\\\no ha salido del piso de arriba del club y no está haciendo por pasar desapercibido.//(13.5,17.04)\\\\No he encontrado ningún informe de posibles encuentros previos con el dueño del club,//(17.04,22.2)\\\\pero me pregunto si no estará intentando convencerlo para que salga de la sala de atrás y se reúna con él.//(22.2,52.2)\\\\Buena suerte, agente.",
+					"ru": "//[DIANA]\\\\//(0,4.4)\\\\Добрый вечер, 47-й. Добро пожаловать в Берлин.//(4.4,8)\\\\Сегодня тебе не придется долго искать свою цель.//(8,13.5)\\\\Он находится на верхнем этаже клуба и ни от кого не скрывается.//(13.5,21.5)\\\\Я не нашла упоминаний о том, что он и владелец клуба раньше встречались. Возможно, он пытается выманить его из подсобного помещения, чтобы провести встречу.//(22.2,52.2)\\\\Удачи, агент.",
+					"cn": "//[DIANA]\\\\//(0,4.4)\\\\晚上好，47，欢迎来到柏林。//(4.4,8)\\\\今晚你应该不难找到你的目标。//(8,13.5)\\\\他始终待在俱乐部的上层，而且几乎没有做什么让人关注的事情。//(13.5,17)\\\\我没找到他们之前有任何交集的记录，//(17,22.2)\\\\但我想他也许是在诱使俱乐部老板走出密室会面。//(22.2,52.2)\\\\祝你好运，特工。",
+					"tc": "//[DIANA]\\\\//(0,4.1)\\\\晚安，47，歡迎來到柏林。//(4.1,8)\\\\今晚你應該能輕易找到目標。//(8,13.7)\\\\他待在俱樂部的上層，而且做事毫不收斂。//(13.7,17.6)\\\\我還沒找到任何關連，但是//(17.6,21)\\\\我懷疑他想要引誘俱樂部的主人到後面的房間與他會面。//(21,51)\\\\祝你好運了，特務。",
+					"jp": "//[DIANA]\\\\//(0,4.4)\\\\こんばんは、47。ベルリンへようこそ。//(4.4,13.5)\\\\今夜は、ターゲットを探すのに苦労しないはず。クラブの上の階で派手に振る舞っているわ。//(13.5,22.2)\\\\これまでに両者が接触したという記録はないけど、もしかしたらターゲットはクラブのオーナーの注意を引いて面会しようとしているのかもしれない。//(22.2,52.2)\\\\幸運を祈る。"
+				}
+			}
+		]
+	}
+}

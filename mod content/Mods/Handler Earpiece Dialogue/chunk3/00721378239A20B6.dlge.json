@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/bulldog/41000_handler/ds41006_handlertargetid.sweetdialog?/ds41006_handlertargetid_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41006_handlertargetid_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/bulldog/41000_handler/ds41006_handlertargetid_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/bulldog/41000_handler/ds41006_handlertargetid_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\That... is Alexa Carlisle, unofficial leader of the Providence Partners and last one to be alive.",
+			"fr": "//(0,5.65)\\\\Voici Alexa Carlisle, dirigeante non officielle des partenaires de Providence,//(5.65,35.65)\\\\et dernière à être encore en vie.",
+			"it": "//(0,30)\\\\Quella... è Alexa Carlisle, leader ufficiosa dei soci di Providence, nonché l'ultima a essere ancora viva.",
+			"de": "//(0,2.692393)\\\\DAS ... ist Alexa Carlisle,//(2.692393,32.69239)\\\\inoffizielle Anführerin der Providence-Partner und die letzte Überlebende.",
+			"es": "//(0,30)\\\\Esa es Alexa Carlisle, líder oficiosa de los socios de Providence y la última que sigue con vida.",
+			"ru": "//(0,1.960491)\\\\А вот и Алекса Карлайл,//(1.960491,5.5)\\\\неофициальный лидер партнеров «Провиденса».//(5.5,35.5)\\\\Кстати, остальные партнеры уже мертвы.",
+			"cn": "//(0,5.7)\\\\那是阿莱莎·卡莱尔，神意秘会同伙的非正式领导人，//(5.7,35.7)\\\\也是该组织唯一在世的成员。",
+			"tc": "//(0,2.9)\\\\那......就是艾力克薩‧卡萊爾，//(2.9,32.9)\\\\神意秘會最後一名生還的同夥非正式首領。",
+			"jp": "//(0,30)\\\\あれはアレクサ・カーライル 、プロヴィデンスのパートナーたちの影のリーダーで、最後の生き残りよ。"
+		}
+	}
+}

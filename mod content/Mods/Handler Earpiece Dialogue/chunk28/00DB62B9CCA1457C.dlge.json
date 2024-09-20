@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/rocky/dugong/46000_handler/ds46005_firstdown.sweetdialog?/ds46005_firstdown_grey_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds46005_firstdown_grey_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/rocky/dugong/46000_handler/ds46005_firstdown_grey_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/rocky/dugong/46000_handler/ds46005_firstdown_grey_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\That's one problem taken care of.",
+			"fr": "//(0,30)\\\\Un problème de moins.",
+			"it": "//(0,30)\\\\E con questa, abbiamo un problema in meno.",
+			"de": "//(0,30)\\\\Damit wäre ein Problem erledigt.",
+			"es": "//(0,30)\\\\Un problema menos del que preocuparse.",
+			"ru": "//(0,30)\\\\С одной проблемой разобрались.",
+			"cn": "//(0,30)\\\\搞定了一个问题。",
+			"tc": "//(0,30)\\\\這下就解決了一個問題了。",
+			"jp": "//(0,30)\\\\これで問題が一つ片付いたな。"
+		}
+	}
+}

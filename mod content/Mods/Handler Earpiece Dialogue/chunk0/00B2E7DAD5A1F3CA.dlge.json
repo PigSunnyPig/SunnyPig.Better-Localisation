@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/golden/gecko/40000_handler/ds40011_guardoppconclude.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds40011_guardoppconclude_grey_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/gecko/40000_handler/ds40011_guardoppconclude_grey_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/gecko/40000_handler/ds40011_guardoppconclude_grey_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\You've gained his trust. What to do with all that power?",
+					"fr": "//(0,30)\\\\Tu as gagné sa confiance. Que faire de tout ce pouvoir ?",
+					"it": "//(0,2.22503)\\\\Hai ottenuto la sua fiducia.//(2.22503,4.8)\\\\A cosa serve tutto quel potere?",
+					"de": "//(0,1.993603)\\\\Du hast dir sein Vertrauen verdient.//(1.993603,4.8)\\\\Was fängt man nur mit all dieser Macht an?",
+					"es": "//(0,1.6)\\\\Te has ganado su confianza.//(2.3,32.3)\\\\¿Qué vas a hacer con ella?",
+					"ru": "//(0,30)\\\\Ты заручился его доверием. Как распорядиться этой властью?",
+					"cn": "//(0,30)\\\\你已经赢得了他的信任，你打算怎么利用它呢？",
+					"tc": "//(0,30)\\\\你取得了他的信任，你打算怎麼利用呢？",
+					"jp": "//(0,30)\\\\信用を得られたようだな。手にした力をどう利用する？"
+				}
+			}
+		]
+	}
+}

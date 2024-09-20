@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colombia/23000_hippo/23000_handler/23000_hippo_flyin.sweetdialog?/23000_hippo_flyin_diana_006.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "23000_hippo_flyin_diana_006",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colombia/23000_hippo/23000_handler/23000_hippo_flyin_diana_006.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colombia/23000_hippo/23000_handler/23000_hippo_flyin_diana_006.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,4.650982)\\\\Rumors persist of hidden transportation cave systems connecting the village,//(4.650982,34.65098)\\\\the cartel compound and the hidden coca fields beyond.",
+			"fr": "//[DIANA]\\\\//(0,2.944785)\\\\Des rumeurs parlent d'un système de transport souterrain//(2.944785,32.94479)\\\\reliant le village, le fief du cartel et les champs de coca cachés.",
+			"it": "//[DIANA]\\\\//(0,4.5)\\\\Si vocifera di un sistema di gallerie nascoste che collega il villaggio,//(4.5,34.5)\\\\il complesso del cartello e i campi di coca che si trovano al di là.",
+			"de": "//[DIANA]\\\\//(0,5.907177)\\\\Gerüchteweise soll es ein verborgenes Höhlensystem geben, das das Dorf, das Kartellanwesen//(5.907177,35.90718)\\\\und die versteckten Kokafelder miteinander verbindet.",
+			"es": "//[DIANA]\\\\//(0,4)\\\\Son constantes los rumores que hablan de un sistema oculto de cuevas que conectan//(4,34)\\\\el pueblo, el complejo del cártel y las plantaciones de coca cercanas.",
+			"ru": "//[DIANA]\\\\//(0,3)\\\\Говорят, что под землей есть тайная сеть пещер для перевозки грузов//(3,33)\\\\между деревней, базой картеля и замаскированными плантациями коки.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\有传言称有某种隐蔽的交通洞穴系统连接着村子、黑帮场地和隐藏的古柯田。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\有傳聞說，村中有隱藏的運輸洞穴通往黑幫根據地和隱藏其後的古柯鹼田。",
+			"jp": "//[DIANA]\\\\//(0,3.52)\\\\噂によれば秘密の洞窟輸送網があって、//(3.52,33.52)\\\\村とカルテルの屋敷と秘密のコカ畑を繋いでいるらしい。"
+		}
+	}
+}

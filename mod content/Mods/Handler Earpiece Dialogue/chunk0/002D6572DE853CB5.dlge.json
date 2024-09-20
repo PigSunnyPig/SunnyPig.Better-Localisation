@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/tutorial/9000_handler/ds9258_knightsoffice.sweetdialog?/ds9258_knightsoffice_young_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds9258_knightsoffice_young_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/tutorial/9000_handler/ds9258_knightsoffice_young_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/tutorial/9000_handler/ds9258_knightsoffice_young_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\And now to confront your target. Knight's office should be somewhere on the 1st floor.",
+			"fr": "//(0,2.058589)\\\\L'heure est venue d'affronter votre cible.//(2.308589,32.30859)\\\\Le bureau de Knight se trouve au premier étage.",
+			"it": "//(0,2.051)\\\\Ora è tempo di affrontare il bersaglio.//(2.051,32.051)\\\\A quanto mi risulta, l'ufficio di Knight si trova al primo piano.",
+			"de": "//(0,30)\\\\Und jetzt zur Zielperson. Knights Büro müsste irgendwo im ersten Stock sein.",
+			"es": "//(0,2.340491)\\\\Toca enfrentarte a tu objetivo.//(2.340491,32.34049)\\\\La oficina de Knight debería estar en algún lugar de la primera planta.",
+			"ru": "//(0,2.340491)\\\\Пора встретиться с твоей целью.//(2.340491,32.34049)\\\\Кабинет Найта находится где-то на втором этаже.",
+			"cn": "//(0,30)\\\\现在该去直接找目标了。奈特的办公室在一楼某处。",
+			"tc": "//(0,30)\\\\現在該去直接找目標了。奈特的辦公室在一樓某處。",
+			"jp": "//(0,30)\\\\いよいよターゲットとのご対面ね。ナイトのオフィスは2階よ。"
+		}
+	}
+}

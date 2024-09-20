@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/italy/12250_white_spider/12250_ebola/12250_handler/ds12254_diana_target_author_spotted.sweetdialog?/ds12254_diana_target_author_spotted_diana_ws_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds12254_diana_target_author_spotted_diana_ws_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/12250_white_spider/12250_ebola/12250_handler/ds12254_diana_target_author_spotted_diana_ws_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/12250_white_spider/12250_ebola/12250_handler/ds12254_diana_target_author_spotted_diana_ws_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\That is Craig Black. Author and aspiring mass murderer.",
+			"fr": "//(0,1.347183)\\\\Voici Craig Black,//(1.347183,4.327646)\\\\auteur et tueur génocidaire en puissance.",
+			"it": "//(0,1.82351)\\\\Quello è Craig Black.//(1.82351,4.327646)\\\\Scrittore e aspirante omicida di massa.",
+			"de": "//(0,1.979144)\\\\Das ist Craig Black.//(1.979144,4.327646)\\\\Schriftsteller und Massenmörder in spe.",
+			"es": "//(0,1.475946)\\\\Ese es Craig Black,//(1.475946,4.327646)\\\\escritor y aspirante a asesino en masa.",
+			"ru": "//(0,1.70804)\\\\Это Крейг Блэк.//(1.70804,4.327646)\\\\Писатель, стремящийся стать массовым убийцей.",
+			"cn": "//(0,30)\\\\那就是克雷格·布莱克。知名作家，也是野心勃勃的杀人凶手。",
+			"tc": "//(0,30)\\\\那就是克雷格·布萊克。知名作家，也是野心勃勃的殺人兇手。",
+			"jp": "//(0,30)\\\\あれが クレイグ・ ブラック。 未来の 大量殺人犯よ。"
+		}
+	}
+}

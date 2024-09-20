@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/marrakech/6000_coup/6000_handler/ds6018_massagebriefing.sweetdialog?/ds6018_massagebriefing_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds6018_massagebriefing_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/6000_coup/6000_handler/ds6018_massagebriefing_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/6000_coup/6000_handler/ds6018_massagebriefing_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,6.1)\\\\According to the appointment schedule, Claus Strandberg has booked a massage to relieve his back pains.//(6.1,9.95)\\\\No doubt all that time in prison has caused muscle stiffness.//(9.95,39.95)\\\\The masseur, who works at a local clinic, has apparently already checked into the building.",
+			"fr": "//(0,1.960491)\\\\Selon le planning des rendez-vous,//(1.960491,6.31)\\\\Claus Strandberg a demandé un massage pour soulager ses douleurs lombaires.//(6.31,9.891)\\\\Son séjour en prison a dû provoquer quelques raideurs musculaires.//(9.891,39.891)\\\\Le masseur, envoyé par une clinique locale, se trouve apparemment déjà dans le bâtiment.",
+			"it": "//(0,2.242)\\\\Secondo l'agenda degli appuntamenti,//(2.242,6.478)\\\\Claus Strandberg ha prenotato un massaggio per alleviare il suo mal di schiena.//(6.478,9.759)\\\\La lunga permanenza in cella deve avergli causato una contrattura.//(9.759,39.759)\\\\Sembra che il massaggiatore di una clinica locale si trovi già nell'edificio.",
+			"de": "//(0,6.2)\\\\Laut Gästeliste hat Claus Strandberg eine Massage zur Linderung seiner Nackenschmerzen gebucht.//(6.2,9.8)\\\\Offenbar leidet er angesichts seiner Gefangenschaft unter Verspannungen.//(9.8,39.8)\\\\Der Masseur einer örtlichen Klinik ist bereits im Gebäude eingetroffen.",
+			"es": "//(0,6.027668)\\\\Según la agenda de citas, Claus Strandberg ha reservado un masaje para calmar sus dolores de espalda.//(6.027668,9.78294)\\\\Sin duda, todo ese tiempo en prisión ha provocado rigidez en sus músculos.//(9.78294,39.78294)\\\\Por lo visto, el masajista que trabaja en la clínica local ya ha entrado en el edificio.",
+			"ru": "//(0,5.893374)\\\\Судя по расписанию посещений, Клаус Стрендберг заказал массаж, чтобы избавиться от болей в спине.//(5.893374,35.89338)\\\\Похоже, время в тюрьме не пошло на пользу мышцам. Массажист из местной клиники уже прибыл в здание.",
+			"cn": "//(0,4.468098)\\\\根据日程表，克劳斯·斯特兰博格预约了一次按摩，//(4.468098,9.8681)\\\\想要缓解他的背部疼痛。肯定是监狱里呆了太久让他肌肉僵硬了。//(9.8681,39.8681)\\\\在本地诊所工作的按摩师已经进入了大楼。",
+			"tc": "//(0,6.1)\\\\根據行事曆，克勞斯．史川伯格預約了一次按摩，想要緩解他的背部疼痛。//(6.1,36.1)\\\\肯定是監獄裡待了太久讓他肌肉僵硬了。在本地診所工作的按摩師已經進入了大樓。",
+			"jp": "//(0,5.99689)\\\\予定表に よると、 クラウス・ストランドバーグは 腰痛の 治療で マッサージの 予約を 入れたみたい。//(5.99689,12.74339)\\\\きっと塀の 中の 生活で、 体に ガタが きたのね。 地元クリニックの マッサージ師は、 すでに建物に//(12.74339,14.77983)\\\\到着してるそうよ。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_skunk/27000_handler/ds27035_intel_letter.sweetdialog?/ds27035_intel_letter_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds27035_intel_letter_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_skunk/27000_handler/ds27035_intel_letter_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_skunk/27000_handler/ds27035_intel_letter_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,3.937689)\\\\Hm, a letter from Janus to someone called Zoe.//(3.937689,8.69536)\\\\It looks like a draft and is full of explicit descriptions of how unhappy Janus is with//(8.69536,13.5)\\\\Zoe and her sister having been appointed Chairwomen of \"The Ark Society.\"//(13.5,20.26971)\\\\Huh, I've heard that name before. This is a good find, 47.",
+			"fr": "//[DIANA]\\\\//(0,3.404345)\\\\Une lettre de Janus à une certaine Zoe.//(3.404345,7.205327)\\\\On dirait un brouillon, rempli de critiques ouvertes de Janus//(7.205327,11.3425)\\\\à l'égard de Zoe et de sa sœur, qui ont été nommées//(11.3425,14.45109)\\\\présidentes de la société de l'Arche.//(14.45109,17)\\\\Hmm, je n'avais encore jamais entendu ce nom.//(17,19.51916)\\\\Belle trouvaille, 47...",
+			"it": "//[DIANA]\\\\//(0,4)\\\\Una lettera di Janus indirizzata a qualcuno di nome Zoe.//(4,6.757668)\\\\Sembra una bozza piena di descrizioni dettagliate//(6.757668,10)\\\\su quanto Janus sia scontento del fatto che Zoe e sua sorella//(10,14)\\\\siano state nominate presidenti della \"Ark Society\".//(14,18.60522)\\\\Uhm, quel nome non mi è nuovo, bella scoperta, 47...",
+			"de": "//[DIANA]\\\\//(0,4.1)\\\\Hm, ein Brief von Janus an jemanden namens Zoe.//(4.1,5.57165)\\\\Es ist wohl nur ein Entwurf,//(5.57165,7.316155)\\\\der aber ausführliche Beschreibungen enthält,//(7.316155,8.501)\\\\wie unzufrieden Janus damit ist,//(8.501,11.68102)\\\\dass Zoe und ihre Schwester zu den Vorsitzenden//(11.68102,13.43612)\\\\der „Ark-Gesellschaft“ ernannt wurden.//(13.43612,16.60817)\\\\Ha, den Namen habe ich doch schon gehört.//(16.60817,18.69759)\\\\Ein guter Fund, 47 ...",
+			"es": "//[DIANA]\\\\//(0,3.763415)\\\\Mmm, una carta de Janus a una tal Zoe.//(3.763415,7.076299)\\\\Parece un borrador y está llena de comentarios explícitos//(7.076299,10.3)\\\\de lo descontento que está Janus con que Zoe y su hermana//(10.3,14.2)\\\\hayan sido nombradas presidentas de la «Ark Society».//(14.2,19.86927)\\\\Mmm, ese nombre me suena. Buen hallazgo, 47...",
+			"ru": "//[DIANA]\\\\//(0,3.076745)\\\\Хм, письмо от Януса для некой Зои.//(3.076745,4.255102)\\\\Судя по всему,//(4.255102,5.799201)\\\\это черновой вариант.//(5.799201,7.331846)\\\\Не стесняясь в выражениях,//(7.331846,8.155917)\\\\Янус описывает,//(8.155917,9.688562)\\\\как он недоволен тем,//(9.688562,12.16857)\\\\что Зои и ее сестра избраны сопредседателями//(12.16857,13.35838)\\\\«Общества Ковчега».//(13.35838,16.80087)\\\\Ха. Я уже где-то слышала это имя.//(16.80087,17.62494)\\\\Удачная находка,//(17.62494,18.62494)\\\\47-й...",
+			"cn": "//[DIANA]\\\\//(0,4.158)\\\\嗯，这是杰纳斯写给一个叫佐伊的人的信。//(4.158,7.283)\\\\看起来只是草稿，通篇表达的意思很明确：//(7.283,13.622)\\\\杰纳斯对佐伊及其姐妹被任命为“方舟会”主席一事十分不满。//(13.622,18.587)\\\\嗯，我之前听过这个名字。47，这个发现很有价值......",
+			"tc": "//[DIANA]\\\\//(0,4.436098)\\\\嗯，這是傑納斯寫給一個叫佐伊的人的信。//(4.436098,9.854)\\\\看起來只是草稿，通篇表達的意思很明確：傑納斯對佐伊及其姐妹//(9.854,13.522)\\\\被任命為「方舟會」主席一事十分不滿。//(13.522,16.59)\\\\嗯，我之前聽過這個名字。//(16.59,18.58742)\\\\47，這個發現很有價值......",
+			"jp": "//[DIANA]\\\\//(0,3.78)\\\\ふむ、ヤヌスからゾーイという人物に宛てられた手紙ね。//(3.78,5.369197)\\\\下書きのように見えるけど、//(5.369197,8.8)\\\\ゾーイとその姉妹が「アーク・ソサエティ」の会長に任命されることが、//(8.8,13.6)\\\\いかに不服かということがびっしり書かれているわ。//(13.6,16.75)\\\\うーん、その名前には聞き覚えがあるわ。//(16.75,18.58742)\\\\よく見つけたわね、47..."
+		}
+	}
+}

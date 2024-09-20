@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colombia/23000_hippo/23000_handler/23000_hippo_flyin.sweetdialog?/23000_hippo_flyin_diana_008.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "23000_hippo_flyin_diana_008",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colombia/23000_hippo/23000_handler/23000_hippo_flyin_diana_008.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colombia/23000_hippo/23000_handler/23000_hippo_flyin_diana_008.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,5.845333)\\\\Expect that all targets are protected by scrupulous killers armed with automatic weapons.",
+			"fr": "//[DIANA]\\\\//(0,2.208589)\\\\Soyez prêt : chaque cible est protégée//(2.208589,32.20859)\\\\par des tueurs implacables équipés d'armes automatiques.",
+			"it": "//[DIANA]\\\\//(0,5.895394)\\\\Ci aspettiamo che tutti i bersagli siano protetti da scrupolosi killer attrezzati con armi automatiche.",
+			"de": "//[DIANA]\\\\//(0,1.933)\\\\Sie müssen davon ausgehen, dass alle Ziele//(1.933,31.933)\\\\von skrupellosen Killern mit automatischen Waffen beschützt werden.",
+			"es": "//[DIANA]\\\\//(0,2.6)\\\\Cabe esperar que todos los objetivos estén protegidos//(2.6,32.6)\\\\por meticulosos asesinos provistos de armas automáticas.",
+			"ru": "//[DIANA]\\\\//(0,30)\\\\Готовься к тому, что все цели будут под защитой матерых головорезов с автоматами.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\所有目标的周围都有着全副武装且一丝不苟的杀手。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\預期所有目標都會受到配備自動武器的殺手保護。",
+			"jp": "//[DIANA]\\\\//(0,3.99)\\\\すべてのターゲットは自動小銃を装備した用心深い殺し屋たちに//(3.99,33.99)\\\\護衛されていると考えていいわ。"
+		}
+	}
+}

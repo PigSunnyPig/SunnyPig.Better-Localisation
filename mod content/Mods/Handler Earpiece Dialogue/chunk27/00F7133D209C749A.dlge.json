@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_fashion/3000_handler/ds3202_daliadiesfirst.sweetdialog?/ds3202_daliadiesfirst_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds3202_daliadiesfirst_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_fashion/3000_handler/ds3202_daliadiesfirst_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_fashion/3000_handler/ds3202_daliadiesfirst_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.724294)\\\\Well done, 47.//(1.724294,31.72429)\\\\Viktor Novikov is next.",
+			"fr": "//(0,30)\\\\Bien joué, 47. Au tour de Viktor Novikov, à présent.",
+			"it": "//(0,30)\\\\Splendido, 47. Ora tocca a Viktor Novikov.",
+			"de": "//(0,1.724294)\\\\Gute Arbeit, 47.//(1.724294,31.72429)\\\\Viktor Novikov ist der Nächste.",
+			"es": "//(0,30)\\\\Bien hecho, 47. El siguiente es Viktor Novikov.",
+			"ru": "//(0,30)\\\\Отлично, 47-й. Теперь черед Виктора Новикова.",
+			"cn": "//(0,30)\\\\干得好，47。接下来轮到维克多·诺维科夫了。",
+			"tc": "//(0,30)\\\\幹得不錯，47。接下來輪到維克托．諾維科夫了。",
+			"jp": "//(0,30)\\\\すばらしいわ、47。次はヴィクター・ノビコフよ。"
+		}
+	}
+}

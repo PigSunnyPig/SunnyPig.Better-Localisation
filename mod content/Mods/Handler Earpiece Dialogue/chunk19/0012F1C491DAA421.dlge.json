@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/miami/21000_flamingo/21000_handler/ds21001_robertknoxid.sweetdialog?/ds21001_robertknoxid_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds21001_robertknoxid_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/miami/21000_flamingo/21000_handler/ds21001_robertknoxid_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/miami/21000_flamingo/21000_handler/ds21001_robertknoxid_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.271917)\\\\That is Robert Knox.//(2.271917,7.217583)\\\\Genius inventor, black market's weapons dealer, and Providence defector.",
+			"fr": "//(0,2.091161)\\\\Voici Robert Knox.//(2.091161,3.687001)\\\\Inventeur de génie,//(3.687001,7.217583)\\\\trafiquant d'armes et transfuge de Providence.",
+			"it": "//(0,2.41071)\\\\Quello è Robert Knox.//(2.41071,3.457176)\\\\Inventore geniale,//(3.457176,7.217583)\\\\contrabbandiere di armi e disertore di Providence.",
+			"de": "//(0,2.373)\\\\Das ist Robert Knox.//(2.373,3.743412)\\\\Genialer Erfinder,//(3.743412,5.892531)\\\\Schwarzmarkt-Waffenhändler und//(5.892531,7.217583)\\\\Providence-Überläufer.",
+			"es": "//(0,2.506444)\\\\Ese... es Robert Knox,//(2.506444,3.532068)\\\\genial inventor,//(3.532068,7.217583)\\\\traficante de armas y desertor de Providence.",
+			"ru": "//(0,2.411825)\\\\Это Роберт Нокс.//(2.411825,3.698993)\\\\Гениальный изобретатель,//(3.698993,7.217583)\\\\оружейный барон и предатель «Провиденс».",
+			"cn": "//(0,30)\\\\那人是——罗伯特·诺克斯。天才发明家，黑市武器商人，也是神意秘会的叛逃者。",
+			"tc": "//(0,30)\\\\那人是—— 羅伯特．諾克斯。天才發明家，黑市武器商人，也是神意秘會的叛逃者。",
+			"jp": "//(0,2.21)\\\\あれがロバート・ノックス。//(2.21,5.8)\\\\天才発明家、闇市場の武器商人、//(5.8,35.8)\\\\そしてプロヴィデンスの離反者。"
+		}
+	}
+}

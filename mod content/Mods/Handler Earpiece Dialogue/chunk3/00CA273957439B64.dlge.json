@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/cutscenes_s03/m02_bulldog/m02_bulldog_flyin.sweetdialog?/m02_bulldog_flyin_diana_008.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "m02_bulldog_flyin_diana_008",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/cutscenes_s03/m02_bulldog/m02_bulldog_flyin_diana_008.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/cutscenes_s03/m02_bulldog/m02_bulldog_flyin_diana_008.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,30)\\\\Good luck, gentlemen.",
+			"fr": "//[DIANA]\\\\//(0,30)\\\\Bonne chance, messieurs.",
+			"it": "//[DIANA]\\\\//(0,30)\\\\Buona fortuna, signori.",
+			"de": "//[DIANA]\\\\//(0,30)\\\\Viel Glück, meine Herren.",
+			"es": "//[DIANA]\\\\//(0,30)\\\\Buena suerte, caballeros.",
+			"ru": "//[DIANA]\\\\//(0,30)\\\\Удачи, господа.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\先生们，祝你们好运。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\祝你們好運。",
+			"jp": "//[DIANA]\\\\//(0,30)\\\\幸運を祈るわ、二人とも。"
+		}
+	}
+}

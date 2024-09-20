@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colombia/23000_hippo/23000_handler/ds23021_submarine_subcallout.sweetdialog?/ds23021_submarine_subcallout_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds23021_submarine_subcallout_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colombia/23000_hippo/23000_handler/ds23021_submarine_subcallout_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colombia/23000_hippo/23000_handler/ds23021_submarine_subcallout_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.380321)\\\\An underground cave system with a submarine.//(3.380321,4.841292)\\\\This must be what ties the militia//(4.841292,6.841292)\\\\and the cartel together, 47.",
+			"fr": "//(0,3.3)\\\\Un réseau souterrain abritant un sous-marin.//(3.3,6.716634)\\\\C'est sûrement ce qui lie la milice au cartel, 47.",
+			"it": "//(0,1.840491)\\\\Un sistema di caverne sotterranee//(1.840491,3.653623)\\\\con un sottomarino.//(3.653623,6.803623)\\\\Ecco quello che collega la milizia e il cartello, 47.",
+			"de": "//(0,3.469)\\\\Ein unterirdisches Höhlensystem mit einem U-Boot.//(3.469,4.691393)\\\\Vermutlich verbindet genau das//(4.691393,8.769981)\\\\die Miliz und das Kartell, 47.",
+			"es": "//(0,3.5)\\\\Un sistema de cuevas subterráneas con un submarino.//(3.5,5)\\\\Me da que ese es el vínculo entre//(5,7.533206)\\\\el cártel y la milicia, 47.",
+			"ru": "//(0,3.516)\\\\Сеть подземных пещер и подводная лодка.//(3.516,7.55102)\\\\47-й, возможно, это и связывает картель с боевиками.",
+			"cn": "//(0,30)\\\\地下洞穴系统，其中还有一艘潜艇。这肯定是民兵组织与黑帮联系的纽带。",
+			"tc": "//(0,30)\\\\地下洞穴系統，其中還有一艘潛艇。這肯定是民兵組織與黑幫聯繫的樞紐。",
+			"jp": "//(0,30)\\\\地下洞窟と潜水艦。これが民兵とカルテルを繋げているものに違いないわ、47。"
+		}
+	}
+}

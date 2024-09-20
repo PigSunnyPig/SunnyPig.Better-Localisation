@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/bangkok/12000_white_spider/12000_zika/12000_handler/ds12039_diana_op_jeff.sweetdialog?/ds12039_diana_op_jeff_diana_ws_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds12039_diana_op_jeff_diana_ws_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/12000_white_spider/12000_zika/12000_handler/ds12039_diana_op_jeff_diana_ws_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/12000_white_spider/12000_zika/12000_handler/ds12039_diana_op_jeff_diana_ws_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.18)\\\\Interesting. They seem to be having second thoughts about joining the cult.//(4.18,34.18)\\\\You might be able to use that to your advantage.",
+			"fr": "//(0,4.18)\\\\Intéressant, on dirait qu'ils hésitent à rejoindre la secte.//(4.18,34.18)\\\\Vous pourriez tourner cela à votre avantage.",
+			"it": "//(0,4.18)\\\\Interessante... A quanto pare, hanno rinunciato all'idea di entrare nella setta.//(4.18,34.18)\\\\Potresti sfruttare l'occasione a tuo vantaggio.",
+			"de": "//(0,4.18)\\\\Interessant. Sie sind anscheinend unsicher, was den Beitritt zu dem Kult angeht.//(4.18,34.18)\\\\Das können Sie vielleicht zu Ihrem Vorteil ausnutzen.",
+			"es": "//(0,6.153374)\\\\Qué interesante. Parece que se están pensando mejor lo de unirse a la secta.//(6.153374,36.15337)\\\\A lo mejor puedes sacar partido de la situación.",
+			"ru": "//(0,4.18)\\\\Любопытно. Похоже, они сомневаются, вступать ли в культ.//(4.18,34.18)\\\\Вероятно, ты сможешь использовать это в своих целях.",
+			"cn": "//(0,30)\\\\有意思。他们好像对加入教派仍心存疑虑。这也许是你的好机会。",
+			"tc": "//(0,30)\\\\有意思。他們好像對加入異教仍心存疑慮。這也許是你的好機會。",
+			"jp": "//(0,30)\\\\どうやら彼らは 教団に 入信するのを ためらって いるみたいね。 利用できるかも しれないわ。"
+		}
+	}
+}

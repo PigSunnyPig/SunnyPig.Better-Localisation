@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/cutscenes_s03/m02_bulldog/m02_bulldog_flyin.sweetdialog?/m02_bulldog_flyin_diana_007.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "m02_bulldog_flyin_diana_007",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/cutscenes_s03/m02_bulldog/m02_bulldog_flyin_diana_007.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/cutscenes_s03/m02_bulldog/m02_bulldog_flyin_diana_007.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,30)\\\\Any appeal for backup is going to fall on very deaf ears.",
+			"fr": "//[DIANA]\\\\//(0,30)\\\\Il leur sera impossible d'appeler des renforts.",
+			"it": "//[DIANA]\\\\//(0,30)\\\\Qualsiasi richiesta di rinforzi cadrà nel nulla.",
+			"de": "//[DIANA]\\\\//(0,30)\\\\Alle Rufe nach Verstärkung werden also auf taube Ohren stoßen.",
+			"es": "//[DIANA]\\\\//(0,30)\\\\Todo intento de pedir refuerzos caerá en saco roto.",
+			"ru": "//[DIANA]\\\\//(0,30)\\\\Все их мольбы о помощи останутся без внимания.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\一切求援请求都发不出去。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\這樣誰都無法聽見他們求援。",
+			"jp": "//[DIANA]\\\\//(0,30)\\\\支援要請が聞かれることはないわ。"
+		}
+	}
+}

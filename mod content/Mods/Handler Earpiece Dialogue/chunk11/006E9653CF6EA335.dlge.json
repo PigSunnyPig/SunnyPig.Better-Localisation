@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32531_sp_reznikovalone.sweetdialog?/ds32531_sp_reznikovalone_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32531_sp_reznikovalone_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32531_sp_reznikovalone_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32531_sp_reznikovalone_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.02125)\\\\Hm, Reznikov is searching for Khabko.//(3.02125,4.658696)\\\\If the warden can't find him,//(4.658696,6.037833)\\\\he might leave ahead of schedule.",
+			"fr": "//(0,30)\\\\Hm, Reznikov cherche Khabko. Si le directeur ne le trouve pas, il partira peut-être plus tôt que prévu.",
+			"it": "//(0,30)\\\\Uhm, Reznikov sta cercando Khabko. Se il direttore non riesce a trovarlo, potrebbe andarsene in anticipo.",
+			"de": "//(0,30)\\\\Hm, Reznikov sucht nach Khabko. Wenn der Gefängnisdirektor ihn nicht finden kann, bricht er vielleicht vorzeitig auf.",
+			"es": "//(0,30)\\\\Mmm, Reznikov está buscando a Khabko. Si el alcaide no puede encontrarlo, puede que se marche antes de lo previsto.",
+			"ru": "//(0,30)\\\\Хм. Резников ищет Хабко. Если начальник тюрьмы его не найдет, то может уйти раньше, чем планировалось.",
+			"cn": "//(0,2.9)\\\\嗯，列兹尼科夫正在寻找卡布科。//(2.9,32.9)\\\\如果监狱长找不到人，那他或许会提前离开。",
+			"tc": "//(0,30)\\\\嗯，雷茲尼克瓦正在尋找卡伯克。要是典獄長找不到他，他可能會提早離開。",
+			"jp": "//(0,3.07)\\\\ふむ、レズニコフはカブコを探してるのね。//(3.07,33.07)\\\\彼が見つからなかったら、所長は予定より早く出発するかもしれないわ。"
+		}
+	}
+}

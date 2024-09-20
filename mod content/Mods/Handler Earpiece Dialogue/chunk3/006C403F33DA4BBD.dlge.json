@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/bulldog/41000_elusive/41000_bramble/41000_bramble_handler/ds41508_targetdownobjectivestillonwall.sweetdialog?/ds41508_targetdownobjectivestillonwall_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41508_targetdownobjectivestillonwall_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/bulldog/41000_elusive/41000_bramble/41000_bramble_handler/ds41508_targetdownobjectivestillonwall_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/bulldog/41000_elusive/41000_bramble/41000_bramble_handler/ds41508_targetdownobjectivestillonwall_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.7)\\\\That's Kody Haynes taken care of.//(1.7,31.7)\\\\If you want to find the painting, this is the time. Then find an exit. I'll transfer the money to your account.",
+			"fr": "//(0,1.9)\\\\Voilà qui règle le problème Haynes.//(1.9,5.51)\\\\Si vous voulez chercher le tableau, c'est le moment, vous devrez ensuite trouver une issue.//(5.51,35.51)\\\\Je transfère l'argent sur votre compte.",
+			"it": "//(0,1.972393)\\\\Kody Haynes è sistemato.//(1.972393,31.97239)\\\\Se vuoi trovare il dipinto è il momento giusto per farlo. Poi trova un'uscita. Trasferirò il compenso sul tuo conto.",
+			"de": "//(0,4.441472)\\\\Damit wäre Kody Haynes erledigt. Falls Sie das Gemälde beschaffen wollen, wird es Zeit dafür.//(4.441472,34.44147)\\\\Danach suchen Sie einen Ausgang. Ich überweise das Geld auf Ihr Konto.",
+			"es": "//(0,30)\\\\Kody Haynes ya es historia. Si quieres ir a por el cuadro, este es el momento. Luego, busca una salida. Te transferiré el dinero a tu cuenta.",
+			"ru": "//(0,2.14)\\\\С Коди Хейнсом покончено.//(2.14,4.35)\\\\Сейчас самое время заняться поисками картины — если хочешь.//(4.35,34.35)\\\\А потом двигайся к выходу. Я переведу деньги на твой счет.",
+			"cn": "//(0,4.3)\\\\科迪·海恩斯已被消灭。如果你想找画作，现在正是时候。//(4.3,34.3)\\\\完事后去找出口。我会把钱打到你的账上。",
+			"tc": "//(0,2)\\\\柯迪‧海因斯已經被解決了。//(2,4.3)\\\\如果你想要找到畫作，趁現在。//(4.3,34.3)\\\\完成後去找出口，我會把錢匯到你的帳戶中。",
+			"jp": "//(0,4.4)\\\\これでコディー・ヘインズは片付いた。絵画を探したいのなら、今のうちよ。//(4.4,34.4)\\\\そのあと出口を探して。報酬は口座に送金するわ。"
+		}
+	}
+}

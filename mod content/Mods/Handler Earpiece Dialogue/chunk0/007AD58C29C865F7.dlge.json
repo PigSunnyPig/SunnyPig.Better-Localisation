@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/golden/gecko/40000_handler/ds40018_assintelpremature.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds40018_assintelpremature_grey_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/gecko/40000_handler/ds40018_assintelpremature_grey_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/gecko/40000_handler/ds40018_assintelpremature_grey_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,2.774294)\\\\Trophy hunting, 47?//(2.774294,4.734687)\\\\Or are you planning something I'm not aware of?",
+					"fr": "//(0,2.62)\\\\Tu chasses des trophées, 47 ?//(2.62,4.735)\\\\Ou alors tu prépares un truc dont je ne suis pas au courant ?",
+					"it": "//(0,2.635)\\\\Stai collezionando trofei, 47?//(2.635,7.273375)\\\\O stai progettando qualcosa di cui non sono a conoscenza?",
+					"de": "//(0,2.580387)\\\\Auf der Jagd nach Trophäen, 47?//(2.580387,4.734687)\\\\Oder hast du was vor, von dem ich nichts weiß?",
+					"es": "//(0,1.9)\\\\¿Caza deportiva, 47?//(2.75,32.75)\\\\¿O tienes previsto algo que ignore?",
+					"ru": "//(0,1.974294)\\\\Собираешь трофеи, 47-й?//(1.974294,31.97429)\\\\Или ты там втихаря от меня что-то задумал?",
+					"cn": "//(0,30)\\\\你是在狩猎战利品吗，47？还是说，你在策划某些我不知道的事情？",
+					"tc": "//(0,30)\\\\你在收集戰利品嗎，47？還是說你正在計畫什麼？",
+					"jp": "//(0,30)\\\\戦利品のつもりか、47？それとも、俺の知らない計画でもあるのか？"
+				}
+			}
+		]
+	}
+}

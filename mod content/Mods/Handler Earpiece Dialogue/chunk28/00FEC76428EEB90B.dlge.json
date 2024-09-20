@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/rocky/dugong/46000_handler/ds46032_greyhackreact.sweetdialog?/ds46032_greyhackreact_grey_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds46032_greyhackreact_grey_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/rocky/dugong/46000_handler/ds46032_greyhackreact_grey_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/rocky/dugong/46000_handler/ds46032_greyhackreact_grey_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Such a show-off. But there's no harm in being thorough.",
+			"fr": "//(0,30)\\\\Perfectionniste, hein ? Tu as raison, on n'est jamais trop prudent.",
+			"it": "//(0,1.236196)\\\\Che esibizionista.//(1.236196,31.2362)\\\\Ma non c'è nulla di male a essere minuziosi.",
+			"de": "//(0,2.15)\\\\Was für ein Angeber.//(2.15,32.15)\\\\Doch es schadet nicht, gründlich zu sein.",
+			"es": "//(0,30)\\\\Menudo presumido eres. Pero, bueno, no pasa nada por ser meticulosos.",
+			"ru": "//(0,30)\\\\Выпендреж. Но тщательность в нашем деле не помешает.",
+			"cn": "//(0,30)\\\\就喜欢秀。不过细致一点也没有害处。",
+			"tc": "//(0,30)\\\\真愛炫耀，不過仔細一點也無妨。",
+			"jp": "//(0,30)\\\\何を見せつけているんだ。しかし、徹底するのは悪くない。"
+		}
+	}
+}

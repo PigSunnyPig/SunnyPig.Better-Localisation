@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_bull/8000_handler/ds8012_opphostageconclusion.sweetdialog?/ds8012_opphostageconclusion_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds8012_opphostageconclusion_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_bull/8000_handler/ds8012_opphostageconclusion_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_bull/8000_handler/ds8012_opphostageconclusion_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.45)\\\\Well done, 47.//(1.45,31.45)\\\\With any luck, the perfectionist, Ezra Berg, will want to examine his notes closely to figure out what happened.",
+			"fr": "//(0,1.57)\\\\Beau travail, 47.//(1.57,31.57)\\\\Avec un peu de chance, le perfectionniste Ezra Berg, voudra examiner ses notes de près pour comprendre ce qui s'est passé.",
+			"it": "//(0,1.35)\\\\Ottimo lavoro, 47.//(1.35,6.18)\\\\Con un po' di fortuna, quel perfezionista di Ezra Berg vorrà riesaminare attentamente le sue note//(6.18,36.18)\\\\per tentare di capire cosa sia successo...",
+			"de": "//(0,1.5)\\\\Gute Arbeit, 47.//(1.5,31.5)\\\\Mit etwas Glück wird der Perfektionist Ezra Berg seine Notizen kontrollieren, um herauszufinden, was passiert ist.",
+			"es": "//(0,1.4)\\\\Bien hecho, 47.//(1.4,3.9)\\\\Con algo de suerte, el perfeccionista Erza Berg//(3.9,33.9)\\\\querrá examinar sus notas detenidamente para comprender lo que pasó.",
+			"ru": "//(0,1.356196)\\\\Прекрасно, 47-й.//(1.356196,6.1)\\\\Немного удачи и перфекционист Эзра Берг взглянет на свои записи,//(6.1,36.1)\\\\чтобы разобраться в произошедшем.",
+			"cn": "//(0,1.6)\\\\干得好，47。//(1.6,31.6)\\\\运气好的话，以斯拉·贝格这位完美主义者会仔细检查笔记查清发生了什么。",
+			"tc": "//(0,30)\\\\幹得不錯，47。運氣好的話，艾斯拉．伯格這位完美主義者會仔細檢查筆記查清發生了什麼。",
+			"jp": "//(0,5.360507)\\\\上出来よ、 47。 エズラ・バーグみたいな完璧主義者なら、 どうしてこうなったか 自分の メモを//(5.360507,7.787625)\\\\見直すでしょうね。"
+		}
+	}
+}

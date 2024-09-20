@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32016_sp_hostagessecuredhurry.sweetdialog?/ds32016_sp_hostagessecuredhurry_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32016_sp_hostagessecuredhurry_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32016_sp_hostagessecuredhurry_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32016_sp_hostagessecuredhurry_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\The hostages have been secured inside the shipping container. You have to hurry, 47!",
+			"fr": "//(0,30)\\\\Les otages sont en sécurité à l'intérieur du cargo. Vous devez faire vite, 47 !",
+			"it": "//(0,30)\\\\Hanno chiuso gli ostaggi dentro al container. Devi sbrigarti, 47!",
+			"de": "//(0,30)\\\\Die Geiseln wurden im Transportcontainer gesichert. Sie müssen sich beeilen, 47.",
+			"es": "//(0,30)\\\\Los rehenes han sido introducidos en el contenedor de mercancías. ¡Tienes que darte prisa, 47!",
+			"ru": "//(0,30)\\\\Заложников заперли в грузовом контейнере. Поторопись, 47-й!",
+			"cn": "//(0,30)\\\\在集装箱内的人质已被控制住。47，你得赶紧了！",
+			"tc": "//(0,30)\\\\貨櫃中的人質已經到了。動作快，47！",
+			"jp": "//(0,30)\\\\人質がコンテナの中に入れられたわ。急いで、47！"
+		}
+	}
+}

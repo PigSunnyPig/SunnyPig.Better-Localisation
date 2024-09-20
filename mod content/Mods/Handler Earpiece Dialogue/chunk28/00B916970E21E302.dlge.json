@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/rocky/dugong/46000_handler/ds46006_carrierorsonid.sweetdialog?/ds46006_carrierorsonid_grey_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds46006_carrierorsonid_grey_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/rocky/dugong/46000_handler/ds46006_carrierorsonid_grey_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/rocky/dugong/46000_handler/ds46006_carrierorsonid_grey_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.851)\\\\That's Orson Mills.//(1.851,7.201)\\\\Dependable muscle, responds well to authority— probably why Crest keeps him close.//(7.201,12.4599)\\\\I'll bet anything he gave Mills the militia's keycard for safekeeping.",
+			"fr": "//(0,4.91908)\\\\Voici Orson Mills. Garde du corps fiable, qui supporte bien l'autorité.//(4.91908,34.91908)\\\\C'est pour ça que Crest le garde aussi près de lui, et c'est probablement à lui qu'il a confié sa carte d'accès.",
+			"it": "//(0,2.022393)\\\\Quello è Orson Mills.//(2.022393,4.8)\\\\Uno scagnozzo affidabile che non mette in dubbio l'autorità...//(4.8,7.183)\\\\Probabilmente è per questo che Crest l'apprezza.//(7.183,37.183)\\\\Scommetto quello che vuoi che Crest ha dato a lui la chiave magnetica.",
+			"de": "//(0,1.8)\\\\Das ist Orson Mills.//(1.8,4.7)\\\\Verlässlicher Schläger, kann gut mit Vorgesetzten umgehen –//(4.7,7.1)\\\\wahrscheinlich behält Crest ihn deshalb in seiner Nähe.//(7.1,37.1)\\\\Ich würde wetten, er hat Mills die Karte der Miliz zur Verwahrung gegeben.",
+			"es": "//(0,1.95)\\\\Ese es Orson Mills.//(1.95,4.85)\\\\Un fortachón de confianza que acata muy bien las órdenes.//(4.85,6.8)\\\\Posiblemente, por eso Crest lo quiere tener cerca.//(7.25,37.25)\\\\Estoy seguro de que le dio a Mills la tarjeta para que se la guardase.",
+			"ru": "//(0,1.604294)\\\\Это Орсон Миллс.//(1.604294,4.9)\\\\Надежный громила, хорошо слушается приказов.//(4.9,7.34)\\\\Видать, поэтому Крест держит его при себе.//(7.34,37.34)\\\\Готов спорить, Крест отдал свою ключ-карту на хранение Миллсу.",
+			"cn": "//(0,30)\\\\那是奥森·米尔斯。可靠的打手，忠心耿耿，也许正因为这样克雷斯才把他留在身边。我敢打赌，他肯定把钥匙卡交给米尔斯保管了。",
+			"tc": "//(0,1.9)\\\\那是奧森·米爾斯。//(1.9,7.2)\\\\一名可靠的戰士，非常服從權威，這可能就是克雷斯特重用他的原因。//(7.2,37.2)\\\\我猜他一定是把民兵的鑰匙卡交給了米爾斯保管。",
+			"jp": "//(0,1.615)\\\\あれはオーソン・ミルズ。//(1.615,4.9)\\\\頼りがいのある筋力の持ち主で、権威にはよく反応する。//(4.9,6.99)\\\\クレストが奴をそばに置いているのはきっとそのためだろう。//(6.99,36.99)\\\\まず確実にミルズに傭兵団のキーカードを守らせているに違いない。"
+		}
+	}
+}

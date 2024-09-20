@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25062_lostlovehint2.sweetdialog?/ds25062_lostlovehint2_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25062_lostlovehint2_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25062_lostlovehint2_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25062_lostlovehint2_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.932813)\\\\This must be about The Maelstrom.//(1.932813,6.182813)\\\\This could be your chance to get close enough for a visual identification, 47.",
+			"fr": "//(0,2.114884)\\\\C'est sûrement à propos du Maelström.//(2.114884,4)\\\\Vous pourriez en profiter pour vous approcher//(4,6.082714)\\\\et l'identifier visuellement, 47.",
+			"it": "//(0,2.041394)\\\\Dev'essere Maelstrom.//(2.041394,3.36626)\\\\Potrebbe essere la tua occasione per avvicinarti//(3.36626,6.194849)\\\\abbastanza da effettuare un'identificazione visiva, 47.",
+			"de": "//(0,1.985812)\\\\Es geht sicher um den Maelstrom.//(1.985812,3.600597)\\\\Könnte Ihre Chance sein, nah genug für eine//(3.600597,7.14299)\\\\optische Identifikation heranzukommen, 47.",
+			"es": "//(0,1.540057)\\\\Podría tratarse del Torbellino.//(1.540057,6.945333)\\\\Esta podría ser tu oportunidad para acercarte a él e identificarlo visualmente, 47.",
+			"ru": "//(0,1.768604)\\\\Это наверняка Вихрь.//(1.768604,3.677193)\\\\У тебя есть шанс подобраться поближе//(3.677193,7.137683)\\\\и визуально идентифицировать его, 47-й.",
+			"cn": "//(0,2)\\\\这件事肯定与大漩涡有关。//(2,32)\\\\说不定你能有机会接近目标，让我可以辨认他的面部特征，47。",
+			"tc": "//(0,2)\\\\這件事肯定與大漩渦有關。//(2,32)\\\\說不定你有機會接近目標，讓我可以辨認他的面部特徵，47。",
+			"jp": "//(0,2)\\\\これはきっとメイルストロムのことだわ。//(2,32)\\\\彼に接近して視認するチャンスよ、47。"
+		}
+	}
+}

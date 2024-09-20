@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/golden/gecko/40000_story/dr40105_greystorybecomestaff.sweetdialog?/dr40105_greystorybecomestaff_grey_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr40105_greystorybecomestaff_grey_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/gecko/40000_story/dr40105_greystorybecomestaff_grey_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/gecko/40000_story/dr40105_greystorybecomestaff_grey_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.4)\\\\It looks like the staff area could provide you with//(2.4,4.406)\\\\a viable route to the server room.",
+			"fr": "//(0,1.947802)\\\\Je pense que tu pourras atteindre la salle des//(1.947802,3.462759)\\\\serveurs facilement en passant par la zone//(3.462759,4.462759)\\\\réservée au personnel.",
+			"it": "//(0,2.454881)\\\\Sembra che l'area dello staff sia un'ottima via//(2.454881,4.406)\\\\d'accesso alla stanza del server.",
+			"de": "//(0,2.498197)\\\\Es sieht aus, als ob der Personalbereich ein//(2.498197,4.406)\\\\möglicher Weg zum Serverraum wäre.",
+			"es": "//(0,4.406)\\\\Al parecer, la zona de personal puede ofrecerte una ruta viable hasta la sala de servidores.",
+			"ru": "//(0,30)\\\\Судя по всему, ты сможешь проникнуть в серверную через служебную зону.",
+			"cn": "//(0,30)\\\\看起来，你可以从员工区那边前往服务器室。",
+			"tc": "//(0,30)\\\\看來，員工區可以通往伺服器室。",
+			"jp": "//(0,30)\\\\スタッフエリアからサーバールームに入れるようだ。"
+		}
+	}
+}

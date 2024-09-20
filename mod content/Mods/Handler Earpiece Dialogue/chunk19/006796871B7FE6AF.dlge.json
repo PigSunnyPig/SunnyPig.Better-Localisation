@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/miami/21700_cottonmouth/21700_handler/ds21700_ajitkrishid.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds21700_ajitkrishid_diana_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/miami/21700_cottonmouth/21700_handler/ds21700_ajitkrishid_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/miami/21700_cottonmouth/21700_handler/ds21700_ajitkrishid_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,2.639406)\\\\THAT is Ajit “AJ” Krish.//(2.639406,5.4)\\\\Current head of Atlantide.//(5.4,7)\\\\Be careful, 47.//(7,11)\\\\His charm and charisma has drained many people of their life savings...//(11,13.39085)\\\\So all eyes will be on him.",
+					"fr": "//(0,5.276687)\\\\C'est... Ajit \"AJ\" Krish. Actuel président d'Atlantide.//(5.276687,6.850982)\\\\Faites attention, 47.//(6.850982,10.70626)\\\\Son charme et son charisme en ont poussé beaucoup à lui faire confiance,//(10.70626,13.39085)\\\\et tous les yeux seront tournés vers lui.",
+					"it": "//(0,3)\\\\Quello è Ajit \"AJ\" Krish.//(3,5.4)\\\\Attuale capo di Atlantide.//(5.4,6.9)\\\\Fai attenzione, 47.//(6.9,11)\\\\Grazie al suo fascino e al suo carisma è riuscito a convincere moltissime persone a prosciugare i risparmi di una vita,//(11,13.83723)\\\\quindi tutti gli occhi saranno puntati su di lui.",
+					"de": "//(0,3)\\\\Das ... ist Ajit „AJ“ Krish.//(3,5.5)\\\\Der aktuelle Kopf von Atlantide.//(5.5,6.636618)\\\\Seien Sie vorsichtig, 47.//(6.636618,8.845206)\\\\Sein Charme und sein Charisma haben//(8.845206,10.36944)\\\\viele Menschen die Ersparnisse gekostet ...//(10.36944,13.39085)\\\\Deshalb wird er alle Blicke auf sich ziehen.",
+					"es": "//(0,3)\\\\Ese... es Ajit «AJ» Krish.//(3,5.69)\\\\Actual presidente de Atlantide.//(5.69,7)\\\\Ten cuidado, 47.//(7,9.2)\\\\Su encanto y su carisma han bastado para despojar//(9.2,11.2)\\\\a mucha gente de los ahorros de toda su vida,//(11.2,13.553)\\\\así que será el centro de todas las miradas...",
+					"ru": "//(0,2.686758)\\\\Это... Аджит «Эйджей» Криш.//(2.686758,4.43015)\\\\Глава компании «Атлантид».//(4.43015,5.903934)\\\\Осторожнее, 47-й.//(5.903934,8.704028)\\\\Его лесть и обаяние опустошили банковские счета//(8.704028,10.04741)\\\\многих людей...//(10.04741,13.39085)\\\\так что он будет в центре внимания.",
+					"cn": "//(0,5)\\\\那人......就是亚基·“AJ”·克里什。目前是亚特兰蒂的总裁。//(5,10.55)\\\\47，要当心。他已经靠着超凡的个人魅力骗走了很多人一生的积蓄......//(10.55,17.17485)\\\\因此所有人的目光都会集中在他身上。",
+					"tc": "//(0,5.3)\\\\那......就是阿吉特‧克里西，綽號「AJ」。當前的亞特蘭提德總裁。//(5.3,13.39085)\\\\小心了，47。他的魅力榨乾了許多人畢生的存款......所以大家都會注意著他。",
+					"jp": "//(0,3)\\\\あの男がアジット “AJ” クリッシュよ。//(3,5.095)\\\\現在、アトランティードの代表を務めているわ。//(5.095,10.999)\\\\気をつけて、47。この男は甘い言葉とカリスマ性で多くの人々の貯蓄を吸い尽くしている...//(10.999,13.39085)\\\\だから注意して奴を見張って。"
+				}
+			}
+		]
+	}
+}

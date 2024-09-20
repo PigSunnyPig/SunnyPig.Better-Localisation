@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32021_sp_poisonshot.sweetdialog?/ds32021_sp_poisonshot_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32021_sp_poisonshot_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32021_sp_poisonshot_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32021_sp_poisonshot_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Very impressive shooting, 47. But what are you hoping to achieve here?",
+			"fr": "//(0,30)\\\\Remarquable précision, 47, mais... qu'espérez-vous accomplir ainsi ?",
+			"it": "//(0,30)\\\\Davvero un bel colpo, 47. Ma... cosa cerchi di fare, esattamente?",
+			"de": "//(0,30)\\\\Sehr schön geschossen, 47. Aber was wollen Sie hier erreichen?",
+			"es": "//(0,30)\\\\Un tiro impresionante, 47. Pero ¿qué esperas conseguir con esto?",
+			"ru": "//(0,30)\\\\Стрельба что надо, 47-й. Но чего ты хочешь этим добиться?",
+			"cn": "//(0,30)\\\\射得真漂亮，47。不过你打算在这里达到什么目的呢？",
+			"tc": "//(0,30)\\\\了不起的槍法，47。但是你這是為了什麼？",
+			"jp": "//(0,30)\\\\すごい射撃ね、47。でもこの後は一体どうするつもり？"
+		}
+	}
+}

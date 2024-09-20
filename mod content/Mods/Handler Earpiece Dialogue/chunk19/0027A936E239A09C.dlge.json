@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/miami/21000_flamingo/21000_handler/ds21031_killdecisionreveal.sweetdialog?/ds21031_killdecisionreveal_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds21031_killdecisionreveal_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/miami/21000_flamingo/21000_handler/ds21031_killdecisionreveal_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/miami/21000_flamingo/21000_handler/ds21031_killdecisionreveal_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.143463)\\\\That is Ted Mendez.//(2.143463,3.852052)\\\\One of the country’s most influential//(3.852052,5.356346)\\\\military-grade money men.//(5.356346,8.106346)\\\\This must be connected to Kronstadt.",
+			"fr": "//(0,1.405435)\\\\C'est... Ted Mendez,//(1.405435,3.205608)\\\\l'un des conseillers financiers en équipement//(3.205608,5.413321)\\\\militaire les plus importants du pays.//(5.413321,7.921062)\\\\Il a forcément un lien avec Kronstadt.",
+			"it": "//(0,1.918325)\\\\Quello è Ted Mendez,//(1.918325,5.61311)\\\\il consulente finanziario più influente in ambito militare.//(5.61311,9.794092)\\\\DEVE per forza essere collegato in qualche modo a Kronstadt.",
+			"de": "//(0,2.074294)\\\\Das ist Ted Mendez,//(2.074294,3.816687)\\\\einer der einflussreichsten Entscheidungsträger,//(3.816687,6.025276)\\\\was das Geld des Militärs angeht.//(6.025276,7.921062)\\\\Das MUSS etwas mit Kronstadt zu tun haben.",
+			"es": "//(0,1.585365)\\\\Ese... es Ted Méndez,//(1.585365,4.095473)\\\\uno de los hombres de dinero más influyentes del//(4.095473,5.589917)\\\\país en cuestiones militares.//(5.589917,7.921063)\\\\Debe de tener alguna relación con Kronstadt.",
+			"ru": "//(0,2.282453)\\\\Так... Это Тед Мендес,//(2.282453,3.216422)\\\\влиятельный воротила,//(3.216422,4.966441)\\\\финансирует военные разработки.//(4.966441,7.921062)\\\\Он ТОЧНО связан с «Кронштадт Индастриз».",
+			"cn": "//(0,30)\\\\那人是泰德·门德兹，美国最具影响力的军方投资人之一。这肯定和喀琅施塔得有关。",
+			"tc": "//(0,30)\\\\那人是泰德．門德茲，美國最具影響力的軍方投資人之一。這肯定和喀琅施塔得有關。",
+			"jp": "//(0,2.01)\\\\彼は... テッド・メンデス、//(2.01,5.666)\\\\国内で最も軍事経済的影響力のある男。//(5.666,7.921062)\\\\クローンシュタットと繋がっているに違いないわ。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/gamemodes/versusmode/36_announcer_respawnback.sweetdialog?/36_announcer_respawnback_announcer_versus_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "36_announcer_respawnback_announcer_versus_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/gamemodes/versusmode/36_announcer_respawnback_announcer_versus_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/gamemodes/versusmode/36_announcer_respawnback_announcer_versus_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Back in the fight.",
+			"fr": "//(0,30)\\\\De retour en chasse.",
+			"it": "//(0,30)\\\\Di nuovo nella mischia.",
+			"de": "//(0,30)\\\\Zurück ins Gefecht.",
+			"es": "//(0,30)\\\\De vuelta al combate.",
+			"ru": "//(0,30)\\\\Вы снова в деле.",
+			"cn": "//(0,30)\\\\重回战场。",
+			"tc": "//(0,30)\\\\返回戰鬥。",
+			"jp": "//(0,30)\\\\戦いに戻るように。"
+		}
+	}
+}

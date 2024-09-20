@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/evergreen/handler/ed079_unlckclbrtnshoot.sweetdialog?/ed079_unlckclbrtnshoot_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ed079_unlckclbrtnshoot_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed079_unlckclbrtnshoot_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed079_unlckclbrtnshoot_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Congratulations, 47. You now have access to a shooting range, in case you need to improve your skills.",
+			"fr": "//(0,1.595)\\\\Félicitations, 47.//(1.595,3.959)\\\\Vous avez maintenant accès à un stand de tir,//(3.959,33.959)\\\\si jamais vous souhaitez aiguiser vos talents de tireur.",
+			"it": "//(0,1.356196)\\\\Complimenti, 47.//(1.356196,31.3562)\\\\Ora hai accesso al poligono di tiro, se vorrai migliorare le tue abilità.",
+			"de": "//(0,1.7)\\\\Glückwunsch, 47.//(1.7,4.25)\\\\Sie haben jetzt Zugriff auf eine Schießbahn,//(4.25,34.25)\\\\falls Sie doch mal Ihre Fähigkeiten verbessern müssen.",
+			"es": "//(0,1.806196)\\\\Enhorabuena, 47.//(1.806196,4.220981)\\\\Ahora tienes acceso a un campo de tiro,//(4.220981,34.22098)\\\\por si quieres mejorar tus habilidades.",
+			"ru": "//(0,30)\\\\Поздравляю, 47-й. У тебя появился доступ к стрельбищу, если вдруг захочешь отточить навыки.",
+			"cn": "//(0,30)\\\\祝贺你，47。你现在有权进入靶场了，你随时可以去磨练技能。",
+			"tc": "//(0,30)\\\\恭喜，47。你現在可以使用靶場來鍛鍊技術。",
+			"jp": "//(0,4.31)\\\\おめでとう、47。射撃場にアクセスできるようになったわ。//(4.31,34.31)\\\\射撃の腕を磨きたい時は利用してみて。"
+		}
+	}
+}

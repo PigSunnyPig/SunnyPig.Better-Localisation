@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/rat/43000_handler/ds43355_exitoliviaemptycore.sweetdialog?/ds43355_exitoliviaemptycore_oliviahall_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds43355_exitoliviaemptycore_oliviahall_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/rat/43000_handler/ds43355_exitoliviaemptycore_oliviahall_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/rat/43000_handler/ds43355_exitoliviaemptycore_oliviahall_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.724294)\\\\Good, you’re alone.//(1.724294,5)\\\\I’m sealing the room and dimming the windows, 47.//(5,35)\\\\No need to worry about intruders.",
+			"fr": "//(0,30)\\\\Bien, vous êtes seul. Je verrouille la porte et j'obscurcis les vitres, 47. Personne ne viendra vous embêter.",
+			"it": "//(0,30)\\\\Bene, sei solo. Sigillerò la stanza e oscurerò le finestre, 47. Non devi preoccuparti degli intrusi.",
+			"de": "//(0,1.872393)\\\\Gut. Sie sind allein.//(1.872393,4.923375)\\\\Ich riegle den Raum ab und verdunkle die Scheiben, 47.//(4.923375,34.92337)\\\\Machen Sie sich keine Gedanken wegen Eindringlingen.",
+			"es": "//(0,1.4)\\\\Bien, estás solo.//(1.9,4.4)\\\\Voy a sellar la sala y a oscurecer las ventanas, 47.//(5,35)\\\\No tienes que preocuparte por los intrusos.",
+			"ru": "//(0,2)\\\\Отлично, теперь ты один, 47-й.//(2,5.28908)\\\\Я заперла двери и затемнила окна.//(5.28908,35.28908)\\\\Можешь не беспокоиться: никто не придет.",
+			"cn": "//(0,30)\\\\很好，没有别人。我正封锁房间并调暗窗户，47。不用担心有人闯入。",
+			"tc": "//(0,2)\\\\很好，就剩你一個人了。//(2,4.8)\\\\我要封鎖房間並調暗窗戶，47。//(4.8,34.8)\\\\不用擔心會有人闖入。",
+			"jp": "//(0,5)\\\\よし、一人ね。部屋を封鎖して、窓を暗くするわ、47。//(5,35)\\\\邪魔者の心配はしなくていい。"
+		}
+	}
+}

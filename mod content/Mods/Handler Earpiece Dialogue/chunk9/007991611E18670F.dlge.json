@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/gamemodes/versusmode/27_announcer_tallystatuspositive.sweetdialog?/27_announcer_tallystatuspositive_announcer_versus_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "27_announcer_tallystatuspositive_announcer_versus_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/gamemodes/versusmode/27_announcer_tallystatuspositive_announcer_versus_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/gamemodes/versusmode/27_announcer_tallystatuspositive_announcer_versus_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\You are in the lead. Keep it up.",
+			"fr": "//(0,30)\\\\Vous êtes en tête. Continuez comme ça !",
+			"it": "//(0,30)\\\\Sei in vantaggio. Continua così.",
+			"de": "//(0,30)\\\\Sie liegen vorn. Weiter so.",
+			"es": "//(0,30)\\\\Vas ganando. Sigue así.",
+			"ru": "//(0,30)\\\\Вы ведете в дуэли. Так держать!",
+			"cn": "//(0,30)\\\\你目前领先。继续加油。",
+			"tc": "//(0,30)\\\\你領先了，保持下去。",
+			"jp": "//(0,30)\\\\リードしています。その調子です。"
+		}
+	}
+}

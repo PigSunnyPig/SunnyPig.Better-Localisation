@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/gamemodes/versusmode/75_announcer_currenttargetmissed.sweetdialog?/75_announcer_currenttargetmissed_announcer_versus_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "75_announcer_currenttargetmissed_announcer_versus_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/gamemodes/versusmode/75_announcer_currenttargetmissed_announcer_versus_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/gamemodes/versusmode/75_announcer_currenttargetmissed_announcer_versus_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Current target missed.",
+			"fr": "//(0,30)\\\\Cible actuelle manquée.",
+			"it": "//(0,30)\\\\Bersaglio attuale mancato.",
+			"de": "//(0,30)\\\\Aktuelles Ziel verpasst.",
+			"es": "//(0,30)\\\\Objetivo actual perdido.",
+			"ru": "//(0,30)\\\\Текущая цель упущена.",
+			"cn": "//(0,30)\\\\当前目标已错过。",
+			"tc": "//(0,30)\\\\錯過當前目標。",
+			"jp": "//(0,30)\\\\現在のターゲットを喪失。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_magpie/29000_handler/ds29041_targetsdown47haskillswitch.sweetdialog?/ds29041_targetsdown47haskillswitch_grey_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds29041_targetsdown47haskillswitch_grey_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_magpie/29000_handler/ds29041_targetsdown47haskillswitch_grey_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_magpie/29000_handler/ds29041_targetsdown47haskillswitch_grey_001.animset].pc_animset",
+		"languages": {
+			"en": "//[GREY]\\\\//(0,4.288359)\\\\I'm at the helicopter but the place is crawling with security.//(4.288359,8.811867)\\\\47, you better bring the Constant to one of the boats in the harbor where it's quiet.//(8.811867,11.08537)\\\\You can use the kill switch to coerce him.",
+			"fr": "//[GREY]\\\\//(0,1.226939)\\\\Je suis à l'hélicoptère,//(1.226939,3.881148)\\\\mais l'endroit grouille de membres de la sécurité.//(3.881148,6.526186)\\\\47, emmenez plutôt le Constant au port pour prendre//(6.526186,8.714787)\\\\un bateau. C'est plus calme.//(8.714787,11.08537)\\\\Servez-vous de la télécommande pour l'y obliger.",
+			"it": "//[GREY]\\\\//(0,4.28)\\\\Mi trovo vicino all'elicottero ma qui brulica di guardie.//(4.28,5.97)\\\\47, sarà meglio portare la Costante//(5.97,7.65)\\\\in una delle barche del porto,//(7.65,9.166227)\\\\dove la situazione è più tranquilla.//(9.166227,11.08537)\\\\Usa l'interruttore mortale per ricattarlo.",
+			"de": "//[GREY]\\\\//(0,1.227955)\\\\Ich bin am Helikopter,//(1.227955,3.936544)\\\\aber hier ist alles voller Sicherheitsleute.//(3.936544,7.001329)\\\\47, man bringt die Konstante besser zu einem//(7.001329,8.9)\\\\der Boote am Hafen, wo es ruhiger ist.//(8.9,11.56611)\\\\Mit dem Killschalter kann man ihn dazu nötigen.",
+			"es": "//[GREY]\\\\//(0,1.0798)\\\\Estoy en el helicóptero,//(1.0798,3.166097)\\\\pero hay muchísima seguridad en la zona.//(3.166097,5.993145)\\\\47, será mejor que lleves al Constante a uno de los//(5.993145,6.823338)\\\\barcos del puerto,//(6.823338,8.909636)\\\\que ahí la cosa está más tranquila.//(8.909636,10.40728)\\\\Puedes usar el interruptor letal para//(10.40728,11.40728)\\\\coaccionarlo.",
+			"ru": "//[GREY]\\\\//(0,4.114785)\\\\Я у вертолета, но здесь целая куча охраны.//(4.114785,8.990061)\\\\47-й, доставь Константу к одному из катеров на пристани, где не так шумно.//(8.990061,11.19436)\\\\Покажи ему аварийную кнопку, чтобы он не артачился.",
+			"cn": "//[GREY]\\\\//(0,4.226)\\\\我在直升机这里，不过这地方到处都是警卫。//(4.226,8.996)\\\\47，你最好将\"永恒常量\"带到港口的小船上，那里比较安静。//(8.996,11.085)\\\\你可以利用杀人开关让他乖乖听话。",
+			"tc": "//[GREY]\\\\//(0,4.2)\\\\我在直升機這裡，不過這地方到處都是警衛。//(4.2,9)\\\\47，你最好將「常任」帶到港口的小船上，那裡比較安靜。//(9,11.08537)\\\\你可以利用殺人開關讓他乖乖聽話。",
+			"jp": "//[GREY]\\\\//(0,4)\\\\ヘリコプターまで来たが、そこら中に警備員がいる。//(4,7.5)\\\\47、港に係留されているボートにコンスタントを乗せた方がいい。//(7.5,11.08537)\\\\ここより静かなはずだ。 やつが従わなければキルスイッチで脅すんだ。"
+		}
+	}
+}

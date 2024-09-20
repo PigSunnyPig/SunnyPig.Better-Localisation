@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/opulent/34000_stingray/34000_cinematics/34000_flyin.sweetdialog?/34000_flyin_diana_003.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "34000_flyin_diana_003",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/opulent/34000_stingray/34000_cinematics/34000_flyin_diana_003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/opulent/34000_stingray/34000_cinematics/34000_flyin_diana_003.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,30)\\\\Ljudmila Vetrova can be found in the public sections of the island, primarily tending to client needs.",
+			"fr": "//[DIANA]\\\\//(0,2.551889)\\\\Ljudmila Vetrova s'occupe le plus souvent de//(2.551889,5.468333)\\\\répondre aux besoins des clients dans les parties//(5.468333,7.057188)\\\\communes de l'île.",
+			"it": "//[DIANA]\\\\//(0,4.3)\\\\Puoi trovare Ljudmila Vetrova nelle aree pubbliche dell'isola,//(4.3,6.773)\\\\intenta a prendersi cura dei clienti.",
+			"de": "//[DIANA]\\\\//(0,2.5)\\\\Ljudmila Vetrova befindet sich im//(2.5,4.5)\\\\öffentlich zugänglichen Teil der Insel,//(4.5,5.45)\\\\wo sie sich vor allem um//(5.45,7.475388)\\\\die Wünsche der Klienten kümmert.",
+			"es": "//[DIANA]\\\\//(0,2.643943)\\\\Encontrarás a Ljudmila Vetrova en las secciones//(2.643943,4.2779)\\\\públicas de la isla,//(4.2779,7.057187)\\\\donde estará atendiendo a los clientes.",
+			"ru": "//[DIANA]\\\\//(0.45,4.276687)\\\\Людмила Ветрова работает на общедоступных участках острова//(4.276687,7.057188)\\\\и в основном обслуживает клиентов.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\你可以在岛上的公众区域内找到主要负责招待客户的璐嘉德米拉·维特洛娃。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\盧德米拉‧韋特羅瓦會在島上的公開區域，主要負責滿足客戶需求。",
+			"jp": "//[DIANA]\\\\//(0,4.348)\\\\リュドミラ・ベトロワは島の公共区画にいるはずよ。//(4.348,34.348)\\\\主にクライアントの面倒を見ながらね。"
+		}
+	}
+}

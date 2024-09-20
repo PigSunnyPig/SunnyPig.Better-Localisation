@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/golden/40000_elusive/gibson/40500_handler/ds40502_targetleaving.sweetdialog?/ds40502_targetleaving_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds40502_targetleaving_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/40000_elusive/gibson/40500_handler/ds40502_targetleaving_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/40000_elusive/gibson/40500_handler/ds40502_targetleaving_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Your target's been spooked, 47. She's heading for the exit.",
+			"fr": "//(0,30)\\\\Votre cible a pris peur, 47. Elle se dirige vers la sortie.",
+			"it": "//(0,30)\\\\Il bersaglio si è spaventato, 47. Sta andando verso l'uscita.",
+			"de": "//(0,30)\\\\Ihr Ziel wurde aufgeschreckt, 47. Sie ist auf dem Weg zum Ausgang.",
+			"es": "//(0,30)\\\\Has asustado al objetivo, 47. Se dirige hacia la salida.",
+			"ru": "//(0,30)\\\\Цель испугалась, 47-й. Она направляется к выходу.",
+			"cn": "//(0,30)\\\\47，你的目标被惊动了。她正在前往出口。",
+			"tc": "//(0,30)\\\\你的目標已經被驚動了，47。她正在朝出口前去。",
+			"jp": "//(0,30)\\\\ターゲットは恐れをなしたようよ、47。出口に向かっているわ。"
+		}
+	}
+}

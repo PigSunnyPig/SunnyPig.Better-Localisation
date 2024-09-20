@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25053_vanyacontracthint2.sweetdialog?/ds25053_vanyacontracthint2_diana_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25053_vanyacontracthint2_diana_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25053_vanyacontracthint2_diana_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25053_vanyacontracthint2_diana_002.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.477703)\\\\They're meeting up near Rangan's tower.//(2.477703,4.330971)\\\\There's a barge near a big crane.//(4.330971,7.291461)\\\\This is your chance, 47!",
+			"fr": "//(0,2.269)\\\\Ils se sont donné rendez-vous près de la tour de Rangan,//(2.269,4.609)\\\\dans une péniche à côté d'une grue.//(4.609,6.609423)\\\\C'est le moment, 47 !",
+			"it": "//(0,1.390491)\\\\Si sono dati appuntamento vicino//(1.390491,2.815878)\\\\alla torre di Rangan.//(2.815878,4.474467)\\\\C'è una chiatta accanto a un'alta gru.//(4.474467,6.517484)\\\\È la tua occasione, 47!",
+			"de": "//(0,1.76391)\\\\Sie treffen sich bei Rangans Turm.//(1.76391,4.437738)\\\\Da liegt ein Kahn bei einem großen Kran vertäut.//(4.437738,6.592032)\\\\Das ist Ihre Chance, 47!",
+			"es": "//(0,2.662096)\\\\Se van a reunir cerca de la torre de Rangan.//(2.662096,4.5)\\\\Hay una barcaza cerca de una grúa grande.//(4.5,6.447837)\\\\¡Es tu oportunidad, 47!",
+			"ru": "//(0,2.223056)\\\\Они хотят встретиться около башни Ранжана.//(2.223056,4.446113)\\\\На барже рядом с большим краном.//(4.446113,6.450944)\\\\Не упусти шанс, 47-й!",
+			"cn": "//(0,4.3)\\\\他们准备在朗甘的高塔旁见面。就在大吊车旁边的驳船里见面。//(4.3,34.3)\\\\这可是个好机会，47！",
+			"tc": "//(0,4.3)\\\\他們準備在朗甘高塔旁見面。就在大吊車旁的接駁船見面。//(4.3,34.3)\\\\這可是個好機會，47！",
+			"jp": "//(0,2.16)\\\\ランガンのタワーの近くで待ち合わせするみたい。//(2.16,4.305)\\\\巨大クレーンの近くに小型船があるわ。//(4.305,6.271688)\\\\チャンスよ、47！"
+		}
+	}
+}

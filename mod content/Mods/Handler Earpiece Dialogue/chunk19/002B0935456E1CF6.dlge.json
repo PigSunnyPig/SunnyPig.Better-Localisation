@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/miami/21000_flamingo/21000_handler/ds21020_opppodiumconclusion.sweetdialog?/ds21020_opppodiumconclusion_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds21020_opppodiumconclusion_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/miami/21000_flamingo/21000_handler/ds21020_opppodiumconclusion_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/miami/21000_flamingo/21000_handler/ds21020_opppodiumconclusion_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.110491)\\\\I like your thinking, 47.//(2.110491,6.767669)\\\\With the safety off, someone could make the podium pyrotechnics fire up,//(6.767669,9.353865)\\\\rather explosively.",
+			"fr": "//(0,1.8)\\\\J'aime votre façon de penser, 47.//(1.8,3.535)\\\\Si le système de sécurité est désactivé,//(3.535,6.192)\\\\les effets pyrotechniques risquent//(6.192,8.4)\\\\d'être des plus explosifs.",
+			"it": "//(0,2.060491)\\\\Mi piace come ragioni, 47.//(2.060491,4.058677)\\\\Con il sistema di sicurezza disattivato,//(4.058677,8.253463)\\\\i fuochi d'artificio del podio potrebbero davvero esplodere.",
+			"de": "//(0,1.898589)\\\\Mir gefällt, wie Sie denken, 47.//(1.898589,3.636412)\\\\Da die Sicherung abgeschaltet ist,//(3.636412,5.458804)\\\\könnte man die Pyrotechnik//(5.458804,8.4)\\\\des Podiums so richtig knallen lassen.",
+			"es": "//(0,1.842064)\\\\Me gusta cómo piensas,//(1.842064,4.262523)\\\\47. Desactivada la seguridad,//(4.262523,7.24321)\\\\alguien podría hacer explotar la pirotecnia del//(7.24321,8.4)\\\\podio.",
+			"ru": "//(0,2.625082)\\\\Мне нравится ход твоих мыслей,//(2.625082,6.251862)\\\\47-й. Теперь пиротехническое шоу точно станет//(6.251862,8.4)\\\\взрывным и зажигательным.",
+			"cn": "//(0,30)\\\\47，我喜欢你的想法。保险装置失灵后，领奖台烟火装置就更具有爆炸性了。",
+			"tc": "//(0,30)\\\\47，我喜歡你的想法。保險裝置失靈後，頒獎臺煙火裝置就更具爆炸性了。",
+			"jp": "//(0,8.4)\\\\良い考えね、47。安全装置はなくなって、表彰台の点火装置をかえって爆発的に燃やすことができたわ。"
+		}
+	}
+}

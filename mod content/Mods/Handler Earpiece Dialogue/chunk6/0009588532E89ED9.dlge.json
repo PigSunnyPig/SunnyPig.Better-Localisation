@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/rat/43000_handler/ds43318_meetupolivia2nddroneshot.sweetdialog?/ds43318_meetupolivia2nddroneshot_oliviahall_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds43318_meetupolivia2nddroneshot_oliviahall_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/rat/43000_handler/ds43318_meetupolivia2nddroneshot_oliviahall_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/rat/43000_handler/ds43318_meetupolivia2nddroneshot_oliviahall_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Got a lock. We can now listen in on Royce’s phone calls.",
+			"fr": "//(0,30)\\\\J'ai le signal. On va pouvoir écouter les conversations téléphoniques de Royce...",
+			"it": "//(0,30)\\\\Agganciato. Ora possiamo ascoltare le telefonate di Royce.",
+			"de": "//(0,30)\\\\Ich habe eine Verbindung. Jetzt können wir Royces Telefonate mithören.",
+			"es": "//(0,30)\\\\Bloqueado. Ya podemos espiar las llamadas de Royce.",
+			"ru": "//(0,30)\\\\Есть контакт. Теперь мы сможем слушать телефонные звонки Ройс.",
+			"cn": "//(0,30)\\\\锁定它了。现在我们可以监听罗伊斯的手机了。",
+			"tc": "//(0,30)\\\\完成鎖定了，現在我們能夠竊聽羅伊斯的通話了。",
+			"jp": "//(0,30)\\\\ロックできた。これでロイスの電話を盗聴できる。"
+		}
+	}
+}

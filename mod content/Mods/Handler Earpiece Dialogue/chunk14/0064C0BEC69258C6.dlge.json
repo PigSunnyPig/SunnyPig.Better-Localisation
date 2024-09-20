@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "0064C0BEC69258C6",
+	"DITL": "005CC166F7715F6D",
+	"CLNG": "00063B34B5153AEE",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds20036_sp_maisonescaped_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20036_sp_maisonescaped_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20036_sp_maisonescaped_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\47, Guillaume Maison has escaped the grounds. The mission is over.",
+			"fr": "//(0,30)\\\\47, Guillaume Maison a quitté la demeure. La mission est terminée.",
+			"it": "//(0,30)\\\\47, Guillaume Maison è fuggito dall'area. La missione è saltata.",
+			"de": "//(0,30)\\\\47, Guillaume Maison ist vom Grundstück entkommen. Die Mission ist vorbei.",
+			"es": "//(0,30)\\\\47, Guillaume Maison ha salido de los terrenos. Se cancela la misión.",
+			"ru": "//(0,30)\\\\47-й, ГИЙОМ МЕЗОН покинул территорию. Задание отменяется.",
+			"cn": "//(0,30)\\\\47，吉奥姆·米森逃离了现场。任务结束。",
+			"tc": "//(0,30)\\\\47，紀堯姆．梅森以逃落了現場。任務已結束。",
+			"jp": "//(0,30)\\\\47、ギヨーム・メゾンに逃げられたわ。任務は終わりよ。"
+		}
+	}
+}

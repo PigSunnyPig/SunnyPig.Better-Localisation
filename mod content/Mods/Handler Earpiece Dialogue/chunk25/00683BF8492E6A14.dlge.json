@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/marrakech/6000_coup/6000_handler/ds6003_consulate.sweetdialog?/ds6003_consulate_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds6003_consulate_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/6000_coup/6000_handler/ds6003_consulate_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/6000_coup/6000_handler/ds6003_consulate_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\You made it. Most impressive, 47. Now to locate Claus Strandberg.",
+			"fr": "//(0,30)\\\\Vous avez réussi. Très impressionnant, 47. À présent, localisez Claus Strandberg.",
+			"it": "//(0,3.097)\\\\Ce l'hai fatta. I miei complimenti, 47.//(3.097,33.097)\\\\Ora trova Claus Strandberg.",
+			"de": "//(0,1.1)\\\\Sie haben es geschafft.//(1.1,3)\\\\Sehr beeindruckend, 47.//(3,33)\\\\Jetzt müssen Sie nur noch Claus Strandberg finden.",
+			"es": "//(0,2.960491)\\\\Lo has conseguido. Impresionante, 47.//(2.960491,32.96049)\\\\Ahora localiza a Claus Strandberg.",
+			"ru": "//(0,30)\\\\Получилось! Превосходная работа, 47-й. А теперь отыщи Клауса Стрендберга.",
+			"cn": "//(0,30)\\\\你成功了。太了不起了，47。现在请找到克劳斯·斯特兰博格。",
+			"tc": "//(0,30)\\\\你成功了。太了不起了，47。現在請找到克勞斯．史川伯格。",
+			"jp": "//(0,30)\\\\入れたようね。お見事、47。では、クラウス・ストランドバーグを探して。"
+		}
+	}
+}

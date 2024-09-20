@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/evergreen/handler/ed075_unlckclbrtnfly.sweetdialog?/ed075_unlckclbrtnfly_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ed075_unlckclbrtnfly_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed075_unlckclbrtnfly_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed075_unlckclbrtnfly_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,5.387)\\\\This should take you anywhere in no time... it might not be so easy to find a landing space.//(5.387,35.387)\\\\However, I'm sure you'll figure it out.",
+			"fr": "//(0,2.01)\\\\Voilà qui vous emmènera où vous voulez en un rien de temps...//(2.01,5.037)\\\\cependant, il ne sera pas facile de trouver un espace d'atterrissage.//(5.037,35.037)\\\\Mais je suis sûre que vous trouverez une solution.",
+			"it": "//(0,2.4)\\\\Questo dovrebbe portarti ovunque in poco tempo...//(2.4,5.3)\\\\Potrebbe non essere così semplice trovare uno spazio di atterraggio,//(5.3,35.3)\\\\ma sono sicura che ci riuscirai.",
+			"de": "//(0,2.3)\\\\Damit sollten Sie überall in Windeseile hinkommen ...//(2.3,5.15)\\\\Ein Landeplatz könnte aber schwerer zu finden sein.//(5.5,35.5)\\\\Doch ich bin mir sicher, Ihnen fällt etwas ein.",
+			"es": "//(0,2.514785)\\\\Te permitirá llegar adonde quieras en un santiamén...,//(2.514785,5.427669)\\\\aunque puede que no sea fácil encontrar dónde aterrizar.//(5.427669,35.42767)\\\\Bueno, seguro que ya se te ocurrirá algo.",
+			"ru": "//(0,2.272)\\\\Он мгновенно доставит тебя в любую точку...//(2.272,5.518)\\\\Хотя найти посадочную площадку будет непросто.//(5.518,35.518)\\\\Но ты наверняка что-нибудь придумаешь.",
+			"cn": "//(0,2.28)\\\\它能让你很快到达目的地......//(2.28,5.37)\\\\但要找到停车位可不太容易。//(5.37,35.37)\\\\不过，我相信你能想出办法的。",
+			"tc": "//(0,2.3)\\\\這應該能讓你快速抵達目的地......//(2.3,32.3)\\\\但找降落地點可能並不容易。不過你應該能想出辦法的。",
+			"jp": "//(0,2.25)\\\\これがあれば、どこへでもすぐに行く事ができる...//(2.25,5.1)\\\\着陸場所はそう簡単には見つからないかもしれないわね。//(5.1,35.1)\\\\でも、あなたならきっとどうにかできるでしょ。"
+		}
+	}
+}

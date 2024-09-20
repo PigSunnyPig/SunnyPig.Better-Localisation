@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32525_sp_khabkoreznikovmeeting.sweetdialog?/ds32525_sp_khabkoreznikovmeeting_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32525_sp_khabkoreznikovmeeting_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32525_sp_khabkoreznikovmeeting_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32525_sp_khabkoreznikovmeeting_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.3785)\\\\The targets are meeting up in the main building.//(2.3785,4.495729)\\\\Looks like some sort of exchange.",
+			"fr": "//(0,30)\\\\Les cibles vont se retrouver dans le bâtiment principal. On dirait une sorte d'échange.",
+			"it": "//(0,30)\\\\I bersagli stanno per incontrarsi nell'edificio principale. Sembra una specie di scambio.",
+			"de": "//(0,30)\\\\Die Ziele treffen sich im Hauptgebäude. Sie scheinen eine Art Wortwechsel zu führen.",
+			"es": "//(0,30)\\\\Los objetivos se van a reunir en el pabellón principal. Parece ser una especie de intercambio.",
+			"ru": "//(0,30)\\\\Цели встречаются в главном здании. Кажется, будет происходить какой-то обмен.",
+			"cn": "//(0,30)\\\\两名目标正在主楼碰面。似乎正在进行某种交易。",
+			"tc": "//(0,30)\\\\目標正在主大樓裡碰面。看起來是某種交易。",
+			"jp": "//(0,30)\\\\ターゲットたちは本棟で落ち合うつもりよ。何か取引をするようね。"
+		}
+	}
+}

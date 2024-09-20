@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/tutorial/9000_handler/ds9254_lonelymechanic.sweetdialog?/ds9254_lonelymechanic_young_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds9254_lonelymechanic_young_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/tutorial/9000_handler/ds9254_lonelymechanic_young_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/tutorial/9000_handler/ds9254_lonelymechanic_young_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\I'm sure there's a lonely mechanic somewhere in the building.",
+			"fr": "//(0,30)\\\\Il doit bien y avoir un mécanicien isolé dans le bâtiment.",
+			"it": "//(0,30)\\\\Sono certa che nell'edificio troverai un meccanico isolato dagli altri.",
+			"de": "//(0,30)\\\\Es gibt bestimmt irgendwo im Gebäude einen einsamen Mechaniker.",
+			"es": "//(0,30)\\\\Seguro que hay un mecánico solitario en algún punto del edificio.",
+			"ru": "//(0,30)\\\\Наверняка где-то в этом здании есть одинокий механик.",
+			"cn": "//(0,30)\\\\这座楼房里肯定有孤身一人的机械工。",
+			"tc": "//(0,30)\\\\這座樓房裡肯定有孤身一人的機械工。",
+			"jp": "//(0,30)\\\\中にひとりでいる整備士がいるはず"
+		}
+	}
+}

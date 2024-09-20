@@ -1,0 +1,21 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/marrakech/11600_elusive/11600_negroni/11600_negroni_handler/dr11610_diana.sweetdialog?/dr11610_diana_diana_et_010.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"langmap": "xx,en,fr,it,de,es",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr11610_diana_diana_et_010",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_handler/dr11610_diana_diana_et_010.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_handler/dr11610_diana_diana_et_010.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\That's Renzo dealt with. Now for Orlando.",
+			"fr": "//(0,1.35)\\\\Maintenant que vous vous êtes occupé de Renzo,//(1.35,31.35)\\\\allez vous occuper d'Orlando.",
+			"it": "//(0,30)\\\\Renzo è stato eliminato. Ora è il turno di Orlando.",
+			"de": "//(0,30)\\\\Renzo wäre damit erledigt. Machen wir weiter mit Orlando.",
+			"es": "//(0,30)\\\\Te has encargado de Renzo. Ahora a por Orlando."
+		}
+	}
+}

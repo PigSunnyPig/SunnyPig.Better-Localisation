@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/opulent/34000_stingray/34000_handler/ds34018_spaoppreveal.sweetdialog?/ds34018_spaoppreveal_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds34018_spaoppreveal_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/opulent/34000_stingray/34000_handler/ds34018_spaoppreveal_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/opulent/34000_stingray/34000_handler/ds34018_spaoppreveal_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.914423)\\\\A note from Ljudmila Vetrova?//(1.914423,4.120201)\\\\I wonder what she wants from you,//(4.120201,5.229513)\\\\47. Regardless,//(5.229513,8.348291)\\\\it would be a shame to keep her waiting...",
+			"fr": "//(0,1.986052)\\\\Un message de Ljudmila Vetrova ?//(1.986052,4.274359)\\\\Je me demande ce qu'elle vous veut,//(4.274359,6.986948)\\\\47. Ne la faites surtout pas attendre,//(6.986948,8.348291)\\\\en tout cas.",
+			"it": "//(0,2.237165)\\\\Un messaggio da Ljudmila Vetrova?//(2.237165,4.111106)\\\\Chissà cosa vuole da te,//(4.111106,6.111126)\\\\47. In ogni caso,//(6.111126,8.348291)\\\\sarebbe un peccato farla aspettare...",
+			"de": "//(0,1.656045)\\\\Eine Notiz von Ljudmila Vetrova?//(1.656045,2.782764)\\\\Da fragt man sich,//(2.782764,4.430388)\\\\was sie wohl von Ihnen will,//(4.430388,6.952699)\\\\47. Auf jeden Fall wäre es eine Schande,//(6.952699,8.348291)\\\\sie warten zu lassen ...",
+			"es": "//(0,2.237165)\\\\¿Una nota de Ljudmila Vetrova?//(2.237165,4.462954)\\\\Me pregunto qué querrá de ti,//(4.462954,8.348291)\\\\47. Tanto da, sería una pena hacerla esperar...",
+			"ru": "//(0,1.885318)\\\\Записка от Людмилы Ветровой?//(1.885318,4.225809)\\\\Интересно, что ей от тебя нужно,//(4.225809,8.348291)\\\\47-й. В любом случае не стоит заставлять ее ждать...",
+			"cn": "//(0,4.8)\\\\璐嘉德米拉·维特洛娃留的纸条？不知道她想对你怎样。//(4.8,34.8)\\\\无论如何，让她久等就不好了......",
+			"tc": "//(0,4.9)\\\\盧德米拉‧韋特羅瓦留下的字條？不知道她想要什麼，47。//(4.9,8.4)\\\\無論如何，我們不應該讓她繼續等著......",
+			"jp": "//(0,8.348291)\\\\リュドミラ・ベトロワからのメモ？あなたに何を期待しているのかしら、47。とにかく、べトロワを待たせておくのは無礼になるわね..."
+		}
+	}
+}

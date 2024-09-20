@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/tutorial/9000_handler/ds9113_oppend_fallencomrades.sweetdialog?/ds9113_oppend_fallencomrades_young_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds9113_oppend_fallencomrades_young_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/tutorial/9000_handler/ds9113_oppend_fallencomrades_young_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/tutorial/9000_handler/ds9113_oppend_fallencomrades_young_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.724294)\\\\Well done, Initiate.//(1.724294,31.72429)\\\\I should say a toast is in order.",
+			"fr": "//(0,30)\\\\Beau travail, initié. Je lève mon verre à votre réussite.",
+			"it": "//(0,30)\\\\Molto bene, recluta. La tua impresa merita un brindisi.",
+			"de": "//(0,1.424294)\\\\Gute Arbeit, Rekrut.//(1.424294,31.42429)\\\\Ich denke, darauf sollten wir anstoßen.",
+			"es": "//(0,1.6)\\\\Bien hecho, iniciado.//(1.6,31.6)\\\\Creo que esto se merece un brindis.",
+			"ru": "//(0,30)\\\\Молодец. Думаю, можно и выпить за это.",
+			"cn": "//(0,1.6)\\\\干得好，新人。//(1.6,31.6)\\\\我们可以举杯庆祝一下了。",
+			"tc": "//(0,30)\\\\幹得好，新人。我們可以舉杯慶祝一下了。",
+			"jp": "//(0,30)\\\\お見事よ。すぐに乾杯が始まるわ。"
+		}
+	}
+}

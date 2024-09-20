@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25115_smokesignalmovingtobeach.sweetdialog?/ds25115_smokesignalmovingtobeach_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25115_smokesignalmovingtobeach_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25115_smokesignalmovingtobeach_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25115_smokesignalmovingtobeach_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.293865)\\\\47. Shah and Rangan are both on the move.//(3.293865,8.993865)\\\\I think they're heading for the beach area near the slums...",
+			"fr": "//(0,3.196687)\\\\47, Shah et Rangan sont en mouvement.//(3.196687,33.19669)\\\\Je pense qu'ils se dirigent vers la plage près des bidonvilles.",
+			"it": "//(0,2.569639)\\\\47. Sia Shah sia Rangan sono in movimento.//(2.569639,4.487877)\\\\Credo che si stiano dirigendo verso la spiaggia//(4.487877,5.532917)\\\\vicino ai sobborghi...",
+			"de": "//(0,3.064785)\\\\47, Shah und Rangan sind beide in Bewegung.//(3.064785,33.06479)\\\\Ich glaube, sie wollen an den Strand bei den Slums ...",
+			"es": "//(0,2.18601)\\\\47, Shah y Rangan se han puesto en marcha.//(2.18601,4.641204)\\\\Creo que se dirigen a la zona de playa que hay cerca//(4.641204,5.641204)\\\\de los suburbios...",
+			"ru": "//(0,2.828589)\\\\47-й, Шах и Ранжан куда-то направляются.//(2.828589,32.82859)\\\\По-моему, они идут к пляжу рядом с трущобами...",
+			"cn": "//(0,30)\\\\47。瓦妮娅·沙和朗甘两人都在行动。我想他们要前往贫民窟附近的海滩......",
+			"tc": "//(0,30)\\\\47。瓦妮婭．沙和朗甘正移動中。我猜他們的目的地都是貧民窟附近的沙灘地區。",
+			"jp": "//(0,3.35)\\\\47。シャーとランガンが動き出したわ。//(3.35,33.35)\\\\スラム街の近くにあるビーチに向かっていると思うわ..."
+		}
+	}
+}

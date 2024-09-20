@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/rat/43000_handler/ds43315_meetupoliviashoot2nddrone.sweetdialog?/ds43315_meetupoliviashoot2nddrone_oliviahall_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds43315_meetupoliviashoot2nddrone_oliviahall_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/rat/43000_handler/ds43315_meetupoliviashoot2nddrone_oliviahall_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/rat/43000_handler/ds43315_meetupoliviashoot2nddrone_oliviahall_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Damn. Nearly had it.",
+			"fr": "//(0,30)\\\\Merde. J'y étais presque.",
+			"it": "//(0,30)\\\\Merda. C'ero quasi.",
+			"de": "//(0,30)\\\\Verdammt. Fast hätte ich sie gehabt.",
+			"es": "//(0,30)\\\\Me cagüen... Casi lo tenía.",
+			"ru": "//(0,30)\\\\Черт. Почти.",
+			"cn": "//(0,30)\\\\该死。差点就成了。",
+			"tc": "//(0,30)\\\\該死，就差一點點。",
+			"jp": "//(0,30)\\\\残念。もう少しだったのに。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/marrakech/6000_elusive/6000_missionend/et_missionendmarrakech.sweetdialog?/et_missionendmarrakech_diana_et_004.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "et_missionendmarrakech_diana_et_004",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/6000_elusive/6000_missionend/et_missionendmarrakech_diana_et_004.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/6000_elusive/6000_missionend/et_missionendmarrakech_diana_et_004.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\The money has been wired to your account.",
+			"fr": "//(0,30)\\\\L'argent a été transféré sur votre compte.",
+			"it": "//(0,30)\\\\Il denaro è stato depositato sul tuo conto.",
+			"de": "//(0,30)\\\\Das Geld wurde auf Ihr Konto überwiesen.",
+			"es": "//(0,30)\\\\El dinero se ha transferido a tu cuenta.",
+			"ru": "//(0,30)\\\\Деньги перечислены на твой счет.",
+			"cn": "//(0,30)\\\\钱已经汇到了你账上。",
+			"tc": "//(0,30)\\\\錢已經匯到了你賬上。",
+			"jp": "//(0,30)\\\\報酬は口座に振り込むわ。"
+		}
+	}
+}

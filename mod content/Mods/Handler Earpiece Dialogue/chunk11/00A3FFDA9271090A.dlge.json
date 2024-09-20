@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32512_sp_rioteastbuildingfire.sweetdialog?/ds32512_sp_rioteastbuildingfire_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32512_sp_rioteastbuildingfire_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32512_sp_rioteastbuildingfire_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32512_sp_rioteastbuildingfire_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\A fire has broken out in the East building. The riot is spreading. Anyone caught in there will not survive.",
+			"fr": "//(0,30)\\\\Un incendie s'est déclaré dans le bâtiment est. L'émeute se répand. Quiconque est pris là-bas n'y survivra pas.",
+			"it": "//(0,30)\\\\È scoppiato un incendio nell'edificio est. La rivolta si diffonde. Chiunque ci si troverà in mezzo non sopravviverà.",
+			"de": "//(0,30)\\\\Ein Feuer ist im Ostgebäude ausgebrochen. Der Aufstand breitet sich aus. Jeder, der dort hineingerät, wird das nicht überleben.",
+			"es": "//(0,30)\\\\Ha comenzado un incendio en el pabellón este. El motín se está expandiendo. Quien se quede ahí atrapado tiene la muerte asegurada.",
+			"ru": "//(0,30)\\\\В восточном корпусе начался пожар. Бунт разгорается. Тем, кто сейчас находится там, не выжить.",
+			"cn": "//(0,30)\\\\东大楼失火了。暴动正在蔓延。被卷入其中的人必死无疑。",
+			"tc": "//(0,30)\\\\東大樓中發生了火災。暴動正在蔓延。被困在那裡的人死定了。",
+			"jp": "//(0,3.86)\\\\東の棟で火の手が上がったわ。暴動が広がっているようね。//(3.86,33.86)\\\\炎に巻き込まれればひとたまりもないでしょうね。"
+		}
+	}
+}

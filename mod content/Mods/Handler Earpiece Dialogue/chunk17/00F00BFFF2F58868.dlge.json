@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25095_maelstromnoid6.sweetdialog?/ds25095_maelstromnoid6_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25095_maelstromnoid6_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25095_maelstromnoid6_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25095_maelstromnoid6_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\No luck.",
+			"fr": "//(0,30)\\\\Pas de chance.",
+			"it": "//(0,30)\\\\Niente da fare.",
+			"de": "//(0,30)\\\\Pech gehabt.",
+			"es": "//(0,30)\\\\No hubo suerte.",
+			"ru": "//(0,30)\\\\Не повезло.",
+			"cn": "//(0,30)\\\\运气不佳。",
+			"tc": "//(0,30)\\\\沒那狗屎運。",
+			"jp": "//(0,30)\\\\ついてないわね。"
+		}
+	}
+}

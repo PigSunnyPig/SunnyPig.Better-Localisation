@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/evergreen/handler/ed071_mechclbrtnsafe.sweetdialog?/ed071_mechclbrtnsafe_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ed071_mechclbrtnsafe_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed071_mechclbrtnsafe_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed071_mechclbrtnsafe_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\47! There's a safe nearby. You should be able to hack the code by examining nearby clues using your camera.",
+			"fr": "//(0,1.944)\\\\47 ! Il y a un coffre non loin... Vous//(1.944,3.66)\\\\devriez pouvoir trouver le code en examinant les environs//(3.66,33.66)\\\\avec votre apapreil photo pour suspects.",
+			"it": "//(0,1.5)\\\\47! C'è una cassetta di sicurezza nelle vicinanze.//(1.5,31.5)\\\\Dovresti essere in grado di decifrarne il codice esaminando gli indizi lì attorno con la telecamera.",
+			"de": "//(0,2.2)\\\\47! Hier gibt es einen Tresor in der Nähe.//(2.2,4)\\\\Sie sollten den Code hacken können,//(4,34)\\\\wenn Sie sich Hinweise in der Nähe mit der Kamera ansehen.",
+			"es": "//(0,2.158589)\\\\¡47! Hay una caja fuerte cerca.//(2.158589,4.991472)\\\\Si usas la cámara para examinar las pistas cercanas,//(4.991472,34.99147)\\\\seguro que averiguas la combinación.",
+			"ru": "//(0,30)\\\\47-й! Поблизости есть сейф. Ты сможешь вскрыть его, изучив находящиеся рядом подсказки с помощью камеры.",
+			"cn": "//(0,2.28)\\\\47！附近有个保险箱。//(2.28,32.28)\\\\运用摄像机，你或许可以通过检查附近的线索来破解密码。",
+			"tc": "//(0,30)\\\\47！附近有個保險箱。你應該能使用相機找出附近的線索並破解密碼。",
+			"jp": "//(0,2.255)\\\\47！近くに金庫がある。//(2.255,32.255)\\\\カメラを使って周辺にあるヒントを調査すれば、暗証番号をハックすることができるわ。"
+		}
+	}
+}

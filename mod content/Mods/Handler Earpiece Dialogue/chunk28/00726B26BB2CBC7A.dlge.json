@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/rocky/dugong/46000_handler/ds46012_destroyspotted.sweetdialog?/ds46012_destroyspotted_grey_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds46012_destroyspotted_grey_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/rocky/dugong/46000_handler/ds46012_destroyspotted_grey_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/rocky/dugong/46000_handler/ds46012_destroyspotted_grey_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.386)\\\\Look, that's the control unit there.//(2.386,10.83175)\\\\You'll need to either destroy it or deny access to keep the Ether satellite out of the militia's hands.",
+			"fr": "//(0,30)\\\\Regarde, là-bas, c'est l'unité de contrôle. Tu vas devoir la détruire ou en bloquer l'accès pour que la milice ne puisse pas toucher au satellite d'Ether.",
+			"it": "//(0,2.460491)\\\\Guarda, ecco l'unità di controllo.//(2.460491,32.46049)\\\\Distruggila o nega l'accesso ad altri utenti per impedire che il satellite dell'Ether cada nelle mani della milizia.",
+			"de": "//(0,2.6)\\\\Sieh an. Das ist die Steuereinheit.//(2.6,32.6)\\\\Man muss sie entweder zerstören oder der Miliz den Zugang zum Ether-Satelliten verwehren.",
+			"es": "//(0,2.15)\\\\Mira, ahí está la unidad de control.//(2.65,32.65)\\\\Tendrás que destruirla o bloquear el acceso para evitar que la milicia utilice el satélite de Ether.",
+			"ru": "//(0,2.092393)\\\\Смотри, это блок управления.//(2.092393,4.06)\\\\Тебе нужно уничтожить его//(4.06,34.06)\\\\или блокировать боевикам доступ к спутнику «Итера».",
+			"cn": "//(0,30)\\\\看，那就是控制单元。要么摧毁它，要么有拦截所有访问，让民兵无法操控苍穹卫星。",
+			"tc": "//(0,2.7)\\\\你看，控制裝置就在那裡。//(2.7,32.7)\\\\你得摧毀它或是攔截存取，讓民兵無法連接乙太公司的衛星。",
+			"jp": "//(0,30)\\\\見ろ、コントロールユニットだ。あれを破壊するか、アクセスを制限して、エーテル衛星が傭兵団の手に渡らないようにするんだ。"
+		}
+	}
+}

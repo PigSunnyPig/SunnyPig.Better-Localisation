@@ -9,16 +9,16 @@
         "soundtag": "Voiceover_Handler",
         "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/_test_dialogue/evergreen_d/be_tryescape_diana_001.wav].pc_wes",
         "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/_test_dialogue/evergreen_d/be_tryescape_diana_001.animset].pc_animset",
-        "languages": {
-            "en": "//[DIANA]\\\\//(0,2.7)\\\\47, the target is trying to escape!//(2.7,30)\\\\Don't let them get away.",
-            "fr": "//[DIANA]\\\\//(0,2.7)\\\\47, la cible essaie de s'échapper !//(2.7,30)\\\\Arrêtez-la à tout prix.",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,2.7)\\\\47, the target is trying to escape!//(2.7,30)\\\\Don't let them get away.",
+            "fr": "//[DIANA]\\\\//(0,2.7)\\\\47, la cible essaie de s'échapper !//(2.7,30)\\\\Arrêtez-la à tout prix.",
             "it": "//[DIANA]\\\\//(0,2.7)\\\\47, Il bersaglio sta cercando di fuggire!//(2.7,30)\\\\Non permettere che ci riesca.",
-            "de": "//[DIANA]\\\\//(0,2.7)\\\\47, Das Ziel will entkommen!//(2.7,30)\\\\Lassen Sie das nicht zu.",
-            "es": "//[DIANA]\\\\//(0,2.7)\\\\47, el objetivo trata de escapar!//(2.7,30)\\\\No dejes que suceda.",
-            "ru": "//[DIANA]\\\\//(0,30)\\\\47-й, цель пытается сбежать! Не допусти этого.",
-            "cn": "//[DIANA]\\\\//(0,30)\\\\47，目标正在逃跑！别让目标逃脱了。",
-            "tc": "//[DIANA]\\\\//(0,30)\\\\47，目標正在逃跑！別讓目標逃脫了。",
-            "jp": "//[DIANA]\\\\//(0,30)\\\\47、ターゲットが逃げようとしている。逃さないで！"
-        }
+			"de": "//[DIANA]\\\\//(0,2.7)\\\\47, das Ziel versucht zu fliehen.//(2.7,30)\\\\Lass sie nicht entkommen.",
+			"es": "//[DIANA]\\\\//(0,2.7)\\\\47, el objetivo trata de escapar!//(2.7,30)\\\\No dejes que suceda.",
+			"ru": "//[DIANA]\\\\//(0,30)\\\\47-й, цель пытается уйти! Не упусти её.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\47，目标正在逃跑！别让目标逃脱了。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\47，目標正在逃跑！別讓目標逃脫了。",
+			"jp": "//[DIANA]\\\\//(0,30)\\\\47、ターゲットが逃げようとしている。逃さないで！"
+		}
     }
 }

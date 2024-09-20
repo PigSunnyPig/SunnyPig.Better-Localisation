@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/italy/7000_mamba/7000_handler/ds7006_lawyerbriefing.sweetdialog?/ds7006_lawyerbriefing_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds7006_lawyerbriefing_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/7000_mamba/7000_handler/ds7006_lawyerbriefing_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/7000_mamba/7000_handler/ds7006_lawyerbriefing_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.89)\\\\Salvatore Bravuomo, a local attorney,//(2.89,7.77)\\\\has allegedly gotten his hands on evidence that could sink Abiatti's political career.//(7.77,14.5)\\\\Abiatti, a firm believer that all men can be bought, wants to meet this Bravuomo face to face.//(14.5,44.5)\\\\The attorney however, was not born yesterday and has wisely gone into hiding.",
+			"fr": "//(0,3.18)\\\\Salvatore Bravuomo, un avocat de la région,//(3.18,8.4)\\\\aurait apparemment mis la main sur des preuves qui pourraient mettre un terme définitif à la carrière politique d'Abiatti.//(8.4,12.12)\\\\Abiatti, intimement persuadé que tout homme est corruptible,//(12.12,14.9)\\\\souhaite rencontrer Bravuomo en personne,//(14.9,44.9)\\\\mais l'avocat n'est pas né de la dernière pluie et a sagement décidé de se cacher.",
+			"it": "//(0,3.184785)\\\\Sembra che Salvatore Bravuomo, un avvocato del posto,//(3.184785,7.908)\\\\abbia messo le mani su delle prove che potrebbero rovinare la carriera politica di Abiatti.//(7.908,12)\\\\Abiatti, un forte sostenitore dell'idea che tutti gli uomini possano essere comprati,//(12,14.43)\\\\vuole incontrare Bravuomo di persona.//(14.43,44.43)\\\\Ma l'avvocato non è nato ieri e, intelligentemente, si è nascosto.",
+			"de": "//(0,5.409)\\\\Salvatore Bravuomo, ein örtlicher Anwalt, hat angeblich Beweismaterial in seinem Besitz,//(5.409,8.2)\\\\das Abiattis politische Karriere beenden könnte.//(8.2,14.65)\\\\Im festen Glauben, dass jeder Mensch käuflich ist, hat Abiatti Bravuomo um ein persönliches Treffen gebeten.//(14.65,44.65)\\\\Allerdings hat der Anwalt den Braten gerochen und ist abgetaucht.",
+			"es": "//(0,2.8)\\\\Se dice que Salvatore Bravuomo, un abogado local,//(2.8,8.2)\\\\ha conseguido pruebas que podrían hundir la carrera política de Abiatti.//(8.2,12)\\\\Abiatti, que cree firmemente que se puede comprar a todos los hombres,//(12,14.75)\\\\quiere reunirse con ese tal Bravuomo cara a cara.//(14.75,44.75)\\\\Sin embargo, el abogado no es tonto y tomó la sabia decisión de esconderse.",
+			"ru": "//(0,5)\\\\В распоряжении местного адвоката Сальваторе Бравуомо оказались документы,//(5,8)\\\\способные разрушить политическую карьеру Абиатти.//(8,14.7)\\\\Марко считает, что любого можно купить, и хочет встретиться с Бравуомо лицом к лицу.//(14.7,44.7)\\\\Однако адвокат не вчера родился и благоразумно предпочел спрятаться.",
+			"cn": "//(0,3.518098)\\\\萨尔瓦多·布拉维摩是一名当地律师，//(3.518098,8.09)\\\\据说他手里握着能终结阿布亚蒂政坛生涯的证据。//(8.09,14.69)\\\\阿布亚蒂坚信世上所有人都能被收买，并想和布拉维摩面谈。//(14.69,44.69)\\\\不过这位律师并不是傻子，他明智地躲藏了起来。",
+			"tc": "//(0,8.5)\\\\薩爾瓦多．布拉維摩是一名當地律師，據說他手裡握著能終結艾比亞迪政壇生涯的證據。//(8.5,14.8)\\\\艾比亞迪堅信世上所有人都能被收買，並想和布拉維摩面談。//(14.8,44.8)\\\\不過這位律師並不是傻子，他明智地躲藏了起來。",
+			"jp": "//(0,7.470013)\\\\地元の 弁護士サルバトーレ・ ブラヴォーモは、 アビアッティの 政治家人生を 左右する、 決定的な証拠を//(7.470013,14.94003)\\\\手に 入れたらしいわ。 アビアッティは、 ブラヴォーモと 直接会って 買収したいと 考えてるの。//(14.94003,19.2086)\\\\ところがこの弁護士は、 姿を くらませたって わけ。"
+		}
+	}
+}

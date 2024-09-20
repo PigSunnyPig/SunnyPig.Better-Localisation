@@ -1,0 +1,160 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "00F853317BFBBF7F",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Switch",
+		"switchKey": "EV_Meeting",
+		"default": "DIALOGUE_AGFALLBACK",
+		"containers": [
+			{
+				"type": "Random",
+				"cases": ["DIALOGUE_AGFALLBACK"],
+				"containers": [
+					{
+						"type": "WavFile",
+						"wavName": "ed051_agenderb_agfallback_diana_001",
+						"weight": 1.0,
+						"soundtag": "Voiceover_Handler_ICAEarpiece",
+						"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed051_agender/ed051_agenderb/ed051_agenderb_agfallback_diana_001.wav].pc_wes",
+						"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed051_agender/ed051_agenderb/ed051_agenderb_agfallback_diana_001.animset].pc_animset",
+						"languages": {}
+					}
+				]
+			},
+			{
+				"type": "Random",
+				"cases": ["DIALOGUE_BUSINESS"],
+				"containers": [
+					{
+						"type": "WavFile",
+						"wavName": "ed051_agenderb_business_diana_001",
+						"weight": 0.49999997019767584,
+						"soundtag": "Voiceover_Handler_ICAEarpiece",
+						"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed051_agender/ed051_agenderb/ed051_agenderb_business_diana_001.wav].pc_wes",
+						"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed051_agender/ed051_agenderb/ed051_agenderb_business_diana_001.animset].pc_animset",
+						"languages": {
+							"en": "//[DIANA]\\\\//(0,30)\\\\They are here to attend a business meeting.",
+							"fr": "//[DIANA]\\\\//(0,30)\\\\La cible est ici pour un rendez-vous d'affaires.",
+							"it": "//[DIANA]\\\\//(0,30)\\\\È qui per partecipare a un incontro d'affari.",
+							"de": "//[DIANA]\\\\//(0,30)\\\\Das Ziel ist hier, um an einem Geschäftstreffen teilzunehmen.",
+							"es": "//[DIANA]\\\\//(0,30)\\\\Ha venido a una reunión de negocios.",
+							"ru": "//[DIANA]\\\\//(0,30)\\\\Цель планирует провести здесь деловую встречу.",
+							"cn": "//[DIANA]\\\\//(0,30)\\\\此人是来参加商务会面的。",
+							"tc": "//[DIANA]\\\\//(0,30)\\\\他們來這裡參與一場商業會面。",
+							"jp": "//[DIANA]\\\\//(0,30)\\\\容疑者はビジネスミーティングに出席するために来ている。"
+						}
+					},
+					{
+						"type": "WavFile",
+						"wavName": "ed051_agenderb_business_diana_002",
+						"weight": 0.49999997019767584,
+						"soundtag": "Voiceover_Handler_ICAEarpiece",
+						"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed051_agender/ed051_agenderb/ed051_agenderb_business_diana_002.wav].pc_wes",
+						"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed051_agender/ed051_agenderb/ed051_agenderb_business_diana_002.animset].pc_animset",
+						"languages": {
+							"en": "//[DIANA]\\\\//(0.55,30.55)\\\\They are here for business meeting.",
+							"fr": "//[DIANA]\\\\//(0,30)\\\\La cible est ici pour une réunion d’affaires.",
+							"it": "//[DIANA]\\\\//(0,30)\\\\Sappiamo questo: è qui per un incontro d'affari.",
+							"de": "//[DIANA]\\\\//(0,30)\\\\Wir wissen zumindest eines: Das Ziel ist wegen eines Geschäftstreffens hier.",
+							"es": "//[DIANA]\\\\//(0,30)\\\\En todo caso, tenemos cierta información: ha venido a una reunión de negocios.",
+							"ru": "//[DIANA]\\\\//(0,30)\\\\Вот что мы знаем: цель прибыла на деловую встречу.",
+							"cn": "//[DIANA]\\\\//(0,30)\\\\嗯，我们知道这点——此人是来参加商务会面的。",
+							"tc": "//[DIANA]\\\\//(0,30)\\\\他們是來這裡談生意的。",
+							"jp": "//[DIANA]\\\\//(0,30)\\\\次の事はわかっているわ。容疑者はビジネスミーティングに出席するために来ている。"
+						}
+					}
+				]
+			},
+			{
+				"type": "Random",
+				"cases": ["DIALOGUE_HANDOVER"],
+				"containers": [
+					{
+						"type": "WavFile",
+						"wavName": "ed051_agenderb_handover_diana_001",
+						"weight": 0.49999997019767584,
+						"soundtag": "Voiceover_Handler_ICAEarpiece",
+						"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed051_agender/ed051_agenderb/ed051_agenderb_handover_diana_001.wav].pc_wes",
+						"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed051_agender/ed051_agenderb/ed051_agenderb_handover_diana_001.animset].pc_animset",
+						"languages": {
+							"en": "//[DIANA]\\\\//(0,30)\\\\They are participating in a handover.",
+							"fr": "//[DIANA]\\\\//(0,30)\\\\Elle est ici pour une remise en main propre.",
+							"it": "//[DIANA]\\\\//(0,30)\\\\È qui per una consegna.",
+							"de": "//[DIANA]\\\\//(0,30)\\\\Das Ziel nimmt an einer Übergabe teil.",
+							"es": "//[DIANA]\\\\//(0,30)\\\\Va a participar en una entrega.",
+							"ru": "//[DIANA]\\\\//(0,30)\\\\Цель участвует в передаче груза.",
+							"cn": "//[DIANA]\\\\//(0,30)\\\\此人正在参加一场交接。",
+							"tc": "//[DIANA]\\\\//(0,30)\\\\他們是來交貨的。",
+							"jp": "//[DIANA]\\\\//(0,30)\\\\容疑者は受け渡しに参加している。"
+						}
+					},
+					{
+						"type": "WavFile",
+						"wavName": "ed051_agenderb_handover_diana_002",
+						"weight": 0.49999997019767584,
+						"soundtag": "Voiceover_Handler_ICAEarpiece",
+						"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed051_agender/ed051_agenderb/ed051_agenderb_handover_diana_002.wav].pc_wes",
+						"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed051_agender/ed051_agenderb/ed051_agenderb_handover_diana_002.animset].pc_animset",
+						"languages": {
+							"en": "//[DIANA]\\\\//(0,30)\\\\They are here for an exchange.",
+							"fr": "//[DIANA]\\\\//(0,30)\\\\Elle est ici pour un échange.",
+							"it": "//[DIANA]\\\\//(0,30)\\\\È qui per uno scambio.",
+							"de": "//[DIANA]\\\\//(0,30)\\\\Das Ziel ist wegen eines Austauschs hier.",
+							"es": "//[DIANA]\\\\//(0,30)\\\\Ha venido a un intercambio.",
+							"ru": "//[DIANA]\\\\//(0,30)\\\\Цель участвует в сделке по обмену.",
+							"cn": "//[DIANA]\\\\//(0,30)\\\\此人是来进行一场交易的。",
+							"tc": "//[DIANA]\\\\//(0,30)\\\\他們是來做交易的。",
+							"jp": "//[DIANA]\\\\//(0,30)\\\\容疑者は取り引きをしに来ている。"
+						}
+					}
+				]
+			},
+			{
+				"type": "Random",
+				"cases": ["DIALOGUE_SECRET"],
+				"containers": [
+					{
+						"type": "WavFile",
+						"wavName": "ed051_agenderb_secret_diana_001",
+						"weight": 0.49999997019767584,
+						"soundtag": "Voiceover_Handler_ICAEarpiece",
+						"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed051_agender/ed051_agenderb/ed051_agenderb_secret_diana_001.wav].pc_wes",
+						"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed051_agender/ed051_agenderb/ed051_agenderb_secret_diana_001.animset].pc_animset",
+						"languages": {
+							"en": "//[DIANA]\\\\//(0,30)\\\\They are attending a secret meeting.",
+							"fr": "//[DIANA]\\\\//(0,30)\\\\La cible participe à un rendez-vous secret.",
+							"it": "//[DIANA]\\\\//(0,30)\\\\È qui per un incontro segreto.",
+							"de": "//[DIANA]\\\\//(0,30)\\\\Das Ziel will an einem geheimen Treffen teilnehmen.",
+							"es": "//[DIANA]\\\\//(0,30)\\\\Va a participar en una reunión secreta.",
+							"ru": "//[DIANA]\\\\//(0,30)\\\\Цель планирует посетить тайное собрание.",
+							"cn": "//[DIANA]\\\\//(0,30)\\\\此人正在参加一场秘密会面。",
+							"tc": "//[DIANA]\\\\//(0,30)\\\\他們是來開秘密會議的。",
+							"jp": "//[DIANA]\\\\//(0,30)\\\\容疑者は極秘のミーティングに出席する。"
+						}
+					},
+					{
+						"type": "WavFile",
+						"wavName": "ed051_agenderb_secret_diana_002",
+						"weight": 0.49999997019767584,
+						"soundtag": "Voiceover_Handler_ICAEarpiece",
+						"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed051_agender/ed051_agenderb/ed051_agenderb_secret_diana_002.wav].pc_wes",
+						"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed051_agender/ed051_agenderb/ed051_agenderb_secret_diana_002.animset].pc_animset",
+						"languages": {
+							"en": "//[DIANA]\\\\//(0,30)\\\\They are attending a covert meeting.",
+							"fr": "//[DIANA]\\\\//(0,30)\\\\La cible participe à un rendez-vous secret.",
+							"it": "//[DIANA]\\\\//(0,30)\\\\È qui per un incontro sotto copertura.",
+							"de": "//[DIANA]\\\\//(0,30)\\\\Das Ziel will an einem verdeckten Treffen teilnehmen.",
+							"es": "//[DIANA]\\\\//(0,30)\\\\Va a participar en una reunión encubierta.",
+							"ru": "//[DIANA]\\\\//(0,30)\\\\Цель планирует посетить секретное собрание.",
+							"cn": "//[DIANA]\\\\//(0,30)\\\\此人正在参加一场秘密会面。",
+							"tc": "//[DIANA]\\\\//(0,30)\\\\他們是來開隱密會議的。",
+							"jp": "//[DIANA]\\\\//(0,30)\\\\容疑者は内密のミーティングに出席する。"
+						}
+					}
+				]
+			}
+		]
+	}
+}

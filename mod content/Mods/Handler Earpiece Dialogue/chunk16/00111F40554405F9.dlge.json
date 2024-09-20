@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_skunk/27000_handler/ds27023_intelopp_tapediscovered.sweetdialog?/ds27023_intelopp_tapediscovered_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds27023_intelopp_tapediscovered_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_skunk/27000_handler/ds27023_intelopp_tapediscovered_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_skunk/27000_handler/ds27023_intelopp_tapediscovered_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,5.4)\\\\Hm, a recording of some sort. The note mentions another house.//(5.4,9.87884)\\\\Perhaps Cassidy is using one of the vacant buildings as a base of operations, 47?",
+			"fr": "//[DIANA]\\\\//(0,2.695)\\\\Hmm, une sorte d'enregistrement.//(2.695,5.6)\\\\La note parle d'une autre maison.//(5.6,9.729104)\\\\Peut-être Cassidy se sert-il d'une maison vide comme base pour ses opérations ?",
+			"it": "//[DIANA]\\\\//(0,3)\\\\Mmh, una specie di registrazione.//(3,5.5)\\\\Nella nota si fa riferimento a un'altra casa,//(5.5,10.69759)\\\\quindi forse Cassidy usa uno degli edifici vuoti come base per le sue operazioni, 47.",
+			"de": "//[DIANA]\\\\//(0,2.9)\\\\Hm, eine Art Aufzeichnung.//(2.9,5.5)\\\\Die Notiz erwähnt noch ein anderes Haus.//(5.5,7.9)\\\\Vielleicht nutzt Cassidy eines der leer stehenden Gebäude//(7.9,9.753272)\\\\als Einsatzbasis, 47?",
+			"es": "//[DIANA]\\\\//(0,2.9)\\\\Mmm, una especie de grabación.//(2.9,4.0821)\\\\La nota menciona otra casa.//(4.0821,7.5)\\\\A lo mejor Cassidy está usando uno de los edificios//(7.5,11.04049)\\\\vacíos como base de operaciones, 47.",
+			"ru": "//[DIANA]\\\\//(0,1.819118)\\\\Хм, какая-то заметка.//(1.819118,4.288319)\\\\Здесь упоминается еще один дом.//(4.288319,5.70654)\\\\47-й, может быть,//(5.70654,8.424926)\\\\Кэссиди устроил оперативный центр в одном из//(8.424926,9.729104)\\\\свободных домов?",
+			"cn": "//[DIANA]\\\\//(0,5.458)\\\\嗯，似乎是某种录音。便条提到另一栋房屋。//(5.458,35.458)\\\\或许卡西迪把一栋闲置的建筑物当成了行动基地，47？",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\嗯，似乎是某種錄音。便條提到另一棟房屋。47，或許凱西迪把一棟閒置的建築物作為行動基地？",
+			"jp": "//[DIANA]\\\\//(0,5.5)\\\\ふむ、何かの録音テープね。このメモには別の家が記されてる。//(5.5,9.729104)\\\\キャシディは空いている建物の1つを作戦基地として使用しているんじゃない、47？"
+		}
+	}
+}

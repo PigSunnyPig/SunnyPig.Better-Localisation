@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/miami/21000_flamingo/21000_handler/ds21008_oppexpoconclusion.sweetdialog?/ds21008_oppexpoconclusion_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds21008_oppexpoconclusion_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/miami/21000_flamingo/21000_handler/ds21008_oppexpoconclusion_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/miami/21000_flamingo/21000_handler/ds21008_oppexpoconclusion_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.693563)\\\\Good. I dare say this should get Knox's undivided attention.",
+			"fr": "//(0,3.944785)\\\\Parfait. Voilà qui devrait attirer l'attention de Knox.",
+			"it": "//(0,30)\\\\Bene. Questo dovrebbe attirare l'attenzione di Knox.",
+			"de": "//(0,1.204708)\\\\Gut. Ich würde sagen,//(1.204708,2.277101)\\\\dass das Knox’ ungeteilte//(2.277101,4.413297)\\\\Aufmerksamkeit auf sich ziehen wird.",
+			"es": "//(0,2.393092)\\\\Bien. Yo diría que esto debería requerir toda la//(2.393092,3.4)\\\\atención de Knox.",
+			"ru": "//(0,30)\\\\Отлично. Полагаю, это поглотит все внимание Нокса.",
+			"cn": "//(0,30)\\\\很好。我想这肯定能引来诺克斯的注意。",
+			"tc": "//(0,30)\\\\很好。我想這肯定能引起諾克斯的注意。",
+			"jp": "//(0,30)\\\\よくやったわ。これでノックスを完全に惹きつけることができるわ。"
+		}
+	}
+}

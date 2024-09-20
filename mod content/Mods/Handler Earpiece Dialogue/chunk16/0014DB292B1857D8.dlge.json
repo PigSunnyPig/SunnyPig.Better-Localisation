@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_elusive/27000_alabamaslammer/27000_alabamaslammer_handler/ds27401_killerexpo.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds27401_killerexpo_diana_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_elusive/27000_alabamaslammer/27000_alabamaslammer_handler/ds27401_killerexpo_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_elusive/27000_alabamaslammer/27000_alabamaslammer_handler/ds27401_killerexpo_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,2)\\\\This might be the place, 47.//(2,7.2)\\\\A garden party would be the ideal location for The Censor to identify his next victim.//(7.2,10.331)\\\\Ironically, this is exactly what you should do as well.",
+					"fr": "//(0,1.9)\\\\Ça pourrait être ici, 47.//(1.9,4.4)\\\\Une réception en extérieur est certainement l'occasion idéale//(4.4,7)\\\\pour que le Censeur identifie sa prochaine victime.//(7,10.33108)\\\\Ironiquement, c'est exactement ce que vous devez faire aussi.",
+					"it": "//(0,1.9)\\\\Questo potrebbe essere il posto giusto, 47.//(1.9,7.1)\\\\Forse una festa in giardino è il luogo perfetto in cui il Censore potrebbe identificare la sua prossima vittima.//(7.1,15.35963)\\\\Ironia della sorte, è proprio quello che devi fare anche tu.",
+					"de": "//(0,2.078589)\\\\Das könnte der Ort sein, 47.//(2.078589,4.911472)\\\\Eine Gartenfeier wäre der ideale Ort für den „Censor“,//(4.911472,7.119)\\\\um sich sein nächstes Opfer auszusuchen.//(7.119,10.331)\\\\Ironischerweise sollten Sie genau das ebenfalls tun.",
+					"es": "//(0,1.540105)\\\\Creo que podría ser aquí,//(1.540105,5.113732)\\\\47. Una fiesta en el jardín es el lugar ideal para//(5.113732,7.819858)\\\\que el Censor localice a su próxima víctima.//(7.819858,8.203294)\\\\Irónicamente,//(8.203294,10.33108)\\\\lo mismo se aplica a ti.",
+					"ru": "//(0,1.980491)\\\\Похоже, ты на месте, 47-й.//(1.980491,4.467653)\\\\В поисках очередной жертвы Критик наверняка//(4.467653,6.801058)\\\\придет на вечеринку в саду.//(6.801058,10.3982)\\\\По иронии тебе тоже стоит поискать свою жертву там.",
+					"cn": "//(0,2)\\\\应该就是这了，47。//(2,7)\\\\花园派对可能会是“审查员”寻找下个受害者的理想场所。//(7,15.72393)\\\\而好巧不巧，这也是你现在要做的事。",
+					"tc": "//(0,2)\\\\可能就是這裡了，47。//(2,6.91)\\\\花園派對非常適合審查員尋找他的下一名獵物。//(6.91,36.91)\\\\很諷刺地，你也應該這麼做。",
+					"jp": "//(0,1.982)\\\\ここはおあつらえ向きね、47。//(1.982,7.195)\\\\ガーデンパーティーはセンサーにとって、次の犠牲者を見つけるのに最適な場所でしょう。//(7.195,10.33108)\\\\皮肉なことに、あなたも同じことをすべきでしょうけど。"
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25019_kashmiriantargetingshah.sweetdialog?/ds25019_kashmiriantargetingshah_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25019_kashmiriantargetingshah_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25019_kashmiriantargetingshah_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25019_kashmiriantargetingshah_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.629029)\\\\So, the Kashmirian is scoping out a bridge in an area//(3.629029,7.31924)\\\\primarily used as a laundry business.//(7.31924,10.30973)\\\\Interesting. It recently changed ownership//(10.30973,12.57891)\\\\and now belongs to Vanya Shah.//(12.57891,14.17369)\\\\It looks like he's found a new target//(14.17369,17.70467)\\\\and is waiting for her to get on the bridge.//(17.70467,22.64946)\\\\Perhaps your mentoring days aren't entirely over yet?",
+			"fr": "//(0,2.908589)\\\\Le Cachemiri observe une passerelle située//(2.908589,7.208)\\\\dans un immense lavoir.//(7.208,8.558)\\\\Intéressant...//(8.558,10.21659)\\\\L'endroit a récemment changé de propriétaire//(10.21659,12.317)\\\\et appartient maintenant à Vanya Shah.//(12.317,14.56179)\\\\On dirait bien qu'elle est sa nouvelle cible//(14.56179,17.52169)\\\\et qu'il attend qu'elle emprunte la passerelle.//(17.52169,20.4)\\\\Vous avez peut-être un nouvel élève sous votre coupe ?",
+			"it": "//(0,3.004041)\\\\Il Kashmiro sta esaminando un ponte in una zona//(3.004041,7.843)\\\\usata principalmente come lavanderia.//(7.843,10.67159)\\\\Uhm, interessante. Il negozio ha cambiato//(10.67159,13.01637)\\\\gestione di recente: ora appartiene a Vanya Shah.//(13.01637,14.31637)\\\\Sembra che il Kashmiro abbia trovato un nuovo//(14.31637,17.87501)\\\\obiettivo e stia aspettando che salga sul ponte.//(17.87501,18.94527)\\\\Forse i tuoi giorni di tutoraggio potrebbero non//(18.94527,20.4)\\\\essere ancora finiti.",
+			"de": "//(0,3.932883)\\\\So. Der Kaschmiri erkundet eine Brücke in einem Viertel,//(3.932883,7.20957)\\\\in dem hauptsächlich eine Wäscherei ansässig ist.//(7.20957,8.744297)\\\\Hm, interessant.//(8.744297,10.03479)\\\\Sie wurde vor Kurzem verkauft//(10.03479,12.22528)\\\\und gehört jetzt Vanya Shah.//(12.22528,14.10196)\\\\Scheinbar hat er ein neues Ziel gefunden//(14.10196,17.51675)\\\\und wartet jetzt, bis sie die Brücke betritt.//(17.51675,19.12534)\\\\Vielleicht sind Ihre Tage als Mentor//(19.12534,23.21583)\\\\ja doch noch nicht gezählt?",
+			"es": "//(0,2.5)\\\\El Cachemir tiene puesta la mira//(2.5,6.5)\\\\en un puente de la zona de las lavanderías.//(6.5,8.2)\\\\Mmm, interesante.//(8.2,10.4)\\\\Por lo visto, cambió de dueños hace poco//(10.4,12.3)\\\\y ahora pertenece a Vanya Shah.//(12.3,14.5)\\\\Parece que ha encontrado un nuevo objetivo//(14.5,17.3)\\\\y está esperando a que cruce el puente.//(17.3,22.91718)\\\\Yo diría que vas a tener que retomar tu trabajo de mentor.",
+			"ru": "//(0,3.21293)\\\\Кашмирец изучает мост в районе,//(3.21293,6.832128)\\\\где по большей части находятся прачечные.//(6.832128,8.332128)\\\\Хм, интересно.//(8.332128,10.50343)\\\\У этой прачечной недавно сменился владелец,//(10.50343,12.7759)\\\\теперь она принадлежит Ванье Шах.//(12.7759,17.42688)\\\\Похоже, киллер нашел следующую жертву и поджидает ее на мосту.//(17.42688,21.25547)\\\\Может, тебе еще не поздно взять кого-нибудь в ученики?",
+			"cn": "//(0,7.3)\\\\所以，克什米尔人正在打量一座桥，那座桥所在的区域主要都是洗衣店。//(7.3,12.3)\\\\嗯，很有意思。那片区域最近刚刚易主，它的新主人正是瓦妮娅·沙。//(12.3,17.4)\\\\看起来，他找到了新的目标，正在等着她上桥。//(17.4,20.4)\\\\或许你的导师生涯并没有完全结束，是吧？",
+			"tc": "//(0,7.3)\\\\所以，喀什米爾人正在打量一座橋，那座橋所在的區域主要都是洗衣店。//(7.3,12.3)\\\\嗯，有意思。那片區域最近剛剛易主，它的新主人正是瓦妮婭．沙。//(12.3,17.4)\\\\看起來，他找到新的目標，正在等著她上橋。//(17.4,20.4)\\\\或許你的導師生涯並沒有結束，是吧？",
+			"jp": "//(0,6.39)\\\\カシミリアンは主にランドリービジネスで使われている場所の橋を調べているわね。//(6.39,12.295)\\\\興味深いわ。つい最近、ここの所有者がヴァーニャ・シャーに変わったのよ。//(12.295,17.23)\\\\おそらく彼は新たなターゲットを見つけて、彼女が橋に来るのを待っているのだわ。//(17.23,20.4)\\\\指導者の役はまだ辞められそうにないわね？"
+		}
+	}
+}

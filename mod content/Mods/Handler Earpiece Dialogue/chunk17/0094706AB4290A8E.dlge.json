@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25026_footlooseconclusion.sweetdialog?/ds25026_footlooseconclusion_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25026_footlooseconclusion_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25026_footlooseconclusion_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25026_footlooseconclusion_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.066497)\\\\Excellent, 47.//(1.066497,3.775435)\\\\It looks like Rangan wants a private word.//(3.775435,5.905437)\\\\I suggest you humor the man.",
+			"fr": "//(0,1.102935)\\\\Excellent, 47.//(1.102935,4.203786)\\\\On dirait que Rangan veut vous dire un mot.//(4.203786,5.905437)\\\\Jouez le jeu, surtout.",
+			"it": "//(0,1.121468)\\\\Benissimo, 47.//(1.121468,4)\\\\Sembra che Rangan voglia fare due chiacchiere in privato.//(4,5.934351)\\\\Perché non lo accontenti?",
+			"de": "//(0,2.460491)\\\\Ausgezeichnet, 47. Scheinbar möchte Rangan//(2.460491,4.100982)\\\\sich persönlich mit Ihnen unterhalten.//(4.100982,5.905437)\\\\Sie sollten ihm seinen Wunsch erfüllen.",
+			"es": "//(0,1.066497)\\\\Excelente, 47.//(1.066497,3.485967)\\\\Parece que Rangan quiere hablar en privado.//(3.485967,5.905437)\\\\Te sugiero que le sigas la corriente.",
+			"ru": "//(0,1.669104)\\\\Отлично, 47-й. Похоже,//(1.669104,4.453535)\\\\Ранжан хочет переговорить с глазу на глаз.//(4.453535,5.905437)\\\\Сделай ему одолжение.",
+			"cn": "//(0,30)\\\\非常好，47。朗甘似乎想要和你私下里谈谈。我建议你迁就一下他。",
+			"tc": "//(0,30)\\\\非常好，47。朗甘似乎想要和你私下談談。我建議你遷就一下他。",
+			"jp": "//(0,1.5)\\\\素晴らしいわ、47。//(1.5,3.985)\\\\どうやらランガンは二人だけで話をしたいみたい。//(3.985,5.905437)\\\\彼のご機嫌を取ってあげなさい。"
+		}
+	}
+}

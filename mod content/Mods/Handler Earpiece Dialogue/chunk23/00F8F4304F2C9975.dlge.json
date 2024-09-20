@@ -1,0 +1,49 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/12500_white_spider/12500_rabies/12500_handler/ds12563_hackathon.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds12563_hackathon_diana_ws_001",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12563_hackathon_diana_ws_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12563_hackathon_diana_ws_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\The Target is on a laptop, 47. Not sure why. Let me check his SQUID logs. Ah. I do hope... he has someone to clear his browser history.",
+					"fr": "//(0,30)\\\\La cible travaille sur ordinateur, 47. J'ignore pourquoi, laissez-moi regarder dans les entrées SQUID. Ah... J'espère que quelqu'un effacera son historique de navigation.",
+					"it": "//(0,30)\\\\Il bersaglio è online su un portatile, 47. Non so cosa stia facendo. Controllo il suo registro SQUID. Ah... Spero... che chieda a qualcuno di cancellare la sua cronologia.",
+					"de": "//(0,30)\\\\Die Zielperson hat einen Laptop, 47. Weiß nicht genau, warum. Ich rufe mal seine SQUID-Logs auf. Aha! Ich hoffe wirklich ... dass er jemanden hat, der seinen Browserverlauf löscht.",
+					"es": "//(0,30)\\\\El objetivo está con su portátil, 47. No sé por qué. Voy a mirar su registro de Squid... Ah, ya. Espero que alguien le borre el historial después.",
+					"ru": "//(0,30)\\\\Цель сидит за ноутбуком, 47-й. Не знаю, чем он занят. Сейчас проверю его журналы в SQUID. О. Я очень надеюсь, что кто-то сможет очистить историю браузера за него.",
+					"cn": "//(0,10)\\\\目标在使用笔记本电脑，47。尚不确定原因。我来查一下他的SQUID日志。啊。//(10,14.25153)\\\\我真希望...有人去清理一下他的浏览器历史。",
+					"tc": "//(0,10)\\\\目標在使用筆記型電腦，47。尚不確定原因。我來查一下他的SQUID日誌。啊。//(10,40)\\\\我真希望......有人去清理一下他的流覽器歷史。",
+					"jp": "//(0,30)\\\\ターゲットは ノートPCを 使って いるわ、 47。 彼の アクセスログを 調べて みる。 ... あー、 これは... 見なかったことに して おきましょう。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds12563_hackathon_diana_ws_002",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12563_hackathon_diana_ws_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12563_hackathon_diana_ws_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Someone on a laptop, 47. The Target is currently playing a game of \"Legendary Battle Lords\"... And not doing well.",
+					"fr": "//(0,30)\\\\Cherchez quelqu'un avec un ordinateur portable, 47. La cible joue en ce moment à \"Seigneurs légendaires\", et n'est pas en très bonne posture.",
+					"it": "//(0,30)\\\\Il bersaglio è online su un portatile, 47. Sta giocando a \"Legendary Battle Lords\"... E non se la cava troppo bene.",
+					"de": "//(0,30)\\\\Jemand mit einem Laptop, 47. Das Ziel spielt im Moment das Spiel \"Legendary Battle Lords\" ... und zwar nicht sehr gut.",
+					"es": "//(0,30)\\\\Alguien con un portátil, 47. Parece que el objetivo está jugando a un juego llamado \"Legendary Battle Lords\"... y no le va muy bien.",
+					"ru": "//(0,30)\\\\Кто-то с ноутбуком, 47-й. Сейчас цель играет в «Легендарных повелителей битв»... Получается не очень.",
+					"cn": "//(0,30)\\\\你要找的人正在使用笔记本电脑，47。目标正在玩一款叫《传奇战王》的游戏...而且玩的不怎么样。",
+					"tc": "//(0,30)\\\\你要找的人正在使用筆記型電腦，47。目標正在玩一款叫《傳奇戰王》的遊戲......而且玩的不怎麼樣。",
+					"jp": "//(0,30)\\\\ターゲットは ノートPCを 使って いる人よ、 47。 ゲームを プレイ中の ようだけど... 腕は いまひとつみたい。"
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_skunk/27000_handler/ds27034_intel_robe.sweetdialog?/ds27034_intel_robe_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds27034_intel_robe_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_skunk/27000_handler/ds27034_intel_robe_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_skunk/27000_handler/ds27034_intel_robe_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,4.667178)\\\\A ceremonial robe of some sort with a note from Janus attached?//(4.667178,7.892341)\\\\Hm, the note is interesting.//(7.892341,12.86127)\\\\Janus has asked Helen to do a few repairs on the robe before he leaves for his annual trip.//(12.86127,17.16127)\\\\He even put a date there. This is valuable information, 47.",
+			"fr": "//[DIANA]\\\\//(0,3.905871)\\\\Une sorte de robe de cérémonie avec une note de Janus ?//(3.905871,7.302414)\\\\Hmm, celle-ci est intéressante.//(7.302414,13.06438)\\\\Janus a demandé à Helen de faire quelques retouches sur la robe avant qu'il ne parte pour son voyage annuel.//(13.06438,14.72297)\\\\Il y a même une date.//(14.72297,20.33346)\\\\Voilà une bonne information, 47.",
+			"it": "//[DIANA]\\\\//(0,4.917178)\\\\Una specie di veste da cerimonia con attaccato un biglietto per Janus?//(4.917178,8)\\\\Mmh, interessante.//(8,10)\\\\Janus ha chiesto a Helen di fare qualche rammendo//(10,15)\\\\alla veste prima di partire per il suo viaggio annuale, e c'è anche una data.//(15,17.057)\\\\È un'informazione importante, 47.",
+			"de": "//[DIANA]\\\\//(0,2)\\\\Eine Art Zeremonienrobe,//(2,4.9)\\\\an der eine Notiz für Janus angebracht wurde?//(4.9,7.8)\\\\Hm, die Notiz ist interessant.//(7.8,10.5)\\\\Janus bittet Helen darum, die Robe zu flicken,//(10.5,12.9)\\\\bevor er auf seine jährliche Reise aufbricht.//(12.9,14.9)\\\\Er hat sogar ein Datum vermerkt.//(14.9,17.0945)\\\\Das sind wertvolle Informationen, 47.",
+			"es": "//[DIANA]\\\\//(0,5)\\\\¿Una especie de túnica ceremonial con una nota de Janus?//(5,8)\\\\Mmm, la nota es interesante.//(8,12.8)\\\\Janus le pide a Helen que le haga unos arreglillos antes de llevársela a su viaje anual.//(12.8,14.8)\\\\Hasta ha puesto una fecha.//(14.8,17.12934)\\\\Se trata de una información muy valiosa, 47.",
+			"ru": "//[DIANA]\\\\//(0,4.667)\\\\Церемониальная мантия с запиской от Януса?//(4.667,7.892)\\\\Хм, а записка-то интересная.//(7.892,10)\\\\Янус попросил Хелен заштопать мантию до того,//(10,12.17304)\\\\как он отправится в свою ежегодную поездку.//(12.17304,14.44363)\\\\И даже дату указал.//(14.44363,15.85302)\\\\Это ценные сведения,//(15.85302,17.00421)\\\\47-й.",
+			"cn": "//[DIANA]\\\\//(0,7.539)\\\\这件仪式长袍上还贴着杰纳斯写的字条？嗯，字条内容挺有意思的。//(7.539,12.901)\\\\杰纳斯要求海伦在他年度出行之前缝补好长袍。//(12.901,17.004)\\\\他甚至标明了日期。47，这份情报至关重要。",
+			"tc": "//[DIANA]\\\\//(0,4.868)\\\\這件儀式長袍上還貼著傑納斯寫的字條？//(4.868,7.936)\\\\嗯，字條內容挺有意思。//(7.936,14.904)\\\\傑納斯要求海倫在他年度外出前縫補好長袍。他甚至註明日期。//(14.904,17.00421)\\\\47，這份情報非常重要。",
+			"jp": "//[DIANA]\\\\//(0,4.395)\\\\ヤヌスのメモが添えられた何かの礼服？//(4.395,7.56)\\\\ふむ、そのメモは興味深いわね。//(7.56,12.777)\\\\ヤヌスはヘレンに毎年恒例の旅行に出発する前に礼服を修繕するように頼んだのね。//(12.777,14.675)\\\\彼はそこに日付まで書いてるわ。//(14.675,17.00421)\\\\これは貴重な情報よ、47。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/bulldog/41000_handler/ds41033_handlerallcluesfound.sweetdialog?/ds41033_handlerallcluesfound_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41033_handlerallcluesfound_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/bulldog/41000_handler/ds41033_handlerallcluesfound_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/bulldog/41000_handler/ds41033_handlerallcluesfound_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.7)\\\\I believe you’ve done a thorough search of the crime scene, 47.//(3.7,33.7)\\\\Maybe it’s time to see the butler. I’m curious about the information he’s prepared for you.",
+			"fr": "//(0,3.8)\\\\Je pense que vous avez bien balayé les lieux, 47.//(3.8,33.8)\\\\Vous devriez aller voir le majordome, je suis curieuse de savoir ce qu'il pourrait vous apprendre.",
+			"it": "//(0,3.86)\\\\Hai ispezionato a fondo la scena del delitto in cerca di indizi, 47.//(3.86,33.86)\\\\Forse è il momento di incontrare il maggiordomo. Chissà quali informazioni ti ha preparato.",
+			"de": "//(0,3.902883)\\\\Ich glaube, Sie haben den Tatort gründlich untersucht, 47.//(3.902883,6.34957)\\\\Vielleicht wird es Zeit, den Butler aufzusuchen.//(6.34957,36.34957)\\\\Ich frage mich, welche Informationen er für Sie parat hat.",
+			"es": "//(0,3.9)\\\\Has registrado bien a fondo la escena del crimen, 47.//(3.9,6.4)\\\\Quizás vaya siendo hora de ver al mayordomo.//(6.4,36.4)\\\\Tengo curiosidad por escuchar la información que tiene para ti.",
+			"ru": "//(0,1.9)\\\\Что ж, полагаю, ты тщательно//(1.9,4)\\\\осмотрел место преступления, 47-й.//(4,6.3)\\\\Не пора ли повидаться с дворецким?//(6.3,36.3)\\\\Интересно, что он расскажет.",
+			"cn": "//(0,6.5)\\\\你已经彻底搜查了命案现场，47。现在应该去见见管家了。//(6.5,36.5)\\\\不知道他会提供什么样的情报，我有点好奇。",
+			"tc": "//(0,3.8)\\\\我看你已經非常仔細地搜索了犯案現場，47。//(3.8,33.8)\\\\或許你應該去見見管家。我很好奇他給你準備了什麼樣的資訊。",
+			"jp": "//(0,3.875)\\\\事件現場の調査は十分できたようね、47。//(3.875,33.875)\\\\そろそろ執事に会いに行きましょう。彼が用意してくれた情報が気になるわ。"
+		}
+	}
+}

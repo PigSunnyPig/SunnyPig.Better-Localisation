@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/rat/43000_handler/ds43015_targetsdownbothatoncecore.sweetdialog?/ds43015_targetsdownbothatoncecore_oliviahall_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds43015_targetsdownbothatoncecore_oliviahall_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/rat/43000_handler/ds43015_targetsdownbothatoncecore_oliviahall_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/rat/43000_handler/ds43015_targetsdownbothatoncecore_oliviahall_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.1)\\\\Both targets in one go. You are good.//(3.1,7.7)\\\\My turn. Just give me a second... and I'm in.//(7.7,37.7)\\\\You can now access the core, 47.",
+			"fr": "//(0,4.5)\\\\Les deux cibles d'un coup ? Vous êtes doué. À mon tour.//(4.5,34.5)\\\\Un instant, et... c'est bon. Vous pouvez accéder au cœur, 47.",
+			"it": "//(0,3.3)\\\\Entrambi i bersagli in un colpo solo. Sei proprio in gamba.//(3.3,8.05)\\\\Ora tocca e me. Dammi solo un secondo... e ci sono.//(8.05,38.05)\\\\Ora puoi accedere al sistema centrale, 47.",
+			"de": "//(0,3.144785)\\\\Beide Ziele auf einen Streich. Sie sind gut.//(3.144785,7.961963)\\\\Ich bin dran. Geben Sie mir einen Augenblick ... und ich bin drin.//(7.961963,37.96196)\\\\Sie kommen jetzt an den Kern heran, 47.",
+			"es": "//(0,2.8)\\\\Los dos objetivos de una tacada. Eres bueno.//(3.3,6.2)\\\\Ahora me toca a mí, dame un segundo...//(6.2,36.2)\\\\Estoy dentro. Ya puedes acceder al núcleo, 47.",
+			"ru": "//(0,3.576687)\\\\Обе цели одним ударом. А ты хорош.//(3.576687,6.04908)\\\\Теперь мой ход. Секундочку...//(6.04908,36.04908)\\\\Всё, я в сети. Можешь разбираться с ядром, 47-й.",
+			"cn": "//(0,4.4)\\\\一箭双雕。你的任务完成了。轮到我了。//(4.4,34.4)\\\\给我一点时间......登录成功。现在你可以访问核心了，47。",
+			"tc": "//(0,3.2)\\\\一舉擊倒兩個目標。你真厲害。//(3.2,6.2)\\\\換我了，等我一下下......//(6.2,36.2)\\\\我進去了。現在你能存取核心了，47。",
+			"jp": "//(0,2.5)\\\\両ターゲットを一度に... すごい。//(3.3,33.3)\\\\次は私の番ね。ちょっと待って... 入れた。コアにアクセスできるわよ、47。"
+		}
+	}
+}

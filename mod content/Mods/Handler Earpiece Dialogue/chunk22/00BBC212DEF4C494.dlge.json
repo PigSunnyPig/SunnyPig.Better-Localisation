@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_snowcrane/2000_handler/ds2010_oppthrillseekerbriefing.sweetdialog?/ds2010_oppthrillseekerbriefing_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds2010_oppthrillseekerbriefing_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_snowcrane/2000_handler/ds2010_oppthrillseekerbriefing_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_snowcrane/2000_handler/ds2010_oppthrillseekerbriefing_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.25)\\\\Gama has banned the serving of fugu following an incident//(3.25,7.15)\\\\where a guest was poisoned by a poorly carved piece of the poisonous fish.//(7.15,15.5)\\\\It appears, however, that Yuki Yamazaki is trying to sway the chef to slice up his final specimen and serve it to her.//(15.5,45.5)\\\\Who are we to deny her such pleasure, 47?",
+			"fr": "//(0,7.6)\\\\Gama interdit le fugu en cuisine, suite à une intoxication due à une portion mal préparée de ce poison empoisonné.//(7.6,15.8)\\\\Cependant, Yuki Yamazaki tente de convaincre le chef de découper son tout dernier spécimen et de le lui servir.//(15.95,45.95)\\\\Qui sommes-nous pour lui refuser un tel plaisir, 47 ?",
+			"it": "//(0,2.181)\\\\La clinica Gama ha rimosso il pesce palla dal menu//(2.181,7.498)\\\\a seguito di un avvelenamento causato da un taglio errato del pesce.//(7.498,15.858)\\\\Tuttavia, sembra che Yuki Yamazaki voglia convincere lo chef a prepararle e servirle l'ultima porzione rimasta.//(15.858,45.858)\\\\Possiamo forse negarle questo piacere, 47?",
+			"de": "//(0,2.4)\\\\Gama hat Fugu verboten,//(2.4,7.4)\\\\nachdem ein Gast durch eine schlecht zubereitete Portion des Fisches vergiftet wurde.//(7.4,12)\\\\Yuki Yamazaki will aber offenbar den Koch überreden,//(12,16.05)\\\\sein letztes Exemplar aufzuschneiden und ihr zu servieren.//(16.05,46.05)\\\\Wie könnten wir ihr dieses Vergnügen versagen, 47?",
+			"es": "//(0,3.29908)\\\\Gama no permite que se sirva pez globo tras un incidente//(3.29908,7.594)\\\\en el que un trozo mal cortado del pescado envenenó a un paciente.//(7.594,11.85)\\\\Sin embargo, parece que Yuki Yamazaki está intentando convencer al chef//(11.85,15.85)\\\\de que corte el último espécimen que le queda y se lo sirva.//(15.85,45.85)\\\\¿Quiénes somos nosotros para negarle ese placer, 47?",
+			"ru": "//(0,4.537178)\\\\Не так давно из-за ошибки повара один из пациентов отравился ядовитой рыбой,//(4.537178,7.85)\\\\и с тех пор фугу здесь под строжайшим запретом.//(7.85,11.90294)\\\\Но, судя по всему, Юки Ямадзаки пытается уговорить шеф-повара//(11.90294,16)\\\\подать ей последнюю рыбу из его запасов.//(16,46)\\\\Разве мы вправе отказывать ей в таком удовольствии, 47-й?",
+			"cn": "//(0,3.818098)\\\\伽马在一名客人因为吃下没有好好处理过的剧毒鱼肉//(3.818098,7.568098)\\\\中毒之后就禁止给客人们上河豚了。//(7.568098,12.0681)\\\\但是似乎山崎友希正在设法说服厨师//(12.0681,15.9681)\\\\将他的最后一条河豚做给她吃。//(15.9681,45.9681)\\\\我们怎么能拒绝她享乐的渴求呢，47？",
+			"tc": "//(0,7.5)\\\\伽馬在一名客人因為吃下沒有好好處理過的劇毒魚肉中毒之後就禁止給客人們準備河豚了。//(7.5,16)\\\\但是似乎山崎有希正在設法說服廚師將他的最後一條河豚做給她吃。//(16,46)\\\\我們怎麼能拒絕她這種要求呢，47？",
+			"jp": "//(0,7.277289)\\\\ガマ病院では 現在、 フグ料理の 提供が 停止されて いるわ。 無免許の 調理師が 提供したフグの//(7.277289,14.55458)\\\\刺身で、 中毒者が 出たためよ。 ユキ・ ヤマザキは、 まだ廃棄されて いない最後の 一尾を 板長に//(14.55458,19.40611)\\\\さばかせたいようね。 ここは ぜひ、 ご要望に 応えて あげましょう。"
+		}
+	}
+}

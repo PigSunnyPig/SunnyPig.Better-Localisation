@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/tutorial/9000_handler/ds9116_oppend_suspenders.sweetdialog?/ds9116_oppend_suspenders_young_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds9116_oppend_suspenders_young_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/tutorial/9000_handler/ds9116_oppend_suspenders_young_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/tutorial/9000_handler/ds9116_oppend_suspenders_young_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.724294)\\\\Well done, Initiate.//(1.724294,31.72429)\\\\I dare say this is an accident waiting to happen.",
+			"fr": "//(0,30)\\\\Bien joué, initié. J'irai jusqu'à dire qu'un accident sera bientôt à déplorer...",
+			"it": "//(0,30)\\\\Ben fatto, recluta. Oserei dire che l'incidente sarà inevitabile.",
+			"de": "//(0,1.624294)\\\\Gute Arbeit, Rekrut.//(1.624294,31.62429)\\\\Das Ganze schreit ja förmlich nach einem Unfall.",
+			"es": "//(0,30)\\\\Bien hecho, iniciado. Me atrevería a decir que este accidente está cantado.",
+			"ru": "//(0,30)\\\\Молодец. Несчастный случай неизбежен.",
+			"cn": "//(0,1.7)\\\\干得好，新人。//(1.7,31.7)\\\\我敢说，发生事故是必然的。",
+			"tc": "//(0,30)\\\\幹得好，新人。我敢說，發生事故是必然的。",
+			"jp": "//(0,30)\\\\お見事よ。あとは何が起きるか待ちましょう。"
+		}
+	}
+}

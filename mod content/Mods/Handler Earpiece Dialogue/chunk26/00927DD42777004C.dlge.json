@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/italy/7000_mamba/7000_handler/ds7009_earpiececonclusion.sweetdialog?/ds7009_earpiececonclusion_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds7009_earpiececonclusion_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/7000_mamba/7000_handler/ds7009_earpiececonclusion_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/7000_mamba/7000_handler/ds7009_earpiececonclusion_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Nicely done, 47. Abiatti is on the move and we know exactly where he is going.",
+			"fr": "//(0,30)\\\\Finement joué, 47. Abiatti est en chemin, et nous savons exactement où il se rend.",
+			"it": "//(0,30)\\\\Ottimo, 47. Abiatti si sta muovendo e sappiamo esattamente dove è diretto.",
+			"de": "//(0,30)\\\\Gute Arbeit, 47. Abiatti ist unterwegs und wir wissen genau, wohin er will.",
+			"es": "//(0,30)\\\\Bien hecho, 47. Abiatti se ha puesto en marcha y sabemos exactamente adónde se dirige.",
+			"ru": "//(0,1.724294)\\\\Очень хорошо, 47-й.//(1.724294,31.72429)\\\\Абиатти отправился в путь, и мы точно знаем, куда он идет.",
+			"cn": "//(0,30)\\\\干得漂亮，47。阿布亚蒂正在移动，而我们知道他要去哪里。",
+			"tc": "//(0,30)\\\\幹得漂亮，47。艾比亞迪正在移動，而我們知道他要去哪裡。",
+			"jp": "//(0,30)\\\\さすがね、47。アビアッティが、どこへ向かうかはもう把握できてるわ。"
+		}
+	}
+}

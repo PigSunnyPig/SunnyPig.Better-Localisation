@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/tutorial/9000_handler/ds9219_firsttrespassing.sweetdialog?/ds9219_firsttrespassing_young_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds9219_firsttrespassing_young_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/tutorial/9000_handler/ds9219_firsttrespassing_young_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/tutorial/9000_handler/ds9219_firsttrespassing_young_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Good thinking. However, you have now entered a trespassing zone. So proceed with caution.",
+			"fr": "//(0,1.454294)\\\\Bien vu... mais//(1.754294,4.230982)\\\\vous venez d'entrer dans une zone interdite.//(4.230982,6.285276)\\\\Soyez très prudent.",
+			"it": "//(0,30)\\\\Buona idea, ma sei appena entrato in un'area ad accesso limitato. Procedi con cautela.",
+			"de": "//(0,30)\\\\Gute Idee. Allerdings haben Sie eine verbotene Zone betreten. Seien Sie also vorsichtig.",
+			"es": "//(0,1.236196)\\\\Bien pensado.//(1.236196,31.2362)\\\\Pero ten en cuenta que te has colado en una zona ilegal, así que ve con cuidado.",
+			"ru": "//(0,1.236196)\\\\Хорошая идея.//(1.236196,4.312883)\\\\Однако теперь ты находишься на запрещенном участке.//(4.312883,34.31288)\\\\Действуй осторожно.",
+			"cn": "//(0,4.268098)\\\\好想法。然而你现在处于非法入侵状态。//(4.268098,34.2681)\\\\因此要谨慎行事。",
+			"tc": "//(0,30)\\\\這個主意好。然而你現在處於擅闖狀態。因此要謹慎行事。",
+			"jp": "//(0,30)\\\\考えたわね。でも、ここからは立入禁止区域よ。十分注意して。"
+		}
+	}
+}

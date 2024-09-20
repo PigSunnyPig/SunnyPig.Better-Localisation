@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/marrakech/6000_coup/6000_handler/ds6026_tunnel2briefing.sweetdialog?/ds6026_tunnel2briefing_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds6026_tunnel2briefing_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/6000_coup/6000_handler/ds6026_tunnel2briefing_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/6000_coup/6000_handler/ds6026_tunnel2briefing_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.06908)\\\\So. In case of an emergency, Strandberg and Zaydan will meet//(4.06908,6.900061)\\\\face to face at the center of the underground tunnel.//(6.900061,11.04598)\\\\The conspirators can summon each other over the phone, using a set of keywords.//(11.04598,14.34049)\\\\One of which is locked away in Reza Zaydan’s safe.//(14.34049,44.34049)\\\\Hm, what if...?",
+			"fr": "//(0,7)\\\\En cas d'urgence, Strandberg et Zaydan se parleront face à face au milieu du tunnel.//(7,11.1)\\\\Un conspirateur peut faire venir l'autre par téléphone en utilisant une série de mots-clefs,//(11.1,14.45)\\\\dont un est caché dans le coffre de Reza Zaydan.//(14.45,44.45)\\\\Hmm. Et si... ?",
+			"it": "//(0,4.020982)\\\\Quindi; in caso di emergenza, Strandberg e Zaydan si incontreranno//(4.020982,6.926)\\\\faccia a faccia al centro del tunnel sotterraneo.//(6.926,9.34079)\\\\I cospiratori possono convocarsi a vicenda tramite telefono,//(9.34079,10.91937)\\\\usando una serie di parole chiave;//(10.91937,14.15465)\\\\una delle quali è stata messa al sicuro nella cassaforte di Reza Zaydan.//(14.15465,44.15465)\\\\Mmm. E se...",
+			"de": "//(0,6.509571)\\\\In einem Notfall, werden sich Strandberg und Zaydan genau in der Mitte des unterirdischen Tunnels treffen.//(6.509571,13.39914)\\\\Die Verschwörer können einander übers Telefon mittels Codewort herbeirufen. Eines davon ist in Reza Zaydans Safe.//(13.39914,43.39914)\\\\Hmm, vielleicht ...",
+			"es": "//(0,3.432883)\\\\En caso de emergencia, Strandberg y Zaydan se encontrarán//(3.432883,6.878)\\\\cara a cara en el centro del túnel subterráneo.//(6.878,9.38)\\\\Los conspiradores pueden comunicarse a través de llamadas telefónicas,//(9.38,10.83)\\\\usando un conjunto de palabras clave...//(10.83,13.949)\\\\Y una de ellas se halla en la caja fuerte de Reza Zaydan.//(13.949,43.949)\\\\Mmm. Y si...",
+			"ru": "//(0,3.5)\\\\Итак, при критической ситуации, Стрендберг и Зейдан//(3.5,6.944785)\\\\встретятся лицом к лицу в центре подземного тоннеля.//(6.944785,9.65)\\\\Заговорщики могут переговариваться друг с другом по телефону,//(9.65,14.67865)\\\\используя набор паролей, один из которых находится в сейфе Резы Зейдана.//(14.67865,44.67865)\\\\Хм-м. А что, если...",
+			"cn": "//(0,7.018098)\\\\听着。斯特兰博格和泽丹会在地下通道的中央会面，//(7.018098,11.0181)\\\\以防万一。这些共犯使用电话联系时会利用一组暗号。//(11.0181,14.5681)\\\\其中一个暗号就锁在雷扎·泽丹的保险箱里。//(14.5681,44.5681)\\\\如果这样的话......？",
+			"tc": "//(0,6.9)\\\\看來，史川伯格和扎伊丹會在地下通道的中央會面，以防萬一。//(6.9,11)\\\\這些共犯使用電話聯繫時會利用一組暗號。//(11,41)\\\\其中一個暗號就鎖在禮薩．扎伊丹的保險箱裡。如果這樣的話......？",
+			"jp": "//(0,4.911931)\\\\緊急事態が 起きたら、 ストランドバーグと ゼイダンは、 地下トンネルの 中間地点で 合流する。//(4.911931,12.63068)\\\\電話で 合い言葉を 伝えて、 お互いを 呼び出すことに して いるの。 合い言葉の 1つが、 レーザ・ ゼイダンの//(12.63068,16.39065)\\\\金庫に あるわ。 それを 利用すれば..."
+		}
+	}
+}

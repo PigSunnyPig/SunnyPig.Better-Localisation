@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_cross/4000_handler/ds4013_exterminatorbriefing.sweetdialog?/ds4013_exterminatorbriefing_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds4013_exterminatorbriefing_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_cross/4000_handler/ds4013_exterminatorbriefing_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_cross/4000_handler/ds4013_exterminatorbriefing_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.887178)\\\\According to the schedule, the exterminator plans to inspect the Emperor's Suite.//(4.887178,8.624355)\\\\On his request, the hotel manager will clear out the recording studio//(8.624355,12.39153)\\\\and bring everyone into the atrium for the duration of the inspection.//(12.39153,15.98822)\\\\I suggest you locate the exterminator, 47.//(15.98822,45.98822)\\\\He appears to be fumigating on the ground floor.",
+			"fr": "//(0,4.4)\\\\D'après le planning, un exterminateur doit inspecter la Suite Impériale.//(4.4,12)\\\\À sa demande, la directrice de l'hôtel va réunir tout le monde dans l'atrium pour la durée de l'inspection.//(12,15.5)\\\\Je vous suggère de localiser l'exterminateur, 47.//(15.5,45.5)\\\\Il me semble qu'il est en train de fumiger le rez-de-chaussée.",
+			"it": "//(0,4.755276)\\\\Secondo i piani, il disinfestatore ha in programma di ispezionare la suite imperiale.//(4.755276,8.660552)\\\\Non appena lo richiederà, la direttrice dell'albergo farà sgomberare lo studio di registrazione//(8.660552,12.10534)\\\\e porterà tutti nell'atrio fino al termine dell'ispezione.//(12.10534,42.10534)\\\\Ti consiglio di trovare il disinfestatore, 47. Sembra stia lavorando al piano terra.",
+			"de": "//(0,4.45)\\\\Der Kammerjäger wird die Kaisersuite wie geplant inspizieren.//(4.45,8.032883)\\\\Er hat die Hotelmanagerin gebeten, das Aufnahmestudio zu räumen//(8.032883,12.51816)\\\\und alle für die Dauer der Inspektion in das Atrium bringen zu lassen.//(12.51816,16)\\\\Ich schlage vor, Sie suchen diesen Kammerjäger, 47.//(16,46)\\\\Im Augenblick desinfiziert er das Erdgeschoss.",
+			"es": "//(0,4.66908)\\\\Según la planificación, el exterminador va a inspeccionar la Suite Emperador.//(4.66908,8.5)\\\\A petición suya, la gerente del hotel desalojará el estudio de grabación y//(8.5,12.68098)\\\\hará que todos vayan al patio interior durante la inspección.//(12.68098,42.68098)\\\\Te sugiero que encuentres al exterminador, 47. Parece que está fumigando en la planta baja.",
+			"ru": "//(0,4.85)\\\\Судя по расписанию, дезинсектор собирается осмотреть королевский люкс.//(4.85,12.1)\\\\По его требованию менеджер на время осмотра выведет всех из студии звукозаписи в атриум.//(12.1,15.73)\\\\Советую проследить за дезинсектором, 47-й.//(15.73,45.73)\\\\Сейчас он обрабатывает помещения на первом этаже.",
+			"cn": "//(0,4.718098)\\\\计划安排显示，灭虫专家要对帝王套房进行检查。//(4.718098,6.418098)\\\\根据灭虫专家的要求，在检查过程中，//(6.418098,12.3181)\\\\酒店经理会把所有人从录音棚里带到中庭。//(12.3181,42.3181)\\\\我建议你找到那位灭虫专家，他似乎正在一层杀灭害虫。",
+			"tc": "//(0,4.6)\\\\計畫安排顯示，除蟲專家要對帝王套房進行檢查。//(4.6,12.3)\\\\根據除蟲專家的要求，在檢查過程中，旅館經理會把所有人從錄音棚裡帶到中庭。//(12.3,42.3)\\\\我建議你找到那名除蟲專家，47。他似乎正在一樓進行熏蒸。",
+			"jp": "//(0,7.31985)\\\\エンペラースイートは、 害虫駆除業者が 調査に 入る予定に なって いるわ。 その間、 録音スタジオに//(7.31985,13.72472)\\\\いる人間は 全員アトリウムに 退避させられるそうよ。 その害虫駆除業者を 探して みては どうかしら。//(13.72472,18.29963)\\\\ちょうど今、 1階の 燻蒸消毒を 行って いるわ。"
+		}
+	}
+}

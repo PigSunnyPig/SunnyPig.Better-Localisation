@@ -1,0 +1,49 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "00596F1A053FC9A6",
+	"DITL": "005CC166F7715F6D",
+	"CLNG": "00063B34B5153AEE",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds20007_sp_cakemaisonchef_diana_001",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20007_sp_cakemaisonchef_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20007_sp_cakemaisonchef_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\47, Maison has gone to the kitchen to yell at the chef. This might be a good opportunity.",
+					"fr": "//(0,30)\\\\47, Maison est parti en cuisine pour passer un savon au chef. C'est peut-être l'occasion d'agir.",
+					"it": "//(0,30)\\\\47, Maison è andato in cucina a sbraitare allo chef. Potrebbe essere una buona occasione.",
+					"de": "//(0,30)\\\\47, Maison ist auf dem Weg zur Küche, um den Chefkoch anzuschreien. Das könnte eine gute Gelegenheit sein.",
+					"es": "//(0,30)\\\\47, Maison ha ido a la cocina a pegarle un par de gritos al chef. Podría ser una buena oportunidad.",
+					"ru": "//(0,30)\\\\47-й, Мезон отправился на кухню устроить повару выволочку. Это подходящий момент.",
+					"cn": "//(0,30)\\\\47，米森到厨房吼厨师去了。这也许是个好机会。",
+					"tc": "//(0,30)\\\\47，梅森去了廚房來責罵廚師。這可能是個好機會。",
+					"jp": "//(0,30)\\\\メゾンがシェフに怒鳴りにキッチンに行ったわよ。これはいい機会かもしれない。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds20007_sp_cakemaisonchef_diana_002",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20007_sp_cakemaisonchef_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20007_sp_cakemaisonchef_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Maison is in the kitchen, 47. He's yelling at the chef. This might be an opportunity.",
+					"fr": "//(0,30)\\\\Maison est dans la cuisine, 47. Il est en train d'incendier le chef. Vous pourriez en profiter pour agir.",
+					"it": "//(0,30)\\\\Maison è in cucina, 47. Sta sgridando lo chef. Potrebbe essere la tua occasione.",
+					"de": "//(0,30)\\\\Maison ist in der Küche, 47. Er schreit gerade den Chefkoch an. Das könnte eine Gelegenheit sein.",
+					"es": "//(0,30)\\\\Maison está en la cocina, 47. Está reprendiendo al chef. Podría ser tu oportunidad.",
+					"ru": "//(0,30)\\\\Мезон на кухне, 47-й. Орет на повара. Подходящий момент.",
+					"cn": "//(0,30)\\\\47，米森就在厨房里。他正在吼厨师呢。这也许是你下手的机会。",
+					"tc": "//(0,30)\\\\梅森正在廚房，47。他正在對著廚師大喊。這可能是個機會。",
+					"jp": "//(0,30)\\\\メゾンがキッチンにいるわ。シェフを怒鳴りつけてる。これはチャンスよ。"
+				}
+			}
+		]
+	}
+}

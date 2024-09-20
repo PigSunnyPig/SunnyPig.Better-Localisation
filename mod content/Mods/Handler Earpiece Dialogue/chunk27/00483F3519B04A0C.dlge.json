@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_kirroyal/3000_kirroyal_handler/dr3654_diana.sweetdialog?/dr3654_diana_diana_et_004.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr3654_diana_diana_et_004",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_kirroyal/3000_kirroyal_handler/dr3654_diana_diana_et_004.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_kirroyal/3000_kirroyal_handler/dr3654_diana_diana_et_004.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA_ET]\\\\//(0,30)\\\\The target has arrived, 47.",
+			"fr": "//[DIANA_ET]\\\\//(0,30)\\\\La cible est arrivée, 47.",
+			"it": "//[DIANA_ET]\\\\//(0,30)\\\\Il bersaglio è arrivato, 47.",
+			"de": "//[DIANA_ET]\\\\//(0,30)\\\\Ihr Ziel ist angekommen, 47.",
+			"es": "//[DIANA_ET]\\\\//(0,30)\\\\El objetivo ha llegado, 47.",
+			"ru": "//[DIANA_ET]\\\\//(0,30)\\\\Цель на месте, 47-й.",
+			"cn": "//[DIANA_ET]\\\\",
+			"tc": "//[DIANA_ET]\\\\//(0,30)\\\\目標已到達，47。",
+			"jp": "//[DIANA_ET]\\\\//(0,30)\\\\ターゲットが到着したわ。"
+		}
+	}
+}

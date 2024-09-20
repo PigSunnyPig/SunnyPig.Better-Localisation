@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_snowcrane/2000_handler/ds2017_oppmalpracticeconclusion.sweetdialog?/ds2017_oppmalpracticeconclusion_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds2017_oppmalpracticeconclusion_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_snowcrane/2000_handler/ds2017_oppmalpracticeconclusion_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_snowcrane/2000_handler/ds2017_oppmalpracticeconclusion_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Well done, 47. This should provide you with the means to get close to Soders.",
+			"fr": "//(0,1.5)\\\\Bien joué, 47.//(1.5,31.5)\\\\Cela devrait vous permettre d'approcher Soders.",
+			"it": "//(0,30)\\\\Molto bene, 47. Questo dovrebbe darti modo di avvicinarti a Soders.",
+			"de": "//(0,1.65)\\\\Gut gemacht, 47.//(1.65,31.65)\\\\Damit sollten Sie näher an Soders herankommen.",
+			"es": "//(0,30)\\\\Bien hecho, 47. Esto debería permitirte acercarte a Soders.",
+			"ru": "//(0,30)\\\\Прекрасно, 47-й. Это поможет тебе подобраться к Содерсу.",
+			"cn": "//(0,30)\\\\干得好，47。这应该能让你接近索德斯了。",
+			"tc": "//(0,30)\\\\幹得不錯，47。這應該能讓你接近索德斯了。",
+			"jp": "//(0,30)\\\\よくやったわ。これでソーダースに近づくことができるわね。"
+		}
+	}
+}

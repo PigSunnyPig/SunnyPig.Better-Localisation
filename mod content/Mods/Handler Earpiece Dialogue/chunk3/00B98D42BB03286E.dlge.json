@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/bulldog/41000_handler/ds41038_handlermurderintelreceived.sweetdialog?/ds41038_handlermurderintelreceived_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41038_handlermurderintelreceived_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/bulldog/41000_handler/ds41038_handlermurderintelreceived_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/bulldog/41000_handler/ds41038_handlermurderintelreceived_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.828589)\\\\This is very useful information, 47.//(2.828589,32.82859)\\\\A quick glance and I can see that you’ve already uncovered some relevant facts.",
+			"fr": "//(0,3.1)\\\\Ce sont des informations très utiles, 47.//(3.1,33.1)\\\\Je vois que vous avez déjà obtenu des renseignements cruciaux.",
+			"it": "//(0,3.13)\\\\Sono informazioni molto utili, 47.//(3.13,33.13)\\\\A una prima occhiata riesco a vedere che hai già fatto luce su alcuni fatti molto rilevanti.",
+			"de": "//(0,2.828589)\\\\Das sind sehr nützliche Informationen, 47.//(2.828589,32.82859)\\\\Ein kurzer Blick reicht und ich erkenne schon, dass Sie bereits viele wichtige Fakten aufgedeckt haben.",
+			"es": "//(0,3)\\\\Esta información es muy útil, 47.//(3,33)\\\\Le he echado un vistazo rápido y veo que ya has desvelado algunos hechos importantes.",
+			"ru": "//(0,2.460491)\\\\Это очень полезные сведения, 47-й.//(2.460491,32.46049)\\\\Кроме того, ты и сам уже выяснил кое-что крайне любопытное.",
+			"cn": "//(0,30)\\\\这一情报非常有用，47。粗略看一下就行，你可能已经发现了一些重要线索。",
+			"tc": "//(0,3)\\\\這是非常有用的資訊，47。//(3,33)\\\\光是瀏覽一下，我就看得出來你已經揭開了一些有用的事實。",
+			"jp": "//(0,3.168)\\\\これは非常に有益な情報よ、47。//(3.168,33.168)\\\\ざっと見ただけでも、関連性のある事実を発見していることがわかるわ。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_bull/8000_story/dr8106_shelterconclusion.sweetdialog?/dr8106_shelterconclusion_diana_003.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8106_shelterconclusion_diana_003",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_bull/8000_story/dr8106_shelterconclusion_diana_003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_bull/8000_story/dr8106_shelterconclusion_diana_003.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,2.25)\\\\He is no longer our primary concern.//(2.25,4.425)\\\\ICA has been compromised.//(4.425,7.7)\\\\I always wondered if Providence was real, but I never actually...//(7.7,12)\\\\I will need to confer with the Board, but mark my words, 47.//(12,42)\\\\This will have consequences.",
+			"fr": "//[DIANA]\\\\//(0,4.5)\\\\Ce n'est plus notre priorité. L'ICA a été compromise.//(4.5,7.85)\\\\Je me suis toujours demandé si Providence existait, mais je n'avais jamais...//(7.85,12.1)\\\\Je vais devoir m'entretenir avec le conseil d'administration. Mais croyez-moi, 47.//(12.1,42.1)\\\\Il y aura des conséquences.",
+			"it": "//[DIANA]\\\\//(0,2.54)\\\\Non è più una priorità.//(2.54,4.694)\\\\L'ICA è compromessa.//(4.694,8.4)\\\\Mi sono sempre chiesta se Providence esistesse davvero, ma non avrei mai pensato che...//(8.4,38.4)\\\\Devo consultarmi con il consiglio, ma ricorda le mie parole, 47: ci saranno delle conseguenze.",
+			"de": "//[DIANA]\\\\//(0,2.7)\\\\Er ist nicht mehr unser Hauptproblem.//(2.7,4.8)\\\\Die ICA wurde unterwandert.//(4.8,8.3)\\\\Ich habe mich immer gefragt, ob es Providence wirklich gibt, aber ich habe nie ...//(8.3,12)\\\\Ich muss mit dem Direktorium reden, aber eines garantiere ich Ihnen, 47.//(12,42)\\\\Die Sache wird Folgen haben.",
+			"es": "//[DIANA]\\\\//(0,2.708589)\\\\Ya no es nuestra principal preocupación.//(2.708589,4.84908)\\\\La Agencia está en peligro.//(4.84908,8.532)\\\\Siempre dudé de la existencia de Providence, pero nunca...//(8.532,12.321)\\\\Tengo que consultar a la junta, pero te lo aseguro, 47://(12.321,42.321)\\\\esto va a traer consecuencias.",
+			"ru": "//[DIANA]\\\\//(0,2.7)\\\\Он уже не является нашей главной проблемой.//(2.7,4.312883)\\\\МКА скомпрометировано.//(4.312883,8.6)\\\\Мне всегда было интересно, существует ли «Провиденс», но я никогда...//(8.6,38.6)\\\\Мне придется поговорить с советом директоров, но помяни мои слова, 47-й: будут последствия.",
+			"cn": "//[DIANA]\\\\//(0,4.781)\\\\他不再是第一目标了。ICA已被渗透。//(4.781,8.342)\\\\我曾考虑过神意秘会的真实性，但从未真的想过......//(8.342,38.342)\\\\我需要与上层进行商议，但记住我的话，47。我绝不会轻饶那个人。",
+			"tc": "//[DIANA]\\\\//(0,4.8)\\\\他已經不是我們的主要問題了。ICA情況危急，//(4.8,8.3)\\\\我一直在懷疑神意秘會是否真的存在，但我沒想到......//(8.3,38.3)\\\\我必需和董事會討論此事，但是我向你保證，47。他們會付出代價的。",
+			"jp": "//[DIANA]\\\\//(0,7.237901)\\\\後回しでいい。 ICAの 堅固な壁が 崩れたのよ。 まさか本当にプロヴィデンスが 実在するなんて...//(7.237901,14.12333)\\\\上層部と 話すわ。 けど忘れないで、 47。 我々も 黙っては いない。"
+		}
+	}
+}

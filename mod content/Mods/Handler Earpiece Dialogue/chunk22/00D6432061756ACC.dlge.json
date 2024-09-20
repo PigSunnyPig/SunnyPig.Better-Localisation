@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12754_klausliebliedid.sweetdialog?/ds12754_klausliebliedid_diana_ws_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds12754_klausliebliedid_diana_ws_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12754_klausliebliedid_diana_ws_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12754_klausliebliedid_diana_ws_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\That is Doctor Klaus Liebleid, 47. He cannot be allowed to leave the facility.",
+			"fr": "//(0,2.000395)\\\\Voilà le docteur Klaus Liebleid,//(2.000395,5.274292)\\\\47. Ne le laissez pas s'échapper.",
+			"it": "//(0,30)\\\\Quello è il dottor Klaus Liebleid, 47. Non deve assolutamente lasciare la struttura.",
+			"de": "//(0,30)\\\\Das ist Doktor Klaus Liebleid, 47. Er darf die Anlage nicht verlassen.",
+			"es": "//(0,30)\\\\Ese es el doctor Liebleid, 47. No permitas que abandone las instalaciones.",
+			"ru": "//(0,30)\\\\Это доктор Клаус Либляйд, 47-й. Нельзя допустить, чтобы он покинул комплекс.",
+			"cn": "//(0,30)\\\\47，那就是克劳斯·利布莱德博士。绝不能让他离开设施。",
+			"tc": "//(0,30)\\\\47，那就是克勞斯．利布萊德博士。絕不能讓他離開設施。",
+			"jp": "//(0,30)\\\\あれが クラウス・ リーブリード。 彼を 施設から 出しては いけない。"
+		}
+	}
+}

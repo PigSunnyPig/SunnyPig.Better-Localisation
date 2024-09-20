@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colombia/23000_hippo/23000_handler/ds23017_oppheartofstoneconclusion.sweetdialog?/ds23017_oppheartofstoneconclusion_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds23017_oppheartofstoneconclusion_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colombia/23000_hippo/23000_handler/ds23017_oppheartofstoneconclusion_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colombia/23000_hippo/23000_handler/ds23017_oppheartofstoneconclusion_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Nicely done, 47. Poetic justice, coming up.",
+			"fr": "//(0,30)\\\\Bien négocié, 47. Ah, la justice poétique...",
+			"it": "//(0,30)\\\\Ben fatto, 47. Una vera giustizia poetica.",
+			"de": "//(0,1.489875)\\\\Gut gemacht, 47.//(1.489875,3.830229)\\\\Das nennt man wohl ausgleichende Gerechtigkeit.",
+			"es": "//(0,30)\\\\Buen trabajo, 47. Justicia poética.",
+			"ru": "//(0,1.956196)\\\\Замечательно, 47-й.//(1.956196,3.83023)\\\\Долгожданное возмездие уже близко.",
+			"cn": "//(0,30)\\\\47，干得漂亮。富有诗意的正义即将到来。",
+			"tc": "//(0,30)\\\\47，幹得漂亮。富有詩意的正義即將伸張。",
+			"jp": "//(0,30)\\\\良い腕だわ、47。まさに因果応報よ。"
+		}
+	}
+}

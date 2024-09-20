@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/rocky/dugong/46000_handler/ds46020_oppantennareveal.sweetdialog?/ds46020_oppantennareveal_grey_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds46020_oppantennareveal_grey_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/rocky/dugong/46000_handler/ds46020_oppantennareveal_grey_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/rocky/dugong/46000_handler/ds46020_oppantennareveal_grey_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,6.452)\\\\Must have been difficult getting an antenna set up out here, though without it they'd be at a tremendous disadvantage.//(6.452,13.16294)\\\\Crest would probably come running if something happened to it.",
+			"fr": "//(0,6.4)\\\\Ils ont dû avoir bien du mal à installer une antenne ici, mais bon, sans elle, ils seraient fortement désavantagés.//(6.4,36.4)\\\\J'imagine que Crest viendrait immédiatement s'il venait à lui arriver quelque chose.",
+			"it": "//(0,2.328589)\\\\Dev'essere stato difficile installare un'antenna qui,//(2.328589,6.877668)\\\\e ritrovarsi senza di essa sarebbe un problema non da poco.//(6.877668,36.87767)\\\\Crest verrebbe subito nelle vicinanze se le accadesse qualcosa.",
+			"de": "//(0,2.85)\\\\Es muss wohl schwierig sein, die Antenne da draußen richtig auszurichten,//(2.85,6.35)\\\\aber ohne die hätten sie einen riesigen Nachteil.//(6.35,36.35)\\\\Crest dürfte angelaufen kommen, wenn etwas mit ihr passiert.",
+			"es": "//(0,5.9)\\\\Supongo que habrá sido difícil montar una antena aquí fuera, aunque estarían perdidos de no ser por ella.//(6.55,36.55)\\\\Si le pasase algo, seguro que Crest vendría corriendo.",
+			"ru": "//(0,2.9)\\\\Кому-то пришлось попотеть, устанавливая здесь антенну,//(2.9,6.261472)\\\\но без нее они бы оказались в плачевном положении.//(6.261472,36.26147)\\\\Крест наверняка прибежит, если с антенной что-то случится.",
+			"cn": "//(0,6.675)\\\\在这里装天线肯定难度很大，但如果没有这天线，对他们来说极为不利。//(6.675,36.675)\\\\如果它出了什么意外，克雷斯肯定会立刻赶过来。",
+			"tc": "//(0,6.3)\\\\想在這裡架設天線肯定不容易，不過少了它，他們會處於很大的劣勢。//(6.3,36.3)\\\\要是它出了問題，克雷斯特一定會連忙前來查看。",
+			"jp": "//(0,6.02)\\\\ここにアンテナを設定するのは難しかっただろう。でもこれがなくては、とても困るに違いない。//(6.02,36.02)\\\\これに何かあったらクレストがすぐに駆け付けてくるに違いない。"
+		}
+	}
+}

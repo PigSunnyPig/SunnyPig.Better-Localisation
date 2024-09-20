@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/italy/1000_virus/1000_handler/ds1054_motherscookingconclusion.sweetdialog?/ds1054_motherscookingconclusion_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds1054_motherscookingconclusion_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_virus/1000_handler/ds1054_motherscookingconclusion_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_virus/1000_handler/ds1054_motherscookingconclusion_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Caruso will be coming to lunch shortly. His last meal, I presume.",
+			"fr": "//(0,30)\\\\Caruso ne va pas tarder à venir déjeuner. J'imagine qu'il s'agira de son dernier repas.",
+			"it": "//(0,2.776687)\\\\Caruso si siederà a tavola a momenti.//(2.776687,32.77669)\\\\Sarà il suo ultimo pasto, presumo.",
+			"de": "//(0,30)\\\\Caruso kommt in Kürze zum Mittagessen. Das dürfte dann wohl seine letzte Mahlzeit sein.",
+			"es": "//(0,30)\\\\Caruso vendrá a comer pronto. Su última comida, supongo.",
+			"ru": "//(0,30)\\\\Вскоре Карузо отправится обедать. Похоже, это будет его последняя трапеза.",
+			"cn": "//(0,30)\\\\卡鲁索很快就要来吃午饭了。这大概是他最后的午餐了。",
+			"tc": "//(0,30)\\\\卡魯索很快就要來吃午飯了。這大概是他最後的午餐了。",
+			"jp": "//(0,30)\\\\すぐにカルーソーがランチにやってくる。彼の最後の食事になるわ。"
+		}
+	}
+}

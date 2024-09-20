@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/gamemodes/versusmode/79_announcer_opponentnexttargetmissed.sweetdialog?/79_announcer_opponentnexttargetmissed_announcer_versus_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "79_announcer_opponentnexttargetmissed_announcer_versus_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/gamemodes/versusmode/79_announcer_opponentnexttargetmissed_announcer_versus_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/gamemodes/versusmode/79_announcer_opponentnexttargetmissed_announcer_versus_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Opponent missed next target.",
+			"fr": "//(0,30)\\\\Votre adversaire a manqué la cible suivante.",
+			"it": "//(0,30)\\\\L'avversario ha mancato il prossimo bersaglio.",
+			"de": "//(0,30)\\\\Gegner hat das nächste Ziel verpasst.",
+			"es": "//(0,30)\\\\El contrincante ha perdido al siguiente objetivo.",
+			"ru": "//(0,30)\\\\Противник упустил следующую цель.",
+			"cn": "//(0,30)\\\\对手错过了下一目标。",
+			"tc": "//(0,30)\\\\對手錯過了下一個目標。",
+			"jp": "//(0,30)\\\\対戦相手が次のターゲットを喪失。"
+		}
+	}
+}

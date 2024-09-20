@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/tutorial/9000_handler/ds9223_mechanics.sweetdialog?/ds9223_mechanics_young_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds9223_mechanics_young_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/tutorial/9000_handler/ds9223_mechanics_young_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/tutorial/9000_handler/ds9223_mechanics_young_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\This particular uniform should get you access through the staff entrance. Just... act normal.",
+			"fr": "//(0,3.780982)\\\\Votre uniforme actuel devrait vous permettre d'utiliser l'entrée de service.//(4.280982,34.28098)\\\\Soyez normal.",
+			"it": "//(0,3.745)\\\\Quell'uniforme ti permetterà di passare dall'ingresso del personale.//(3.745,33.745)\\\\Mi raccomando... Comportati normalmente.",
+			"de": "//(0,3.812883)\\\\Ihre aktuelle Uniform sollte Sie durch den Personaleingang bringen.//(3.812883,33.81288)\\\\Verhalten Sie sich einfach ganz normal.",
+			"es": "//(0,3.717)\\\\El uniforme que llevas debería permitirte acceder por la entrada de personal.//(3.717,33.717)\\\\Actúa con normalidad.",
+			"ru": "//(0,3.812883)\\\\В этой форме ты сможешь пройти через служебный вход.//(3.812883,33.81288)\\\\Просто веди себя естественно.",
+			"cn": "//(0,3.668098)\\\\你穿着现在这身制服应该能进入员工入口了。//(3.668098,33.6681)\\\\举止自然一些就好。",
+			"tc": "//(0,30)\\\\你穿著現在這身制服應該能進入員工入口了。舉止自然一些就好。",
+			"jp": "//(0,30)\\\\その服装ならスタッフの通用口を使える... 堂々としていればいいわ。"
+		}
+	}
+}

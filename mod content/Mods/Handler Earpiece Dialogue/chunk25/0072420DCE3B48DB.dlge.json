@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/marrakech/6000_elusive/6000_screwdriver/6000_screwdriver_handler/dr6620_diana.sweetdialog?/dr6620_diana_diana_et_011.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr6620_diana_diana_et_011",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/6000_elusive/6000_screwdriver/6000_screwdriver_handler/dr6620_diana_diana_et_011.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/6000_elusive/6000_screwdriver/6000_screwdriver_handler/dr6620_diana_diana_et_011.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA_ET]\\\\//(0,30)\\\\The money has been wired to your account.",
+			"fr": "//[DIANA_ET]\\\\//(0,30)\\\\L'argent a été transféré sur votre compte.",
+			"it": "//[DIANA_ET]\\\\//(0,30)\\\\Il denaro è stato girato sul tuo conto.",
+			"de": "//[DIANA_ET]\\\\//(0,30)\\\\Das Geld wurde auf Ihr Konto überwiesen.",
+			"es": "//[DIANA_ET]\\\\//(0,30)\\\\El dinero se ha transferido a tu cuenta.",
+			"ru": "//[DIANA_ET]\\\\//(0,30)\\\\Деньги перечислены на твой счет.",
+			"cn": "//[DIANA_ET]\\\\//(0,30)\\\\钱已经汇到了你账上。",
+			"tc": "//[DIANA_ET]\\\\//(0,30)\\\\錢已經匯到了你賬上。",
+			"jp": "//[DIANA_ET]\\\\//(0,30)\\\\報酬は口座に振り込むわ。"
+		}
+	}
+}

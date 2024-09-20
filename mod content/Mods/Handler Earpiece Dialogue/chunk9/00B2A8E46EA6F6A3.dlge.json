@@ -1,0 +1,49 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_handler/ds20028_sp_timeout5mins.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds20028_sp_timeout5mins_diana_001",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_handler/ds20028_sp_timeout5mins_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_handler/ds20028_sp_timeout5mins_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\47, there are just five minutes left of our window. Make the most of it.",
+					"fr": "//(0,30)\\\\Notre fenêtre se referme dans cinq minutes, 47. Mettez-les à profit.",
+					"it": "//(0,30)\\\\47, ci restano soltanto cinque minuti. Sfruttali al meglio.",
+					"de": "//(0,30)\\\\47, unser Zeitfenster hat nur noch fünf Minuten. Machen Sie das Beste daraus.",
+					"es": "//(0,30)\\\\47, nuestra ocasión se esfumará dentro de cinco minutos. Aprovéchalos bien.",
+					"ru": "//(0,30)\\\\47-й, у нас осталось всего 5 минут. Используй их с умом.",
+					"cn": "//(0,30)\\\\47，还有五分钟就要失去机会了。抓紧时间。",
+					"tc": "//(0,30)\\\\47，我們的機會只剩五分鐘。好好把握。",
+					"jp": "//(0,30)\\\\残り時間はあと5分よ。大事に使って。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds20028_sp_timeout5mins_diana_002",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_handler/ds20028_sp_timeout5mins_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_handler/ds20028_sp_timeout5mins_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Five minutes left, 47. Make them count.",
+					"fr": "//(0,30)\\\\Plus que cinq minutes, 47. Faites qu'elles comptent.",
+					"it": "//(0,30)\\\\Mancano cinque minuti, 47. Fanne buon uso.",
+					"de": "//(0,30)\\\\Es bleiben noch fünf Minuten, 47. Nutzen Sie die Zeit.",
+					"es": "//(0,30)\\\\Quedan cinco minutos, 47. Aprovéchalos.",
+					"ru": "//(0,30)\\\\Осталось 5 минут, 47-й. Не трать времени даром.",
+					"cn": "//(0,30)\\\\47，还剩五分钟。抓紧每分每秒。",
+					"tc": "//(0,30)\\\\剩下五分鐘了，47。我們把握機會。",
+					"jp": "//(0,30)\\\\あと5分よ。無駄にしないで。"
+				}
+			}
+		]
+	}
+}

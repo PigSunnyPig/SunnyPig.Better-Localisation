@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/marrakech/11000_python/11000_handler/ds11014_carpetsbriefing.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds11014_carpetsbriefing_diana_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11000_python/11000_handler/ds11014_carpetsbriefing_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11000_python/11000_handler/ds11014_carpetsbriefing_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,4.087178)\\\\According to the note, one of the guards has gone carpet shopping.//(4.087178,34.08718)\\\\He will most likely be alone, and the key he bears could be of good use.",
+					"fr": "//(0,3.7)\\\\D'après la note, l'un des gardes est parti acheter des tapis.//(3.7,33.7)\\\\Il sera probablement seul... et la clé qu'il porte pourrait nous être utile.",
+					"it": "//(0,4.01908)\\\\Secondo il biglietto, una delle guardie è andata a comprare tappeti.//(4.01908,34.01908)\\\\Molto probabilmente sarà solo e la chiave che porta con sé potrebbe rivelarsi utile.",
+					"de": "//(0,4.1)\\\\Gemäß der Notiz ist einer der Wächter losgegangen, um einen Teppich zu kaufen.//(4.1,5.9)\\\\Er wird sehr wahrscheinlich alleine sein ...//(5.9,35.9)\\\\Und der Schlüssel, welchen er bei sich trägt, findet sicher Verwendung.",
+					"es": "//(0,4.1)\\\\Según la nota, uno de los guardias ha ido a comprar alfombras.//(4.1,34.1)\\\\Probablemente irá solo... y la llave que tiene podría sernos útil.",
+					"ru": "//(0,4.100982)\\\\По имеющимся данным, один из охранников отправился в магазин ковров.//(4.100982,34.10098)\\\\Скорее всего он будет совсем один, а его ключ может нам очень пригодиться.",
+					"cn": "//(0,4.118098)\\\\根据笔记所写，其中一名守卫已经去买地毯了。//(4.118098,34.1181)\\\\他很有可能是一个人，而且他身上带的钥匙说不定有大用处。",
+					"tc": "//(0,30)\\\\根據筆記所寫，其中一名守衛已經去買地毯了。他很有可能是一個人，而且他身上帶的鑰匙說不定有大用處。",
+					"jp": "//(0,6.649001)\\\\メモに よると、 ある護衛が 1人で じゅうたんを 買いに 行ってるわ。 彼が 持ってる鍵が 役に立つかも//(6.649001,8.455313)\\\\しれないわね。"
+				}
+			}
+		]
+	}
+}

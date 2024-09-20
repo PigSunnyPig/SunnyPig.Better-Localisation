@@ -1,0 +1,49 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/12500_white_spider/12500_rabies/12500_handler/ds12568_cardio.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds12568_cardio_diana_ws_001",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12568_cardio_diana_ws_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12568_cardio_diana_ws_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\We're looking for a fitness fanatic. Jogging or running almost constantly according to this information. The first rule, I suppose.",
+					"fr": "//(0,30)\\\\On cherche quelqu'un d'obsédé par l'idée d'être en forme. Apparemment, il passe son temps à courir. C'est la base, j'imagine.",
+					"it": "//(0,30)\\\\Stiamo cercando un fanatico del fitness. Secondo queste informazioni, passa il suo tempo a correre o a fare jogging. Dopotutto, è la prima regola del benessere.",
+					"de": "//(0,30)\\\\Wir suchen einen Fitnessfanatiker. Unseren Informationen zufolge joggt oder läuft er praktisch pausenlos. Wahrscheinlich muss man das so machen ...",
+					"es": "//(0,30)\\\\Ahora, busca a un fanático del fitness. Siempre está corriendo o haciendo jogging, si esto está en lo cierto. Parece que se lo toma en serio.",
+					"ru": "//(0,30)\\\\Нам нужен любитель физических упражнений. Если верить данным, он почти постоянно на пробежке. Наверное, его главное правило.",
+					"cn": "//(0,30)\\\\我们要找一名健身狂人。根据这份情报，此人几乎一有空就去慢跑或长跑。那就参照第一条规则吧。",
+					"tc": "//(0,30)\\\\我們要找一名健身狂人。根據這份情報，此人幾乎一有空就去慢跑或長跑。那就參照第一條規則吧。",
+					"jp": "//(0,30)\\\\この情報に よると、 ターゲットは ジョギングか ランニングの 習慣が あるみたい。 健康志向ね。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds12568_cardio_diana_ws_002",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12568_cardio_diana_ws_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12568_cardio_diana_ws_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\The Target is highly fit. He has a strict regime of cardio training. Look for someone running or jogging.",
+					"fr": "//(0,30)\\\\La cible est en excellente forme physique. Il suit un régime d'entraînement cardio très strict. Cherchez quelqu'un en train de courir.",
+					"it": "//(0,30)\\\\Il bersaglio è in gran forma. Segue un intenso regime di allenamenti aerobici. Cerca qualcuno che corre o fa jogging.",
+					"de": "//(0,30)\\\\Die Zielperson ist durchtrainiert und hat ein sehr strenges Ausdauertraining. Suchen Sie jemanden, der läuft oder joggt.",
+					"es": "//(0,30)\\\\El objetivo está en muy buena forma. Lleva una tabla de ejercicios de cardio muy estricta. Busca a alguien corriendo.",
+					"ru": "//(0,30)\\\\Цель в отличной форме. Он строго придерживается режима кардиотренировок. Ищи человека на пробежке.",
+					"cn": "//(0,30)\\\\目标身体十分健康。他严格执行着有氧运动计划。找找在长跑或慢跑的人。",
+					"tc": "//(0,30)\\\\目標身體十分健康。他嚴格執行著有氧運動計畫。找找在長跑或慢跑的人。",
+					"jp": "//(0,30)\\\\ターゲットは 熱心に 有酸素運動に 取り組んで いるみたい。 ランニングか ジョギングを して いる人を 探すのよ。"
+				}
+			}
+		]
+	}
+}

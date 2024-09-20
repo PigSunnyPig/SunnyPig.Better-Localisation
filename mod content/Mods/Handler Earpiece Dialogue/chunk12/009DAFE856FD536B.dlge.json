@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/greedy/33000_raccoon/33000_handler/ds33004_perezid.sweetdialog?/ds33004_perezid_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds33004_perezid_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/greedy/33000_raccoon/33000_handler/ds33004_perezid_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/greedy/33000_raccoon/33000_handler/ds33004_perezid_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.032883)\\\\Hm, that's the head of security here. Mateo Pérez.//(4.032883,9.613865)\\\\He'll be holding one of the three backup data disks.",
+			"fr": "//(0,3.931)\\\\Voilà le chef de la sécurité. Mateo Pérez.//(3.931,6.700408)\\\\Il détient l'un des trois disques sur lesquels se trouvent les données.",
+			"it": "//(0,2.486585)\\\\Uh, quello è il capo della sicurezza.//(2.486585,5.738817)\\\\Mateo Pérez. Porta con sé uno dei tre dischi dati//(5.738817,6.738817)\\\\di backup.",
+			"de": "//(0,4)\\\\Hm. Das da ist der Sicherheitschef. Mateo Pérez.//(4,5.2)\\\\Er hat eine der drei Daten-Discs//(5.2,7.653374)\\\\mit einem Teil der Sicherheitskopie bei sich.",
+			"es": "//(0,2.048821)\\\\Mmm, ese es el jefe de seguridad.//(2.048821,4.728497)\\\\Mateo Pérez. Debe de tener uno de los tres discos//(4.728497,6.700408)\\\\de datos con la copia de seguridad.",
+			"ru": "//(0,3.813)\\\\Хм-м. А вот и начальник местной охраны. Матео Перес.//(3.813,8.757668)\\\\И у него с собой один из трех резервных дисков с данными.",
+			"cn": "//(0,30)\\\\嗯，那个人就是这里的安保主任了。马蒂奥·佩雷斯。他身上应该有三份备份数据中的一份。",
+			"tc": "//(0,30)\\\\嗯，那就是保全主任。馬蒂奧‧佩雷斯。他手上有三個備用數據硬碟中的一個。",
+			"jp": "//(0,3.84)\\\\ふむ、あれがここのセキュリティ責任者ね。マテオ・ペレス。//(3.84,6.700408)\\\\彼は3つあるバックアップデータディスクの1つを持ってるわ。"
+		}
+	}
+}

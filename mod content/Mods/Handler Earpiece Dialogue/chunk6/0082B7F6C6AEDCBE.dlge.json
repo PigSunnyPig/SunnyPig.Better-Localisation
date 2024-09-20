@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/rat/43000_handler/ds43311_meetupdronespottet.sweetdialog?/ds43311_meetupdronespottet_oliviahall_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds43311_meetupdronespottet_oliviahall_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/rat/43000_handler/ds43311_meetupdronespottet_oliviahall_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/rat/43000_handler/ds43311_meetupdronespottet_oliviahall_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4)\\\\That thing looks like a crashed drone. I bet it’s connected to the facility.//(4,34)\\\\Why don’t you scan it, and I’ll see what I can find out?",
+			"fr": "//(0,4.2)\\\\On dirait que ce drone a connu des bricoles. Il est sûrement connecté au centre.//(4.2,34.2)\\\\Scannez-le, et je verrai ce que je peux découvrir.",
+			"it": "//(0,4.27)\\\\Quello sembra un drone schiantato. Scommetto che è collegato alla struttura.//(4.27,34.27)\\\\Perché non lo scansioni, così vediamo cosa posso ricavarci?",
+			"de": "//(0,2.244785)\\\\Das Ding sieht aus wie eine abgestürzte Drohne.//(2.244785,4.159571)\\\\Ich wette, sie ist mit der Einrichtung verbunden.//(4.159571,34.15957)\\\\Warum scannen Sie sie nicht und ich schaue, was ich herausfinden kann?",
+			"es": "//(0,1.7)\\\\Esa cosa parece un dron estrellado.//(2.3,3.9)\\\\Apuesto a que está conectado a la instalación.//(4.4,34.4)\\\\¿Por qué no lo escaneas a ver qué averiguo?",
+			"ru": "//(0,2.092393)\\\\Похоже, это разбившийся дрон.//(2.092393,4.432883)\\\\Наверняка он подключен к комплексу.//(4.432883,34.43288)\\\\Просканируешь? Вдруг в его памяти есть что-нибудь полезное.",
+			"cn": "//(0,4)\\\\那看上去像一架坠毁的无人机。我打赌它和设施相连。//(4,34)\\\\要不你把它扫描一下，看看我能从中发现什么。",
+			"tc": "//(0,4.4)\\\\那看起來像是個墜毀的無人機。我看它肯定跟設施有所聯繫。//(4.4,34.4)\\\\你怎麼不掃描一下，看看我能查出些什麼？",
+			"jp": "//(0,30)\\\\墜落したドローンみたい。施設に接続されてるはず。スキャンしてくれたら、調べてみるわ。"
+		}
+	}
+}

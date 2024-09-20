@@ -1,0 +1,49 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "0005A31F066DE83C",
+	"DITL": "005CC166F7715F6D",
+	"CLNG": "00063B34B5153AEE",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds20009_sp_photographerwait_diana_001",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20009_sp_photographerwait_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20009_sp_photographerwait_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\It appears that the happy couple is missing someone?",
+					"fr": "//(0,30)\\\\Il semble que l'heureux couple cherche quelqu'un.",
+					"it": "//(0,30)\\\\A quanto sembra, alla coppietta felice manca qualcuno...",
+					"de": "//(0,30)\\\\Anscheinend vermisst das glückliche Paar jemanden, oder?",
+					"es": "//(0,30)\\\\Parece que la parejita feliz echa a alguien en falta.",
+					"ru": "//(0,30)\\\\Кажется, молодожены кого-то ждут?",
+					"cn": "//(0,30)\\\\似乎两位新人在等人？",
+					"tc": "//(0,30)\\\\看來那對開心的小倆口在等人？",
+					"jp": "//(0,30)\\\\幸せなカップルを撮ってくれる人がいないわね。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds20009_sp_photographerwait_diana_002",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20009_sp_photographerwait_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20009_sp_photographerwait_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\47, the bride and groom seem to be missing the photographer now.",
+					"fr": "//(0,30)\\\\On dirait que les mariés ont perdu leur photographe maintenant, 47.",
+					"it": "//(0,30)\\\\47, pare che gli sposi non riescano a trovare il fotografo.",
+					"de": "//(0,30)\\\\47, Braut und Bräutigam scheinen jetzt den Fotografen zu vermissen.",
+					"es": "//(0,30)\\\\47, me parece que los novios echan de menos al fotógrafo.",
+					"ru": "//(0,30)\\\\47-й, жених и невеста ожидают фотографа.",
+					"cn": "//(0,30)\\\\47，现在新郎新娘正在等摄影师。",
+					"tc": "//(0,30)\\\\47，新郎新娘似乎正在等失蹤的攝影師。",
+					"jp": "//(0,30)\\\\新郎新婦がカメラマンを待っているみたいだわ。"
+				}
+			}
+		]
+	}
+}

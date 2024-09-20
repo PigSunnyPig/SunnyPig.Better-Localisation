@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_penicillin/29000_penicillin_handler/ds29758_quinndead.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds29758_quinndead_diana_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_handler/ds29758_quinndead_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_handler/ds29758_quinndead_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,2.2)\\\\This is unfortunate, 47.//(2.2,4.3)\\\\You were meant to protect Quinn.//(4.3,6.4)\\\\Our client won't be happy.//(6.4,36.4)\\\\Finish the mission and I'll fix this mess.",
+					"fr": "//(0,2.2)\\\\Voilà qui est fâcheux, 47.//(2.2,4.3)\\\\Vous étiez censé protéger Quinn,//(4.3,6.4)\\\\cela ne ravira pas notre client.//(6.4,36.4)\\\\Terminez la mission, je verrai comment limiter les dégâts plus tard.",
+					"it": "//(0,2.2)\\\\Che disdetta, 47.//(2.2,4.3)\\\\Avresti dovuto proteggere Quinn.//(4.3,6.4)\\\\Il nostro cliente non sarà felice.//(6.4,36.4)\\\\Porta a termine la missione e io penserò a contenere i danni in un secondo momento.",
+					"de": "//(0,2.2)\\\\Das ist Pech, 47.//(2.2,4.3)\\\\Sie sollten Quinn beschützen.//(4.3,6.4)\\\\Unser Klient wird nicht glücklich darüber sein.//(6.4,36.4)\\\\Bringen Sie die Mission zu Ende und ich kümmere mich später um die Schadensbegrenzung.",
+					"es": "//(0,1.724294)\\\\Qué mal, 47.//(1.724294,5.16908)\\\\Se suponía que tenías que proteger a Quinn.//(5.16908,8.614)\\\\Nuestro cliente no va a estar nada satisfecho.//(8.614,38.614)\\\\Completa la misión, ya me encargaré yo de hacer el control de daños.",
+					"ru": "//(0,2.2)\\\\Какая досада, 47-й.//(2.2,4.3)\\\\Ты должен был защищать Куинна.//(4.3,6.4)\\\\Клиенту это не понравится.//(6.4,36.4)\\\\Заверши задание, а я потом как-нибудь улажу проблемы.",
+					"cn": "//(0,2.2)\\\\非常遗憾，47。//(2.2,4.3)\\\\你的任务本该是保护奎恩。//(4.3,6.4)\\\\我们的客户不会高兴的。//(6.4,36.4)\\\\先完成任务，我稍后会处理损害控制。",
+					"tc": "//(0,4.35)\\\\真是不幸，47，你應該要保護奎恩才對。//(4.35,34.35)\\\\我們的客戶不會太高興的。將任務完成吧，我待會再控制損失。",
+					"jp": "//(0,2.2)\\\\これはまずいわね、47。//(2.2,4.3)\\\\あなたはクインを守るはずだったのに。//(4.3,6.4)\\\\クライアントは怒るでしょうね。//(6.4,36.4)\\\\とにかく任務を終わらせて、後始末は私に任せて。"
+				}
+			}
+		]
+	}
+}

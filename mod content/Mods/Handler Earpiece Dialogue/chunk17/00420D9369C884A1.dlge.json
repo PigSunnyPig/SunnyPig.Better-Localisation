@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25116_smokesignalmovingshah.sweetdialog?/ds25116_smokesignalmovingshah_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25116_smokesignalmovingshah_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25116_smokesignalmovingshah_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25116_smokesignalmovingshah_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.178589)\\\\47, Shah is on the move.//(2.178589,7.377668)\\\\I think she's heading for the beach area in the slums...",
+			"fr": "//(0,2.210491)\\\\47, Shah est en mouvement.//(2.210491,32.21049)\\\\Je pense qu'elle se dirige vers la plage près des bidonvilles.",
+			"it": "//(0,1.502683)\\\\47. Shah si muove.//(1.502683,3.516205)\\\\Credo che si stia dirigendo verso la spiaggia nella//(3.516205,4.516205)\\\\zona dei sobborghi...",
+			"de": "//(0,2.160491)\\\\47, Shah ist in Bewegung.//(2.160491,32.16049)\\\\Ich glaube, sie will zum Strandareal in den Slums ...",
+			"es": "//(0,1.946033)\\\\47, Shah se ha puesto en marcha.//(1.946033,4.491271)\\\\Creo que se dirige a la playa de los suburbios...",
+			"ru": "//(0,1.661164)\\\\47-й, Шах куда-то направляется.//(1.661164,4.491271)\\\\По-моему, она идет к пляжу рядом с трущобами...",
+			"cn": "//(0,30)\\\\47，瓦妮娅·沙开始行动了。我想她要前往贫民窟附近的海滩......",
+			"tc": "//(0,30)\\\\47，瓦妮婭．沙正移動中。我猜她的目的地是貧民窟附近的沙灘地區......",
+			"jp": "//(0,2.215)\\\\47。シャーが動き出したわ。//(2.215,32.215)\\\\スラム街の近くにあるビーチに向かっていると思うわ..."
+		}
+	}
+}

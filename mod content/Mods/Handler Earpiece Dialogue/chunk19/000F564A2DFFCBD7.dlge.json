@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/miami/21000_flamingo/21000_handler/ds21040_raceoverwon.sweetdialog?/ds21040_raceoverwon_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds21040_raceoverwon_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/miami/21000_flamingo/21000_handler/ds21040_raceoverwon_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/miami/21000_flamingo/21000_handler/ds21040_raceoverwon_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.706994)\\\\47, the race is over and Sierra won.//(2.706994,4.933681)\\\\We should expect her to head toward//(4.933681,7)\\\\the podium area for the winning ceremony.",
+			"fr": "//(0,1.899)\\\\La course est terminée, 47.//(1.899,4.695)\\\\Sierra a gagné, elle devrait se diriger//(4.695,8.167639)\\\\vers le podium pour la cérémonie de victoire.",
+			"it": "//(0,3.245733)\\\\47, la gara è finita e Sierra ha vinto.//(3.245733,5.676007)\\\\Dopo dovrebbe avviarsi verso il podio per la//(5.676007,7)\\\\cerimonia di premiazione.",
+			"de": "//(0,2.60642)\\\\47, das Rennen ist vorbei und Sierra hat gewonnen.//(2.60642,3.661738)\\\\Wir können davon ausgehen,//(3.661738,5.448899)\\\\dass sie im Anschluss zum Siegertreppchen kommt,//(5.448899,7)\\\\um an der Preisverleihung teilzunehmen.",
+			"es": "//(0,2.986516)\\\\47, la carrera ha terminado y Sierra ha ganado.//(2.986516,9.272)\\\\Cabe esperar que se dirija hacia el podio para la entrega de trofeos.",
+			"ru": "//(0,3.37557)\\\\47-й, гонка окончена, Сьерра выиграла.//(3.37557,5.336061)\\\\Надо полагать, сейчас она пойдет//(5.336061,7.876552)\\\\к пьедесталу на церемонию награждения.",
+			"cn": "//(0,30)\\\\47，比赛已经结束，希拉获胜了。她应该会前往领奖台接受颁奖仪式。",
+			"tc": "//(0,30)\\\\47，比賽已經結束，希拉獲勝了。她應該會前往頒獎臺參加頒獎儀式。",
+			"jp": "//(0,3.06)\\\\47、レースはシエラが勝って終わったわ。//(3.06,33.06)\\\\彼女は表彰式のために表彰台に向かうでしょう。"
+		}
+	}
+}

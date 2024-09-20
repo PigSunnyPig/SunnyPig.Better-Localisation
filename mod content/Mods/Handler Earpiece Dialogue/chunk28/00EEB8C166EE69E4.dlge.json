@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/rocky/dugong/46000_handler/ds46037_intelethersatellite.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds46037_intelethersatellite_grey_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/rocky/dugong/46000_handler/ds46037_intelethersatellite_grey_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/rocky/dugong/46000_handler/ds46037_intelethersatellite_grey_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,3.868)\\\\Crest wasn't planning to sell the control unit back to them at all.//(3.868,6.779)\\\\He was going to use the damned thing.//(6.779,14.04742)\\\\I suppose I was selling him short.",
+					"fr": "//(0,3.8)\\\\Crest n'a jamais eu l'intention de leur revendre l'unité de contrôle...//(3.8,33.8)\\\\Il comptait bien s'en servir. Je l'ai sous-estimé, on dirait.",
+					"it": "//(0,3.812883)\\\\Crest non aveva intenzione di rivendere l'unità di controllo.//(3.812883,6.88957)\\\\Voleva usarla per i suoi maledetti scopi.//(6.88957,36.88957)\\\\Suppongo di averlo sottovalutato.",
+					"de": "//(0,3.7)\\\\Crest wollte die Steuereinheit gar nicht an sie zurückverkaufen.//(3.7,5.45)\\\\Er wollte das verdammte Ding benutzen.//(6.7,36.7)\\\\Ich habe ihn wohl eindeutig unterschätzt.",
+					"es": "//(0,3.15)\\\\Crest no pretendía venderles la unidad de control.//(3.85,5.4)\\\\Iba a usar ese puñetero chisme.//(6.8,36.8)\\\\Supongo que lo he subestimado...",
+					"ru": "//(0,3.812883)\\\\Крест и не думал продавать им обратно блок управления.//(3.812883,5.42)\\\\Он хотел использовать этот злосчастный прибор.//(6.521472,36.52147)\\\\Да, я его определенно недооценил.",
+					"cn": "//(0,30)\\\\克雷斯根本没打算把控制单元卖回给他们。他打算使用那该死的卫星。看来是我低估了他。",
+					"tc": "//(0,3.8)\\\\克雷斯特並沒有打算用控制裝置取得贖金。//(3.8,33.8)\\\\他是打算用這該死的東西。是我小看他了。",
+					"jp": "//(0,3.63)\\\\クレストはコントロールユニットを彼らに買い戻させようとしていたわけではない。//(3.63,5.68)\\\\自分で使うつもりだったんだ。//(6.53,36.53)\\\\俺は奴のことを低く見積もっていたようだな。"
+				}
+			}
+		]
+	}
+}

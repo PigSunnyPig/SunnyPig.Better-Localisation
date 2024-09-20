@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/bulldog/41000_handler/ds41070_handlerzacharysdiarynomm.sweetdialog?/ds41070_handlerzacharysdiarynomm_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41070_handlerzacharysdiarynomm_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/bulldog/41000_handler/ds41070_handlerzacharysdiarynomm_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/bulldog/41000_handler/ds41070_handlerzacharysdiarynomm_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.54908)\\\\That appears to be a half-burned diary belonging to Zachary Carlisle.//(4.54908,9.454355)\\\\It says he and Madam Carlisle murdered their older brother 46 years ago,//(9.454355,12.2)\\\\and that Mr. Fernsby helped them cover it up.//(12.2,42.2)\\\\He was planning to confess it all. Interesting...",
+			"fr": "//(0,4.45)\\\\On dirait qu'il s'agit d'un journal à moitié brûlé ayant appartenu à Zachary Carlisle.//(4.45,9.4)\\\\Il raconte que lui et madame Carlisle ont tué leur grand-frère Montgomery il y a 46 ans,//(9.4,12.3)\\\\et que monsieur Fernsby les a aidés à maquiller le meurtre.//(12.3,14.7)\\\\Il allait tout avouer...//(14.7,44.7)\\\\Intéressant.",
+			"it": "//(0,4.54908)\\\\Sembrerebbe la metà di un diario bruciato appartenente a Zachary Carlisle.//(4.54908,9.51)\\\\Dice che lui e Madame Carlisle, 46 anni fa, assassinarono il loro fratello maggiore//(9.51,12.24)\\\\e che il signor Fernsby li aiutò a insabbiare tutto.//(12.24,42.24)\\\\Aveva intenzione di confessare... Interessante...",
+			"de": "//(0,4.737178)\\\\Das scheint ein halb verbranntes Tagebuch zu sein, das Zachary Carlisle gehörte.//(4.737178,9.672454)\\\\Ihm zufolge haben er und Madam Carlisle vor 46 Jahren ihren älteren Bruder ermordet//(9.672454,12.38724)\\\\und Mr.  Fernsby hat geholfen, das zu vertuschen.//(12.38724,14.35963)\\\\Zachary wollte alles gestehen.//(14.35963,44.35963)\\\\Interessant ...",
+			"es": "//(0,4.5)\\\\Eso parece ser el diario medio quemado de Zachary Carlisle.//(4.5,9.5)\\\\Pone que la señora Carlisle y él asesinaron a su hermano mayor hace 46 años//(9.5,12.4)\\\\y que el señor Fernsby les ayudó a encubrirlo.//(12.4,42.4)\\\\Pretendía confesarlo todo. Qué interesante...",
+			"ru": "//(0,1.592393)\\\\Кажется, этот обгоревший дневник//(1.592393,4.6)\\\\принадлежал Закари Карлайлу.//(4.6,6.997669)\\\\Тут написано, что они с мадам Карлайл 46 лет назад//(6.997669,8.590061)\\\\убили своего старшего брата,//(8.590061,11.66675)\\\\а мистер Фернсби помог им замести следы.//(11.66675,41.66675)\\\\Закари хотел во всем признаться. Любопытно...",
+			"cn": "//(0,4.534)\\\\这看起来是扎切里·卡莱尔的日记本，已经被烧掉了一半。//(4.534,9.3)\\\\上面写着，46年前他和卡莱尔夫人杀害了他们的大哥，//(9.3,39.3)\\\\是芬斯比先生帮忙掩盖了真相。他当时打算把真相曝光的。有意思......",
+			"tc": "//(0,4.6)\\\\看來那本被燒了一半的日記是札卡里‧卡萊爾的。//(4.6,9.5)\\\\上面說他和卡萊爾女士在46年前謀殺了他們的哥哥，//(9.5,12.4)\\\\而費恩斯比先生幫了他們掩飾這個罪行。//(12.4,42.4)\\\\他本來打算要自首。真有趣......",
+			"jp": "//(0,4.55)\\\\半分燃えてしまったザカリー・カーライルの日記のようね。//(4.55,9.415)\\\\46年前、彼がマダム・カーライルと二人で兄を殺害して、//(9.415,12.2)\\\\ファーンズビー氏が隠蔽工作を手伝ったと書いてある。//(12.2,42.2)\\\\彼は全てを告白するつもりだった。興味深いわね..."
+		}
+	}
+}

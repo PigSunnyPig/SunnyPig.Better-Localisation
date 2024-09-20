@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32024_sp_bladekilled.sweetdialog?/ds32024_sp_bladekilled_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32024_sp_bladekilled_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32024_sp_bladekilled_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32024_sp_bladekilled_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Colonel Jin Noo, The Blade, eliminated. Good job, 47.",
+			"fr": "//(0,30)\\\\Colonel Jin Noo, La lame, éliminé. Bon travail, 47.",
+			"it": "//(0,30)\\\\Il colonnello Jin Noo, detto la Lama, è stato eliminato. Ottimo lavoro, 47.",
+			"de": "//(0,30)\\\\Oberst Jin Noo, die Klinge, ist eliminiert. Gute Arbeit, 47.",
+			"es": "//(0,30)\\\\El coronel Jin Noo, la Hoja, ha sido eliminado. Buen trabajo, 47.",
+			"ru": "//(0,30)\\\\Полковник Джим Ну, он же Клинок, ликвидирован. Отлично, 47-й.",
+			"cn": "//(0,30)\\\\外号刀锋勇士的诺金上校已被消灭。干得漂亮，47。",
+			"tc": "//(0,30)\\\\樓金上校，刀鋒，已消滅。做得好，47。",
+			"jp": "//(0,30)\\\\刃ことジン・ヌー大佐を排除。よくやったわね、47。"
+		}
+	}
+}

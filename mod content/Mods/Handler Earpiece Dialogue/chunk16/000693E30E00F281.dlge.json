@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_skunk/27000_handler/ds27036_intel_diary.sweetdialog?/ds27036_intel_diary_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds27036_intel_diary_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_skunk/27000_handler/ds27036_intel_diary_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_skunk/27000_handler/ds27036_intel_diary_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,3.1)\\\\Hm, one of Janus' many diaries...//(3.1,6.806717)\\\\He has apparently been the chairman of \"The Ark Society\" for years.//(6.806717,10.88879)\\\\He stepped down very recently but is still attached to the Society.//(10.88879,13.60919)\\\\Well, 47, this is valuable information.",
+			"fr": "//[DIANA]\\\\//(0,2.76333)\\\\Tiens, l'un des nombreux journaux de Janus...//(2.76333,7)\\\\Il a été apparemment le président de la société de l'Arche pendant des années.//(7,11.2)\\\\Il s'est retiré récemment, mais il est toujours très attaché au groupe.//(11.2,14.87862)\\\\Tout cela est très intéressant, 47.",
+			"it": "//[DIANA]\\\\//(0,2.765421)\\\\Uhm, uno dei tanti diari di Janus...//(2.765421,5.631362)\\\\A quanto pare è stato presidente della \"Ark Society\"//(5.631362,8.396784)\\\\per anni. Si è dimesso di recente,//(8.396784,10.73996)\\\\ma è ancora legato alla società.//(10.73996,13.60919)\\\\Beh, 47, un'altra informazione da non sottovalutare.",
+			"de": "//[DIANA]\\\\//(0,3.105)\\\\Eines der vielen Tagebücher von Janus ...//(3.105,4.6)\\\\Er war anscheinend jahrelang der Vorsitzende//(4.6,6.818)\\\\der „Ark-Gesellschaft“.//(6.818,8.503)\\\\Obwohl er vor Kurzem zurücktrat,//(8.503,11.008)\\\\hat er noch Verbindungen zur Gesellschaft.//(11.008,13.60919)\\\\Gut, 47. Das sind wertvolle Informationen.",
+			"es": "//[DIANA]\\\\//(0,3)\\\\Mmm, uno de los numerosos diarios de Janus...//(3,6.7)\\\\Al parecer, fue presidente de la «ARK Society» durante años.//(6.7,10.7)\\\\Renunció al cargo no hace mucho, pero sigue vinculado a la sociedad.//(10.7,13.60919)\\\\Bueno, 47, esta información es valiosa.",
+			"ru": "//[DIANA]\\\\//(0,2.89983)\\\\Хм, один из множества дневников Януса...//(2.89983,5.787457)\\\\Похоже, Янус много лет возглавлял «Общество Ковчега»,//(5.787457,7.797325)\\\\совсем недавно ушел в отставку,//(7.797325,11.32887)\\\\но до сих пор участвует в его жизни.//(11.32887,12.584)\\\\Это ценная информация,//(12.584,13.60919)\\\\47-й.",
+			"cn": "//[DIANA]\\\\//(0,3.247667)\\\\嗯，这是杰纳斯众多日记中的一本......//(3.247667,10.835)\\\\看来他已经担任“方舟会”主席一职多年了。他刚刚辞去这一职务，但仍然对组织依依不舍。//(10.835,13.609)\\\\47，这是非常重要的情报。",
+			"tc": "//[DIANA]\\\\//(0,6.768)\\\\嗯，這是傑納斯眾多日記中的一本......看來他已經擔任「方舟會」主席一職多年。//(6.768,10.936)\\\\他剛剛辭去這一職務，但仍然對組織依依不捨。//(10.936,13.60919)\\\\47，這是非常重要的情報。",
+			"jp": "//[DIANA]\\\\//(0,3.025)\\\\ふむ、彼の数ある日記のうちのひとつね。//(3.025,6.795)\\\\彼は何年も前から「アーク・ソサエティ」の会長を務めていたようだわ。//(6.795,10.96)\\\\彼は最近退任したけど、まだソサエティとは繋がりがあるみたい。//(10.96,13.60919)\\\\47、これは貴重な情報よ。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/tutorial/9000_handler/ds9260_jetreaction.sweetdialog?/ds9260_jetreaction_young_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds9260_jetreaction_young_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/tutorial/9000_handler/ds9260_jetreaction_young_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/tutorial/9000_handler/ds9260_jetreaction_young_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Well! I never thought they would use a functioning jet. Good thing you didn't disable his parachute.",
+			"fr": "//(0,0.6361963)\\\\Eh bien !//(0.9361963,3.24)\\\\Je n'aurais pas cru qu'ils nous fourniraient un véritable avion.//(3.417178,33.41718)\\\\Heureusement que vous n'avez pas touché à son parachute.",
+			"it": "//(0,3.528)\\\\Caspita! Non credevo che avrebbero usato un jet funzionante.//(3.528,33.528)\\\\Fortuna che non hai disattivato il paracadute.",
+			"de": "//(0,3.75)\\\\Hm, ich hätte nie gedacht, dass sie einen funktionstüchtigen Jet benutzen würden.//(3.75,33.75)\\\\Zum Glück haben Sie seinen Fallschirm nicht sabotiert.",
+			"es": "//(0,3.613)\\\\¡Vaya! Nunca pensé que usarían un avión de verdad.//(3.613,33.613)\\\\Menos mal que no inutilizaste su paracaídas.",
+			"ru": "//(0,3.29)\\\\Хм! Кто бы мог подумать, что они используют настоящий рабочий самолет.//(3.29,33.29)\\\\Хорошо, что ты не вывел из строя парашют.",
+			"cn": "//(0,3.436196)\\\\好吧！没想到他们居然用货真价实的飞机当道具。//(3.436196,33.4362)\\\\还好你没在他的降落伞上动手脚。",
+			"tc": "//(0,3.436)\\\\好吧！沒想到他們居然用貨真價實的飛機當道具。//(3.436,33.436)\\\\還好你沒在他的降落傘上動手腳。",
+			"jp": "//(0,30)\\\\まさかこんなに飛ぶなんて。彼のパラシュートに細工しなくてよかったわね。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/bulldog/41000_handler/ds41016_murderhandlerpioutfit1.sweetdialog?/ds41016_murderhandlerpioutfit1_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41016_murderhandlerpioutfit1_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/bulldog/41000_handler/ds41016_murderhandlerpioutfit1_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/bulldog/41000_handler/ds41016_murderhandlerpioutfit1_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\If you’re dressed like a detective, 47, you might as well act the detective. I suggest you go talk to the butler.",
+			"fr": "//(0,5.2)\\\\Maintenant que vous avez la tête de l'emploi, 47, vous devriez vous y mettre.//(5.2,35.2)\\\\Que dites-vous d'interroger le majordome ?",
+			"it": "//(0,5.2)\\\\Sei vestito da detective, 47, tanto vale che ti comporti in maniera consona.//(5.2,35.2)\\\\Ti consiglio di parlare con il maggiordomo.",
+			"de": "//(0,5.061473)\\\\Wenn Sie wie ein Detektiv gekleidet sind, 47, dann können Sie sich auch so benehmen.//(5.061473,35.06147)\\\\Ich würde vorschlagen, Sie sprechen mit dem Butler.",
+			"es": "//(0,5.2)\\\\47, ya que te has vestido como un detective, deberías actuar como tal.//(5.2,35.2)\\\\Te sugiero que hables con el mayordomo.",
+			"ru": "//(0,2.816687)\\\\Раз уж ты оделся как детектив, 47-й,//(2.816687,5.5)\\\\почему бы не вести себя соответственно?//(5.5,35.5)\\\\Попробуй поговорить с дворецким.",
+			"cn": "//(0,30)\\\\47，如果你穿得像个侦探，那就得演得像样一点。建议你去跟管家谈谈。",
+			"tc": "//(0,5.2)\\\\47，你穿得跟偵探一樣的話，何不當一回成偵探。//(5.2,35.2)\\\\我建議你去跟管家談談。",
+			"jp": "//(0,5.23)\\\\探偵の格好をしているのなら、47、探偵役もした方がいいかもしれないわよ。//(5.23,35.23)\\\\執事に相談してみたら？"
+		}
+	}
+}

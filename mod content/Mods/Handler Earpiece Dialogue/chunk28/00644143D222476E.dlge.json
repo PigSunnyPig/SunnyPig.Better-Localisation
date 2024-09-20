@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/rocky/dugong/46000_handler/ds46021_intelprisonerspotted.sweetdialog?/ds46021_intelprisonerspotted_grey_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds46021_intelprisonerspotted_grey_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/rocky/dugong/46000_handler/ds46021_intelprisonerspotted_grey_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/rocky/dugong/46000_handler/ds46021_intelprisonerspotted_grey_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.073)\\\\That looks like Mr. Hsu, the pirates' inside man with Chiron.//(4.073,7.687)\\\\I doubt they'll be happy to hear he's dead in militia custody.//(7.687,14.53104)\\\\Maybe we can use that to our advantage.",
+			"fr": "//(0,4)\\\\On dirait M. Hsu, l'infiltré de Chiron chez les pirates.//(4,7.4)\\\\Je ne pense pas qu'ils seront heureux d'apprendre qu'il est mort aux mains de la milice.//(7.4,37.4)\\\\On peut sans doute tourner ça à notre avantage.",
+			"it": "//(0,4.056)\\\\Quello dovrebbe essere il signor Hsu, l'infiltrato dei pirati presso Chiron.//(4.056,7.55)\\\\Dubito che saranno felici di scoprire che è morto mentre era tenuto prigioniero dalla milizia.//(7.55,37.55)\\\\Forse possiamo sfruttare tutto ciò a nostro vantaggio.",
+			"de": "//(0,3.85)\\\\Das sieht aus wie Mr.  Hsu, der Insider der Piraten bei Chiron.//(3.85,7.5)\\\\Ich bezweifle, dass sie es gern hören würden, wenn er in der Obhut der Miliz verstirbt.//(7.5,37.5)\\\\Vielleicht können wir das zu unserem Vorteil nutzen.",
+			"es": "//(0,3.4)\\\\Ese parece ser el señor Hsu, el hombre infiltrado de los piratas en Chiron.//(4,6.65)\\\\Seguro que no les hace mucha gracia saber que murió estando en custodia de la milicia.//(7.55,37.55)\\\\Quizás podamos aprovechar eso a nuestro favor.",
+			"ru": "//(0,4.172884)\\\\Это, видимо, мистер Шу, которого «Кайрон» подослала к пиратам.//(4.172884,7.7)\\\\Они наверняка огорчатся, узнав, что он погиб в плену у боевиков.//(7.7,37.7)\\\\Быть может, это нам как-то поможет.",
+			"cn": "//(0,3.521)\\\\那个应该是舒先生，喀戎的海盗内应。//(3.521,33.521)\\\\如果听到他死在民兵的牢房里，他们肯定不乐意。我们应该利用这一点。",
+			"tc": "//(0,4)\\\\那人好像就是徐先生，海盜派去凱隆的臥底。//(4,34)\\\\要是他死在民兵隊手中，海盜肯定會很不高興的。或許我們能善用這一點。",
+			"jp": "//(0,3.56)\\\\カイロンについている海賊の内通者のミスター・シューのようだ。//(3.56,7.6)\\\\彼が傭兵に殺されたと知ったら、きっと嬉しくは思わないだろう。//(7.6,37.6)\\\\それを利用できるかもしれない。"
+		}
+	}
+}

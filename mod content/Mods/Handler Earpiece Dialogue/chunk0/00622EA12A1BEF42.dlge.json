@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/tutorial/9000_handler/ds9255_lonelymechanicfound.sweetdialog?/ds9255_lonelymechanicfound_young_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds9255_lonelymechanicfound_young_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/tutorial/9000_handler/ds9255_lonelymechanicfound_young_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/tutorial/9000_handler/ds9255_lonelymechanicfound_young_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,0.8680981)\\\\Perfect.//(0.8680981,30.8681)\\\\Now be gentle. He's an actor.",
+			"fr": "//(0,0.5)\\\\Parfait.//(0.7180981,1.9)\\\\Doucement, maintenant...//(2.124295,32.12429)\\\\C'est un comédien.",
+			"it": "//(0,30)\\\\Perfetto, ma non esagerare. In fondo è solo un attore.",
+			"de": "//(0,30)\\\\Perfekt. Seien Sie jetzt sanft zu ihm. Er ist ein Schauspieler.",
+			"es": "//(0,0.8680981)\\\\Perfecto.//(0.8680981,30.8681)\\\\Ahora, ten un poco de tacto. Es un actor.",
+			"ru": "//(0,0.8680981)\\\\Идеально.//(0.8680981,4.564785)\\\\Главное, действуй осторожно. Он всего лишь актер.",
+			"cn": "//(0,30)\\\\太完美了。下手轻点。他只是个演员。",
+			"tc": "//(0,30)\\\\太完美了。下手輕點。他只是個演員。",
+			"jp": "//(0,30)\\\\完璧。でも、彼には優しくね。"
+		}
+	}
+}

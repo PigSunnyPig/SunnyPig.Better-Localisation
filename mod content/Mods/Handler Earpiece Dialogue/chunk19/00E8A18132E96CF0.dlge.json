@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/miami/21000_flamingo/21000_handler/ds21019_opppodiumbriefing.sweetdialog?/ds21019_opppodiumbriefing_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds21019_opppodiumbriefing_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/miami/21000_flamingo/21000_handler/ds21019_opppodiumbriefing_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/miami/21000_flamingo/21000_handler/ds21019_opppodiumbriefing_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.948589)\\\\Maxwell Rutter, the race Chief Coordinator,//(2.948589,6.113374)\\\\is worried that the powerful new pyrotechnics system,//(6.113374,10.16436)\\\\connected to the victory podium, is not exactly tamper-proof.//(10.16436,13.40485)\\\\Sabotaging it could have devastating consequences.//(13.40485,16.21762)\\\\Well... What are you waiting for?",
+			"fr": "//(0,0.8963265)\\\\Maxwell Rutter,//(0.8963265,3.334057)\\\\coordinateur en chef de la course,//(3.334057,6.9403)\\\\est inquiet. Il estime que le système pyrotechnique//(6.9403,10.93189)\\\\relié au podium est trop puissant et mal sécurisé.//(10.93189,13.244)\\\\Le saboter pourrait avoir des conséquences//(13.244,16.21762)\\\\tragiques. Qu'est-ce que vous attendez ?",
+			"it": "//(0,0.9659232)\\\\Maxwell Rutter,//(0.9659232,3.177663)\\\\il capo coordinatore della gara,//(3.177663,4.95435)\\\\è preoccupato che il nuovo e potente//(4.95435,7.594841)\\\\sistema pirotecnico montato sul podio//(7.594841,10.27153)\\\\non sia proprio a prova di manomissione.//(10.27153,13.01202)\\\\Sabotarlo potrebbe avere conseguenze devastanti.//(13.71202,16.21762)\\\\Allora, che cosa stai aspettando?",
+			"de": "//(0,3.036)\\\\Maxwell Rutter, der Hauptrennkoordinator,//(3.036,5.962808)\\\\macht sich Sorgen um das gewaltige Feuerwerkssystem://(5.962808,8.321397)\\\\Es ist mit dem Siegertreppchen verbunden//(8.321397,10.07133)\\\\und kann manipuliert werden.//(10.07133,13.69198)\\\\Eine Sabotage hätte wohl fatale Folgen.//(13.69198,16.21762)\\\\Also, worauf warten Sie noch?",
+			"es": "//(0,1.138475)\\\\A Maxwell Rutter,//(1.138475,3.303837)\\\\el coordinador jefe de la carrera,//(3.303837,6.042202)\\\\le preocupa que el nuevo y potente sistema//(6.042202,8.438272)\\\\pirotécnico conectado al podio de los vencedores//(8.438272,10.27241)\\\\no sea muy seguro.//(10.27241,11.75318)\\\\Si alguien lo sabotease,//(11.75318,13.92961)\\\\las consecuencias podrían ser devastadoras.//(13.92961,16.21762)\\\\Bien, ¿a qué estás esperando?",
+			"ru": "//(0,0.9423247)\\\\Максвелл Раттер,//(0.9423247,2.289776)\\\\главный координатор гонки,//(2.289776,3.232101)\\\\обеспокоен тем,//(3.232101,4.984679)\\\\что новая пиротехническая система,//(4.984679,6.33213)\\\\подключенная к пьедесталу,//(6.33213,8.502934)\\\\слабо защищена от посторонних.//(8.502934,10.66064)\\\\Если в ней кое-что подкрутить,//(10.66064,12.68627)\\\\у праздничного салюта будут плачевные//(12.68627,13.6417)\\\\последствия.//(13.6417,16.21762)\\\\Так чего же мы ждем?",
+			"cn": "//(0,3.9)\\\\赛场首席安全协调员麦克斯韦·拉特很担心//(3.9,10)\\\\连接到领奖台的强力新式烟火装置系统能否完全防止干扰。//(10,16.218)\\\\搞点小破坏的话也许会导致毁灭性后果。好吧。你还在等什么？",
+			"tc": "//(0,3.9)\\\\賽場安全協調員麥克斯韋．拉特很擔心//(3.9,10)\\\\連接到頒獎臺的強力新式煙火裝置系統是否可以完全預防干擾。//(10,16.21762)\\\\搞點小破壞的話也許會導致毀滅性後果。好吧。你還在等什麼？",
+			"jp": "//(0,16.21762)\\\\レースのチーフコーディネーターのマクスウェル・ラッターは、勝利表彰台につながった強力な新しいロケット点火装置システムがいじられるかもしれないと心配しているわ。それを破壊すれば壊滅的な結果になるかもしれないわね。さあ。何をもたもたしているの？"
+		}
+	}
+}

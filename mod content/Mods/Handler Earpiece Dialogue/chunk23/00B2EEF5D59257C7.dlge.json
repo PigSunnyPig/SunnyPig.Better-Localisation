@@ -1,0 +1,106 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/12500_white_spider/12500_rabies/12500_handler/ds12518_firstloophint.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds12518_firstloophint_diana_ws_001",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12518_firstloophint_diana_ws_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12518_firstloophint_diana_ws_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\I have some information, 47.",
+					"fr": "//(0,30)\\\\J'ai quelque chose pour vous, 47.",
+					"it": "//(0,30)\\\\Ho scoperto qualcosa, 47.",
+					"de": "//(0,30)\\\\Ich habe etwas, 47.",
+					"es": "//(0,30)\\\\Tengo algo, 47.",
+					"ru": "//(0,30)\\\\У меня кое-что есть, 47-й.",
+					"cn": "//(0,30)\\\\我有消息了，47。",
+					"tc": "//(0,30)\\\\我有消息了，47。",
+					"jp": "//(0,30)\\\\いいかしら、 47。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds12518_firstloophint_diana_ws_002",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12518_firstloophint_diana_ws_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12518_firstloophint_diana_ws_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Let me see...",
+					"fr": "//(0,30)\\\\Attendez...",
+					"it": "//(0,30)\\\\Vediamo...",
+					"de": "//(0,30)\\\\Mal sehen ...",
+					"es": "//(0,30)\\\\Vamos a ver...",
+					"ru": "//(0,30)\\\\Посмотрим...",
+					"cn": "//(0,30)\\\\让我看看...",
+					"tc": "//(0,30)\\\\讓我看看......",
+					"jp": "//(0,30)\\\\ええと..."
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds12518_firstloophint_diana_ws_003",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12518_firstloophint_diana_ws_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12518_firstloophint_diana_ws_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\I have some information, 47",
+					"fr": "//(0,30)\\\\J'ai des informations, 47.",
+					"it": "//(0,30)\\\\Ho delle informazioni, 47.",
+					"de": "//(0,30)\\\\Ich habe Informationen, 47.",
+					"es": "//(0,30)\\\\Tengo información, 47.",
+					"ru": "//(0,30)\\\\Есть новая информация, 47-й.",
+					"cn": "//(0,30)\\\\我有情报了，47。",
+					"tc": "//(0,30)\\\\我有情報了，47。",
+					"jp": "//(0,30)\\\\情報よ、 47。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds12518_firstloophint_diana_ws_004",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12518_firstloophint_diana_ws_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12518_firstloophint_diana_ws_004.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\There's something here...",
+					"fr": "//(0,30)\\\\Il y a quelque chose ici...",
+					"it": "//(0,30)\\\\Qui c'è qualcosa...",
+					"de": "//(0,30)\\\\Hier ist etwas ...",
+					"es": "//(0,30)\\\\Aquí hay algo...",
+					"ru": "//(0,30)\\\\Тут что-то есть...",
+					"cn": "//(0,30)\\\\这有些东西...",
+					"tc": "//(0,30)\\\\這有些東西......",
+					"jp": "//(0,30)\\\\いいかしら..."
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds12518_firstloophint_diana_ws_005",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12518_firstloophint_diana_ws_005.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12518_firstloophint_diana_ws_005.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Here we go, 47.",
+					"fr": "//(0,30)\\\\Voilà, 47.",
+					"it": "//(0,30)\\\\Ci siamo, 47.",
+					"de": "//(0,30)\\\\Also, 47 ...",
+					"es": "//(0,30)\\\\Allá vamos, 47.",
+					"ru": "//(0,30)\\\\Вот, 47-й.",
+					"cn": "//(0,30)\\\\好了，47。",
+					"tc": "//(0,30)\\\\好了，47。",
+					"jp": "//(0,30)\\\\行くわよ、 47。"
+				}
+			}
+		]
+	}
+}

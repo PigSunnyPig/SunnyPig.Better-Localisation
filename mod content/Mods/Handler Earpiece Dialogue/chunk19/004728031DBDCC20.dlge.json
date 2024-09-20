@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/miami/21000_flamingo/21000_handler/ds21007_oppexpobriefing.sweetdialog?/ds21007_oppexpobriefing_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds21007_oppexpobriefing_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/miami/21000_flamingo/21000_handler/ds21007_oppexpobriefing_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/miami/21000_flamingo/21000_handler/ds21007_oppexpobriefing_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.917178)\\\\Robert Knox has a race car on display in the expo building.//(3.917178,7.04816)\\\\The show staff is under strict instructions to summon him//(7.04816,9.719045)\\\\at any sign of malfunction.//(9.719045,13.99862)\\\\Apparently, Knox trusts no one to fix his car but him.//(13.99862,19.17199)\\\\Hm, perhaps it's time to poke around under the hood, 47.//(19.17199,25.19438)\\\\They do say one should never mess with another man’s wheels...",
+			"fr": "//(0,2.836138)\\\\Robert Knox possède une voiture de course dans//(2.836138,4.015263)\\\\la salle d'exposition,//(4.015263,7.560435)\\\\le personnel a pour ordre de le contacter au moindre//(7.560435,8.866595)\\\\problème. Apparemment,//(8.866595,12.05725)\\\\il estime être le seul capable de réparer son//(12.05725,13.72939)\\\\prototype. Hum.//(13.72939,17.4016)\\\\Vous devriez peut-être jeter un œil sous le capot ?//(17.4016,21.53243)\\\\Comme on dit, on ne touche pas à la voiture d'autrui,//(21.53243,22.72302)\\\\c'est sacré.",
+			"it": "//(0,2.412883)\\\\Robert Knox ha messo in mostra un'auto da corsa//(2.412883,4.036421)\\\\nel palazzo dell'esposizione,//(4.036421,6.214133)\\\\lo staff sul posto ha ricevuto istruzioni di//(6.214133,9.022722)\\\\chiamarlo per qualsiasi segno di malfunzionamento.//(9.022722,10.27289)\\\\A quanto pare,//(10.27289,13.02738)\\\\Knox è l'unico a mettere le mani sulla sua auto,//(13.02738,14.16839)\\\\non si fida di nessun altro.//(14.16839,19.20557)\\\\Mmh. Forse è il caso di dare un'occhiata sotto il cofano, 47.//(19.20557,21.08226)\\\\Si dice che un uomo non dovrebbe//(21.08226,25.49085)\\\\mai toccare l'auto di un altro.",
+			"de": "//(0,2.04259)\\\\Robert Knox stellt einen Rennwagen im//(2.04259,4.739277)\\\\Messegebäude aus, und der Angestellte am Stand//(4.739277,7.155964)\\\\ist klar angewiesen worden, ihn zu holen,//(7.155964,9.506154)\\\\falls es eine Fehlfunktion gibt.//(9.506154,11.95973)\\\\Anscheinend traut Knox niemand anderem zu,//(11.95973,13.88387)\\\\den Wagen zu reparieren.//(13.88387,16.84246)\\\\Hm. Vielleicht sollten Sie mal einen//(16.84246,19.11214)\\\\Blick unter die Haube werfen, 47?//(19.11214,20.96801)\\\\Eventuell sorgen Sie ja dafür,//(20.96801,22.72302)\\\\dass er eine Schraube locker hat ...",
+			"es": "//(0,2.934135)\\\\Robert Knox tiene un coche de carreras a la vista//(2.934135,5.868271)\\\\del público en el edificio de la exposición y el//(5.868271,7.335339)\\\\personal tiene instrucciones precisas de//(7.335339,9.494372)\\\\llamarlo al menor síntoma de avería.//(9.494372,12.81757)\\\\Al parecer, Knox no confía en nadie más que él para//(12.81757,14.09637)\\\\arreglar su bólido.//(14.09637,18.11154)\\\\Mmm. A lo mejor va siendo hora de hurgar bajo el capó,//(18.11154,21.44423)\\\\47. Dicen que nunca hay que meterse con el vehículo//(21.44423,22.72302)\\\\de otro hombre.",
+			"ru": "//(0,2.584723)\\\\В выставочном комплексе находится болид Роберта//(2.584723,6.171457)\\\\Нокса, и персонал обязан сообщать о любых проблемах//(6.171457,8.189408)\\\\лично Ноксу. Очевидно,//(8.189408,11.20492)\\\\Нокс никому не доверяет починку автомобиля и//(11.20492,13.08243)\\\\займется этим сам.//(13.08243,16.82353)\\\\Хм. Почему бы не похимичить под капотом,//(16.82353,19.41271)\\\\а, 47-й? Самое время,//(19.41271,20.41472)\\\\как говорится,//(20.41472,22.72302)\\\\«вставить палки в колеса».",
+			"cn": "//(0,4)\\\\罗伯特·诺克斯在展会大楼展出了一辆赛车，//(4,9.6)\\\\并要求会场工作人员有任何故障都要第一时间通知他。//(9.6,14.2)\\\\很明显，诺克斯不会把这辆车交给其他人修理。//(14.2,22.723)\\\\嗯。也许是时候该在引擎盖下面做点文章了吧？俗话说别人的车别乱碰嘛。",
+			"tc": "//(0,4)\\\\羅伯特．諾克斯在展覽大樓展出一輛賽車，//(4,9.6)\\\\並要求會場工作人員有任何故障都要第一時間通知他。//(9.6,14.2)\\\\很明顯，諾克斯不會把這輛車交給其他人修理。//(14.2,22.72302)\\\\嗯。也許是時候該在引擎蓋下面做點文章了吧？俗話說別人的車別亂碰嘛。",
+			"jp": "//(0,4.01)\\\\ロバート・ノックスはモーターショーでレーシングカーを展示しているわ。//(4.01,7.051)\\\\そこのスタッフはどんなに小さな故障でも//(7.051,9.529)\\\\彼を呼ぶようにきつく指示されているらしいの。//(9.529,14.323)\\\\ノックスは他の誰にも修理させたくないみたい。//(14.323,19.211)\\\\そうね、ボンネットの下を弄ってみたらどうかしら、47？//(19.211,24.0911)\\\\巷では他の男のクルマに手を出すな、と言うけれどね。"
+		}
+	}
+}

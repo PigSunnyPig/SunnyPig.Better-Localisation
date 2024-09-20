@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/italy/10000_copperhead/10000_handler/ds10020_fuelbriefing.sweetdialog?/ds10020_fuelbriefing_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds10020_fuelbriefing_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/10000_copperhead/10000_handler/ds10020_fuelbriefing_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/10000_copperhead/10000_handler/ds10020_fuelbriefing_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,6.125276)\\\\According to the special effects crew, Dino Bosco demands bigger, more lavish flames.//(6.125276,36.12527)\\\\I believe we should give him what he wants.",
+			"fr": "//(0,1.93)\\\\Selon l'équipe en charge des effets spéciaux,//(1.93,6)\\\\Dino Bosco demande des flammes plus grandes et abondantes.//(6,36)\\\\Je pense qu'on devrait lui donner ce qu'il souhaite.",
+			"it": "//(0,5.787178)\\\\Secondo la squadra degli effetti speciali, Dino Bosco esige fiamme più grandi.//(5.787178,35.78718)\\\\Penso che dovremmo dargli ciò che desidera.",
+			"de": "//(0,6)\\\\Laut der Crew für Spezialeffekte verlangt Dino Bosco nach größeren, noch aufwendigeren Flammen.//(6,36)\\\\Ich denke, wir sollten seinen Wunsch erfüllen.",
+			"es": "//(0,5.773374)\\\\Según el equipo de efectos especiales, Dino Bosco exige llamas mayores y más abundantes.//(5.773374,35.77337)\\\\Creo que deberíamos darle lo que desea.",
+			"ru": "//(0,1.960491)\\\\По словам группы специальных эффектов,//(1.960491,5.95)\\\\Дино Боско требует еще более грандиозного пламени.//(5.95,35.95)\\\\Мне кажется, надо исполнить его желание.",
+			"cn": "//(0,6)\\\\根据特效工作人员所说，迪诺·博斯科要求使用更为盛大的火焰。//(6,36)\\\\我想我们该让他得偿所愿。",
+			"tc": "//(0,30)\\\\根據特效工作人員所說，迪諾．博斯科要求使用更大的火焰。我想我們該讓他得償所願。",
+			"jp": "//(0,6.654963)\\\\特殊効果班に よると、 ディーノ・ボスコは 盛大な炎を 求めてる。 せっかくだから、 彼の望みを叶えてあげたら？"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/rat/43000_handler/ds43370_exitolivialoc47diana.sweetdialog?/ds43370_exitolivialoc47diana_oliviahall_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds43370_exitolivialoc47diana_oliviahall_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/rat/43000_handler/ds43370_exitolivialoc47diana_oliviahall_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/rat/43000_handler/ds43370_exitolivialoc47diana_oliviahall_002.animset].pc_animset",
+		"languages": {
+			"en": "//[OLIVIAHALL]\\\\//(0,30)\\\\But first, you need to locate all files referencing Diana and yourself.",
+			"fr": "//[OLIVIAHALL]\\\\//(0,30)\\\\Vous devez d'abord trouver tous les dossiers sur Diana et vous.",
+			"it": "//[OLIVIAHALL]\\\\//(0,30)\\\\Ma prima devi localizzare tutti i file che fanno riferimento a Diana e a te.",
+			"de": "//[OLIVIAHALL]\\\\//(0,30)\\\\Aber erst müssen Sie alle Akten finden, die auf Diana und Sie verweisen.",
+			"es": "//[OLIVIAHALL]\\\\//(0,30)\\\\Pero antes necesito que localices todos los archivos que hagan referencia a Diana y a ti.",
+			"ru": "//[OLIVIAHALL]\\\\//(0,1.7)\\\\Но сначала найди все файлы,//(1.7,31.7)\\\\в которых есть упоминания Дианы и тебя.",
+			"cn": "//[OLIVIAHALL]\\\\//(0,30)\\\\但首先，你得找到所有与你和戴安娜有关的文件。",
+			"tc": "//[OLIVIAHALL]\\\\//(0,30)\\\\但首先，你得先找到提及戴安娜和你自己的所有檔案。",
+			"jp": "//[OLIVIAHALL]\\\\//(0,30)\\\\でも、まずはダイアナとあなたに関するファイルを見つけないと。"
+		}
+	}
+}

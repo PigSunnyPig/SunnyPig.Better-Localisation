@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_magpie/29000_handler/ds29038_constantsecuregrey.sweetdialog?/ds29038_constantsecuregrey_diana_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds29038_constantsecuregrey_diana_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_magpie/29000_handler/ds29038_constantsecuregrey_diana_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_magpie/29000_handler/ds29038_constantsecuregrey_diana_002.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,2.773972)\\\\Bloody hell. That was a close call.//(2.773972,5)\\\\But we're not in the clear yet, 47.//(5,9.55767)\\\\You need to take down the Washington twins and fast - before they activate the kill switch.//(9.55767,12.45767)\\\\Go, now. The clock is ticking.",
+			"fr": "//[DIANA]\\\\//(0,3.306463)\\\\Bon sang ! Ça s'est joué à peu de chose.//(3.306463,5.440156)\\\\Mais, ce n'est pas fini.//(5.440156,7.459466)\\\\Vous devez éliminer rapidement les Washington,//(7.459466,9.808306)\\\\avant qu'elles n'activent la puce empoisonnée.//(9.808306,12.15715)\\\\Vite ! Le temps nous est compté.",
+			"it": "//[DIANA]\\\\//(0,3.06)\\\\Cavolo, per un pelo.//(3.06,5.245)\\\\Ma non abbiamo ancora finito, 47.//(5.245,7.844875)\\\\Devi eliminare le gemelle Washington e in fretta,//(7.844875,9.71)\\\\prima che azionino l'interruttore mortale.//(9.71,13.15776)\\\\Presto! Il tempo vola.",
+			"de": "//[DIANA]\\\\//(0,1.182646)\\\\Ach du Schande.//(1.182646,2.907997)\\\\Das war eine knappe Sache.//(2.907997,4.85)\\\\Aber wir haben es noch nicht ganz geschafft, 47.//(4.85,6.85)\\\\Wir müssen die Washington-Zwillinge ausschalten,//(6.85,7.9)\\\\und zwar schnell –//(7.9,9.5)\\\\bevor sie den Killschalter aktivieren können.//(9.5,12.15715)\\\\Los jetzt. Die Uhr läuft.",
+			"es": "//[DIANA]\\\\//(0,2.263618)\\\\Rayos. Qué poco ha faltado...//(2.263618,4.822)\\\\Pero esto aún no ha acabado, 47.//(4.822,7.886786)\\\\Debes acabar con las gemelas Washington cuanto antes,//(7.886786,9.7053)\\\\para que no activen el interruptor letal.//(9.7053,12.15715)\\\\¡Venga! Que se nos acaba el tiempo.",
+			"ru": "//[DIANA]\\\\//(0,2.907769)\\\\Черт возьми. Мы были на волоске.//(2.907769,4.695242)\\\\Но радоваться еще рано.//(4.695242,7.030353)\\\\Тебе нужно как можно скорее убрать сестер//(7.030353,9.59375)\\\\Вашингтон, пока они не активировали чип.//(9.59375,12.15715)\\\\Давай, бегом! У нас мало времени.",
+			"cn": "//[DIANA]\\\\//(0,5.08)\\\\真见鬼。这可真是好险。但我们的任务还没完成，47。//(5.08,12.157)\\\\你仍需要尽快消灭华盛顿姐妹——以防她们按下杀人开关。现在就行动。时间不等人。",
+			"tc": "//[DIANA]\\\\//(0,4.9)\\\\真見鬼。這可真是好險。但我們的任務還沒完成，47。//(4.9,12.15715)\\\\你仍需要儘快消滅華盛頓姐妹—— 以防她們按下殺人開關。現在就行動。時間不等人。",
+			"jp": "//[DIANA]\\\\//(0,3)\\\\やれやれ。間一髪ね。//(3,5)\\\\でも安心するのはまだ早いわ、47。//(5,8)\\\\ワシントン姉妹を素早く仕留めるのよ。//(8,9.5)\\\\彼女たちがキルスイッチを作動させる前に。//(9.5,12.15715)\\\\さあ行って。時間がないわ。"
+		}
+	}
+}

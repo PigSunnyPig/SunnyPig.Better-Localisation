@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/golden/gecko/40000_handler/ds40005_missioncomplete.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds40005_missioncomplete_grey_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/gecko/40000_handler/ds40005_missioncomplete_grey_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/gecko/40000_handler/ds40005_missioncomplete_grey_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,3.754948)\\\\We got 'em, 47. Soon there will be no more Providence.//(3.754948,5.722535)\\\\You need to find an exit.//(5.722535,7.422725)\\\\Our business is done here.//(7.422725,9.122916)\\\\But it's far from over.",
+					"fr": "//(0,2.06)\\\\On les a eus, 47.//(2.06,5.2)\\\\Providence ne sera bientôt plus qu'un lointain souvenir.//(5.2,6.8)\\\\Il faut que tu trouves une sortie.//(6.8,9.123)\\\\On a fini le boulot ici. Mais c'est loin d'être terminé.",
+					"it": "//(0,2.092393)\\\\Li abbiamo presi, 47.//(2.092393,5.13)\\\\Presto non esisterà più nessuna Providence.//(5.13,6.49)\\\\Devi trovare l'uscita.//(6.49,11.35987)\\\\Il nostro lavoro qui è stato completato. Ma è tutt'altro che concluso.",
+					"de": "//(0,2.092393)\\\\Wir haben sie, 47.//(2.092393,4.698023)\\\\Bald wird es kein Providence mehr geben.//(4.698023,6.3498)\\\\Wir müssen einen Ausgang suchen.//(6.3498,7.701577)\\\\Unsere Angelegenheiten hier sind erledigt.//(7.701577,9.122916)\\\\Aber es ist noch lange nicht vorbei.",
+					"es": "//(0,4.6)\\\\Los tenemos, 47. Providence será pronto historia.//(5,9.122916)\\\\Tienes que encontrar una salida. Aquí hemos terminado, pero falta mucho por hacer.",
+					"ru": "//(0,3.696687)\\\\Мы их убрали, 47-й. «Провиденсу» скоро конец.//(3.696687,7.641473)\\\\Пора искать выход. Здесь нам больше делать нечего.//(7.641473,37.64147)\\\\Но это еще не конец.",
+					"cn": "//(0,4.502)\\\\我们把他们都干掉了，47。用不了多久，神意秘会就不复存在。//(4.502,34.502)\\\\你得想办法逃出去。我们在这里的事情都办完了，但我们的任务还远未完成。",
+					"tc": "//(0,5)\\\\解決他們了，47。很快，神意秘會就會不復存在了。//(5,35)\\\\你得找到出口。我們在這裡的任務已經結束了，但我們還有很多事得做。",
+					"jp": "//(0,4.925)\\\\二人とも始末したな、47。じきにプロヴィデンスはなくなるだろう。//(4.925,34.925)\\\\さあ、出口を探せ。ここでの用は済んだ。でも、まだ終わってはいない。"
+				}
+			}
+		]
+	}
+}

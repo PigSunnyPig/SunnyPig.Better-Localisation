@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_skunk/27000_handler/ds27042_oppfumigationbrief.sweetdialog?/ds27042_oppfumigationbrief_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds27042_oppfumigationbrief_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_skunk/27000_handler/ds27042_oppfumigationbrief_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_skunk/27000_handler/ds27042_oppfumigationbrief_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,3.082708)\\\\Apparently there is a fumigator in town.//(3.082708,6.272688)\\\\He's working on a house belonging to a \"James Batty\"//(6.272688,9.214394)\\\\and has previously been working on Cassidy's house.//(9.214394,13.15347)\\\\The fumigator has stored some of his chemicals, a strong sedative,//(13.15347,16.079)\\\\in a container in a vacant lot near the creek.//(16.079,18.62926)\\\\Sounds like this could be useful, 47.",
+			"fr": "//[DIANA]\\\\//(0,2.97503)\\\\Il y a apparemment un exterminateur en ville.//(2.97503,6.144)\\\\Il travaille sur une maison appartenant à un certain James Batty,//(6.144,9.151)\\\\et s'occupait de celle de Cassidy juste avant.//(9.151,13.2)\\\\Il a entreposé ses produits, des sédatifs puissants,//(13.2,16.25)\\\\dans un conteneur dans une maison vacante près de la rivière.//(16.25,19.69032)\\\\Cela pourrait être utile, 47.",
+			"it": "//[DIANA]\\\\//(0,3.083)\\\\A quanto pare c'è un disinfestatore in città.//(3.083,6.2)\\\\Attualmente lavora nella casa di un certo \"James Batty\",//(6.2,9.2)\\\\mentre prima ha svolto un incarico a casa di Cassidy.//(9.2,12)\\\\Il disinfestatore ha sistemato uno di suoi agenti chimici,//(12,13.2)\\\\un forte sedativo,//(13.2,14.2)\\\\in un container presso//(14.2,16.1)\\\\un parcheggio vuoto vicino al torrente.//(16.1,19.85337)\\\\Credo che potrebbe essere utile, 47.",
+			"de": "//[DIANA]\\\\//(0,3.091129)\\\\Anscheinend ist ein Kammerjäger in der Stadt.//(3.091129,4.110357)\\\\Er hat ein Haus begast,//(4.110357,6.279585)\\\\das einem „James Batty“ gehört,//(6.279585,9.3)\\\\und sich vorher um Cassidys Haus gekümmert.//(9.3,12)\\\\Der Begaser hat eine seiner Chemikalien,//(12,13.2)\\\\ein starkes Betäubungsmittel,//(13.2,15)\\\\in einem Container auf einem leeren Grundstück//(15,16.2)\\\\beim Bach verstaut.//(16.2,18.77314)\\\\Das klingt, als ob es noch nützlich sein könnte, 47.",
+			"es": "//[DIANA]\\\\//(0,2.976207)\\\\Al parecer, hay un fumigador en el vecindario.//(2.976207,5)\\\\Está trabajando en una vivienda que pertenece a//(5,8.925445)\\\\«James Batty» y antes trabajó en la casa de Cassidy.//(8.925445,13.1)\\\\El fumigador ha guardado parte de sus productos químicos, un fuerte sedante,//(13.1,16.2)\\\\en un contenedor en una parcela vacía situada cerca del arroyo.//(16.2,18.63382)\\\\Podría sernos útil, 47.",
+			"ru": "//[DIANA]\\\\//(0,2.737536)\\\\Похоже, в городе работает дезинсектор.//(2.737536,6.237863)\\\\Сейчас он обрабатывает дом некоего «Джеймса Бетти»,//(6.237863,9.151431)\\\\а до этого занимался домом Кэссиди.//(9.151431,11.72812)\\\\Дезинсектор хранит часть своих химикатов и мощное//(11.72812,16.0729)\\\\успокоительное в контейнере на пустом участке у ручья.//(16.0729,18.46871)\\\\Возможно, они тебе пригодятся, 47-й.",
+			"cn": "//[DIANA]\\\\//(0,6.247)\\\\镇上显然来了熏蒸除虫师。他正在为一个叫“詹姆斯·巴蒂”的人的住处除虫。//(6.247,9.3)\\\\在这之前，他为卡西迪的家消过毒。//(9.3,16.232)\\\\熏蒸除虫师把他的部分药品和强效镇定剂存放在了小溪附近的一处闲置空地上。//(16.232,18.469)\\\\似乎能为你所用，47。",
+			"tc": "//[DIANA]\\\\//(0,2.868)\\\\鎮上顯然來了銘薰蒸除蟲師。//(2.868,6.236)\\\\他正在為叫「詹姆斯．巴蒂」的住處除蟲。//(6.236,9.204)\\\\在這之前，他為凱西迪的家消過毒。//(9.204,15.972)\\\\薰蒸除蟲師把他的部分藥品和強效鎮定劑存放在小溪附近的一處閒置空地上。//(15.972,18.46871)\\\\似乎可以讓你使用，47。",
+			"jp": "//[DIANA]\\\\//(0,2.962)\\\\町にはくん蒸消毒業者がいるということよ。//(2.962,6.04)\\\\彼は今「ジェームズ・バティ」の家で仕事をしているわ。//(6.04,9.12)\\\\以前はキャシディの家で作業をしていたみたい。//(9.12,13.23)\\\\このくん蒸消毒業者は強力な鎮静効果のあるいくつかの薬品を//(13.23,16.125)\\\\小川の近くの空き地にあるコンテナに保管しているわ。//(16.125,18.46871)\\\\役に立つかもしれないわね、47。"
+		}
+	}
+}

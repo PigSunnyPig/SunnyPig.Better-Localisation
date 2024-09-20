@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_magpie/29000_handler/ds29031_constantdead.sweetdialog?/ds29031_constantdead_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds29031_constantdead_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_magpie/29000_handler/ds29031_constantdead_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_magpie/29000_handler/ds29031_constantdead_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.91016)\\\\No! 47, that was our only lead on the Partners.//(3.91016,4.91016)\\\\Abort mission!",
+			"fr": "//(0,2.932216)\\\\Non ! 47, c'était notre seule piste menant aux//(2.932216,3.762764)\\\\partenaires.//(3.762764,4.819292)\\\\Annulez la mission !",
+			"it": "//(0,3.834713)\\\\No! 47, era l'unica pista che poteva condurci ai soci.//(3.834713,4.834713)\\\\Annullare la missione!",
+			"de": "//(0,3.91016)\\\\Nein! 47, das war unsere einzige Spur zu den Partnern.//(3.91016,4.91016)\\\\Mission abbrechen!",
+			"es": "//(0,3.834713)\\\\¡No! 47, esa era nuestra única pista sobre los socios.//(3.834713,4.834713)\\\\¡Abortamos la misión!",
+			"ru": "//(0,3.842319)\\\\Нет! 47-й, только он мог вывести нас на Партнеров.//(3.842319,4.842319)\\\\Прекращаем операцию!",
+			"cn": "//(0,30)\\\\不！47，那是我们对“同伙”的唯一线索。任务终止！",
+			"tc": "//(0,30)\\\\不！47，那是我們對「同夥」的唯一線索。任務終止！",
+			"jp": "//(0,30)\\\\ダメよ！47、彼がパートナーたちへの唯一の繋がりだったのよ。任務中止！"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25075_kashmirianscountingalternate.sweetdialog?/ds25075_kashmirianscountingalternate_diana_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25075_kashmirianscountingalternate_diana_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25075_kashmirianscountingalternate_diana_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25075_kashmirianscountingalternate_diana_002.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.930491)\\\\Karan Dhar, aka The Kashmirian,//(2.930491,7.770062)\\\\was born in the US but fled to his mother's native land India twenty years ago//(7.770062,12.58724)\\\\following an FBI investigation into a string of serial killings in Texas.//(12.58724,18.04491)\\\\He adopted a new identity here and now works as a gun for hire for local mobsters.//(18.04491,48.04491)\\\\But who would want Rangan dead?",
+			"fr": "//(0,3.552883)\\\\Kharan Dhar, alias le Cachemiri, est né aux États-Unis,//(3.552883,8)\\\\mais s'est envolé vers l'Inde, le pays de sa mère, il y a vingt ans,//(8,12.73528)\\\\suite à une enquête du FBI sur une série de meurtres au Texas.//(12.73528,14.584)\\\\Il a adopté une nouvelle identité//(14.584,18.157)\\\\et travaille désormais comme mercenaire pour les bandits locaux.//(18.157,48.157)\\\\Mais qui voudrait la mort de Rangan ?",
+			"it": "//(0,4.040982)\\\\Karan Dhar, soprannominato il Kashmiro, è nato negli Stati Uniti,//(4.040982,8.066)\\\\ma vent'anni fa è scappato in India, la terra nativa di sua madre,//(8.066,13)\\\\a seguito di un'indagine dell'FBI su una serie di omicidi in Texas.//(13,18)\\\\In India ha assunto una nuova identità e ora lavora come assassino su commissione per i gangster locali.//(18,48)\\\\Chi è che potrebbe volere Rangan morto?",
+			"de": "//(0,2.590491)\\\\Kharan Dhar alias der Kaschmiri//(2.590491,6.291472)\\\\wurde in den USA geboren, aber floh vor zwanzig Jahren//(6.291472,9.258158)\\\\zurück nach Indien, als das FBI begann,//(9.258158,12.38485)\\\\einer Reihe von Serienmorden in Texas nachzuspüren.//(12.38485,14.89773)\\\\Er nahm eine neue Identität an und arbeitet jetzt//(14.89773,17.80632)\\\\als Söldner für die örtlichen Gangster.//(17.80632,47.80632)\\\\Aber wer würde Rangan tot sehen wollen?",
+			"es": "//(0,4.052883)\\\\Karan Dhar, alias «el Cachemir», nació en Estados Unidos.//(4.052883,8.341963)\\\\Sin embargo, hace veinte años, cuando el FBI empezó a investigar//(8.341963,12.9)\\\\unos asesinatos en serie en Texas, huyó a la India natal de su madre.//(12.9,18.1)\\\\Allí adoptó una nueva identidad y ahora trabaja como mercenario para las mafias locales.//(18.1,48.1)\\\\La duda es, ¿quién querrá ver a Rangan muerto?",
+			"ru": "//(0,4.465)\\\\Каран Дхар по кличке Кашмирец родился в США,//(4.465,7.903865)\\\\но двадцать лет назад сбежал в Индию, на родину своей матери,//(7.903865,12.767)\\\\когда ФБР взялось за расследование серии убийств в Техасе.//(12.767,18.148)\\\\Здесь он сменил имя и сейчас выполняет заказы местных бандитов.//(18.148,48.148)\\\\Но кто желает смерти Давуду Ранжану?",
+			"cn": "//(0,4.4)\\\\卡兰·达尔，绰号“克什米尔人”，出生在美国，//(4.4,9)\\\\但在20年前由于FBI对德克萨斯州的一系列连环凶杀案展开调查后，//(9,12.5)\\\\他逃回到母亲的祖国印度。//(12.5,18)\\\\他在这里换了个新的身份，现在为当地黑帮充当杀手。//(18,48)\\\\但谁会想杀掉朗甘呢？",
+			"tc": "//(0,4.4)\\\\卡蘭．達爾，人稱「喀什米爾人」，在美國出生，//(4.4,12.5)\\\\但是在二十年前FBI調查德州的連環殺人案件後，逃到母親的出生地印度。//(12.5,18)\\\\他在此換上新的身分，現在以作為當地流氓的槍手為生。//(18,48)\\\\但誰希望致朗甘於死地？",
+			"jp": "//(0,2.93)\\\\カラン・ダール、別名カシミリアン。//(2.93,8)\\\\アメリカ生まれだけど、20年前に母親の故郷であるインドに逃亡した男ね。//(8,12.51)\\\\FBIがテキサス州で発生した連続殺人事件を捜査した直後のことよ。//(12.51,14.69)\\\\彼はこの地で新たな身元を手に入れて、//(14.69,18.1)\\\\現在は地元のギャングの殺し屋として働いているわ。//(18.1,48.1)\\\\それにしても、一体誰がランガンを狙っているのかしら？"
+		}
+	}
+}

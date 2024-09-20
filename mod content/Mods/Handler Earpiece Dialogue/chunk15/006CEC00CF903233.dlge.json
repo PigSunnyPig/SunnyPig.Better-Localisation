@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_penicillin/29000_penicillin_handler/ds29755_missiondoneko.sweetdialog?/ds29755_missiondoneko_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds29755_missiondoneko_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_handler/ds29755_missiondoneko_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_handler/ds29755_missiondoneko_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.1)\\\\Impressive punch, 47.//(2.1,4.8)\\\\Target eliminated. Head for an exit.//(4.8,34.8)\\\\Your money is being wired to your account.",
+			"fr": "//(0,2.1)\\\\Jolie technique, 47.//(2.1,4.8)\\\\Cible éliminée. Trouvez une issue à présent,//(4.8,34.8)\\\\je m'occupe du transfert sur votre compte.",
+			"it": "//(0,2.1)\\\\Bel pugno, 47.//(2.1,4.8)\\\\Bersaglio eliminato. Dirigiti verso un'uscita.//(4.8,34.8)\\\\Il denaro è in fase di trasferimento.",
+			"de": "//(0,2.1)\\\\Eindrucksvoller Schlag, 47.//(2.1,4.8)\\\\Ziel eliminiert. Gehen Sie zu einem Ausgang.//(4.8,34.8)\\\\Ihr Geld wird jetzt auf Ihr Konto überwiesen.",
+			"es": "//(0,2.1)\\\\Qué puñetazos tan impresionantes, 47.//(2.1,4.8)\\\\Objetivo eliminado. Busca una salida.//(4.8,34.8)\\\\Ya se te está transfiriendo el dinero a tu cuenta.",
+			"ru": "//(0,2.1)\\\\Впечатляющий удар, 47-й.//(2.1,4.8)\\\\Цель устранена. Иди к выходу.//(4.8,34.8)\\\\Деньги уже переводятся на твой счет.",
+			"cn": "//(0,2.1)\\\\精彩的一拳，47。//(2.1,4.8)\\\\目标已消灭。前往出口。//(4.8,34.8)\\\\我们正在把钱转给你。",
+			"tc": "//(0,3.9)\\\\打得真漂亮，47。目標已消滅。//(3.9,33.9)\\\\找出口離開吧，我們馬上把錢轉到你的帳戶。",
+			"jp": "//(0,2.1)\\\\見事なパンチだったわ、47。//(2.1,4.8)\\\\ターゲット排除完了。出口を探して。//(4.8,34.8)\\\\口座に報酬を送金中よ。"
+		}
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_elusive/27000_alabamaslammer/27000_alabamaslammer_handler/ds27402_missiondone.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds27402_missiondone_diana_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_elusive/27000_alabamaslammer/27000_alabamaslammer_handler/ds27402_missiondone_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_elusive/27000_alabamaslammer/27000_alabamaslammer_handler/ds27402_missiondone_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,2.136658)\\\\That was an A+, 47.//(2.136658,4.16911)\\\\The money is being transferred.//(4.16911,6.201562)\\\\Now to find an exit.",
+					"fr": "//(0,2.6)\\\\Voilà qui vaut bien un A+, 47.//(2.6,4.6)\\\\L'argent est en cours de transfert.//(4.6,6.422316)\\\\Il est temps de trouver une sortie, à présent.",
+					"it": "//(0,1.315032)\\\\Ti meriti una A+,//(1.315032,4.268735)\\\\47. Il denaro è fase di trasferimento.//(4.268735,6.201562)\\\\È ora di trovare l'uscita.",
+					"de": "//(0,2.87)\\\\Das war eine 1+ mit Sternchen, 47.//(2.87,4.857685)\\\\Das Geld wird Ihnen überwiesen.//(4.857685,6.201562)\\\\Jetzt wird es Zeit, einen Ausgang zu finden.",
+					"es": "//(0,1.674331)\\\\Lo has hecho de matrícula,//(1.674331,4.414583)\\\\47. Te estoy transfiriendo el dinero.//(4.414583,6.201562)\\\\Ahora, busca una salida.",
+					"ru": "//(0,2.760491)\\\\Это пять с плюсом, 47-й.//(2.760491,4.488762)\\\\Деньги уже переведены на твой счет.//(4.488762,6.201562)\\\\Теперь пора искать выход.",
+					"cn": "//(0,30)\\\\你这场表演绝对是A+级了，47。我们正在把钱转给你。该找出口了。",
+					"tc": "//(0,30)\\\\表現非常好，47。資金已經在轉帳了。去找個出口吧。",
+					"jp": "//(0,30)\\\\今のはA+だわ、47。報酬を送金中よ。さあ脱出ポイントを探して。"
+				}
+			}
+		]
+	}
+}

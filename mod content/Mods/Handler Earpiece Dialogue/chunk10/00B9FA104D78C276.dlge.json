@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/opulent/34000_stingray/34000_handler/ds34014_doctoroppreveal.sweetdialog?/ds34014_doctoroppreveal_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds34014_doctoroppreveal_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/opulent/34000_stingray/34000_handler/ds34014_doctoroppreveal_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/opulent/34000_stingray/34000_handler/ds34014_doctoroppreveal_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.487838)\\\\Tyson Williams has summoned a doctor to the island.//(3.487838,6.302239)\\\\He must be feeling under the weather.//(6.302239,8.769034)\\\\You have some experience with pain relief,//(8.769034,12.04081)\\\\47. Maybe you can be of assistance?",
+			"fr": "//(0,3.55484)\\\\Tyson Williams a fait venir un médecin sur l'île.//(3.55484,6.766494)\\\\Il ne doit pas se sentir très bien.//(6.766494,7.907932)\\\\Peut-être pourriez-vous l'aider,//(7.907932,9.515532)\\\\47. Après tout,//(9.515532,12.04081)\\\\abréger les souffrances est votre spécialité.",
+			"it": "//(0,3.072136)\\\\Tyson Williams ha chiamato un dottore sull'isola.//(3.072136,5.041611)\\\\Deve sentirsi poco bene.//(5.041611,8.83697)\\\\Tu ne sai qualcosa su come si allieva il dolore,//(8.83697,12.04081)\\\\47. Potresti dare il tuo contribuito.",
+			"de": "//(0,3.117646)\\\\Tyson Williams hat einen Arzt auf die Insel kommen//(3.117646,6.48355)\\\\lassen. Er fühlt sich wohl nicht gut.//(6.48355,8.56198)\\\\Sie haben doch Erfahrung in Sachen//(8.56198,9.021314)\\\\Schmerzlinderung,//(9.021314,12.04081)\\\\47. Vielleicht können Sie ihm aushelfen?",
+			"es": "//(0,3.028424)\\\\Tyson Williams ha pedido que un médico venga a la//(3.028424,6.273885)\\\\isla. Supongo que no se encuentra muy bien.//(6.273885,8.696625)\\\\Tú tienes experiencia haciendo que la gente deje//(8.696625,12.04081)\\\\de sufrir, 47. Quizás puedas echarle una mano.",
+			"ru": "//(0,3.396556)\\\\Тайсон Уильямс вызвал врача на остров.//(3.396556,5.558813)\\\\Видимо, ему нездоровится.//(5.558813,8.47885)\\\\Ты умеешь избавлять людей от боли,//(8.47885,12.04081)\\\\47-й. Не хочешь ему помочь?",
+			"cn": "//(0,5.7)\\\\泰森·威廉姆斯请了一名医生来岛上。他肯定是感觉身体不适。//(5.7,12.04081)\\\\47，你在结束他人痛苦方面很有经验。要不你去帮他一把？",
+			"tc": "//(0,5.7)\\\\泰森‧威廉斯叫了島上的醫生。他肯定感到不太舒服。//(5.7,12.1)\\\\你很懂得幫人抒解疼痛，47。或許你能夠去幫幫他？",
+			"jp": "//(0,12.04081)\\\\タイソン・ウィリアムズは島に医師を呼んでいるわね。体調を崩しているのは間違いない。痛みを和らげることに関してはいくらか経験があるでしょ。お手伝いしてあげたらどうかしら、47？"
+		}
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_kingcobra/25000_kingcobra_handler/ds25600_missiondone.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds25600_missiondone_diana_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_kingcobra/25000_kingcobra_handler/ds25600_missiondone_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_kingcobra/25000_kingcobra_handler/ds25600_missiondone_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,1.057028)\\\\Target eliminated.//(1.057028,4.204505)\\\\Looks like no one else needs to worry about falling//(4.204505,5.891028)\\\\under Basil Carnaby’s spell.//(5.891028,7.680159)\\\\Take a bow, 47.",
+					"fr": "//(0,1.117269)\\\\Cible éliminée.//(1.117269,6)\\\\On dirait que plus personne ne subira les magouilles de Basil Carnaby, désormais.//(6,7.776363)\\\\Bon travail, 47.",
+					"it": "//(0,1.133273)\\\\Bersaglio eliminato.//(1.133273,3.83288)\\\\A quanto pare nessuno dovrà più preoccuparsi di//(3.83288,6.315957)\\\\finire sotto l'incantesimo di Basil Carnaby.//(6.315957,6.763417)\\\\Complimenti,//(6.763417,7.763417)\\\\47.",
+					"de": "//(0,1.75)\\\\Ziel eliminiert.//(1.75,4)\\\\Sieht so aus, als würde Basil Carnaby so schnell//(4,6)\\\\niemanden mehr verzaubern.//(6,7.894934)\\\\Zeit für eine Verbeugung, 47.",
+					"es": "//(0,1.5)\\\\Objetivo eliminado.//(1.5,3.8)\\\\Creo que ya nadie corre el riesgo//(3.8,6)\\\\de sucumbir al hechizo de Carnaby.//(6,8.819271)\\\\Saluda al público, 47.",
+					"ru": "//(0,1.305334)\\\\Цель уничтожена.//(1.305334,6.086316)\\\\Теперь никто больше не угодит в цепкие сети Базиля Карнеби.//(6.086316,7.680159)\\\\Мое почтение, 47-й.",
+					"cn": "//(0,30)\\\\目标已消灭。没人需要担心再中巴瑟尔·卡纳比的招了。47，鞠躬谢幕吧。",
+					"tc": "//(0,6)\\\\目標已消滅，看來現在大家都不用擔心被巴希爾‧卡納比催眠了。//(6,7.7)\\\\下台一鞠躬，47。",
+					"jp": "//(0,1.642)\\\\ターゲット排除成功。//(1.642,5.91)\\\\これでもう、バジルの呪文にかかる心配は誰にもなくなるわね。//(5.91,7.680159)\\\\よくやったわ、47。"
+				}
+			}
+		]
+	}
+}

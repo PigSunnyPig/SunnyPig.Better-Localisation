@@ -1,0 +1,87 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/evergreen/handler/ed003_tryescape.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ed003_tryescape_diana_001",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed003_tryescape_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed003_tryescape_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,2.160454)\\\\47. The target is trying to escape.//(2.160454,3.351854)\\\\Don't let that happen.",
+					"fr": "//[DIANA]\\\\//(0,1.974808)\\\\47, la cible essaie de s'échapper.//(1.974808,3.351854)\\\\Arrêtez-la à tout prix.",
+					"it": "//[DIANA]\\\\//(0,2.026056)\\\\47. Il bersaglio sta cercando di fuggire.//(2.026056,3.351854)\\\\Non permettere che ci riesca.",
+					"de": "//[DIANA]\\\\//(0,2.15)\\\\47. Das Ziel will entkommen.//(2.15,32.15)\\\\Lassen Sie das nicht zu.",
+					"es": "//[DIANA]\\\\//(0,2.178589)\\\\47, el objetivo trata de escapar.//(2.178589,32.17859)\\\\No dejes que suceda.",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\47-й, цель пытается сбежать. Не допусти этого.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\47。目标正在逃跑。别让目标逃了。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\47，目標正在逃跑。別讓目標逃了。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\47。ターゲットが逃げようとしている。逃さないで！"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed003_tryescape_diana_002",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed003_tryescape_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed003_tryescape_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\You need to hurry. The target is trying to escape.",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Vous devez vous dépêcher. La cible tente de s'enfuir.",
+					"it": "//[DIANA]\\\\//(0,1.011938)\\\\Devi fare in fretta.//(1.011938,2.401583)\\\\Il bersaglio sta cercando di fuggire.",
+					"de": "//[DIANA]\\\\//(0,1)\\\\Sie müssen sich beeilen.//(1,31)\\\\Das Ziel will entkommen.",
+					"es": "//[DIANA]\\\\//(0,0.992393)\\\\Tienes que darte prisa,//(0.992393,30.99239)\\\\el objetivo trata de escapar.",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\Поспеши. Цель пытается скрыться.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\你得抓紧时间。目标正在逃跑。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\你動作得快一點，目標正在逃跑。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\急ぎなさい。ターゲットが逃げようとしている。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed003_tryescape_diana_003",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed003_tryescape_diana_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed003_tryescape_diana_003.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\Your target is trying to get away! Move!",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Votre cible essaie de s'enfuir ! Dépêchez-vous !",
+					"it": "//[DIANA]\\\\//(0,30)\\\\Il tuo bersaglio sta scappando! Muoviti!",
+					"de": "//[DIANA]\\\\//(0,1.55)\\\\Ihr Ziel versucht, davonzukommen!//(1.55,31.55)\\\\Bewegung!",
+					"es": "//[DIANA]\\\\//(0,1.322393)\\\\¡Tu objetivo intenta escapar!//(1.322393,31.32239)\\\\¡Muévete!",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\Твоя цель пытается сбежать! Действуй!",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\你的目标想逃！快行动！",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\你的目標正在逃跑！動作快！",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\ターゲットが逃げようとしているわ！急いで！"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed003_tryescape_diana_004",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed003_tryescape_diana_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed003_tryescape_diana_004.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\47! Your target is on to you and is trying to get away.",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\47 ! Votre cible vous a repéré et essaie de fuir.",
+					"it": "//[DIANA]\\\\//(0,3.333271)\\\\47! Il tuo bersaglio sa che sei qui e sta cercando di fuggire.",
+					"de": "//[DIANA]\\\\//(0,5.16908)\\\\47! Ihr Ziel ist Ihnen auf die Schliche gekommen und versucht, Ihnen zu entwischen.",
+					"es": "//[DIANA]\\\\//(0,2.028589)\\\\47, el objetivo te ha descubierto//(2.028589,32.02859)\\\\e intenta escapar.",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\47-й! Цель раскусила тебя и пытается улизнуть.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\47！目标发现你了，正在逃跑。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\47！你的目標發現你了，而且正在逃跑。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\47！ターゲットがあなたに気付いて逃げようとしているわ。"
+				}
+			}
+		]
+	}
+}

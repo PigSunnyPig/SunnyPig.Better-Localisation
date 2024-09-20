@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/newzealand/31000_sheep/31000_handler/31000_briefing.sweetdialog?/31000_briefing_diana_004.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "31000_briefing_diana_004",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_sheep/31000_handler/31000_briefing_diana_004.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_sheep/31000_handler/31000_briefing_diana_004.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,1.599424)\\\\Not yet, anyway.//(1.599424,3.945296)\\\\She's no doubt high on our client’s list.//(3.945296,6.791983)\\\\But for now, it's information we seek.//(6.791983,10.50916)\\\\Infiltrate the house and get us a lead on the shadow client.//(10.50916,13.52726)\\\\Up for some B&E, 47?",
+			"fr": "//[DIANA]\\\\//(0,1.6)\\\\Pas encore, du moins.//(1.6,3.85)\\\\Elle est bien placée sur la liste de notre client,//(3.85,7)\\\\mais pour l'instant, nous voulons juste des informations.//(7,9.25)\\\\Infiltrez la maison et trouvez ce que vous pouvez//(9.25,10.75)\\\\sur le client de l'ombre.//(10.75,40.75)\\\\Prêt pour un petit cambriolage, 47 ?",
+			"it": "//[DIANA]\\\\//(0,1.46)\\\\Non lo è ancora, perlomeno.//(1.46,4.01)\\\\Si trova certamente nelle prime posizioni della lista del nostro cliente.//(4.01,7)\\\\Ma per ora, cerchiamo solo informazioni.//(7,10.5)\\\\Infiltrati nella casa e dacci degli indizi sul cliente ombra.//(10.5,40.5)\\\\Sei pronto per fare irruzione, 47?",
+			"de": "//[DIANA]\\\\//(0,2.108589)\\\\Noch nicht zumindest. Sie steht zweifelsohne//(2.108589,3.935276)\\\\ganz oben auf der Liste unseres Klienten.//(3.935276,6.793865)\\\\Aber fürs Erste brauchen wir Informationen.//(6.793865,8.48865)\\\\Infiltrieren Sie das Haus und beschaffen Sie uns//(8.48865,10.55675)\\\\Hinweise auf den Schattenklienten.//(10.55675,40.55675)\\\\Lust auf einen kleinen Einbruch, 47?",
+			"es": "//[DIANA]\\\\//(0,1.604294)\\\\Al menos todavía.//(1.604294,3.7)\\\\No cabe duda de que estará de los primeros en la lista de nuestro cliente.//(3.7,7.1)\\\\Pero, por ahora, lo que buscamos es información.//(7.1,10.7)\\\\Cuélate en la casa y consíguenos una pista sobre el cliente clandestino.//(10.7,40.7)\\\\¿Te hace un allanamiento de morada, 47?",
+			"ru": "//[DIANA]\\\\//(0,1.592393)\\\\По крайней мере, сейчас.//(1.592393,3.78908)\\\\Она наверняка есть в списке нашего клиента,//(3.78908,6.97957)\\\\но мы здесь ради информации.//(6.97957,10.69245)\\\\Проберись в дом и найди зацепки о таинственном клиенте.//(10.69245,40.69245)\\\\Готов ко взлому с проникновением, 47-й?",
+			"cn": "//[DIANA]\\\\//(0,3.73)\\\\至少现在还不是。她在我们客户的名单上名列前茅。//(3.73,6.77)\\\\不过到目前为止，我们要寻找的是情报。//(6.77,36.77)\\\\潜入那栋房屋并找到影子客户的线索。准备好行动了吗，47？",
+			"tc": "//[DIANA]\\\\//(0,3.8)\\\\至少現在還不是。她無疑是我們客戶首要目標之一。//(3.8,6.8)\\\\但是目前為止，我們只需要搜尋情報而已。//(6.8,10.7)\\\\潛入敵營，並找出有關影子客戶的線索。//(10.7,40.7)\\\\想要玩些非法闖入嗎，47？",
+			"jp": "//[DIANA]\\\\//(0,1.5)\\\\今のところはね。//(1.5,3.73)\\\\我々のクライアントのリストの上位にいることは間違いないわ。//(3.73,6.88)\\\\だけど、今求めているのは情報よ。//(6.88,10.5)\\\\家に侵入して、影のクライアントの手掛かりを入手するのが先ね。//(10.5,40.5)\\\\住居侵入の準備はいいかしら、47？"
+		}
+	}
+}

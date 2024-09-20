@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_cross/4000_handler/ds4021_bothtargetsdown.sweetdialog?/ds4021_bothtargetsdown_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds4021_bothtargetsdown_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_cross/4000_handler/ds4021_bothtargetsdown_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_cross/4000_handler/ds4021_bothtargetsdown_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Both targets down. Now head towards an exit.",
+			"fr": "//(0,30)\\\\Les deux cibles ont été éliminées. Maintenant, trouvez une sortie.",
+			"it": "//(0,30)\\\\Entrambi i bersagli eliminati. Raggiungi un'uscita.",
+			"de": "//(0,30)\\\\Beide Ziele neutralisiert. Gehen Sie jetzt zu einem der Ausgänge.",
+			"es": "//(0,30)\\\\Ambos objetivos abatidos. Ahora dirígete a una salida.",
+			"ru": "//(0,30)\\\\Обе цели уничтожены. Направляйся к выходу.",
+			"cn": "//(0,30)\\\\两个目标都已被消灭。现在前往出口。",
+			"tc": "//(0,30)\\\\兩個目標都已被消滅。現在前往出口。",
+			"jp": "//(0,30)\\\\両ターゲット・ダウン。出口に向かうのよ。"
+		}
+	}
+}

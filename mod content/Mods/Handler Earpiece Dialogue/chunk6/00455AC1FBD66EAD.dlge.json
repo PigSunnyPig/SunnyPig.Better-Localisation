@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/rat/43000_handler/ds43307_meetupoliviamsfail.sweetdialog?/ds43307_meetupoliviamsfail_oliviahall_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds43307_meetupoliviamsfail_oliviahall_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/rat/43000_handler/ds43307_meetupoliviamsfail_oliviahall_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/rat/43000_handler/ds43307_meetupoliviamsfail_oliviahall_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,5.5)\\\\Damn it. Since more than one drone is down, they changed the protocol to high alert on all of them.//(5.5,35.5)\\\\My hack only goes skin deep and I can’t get any useful information from it.",
+			"fr": "//(0,5.8)\\\\Merde. Plusieurs drones sont HS, ils les ont tous passés en alerte maximale.//(5.8,35.8)\\\\Mon piratage n'est pas assez efficace, je n'en tirerai aucune information utile.",
+			"it": "//(0,1.39)\\\\Diamine.//(1.39,5.98)\\\\Visto che più di un drone è stato abbattuto, hanno impostato il protocollo di tutti su \"allerta massima\".//(5.98,35.98)\\\\Non posso hackerarli così in profondità, quindi non ne otterrei alcuna informazione utile.",
+			"de": "//(0,1.318098)\\\\Verdammt.//(1.318098,5.823374)\\\\Da mehr als eine Drohne ausgeschaltet ist, haben sie alle in Alarmbereitschaft versetzt.//(5.823374,35.82337)\\\\Mein Hack kratzt da kaum an der Oberfläche, und ich kann keine nützlichen Informationen daraus ziehen.",
+			"es": "//(0,1.5)\\\\Me cagüen...//(1.5,5.6)\\\\Como ha caído más de un dron, les han subido a todos el protocolo a alerta alta.//(5.9,35.9)\\\\Mi pirateo es superficial y no puedo sacar nada que nos sirva.",
+			"ru": "//(0,2.460491)\\\\Черт. Потеряв еще один дрон,//(2.460491,5.537178)\\\\они перевели оставшиеся в режим боевой готовности.//(5.537178,7.5)\\\\Эту защиту мне не взломать.//(7.5,37.5)\\\\Я не смогу вытащить из него никакой полезной информации.",
+			"cn": "//(0,2.6)\\\\该死的。因为多架无人机坠毁，//(2.6,5.43)\\\\他们将所有无人机的协议更改为高度警戒。//(5.43,35.43)\\\\我的破解技术很粗浅，没法获得有用的信息了。",
+			"tc": "//(0,2.6)\\\\該死，超過一個無人機被擊落了，//(2.6,6)\\\\他們因此將所有無人機的協定改為戒備。//(6,36)\\\\我只能侵入外層的保護，所以無法取得任何有用的訊息。",
+			"jp": "//(0.05,5.9)\\\\しまった。ドローンが何機も落とされたから、プロトコルが非常事態モードに切り替えられたみたい。//(5.9,35.9)\\\\表層しかハッキングできないから、役に立つ情報を引き出せないわ。"
+		}
+	}
+}

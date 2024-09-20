@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/italy/12250_white_spider/12250_ebola/12250_handler/ds12259_diana_cultist_killed.sweetdialog?/ds12259_diana_cultist_killed_diana_ws_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds12259_diana_cultist_killed_diana_ws_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/12250_white_spider/12250_ebola/12250_handler/ds12259_diana_cultist_killed_diana_ws_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/12250_white_spider/12250_ebola/12250_handler/ds12259_diana_cultist_killed_diana_ws_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Brother Akram eliminated. That's confirmed.",
+			"fr": "//(0,30)\\\\Frère Akram, éliminé. C'est confirmé.",
+			"it": "//(0,30)\\\\Fratello Akram eliminato. Confermo.",
+			"de": "//(0,30)\\\\Bruder Akram eliminiert. Ist bestätigt.",
+			"es": "//(0,30)\\\\El hermano Akram ha sido eliminado, confirmado.",
+			"ru": "//(0,30)\\\\Брат Акрам устранен. Подтверждаю.",
+			"cn": "//(0,30)\\\\阿克拉姆教友被消灭。已确认。",
+			"tc": "//(0,30)\\\\阿克拉姆修士已消滅。已確認。",
+			"jp": "//(0,30)\\\\ブラザー・ アクラムを 排除。 見事ね。"
+		}
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/marrakech/11000_python/11000_handler/ds11011_landlordconclusion.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds11011_landlordconclusion_diana_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11000_python/11000_handler/ds11011_landlordconclusion_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11000_python/11000_handler/ds11011_landlordconclusion_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Well, I suppose it’s time to mingle with the elite. Have fun, 47.",
+					"fr": "//(0,3.2)\\\\Bien, le temps est venu de se mélanger à l'élite.//(3.8,33.8)\\\\Amusez-vous bien, 47.",
+					"it": "//(0,3.664785)\\\\Bene, suppongo sia tempo di confondersi con l'élite.//(3.664785,33.66478)\\\\Divertiti, 47.",
+					"de": "//(0,3.8)\\\\Ich denke, nun ist es an der Zeit sich mit der Elite zu vermischen.//(3.8,33.8)\\\\Viel Spaß, 47.",
+					"es": "//(0,30)\\\\Bueno, supongo que es momento de mezclarse con la élite. Disfrútalo, 47.",
+					"ru": "//(0,4)\\\\Ну, я полагаю, пора смешаться с элитой.//(4,34)\\\\Развлекайся, 47-й.",
+					"cn": "//(0,30)\\\\好了，应该是时候去跟精英们聊聊天了。玩的开心，47。",
+					"tc": "//(0,30)\\\\好了，應該是時候去跟精英們聊聊天了。玩的開心，47。",
+					"jp": "//(0,30)\\\\そろそろ、エリートの皆さんとの交流の時間よ。楽しんで、47。"
+				}
+			}
+		]
+	}
+}

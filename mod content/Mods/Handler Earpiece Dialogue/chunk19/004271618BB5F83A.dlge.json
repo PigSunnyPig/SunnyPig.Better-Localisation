@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/miami/21000_flamingo/21000_handler/ds21042_killdecision2ndreveal.sweetdialog?/ds21042_killdecision2ndreveal_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds21042_killdecision2ndreveal_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/miami/21000_flamingo/21000_handler/ds21042_killdecision2ndreveal_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/miami/21000_flamingo/21000_handler/ds21042_killdecision2ndreveal_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.835362)\\\\Hm, hang on, 47.//(1.835362,3.830148)\\\\Robert Knox's calendar shows a meeting with a//(3.830148,6.744934)\\\\Ted Mendez, a defense funding consultant with the//(6.744934,9.94869)\\\\US military. It must be related to that robot.//(9.94869,12.64569)\\\\Maybe you can find Mendez somewhere?",
+			"fr": "//(0,1.57)\\\\Hum, une minute, 47.//(1.57,2.639056)\\\\D'après son agenda,//(2.639056,5.275192)\\\\Robert Knox a rendez-vous avec un certain Ted Mendez,//(5.275192,8.133)\\\\conseiller en financement pour l'armée américaine.//(8.133,10.25)\\\\Il y a sans doute un lien avec ce robot.//(10.25,12.64569)\\\\Vous pourriez peut-être trouver ce Mendez ?",
+			"it": "//(0,1.830491)\\\\Mmh, aspetta un attimo, 47.//(1.830491,2.769179)\\\\Secondo il suo calendario,//(2.769179,5.049454)\\\\Robert Knox si incontrerà con Ted Mendez,//(5.049454,6.826142)\\\\un consulente per i fondi della difesa//(6.826142,8.39324)\\\\per conto dell'esercito americano.//(8.39324,10.38418)\\\\Deve c'entrare qualcosa con quel robot.//(10.38418,12.64569)\\\\Riesci a trovare Mendez da qualche parte?",
+			"de": "//(0,1.680491)\\\\Hm, warten Sie kurz, 47.//(1.680491,3.53908)\\\\Laut Robert Knox’ Terminplan gibt es//(3.53908,5.24957)\\\\ein Treffen mit Ted Mendez,//(5.24957,7.876)\\\\einem Berater für die Budgetplanung des US-Militärs.//(7.876,9.716)\\\\Das muss etwas mit diesem Roboter zu tun haben.//(9.716,17.71583)\\\\Vielleicht können Sie Mendez hier irgendwo aufspüren?",
+			"es": "//(0,1.178343)\\\\Mmm, espera, 47.//(1.178343,3.386932)\\\\La agenda de Robert Knox muestra//(3.386932,4.887379)\\\\una reunión con un tal Ted Méndez,//(4.887379,7.464066)\\\\un asesor financiero en materia de defensa//(7.464066,8.5)\\\\del ejército de los EE. UU.//(8.5,10)\\\\Debe de estar relacionado con ese robot.//(10,13.47912)\\\\Mira a ver si localizas a Méndez en algún sitio.",
+			"ru": "//(0,1.608535)\\\\Так, подожди, 47-й.//(1.608535,3.318412)\\\\Судя по расписанию Роберта Нокса,//(3.318412,5.99142)\\\\у него должна быть встреча с Тедом Мендесом,//(5.99142,7.596637)\\\\финансовым консультантом по военным заказам//(7.596637,9.100513)\\\\армии США. Наверное,//(9.100513,10.49973)\\\\насчет того робота.//(10.49973,12.64569)\\\\Может, Мендес уже где-то здесь?",
+			"cn": "//(0,7.976511)\\\\嗯，稍等一下，47。罗伯特·诺克斯的日程显示他将与来自美军的国防经费顾问泰德·门德兹会面。//(7.976511,12.64569)\\\\肯定和那台机器人有关。也许你能在什么地方找到门德兹？",
+			"tc": "//(0,8.1)\\\\嗯，稍等一下，47。羅伯特．諾克斯的行程顯示他將與來自美軍的國防經費顧問泰德．門德茲會面。//(8.1,12.64569)\\\\肯定和那台機器人有關。也許你可以在什麼地方找到門德茲？",
+			"jp": "//(0,1.718)\\\\うーん、ちょっと待って、47。//(1.718,8.386098)\\\\ロバート・ノックスのカレンダーに米軍の防衛資金コンサルタント、テッド・メンデスとの会談と書いてあるわ。//(8.386098,12.64569)\\\\そのロボットと関連しているはず。どこかでメンデスを見つけることができるんじゃないかしら。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/opulent/34000_stingray/34000_handler/ds34012_thiefoppreveal.sweetdialog?/ds34012_thiefoppreveal_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds34012_thiefoppreveal_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/opulent/34000_stingray/34000_handler/ds34012_thiefoppreveal_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/opulent/34000_stingray/34000_handler/ds34012_thiefoppreveal_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.891033)\\\\A thief in paradise?//(1.891033,4.361433)\\\\Someone's stolen a USB from Tyson Williams//(4.361433,7.537662)\\\\and now the entire security squad is looking for//(7.537662,11.19327)\\\\it. Perhaps you should look closer at those security//(11.19327,12.49352)\\\\tapes, 47?",
+			"fr": "//(0,1.712777)\\\\Un voleur au paradis ?//(1.712777,4.693807)\\\\Quelqu'un a volé une clé USB à Tyson Williams,//(4.693807,8.324468)\\\\et tous les agents de sécurité sont à sa recherche.//(8.324468,10.562)\\\\Les vidéos de surveillance pourraient bien vous//(10.562,11.62515)\\\\apprendre quelque chose,//(11.62515,12.62515)\\\\47.",
+			"it": "//(0,1.616977)\\\\Un ladro in paradiso?//(1.616977,4.031126)\\\\Qualcuno ha rubato una chiavetta USB a Tyson//(4.031126,6.445274)\\\\Williams e adesso l'intera squadra di addetti alla//(6.445274,8.062251)\\\\sicurezza la sta cercando.//(8.062251,11.17831)\\\\47, forse vale la pena di dare un'occhiata a quei//(11.17831,12.49352)\\\\nastri della sicurezza.",
+			"de": "//(0,2.023388)\\\\Ein Dieb im Paradies?//(2.023388,4.666693)\\\\Jemand hat einen USB-Stick von Tyson Williams//(4.666693,7.055486)\\\\gestohlen, und jetzt sucht der ganze//(7.055486,8.323644)\\\\Sicherheitstrupp danach.//(8.323644,10.58933)\\\\Vielleicht sollten Sie sich einmal die//(10.58933,11.46767)\\\\Überwachungsbänder anschauen,//(11.46767,12.49352)\\\\47?",
+			"es": "//(0,2.275476)\\\\¿Hay un ladrón en el paraíso?//(2.275476,5.677093)\\\\Alguien le ha robado un USB a Tyson Williams y ahora//(5.677093,8.261806)\\\\está todo el equipo de seguridad buscándolo.//(8.261806,11.35419)\\\\¿Por qué no analizas más a fondo esas cintas de//(11.35419,12.49352)\\\\seguridad, 47?",
+			"ru": "//(0,4.698299)\\\\Вор в раю? Кто-то украл у Тайсона Уильямса USB-диск,//(4.698299,7.494295)\\\\который теперь ищет вся охрана.//(7.494295,11.2989)\\\\Может, тебе стоит изучить эти записи с камер,//(11.2989,12.49352)\\\\47-й?",
+			"cn": "//(0,2.7)\\\\天堂之中出了个小偷？//(2.7,8.8)\\\\有人偷了泰森·威廉姆斯的一个U盘，现在全体保安都在找那东西。//(8.8,12.494)\\\\47，也许你应该仔细检查一下安保录像？",
+			"tc": "//(0,2.78)\\\\在天堂有盜賊？//(2.78,8.9)\\\\有人偷走了泰森‧威廉斯的隨身碟，現在整個保全隊伍都在找它。//(8.9,12.5)\\\\或許你應該仔細看看那些監視錄影帶吧，47？",
+			"jp": "//(0,2.4)\\\\パラダイスに泥棒が？//(2.4,5.505)\\\\タイソン・ウィリアムズのUSBが何者かに盗まれたらしく、//(5.505,8.785)\\\\保安部隊全員がUSBを捜索しているわ。//(8.785,12.49352)\\\\監視カメラのテープを注意して見た方がいいんじゃないかしら、47？"
+		}
+	}
+}

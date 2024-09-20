@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_fashion/3000_handler/ds3145_novikovid.sweetdialog?/ds3145_novikovid_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds3145_novikovid_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_fashion/3000_handler/ds3145_novikovid_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_fashion/3000_handler/ds3145_novikovid_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.092393)\\\\That is Viktor Novikov,//(2.092393,5.71908)\\\\head of Sanguine and ringleader of IAGO.//(5.71908,35.71908)\\\\Quite the résumé.",
+			"fr": "//(0,30)\\\\Voici Viktor Novikov, président de Sanguine et à la tête de IAGO. Un charmant CV.",
+			"it": "//(0,6)\\\\Quello è Viktor Novikov, AD della Sanguine e leader della IAGO.//(6,36)\\\\Niente male come curriculum.",
+			"de": "//(0,1.972393)\\\\Das ist Viktor Novikov.//(1.972393,5.69908)\\\\Präsident von Sanguine und Anführer von IAGO.//(5.69908,35.69908)\\\\Ziemlich beachtlich.",
+			"es": "//(0,5.8)\\\\Ese es Viktor Novikov. Jefe de Sanguine y maestro de ceremonias de IAGO.//(5.8,35.8)\\\\Menudo currículo.",
+			"ru": "//(0,5.54908)\\\\Это Виктор Новиков. Директор «Сэнгвин» и лидер «ЯГО».//(5.54908,35.54908)\\\\Внушительное резюме.",
+			"cn": "//(0,5.5)\\\\那个就是桑甘集团的总裁兼埃古的头目：维克多·诺维科夫。//(5.5,35.5)\\\\来头确实不小。",
+			"tc": "//(0,30)\\\\那個就是桑甘集團的總裁兼IAGO的頭目：維克托．諾維科夫。來頭確實不小。",
+			"jp": "//(0,30)\\\\あれが ヴィクター・ ノビコフ。 サンギーヌの オーナーで、 IAGOの 首謀者。 なかなかの 経歴ね。"
+		}
+	}
+}

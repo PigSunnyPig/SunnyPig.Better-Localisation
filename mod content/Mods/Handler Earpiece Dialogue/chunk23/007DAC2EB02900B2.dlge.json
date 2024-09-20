@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_bull/8000_handler/ds8005_idparvati.sweetdialog?/ds8005_idparvati_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds8005_idparvati_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_bull/8000_handler/ds8005_idparvati_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_bull/8000_handler/ds8005_idparvati_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.06)\\\\That is Maya Parvati.//(2.06,32.06)\\\\Sri Lankan assassin, turned pirate, turned insurgent.",
+			"fr": "//(0,30)\\\\Voilà Maya Parvati. Une tueuse sri-lankaise devenue pirate, puis rebelle.",
+			"it": "//(0,2.45)\\\\Quella... è Maya Parvati.//(2.45,32.45)\\\\Assassina dello Sri Lanka, ex piratessa e ora ribelle.",
+			"de": "//(0,2.2)\\\\Das ist Maya Parvati.//(2.2,32.2)\\\\Auftragskillerin, ehemalige Piratin, derzeitige Rebellin aus Sri Lanka.",
+			"es": "//(0,30)\\\\Esa es Maya Parvati, la insurgente de Sri Lanka antes pirata, antes asesina.",
+			"ru": "//(0,1.972393)\\\\Это Майя Парвати.//(1.972393,31.97239)\\\\Наемная убийца с Шри-Ланки, потом пират, а потом инсургент.",
+			"cn": "//(0,2.2)\\\\那个就是玛耶·帕尔瓦蒂。//(2.2,32.2)\\\\她是斯里兰卡的暗杀者，后来转行做了海盗，现在又成了叛乱者。",
+			"tc": "//(0,2.1)\\\\那個就是馬雅．帕爾瓦蒂。//(2.1,32.1)\\\\她是斯里蘭卡的殺手，後來轉行做了海盜，現在又成了叛亂者。",
+			"jp": "//(0,30)\\\\マヤ・パールバティ。スリランカ人の暗殺者で、海賊上がりの傭兵よ。"
+		}
+	}
+}

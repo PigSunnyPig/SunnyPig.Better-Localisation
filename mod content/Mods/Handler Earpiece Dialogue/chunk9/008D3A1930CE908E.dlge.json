@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/gamemodes/versusmode/32_announcer_tallystatusnegativematchpoint.sweetdialog?/32_announcer_tallystatusnegativematchpoint_announcer_versus_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "32_announcer_tallystatusnegativematchpoint_announcer_versus_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/gamemodes/versusmode/32_announcer_tallystatusnegativematchpoint_announcer_versus_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/gamemodes/versusmode/32_announcer_tallystatusnegativematchpoint_announcer_versus_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.849698)\\\\Your opponent has almost won.//(1.849698,3.699396)\\\\Time to take some chances.",
+			"fr": "//(0,2.153508)\\\\Votre adversaire est proche de la victoire.//(2.153508,3.699396)\\\\Tentez le tout pour le tout !",
+			"it": "//(0,30)\\\\Il tuo avversario ha quasi vinto. È ora di rischiare.",
+			"de": "//(0,30)\\\\Ihr Gegner hat fast gewonnen. Gehen Sie aufs Ganze.",
+			"es": "//(0,1.967388)\\\\El contrincante está a punto de ganar.//(1.967388,3.699396)\\\\Ha llegado la hora de arriesgar.",
+			"ru": "//(0,30)\\\\Противник в шаге от победы. Пора рисковать.",
+			"cn": "//(0,30)\\\\你的对手即将获胜。是时候冒险一搏了。",
+			"tc": "//(0,30)\\\\你的對手快贏了，該冒點險了。",
+			"jp": "//(0,30)\\\\相手の勝利間近です。賭けに出るべきです。"
+		}
+	}
+}

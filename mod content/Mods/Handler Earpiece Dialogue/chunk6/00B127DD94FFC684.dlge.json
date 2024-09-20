@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/rat/43000_handler/ds43010_targetdownhushcore.sweetdialog?/ds43010_targetdownhushcore_oliviahall_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds43010_targetdownhushcore_oliviahall_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/rat/43000_handler/ds43010_targetdownhushcore_oliviahall_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/rat/43000_handler/ds43010_targetdownhushcore_oliviahall_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.7)\\\\You got the bastard Hush.//(1.7,31.7)\\\\Now go get Imogen Royce and we can get to the core.",
+			"fr": "//(0,30)\\\\Vous avez eu cet enfoiré de Hush. Occupez-vous d'Imogen Royce, et nous pourrons atteindre le cœur.",
+			"it": "//(0,30)\\\\Hai eliminato quel bastardo di Hush. Ora occupati di Imogen Royce e poi potremo tornare al sistema centrale.",
+			"de": "//(0,1.710491)\\\\Sie haben Hush, den Bastard.//(1.710491,31.71049)\\\\Jetzt schnappen Sie sich Imogen Royce und wir kommen an den Kern.",
+			"es": "//(0,30)\\\\Ya has despachado al cabrón de Hush. Cárgate ahora a Imogen Royce y podremos acceder al núcleo.",
+			"ru": "//(0,1.9)\\\\Всё, с Хашем покончено.//(1.9,31.9)\\\\Теперь разберись с Имоджен Ройс, а потом мы займемся ядром.",
+			"cn": "//(0,1.681)\\\\你干掉了那个混蛋哈什。//(1.681,31.681)\\\\现在去干掉伊莫金·罗伊斯，我们就能接触到核心了。",
+			"tc": "//(0,1.8)\\\\很好，賀許那混蛋倒下了。//(1.8,31.8)\\\\解決掉伊摩金‧羅伊斯，這樣我們就能取得核心。",
+			"jp": "//(0,30)\\\\ハッシュは始末した。次はイモジェン・ロイスよ。そしたらコアにアクセスできるわ。"
+		}
+	}
+}

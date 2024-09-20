@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/rocky/dugong/46000_handler/ds46022_intelmeetingwarna.sweetdialog?/ds46022_intelmeetingwarna_grey_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds46022_intelmeetingwarna_grey_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/rocky/dugong/46000_handler/ds46022_intelmeetingwarna_grey_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/rocky/dugong/46000_handler/ds46022_intelmeetingwarna_grey_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.434)\\\\They've lit the signal for the meeting.//(2.434,7.236727)\\\\I assume you have a plan in mind, 47.",
+			"fr": "//(0,30)\\\\Voilà le signal pour un rendez-vous. J'imagine que tu as un plan, 47.",
+			"it": "//(0,2.432)\\\\Hanno acceso il segnale per l'incontro.//(2.432,32.432)\\\\Spero che tu abbia un piano, 47.",
+			"de": "//(0,2.3)\\\\Sie haben das Signal für das Treffen angeschaltet.//(2.3,32.3)\\\\Ich nehme an, wir haben schon einen Plan, 47.",
+			"es": "//(0,1.65)\\\\Han encendido la señal de reunión.//(2.45,32.45)\\\\Supongo que tienes un plan pensado, 47.",
+			"ru": "//(0,1.6)\\\\Они зажгли сигнал для сбора на встречу.//(2.6,32.6)\\\\Надеюсь, у тебя есть план, 47-й.",
+			"cn": "//(0,30)\\\\他们打出了会面的信号。你应该想到有计划了吧，47。",
+			"tc": "//(0,30)\\\\他們點亮了會面的信號，我看你應該擬定好計畫了吧，47。",
+			"jp": "//(0,1.48)\\\\会合用に光の信号を送っている。//(2.38,32.38)\\\\もちろんお前は何か計画しているんだろうな、47。"
+		}
+	}
+}

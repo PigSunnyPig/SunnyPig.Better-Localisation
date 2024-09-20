@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_skunk/27000_handler/ds27015_handlerintelclue5.sweetdialog?/ds27015_handlerintelclue5_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds27015_handlerintelclue5_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_skunk/27000_handler/ds27015_handlerintelclue5_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_skunk/27000_handler/ds27015_handlerintelclue5_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,5.8)\\\\Someone from Janus' security detail buried something in the frog habitat behind Cassidy's house.//(5.8,8.808245)\\\\What could that possibly be?",
+			"fr": "//[DIANA]\\\\//(0,3.19908)\\\\L'un des gardes du corps de Janus a enterré quelque chose//(3.19908,6.01021)\\\\près de la mare derrière la maison de Cassidy.//(6.01021,7.799438)\\\\Qu'est-ce que ça peut être ?",
+			"it": "//[DIANA]\\\\//(0,2.026687)\\\\Una delle guardie del corpo di Janus//(2.026687,6)\\\\ha sotterrato qualcosa vicino al laghetto delle rane sul retro della casa di Cassidy.//(6,8.449766)\\\\Che cosa potrebbe essere?",
+			"de": "//[DIANA]\\\\//(0,2.208589)\\\\Jemand aus Janus’ Sicherheitstrupp hat etwas//(2.208589,6.084)\\\\im Froschreservat hinter Cassidys Haus vergraben.//(6.084,7.799438)\\\\Was könnte das nur sein?",
+			"es": "//[DIANA]\\\\//(0,2.9)\\\\Alguien de la seguridad de Janus ha enterrado algo//(2.9,5.5)\\\\en la charca de las ranas, detrás de la casa de Cassidy.//(5.5,8.749085)\\\\¿Qué podría ser?",
+			"ru": "//[DIANA]\\\\//(0,2.33485)\\\\Кто-то из телохранителей Януса закопал некий//(2.33485,5.976568)\\\\предмет в биотопе для лягушек за домом Кэссиди.//(5.976568,7.799438)\\\\Интересно, что там?",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\杰纳斯安保团队中的某人把一样东西埋在了卡西迪住所后面的青蛙栖息地里。会是什么呢？",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\傑納斯保全團隊中的某個人把一樣東西埋在凱西迪住所後面的青蛙棲息地。會是什麼呢？",
+			"jp": "//[DIANA]\\\\//(0,5.38)\\\\ヤヌスの警備の誰かが、キャシディの家の裏のカエルの棲み処に何かを埋めたみたい。//(5.38,7.799438)\\\\なにかしらね？"
+		}
+	}
+}

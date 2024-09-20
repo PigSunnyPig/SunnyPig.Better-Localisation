@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/tutorial/9000_handler/ds9121_seconddisguise.sweetdialog?/ds9121_seconddisguise_young_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds9121_seconddisguise_young_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/tutorial/9000_handler/ds9121_seconddisguise_young_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/tutorial/9000_handler/ds9121_seconddisguise_young_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.800982)\\\\Okay. Unlike mechanics, the cabin crew is allowed upstairs access.//(4.800982,34.80098)\\\\I see what you're getting at. Very unorthodox. I like it.",
+			"fr": "//(0,5.4)\\\\OK... Contrairement aux mécaniciens, l'équipage a accès à l'étage.//(5.4,35.4)\\\\Je vois où vous voulez en venir. Peu orthodoxe, j'aime ça.",
+			"it": "//(0,5.523374)\\\\Ok. A differenza dei meccanici, il personale di cabina ha accesso al piano superiore.//(5.523374,35.52337)\\\\Capisco cosa stai cercando di fare. Mi piace il tuo stile. Molto alternativo.",
+			"de": "//(0,5.455276)\\\\Okay... Im Gegensatz zu den Mechanikern, ist dem Besatzungspersonal Zutritt nach oben erlaubt.//(5.455276,6.765767)\\\\Ich sehe, worauf Sie hinauswollen.//(6.765767,36.76577)\\\\Sehr unkonventionell. Mir gefällt es.",
+			"es": "//(0,5.6)\\\\Vale, a diferencia de los mecánicos, la tripulación de cabina tiene acceso al piso de arriba.//(5.6,35.6)\\\\Ya veo por dónde vas. Muy heterodoxo, me gusta.",
+			"ru": "//(0,5.421)\\\\Итак, в отличие от механиков, обслуживающему персоналу разрешено подниматься наверх.//(5.421,35.421)\\\\Догадываюсь, что у тебя на уме. Очень нестандартно! Одобряю.",
+			"cn": "//(0,0.96)\\\\可以。//(0.96,5.5)\\\\和机械工人不同，乘务员拥有上楼的许可。//(5.5,7.3)\\\\我懂你意思了。//(7.3,37.3)\\\\不落俗套。我喜欢。",
+			"tc": "//(0,5.4)\\\\好的。和機械工人不同，乘務員擁有上樓的許可。//(5.4,35.4)\\\\我懂你意思了。不落俗套。做得好。",
+			"jp": "//(0,6)\\\\なるほどね 整備士と違ってキャビンクルーなら上階へ行くことも許される。//(6,9.70575)\\\\型破りだけど気に入ったわ。"
+		}
+	}
+}

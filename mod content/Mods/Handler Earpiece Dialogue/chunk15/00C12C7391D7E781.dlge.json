@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_penicillin/29000_penicillin_handler/ds29753_rightofsecond.sweetdialog?/ds29753_rightofsecond_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds29753_rightofsecond_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_handler/ds29753_rightofsecond_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_handler/ds29753_rightofsecond_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.4)\\\\Interesting.//(1.4,6.2)\\\\It appears that the Ark Society rules allow a contestant \"The Right of Second\",//(6.2,10)\\\\meaning that they can nominate someone to take their place if they choose.//(10.3,40.3)\\\\Maybe you could use this to your advantage?",
+			"fr": "//(0,1.4)\\\\Intéressant.//(1.4,6.2)\\\\Il semblerait que les règles de la société de l'Arche donnent aux combattants un \"droit de remplacement\",//(6.2,10)\\\\ce qui signifie qu'ils peuvent désigner quelqu'un d'autre pour prendre leur place.//(10.3,40.3)\\\\Peut-être pourriez-vous en profiter ?",
+			"it": "//(0,1.4)\\\\Interessante.//(1.4,6.2)\\\\A quanto parte, il regolamento della Ark Society concede ai concorrenti il \"Diritto di sostituzione\";//(6.2,10)\\\\vale a dire che possono nominare qualcuno per prendere il loro posto, se lo desiderano.//(10.3,40.3)\\\\Forse puoi sfruttare la cosa a tuo vantaggio?",
+			"de": "//(0,1.4)\\\\Interessant.//(1.4,6.2)\\\\Laut den Regeln der Ark-Gesellschaft gibt es wohl ein „Sekundantenanrecht“.//(6.2,10)\\\\Man kann also jemanden nominieren, der den eigenen Platz einnimmt – wenn man das denn so will.//(10.3,40.3)\\\\Vielleicht können Sie das zu Ihrem Vorteil nutzen?",
+			"es": "//(0,1.4)\\\\Qué interesante.//(1.4,6.2)\\\\Parece que las reglas de la Ark Society otorgan a los participantes el «derecho de reemplazo»;//(6.2,10)\\\\es decir, que pueden nominar a alguien para que ocupe su lugar si así lo desean.//(10.3,40.3)\\\\¿Quizás puedas usar eso en tu beneficio?",
+			"ru": "//(0,1.4)\\\\Любопытно.//(1.4,6.2)\\\\Оказывается, в правилах Общества Ковчега есть «право на секунданта»://(6.2,10)\\\\при желании участник может выставить на бой кого-то вместо себя.//(10.3,40.3)\\\\Возможно, эта информация тебе пригодится.",
+			"cn": "//(0,1.4)\\\\有意思。//(1.4,6.2)\\\\方舟会的规则似乎允许参赛者拥有“代打权”，//(6.2,10)\\\\也就是说，如果他们愿意，可以提名他人取代他们的位置。//(10.3,40.3)\\\\也许你可以利用这一点？",
+			"tc": "//(0,6.45)\\\\有意思，看來方舟會的規則允許參賽者擁有「替身權」，//(6.45,10.45)\\\\意思是，如果選手願意的話，他可以提名其他人代替他出賽。//(10.45,40.45)\\\\也許你可以利用這一點？",
+			"jp": "//(0,1.4)\\\\これは面白いわ。//(1.4,6.2)\\\\アーク・ソサエティの規則では、出場者に 「代理人権 」が認められているようね。//(6.2,10)\\\\要するに、誰かほかの人が代わりに闘うように任命できるってこと。//(10.3,40.3)\\\\もしかしたら、これを利用できるかもしれないわね。"
+		}
+	}
+}

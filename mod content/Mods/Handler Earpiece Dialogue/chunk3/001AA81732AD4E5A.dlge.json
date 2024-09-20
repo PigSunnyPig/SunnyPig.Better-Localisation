@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/bulldog/41000_handler/ds41065_handlerdoortobutlersoffice.sweetdialog?/ds41065_handlerdoortobutlersoffice_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41065_handlerdoortobutlersoffice_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/bulldog/41000_handler/ds41065_handlerdoortobutlersoffice_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/bulldog/41000_handler/ds41065_handlerdoortobutlersoffice_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\That is the door to Mr. Fernsby's office.",
+			"fr": "//(0,30)\\\\C'est la porte du bureau de monsieur Fernsby, le majordome.",
+			"it": "//(0,30)\\\\Quella è la porta dell'ufficio del signor Fernsby.",
+			"de": "//(0,30)\\\\Das ist die Tür zu Mr.  Fernsbys Büro.",
+			"es": "//(0,30)\\\\Esa es la puerta de la oficina del señor Fernsby.",
+			"ru": "//(0,30)\\\\Это дверь в кабинет мистера Фернсби.",
+			"cn": "//(0,30)\\\\那扇门通往芬斯比先生的办公室。",
+			"tc": "//(0,30)\\\\那就是通往費恩斯比先生辦公室的門。",
+			"jp": "//(0,30)\\\\ファーンズビー氏のオフィスのドアよ。"
+		}
+	}
+}

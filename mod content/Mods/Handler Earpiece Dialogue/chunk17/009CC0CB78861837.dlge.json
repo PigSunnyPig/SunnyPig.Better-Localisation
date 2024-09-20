@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25061_lostlovehint1.sweetdialog?/ds25061_lostlovehint1_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25061_lostlovehint1_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25061_lostlovehint1_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25061_lostlovehint1_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.173181)\\\\It would seem someone is about to have an important meeting in this house.//(4.173181,9.16777)\\\\My instincts tell me it would be worth identifying whoever it is this woman is waiting for.",
+			"fr": "//(0,1.962883)\\\\Il semblerait qu'une personne soit sur le point d'avoir//(1.962883,3.921472)\\\\un important rendez-vous dans cette maison.//(3.921472,6.387879)\\\\Mon intuition me dit que nous//(6.387879,9.16777)\\\\devrions identifier celui ou celle qu'elle attend.",
+			"it": "//(0,2.615378)\\\\Sembra che qualcuno stia per avere un incontro//(2.615378,3.375799)\\\\molto importante,//(3.375799,7.08909)\\\\qui dentro. Il mio istinto mi dice che è meglio//(7.08909,9.16777)\\\\identificare l'ospite di questa donna.",
+			"de": "//(0,2.262158)\\\\Offenbar hält jemand in Bälde irgendein wichtiges//(2.262158,4.316951)\\\\Treffen in diesem Haus ab.//(4.316951,5.714965)\\\\Mein Instinkt sagt mir,//(5.714965,7.112978)\\\\dass wir herausfinden sollten,//(7.112978,9.16777)\\\\auf wen diese Frau wartet.",
+			"es": "//(0,2.3)\\\\Parece que alguien está a punto de tener//(2.3,4.319811)\\\\una reunión muy importante en esta casa.//(4.319811,6.16833)\\\\Algo me dice que sería recomendable identificar//(6.16833,9.16777)\\\\a la persona a la que está esperando esta mujer.",
+			"ru": "//(0,3.327485)\\\\Похоже, у кого-то в этом доме скоро состоится важная//(3.327485,5.355637)\\\\встреча. Мое чутье подсказывает,//(5.355637,6.899139)\\\\что нам стоит выяснить,//(6.899139,9.16777)\\\\кого именно ждет эта женщина.",
+			"cn": "//(0,4.1)\\\\看起来，这幢房子里的某个人正在准备一场非常重要的见面。//(4.1,9.168)\\\\虽然不知道这个女人等的人是谁，但我的直觉告诉我，这件事值得调查一番。",
+			"tc": "//(0,4.1)\\\\看起來，這幢房子的某個人正準備一場非常重要的會面。//(4.1,9.16777)\\\\雖然不知道這個女人等的人是誰，但我的直覺告訴我，這件事值得好好調查。",
+			"jp": "//(0,4)\\\\どうやら、この家で誰かが重要な打ち合わせをするみたい。//(4,5.55)\\\\これはあくまで私の勘だけど、//(5.55,9.16777)\\\\この女性が待っている人物の身元を特定した方がいいと思うわ。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_magpie/29000_handler/ds29009_oppmeeting_triggerwarning.sweetdialog?/ds29009_oppmeeting_triggerwarning_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds29009_oppmeeting_triggerwarning_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_magpie/29000_handler/ds29009_oppmeeting_triggerwarning_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_magpie/29000_handler/ds29009_oppmeeting_triggerwarning_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.286201)\\\\47. If Sophia Washington triggers the kill switch device, all is lost.//(4.286201,6.95273)\\\\Take her out now! Before it's too late.",
+			"fr": "//(0,2.570821)\\\\47, si Sophia Washington déclenche la puce,//(2.570821,4.035078)\\\\tout est perdu.//(4.035078,4.816538)\\\\Éliminez-la maintenant,//(4.816538,6.952729)\\\\avant qu'il soit trop tard.",
+			"it": "//(0,4.67)\\\\47, se Sophia preme l'interruttore mortale, è finita.//(4.67,7.881473)\\\\Eliminala subito, prima che sia troppo tardi.",
+			"de": "//(0,3.346687)\\\\47. Wenn Sophia Washington den Killschalter auslöst,//(3.346687,4.416329)\\\\ist alles verloren.//(4.416329,6.95273)\\\\Schalten Sie sie jetzt aus! Bevor es zu spät ist.",
+			"es": "//(0,3.031281)\\\\47, todo esto habrá sido en vano si Sophia Washington//(3.031281,4.604264)\\\\activa el interruptor letal.//(4.604264,6.952729)\\\\¡Acaba con ella antes de que sea tarde!",
+			"ru": "//(0,4.564785)\\\\47. Если София нажмет аварийную кнопку, всё пропало.//(4.564785,6.952729)\\\\Скорее убей ее, пока еще не поздно!",
+			"cn": "//(0,4.571)\\\\47。如果索菲娅·华盛顿触发了杀人开关设备，一切就都完了。//(4.571,34.571)\\\\现在就干掉她！别让一切太迟了。",
+			"tc": "//(0,4.5)\\\\47。如果索菲婭．華盛頓觸發殺人開關設備，一切就都完了。//(4.5,34.5)\\\\現在就幹掉她！別讓一切太遲了。",
+			"jp": "//(0,4.5)\\\\47。ソフィア・ワシントンがキルスイッチ装置を作動させたらすべておしまいよ。//(4.5,6.952729)\\\\手遅れになる前に今すぐ彼女を排除して！"
+		}
+	}
+}

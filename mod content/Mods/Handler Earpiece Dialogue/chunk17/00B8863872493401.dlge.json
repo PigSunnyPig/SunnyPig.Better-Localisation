@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25036_barberconclusion.sweetdialog?/ds25036_barberconclusion_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25036_barberconclusion_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25036_barberconclusion_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25036_barberconclusion_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.716687)\\\\All right, 47, we're open for business.//(2.716687,6.451963)\\\\We know what The Maelstrom looks like and expect him to show up.//(6.451963,11.07436)\\\\Patience and shaving cream is what's on the menu now, 47...",
+			"fr": "//(0,3.237322)\\\\Très bien, 47, il est temps de passer à l'action.//(3.237322,5.212006)\\\\Nous savons que le Maelström doit venir,//(5.212006,7.195405)\\\\et surtout à quoi il ressemble.//(7.195405,9.717896)\\\\Armez-vous de patience et de mousse à raser...",
+			"it": "//(0,2.556418)\\\\Ok, 47, il negozio ha aperto al pubblico.//(2.556418,4.344064)\\\\Adesso che sappiamo com'è fatto Maelstrom dobbiamo//(4.344064,6.223219)\\\\solo aspettare che si faccia vivo.//(6.223219,11.2604)\\\\Il menu del giorno è schiuma da barba e tanta pazienza, 47...",
+			"de": "//(0,2.655964)\\\\Okay, 47, wir sind im Geschäft.//(2.655964,4.586984)\\\\Wir wissen, wie der Maelstrom aussieht,//(4.586984,6.44617)\\\\und erwarten seinen Besuch.//(6.44617,7.418563)\\\\Jetzt stehen Geduld und//(7.418563,11.19617)\\\\Rasierschaum auf dem Plan, 47 ...",
+			"es": "//(0,2.551287)\\\\Vale, 47. Que empiece la fiesta.//(2.551287,4.808398)\\\\Sabemos qué aspecto tiene el Torbellino y contamos//(4.808398,6.038054)\\\\con que aparezca.//(6.038054,8.951419)\\\\Lo que toca ahora es paciencia y espuma de afeitar,//(8.951419,9.951419)\\\\47...",
+			"ru": "//(0,2.561543)\\\\Итак, 47-й, переходим к настоящему делу.//(2.561543,4.368938)\\\\Мы знаем, как выглядит Вихрь,//(4.368938,6.526233)\\\\и знаем, что он должен прийти.//(6.526233,9.84916)\\\\Запасись терпением и кремом для бритья, 47-й...",
+			"cn": "//(0,6.3)\\\\很好，47，我们准备开业了。我们已经知道了大漩涡的长相，只要等着他出现就行了。//(6.3,9.7)\\\\现在只能保持耐心，准备好剃须膏了，47......",
+			"tc": "//(0,6.3)\\\\很好，47，我們準備開業了。我們已經知道大漩渦的長相，只要等著他出現就行了。//(6.3,9.717896)\\\\現在只能保持耐心，準備好剃鬍膏了，47......",
+			"jp": "//(0,2.83)\\\\さてと、開店したわね、47。//(2.83,6.1)\\\\メイルストロムの外見はわかっているし、この店に必ずやって来るはずだわ。//(6.1,9.717896)\\\\シェービングクリームでも準備しながら辛抱強く待ちましょう、47..."
+		}
+	}
+}

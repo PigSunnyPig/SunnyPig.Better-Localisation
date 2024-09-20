@@ -1,0 +1,87 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/evergreen/handler/ed022_leaderkilled.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ed022_leaderkilled_diana_001",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed022_leaderkilled_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed022_leaderkilled_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,1.857)\\\\Congratulations, 47.//(1.857,6.421785)\\\\The Leader is eliminated, sending a clear message.",
+					"fr": "//[DIANA]\\\\//(0,1.74)\\\\Félicitations, 47.//(1.74,4.932883)\\\\Vous envoyez un message fort en coupant cette Tête.",
+					"it": "//[DIANA]\\\\//(0,1.6)\\\\Congratulazioni, 47.//(1.6,4.835229)\\\\Il leader è stato eliminato, abbiamo inviato un segnale chiaro.",
+					"de": "//[DIANA]\\\\//(0,1.9)\\\\Glückwunsch, 47.//(1.9,4.835229)\\\\Der Anführer wurde ausgeschaltet. Wir haben eine klare Botschaft gesendet.",
+					"es": "//[DIANA]\\\\//(0,1.706196)\\\\Enhorabuena, 47.//(1.706196,6.465385)\\\\Has eliminado a su líder y enviado un mensaje claro.",
+					"ru": "//[DIANA]\\\\//(0,4.835229)\\\\Поздравляю, 47-й. Босс устранен. Мы подали им четкий сигнал.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\祝贺你，47。你消灭了头目，让他们知道了厉害。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\恭喜你，47。首領已被消滅，這樣的訊息再清楚不過了。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\おめでとう、47。リーダーを排除した。明確なメッセージを送ることができたわ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed022_leaderkilled_diana_002",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed022_leaderkilled_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed022_leaderkilled_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\The Leader is eliminated. Well done, 47.",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Tête éliminée. Beau travail, 47.",
+					"it": "//[DIANA]\\\\//(0,30)\\\\Il leader è stato eliminato. Ben fatto, 47.",
+					"de": "//[DIANA]\\\\//(0,1.85)\\\\Der Anführer wurde eliminiert.//(1.85,31.85)\\\\Gut gemacht, 47.",
+					"es": "//[DIANA]\\\\//(0,30)\\\\Líder fuera de circulación. Bien hecho, 47.",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\Босс ликвидирован. Отлично, 47-й.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\已消灭头目。干得好，47。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\首領被消滅了。47，做得好。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\リーダーを排除した。よくやったわ、47。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed022_leaderkilled_diana_003",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed022_leaderkilled_diana_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed022_leaderkilled_diana_003.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\Good job, 47. You eliminated the Leader.",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Bon travail, 47. Vous avez éliminé la Tête.",
+					"it": "//[DIANA]\\\\//(0,30)\\\\Ottimo lavoro, 47. Hai eliminato il leader.",
+					"de": "//[DIANA]\\\\//(0,1.4)\\\\Gute Arbeit, 47.//(1.4,31.4)\\\\Sie haben den Anführer eliminiert.",
+					"es": "//[DIANA]\\\\//(0,30)\\\\Buen trabajo, 47. Has eliminado a su líder.",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\Молодец, 47-й. Ты устранил босса.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\干得漂亮，47。你消灭了头目。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\做得好，47。你消滅了首領。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\よくやったわ、47。リーダーを排除したわ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed022_leaderkilled_diana_004",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed022_leaderkilled_diana_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed022_leaderkilled_diana_004.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\Excellent work, 47. The Leader has been eliminated.",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Excellent travail, 47. La Tête a été coupée.",
+					"it": "//[DIANA]\\\\//(0,30)\\\\Ottimo lavoro, 47. Il leader è stato eliminato.",
+					"de": "//[DIANA]\\\\//(0,1.75)\\\\Ausgezeichnete Arbeit, 47.//(1.75,3.484437)\\\\Der Anführer wurde eliminiert.",
+					"es": "//[DIANA]\\\\//(0,30)\\\\Un trabajo excelente, 47. Líder kaput.",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\Отличная работа, 47-й. Босс ликвидирован.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\干得漂亮，47。头目已被消灭。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\做得好，47。首領已被消滅了。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\お見事よ、47。リーダーは排除された。"
+				}
+			}
+		]
+	}
+}

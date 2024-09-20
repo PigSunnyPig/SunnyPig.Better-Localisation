@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/bulldog/41000_handler/ds41068_handlerzacharysdiary.sweetdialog?/ds41068_handlerzacharysdiary_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41068_handlerzacharysdiary_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/bulldog/41000_handler/ds41068_handlerzacharysdiary_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/bulldog/41000_handler/ds41068_handlerzacharysdiary_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2)\\\\Zachary’s diary.//(2,3.7)\\\\This is big.//(3.7,10.70245)\\\\He was about to confess to the world that he and Alexa murdered their older brother Montgomery 46 years ago.//(10.70245,40.70245)\\\\And apparently, Mr. Fernsby helped make the murder look like an accident.",
+			"fr": "//(0,2.2)\\\\Le journal de Zachary.//(2.2,3.9)\\\\Belle trouvaille.//(3.9,6.05)\\\\Il était sur le point d'avouer au monde entier//(6.05,10.8)\\\\que lui et Alexa avaient assassiné leur frère aîné, Montgomery, il y a 46 ans de cela.//(10.8,40.8)\\\\Et apparemment, monsieur Fernsby les avait aidés à maquiller toute l'affaire.",
+			"it": "//(0,3.944785)\\\\Il diario di Zachary. Questa è roba grossa.//(3.944785,7.02)\\\\Stava per confessare al mondo che lui e Alexa//(7.02,10.955)\\\\avevano assassinato Montgomery, il loro fratello maggiore, 46 anni fa.//(10.955,40.955)\\\\A quanto pare, il signor Fernsby li ha aiutati a farlo sembrare un incidente.",
+			"de": "//(0,2.286196)\\\\Zacharys Tagebuch.//(2.286196,3.890491)\\\\Das ist interessant.//(3.890491,10.94245)\\\\Er stand kurz davor, der Welt zu beichten, dass er und Alexa vor 46 Jahren ihren älteren Bruder Montgomery ermordet haben.//(10.94245,40.94245)\\\\Und anscheinend hat Mr.  Fernsby dabei geholfen, den Mord als Unfall zu kaschieren.",
+			"es": "//(0,6.153374)\\\\Es el diario de Zachary. Esto es gordo. Estaba a punto de confesar públicamente//(6.153374,10.9)\\\\que Alexa y él habían matado a su hermano mayor, Montgomery, hace 46 años.//(10.9,40.9)\\\\Por lo visto, el señor Fernsby les ayudó a hacer que pareciese un accidente.",
+			"ru": "//(0,3.4)\\\\Дневник Закари. Ничего себе!//(3.4,6.464786)\\\\Закари хотел признаться, что 46 лет назад они//(6.464786,10.3)\\\\с Алексой убили своего старшего брата Монтгомери.//(10.3,14)\\\\А его смерть обставили как несчастный случай//(14,44)\\\\не без помощи мистера Фернсби.",
+			"cn": "//(0,6)\\\\扎切里的日记。这很重要。他之前打算向世人坦白，//(6,10.356)\\\\46年前他和阿莱莎联手杀害了大哥蒙哥马利。//(10.356,40.356)\\\\上面显示，在芬斯比先生的帮助下，这场谋杀被伪装成一场事故。",
+			"tc": "//(0,6)\\\\札卡里的日記。這很重要。他即將要向全世界公布//(6,10.8)\\\\46年前他和艾力克薩殺了他們的哥哥蒙哥馬利。//(10.8,40.8)\\\\而且，費恩斯比先生讓這起謀殺案看起來像是一場意外。",
+			"jp": "//(0,3.715)\\\\ザカリーの日記よ。これは大発見だわ。//(3.715,10.55)\\\\46年前、彼がアレクサと一緒に兄のモンゴメリーを殺害した事を世間に告白しようとしていたみたい。//(10.55,40.55)\\\\どうやらファーンズビー氏が殺人を事故に見せかけるのを手伝ったようね。"
+		}
+	}
+}

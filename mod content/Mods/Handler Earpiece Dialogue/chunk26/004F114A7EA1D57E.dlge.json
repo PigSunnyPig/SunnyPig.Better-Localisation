@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/italy/12250_white_spider/12250_ebola/12250_handler/ds12301_diana_apt.sweetdialog?/ds12301_diana_apt_diana_ws_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds12301_diana_apt_diana_ws_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/12250_white_spider/12250_ebola/12250_handler/ds12301_diana_apt_diana_ws_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/12250_white_spider/12250_ebola/12250_handler/ds12301_diana_apt_diana_ws_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.196687)\\\\Ah, this is most likely the place.//(3.196687,10.78596)\\\\Brother Akram must be using this apartment as a base. He seems... dedicated.",
+			"fr": "//(0,2.962469)\\\\Ah, ça doit être là.//(2.962469,6.666849)\\\\Frère Akram doit travailler à partir d'ici.//(6.666849,8.598444)\\\\Il semble très...//(8.598444,9.802459)\\\\zélé.",
+			"it": "//(0,2.800004)\\\\Ah, il posto è questo.//(2.800004,4.894457)\\\\Fratello Akram starà utilizzando l'appartamento//(4.894457,6.720122)\\\\come base operativa.//(6.720122,9.802459)\\\\Lo zelo non gli fa difetto.",
+			"de": "//(0,2.998899)\\\\Ah, das dürfte der Ort sein.//(2.998899,6.120991)\\\\Bruder Akram scheint diese Wohnung als Basis zu//(6.120991,8.742249)\\\\benutzen. Er wirkt ...//(8.742249,9.802459)\\\\entschlossen.",
+			"es": "//(0,3.438211)\\\\Ah, este tiene que ser el lugar.//(3.438211,7.143266)\\\\El hermano Akram usa este apartamento como base.//(7.143266,9.802459)\\\\Se le ve... entregado.",
+			"ru": "//(0,3.050858)\\\\А, похоже, это то самое место.//(3.050858,6.739285)\\\\Думаю, квартира брата Акрама — это его база.//(6.739285,9.802459)\\\\Кажется, он... верен своим убеждениям.",
+			"cn": "//(0,30)\\\\啊，应该就是这里了。阿克拉姆教友肯定把这栋公寓当作了基地。他真是......尽心尽力啊。",
+			"tc": "//(0,30)\\\\啊，應該就是這裡了。阿克拉姆修士肯定把這棟公寓當作了基地。他真是......盡心盡力啊。",
+			"jp": "//(0,30)\\\\うん、 ここで 間違いないわね。 ブラザー・ アクラムは ここを 拠点に して いるはず。 彼は きっと... 神経質なのね。"
+		}
+	}
+}

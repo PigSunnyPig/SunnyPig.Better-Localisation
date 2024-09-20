@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_bull/8000_story/dr8105_icareveal.sweetdialog?/dr8105_icareveal_diana_006.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8105_icareveal_diana_006",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_bull/8000_story/dr8105_icareveal_diana_006.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_bull/8000_story/dr8105_icareveal_diana_006.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,30)\\\\Well. At least this shortens the list.",
+			"fr": "//[DIANA]\\\\//(0,30)\\\\Oui. Au moins, ça réduit la liste.",
+			"it": "//[DIANA]\\\\//(0,30)\\\\Meglio. Almeno questo restringe la lista.",
+			"de": "//[DIANA]\\\\//(0,0.8680981)\\\\Tja.//(0.8680981,30.8681)\\\\Wenigstens grenzt das die Liste ein.",
+			"es": "//[DIANA]\\\\//(0,30)\\\\Bueno, así al menos la lista se reduce.",
+			"ru": "//[DIANA]\\\\//(0,1)\\\\Что ж.//(1,31)\\\\По крайней мере, это сокращает список.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\好吧。至少范围缩小了不少。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\好吧。至少範圍縮小了不少。",
+			"jp": "//[DIANA]\\\\//(0,30)\\\\なら、対象は絞れそうね。"
+		}
+	}
+}

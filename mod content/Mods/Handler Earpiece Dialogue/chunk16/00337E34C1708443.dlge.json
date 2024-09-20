@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_skunk/27000_handler/ds27062_oppbbqbrief.sweetdialog?/ds27062_oppbbqbrief_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds27062_oppbbqbrief_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_skunk/27000_handler/ds27062_oppbbqbrief_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_skunk/27000_handler/ds27062_oppbbqbrief_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,3.36587)\\\\The Wilsons are throwing a BBQ and everyone's invited.//(3.36587,10.2732)\\\\It sounds like Nolan Cassidy has some interest in the party as well but for some reason he's unwilling to go inside.//(10.2732,13.8232)\\\\Maybe you can help fix whatever's wrong in there, 47?",
+			"fr": "//[DIANA]\\\\//(0,3.499)\\\\Les Wilson organisent un barbecue et ont invité tout le monde.//(3.499,7.246771)\\\\On dirait que Nolan Cassidy a envie d'y aller,//(7.246771,10.55)\\\\mais, pour une raison que j'ignore, il refuse d'entrer.//(10.55,14.75495)\\\\Peut-être pourriez-vous dénouer la situation, 47 ?",
+			"it": "//[DIANA]\\\\//(0,1.7)\\\\I Wilson hanno organizzato un barbecue//(1.7,3.4)\\\\e hanno invitato tutti.//(3.4,5.080465)\\\\Sembra che anche Nolan Cassidy//(5.080465,7.3)\\\\voglia partecipare alla festa,//(7.3,8.881446)\\\\ma per qualche ragione sembra che//(8.881446,10.6)\\\\non abbia intenzione di entrare.//(10.6,11.9)\\\\Potresti dare una mano a sistemare//(11.9,14.29862)\\\\quello che non va lì dentro, 47?",
+			"de": "//[DIANA]\\\\//(0,1.597491)\\\\Die Wilsons veranstalten eine Grillfeier,//(1.597491,3.20468)\\\\und alle sind eingeladen.//(3.20468,5.799778)\\\\Es klingt, als hätte Nolan Cassidy auch Interesse,//(5.799778,7.097328)\\\\zur Feier zu kommen,//(7.097328,10.54211)\\\\aber aus irgendwelchen Gründen will er nicht reingehen.//(10.54211,11.80178)\\\\Vielleicht können Sie Abhilfe schaffen,//(11.80178,13.79932)\\\\um das zu beheben, 47?",
+			"es": "//[DIANA]\\\\//(0,2.314186)\\\\Los Wilson organizan una barbacoa y han invitado//(2.314186,3.864209)\\\\a todo el mundo.//(3.864209,6.272698)\\\\Al parecer, Nolan Cassidy tiene interés en acudir//(6.272698,7.618398)\\\\a la fiesta, pero,//(7.618398,8.580521)\\\\por alguna razón,//(8.580521,10.41982)\\\\se muestra reacio a entrar.//(10.41982,12.82831)\\\\A lo mejor tú puedes arreglar el problema,//(12.82831,13.82831)\\\\47.",
+			"ru": "//[DIANA]\\\\//(0,3.872972)\\\\Уилсоны жарят мясо и позвали к себе всех соседей.//(3.872972,6.238257)\\\\Нолан Кэссиди явно хочет туда попасть,//(6.238257,9.73733)\\\\но по какой-то причине не желает заходить внутрь.//(9.73733,12.59841)\\\\Быть может, ты сможешь решить эту проблему,//(12.59841,13.61417)\\\\47-й?",
+			"cn": "//[DIANA]\\\\//(0,7.383)\\\\威尔逊一家正在进行室外烧烤，欢迎所有人参加。似乎诺兰·卡西迪对聚会也有兴趣，//(7.383,13.614)\\\\但出于某种原因，他不肯进去。47，不管里面出了什么问题，或许你能想想办法？",
+			"tc": "//[DIANA]\\\\//(0,3.268)\\\\威爾遜一家正在室外烤肉，歡迎所有人參加。//(3.268,10.436)\\\\似乎諾蘭．凱西迪對聚會也有興趣，但出於某種原因，他不肯進去。//(10.436,13.61417)\\\\47，不管裡面出了什麼問題，或許你能想想辦法？",
+			"jp": "//[DIANA]\\\\//(0,3.39)\\\\ウィルソン家はみんなを招待してバーベキューをするつもりらしい。//(3.39,6.75)\\\\ノーラン・キャシディもパーティーに興味を持っているようだけど、//(6.75,10.41)\\\\なんらかの理由で彼は中に入ろうとしないわ。//(10.41,13.61417)\\\\あなたなら彼が抱えている問題を解決できるんじゃないかしら、47？"
+		}
+	}
+}

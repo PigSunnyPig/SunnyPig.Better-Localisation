@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/golden/gecko/40000_story/dr40149_greystory_guardscomingrand.sweetdialog?/dr40149_greystory_guardscomingrand_grey_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr40149_greystory_guardscomingrand_grey_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/gecko/40000_story/dr40149_greystory_guardscomingrand_grey_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/gecko/40000_story/dr40149_greystory_guardscomingrand_grey_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.735987)\\\\47, reinforcements are incoming.//(1.735987,3.677813)\\\\More guards on their way.",
+			"fr": "//(0,30)\\\\Des renforts arrivent, 47. D'autres gardes arrivent.",
+			"it": "//(0,1.893194)\\\\47, arrivano i rinforzi.//(1.893194,3.677813)\\\\Stanno arrivando altre guardie.",
+			"de": "//(0,1.488742)\\\\47, da kommt Verstärkung.//(1.488742,3.677813)\\\\Es sind mehr Wachen auf dem Weg.",
+			"es": "//(0,30)\\\\47, vienen refuerzos. Se aproximan más guardias.",
+			"ru": "//(0,30)\\\\47-й, подкрепление на подходе. Еще одна группа охранников.",
+			"cn": "//(0,30)\\\\47，增援过去了，更多守卫马上就要来了。",
+			"tc": "//(0,30)\\\\47，支援要來了。更多警衛朝這裡來了。",
+			"jp": "//(0,30)\\\\47、応援部隊だ。警備員が向かってるぞ。"
+		}
+	}
+}

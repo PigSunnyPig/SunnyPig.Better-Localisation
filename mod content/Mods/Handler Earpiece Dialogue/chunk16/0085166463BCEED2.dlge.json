@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_skunk/27000_handler/27000_flyin.sweetdialog?/27000_flyin_grey_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "27000_flyin_grey_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_skunk/27000_handler/27000_flyin_grey_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_skunk/27000_handler/27000_flyin_grey_002.animset].pc_animset",
+		"languages": {
+			"en": "//[GREY]\\\\//(0,3.3)\\\\- Most... But not all.//(3.3,8)\\\\Janus' unpresuming home is protected by a host of bodyguards//(8,13.16104)\\\\and intel shows that the fragile former Constant rarely leaves the property.",
+			"fr": "//[GREY]\\\\//(0,3.3)\\\\- La plupart... mais pas tous.//(3.3,8)\\\\La demeure de Janus est sous la protection de gardes du corps,//(8,13.161)\\\\et nos renseignements indiquent que l'ancien Constant ne la quitte que très rarement.",
+			"it": "//[GREY]\\\\//(0,3.3)\\\\- La maggior parte, ma non tutti.//(3.3,8)\\\\La modesta casa di Janus è protetta da una moltitudine di guardie del corpo e,//(8,13.161)\\\\secondo le nostre informazioni, la fragile ex Costante lascia raramente la proprietà.",
+			"de": "//[GREY]\\\\//(0,3.3)\\\\- Die meisten ... aber nicht alle.//(3.3,8.1)\\\\Janus’ unauffälliges Haus wird von einem Kader von Leibwächtern geschützt,//(8.1,13.161)\\\\und unseren Aufzeichnungen nach verlässt die gebrechliche Ex-Konstante nur selten das Grundstück.",
+			"es": "//[GREY]\\\\//(0,3.3)\\\\- La mayoría... pero no todos.//(3.3,8)\\\\El humilde hogar de Janus está protegido por una gran cantidad de guardaespaldas//(8,11.1)\\\\y los informes de inteligencia indican que el anterior Constante//(11.1,13.161)\\\\apenas sale de la propiedad debido a su delicada salud.",
+			"ru": "//[GREY]\\\\//(0,3.3)\\\\- В основном... Но не только они.//(3.3,8)\\\\Неприметный дом Януса сторожит целая команда телохранителей.//(8,13.161)\\\\По нашим данным, экс-Константа слаб здоровьем и редко выходит на улицу.",
+			"cn": "//[GREY]\\\\//(0,8)\\\\-大多数的意思......就是存在例外。杰纳斯低调的住所处在一大批保镖的保护之下。//(8,13.161)\\\\情报指出这位柔弱的前任“永恒常量”几乎足不出户。",
+			"tc": "//[GREY]\\\\//(0,3.3)\\\\- 多數的意思......就是存在例外。//(3.3,8)\\\\傑納斯低調的住所被一大批保鏢保護。//(8,13.16104)\\\\情報指出這位柔弱的前任「常任」幾乎足不出戶。",
+			"jp": "//[GREY]\\\\//(0,3.3)\\\\ほとんどがな... だが全てというわけじゃない。//(3.3,5.25)\\\\ヤヌスの何の特徴もない家は、//(5.25,7.97)\\\\多数のボディーガードに警備されている。//(7.97,11.25)\\\\その上、情報によるとこの弱々しい元コンスタントは//(11.25,13.16104)\\\\めったにそこを離れないらしい。"
+		}
+	}
+}

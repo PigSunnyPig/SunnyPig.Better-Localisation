@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_magpie/29000_handler/ds29047_47kidnapconstantanyway.sweetdialog?/ds29047_47kidnapconstantanyway_grey_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds29047_47kidnapconstantanyway_grey_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_magpie/29000_handler/ds29047_47kidnapconstantanyway_grey_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_magpie/29000_handler/ds29047_47kidnapconstantanyway_grey_001.animset].pc_animset",
+		"languages": {
+			"en": "//[GREY]\\\\//(0,30)\\\\Huh. Stealing my thunder, 47. Just like old times.",
+			"fr": "//[GREY]\\\\//(0,3.932883)\\\\Hé ! Vous me coupez l'herbe sous le pied, 47.//(3.932883,5.947042)\\\\Comme au bon vieux temps.",
+			"it": "//[GREY]\\\\//(0,30)\\\\Ah, mi rubi la scena, 47. Proprio come ai vecchi tempi.",
+			"de": "//[GREY]\\\\//(0,3.696687)\\\\Ha. Du stiehlst mir das Rampenlicht, 47.//(3.696687,5.947041)\\\\Wie in alten Zeiten.",
+			"es": "//[GREY]\\\\//(0,3.696687)\\\\Je. ¿Me quieres robar mi momento, 47?//(3.696687,5.947042)\\\\Como en los viejos tiempos.",
+			"ru": "//[GREY]\\\\//(0,3.828589)\\\\Хм. Решил украсть мои лавры, 47-й.//(3.828589,5.947041)\\\\Прямо как в старые времена.",
+			"cn": "//[GREY]\\\\//(0,30)\\\\哼。抢我的风头啊，47。就和过去一样。",
+			"tc": "//[GREY]\\\\//(0,30)\\\\哼。搶我的風頭啊，47。就和過去一樣。",
+			"jp": "//[GREY]\\\\//(0,30)\\\\ふん、私を出し抜くとはな、47。昔を思い出したよ。"
+		}
+	}
+}

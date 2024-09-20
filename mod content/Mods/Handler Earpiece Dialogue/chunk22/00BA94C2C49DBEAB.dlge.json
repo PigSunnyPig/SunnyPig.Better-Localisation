@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_dirtyoctopus/2000_dirtyoctopus_handler/dr2620_diana.sweetdialog?/dr2620_diana_diana_et_006.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr2620_diana_diana_et_006",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_dirtyoctopus/2000_dirtyoctopus_handler/dr2620_diana_diana_et_006.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_dirtyoctopus/2000_dirtyoctopus_handler/dr2620_diana_diana_et_006.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA_ET]\\\\//(0,30)\\\\It appears that the target has recently had rhinoplasty. Look for a patient with extensive bandages around his nose.",
+			"fr": "//[DIANA_ET]\\\\//(0,3.4)\\\\Il semble que la cible ait subi récemment une rhinoplastie.//(3.4,33.4)\\\\Cherchez un patient avec de gros bandages sur le nez.",
+			"it": "//[DIANA_ET]\\\\//(0,3.431)\\\\Sembra che il bersaglio si sia sottoposto a una rinoplastica.//(3.431,33.431)\\\\Cerca un paziente con una vistosa fasciatura sul naso.",
+			"de": "//[DIANA_ET]\\\\//(0,30)\\\\Anscheinend hat die Zielperson gerade eine Rhinoplastik erhalten. Suchen Sie also nach einem Patienten mit komplett bandagierter Nase.",
+			"es": "//[DIANA_ET]\\\\//(0,3.381)\\\\Parece que el objetivo se sometió recientemente a una rinoplastia.//(3.381,33.381)\\\\Busca a un paciente con vendajes alrededor de la nariz.",
+			"ru": "//[DIANA_ET]\\\\//(0,3.3)\\\\Похоже, цель недавно прошла процедуру ринопластики.//(3.3,33.3)\\\\Ищи пациента с большим количеством бинтов на носу.",
+			"cn": "//[DIANA_ET]\\\\//(0,3.368098)\\\\目标最近似乎进行了鼻整形术。//(3.368098,33.3681)\\\\注意寻找鼻侧贴有外部绷带的病人。",
+			"tc": "//[DIANA_ET]\\\\//(0,30)\\\\目標最近似乎進行了整鼻手術。注意尋找鼻側貼有外部繃帶的病人。",
+			"jp": "//[DIANA_ET]\\\\//(0,30)\\\\標的は最近鼻の整形手術をおこなったようよ。顔に包帯を巻いた患者を探して。"
+		}
+	}
+}

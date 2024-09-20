@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/bulldog/41000_elusive/41000_bramble/41000_bramble_handler/ds41509_targetdownobjectivelocatedandcollected.sweetdialog?/ds41509_targetdownobjectivelocatedandcollected_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41509_targetdownobjectivelocatedandcollected_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/bulldog/41000_elusive/41000_bramble/41000_bramble_handler/ds41509_targetdownobjectivelocatedandcollected_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/bulldog/41000_elusive/41000_bramble/41000_bramble_handler/ds41509_targetdownobjectivelocatedandcollected_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Good. You got the painting too. Now head for an exit.",
+			"fr": "//(0,30)\\\\Parfait, vous avez aussi trouvé le tableau. Maintenant, sortez d'ici.",
+			"it": "//(0,30)\\\\Bene, hai preso anche il dipinto. Ora trova un'uscita.",
+			"de": "//(0,30)\\\\Gut. Sie haben auch das Gemälde. Gehen Sie jetzt zum Ausgang.",
+			"es": "//(0,30)\\\\Perfecto. Y también tienes el cuadro. Ahora dirígete a la salida.",
+			"ru": "//(0,30)\\\\Отлично. Картина теперь у тебя. Направляйся к выходу.",
+			"cn": "//(0,30)\\\\很好。你还拿到了画作。现在前往出口。",
+			"tc": "//(0,30)\\\\很好，你也取得了畫作。現在快去出口。",
+			"jp": "//(0,30)\\\\よかった。絵画を手に入れたわね。さあ、出口に向かって。"
+		}
+	}
+}

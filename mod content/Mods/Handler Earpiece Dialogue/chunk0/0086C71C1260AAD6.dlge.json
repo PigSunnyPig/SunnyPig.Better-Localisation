@@ -1,0 +1,87 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/evergreen/handler/ed041_trphyunlck.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ed041_trphyunlck_diana_001",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed041_trphyunlck_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed041_trphyunlck_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,1.177853)\\\\Impressive, 47.//(1.177853,3.200227)\\\\A small souvenir is now available.",
+					"fr": "//[DIANA]\\\\//(0,1.356196)\\\\Impressionnant, 47.//(1.356196,5.232937)\\\\Un petit souvenir est maintenant disponible.",
+					"it": "//[DIANA]\\\\//(0,3.200227)\\\\Notevole, 47. C'è un piccolo souvenir a disposizione.",
+					"de": "//[DIANA]\\\\//(0,1.6)\\\\Eindrucksvoll, 47.//(1.6,5.232937)\\\\Ein kleines Souvenir ist jetzt verfügbar.",
+					"es": "//[DIANA]\\\\//(0,1.506196)\\\\Impresionante, 47.//(1.506196,5.232937)\\\\Ya tienes disponible un pequeño recuerdo.",
+					"ru": "//[DIANA]\\\\//(0,4.943)\\\\Впечатляет, 47-й. У тебя теперь есть сувенир.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\了不起，47。现在有一份小纪念品给你。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\真了不起，47。有個小小的紀念品開放了。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\素晴らしいわ、47。ちょっとしたお土産があるわよ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed041_trphyunlck_diana_002",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed041_trphyunlck_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed041_trphyunlck_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,1.724294)\\\\Well done, 47.//(1.724294,6.537178)\\\\Here is a little something to remember the occasion.",
+					"fr": "//[DIANA]\\\\//(0,1.185)\\\\Bien joué, 47.//(1.185,4.773083)\\\\Voici un petit quelque chose pour marquer le coup.",
+					"it": "//[DIANA]\\\\//(0,4.773083)\\\\Ben fatto, 47. Ecco un regalino per commemorare questa occasione.",
+					"de": "//[DIANA]\\\\//(0,1.2)\\\\Gut gemacht, 47.//(1.75,4.931133)\\\\Hier ist eine Kleinigkeit als Andenken an diese Gelegenheit.",
+					"es": "//[DIANA]\\\\//(0,1.714275)\\\\Bien hecho, 47.//(1.714275,4.773083)\\\\Aquí tienes algo para recordar la ocasión.",
+					"ru": "//[DIANA]\\\\//(0,1.17)\\\\Молодец, 47-й.//(1.356196,4.773083)\\\\Вот тебе подарок на память о столь важном событии.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\干得好，47。给你个东西，以纪念这一时刻。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\做得好，47。這個小東西讓你紀念這一刻。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\よくやったわ、47。記念にちょっとした贈り物があるの。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed041_trphyunlck_diana_003",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed041_trphyunlck_diana_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed041_trphyunlck_diana_003.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,1.725)\\\\Excellent work, 47.//(1.725,7.273375)\\\\I have a little something for you to commemorate your achievement.",
+					"fr": "//[DIANA]\\\\//(0,1.611)\\\\Excellent travail, 47.//(1.611,5.76677)\\\\J'ai préparé quelque chose pour célébrer ce succès.",
+					"it": "//[DIANA]\\\\//(0,1.5)\\\\Ottimo lavoro, 47.//(1.5,5.766771)\\\\Ho un regalino per te, per commemorare il tuo successo.",
+					"de": "//[DIANA]\\\\//(0,1.55)\\\\Hervorragende Arbeit, 47.//(2,5.766771)\\\\Ich habe eine Kleinigkeit für Sie als Andenken an Ihren Erfolg.",
+					"es": "//[DIANA]\\\\//(0,2.092393)\\\\Un trabajo excelente, 47.//(2.092393,5.766771)\\\\Tengo algo para que rememores tu logro.",
+					"ru": "//[DIANA]\\\\//(0,1.49)\\\\Отличная работа, 47-й.//(1.724294,5.766771)\\\\Я оставила для тебя подарок в честь этого успеха.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\干得漂亮，47。我为你准备了个东西以纪念你的成就。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\做得太好了，47。我給你準備了點東西來表揚你的成就。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\お見事よ、47。あなたの実績をたたえて渡したいものがあるの。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed041_trphyunlck_diana_004",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed041_trphyunlck_diana_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed041_trphyunlck_diana_004.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,1.6)\\\\I'm impressed, 47.//(1.6,7.641472)\\\\I have a little something for you to make this achievement memorable.",
+					"fr": "//[DIANA]\\\\//(0,1.3)\\\\Vous m'impressionnez, 47.//(1.3,5.169)\\\\J'ai préparé quelque chose pour rendre ce succès inoubliable.",
+					"it": "//[DIANA]\\\\//(0,1.6)\\\\Ottimo lavoro, 47.//(1.6,5.169)\\\\Ho un regalino per te, per rendere questa occasione memorabile.",
+					"de": "//[DIANA]\\\\//(0,1.35)\\\\Ich bin beeindruckt, 47.//(1.35,5.169)\\\\Ich habe eine Kleinigkeit für Sie, damit Sie Ihren Erfolg nie vergessen.",
+					"es": "//[DIANA]\\\\//(0,1.574294)\\\\Estoy impresionada, 47.//(1.574294,5.169)\\\\Tengo algo para que nunca olvides tu logro.",
+					"ru": "//[DIANA]\\\\//(0,1.325)\\\\Прекрасно, 47-й.//(1.356196,5.169)\\\\Я выбрала для тебя подарок, чтобы отметить этот выдающийся успех.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\真了不起，47。我为你准备了个东西，以纪念这一成就。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\佩服佩服，47。我給你準備了點小東西來紀念這個成就。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\感心したわ、47。この実績を記念して、ちょっとした贈り物をあげるわ。"
+				}
+			}
+		]
+	}
+}

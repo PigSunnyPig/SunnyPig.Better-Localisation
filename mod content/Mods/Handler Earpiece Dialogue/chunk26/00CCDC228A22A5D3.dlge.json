@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/italy/1000_virus/1000_handler/ds1023_progresionbiolab.sweetdialog?/ds1023_progresionbiolab_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds1023_progresionbiolab_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_virus/1000_handler/ds1023_progresionbiolab_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_virus/1000_handler/ds1023_progresionbiolab_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.608589)\\\\Ether's field lab. You made it.//(2.608589,32.60859)\\\\The virus prototype will be close by. Look for some type of quarantine unit.",
+			"fr": "//(0,2.4)\\\\Le laboratoire de recherche d'Ether. Vous avez réussi.//(2.4,32.4)\\\\Le prototype du virus ne devrait pas être loin, cherchez une unité de quarantaine.",
+			"it": "//(0,1.172393)\\\\Il laboratorio della Ether.//(1.172393,2.526687)\\\\Ce l'hai fatta.//(2.526687,4.785276)\\\\Il prototipo del virus dev'essere vicino.//(4.785276,34.78527)\\\\Cerca un'unità di quarantena.",
+			"de": "//(0,2.494785)\\\\Das Feldlabor von Ether. Sie haben es geschafft.//(2.494785,4.58)\\\\Der Prototyp des Virus muss hier irgendwo sein.//(4.58,34.58)\\\\Vermutlich in irgendeiner Quarantäneeinheit.",
+			"es": "//(0,1.078)\\\\El laboratorio de pruebas de Ether.//(1.078,2.3)\\\\Lo has conseguido.//(2.3,32.3)\\\\El prototipo del virus debe de estar cerca; busca una especie de unidad de cuarentena.",
+			"ru": "//(0,2.75)\\\\Полевая лаборатория «Итер». Ты у цели.//(2.75,5)\\\\Прототип вируса должен быть где-то тут.//(5,35)\\\\Ищи карантинный блок или что-то подобное.",
+			"cn": "//(0,2.3)\\\\苍穹的实地实验室。你成功了。//(2.3,32.3)\\\\原型病毒就在附近。寻找隔离单元。",
+			"tc": "//(0,30)\\\\乙太的實地實驗室。你成功了。原型病毒就在附近。尋找隔離單位。",
+			"jp": "//(0,30)\\\\研究所に たどり着いたわね。 ウィルスの プロトタイプまで あと少しよ。 隔離された部屋を 探して。"
+		}
+	}
+}

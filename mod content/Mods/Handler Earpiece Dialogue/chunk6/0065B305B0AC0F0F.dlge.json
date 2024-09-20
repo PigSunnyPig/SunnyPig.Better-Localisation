@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/cutscenes_s03/m04_rat/m04_rat_flyin.sweetdialog?/m04_rat_flyin_oliviahall_006.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "m04_rat_flyin_oliviahall_006",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/cutscenes_s03/m04_rat/m04_rat_flyin_oliviahall_006.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/cutscenes_s03/m04_rat/m04_rat_flyin_oliviahall_006.animset].pc_animset",
+		"languages": {
+			"en": "//[OLIVIAHALL]\\\\//(0,30)\\\\I just hope you know what you're doing, 47...",
+			"fr": "//[OLIVIAHALL]\\\\//(0,30)\\\\J'espère seulement que vous savez ce que vous faites, 47...",
+			"it": "//[OLIVIAHALL]\\\\//(0,30)\\\\Spero tu sappia cosa stai facendo, 47...",
+			"de": "//[OLIVIAHALL]\\\\//(0,30)\\\\Ich hoffe nur, dass Sie wissen, was Sie da tun 47 ...",
+			"es": "//[OLIVIAHALL]\\\\//(0,30)\\\\Espero que sepas lo que vas a hacer, 47...",
+			"ru": "//[OLIVIAHALL]\\\\//(0,30)\\\\Я надеюсь, ты точно знаешь, что делаешь, 47-й...",
+			"cn": "//[OLIVIAHALL]\\\\//(0,30)\\\\希望你心里有数，47......",
+			"tc": "//[OLIVIAHALL]\\\\//(0,30)\\\\希望你知道自己在做什麼，47......",
+			"jp": "//[OLIVIAHALL]\\\\//(0,30)\\\\何をしようとしているのか本当にわかってるんでしょうね、47..."
+		}
+	}
+}

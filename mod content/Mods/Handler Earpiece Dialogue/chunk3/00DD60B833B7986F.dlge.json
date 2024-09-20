@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/bulldog/41000_handler/ds41130_burialhandlermissionstoryreveal.sweetdialog?/ds41130_burialhandlermissionstoryreveal_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41130_burialhandlermissionstoryreveal_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/bulldog/41000_handler/ds41130_burialhandlermissionstoryreveal_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/bulldog/41000_handler/ds41130_burialhandlermissionstoryreveal_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,6.3)\\\\Madam Carlisle is still going ahead with her staged funeral tomorrow and she wants to inspect the arrangements.//(6.3,36.3)\\\\How about it, 47? You feel up to giving her the grand tour of her final resting place?",
+			"fr": "//(0,4)\\\\Madame Carlisle compte toujours tenir ses obsèques truquées demain//(4,6.6)\\\\et veut s'assurer que tout se passera sans accroc.//(6.6,8.4)\\\\Qu'en dites-vous, 47 ?//(8.4,38.4)\\\\Vous pourriez en profiter pour lui faire visiter sa dernière demeure...",
+			"it": "//(0,6.6)\\\\Madame Carlisle va ancora avanti con la messinscena del suo funerale di domani e vuole controllare i preparativi.//(6.6,36.6)\\\\Che ne dici, 47? Ti va di farle fare un bel giro del luogo del suo eterno riposo?",
+			"de": "//(0,3.800982)\\\\Madam Carlisle will morgen immer noch ihre inszenierte Beerdigung durchführen,//(3.800982,6.577668)\\\\und sie will die Vorbereitungen dafür inspizieren.//(6.577668,8.370061)\\\\Wie wäre es, 47?//(8.370061,38.37006)\\\\Haben Sie Lust, ihr eine Führung ihrer letzten Ruhestätte zu geben?",
+			"es": "//(0,4)\\\\La señora Carlisle va a seguir adelante con el funeral falso de mañana//(4,6.7)\\\\y quiere que supervises los preparativos.//(6.7,36.7)\\\\¿Qué opinas, 47? ¿Te apetece hacerle una ruta por su lugar de descanso eterno?",
+			"ru": "//(0,2.576687)\\\\Мадам Карлайл очень серьезно подошла к организации//(2.576687,4.54908)\\\\своих завтрашних фальшивых похорон.//(4.54908,7.15)\\\\Она хочет убедиться, что все готово.//(7.15,37.15)\\\\Ну что, 47-й? Устроишь ей экскурсию к месту упокоения?",
+			"cn": "//(0,6.4)\\\\卡莱尔夫人仍要在明天举行她的假葬礼，她要查看一下具体的安排。//(6.4,36.4)\\\\你觉得怎么样，47？要让她好好参观一下自己的最终安息之地吗？",
+			"tc": "//(0,6.7)\\\\卡萊爾女士仍然決定要在明天舉辦假葬禮並且希望檢查現場。//(6.7,36.7)\\\\怎麼樣，47？你要不要帶她去遊覽一下她的葬身之處？",
+			"jp": "//(0,4.13)\\\\マダム・カーライルは明日の偽装葬儀はまだ決行する気のようね。//(4.13,6.6)\\\\準備を確認しに行くみたいだわ。//(6.6,36.6)\\\\どう、47？彼女の最後の安息の地への案内役になるつもりはある？"
+		}
+	}
+}

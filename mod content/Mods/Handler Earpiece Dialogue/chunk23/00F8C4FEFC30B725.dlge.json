@@ -1,0 +1,49 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/12500_white_spider/12500_rabies/12500_handler/ds12558_vehicle.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds12558_vehicle_diana_ws_001",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12558_vehicle_diana_ws_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12558_vehicle_diana_ws_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\You're looking for a mechanic. Working on one of the militia's vehicles.",
+					"fr": "//(0,30)\\\\Cherchez un mécanicien, il répare un des véhicules.",
+					"it": "//(0,30)\\\\Devi cercare un meccanico. Sta lavorando su un veicolo della milizia.",
+					"de": "//(0,30)\\\\Sie suchen einen Mechaniker. Er arbeitet an einem der Fahrzeuge der Miliz.",
+					"es": "//(0,30)\\\\Buscas a un mecánico trabajando en un vehículo de la milicia.",
+					"ru": "//(0,30)\\\\Тебе нужен механик. Работает с каким-то из транспортных средств вооруженного формирования.",
+					"cn": "//(0,30)\\\\你要找的是一位机械师。正在修理武装部队的一辆载具。",
+					"tc": "//(0,30)\\\\你要找的是一位機師。正在修理武裝部隊的一輛載具。",
+					"jp": "//(0,30)\\\\整備士を 探して。 車両を いじって いるはずよ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds12558_vehicle_diana_ws_002",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12558_vehicle_diana_ws_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12558_vehicle_diana_ws_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\The target is assigned to the vehicle pool. Repair duty.",
+					"fr": "//(0,30)\\\\La cible est préposée à la réparation des véhicules du parc.",
+					"it": "//(0,30)\\\\Il bersaglio è assegnato all'area veicoli con compiti di riparazione.",
+					"de": "//(0,30)\\\\Das Ziel ist dem Fuhrpark zugeteilt. Um Reparaturen durchzuführen.",
+					"es": "//(0,30)\\\\El objetivo está asignado al parque de vehículos. Tareas de reparación.",
+					"ru": "//(0,30)\\\\Цель находится в автопарке. Занимается ремонтом.",
+					"cn": "//(0,30)\\\\目标奉命前往载具停放处。执行修理工作。",
+					"tc": "//(0,30)\\\\目標奉命前往載具停放處。執行修理工作。",
+					"jp": "//(0,30)\\\\ターゲットの 配属先は カープールらしいわ。"
+				}
+			}
+		]
+	}
+}

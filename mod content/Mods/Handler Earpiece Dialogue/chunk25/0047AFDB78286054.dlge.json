@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/marrakech/11600_elusive/11600_maitai/11600_maitai_handler/dr11600_diana.sweetdialog?/dr11600_diana_diana_et_003.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr11600_diana_diana_et_003",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_maitai/11600_maitai_handler/dr11600_diana_diana_et_003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_maitai/11600_maitai_handler/dr11600_diana_diana_et_003.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA_ET]\\\\//(0,3.725)\\\\Good evening, 47. The target arrived several hours ago//(3.725,9.198374)\\\\for a meeting with a local French Marrakeshi businessman somewhere in the city center.//(9.198374,11.88126)\\\\We have been unable to discover the specific location,//(11.88126,15.76224)\\\\so I advise you look for a higher-than-usual security presence.//(15.76224,45.76224)\\\\Good hunting.",
+			"fr": "//[DIANA_ET]\\\\//(0,1.8)\\\\Bonsoir, 47.//(1.8,6.99)\\\\La cible est arrivée il y a plusieurs heures pour se rendre à un rendez-vous avec un homme d'affaires franco-marocain,//(6.99,8.88)\\\\quelque part dans le centre-ville.//(8.88,11.9)\\\\Nous n'avons pas pu obtenir l'emplacement exact de la rencontre,//(11.9,15.9)\\\\mais je vous suggère de chercher un dispositif de sécurité qui sort de l'ordinaire.//(15.9,45.9)\\\\Bonne chasse.",
+			"it": "//[DIANA_ET]\\\\//(0,1.706196)\\\\Buonasera, 47.//(1.706196,8.513865)\\\\Il bersaglio è arrivato diverse ore fa per incontrare un uomo d'affari franco-marocchino nel centro di Marrakech.//(8.814,11.815)\\\\Non siamo riusciti a scoprire il luogo designato per l'incontro,//(11.815,15.882)\\\\quindi ti consiglio cercare un'area con una numero di guardie inusualmente alto.//(15.882,45.882)\\\\Buona caccia.",
+			"de": "//[DIANA_ET]\\\\//(0,1.724294)\\\\Guten Tag, 47.//(1.724294,5.511472)\\\\Das Ziel ist vor einigen Stunden eingetroffen, um sich irgendwo im Stadtzentrum//(5.511472,9)\\\\mit einem einheimischen frankomarokkanischen Geschäftsmann zu treffen.//(9,12.1)\\\\Da wir den exakten Ort nicht bestimmen konnten, empfehle ich Ihnen,//(12.1,16)\\\\die Augen nach einer ungewöhnlich hohen Zahl von Sicherheitskräften offen zu halten.//(16,46)\\\\Waidmannsheil.",
+			"es": "//[DIANA_ET]\\\\//(0,1.874294)\\\\Buenas tardes, 47.//(1.874294,6.80957)\\\\El objetivo llegó hace unas horas para reunirse con un empresario local francomarrakechí//(6.80957,8.95)\\\\en algún punto del centro de la ciudad.//(8.95,11.65)\\\\No hemos podido descubrir la ubicación concreta,//(11.65,16)\\\\así que te aconsejo que busques un lugar con más seguridad de lo normal.//(16,46)\\\\Buena caza.",
+			"ru": "//[DIANA_ET]\\\\//(0,1.724294)\\\\Добрый вечер, 47-й.//(1.724294,9.08)\\\\Несколько часов назад цель прибыла на встречу с местным франко-марокканским бизнесменом в центре города.//(9.08,11.77669)\\\\Нам пока не удалось определить точное местоположение,//(11.77669,15.95767)\\\\так что я советую обращать внимание на повышенное присутствие охраны.//(15.95767,45.95767)\\\\Доброй охоты.",
+			"cn": "//[DIANA_ET]\\\\//(0,8.746)\\\\晚上好，47。目标几小时前已经到达，正在城市中心某处与一名法籍马拉喀什商人进行会谈。//(8.746,38.746)\\\\我们无法获取确切地点，因此我建议你留意安保特别严密的地方。狩猎愉快。",
+			"tc": "//[DIANA_ET]\\\\//(0,3.7)\\\\晚安，47。目標幾小時前已經到達，//(3.7,9.2)\\\\正在城市中心某處與一名法籍馬拉喀什商人進行會談。//(9.2,15.76)\\\\我們無法獲取確切地點，因此我建議你留意安保特別嚴密的地方。//(15.76,45.76)\\\\狩獵愉快。",
+			"jp": "//[DIANA_ET]\\\\//(0,1.7)\\\\こんばんは、 47。//(1.7,8.9)\\\\標的は 数時間前に フランス系マラケシュ人の ビジネスマンと 都市中心部で 会合するため、 マラケシュに 到着したわ。//(8.9,15.83)\\\\場所は 特定できなかったから、 普段より 警備が 厳重なところを 調べて みると いいと思うわ。//(15.83,16.84835)\\\\期待して いるわよ。"
+		}
+	}
+}

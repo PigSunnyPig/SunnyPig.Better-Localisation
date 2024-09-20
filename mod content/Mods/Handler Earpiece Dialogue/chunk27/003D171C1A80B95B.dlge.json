@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_fashion/3000_handler/ds3329_opplaptopbriefing.sweetdialog?/ds3329_opplaptopbriefing_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds3329_opplaptopbriefing_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_fashion/3000_handler/ds3329_opplaptopbriefing_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_fashion/3000_handler/ds3329_opplaptopbriefing_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,5.737178)\\\\The IAGO auction employs an interactive bidding system controlled from Margolis’ laptop.//(5.737178,10.24675)\\\\If you can get to it, you should be able to shut down the auction temporarily.//(10.24675,40.24675)\\\\This could be an opportunity to catch Margolis away from the spotlight.",
+			"fr": "//(0,3.5)\\\\La vente de IAGO se fera via un système d'enchères interactif,//(3.5,6)\\\\contrôlé depuis l'ordinateur portable de Margolis.//(6,10.3)\\\\Si vous parvenez à vous en approcher, vous devriez pouvoir interrompre temporairement l'événement,//(10.3,40.3)\\\\ce qui vous offrira une occasion de surprendre Margolis à l'écart des projecteurs.",
+			"it": "//(0,6.003374)\\\\L'asta della IAGO utilizza un sistema di offerte interattivo gestito dal portatile di Margolis.//(6.003374,10.25006)\\\\Se riuscissi ad accedervi, potresti interromperla temporaneamente.//(10.25006,40.25006)\\\\Sarebbe un'ottima occasione per avvicinarsi a Margolis lontano da occhi indiscreti...",
+			"de": "//(0,6.141472)\\\\Bei der IAGO-Auktion kommt ein interaktives Gebotssystem zum Einsatz, das über Margolis' Laptop gesteuert wird.//(6.141472,36.14147)\\\\Mit Letzterem könnten Sie die Auktion kurz unterbrechen, um Margolis abseits des Scheinwerferlichts zu erwischen.",
+			"es": "//(0,5.9)\\\\La subasta de IAGO utiliza un sistema interactivo de pujas controlado desde el portátil de Margolis.//(5.9,10.3)\\\\Si consigues llegar a él, podrás interrumpir la subasta de forma temporal...//(10.3,40.3)\\\\lo que te permitiría alejar a Margolis del centro de atención.",
+			"ru": "//(0,6)\\\\На аукционе «ЯГО» используется интерактивная система ставок, управляемая с ноутбука Марголис.//(6,10.3)\\\\Если ты сможешь до него добраться, то можно будет на время отключить аукцион.//(10.3,40.3)\\\\Так ты выманишь Марголис подальше от людных мест.",
+			"cn": "//(0,3.4)\\\\埃古拍卖会运用互动式竞价系统，//(3.4,5.5)\\\\该系统由玛戈利斯的笔记本电脑控制。//(5.5,7.3)\\\\如果你能找到笔记本电脑，//(7.3,10.2)\\\\就应该能暂时中止拍卖会。//(10.2,12.2)\\\\这也许能让玛戈利斯离开公众视线，//(12.2,42.2)\\\\并给我们提供下手的机会。",
+			"tc": "//(0,5.85)\\\\IAGO拍賣會運用互動式競價系統，該系統由馬戈利斯的筆記型電腦控制。//(5.85,10.35)\\\\如果你能找到筆記型電腦，就應該能暫時中止拍賣會。//(10.35,40.35)\\\\這也許能讓馬戈利斯離開公眾視線，並給我們提供下手的機會。",
+			"jp": "//(0,7.003271)\\\\オークションは、 マーゴリスの ラップトップから 制御されてる。 彼女の ラップトップを 使えれば、//(7.003271,14.00654)\\\\一時的に オークションを 止められるはず。 マーゴリスを 人目の ない場所に おびき出せるわ。"
+		}
+	}
+}

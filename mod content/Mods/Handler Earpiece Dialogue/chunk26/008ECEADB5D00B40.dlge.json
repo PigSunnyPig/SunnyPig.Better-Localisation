@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/italy/1000_virus/1000_handler/ds1043_morguebriefing.sweetdialog?/ds1043_morguebriefing_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds1043_morguebriefing_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_virus/1000_handler/ds1043_morguebriefing_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_virus/1000_handler/ds1043_morguebriefing_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,5.285276)\\\\An accident at the Ether lab has claimed the life of a scientist.//(5.285276,13.51534)\\\\His body is currently stored at the town morgue, and a guilt-ridden colleague plans to visit there to pay her respects.//(13.51534,43.51534)\\\\Between them, these two have everything we need to infiltrate the field lab.",
+			"fr": "//(0,7.4)\\\\Un accident de laboratoire a coûté la vie à un scientifique, dont le corps se trouve désormais à la morgue.//(7.4,11.6)\\\\Une de ses collègues, rongée par la culpabilité, a prévu de s'y présenter pour lui rendre un dernier hommage.//(11.6,41.6)\\\\L'un et l'autre présentent plusieurs possibilités d'infiltrer le laboratoire de recherches.",
+			"it": "//(0,3.635276)\\\\Un incidente al laboratorio della Ether è costato la vita a uno scienziato.//(3.635276,7.336258)\\\\Il suo corpo è custodito nell'obitorio cittadino e un'ex collega,//(7.336258,9.72344)\\\\mossa dai sensi di colpa, ha deciso di porgergli i suoi rispetti.//(9.72344,39.72344)\\\\Quei due, insieme, potrebbero avere tutto ciò che ci serve per entrare nel laboratorio.",
+			"de": "//(0,4.517178)\\\\Bei einem Unfall im Labor der Ether Corporation wurde ein Wissenschaftler getötet.//(4.517178,11.64914)\\\\Seine sterblichen Überreste wurden in die örtliche Leichenhalle gebracht, wo ihm eine Kollegin in Kürze die letzte Ehre erweisen wird.//(11.64914,41.64914)\\\\Die beiden müssten alles haben, was wir brauchen, um in das Labor einzudringen.",
+			"es": "//(0,3.651)\\\\Un accidente en el laboratorio de Ether se ha cobrado la vida de un científico.//(3.651,7.45)\\\\Ahora su cuerpo se encuentra en la morgue de la ciudad, y una colega que se siente culpable//(7.45,9.871)\\\\planea ir a visitarlo para presentar sus respetos.//(9.871,39.871)\\\\Ambos podrían tener todo lo que necesitamos para infiltrarnos en el laboratorio de pruebas.",
+			"ru": "//(0,4)\\\\Во время несчастного случая в лаборатории «Итер» погиб ученый.//(4,7)\\\\Сейчас его тело находится в городском морге,//(7,12)\\\\и страдающая от чувства вины коллега собирается зайти туда, чтобы попрощаться.//(12,42)\\\\Думаю, у этой парочки найдется все, чтобы попасть в полевую лабораторию.",
+			"cn": "//(0,3.65)\\\\苍穹实验室里发生了一场事故，导致一名科学家丧生。//(3.65,6.1)\\\\他的尸体目前存放在镇上的太平间里，//(6.1,9.56)\\\\他的一名心怀愧疚的同事们打算去那里悼念他。//(9.56,39.56)\\\\这两人拥有我们渗透进实地实验室所需的一切。",
+			"tc": "//(0,3.8)\\\\乙太實驗室裡發生了一場意外，導致一名科學家喪生。//(3.8,9.8)\\\\他的屍體目前存放在鎮上的太平間裡，他的一名心懷愧疚的同事們打算去那裡悼念他。//(9.8,39.8)\\\\這兩人擁有我們滲透進實地實驗室所需的一切。",
+			"jp": "//(0,9.965486)\\\\研究所で 事故が 起きて 科学者が 死んだの。 遺体は 町の 安置所よ。 罪の 意識を 感じた同僚の 女性が、//(9.965486,14.11777)\\\\そこを 訪れるようね。 侵入に 必要なものが すべて揃うわ。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_tamagozake/4000_tamagozake_handler/dr4660_diana.sweetdialog?/dr4660_diana_diana_et_003.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr4660_diana_diana_et_003",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_tamagozake/4000_tamagozake_handler/dr4660_diana_diana_et_003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_tamagozake/4000_tamagozake_handler/dr4660_diana_diana_et_003.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA_ET]\\\\//(0,1.8)\\\\Welcome to Bangkok.//(1.8,4.66908)\\\\The exhibition should be easy enough to locate,//(4.66908,7.63816)\\\\but there are a number of VIPs staying at the hotel,//(7.63816,12.49153)\\\\and you should expect them to visit the exhibition along with their security entourages.//(12.49153,42.49153)\\\\Good hunting, 47.",
+			"fr": "//[DIANA_ET]\\\\//(0,2.1)\\\\Bienvenue à Bangkok.//(2.1,4.7)\\\\L'exposition devrait être facile à trouver,//(4.7,7.5)\\\\mais il y a de nombreux VIP qui séjournent à l'hôtel.//(7.5,12.2)\\\\Il y a de fortes chances pour qu'ils visitent l'exposition en compagnie de leurs chiens de garde.//(12.2,42.2)\\\\Bonne chasse, 47.",
+			"it": "//[DIANA_ET]\\\\//(0,2.004294)\\\\Benvenuto a Bangkok.//(2.004294,7.3)\\\\Trovare la mostra sarà semplice, ma l'hotel ospita diversi VIP//(7.3,12.57)\\\\che probabilmente parteciperanno all'evento insieme alle loro scorte.//(12.57,42.57)\\\\Buona caccia, 47.",
+			"de": "//[DIANA_ET]\\\\//(0,2)\\\\Willkommen in Bangkok!//(2,7.7)\\\\Die Ausstellung dürfte leicht zu finden sein, aber in dem Hotel sind auch zahlreiche VIPs abgestiegen.//(7.7,12.7)\\\\Sie müssen also damit rechnen, dass sie die Ausstellung in Begleitung ihrer Sicherheitsleute besuchen.//(12.7,42.7)\\\\Waidmannsheil, 47!",
+			"es": "//[DIANA_ET]\\\\//(0,1.904294)\\\\Bienvenido a Bangkok.//(1.904294,7.365767)\\\\La exposición debería ser fácil de localizar, pero hay varios VIP alojados en el hotel,//(7.365767,12.573)\\\\por lo que es de suponer que irán a la exposición acompañados de sus equipos de seguridad.//(12.573,42.573)\\\\Buena caza, 47.",
+			"ru": "//[DIANA_ET]\\\\//(0,1.95)\\\\Добро пожаловать в Бангкок!//(1.95,7.505767)\\\\Найти, где проходит выставка, будет несложно, но сейчас в отеле находится несколько важных постояльцев,//(7.505767,12.54485)\\\\которые, скорее всего, заходят посетить эту выставку в сопровождении своей охраны.//(12.54485,42.54485)\\\\Доброй охоты, 47-й.",
+			"cn": "//[DIANA_ET]\\\\//(0,7.668098)\\\\欢迎来到曼谷。展会举办的位置很好找，不过酒店中仍然有不少贵宾，//(7.668098,37.6681)\\\\他们肯定会带着自己的安保人员一同参展。祝你好运，47。",
+			"tc": "//[DIANA_ET]\\\\//(0,7.668)\\\\歡迎來到曼谷。展會舉辦的位置很好找，不過旅館中仍然有不少貴賓，//(7.668,37.668)\\\\他們肯定會帶著自己的安保人員一同參展。祝你好運，47。",
+			"jp": "//[DIANA_ET]\\\\//(0,6.269223)\\\\バンコクへ ようこそ。 展覧会を 見つけるのは 簡単だろうけど、 ホテルには 複数の VIP客が//(6.269223,14.10575)\\\\宿泊して いて、 彼らが 護衛を 引き連れて 展覧会を 訪れる可能性も あるわ。 成功を 祈ってる。"
+		}
+	}
+}

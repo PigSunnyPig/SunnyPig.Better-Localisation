@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/12500_white_spider/12500_rabies/12500_handler/ds12578_finalhintshoelace.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds12578_finalhintshoelace_diana_ws_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12578_finalhintshoelace_diana_ws_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12578_finalhintshoelace_diana_ws_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\He's tying his shoelace.",
+					"fr": "//(0,30)\\\\Il fait ses lacets.",
+					"it": "//(0,30)\\\\Si sta allacciando le scarpe.",
+					"de": "//(0,30)\\\\Er bindet sich die Schuhe.",
+					"es": "//(0,30)\\\\Se está atando los cordones.",
+					"ru": "//(0,30)\\\\Он завязывает шнурки.",
+					"cn": "//(0,30)\\\\他正在系鞋带。",
+					"tc": "//(0,30)\\\\他正在繫鞋帶。",
+					"jp": "//(0,30)\\\\彼は 靴紐を 結んでる。"
+				}
+			}
+		]
+	}
+}

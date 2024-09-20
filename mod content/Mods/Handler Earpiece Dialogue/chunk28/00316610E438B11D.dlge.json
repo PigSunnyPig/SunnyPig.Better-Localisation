@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/rocky/dugong/46000_handler/ds46003_targetidcrest.sweetdialog?/ds46003_targetidcrest_grey_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds46003_targetidcrest_grey_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/rocky/dugong/46000_handler/ds46003_targetidcrest_grey_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/rocky/dugong/46000_handler/ds46003_targetidcrest_grey_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.719182)\\\\There... That's Noel Crest.//(2.719182,6.102979)\\\\Formerly one of my most reliable assets.",
+			"fr": "//(0,30)\\\\Voilà Noel Crest. Autrefois l'un de mes meilleurs éléments.",
+			"it": "//(0,2.840491)\\\\Laggiù... Quello è Noel Crest.//(2.840491,32.84049)\\\\Un tempo era una delle mie risorse più importanti.",
+			"de": "//(0,0.8)\\\\Da ...//(0.8,1.9)\\\\Das ist Noel Crest.//(3.15,33.15)\\\\Ehemals einer meiner verlässlichsten Agenten.",
+			"es": "//(0,2.25)\\\\Ahí está... Ese es Noel Crest.//(3.35,33.35)\\\\Antaño, era uno de mis recursos de confianza.",
+			"ru": "//(0,1.91)\\\\А вот и он... Ноэль Крест.//(3.4,33.4)\\\\Я считал его одним из самых верных помощников.",
+			"cn": "//(0,30)\\\\看那......那就是诺埃尔·克雷斯。我曾经最可靠的人手之一。",
+			"tc": "//(0,30)\\\\在那......那是諾爾·克雷斯特。 他曾經是我最可靠的屬下之一。",
+			"jp": "//(0,30)\\\\あそこだ... あれがノエル・クレストだ。 かつては俺の有用な持ち駒だったのにな。"
+		}
+	}
+}

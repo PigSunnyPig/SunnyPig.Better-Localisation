@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/marrakech/6000_coup/6000_handler/ds6002_idzaydan.sweetdialog?/ds6002_idzaydan_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds6002_idzaydan_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/6000_coup/6000_handler/ds6002_idzaydan_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/6000_coup/6000_handler/ds6002_idzaydan_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\That is General Reza Zaydan. Keeper of the peace.",
+			"fr": "//(0,30)\\\\Voici le général Reza Zaydan. Garant de la paix nationale.",
+			"it": "//(0,30)\\\\Quello è il generale Reza Zaydan. Il garante della pace.",
+			"de": "//(0,2.8)\\\\Das ... ist General Reza Zaydan.//(2.8,32.8)\\\\Der Hüter des Friedens.",
+			"es": "//(0,2.858589)\\\\Ese... es el general Reza Zaydan.//(2.858589,32.85859)\\\\Guardián de la paz.",
+			"ru": "//(0,30)\\\\Это... генерал Реза Зейдан. Миротворец.",
+			"cn": "//(0,30)\\\\雷扎·泽丹将军。和平的守护者。",
+			"tc": "//(0,30)\\\\禮薩．扎伊丹將軍。和平的守護者。",
+			"jp": "//(0,30)\\\\彼がレーザ・ゼイダン将軍。平和の番人。"
+		}
+	}
+}

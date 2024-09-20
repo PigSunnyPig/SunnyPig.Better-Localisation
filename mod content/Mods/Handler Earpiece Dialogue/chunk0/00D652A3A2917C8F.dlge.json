@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/evergreen/handler/ed066_mechclbrtnintelunlck.sweetdialog?/ed066_mechclbrtnintelunlck_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ed066_mechclbrtnintelunlck_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed066_mechclbrtnintelunlck_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed066_mechclbrtnintelunlck_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\I've provided you with new intel.",
+			"fr": "//(0,30)\\\\Je viens de vous envoyer de nouvelles informations.",
+			"it": "//(0,30)\\\\Ti ho fornito nuove informazioni.",
+			"de": "//(0,30)\\\\Ich habe Sie mit neuen Informationen versorgt.",
+			"es": "//(0,30)\\\\Te he dado nueva información.",
+			"ru": "//(0,30)\\\\Я подготовила для тебя новые разведданные.",
+			"cn": "//(0,30)\\\\我向你提供了一面情报墙。",
+			"tc": "//(0,30)\\\\我為你提供了新情報。",
+			"jp": "//(0,30)\\\\新しい情報を提供したわ。"
+		}
+	}
+}

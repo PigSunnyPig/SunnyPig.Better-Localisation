@@ -1,0 +1,144 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "00EE199E66257DBB",
+	"DITL": "005CC166F7715F6D",
+	"CLNG": "00063B34B5153AEE",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds20031_sp_missiondone_diana_003",
+				"weight": 0.14285714285714285,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20031_sp_missiondone_diana_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20031_sp_missiondone_diana_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Well done, 47.",
+					"fr": "//(0,30)\\\\Bien joué, 47.",
+					"it": "//(0,30)\\\\Ben fatto, 47.",
+					"de": "//(0,30)\\\\Gut gemacht, 47.",
+					"es": "//(0,30)\\\\Buen trabajo, 47",
+					"ru": "//(0,30)\\\\Отлично, 47-й.",
+					"cn": "//(0,30)\\\\干得好，47。",
+					"tc": "//(0,30)\\\\做得好，47。",
+					"jp": "//(0,30)\\\\良くやったわ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds20031_sp_missiondone_diana_004",
+				"weight": 0.14285714285714285,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20031_sp_missiondone_diana_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20031_sp_missiondone_diana_004.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Well done, 47. The money will be wired to your account in a moment.",
+					"fr": "//(0,30)\\\\Bien joué, 47. L'argent sera transféré sur votre compte dans un instant.",
+					"it": "//(0,30)\\\\Ben fatto, 47. Il denaro verrà versato sul tuo conto tra poco.",
+					"de": "//(0,30)\\\\Gut gemacht, 47. Das Geld wird gleich auf Ihr Konto überwiesen.",
+					"es": "//(0,30)\\\\Buen trabajo, 47. Tendrás el dinero en tu cuenta dentro de unos instantes.",
+					"ru": "//(0,30)\\\\Отлично, 47-й. Деньги будут перечислены на твой счет с минуты на минуту.",
+					"cn": "//(0,30)\\\\干得好，47。我们一会儿就会把钱汇到你账上。",
+					"tc": "//(0,30)\\\\做得好，47。資金稍後就會轉到你的賬上。",
+					"jp": "//(0,30)\\\\良くやったわ。あなたの口座に報酬が振り込まれるわ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds20031_sp_missiondone_diana_005",
+				"weight": 0.14285714285714285,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20031_sp_missiondone_diana_005.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20031_sp_missiondone_diana_005.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Well done, 47. I'll tie up any loose ends, as always.",
+					"fr": "//(0,30)\\\\Bien joué, 47. Comme toujours. Je vais régler les derniers détails.",
+					"it": "//(0,30)\\\\Ben fatto, 47. Sistemerò tutte le questioni in sospeso. Come sempre.",
+					"de": "//(0,30)\\\\Gut gemacht, 47. Ich kümmere mich wie immer um etwaige lose Enden.",
+					"es": "//(0,30)\\\\Buen trabajo, 47. Ya me ocupo yo de los cabos sueltos. Como siempre.",
+					"ru": "//(0,30)\\\\Отлично, 47-й. Я замету все следы, как всегда.",
+					"cn": "//(0,30)\\\\干得好，47。一如既往地优秀。剩下的一些细枝末节的问题我来处理。",
+					"tc": "//(0,30)\\\\做得好，47。一如往常，我會處理好善後。",
+					"jp": "//(0,30)\\\\良くやったわね。あとはいつも通り、私が片付けておくわ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds20031_sp_missiondone_diana_006",
+				"weight": 0.14285714285714285,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20031_sp_missiondone_diana_006.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20031_sp_missiondone_diana_006.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Nice work, 47.",
+					"fr": "//(0,30)\\\\Bien joué, 47.",
+					"it": "//(0,30)\\\\Ottimo lavoro, 47.",
+					"de": "//(0,30)\\\\Gut gemacht, 47.",
+					"es": "//(0,30)\\\\Buen trabajo, 47.",
+					"ru": "//(0,30)\\\\Неплохо сработано, 47-й.",
+					"cn": "//(0,30)\\\\漂亮，47。",
+					"tc": "//(0,30)\\\\做得漂亮，47。",
+					"jp": "//(0,30)\\\\良い仕事だったわ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds20031_sp_missiondone_diana_007",
+				"weight": 0.14285714285714285,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20031_sp_missiondone_diana_007.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20031_sp_missiondone_diana_007.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Good work, 47. The money will be wired to your account in a moment.",
+					"fr": "//(0,30)\\\\Beau travail, 47. L'argent sera transféré sur votre compte dans un instant.",
+					"it": "//(0,30)\\\\Ottimo lavoro, 47. Il denaro verrà versato sul tuo conto tra poco.",
+					"de": "//(0,30)\\\\Gute Arbeit, 47. Das Geld wird gleich auf Ihr Konto überwiesen.",
+					"es": "//(0,30)\\\\Buen trabajo, 47. Tendrás el dinero en tu cuenta dentro de unos instantes.",
+					"ru": "//(0,30)\\\\Хорошая работа, 47-й. Деньги будут перечислены на твой счет с минуты на минуту.",
+					"cn": "//(0,30)\\\\干得好，47。我们一会儿就会把钱汇到你账上。",
+					"tc": "//(0,30)\\\\做得好，47。資金稍後就會轉到你的賬上。",
+					"jp": "//(0,30)\\\\お見事ね。あなたの口座に報酬が振り込まれるわ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds20031_sp_missiondone_diana_008",
+				"weight": 0.14285714285714285,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20031_sp_missiondone_diana_008.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20031_sp_missiondone_diana_008.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Good work, 47.",
+					"fr": "//(0,30)\\\\Beau travail, 47.",
+					"it": "//(0,30)\\\\Ottimo lavoro, 47.",
+					"de": "//(0,30)\\\\Gute Arbeit, 47.",
+					"es": "//(0,30)\\\\Buen trabajo, 47.",
+					"ru": "//(0,30)\\\\Хорошая работа, 47-й.",
+					"cn": "//(0,30)\\\\干得好，47。",
+					"tc": "//(0,30)\\\\做得好，47。",
+					"jp": "//(0,30)\\\\良い仕事だったわ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds20031_sp_missiondone_diana_009",
+				"weight": 0.14285714285714285,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20031_sp_missiondone_diana_009.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20031_sp_missiondone_diana_009.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\As always, nice work, 47.",
+					"fr": "//(0,30)\\\\Comme toujours. Bien joué, 47.",
+					"it": "//(0,30)\\\\Come sempre. Ottimo lavoro, 47.",
+					"de": "//(0,30)\\\\Wie immer. Gute Arbeit, 47.",
+					"es": "//(0,30)\\\\Como siempre. Buen trabajo, 47.",
+					"ru": "//(0,30)\\\\Как всегда. Неплохо сработано, 47-й.",
+					"cn": "//(0,30)\\\\一如既往地优秀。漂亮，47。",
+					"tc": "//(0,30)\\\\一如往常，做得漂亮，47。",
+					"jp": "//(0,30)\\\\いつも通り、良い仕事ぶりだったわ。"
+				}
+			}
+		]
+	}
+}

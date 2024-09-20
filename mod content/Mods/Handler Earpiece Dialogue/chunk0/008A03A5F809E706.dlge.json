@@ -1,0 +1,178 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "008A03A5F809E706",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Switch",
+		"switchKey": "EV_DianaIDAcc",
+		"default": "DIALOGUE_ACCFALLBACK",
+		"containers": [
+			{
+				"type": "Random",
+				"cases": ["DIALOGUE_ACCFALLBACK"],
+				"containers": [
+					{
+						"type": "WavFile",
+						"wavName": "ed029_idc_accfallback_diana_001",
+						"weight": 1.0,
+						"soundtag": "Voiceover_Handler_ICAEarpiece",
+						"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed029_id/ed029_idc/ed029_idc_accfallback_diana_001.wav].pc_wes",
+						"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed029_id/ed029_idc/ed029_idc_accfallback_diana_001.animset].pc_animset",
+						"languages": {}
+					}
+				]
+			},
+			{
+				"type": "Random",
+				"cases": ["DIALOGUE_EARRINGS"],
+				"containers": [
+					{
+						"type": "WavFile",
+						"wavName": "ed029_idc_earrings_diana_001",
+						"weight": 1.0,
+						"soundtag": "Voiceover_Handler_ICAEarpiece",
+						"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed029_id/ed029_idc/ed029_idc_earrings_diana_001.wav].pc_wes",
+						"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed029_id/ed029_idc/ed029_idc_earrings_diana_001.animset].pc_animset",
+						"languages": {
+							"en": "//[DIANA]\\\\//(0,30)\\\\They are wearing earrings.",
+							"fr": "//[DIANA]\\\\//(0,30)\\\\Elle a des boucles d'oreilles.",
+							"it": "//[DIANA]\\\\//(0,30)\\\\Indossa gli orecchini.",
+							"de": "//[DIANA]\\\\//(0,30)\\\\Das Ziel trägt Ohrringe.",
+							"es": "//[DIANA]\\\\//(0,30)\\\\lleva pendientes.",
+							"ru": "//[DIANA]\\\\//(0,30)\\\\цель носит серьги.",
+							"cn": "//[DIANA]\\\\//(0,30)\\\\此人戴着耳环。",
+							"tc": "//[DIANA]\\\\//(0,30)\\\\他戴著耳環。",
+							"jp": "//[DIANA]\\\\//(0,30)\\\\容疑者はイヤリングをつけているということ。"
+						}
+					}
+				]
+			},
+			{
+				"type": "Random",
+				"cases": ["DIALOGUE_GLASSES"],
+				"containers": [
+					{
+						"type": "WavFile",
+						"wavName": "ed029_idc_glasses_diana_001",
+						"weight": 1.0,
+						"soundtag": "Voiceover_Handler_ICAEarpiece",
+						"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed029_id/ed029_idc/ed029_idc_glasses_diana_001.wav].pc_wes",
+						"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed029_id/ed029_idc/ed029_idc_glasses_diana_001.animset].pc_animset",
+						"languages": {
+							"en": "//[DIANA]\\\\//(0,30)\\\\The are wearing glasses.",
+							"fr": "//[DIANA]\\\\//(0,30)\\\\Elle porte des lunettes.",
+							"it": "//[DIANA]\\\\//(0,30)\\\\Indossa gli occhiali.",
+							"de": "//[DIANA]\\\\//(0,30)\\\\Das Ziel trägt eine Brille.",
+							"es": "//[DIANA]\\\\//(0,30)\\\\lleva gafas.",
+							"ru": "//[DIANA]\\\\//(0,30)\\\\цель носит очки.",
+							"cn": "//[DIANA]\\\\//(0,30)\\\\此人戴着眼镜。",
+							"tc": "//[DIANA]\\\\//(0,30)\\\\他戴著眼鏡。",
+							"jp": "//[DIANA]\\\\//(0,30)\\\\容疑者はメガネをかけているということ。"
+						}
+					}
+				]
+			},
+			{
+				"type": "Random",
+				"cases": ["DIALOGUE_HAT"],
+				"containers": [
+					{
+						"type": "WavFile",
+						"wavName": "ed029_idc_hat_diana_001",
+						"weight": 1.0,
+						"soundtag": "Voiceover_Handler_ICAEarpiece",
+						"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed029_id/ed029_idc/ed029_idc_hat_diana_001.wav].pc_wes",
+						"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed029_id/ed029_idc/ed029_idc_hat_diana_001.animset].pc_animset",
+						"languages": {
+							"en": "//[DIANA]\\\\//(0,30)\\\\They are wearing a hat.",
+							"fr": "//[DIANA]\\\\//(0,30)\\\\Elle porte un chapeau.",
+							"it": "//[DIANA]\\\\//(0,30)\\\\Indossa un cappello.",
+							"de": "//[DIANA]\\\\//(0,30)\\\\Das Ziel trägt einen Hut.",
+							"es": "//[DIANA]\\\\//(0,30)\\\\lleva un sombrero.",
+							"ru": "//[DIANA]\\\\//(0,30)\\\\цель носит головной убор.",
+							"cn": "//[DIANA]\\\\//(0,30)\\\\此人戴着帽子。",
+							"tc": "//[DIANA]\\\\//(0,30)\\\\他戴著帽子。",
+							"jp": "//[DIANA]\\\\//(0,30)\\\\容疑者は帽子をかぶっているということ。"
+						}
+					}
+				]
+			},
+			{
+				"type": "Random",
+				"cases": ["DIALOGUE_NECKLACE"],
+				"containers": [
+					{
+						"type": "WavFile",
+						"wavName": "ed029_idc_necklace_diana_001",
+						"weight": 1.0,
+						"soundtag": "Voiceover_Handler_ICAEarpiece",
+						"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed029_id/ed029_idc/ed029_idc_necklace_diana_001.wav].pc_wes",
+						"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed029_id/ed029_idc/ed029_idc_necklace_diana_001.animset].pc_animset",
+						"languages": {
+							"en": "//[DIANA]\\\\//(0,30)\\\\They are wearing a necklace.",
+							"fr": "//[DIANA]\\\\//(0,30)\\\\Elle a un collier.",
+							"it": "//[DIANA]\\\\//(0,30)\\\\Indossa una collana.",
+							"de": "//[DIANA]\\\\//(0,30)\\\\Das Ziel trägt eine Halskette.",
+							"es": "//[DIANA]\\\\//(0,30)\\\\lleva un collar.",
+							"ru": "//[DIANA]\\\\//(0,30)\\\\цель носит ожерелье.",
+							"cn": "//[DIANA]\\\\//(0,30)\\\\此人戴着项链。",
+							"tc": "//[DIANA]\\\\//(0,30)\\\\他戴著項鍊。",
+							"jp": "//[DIANA]\\\\//(0,30)\\\\容疑者はネックレスをしているということ。"
+						}
+					}
+				]
+			},
+			{
+				"type": "Random",
+				"cases": ["DIALOGUE_TATTOO"],
+				"containers": [
+					{
+						"type": "WavFile",
+						"wavName": "ed029_idc_tattoo_diana_001",
+						"weight": 1.0,
+						"soundtag": "Voiceover_Handler_ICAEarpiece",
+						"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed029_id/ed029_idc/ed029_idc_tattoo_diana_001.wav].pc_wes",
+						"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed029_id/ed029_idc/ed029_idc_tattoo_diana_001.animset].pc_animset",
+						"languages": {
+							"en": "//[DIANA]\\\\//(0,30)\\\\They are sporting a tattoo.",
+							"fr": "//[DIANA]\\\\//(0,30)\\\\Elle a un tatouage.",
+							"it": "//[DIANA]\\\\//(0,30)\\\\Ha un tatuaggio.",
+							"de": "//[DIANA]\\\\//(0,30)\\\\Das Ziel trägt eine Tätowierung.",
+							"es": "//[DIANA]\\\\//(0,30)\\\\luce un tatuaje.",
+							"ru": "//[DIANA]\\\\//(0,30)\\\\у цели есть татуировка.",
+							"cn": "//[DIANA]\\\\//(0,30)\\\\此人身上有纹身。",
+							"tc": "//[DIANA]\\\\//(0,30)\\\\他有刺青。",
+							"jp": "//[DIANA]\\\\//(0,30)\\\\容疑者はタトゥーをしているということ。"
+						}
+					}
+				]
+			},
+			{
+				"type": "Random",
+				"cases": ["DIALOGUE_WATCH"],
+				"containers": [
+					{
+						"type": "WavFile",
+						"wavName": "ed029_idc_watch_diana_001",
+						"weight": 1.0,
+						"soundtag": "Voiceover_Handler_ICAEarpiece",
+						"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed029_id/ed029_idc/ed029_idc_watch_diana_001.wav].pc_wes",
+						"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed029_id/ed029_idc/ed029_idc_watch_diana_001.animset].pc_animset",
+						"languages": {
+							"en": "//[DIANA]\\\\//(0,30)\\\\They are wearing a watch.",
+							"fr": "//[DIANA]\\\\//(0,30)\\\\Elle a une montre.",
+							"it": "//[DIANA]\\\\//(0,30)\\\\Indossa un orologio.",
+							"de": "//[DIANA]\\\\//(0,30)\\\\Das Ziel trägt eine Uhr.",
+							"es": "//[DIANA]\\\\//(0,30)\\\\usa reloj.",
+							"ru": "//[DIANA]\\\\//(0,30)\\\\цель носит часы.",
+							"cn": "//[DIANA]\\\\//(0,30)\\\\此人戴着手表。",
+							"tc": "//[DIANA]\\\\//(0,30)\\\\他戴著手錶。",
+							"jp": "//[DIANA]\\\\//(0,30)\\\\容疑者は時計を付けているということ。"
+						}
+					}
+				]
+			}
+		]
+	}
+}

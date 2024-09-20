@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/italy/10000_copperhead/10000_handler/ds10017_robotconclusion.sweetdialog?/ds10017_robotconclusion_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds10017_robotconclusion_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/10000_copperhead/10000_handler/ds10017_robotconclusion_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/10000_copperhead/10000_handler/ds10017_robotconclusion_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Well done, 47. Now the pressure is on Bosco to give himself a proper “farewell performance.”",
+			"fr": "//(0,1.79)\\\\Bien joué, 47.//(1.79,31.79)\\\\Il est maintenant temps de faire pression sur Bosco et de lui laisser \"faire ses adieux\".",
+			"it": "//(0,1.724294)\\\\Ben fatto, 47.//(1.724294,31.72429)\\\\È ora di mettere Bosco sotto pressione e servirgli una \"performance d'addio\".",
+			"de": "//(0,30)\\\\Gute Arbeit, 47. Es ist Zeit, den Druck auf Bosco zu erhöhen und ihm einen schönen Abschied zu bereiten.",
+			"es": "//(0,30)\\\\Bien hecho, 47. Es hora de aumentar la presión sobre Bosco y despedirle del escenario con una ovación.",
+			"ru": "//(0,1.356196)\\\\Великолепно, 47-й.//(1.356196,31.3562)\\\\Время надавить на Боско и дать ему должное «прощальное слово».",
+			"cn": "//(0,1.53)\\\\干得好，47。//(1.53,31.53)\\\\现在就等着博斯科好好来一场“告别演出”吧。",
+			"tc": "//(0,30)\\\\幹得不錯，47。現在就等著博斯科好好來一場「告別演出」吧。",
+			"jp": "//(0,30)\\\\上出来よ、47。いよいよボスコが、本当の“お別れパフォーマンス”を披露する番ね。"
+		}
+	}
+}

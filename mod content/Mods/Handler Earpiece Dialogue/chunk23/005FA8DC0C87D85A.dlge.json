@@ -1,0 +1,68 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/12500_white_spider/12500_rabies/12500_handler/ds12572_text_now.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds12572_text_now_diana_ws_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12572_text_now_diana_ws_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12572_text_now_diana_ws_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Watch for anyone checking his phone, 47!",
+					"fr": "//(0,30)\\\\Cherchez quelqu'un qui regarde son portable, 47.",
+					"it": "//(0,30)\\\\Sta controllando il telefono, 47. Trovalo!",
+					"de": "//(0,30)\\\\Achten Sie auf jeden, der auf sein Handy schaut, 47!",
+					"es": "//(0,30)\\\\¡Busca a alguien consultando el teléfono, 47!",
+					"ru": "//(0,30)\\\\Ищи того, кто проверяет телефон, 47-й!",
+					"cn": "//(0,30)\\\\注意查看自己手机的人，47！",
+					"tc": "//(0,30)\\\\注意查看自己手機的人，47！",
+					"jp": "//(0,30)\\\\携帯を 見て いる人を 探して！"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds12572_text_now_diana_ws_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12572_text_now_diana_ws_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12572_text_now_diana_ws_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\He'll be checking his phone now!",
+					"fr": "//(0,30)\\\\Il va regarder son portable, maintenant.",
+					"it": "//(0,30)\\\\Sta controllando il cellulare!",
+					"de": "//(0,30)\\\\Er muss jetzt auf sein Handy schauen!",
+					"es": "//(0,30)\\\\¡Estará mirando el teléfono ahora!",
+					"ru": "//(0,30)\\\\Сейчас он должен проверить телефон!",
+					"cn": "//(0,30)\\\\他现在应该在查看手机！",
+					"tc": "//(0,30)\\\\他現在應該在查看手機！",
+					"jp": "//(0,30)\\\\携帯を 確認するはずよ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds12572_text_now_diana_ws_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12572_text_now_diana_ws_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12572_text_now_diana_ws_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Watch for a phone call, 47!",
+					"fr": "//(0,30)\\\\On va l'appeler, 47.",
+					"it": "//(0,30)\\\\Cerca un uomo al telefono, 47!",
+					"de": "//(0,30)\\\\Achten Sie auf einen Telefonanruf, 47!",
+					"es": "//(0,30)\\\\¡Estate atento a la llamada, 47!",
+					"ru": "//(0,30)\\\\Ищи того, у кого звонит телефон, 47-й.",
+					"cn": "//(0,30)\\\\注意手机呼叫，47！",
+					"tc": "//(0,30)\\\\注意手機呼叫，47！",
+					"jp": "//(0,30)\\\\電話が 鳴るはずよ！"
+				}
+			}
+		]
+	}
+}

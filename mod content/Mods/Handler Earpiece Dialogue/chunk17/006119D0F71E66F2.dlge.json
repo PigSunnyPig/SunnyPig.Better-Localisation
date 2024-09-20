@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25000_mongoose_flyin.sweetdialog?/ds25000_mongoose_flyin_diana_009.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25000_mongoose_flyin_diana_009",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25000_mongoose_flyin_diana_009.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25000_mongoose_flyin_diana_009.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,3.99908)\\\\Your three targets call this labyrinthine part of the city home.//(3.99908,33.99908)\\\\So, choose your approach carefully.",
+			"fr": "//[DIANA]\\\\//(0,4.05)\\\\Vos trois cibles appelent ce labyrinthe une maison.//(4.05,34.05)\\\\Vous devez donc choisir votre approche prudemment.",
+			"it": "//[DIANA]\\\\//(0,4.5)\\\\I tre bersagli sanno bene come muoversi in questa parte così labirintica della città.//(4.5,34.5)\\\\Pianifica le tue mosse con cautela.",
+			"de": "//[DIANA]\\\\//(0,4.317178)\\\\Ihre drei Ziele nennen diesen unüberschaubaren Teil der Stadt ihr zu Hause.//(4.317178,34.31718)\\\\Also, wählen Sie Ihre Vorgehensweise vorsichtig.",
+			"es": "//[DIANA]\\\\//(0,4.2)\\\\Tus tres objetivos llaman hogar a esta parte de la ciudad laberíntica.//(4.2,34.2)\\\\Elige tu acercamiento con cuidado.",
+			"ru": "//[DIANA]\\\\//(0,5)\\\\Все три цели считают трущобы своим домом.//(5,5)\\\\Так что аккуратно выбирай подход.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\你的三个目标都在这个迷宫般的城市里。所以一定要慎重选择你的方法。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\這三名目標在這城市中以迷宮般的角落為家，你得細心計劃刺殺的方法。",
+			"jp": "//[DIANA]\\\\//(0,3.94)\\\\3人のターゲットは揃って迷宮のようなこの町を故郷と呼んでいる。//(3.94,33.94)\\\\アプローチは慎重に選んだほうがいいわね。"
+		}
+	}
+}

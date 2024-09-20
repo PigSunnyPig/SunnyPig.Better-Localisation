@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/tutorial/9000_handler/ds9247_intel.sweetdialog?/ds9247_intel_young_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds9247_intel_young_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/tutorial/9000_handler/ds9247_intel_young_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/tutorial/9000_handler/ds9247_intel_young_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\First things first. We need to gather some intel.",
+			"fr": "//(0,0.7561963)\\\\Pour commencer,//(1.156196,31.1562)\\\\nous devons trouver des informations.",
+			"it": "//(0,30)\\\\Innanzitutto, dobbiamo raccogliere informazioni.",
+			"de": "//(0,30)\\\\Alles der Reihe nach. Wir brauchen mehr Informationen.",
+			"es": "//(0,30)\\\\Lo primero es lo primero. Necesitamos información.",
+			"ru": "//(0,30)\\\\Будем действовать по порядку. Надо собрать сведения.",
+			"cn": "//(0,30)\\\\首先。我们得搜集些情报。",
+			"tc": "//(0,30)\\\\首先。我們得搜集些情報。",
+			"jp": "//(0,30)\\\\まずは情報を集めましょう。"
+		}
+	}
+}

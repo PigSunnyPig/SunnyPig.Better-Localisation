@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_skunk/27000_handler/ds27033_intel_photograph.sweetdialog?/ds27033_intel_photograph_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds27033_intel_photograph_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_skunk/27000_handler/ds27033_intel_photograph_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_skunk/27000_handler/ds27033_intel_photograph_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,6.385991)\\\\The first annual gathering of \"The Ark Society.\" Hm, that rings a bell...//(6.385991,11.49317)\\\\If Janus was its founder, perhaps he's still attending these gatherings, 47.//(11.49317,14.64317)\\\\This could be valuable information indeed!",
+			"fr": "//[DIANA]\\\\//(0,4.6)\\\\La première réunion annuelle de la société de l'Arche.//(4.6,6.5)\\\\Hmm, ça me dit quelque chose...//(6.5,11.5)\\\\Si Janus en était le fondateur, peut-être assiste-t-il toujours à ces réunions, 47.//(11.5,15.16196)\\\\Voilà qui pourrait nous être utile !",
+			"it": "//[DIANA]\\\\//(0,3.22722)\\\\Il primo raduno annuale della \"Ark Society\".//(3.22722,6.4)\\\\Mmh, mi viene in mente una cosa...//(6.4,8.3)\\\\Se Janus ne era il fondatore,//(8.3,11.49669)\\\\forse partecipa ancora a queste riunioni, 47.//(11.49669,13.92035)\\\\Potremmo ottenere informazioni preziose!",
+			"de": "//[DIANA]\\\\//(0,3.8)\\\\Die nächste Jahresversammlung der „Ark-Gesellschaft“.//(3.8,6.5)\\\\Hm, da klingelt irgendwas ...//(6.5,8.5)\\\\Wenn Janus ihr Gründer war,//(8.5,11.6)\\\\nimmt er vielleicht an diesen Versammlungen teil, 47.//(11.6,13.92035)\\\\Das könnten wirklich wertvolle Informationen sein!",
+			"es": "//[DIANA]\\\\//(0,3.275645)\\\\La primera reunión anual de la «Ark Society».//(3.275645,6.5)\\\\Mmm, eso me suena...//(6.5,8.2)\\\\Si Janus fue uno de sus fundadores,//(8.2,11.2)\\\\tal vez siga asistiendo a las reuniones, 47.//(11.2,13.96945)\\\\¡Esta información podría resultar ciertamente valiosa!",
+			"ru": "//[DIANA]\\\\//(0,3.155108)\\\\Первое ежегодное заседание «Общества Ковчега».//(3.155108,5.47955)\\\\Хм, что-то знакомое...//(5.47955,8.122397)\\\\Раз Янус основал это общество,//(8.122397,10.76524)\\\\он наверняка посещает его встречи,//(10.76524,13.92035)\\\\47-й. Это весьма ценная находка!",
+			"cn": "//[DIANA]\\\\//(0,5.183476)\\\\“方舟会”首次年度集会。嗯，我对这件事有印象......//(5.183476,13.92035)\\\\47，杰纳斯是这个组织的创始人，说不定他依然会出席这类集会。这确实是重要的情报！",
+			"tc": "//[DIANA]\\\\//(0,3.468)\\\\「方舟會」首次年度集會。//(3.468,6.236)\\\\嗯，我對這件事有印象......//(6.236,11.404)\\\\47，傑納斯是這個組織的創始人，說不定他依然會出席這類集會。//(11.404,13.92035)\\\\這確實是重要的情報！",
+			"jp": "//[DIANA]\\\\//(0,6.01)\\\\「アーク・ソサエティ」の第1回年次集会。//(6.01,7.336834)\\\\ふむ、聞いたことがある...//(7.336834,11.19)\\\\もしヤヌスが創設者だったら、おそらく彼はまだこれらの集会に出席しているわ、47。//(11.19,13.92035)\\\\これは重要な情報よ！"
+		}
+	}
+}

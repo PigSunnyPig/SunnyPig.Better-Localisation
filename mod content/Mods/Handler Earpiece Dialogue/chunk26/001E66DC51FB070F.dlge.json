@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/italy/10000_copperhead/10000_handler/ds10027_qaconclusion.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds10027_qaconclusion_diana_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/10000_copperhead/10000_handler/ds10027_qaconclusion_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/10000_copperhead/10000_handler/ds10027_qaconclusion_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Nice work, 47. This should be something the fans will remember.",
+					"fr": "//(0,1.724294)\\\\Beau travail, 47.//(1.724294,31.72429)\\\\Voilà qui devrait marquer les mémoires des fans.",
+					"it": "//(0,1.624294)\\\\Bel lavoro, 47.//(1.624294,31.62429)\\\\Credo che i fan non dimenticheranno mai questo giorno.",
+					"de": "//(0,1.474294)\\\\Gut gemacht, 47.//(1.474294,31.47429)\\\\Daran werden sich die Fans garantiert erinnern.",
+					"es": "//(0,30)\\\\Buen trabajo, 47. Esto va a ser memorable para los fans.",
+					"ru": "//(0,30)\\\\Хорошая работа, 47-й. Эту встречу поклонники не забудут.",
+					"cn": "//(0,1.75)\\\\干得漂亮，47。//(1.75,31.75)\\\\粉丝大概会对此铭记于心。",
+					"tc": "//(0,30)\\\\幹得漂亮，47。粉絲大概會對此銘記於心。",
+					"jp": "//(0,30)\\\\お見事、47。忘れられないシーンになるわね。"
+				}
+			}
+		]
+	}
+}

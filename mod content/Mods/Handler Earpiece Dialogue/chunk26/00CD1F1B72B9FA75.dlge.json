@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/italy/1000_virus/1000_handler/ds1026_targetsdownnowvirus.sweetdialog?/ds1026_targetsdownnowvirus_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds1026_targetsdownnowvirus_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_virus/1000_handler/ds1026_targetsdownnowvirus_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_virus/1000_handler/ds1026_targetsdownnowvirus_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Two targets down. Now destroy the virus.",
+			"fr": "//(0,30)\\\\Les deux cibles ont été éliminées. À présent, détruisez le virus.",
+			"it": "//(0,30)\\\\Due bersagli eliminati. Ora distruggi il virus.",
+			"de": "//(0,30)\\\\Beide Ziele neutralisiert. Vernichten Sie jetzt das Virus.",
+			"es": "//(0,1.604294)\\\\Dos objetivos eliminados.//(1.604294,31.60429)\\\\Ahora destruye el virus.",
+			"ru": "//(0,30)\\\\Обе цели мертвы. Теперь надо уничтожить вирус.",
+			"cn": "//(0,1.5)\\\\两个目标都已被消灭。//(1.5,31.5)\\\\现在销毁病毒。",
+			"tc": "//(0,30)\\\\兩個目標都已被消滅。現在銷毀病毒。",
+			"jp": "//(0,30)\\\\2名、ターゲット・ダウン。あとはウィルスの破壊ね。"
+		}
+	}
+}
