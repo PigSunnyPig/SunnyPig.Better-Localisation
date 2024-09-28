@@ -3,13 +3,14 @@
 	"id": "SunnyPig.BetterLocalisation",
 	"name": "更优质的游戏汉化 Better Localisation in Chinese (4.2.5)",
 	"updateCheck": "https://raw.githubusercontent.com/PigSunnyPig/SunnyPig.github.io/main/updater.json",
-	"description": "优化《杀手：暗杀世界》的汉化文本（繁、简皆有），包括挑战、武器及服装、起始位置及偷运道具、主线及支线任务简报字幕…… 请点击下方的「齿轮」图标，以查看详细说明。",
+	"description": "优化《杀手：暗杀世界》的汉化文本（繁、简皆有），包括挑战、武器及服装、起始位置及偷运道具、主线及支线任务简报字幕…… 请点击右侧的「齿轮」图标，以查看详细说明。",
 	"frameworkVersion": "2.33.12",
 	"authors": ["SunnyPigPig, Shiroibako, Element120, Echo, SuanJianSalt & WINNODD"],
 	"thumbs": ["ConsoleCmd OnlineResources_Disable 1"],
 	"loadBefore": 
 	[
 		"SunnyPig.ICAMicroDevicesBoosted",
+		"Josery_Ripper.miHoYoTrinity",
 		"Josery_Ripper.Furina",
 		"Josery_Ripper.bronya",
 		"Jojje.SanguineSuit",
