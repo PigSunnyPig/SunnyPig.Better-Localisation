@@ -1,0 +1,68 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "00DAC6B429D898B1",
+	"DITL": "005CC166F7715F6D",
+	"CLNG": "00063B34B5153AEE",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds20008_sp_photographershot_diana_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20008_sp_photographershot_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20008_sp_photographershot_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Hm, what are you up to, 47?",
+					"fr": "//(0,30)\\\\... Qu'est-ce que vous faites, 47 ?",
+					"it": "//(0,30)\\\\Ehm... cos'hai intenzione di fare, 47?",
+					"de": "//(0,30)\\\\Hm. Was haben Sie jetzt vor, 47?",
+					"es": "//(0,30)\\\\Esto... ¿Qué haces, 47?",
+					"ru": "//(0,30)\\\\Что ты задумал, 47-й?",
+					"cn": "//(0,30)\\\\嗯，47，你这是打算干嘛？",
+					"tc": "//(0,30)\\\\嗯，你在做什麼，47？",
+					"jp": "//(0,30)\\\\何してるの、47？"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds20008_sp_photographershot_diana_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20008_sp_photographershot_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20008_sp_photographershot_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\The photographer will have a hard time taking his pictures now, 47.",
+					"fr": "//(0,30)\\\\Le photographe va avoir du mal à prendre des clichés maintenant, 47.",
+					"it": "//(0,30)\\\\Ora il fotografo farà fatica a scattare le foto, 47.",
+					"de": "//(0,30)\\\\Der Fotograf dürfte jetzt Schwierigkeiten haben, noch Bilder zu machen, 47.",
+					"es": "//(0,30)\\\\47, me parece que el fotógrafo ya no podrá hacer su trabajo.",
+					"ru": "//(0,30)\\\\Теперь фотографу будет непросто снимать свадьбу, 47-й.",
+					"cn": "//(0,30)\\\\47，这下摄影师没法拍照了。",
+					"tc": "//(0,30)\\\\攝影師現在可不好拍照了，47。",
+					"jp": "//(0,30)\\\\カメラマンが写真を撮りにくくなったわね。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds20008_sp_photographershot_diana_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20008_sp_photographershot_diana_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20008_sp_photographershot_diana_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\I'm not sure I understand what you're thinking here, 47. I'm sure there's a plan to this, though.",
+					"fr": "//(0,30)\\\\Je ne suis pas sûre de bien vous suivre là, 47. Mais vous avez certainement une idée derrière la tête.",
+					"it": "//(0,3.314)\\\\Non sono certa di aver capito quello che hai in mente, 47.//(3.314,33.314)\\\\Ma sono sicura che tu abbia un piano.",
+					"de": "//(0,30)\\\\Ich bin mir nicht sicher, ob ich verstehe, was Sie sich dabei denken, 47. Aber ich bin mir sicher, Sie folgen hier schon einem Plan.",
+					"es": "//(0,30)\\\\No sé si entiendo la lógica que estás siguiendo, 47. Aunque doy por sentado que tienes un plan.",
+					"ru": "//(0,30)\\\\Не совсем понимаю, что ты задумал, 47-й. Но думаю, у тебя всё же есть план.",
+					"cn": "//(0,30)\\\\47，我好像不太懂你的意图啊。不过你肯定心里有数吧。",
+					"tc": "//(0,30)\\\\我不是很了解你的想法，47。不過我肯定你有個計畫。",
+					"jp": "//(0,30)\\\\何を考えているのか分からないわ。でもきっと計画の一部なのよね。"
+				}
+			}
+		]
+	}
+}

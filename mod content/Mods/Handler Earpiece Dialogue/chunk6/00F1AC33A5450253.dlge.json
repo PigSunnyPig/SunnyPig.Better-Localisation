@@ -1,0 +1,68 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/rat/43000_handler/ds43419_hacknodonglerandom.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds43419_hacknodonglerandom_oliviahall_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/rat/43000_handler/ds43419_hacknodonglerandom_oliviahall_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/rat/43000_handler/ds43419_hacknodonglerandom_oliviahall_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\That panel can be hacked with your camera, if you have the correct dongle.",
+					"fr": "//(0,30)\\\\Ce terminal peut être piraté avec votre caméra si vous avez la bonne clé de sécurité.",
+					"it": "//(0,30)\\\\Quel pannello può essere hackerato con la tua fotocamera, se hai il dongle giusto.",
+					"de": "//(0,30)\\\\Diese Konsole kann mit Ihrer Kamera gehackt werden, wenn Sie den richtigen Dongle haben.",
+					"es": "//(0,30)\\\\Con la llave electrónica adecuada, ese panel se puede piratear con una cámara.",
+					"ru": "//(0,1.472393)\\\\С правильным электронным ключом//(1.472393,31.47239)\\\\ты взломаешь эту панель при помощи камеры.",
+					"cn": "//(0,30)\\\\如果你有正确的加密狗，你就可以用摄像机破解那个面板。",
+					"tc": "//(0,30)\\\\只要你有正確的加密器，你就能夠用相機侵入面板。",
+					"jp": "//(0,30)\\\\あのパネルはカメラでハッキングできるわ。正しいドングルがあればね。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds43419_hacknodonglerandom_oliviahall_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/rat/43000_handler/ds43419_hacknodonglerandom_oliviahall_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/rat/43000_handler/ds43419_hacknodonglerandom_oliviahall_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\If you find the correct dongle, you can use your camera to hack that panel.",
+					"fr": "//(0,30)\\\\Avec la bonne clé de sécurité, vous pouvez pirater ce terminal avec votre caméra.",
+					"it": "//(0,30)\\\\Se trovi il dongle giusto, puoi usare la tua fotocamera per hackerare quel pannello.",
+					"de": "//(0,30)\\\\Wenn Sie den richtigen Dongle finden, können Sie Ihre Kamera einsetzen, um diese Konsole zu hacken.",
+					"es": "//(0,30)\\\\Si encuentras la llave electrónica adecuada, puedes usar tu cámara para piratear ese panel.",
+					"ru": "//(0,1.592393)\\\\Найди правильный электронный ключ,//(1.592393,31.59239)\\\\чтобы взломать эту панель при помощи камеры.",
+					"cn": "//(0,30)\\\\如果你找到正确的加密狗，你就可以用摄像机破解那个面板。",
+					"tc": "//(0,30)\\\\如果你找到正確的加密器，你可以用相機侵入那個面板，47。",
+					"jp": "//(0,30)\\\\正しいドングルを見つければ、あのパネルをカメラでハッキングできるわよ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds43419_hacknodonglerandom_oliviahall_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/rat/43000_handler/ds43419_hacknodonglerandom_oliviahall_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/rat/43000_handler/ds43419_hacknodonglerandom_oliviahall_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\If you had the right dongle, you could hack that panel, 47.",
+					"fr": "//(0,30)\\\\Vous pourriez pirater ce terminal avec la bonne clé de sécurité, 47.",
+					"it": "//(0,30)\\\\Se avessi il dongle giusto, potresti hackerare quel pannello, 47.",
+					"de": "//(0,30)\\\\Wenn Sie den richtigen Dongle hätten, könnten Sie diese Konsole hacken, 47.",
+					"es": "//(0,30)\\\\Con la llave electrónica adecuada, podrías piratear el panel, 47.",
+					"ru": "//(0,30)\\\\Будь у тебя нужный электронный ключ, ты бы взломал эту панель, 47-й.",
+					"cn": "//(0,30)\\\\如果你有正确的加密狗，你就可以破解那个面板，47。",
+					"tc": "//(0,30)\\\\如果你有正確的加密器，你可以侵入那個面板，47。",
+					"jp": "//(0,30)\\\\正しいドングルがあれば、パネルをハッキングできるわ、47。"
+				}
+			}
+		]
+	}
+}

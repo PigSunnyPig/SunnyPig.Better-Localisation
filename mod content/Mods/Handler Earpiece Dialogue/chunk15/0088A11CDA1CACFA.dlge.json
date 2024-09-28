@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_penicillin/29000_penicillin_handler/ds29754_quinnoutcold.sweetdialog?/ds29754_quinnoutcold_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds29754_quinnoutcold_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_handler/ds29754_quinnoutcold_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_handler/ds29754_quinnoutcold_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.6)\\\\Well done, 47.//(1.6,5.2)\\\\You can now invoke the Right of Second to take his place.//(5.2,35.2)\\\\It's a perfect opportunity to take out your target without raising any suspicion.",
+			"fr": "//(0,1.6)\\\\Beau travail, 47.//(1.6,5.2)\\\\Vous pouvez désormais invoquer le droit de remplacement et prendre sa place.//(5.2,35.2)\\\\C'est l'occasion rêvée d'éliminer votre cible sans éveiller les soupçons.",
+			"it": "//(0,1.6)\\\\Complimenti, 47.//(1.6,5.2)\\\\Ora puoi invocare il Diritto di sostituzione e prendere il suo posto.//(5.2,35.2)\\\\È l'opportunità ideale per fare fuori il tuo bersaglio senza destare sospetti.",
+			"de": "//(0,1.6)\\\\Gut gemacht, 47.//(1.6,5.2)\\\\Sie können sich jetzt auf das Sekundantenanrecht berufen und seinen Platz einnehmen.//(5.2,35.2)\\\\Das ist die ideale Gelegenheit, Ihr Ziel auszuschalten, ohne Aufmerksamkeit zu erregen.",
+			"es": "//(0,1.6)\\\\Buen trabajo, 47.//(1.6,5.2)\\\\Puedes usar el derecho de reemplazo y ocupar su lugar.//(5.2,35.2)\\\\Es la oportunidad perfecta para acabar con tu objetivo sin levantar sospechas.",
+			"ru": "//(0,1.6)\\\\Отлично, 47-й.//(1.6,5.2)\\\\Теперь ты можешь воспользоваться правом на секунданта и занять его место.//(5.2,35.2)\\\\Это идеальный способ устранить цель, не вызывая подозрений.",
+			"cn": "//(0,1.6)\\\\干得好，47。//(1.6,5.2)\\\\你现在可以行使“代打权”并替代他的位置。//(5.2,35.2)\\\\这是一个绝佳的机会，可以在不引起任何怀疑的情况下干掉目标。",
+			"tc": "//(0,5.55)\\\\47，做得好。你現在可以行使替身權來代替他出賽了。//(5.55,35.55)\\\\這是個絕佳機會，可以讓你在不引起任何懷疑的情況下解決目標。",
+			"jp": "//(0,1.6)\\\\よくやったわ、47。//(1.6,5.2)\\\\これで「代理人権」を行使してあなたが代わりに闘えるわ。//(5.2,35.2)\\\\怪しまれずにターゲットを排除する絶好の機会よ。"
+		}
+	}
+}

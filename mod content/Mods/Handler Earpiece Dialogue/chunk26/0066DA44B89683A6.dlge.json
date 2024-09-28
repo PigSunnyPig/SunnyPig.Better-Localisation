@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/italy/1000_virus/1000_handler/ds1020_idcaruso.sweetdialog?/ds1020_idcaruso_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds1020_idcaruso_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_virus/1000_handler/ds1020_idcaruso_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_virus/1000_handler/ds1020_idcaruso_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\That is Silvio Caruso.",
+			"fr": "//(0,30)\\\\Voici Silvio Caruso.",
+			"it": "//(0,30)\\\\Quello è Silvio Caruso.",
+			"de": "//(0,30)\\\\Das ist Silvio Caruso.",
+			"es": "//(0,30)\\\\Ese... es Silvio Caruso.",
+			"ru": "//(0,30)\\\\Это Сильвио Карузо.",
+			"cn": "//(0,30)\\\\那就是西尔维奥·卡鲁索。",
+			"tc": "//(0,30)\\\\那就是西爾維奧．卡魯索。",
+			"jp": "//(0,30)\\\\あれがシルヴィオ・カルーソーよ。"
+		}
+	}
+}

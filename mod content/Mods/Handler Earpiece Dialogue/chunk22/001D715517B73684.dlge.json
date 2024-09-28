@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_seabreeze/2000_seabreeze_handler/dr2601_diana.sweetdialog?/dr2601_diana_diana_et_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr2601_diana_diana_et_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_seabreeze/2000_seabreeze_handler/dr2601_diana_diana_et_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_seabreeze/2000_seabreeze_handler/dr2601_diana_diana_et_002.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA_ET]\\\\//(0,2.092393)\\\\Welcome to Hokkaido, 47.//(2.092393,5.505276)\\\\I have received a priority update from the client.//(5.505276,11.7)\\\\He has learned that the Sigma operations files will be destroyed if you are spotted during the operation,//(11.7,15.5)\\\\therefore you should consider acquiring them before moving on the target.//(15.5,45.5)\\\\But I will leave that to your discretion.",
+			"fr": "//[DIANA_ET]\\\\//(0,2.71)\\\\Bienvenue à Hokkaido, 47.//(2.71,5.77)\\\\Je viens de recevoir des informations urgentes de la part du client.//(5.77,11.8)\\\\Il vient d'apprendre que les dossiers des opérations de Sigma seront détruits si vous êtes repéré.//(11.8,15.7)\\\\Envisagez peut-être de les récupérer avant de vous approcher de la cible.//(15.7,45.7)\\\\Je laisse cela à votre jugement.",
+			"it": "//[DIANA_ET]\\\\//(0,2.542393)\\\\Benvenuto in Hokkaidō, 47.//(2.542393,5.66908)\\\\Ho ricevuto un aggiornamento urgente dal cliente.//(5.66908,11.57865)\\\\Ha scoperto che i file delle operazioni Sigma saranno distrutti se vieni scoperto durante la missione,//(11.57865,15.52773)\\\\per cui sarebbe consigliabile recuperarli prima di procedere verso il bersaglio.//(15.52773,45.52773)\\\\Sei comunque libero di agire come meglio credi.",
+			"de": "//[DIANA_ET]\\\\//(0,2.55)\\\\Willkommen in Hokkaido, 47!//(2.55,5.6)\\\\Ich habe ein wichtiges Update vom Klienten erhalten.//(5.6,9.25)\\\\Er hat erfahren, dass die Dateien mit den SIGMA-Operationen vernichtet werden,//(9.25,11.8)\\\\falls man Sie während der Operation entdeckt.//(11.8,15.6)\\\\Sie sollten daher erwägen, sie zu beschaffen, bevor Sie sich um das Ziel kümmern,//(15.6,45.6)\\\\aber die Entscheidung bleibt Ihnen überlassen.",
+			"es": "//[DIANA_ET]\\\\//(0,2.142393)\\\\Bienvenido a Hokkaido, 47.//(2.142393,5.16908)\\\\Tengo información importante de parte del cliente.//(5.16908,11.54675)\\\\Ha averiguado que los archivos de operaciones Sigma serán destruidos si alguien te ve durante la misión,//(11.54675,41.54675)\\\\por lo que deberías plantearte hacerte con ellos antes de ir a por el objetivo, pero te dejo a ti la decisión.",
+			"ru": "//[DIANA_ET]\\\\//(0,2.460491)\\\\Добро пожаловать на Хоккайдо, 47-й.//(2.460491,5.6)\\\\Клиент только что прислал новые сведения о необходимой очередности действий.//(5.6,11.4)\\\\Ему стало известно, что файлы о деятельности «Сигмы» будут уничтожены, если тебя кто-то заметит,//(11.4,15.8)\\\\так что советую забрать их до того, как ты уничтожишь цель.//(15.8,45.8)\\\\Но это решать уже тебе.",
+			"cn": "//[DIANA_ET]\\\\//(0,2.1)\\\\欢迎来到北海道，47。//(2.1,5.3)\\\\我收到了来自客户的优先级更新。//(5.3,11.3)\\\\他了解到，如果你在行动中被发现，西格玛行动文件就会被销毁，//(11.3,15.3)\\\\因此你应该考虑在对付目标之前先获取这些文件。//(15.3,45.3)\\\\但我想还是交由你自己判断为好。",
+			"tc": "//[DIANA_ET]\\\\//(0,2.092)\\\\歡迎來到北海道，47。//(2.092,5.505)\\\\我從客戶那裡獲取了重要情報更新。//(5.505,11.7)\\\\他已經發現你要是在行動時被發現，西格馬的行動檔案將會被摧毀，//(11.7,15.5)\\\\因此你應該考慮在接近目標前先取得它們。//(15.5,45.5)\\\\但是這得由你自己斟酌。",
+			"jp": "//[DIANA_ET]\\\\//(0,2.1)\\\\北海道へようこそ//(2.1,5.7)\\\\クライアントから優先事項に関する更新があったわ//(5.7,10.7)\\\\あなたが発見されると SIGMAの作戦ファイルが破棄されることがわかったらしく//(10.7,15)\\\\標的を始末する前にファイルを取得する必要があるそうよ//(15,17.8384)\\\\とはいえ判断はあなたにまかせるわ"
+		}
+	}
+}

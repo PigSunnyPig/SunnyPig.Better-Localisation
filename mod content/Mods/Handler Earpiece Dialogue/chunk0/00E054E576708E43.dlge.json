@@ -1,0 +1,68 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/evergreen/handler/ed024_memberkilled.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ed024_memberkilled_diana_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed024_memberkilled_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed024_memberkilled_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,6.537178)\\\\Well done, 47. This will surely be a blow to the Syndicate.",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Bien joué, 47. Le syndicat va en prendre un coup.",
+					"it": "//[DIANA]\\\\//(0,30)\\\\Ben fatto, 47. Sarà un duro colpo per l'organizzazione.",
+					"de": "//[DIANA]\\\\//(0,1.5)\\\\Gut gemacht, 47.//(1.5,3.8055)\\\\Das wird sicher ein Schlag für das Syndikat.",
+					"es": "//[DIANA]\\\\//(0,1.111176)\\\\Bien hecho, 47.//(1.111176,3.8055)\\\\Seguro que esto será un golpe duro para el sindicato.",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\Отлично, 47-й. Эта потеря станет ударом для синдиката.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\干得好，47。我们这次肯定重创了辛迪加。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\做得好，47。這肯定會給組織一個重大的打擊。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\よくやったわ、47。シンジケートが打撃を受けたことは間違いないわ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed024_memberkilled_diana_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed024_memberkilled_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed024_memberkilled_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,1.724294)\\\\Excellent work, 47.//(1.724294,3.941708)\\\\You've spread fear within the Syndicate.",
+					"fr": "//[DIANA]\\\\//(0,1.51)\\\\Excellent travail, 47.//(1.51,3.933)\\\\Vous venez d'instiller la terreur chez le syndicat.",
+					"it": "//[DIANA]\\\\//(0,1.4)\\\\Un lavoro eccellente, 47.//(1.4,3.941708)\\\\L'organizzazione sarà perseguitata dal terrore.",
+					"de": "//[DIANA]\\\\//(0,1.75)\\\\Hervorragende Arbeit, 47.//(1.75,3.941708)\\\\Sie verbreiten Angst im Syndikat.",
+					"es": "//[DIANA]\\\\//(0,1.724294)\\\\Excelente trabajo, 47.//(1.724294,3.941708)\\\\Has sembrado el miedo en el seno del sindicato.",
+					"ru": "//[DIANA]\\\\//(0,3.941708)\\\\Отличная работа, 47-й. Ты вселил страх в агентов синдиката.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\干得漂亮，47。你让辛迪加感受到了恐惧。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\做得好，47。你這會在組織內部散播恐懼。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\お見事よ、47。シンジケートは怯え上がっているわ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed024_memberkilled_diana_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed024_memberkilled_diana_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed024_memberkilled_diana_003.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\Syndicate member eliminated. Well done, 47.",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Un membre du syndicat en moins. Bien joué, 47.",
+					"it": "//[DIANA]\\\\//(0,30)\\\\Membro dell'organizzazione eliminato. Ben fatto, 47.",
+					"de": "//[DIANA]\\\\//(0,1.9)\\\\Syndikatsmitglied eliminiert.//(1.9,31.9)\\\\Gut gemacht, 47.",
+					"es": "//[DIANA]\\\\//(0,2.099128)\\\\Miembro del sindicato fuera de circulación.//(2.099128,3.435437)\\\\Bien hecho, 47.",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\Агент синдиката устранен. Отлично, 47-й.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\已消灭辛迪加成员。干得好，47。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\組織成員已消滅，做得好，47。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\シンジケートのメンバーが排除された。よくやったわ、47。"
+				}
+			}
+		]
+	}
+}

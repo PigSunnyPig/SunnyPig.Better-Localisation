@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/bulldog/41000_handler/ds41136_photohandlerphotoopconclude.sweetdialog?/ds41136_photohandlerphotoopconclude_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41136_photohandlerphotoopconclude_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/bulldog/41000_handler/ds41136_photohandlerphotoopconclude_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/bulldog/41000_handler/ds41136_photohandlerphotoopconclude_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,5.2)\\\\Excellent, 47. Madam Carlisle is on her way down for the family photo shoot.//(5.2,35.2)\\\\Let’s see if any memorable moments will play out in front of the camera.",
+			"fr": "//(0,1.6)\\\\Parfait, 47.//(1.6,5.5)\\\\Madame Carlisle arrive pour la photo de famille.//(5.5,35.5)\\\\Voyons si l'appareil photo parvient à capturer un moment familial historique.",
+			"it": "//(0,1.356196)\\\\Eccellente, 47.//(1.356196,5.16908)\\\\Madame Carlisle sta arrivando per la foto di famiglia.//(5.16908,35.16908)\\\\Vediamo se la macchina fotografica immortalerà qualche momento memorabile.",
+			"de": "//(0,1.356196)\\\\Hervorragend, 47.//(1.356196,5.605276)\\\\Madam Carlisle ist auf dem Weg nach unten für das Familienfoto.//(5.605276,35.60528)\\\\Wollen wir mal sehen, ob sich nicht ein paar denkwürdige Augenblicke vor der Kamera abspielen.",
+			"es": "//(0,5.5)\\\\Excelente, 47. La señora Carlisle viene a participar en la sesión de fotos familiar.//(5.5,35.5)\\\\A ver si logramos captar algún momento inolvidable con la cámara.",
+			"ru": "//(0,1.356196)\\\\Отлично, 47-й.//(1.356196,3.316687)\\\\Мадам Карлайл скоро будет здесь,//(3.316687,5.657178)\\\\чтобы позировать для семейного портрета.//(5.657178,35.65718)\\\\Интересно, удастся ли запечатлеть по-настоящему памятный момент?",
+			"cn": "//(0,5.4)\\\\太棒了，47。卡莱尔夫人正下去拍全家福照。//(5.4,35.4)\\\\我们来看看会拍下什么令人难忘的场面。",
+			"tc": "//(0,5.6)\\\\很好，47。卡萊爾女士正在下樓拍全家福。//(5.6,35.6)\\\\讓我們看看這相機能不能拍下令人難忘的一幕。",
+			"jp": "//(0,5.38)\\\\素晴らしいわ、47。マダム・カーライルは家族写真の撮影のために降りて来るわ。//(5.38,35.38)\\\\カメラの前で思い出に残る瞬間が繰り広げられるかどうか見てみましょう。"
+		}
+	}
+}

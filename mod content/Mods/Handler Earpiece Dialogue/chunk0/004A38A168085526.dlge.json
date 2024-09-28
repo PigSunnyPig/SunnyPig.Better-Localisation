@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/golden/gecko/40000_story/dr40183_greystoryscanwindowreminder.sweetdialog?/dr40183_greystoryscanwindowreminder_grey_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr40183_greystoryscanwindowreminder_grey_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/gecko/40000_story/dr40183_greystoryscanwindowreminder_grey_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/gecko/40000_story/dr40183_greystoryscanwindowreminder_grey_001.animset].pc_animset",
+		"languages": {
+			"en": "//[GREY]\\\\//(0,2.8)\\\\I think I can open that window remotely.//(2.8,5.25)\\\\Scan the lock with your camera and I'll have a try.",
+			"fr": "//[GREY]\\\\//(0,2.33484)\\\\Je pense pouvoir ouvrir cette fenêtre à distance.//(2.33484,4.162626)\\\\Scanne le verrou avec ton appareil photo,//(4.162626,5.25)\\\\je vais essayer.",
+			"it": "//[GREY]\\\\//(0,2.262375)\\\\Penso di poter aprire quella finestra da remoto.//(2.262375,3.954624)\\\\Scansiona quella serratura con la tua telecamera//(3.954624,5.25)\\\\e io ci proverò.",
+			"de": "//[GREY]\\\\//(0,3.033)\\\\Ich glaube, ich kann das Fenster per Fernsteuerung öffnen.//(3.033,5.25)\\\\Scanne das Schloss mit der Kamera, und ich versuche es dann mal.",
+			"es": "//[GREY]\\\\//(0,2.758136)\\\\Creo que puedo abrir esa ventana de forma remota.//(2.758136,5.25)\\\\Escanea la cerradura con tu cámara y probaré.",
+			"ru": "//[GREY]\\\\//(0,3.196687)\\\\Кажется, я смогу открыть это окно дистанционно.//(3.196687,33.19669)\\\\Просканируй замок камерой, и я попробую.",
+			"cn": "//[GREY]\\\\//(0,2.89)\\\\我觉得我可以远程遥控打开那扇窗户。//(2.89,32.89)\\\\用你的摄像头扫描一下那个锁，我来试试。",
+			"tc": "//[GREY]\\\\//(0,30)\\\\我應該能夠遙控開啟那扇窗。用你的相機掃描鎖頭，我來試試看。",
+			"jp": "//[GREY]\\\\//(0,30)\\\\窓は遠隔で開けられると思う。カメラでロックをスキャンしてみろ。こっちでやってみる。"
+		}
+	}
+}

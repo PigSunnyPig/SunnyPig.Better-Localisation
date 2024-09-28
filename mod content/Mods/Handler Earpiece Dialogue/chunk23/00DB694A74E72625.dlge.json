@@ -1,0 +1,68 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/12500_white_spider/12500_rabies/12500_handler/ds12534_exp_loc.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds12534_exp_loc_diana_ws_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12534_exp_loc_diana_ws_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12534_exp_loc_diana_ws_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\The Target did three tours as an IED expert for CICADA. He's likely to be near the explosives range. Down by the wind-mill.",
+					"fr": "//(0,30)\\\\La cible a effectué trois missions en tant qu'expert en engins explosifs pour CICADA. Allez au champ d'explosifs, près du moulin à vent.",
+					"it": "//(0,30)\\\\Il bersaglio ha partecipato a tre missioni della CICADA come esperto di ordigni improvvisati. Dev'essere nell'area esplosivi, vicino al mulino a vento.",
+					"de": "//(0,30)\\\\Die Zielperson hatte drei Einsätze als Sprengexperte für CICADA. Sie hält sich wahrscheinlich am Sprenggelände auf. Bei der Windmühle.",
+					"es": "//(0,30)\\\\El objetivo colaboró en tres ocasiones con CICADA como experto en explosivos. Es probable que esté en el campo de explosivos junto al molino de viento.",
+					"ru": "//(0,30)\\\\Цель трижды служила в «ЦИКАДЕ» в должности эксперта по самодельным взрывным устройствам. Вероятно, он недалеко от минного полигона. Это у ветряной мельницы.",
+					"cn": "//(0,30)\\\\目标曾作为炸弹专家为希卡达组织进行过三次行动。他很有可能在爆破场附近。在风车附近。",
+					"tc": "//(0,30)\\\\目標曾作為炸彈專家為希卡達組織進行過三次行動。他很有可能在爆破場附近。在風車附近。",
+					"jp": "//(0,30)\\\\資料に よれば ターゲットは CICADAの 爆発物専門家だそうよ。 爆弾演習場の あたりに いそうね。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds12534_exp_loc_diana_ws_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12534_exp_loc_diana_ws_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12534_exp_loc_diana_ws_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Your Target has a police record. Explosives, and banks. Charming. Check the explosives range. Near the wind-mill.",
+					"fr": "//(0,30)\\\\Votre cible a un casier judiciaire : explosifs et banques. Charmant. Allez voir le champ d'explosifs, près du moulin à vent.",
+					"it": "//(0,30)\\\\Il bersaglio ha precedenti penali. Esplosivi e banche. Niente male... Controlla l'area esplosivi, vicino al mulino a vento.",
+					"de": "//(0,30)\\\\Unser Ziel hat Vorstrafen. Sprengstoff und Banken. Charmant. Sehen Sie sich das Sprenggelände an. In der Nähe der Windmühle.",
+					"es": "//(0,30)\\\\Tu objetivo tiene antecedentes. Explosivos y bancos, encantador. Mira en el campo de explosivos junto al molino.",
+					"ru": "//(0,30)\\\\О цели есть записи в полиции. Взрывчатка и банки. Очаровательно. Проверь минный полигон. У ветряной мельницы.",
+					"cn": "//(0,30)\\\\你的目标留有警方记录。炸药，银行。有意思。去看看爆破场吧。在风车附近。",
+					"tc": "//(0,30)\\\\你的目標留有警方記錄。炸藥，銀行。有意思。去看看爆破場吧。在風車附近。",
+					"jp": "//(0,30)\\\\ターゲットは 前科持ちよ。 銀行を 爆破、 ですって。 爆弾演習場の 周辺を 探して みましょう。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds12534_exp_loc_diana_ws_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12534_exp_loc_diana_ws_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12534_exp_loc_diana_ws_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,6)\\\\Hmmm. Scottish accent... Hard of hearing... That can only mean one thing.//(6,9.845479)\\\\He'll be working with explosives. Check the range. By the wind-mill.",
+					"fr": "//(0,6)\\\\Hmm. Accent écossais... Dur d'oreille... Ça ne peut signifier qu'une chose ://(6,36)\\\\il travaille avec des explosifs. Allez jeter un oeil près du moulin à vent.",
+					"it": "//(0,6)\\\\Uhm, accento scozzese... Duro d'orecchie... Può significare soltanto una cosa://(6,36)\\\\lavora con le bombe. Controlla nell'area esplosivi, vicino al mulino a vento.",
+					"de": "//(0,6)\\\\Hmmm. Schottischer Akzent ... hörgeschädigt ... Das kann nur eine bedeuten://(6,36)\\\\Er arbeitet mit Sprengstoff. Überprüfen Sie das Gelände bei der Windmühle.",
+					"es": "//(0,6)\\\\Mmm. Acento escocés y sordera... Eso solo puede significar una cosa://(6,36)\\\\trabaja con explosivos. Ve al campo que hay al lado del molino.",
+					"ru": "//(0,6)\\\\Хм-м... Шотландский акцент... Глуховат... Это может означать только одно. Он работает со взрывчаткой.//(6,36)\\\\Проверь полигон. У ветряной мельницы.",
+					"cn": "//(0,30)\\\\嗯。苏格兰口音...听力衰弱...这只能说明一件事。他在和炸药打交道。看看爆破场。在风车附近。",
+					"tc": "//(0,30)\\\\嗯。蘇格蘭口音......聽力衰弱......這只能說明一件事。他在和炸藥打交道。看看爆破場。在風車旁邊。",
+					"jp": "//(0,30)\\\\ふーん... スコットランド訛りで、 難聴... どうやらターゲットは 爆発物の 担当者よ。 爆弾演習場を 覗いて みて。"
+				}
+			}
+		]
+	}
+}

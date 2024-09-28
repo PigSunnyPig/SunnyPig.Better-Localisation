@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/miami/21000_flamingo/21000_handler/ds21079_thestig.sweetdialog?/ds21079_thestig_diana_003.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds21079_thestig_diana_003",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/miami/21000_flamingo/21000_handler/ds21079_thestig_diana_003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/miami/21000_flamingo/21000_handler/ds21079_thestig_diana_003.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.674515)\\\\Some say he is passionate about infiltration,//(3.674515,7.365247)\\\\yet has no discernible emotions whatsoever.//(7.365247,9.535046)\\\\All we know is,//(9.535046,11.54133)\\\\his name is 47!",
+			"fr": "//(0,3.172943)\\\\On raconte qu'il est passionné d'infiltration,//(3.172943,7.365247)\\\\mais qu'il n'affiche jamais la moindre émotion.//(7.365247,9.535046)\\\\Tout ce qu'on sait,//(9.535046,11.54133)\\\\c'est qu'il s'appelle 47 !",
+			"it": "//(0,2.546391)\\\\Dicono che sia un appassionato di infiltrazione//(2.546391,3.874879)\\\\e che, tuttavia,//(3.874879,7.27916)\\\\non sia in grado di provare alcuna emozione.//(7.27916,9.955902)\\\\Tutto quello che sappiamo è che...//(9.955902,11.54133)\\\\si chiama 47.",
+			"de": "//(0,1.219661)\\\\Manche sagen,//(1.219661,4.53676)\\\\er hätte eine Leidenschaft für Infiltrationen,//(4.53676,7.870815)\\\\aber dennoch keine wahrnehmbaren Gefühle.//(7.870815,11.54133)\\\\Wir wissen nur eines: Sein Name ist 47!",
+			"es": "//(0,3.540491)\\\\Hay quien dice que le encanta infiltrarse en sitios,//(3.540491,6.197948)\\\\aunque no transmite ninguna emoción de ningún//(6.197948,9.127478)\\\\tipo. Lo único que sabemos...//(9.127478,11.54133)\\\\es que se llama 47.",
+			"ru": "//(0,3.289846)\\\\Говорят, он любит везде проникать незаметно,//(3.289846,7.423585)\\\\но на его лице вообще нет эмоций.//(7.423585,9.563074)\\\\Мы знаем только то,//(9.563074,11.54133)\\\\что его зовут 47-й!",
+			"cn": "//(0,30)\\\\有人说他对潜入十分热衷，但他从不流露出任何感情。我们只知道，他的名字叫47！",
+			"tc": "//(0,30)\\\\聽說他對侵入非常有熱情，但是你感受不到他的任何情緒。我們只知道，他的名字是47！",
+			"jp": "//(0,11.54133)\\\\彼は潜入に並々ならぬこだわりがありながら、感情がまったくないといわれている。彼について知っていることはただ1つ、その名は47！"
+		}
+	}
+}

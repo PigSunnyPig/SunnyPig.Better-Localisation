@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/tutorial/9000_handler/ds9114_oppend_knightsgambit.sweetdialog?/ds9114_oppend_knightsgambit_young_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds9114_oppend_knightsgambit_young_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/tutorial/9000_handler/ds9114_oppend_knightsgambit_young_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/tutorial/9000_handler/ds9114_oppend_knightsgambit_young_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.474294)\\\\Good job, Initiate.//(1.474294,31.47429)\\\\This should keep Knight occupied for a while.",
+			"fr": "//(0,30)\\\\Bravo, initié. Voilà qui devrait occuper Knight pendant un moment.",
+			"it": "//(0,30)\\\\Ottimo lavoro, recluta. Questo dovrebbe tenere Knight occupato per un po'.",
+			"de": "//(0,1.424294)\\\\Gute Arbeit, Rekrut.//(1.424294,31.42429)\\\\Das dürfte Knight ein Weilchen beschäftigen.",
+			"es": "//(0,30)\\\\Buen trabajo, iniciado. Con esto Knight andará ocupado un tiempo.",
+			"ru": "//(0,30)\\\\Отличная работа. Найт будет занят какое-то время.",
+			"cn": "//(0,1.11)\\\\干得好，新人。//(1.11,31.11)\\\\这下能让奈特忙活一阵了。",
+			"tc": "//(0,30)\\\\幹得好，新人。這下能讓奈特忙活一陣了。",
+			"jp": "//(0,30)\\\\上出来よ。ナイトはしばらくここを動けない。"
+		}
+	}
+}

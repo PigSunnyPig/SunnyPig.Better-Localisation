@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_skunk/27000_handler/ds27039_intel_janusrecollection.sweetdialog?/ds27039_intel_janusrecollection_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds27039_intel_janusrecollection_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_skunk/27000_handler/ds27039_intel_janusrecollection_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_skunk/27000_handler/ds27039_intel_janusrecollection_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,3.62492)\\\\So, that piece of music sparked a memory in Janus' mind//(3.62492,7.943397)\\\\and we now have confirmation that he and the Constant will be meeting each other soon.//(7.943397,9.240604)\\\\Great work, 47.",
+			"fr": "//[DIANA]\\\\//(0,3.800982)\\\\Ce morceau de musique a déclenché un souvenir chez Janus,//(3.800982,5.136838)\\\\et nous avons désormais la confirmation//(5.136838,7.766718)\\\\qu'il va très bientôt rencontrer le Constant.//(7.766718,9.240604)\\\\Bon travail, 47.",
+			"it": "//[DIANA]\\\\//(0,2.133724)\\\\Allora, sappiamo che quella melodia faceva venire//(2.133724,4.755007)\\\\in mente a Janus qualcosa e inoltre abbiamo la//(4.755007,7.9)\\\\conferma che lui e la Costante si incontreranno presto.//(7.9,10.79218)\\\\Ottimo lavoro, 47.",
+			"de": "//[DIANA]\\\\//(0,3.6)\\\\So. Diese Musik hat eine Erinnerung in Janus wachgerufen,//(3.6,5)\\\\und wir haben jetzt die Bestätigung,//(5,6.002)\\\\dass er und die Konstante//(6.002,8)\\\\sich bald wieder treffen werden.//(8,9.885546)\\\\Gute Arbeit, 47.",
+			"es": "//[DIANA]\\\\//(0,3.6)\\\\Esa pieza musical despertó un recuerdo en la memoria de Janus y//(3.6,7.6)\\\\ahora tenemos la confirmación de que él y el Constante se reunirán pronto.//(7.6,10.70245)\\\\Buen trabajo, 47.",
+			"ru": "//[DIANA]\\\\//(0,3.825)\\\\Эта мелодия всколыхнула память Януса,//(3.825,5.092)\\\\и теперь мы точно знаем,//(5.092,8)\\\\что он скоро должен встретиться с Константой.//(8,9.241)\\\\Отличная работа, 47-й.",
+			"cn": "//[DIANA]\\\\//(0,7.92)\\\\看来那首曲子勾起了杰纳斯的回忆，现在我们已经确认他很快就会和“永恒常量”见面。//(7.92,37.92)\\\\干得漂亮，47。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\看來那首曲子勾起傑納斯的回憶，現在我們已經確認他很快就會和「常任」見面。幹得漂亮，47。",
+			"jp": "//[DIANA]\\\\//(0,3.53)\\\\さて、その曲がヤヌスの中の記憶を呼び起こしたおかげで、//(3.53,7.745)\\\\彼とコンスタントがもうすぐ接触することが確認できた。//(7.745,9.240604)\\\\素晴らしいわ、47。"
+		}
+	}
+}

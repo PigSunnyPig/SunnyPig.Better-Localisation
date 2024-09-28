@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_magpie/29000_handler/29000_flyin.sweetdialog?/29000_flyin_grey_003.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "29000_flyin_grey_003",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_magpie/29000_handler/29000_flyin_grey_003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_magpie/29000_handler/29000_flyin_grey_003.animset].pc_animset",
+		"languages": {
+			"en": "//[GREY]\\\\//(0,5.3)\\\\Founded by Janus in 1991, The Ark Society is the world’s most exclusive club.",
+			"fr": "//[GREY]\\\\//(0,6)\\\\Fondée en 1991 par Janus, la société de l'Arche est le club le plus privé au monde.",
+			"it": "//[GREY]\\\\//(0,5.3)\\\\Fondata da Janus nel 1991, la Ark Society è il club più esclusivo del mondo.",
+			"de": "//[GREY]\\\\//(0,5.3)\\\\Die Ark-Gesellschaft wurde 1991 von Janus gegründet und ist der exklusivste Club der Welt.",
+			"es": "//[GREY]\\\\//(0,5.3)\\\\La Ark society fue fundada por Janus en 1991 y es el club más exclusivo del mundo.",
+			"ru": "//[GREY]\\\\//(0,5)\\\\«Общество Ковчега», основанное Янусом в 1991 году,  — самый элитный клуб в мире.",
+			"cn": "//[GREY]\\\\//(0,30)\\\\方舟会在1991年由杰纳斯建立，是世界上最私密的专属俱乐部。",
+			"tc": "//[GREY]\\\\//(0,30)\\\\方舟會在1991年由傑納斯建立，是世界上最私密的專屬俱樂部。",
+			"jp": "//[GREY]\\\\//(0,2.2)\\\\1991年にヤヌスによって創設された//(2.2,32.2)\\\\アーク・ソサエティは、世界最高級の会員制クラブだ。"
+		}
+	}
+}

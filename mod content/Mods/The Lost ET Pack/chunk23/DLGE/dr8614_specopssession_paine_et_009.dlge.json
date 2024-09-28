@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession.sweetdialog?/dr8614_specopssession_paine_et_009.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8614_specopssession_paine_et_009",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession_paine_et_009.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession_paine_et_009.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\If I recall correctly, that’s what made you leave CICADA. Looking for something less... troubling?",
+			"fr": "//(0,4.1)\\\\Si je me souviens bien, c'est pour ça que vous avez quitté CICADA.//(4.1,34.1)\\\\Vous cherchiez quelque chose de... plus calme ?",
+			"it": "//(0,30)\\\\Se ben ricordo, è per questo che hai lasciato la CICADA. Cercavi qualcosa di più... tranquillo?",
+			"de": "//(0,30)\\\\Wenn ich mich recht erinnere, haben Sie deshalb CICADA verlassen. Sie wollten etwas ... Harmloseres.",
+			"es": "//(0,30)\\\\Si no recuerdo mal, eso es lo que te llevó a abandonar CICADA. Buscabas algo menos... ¿perturbador?",
+			"ru": "//(0,3.932883)\\\\Если не ошибаюсь, именно поэтому вы ушли из «ЦИКАДЫ».//(3.932883,33.93288)\\\\Искали что-то... поспокойнее?",
+			"cn": "//(0,30)\\\\如果我没记错的话，你就是因为这个离开希卡达的。在找不那么......麻烦的事吗？",
+			"tc": "//(0,30)\\\\如果我沒記錯的話，這就是你離開 CICADA 的原因。尋找一些不那麼...麻煩的東西？",
+			"jp": "//(0,30)\\\\If I recall correctly, that’s what made you leave CICADA. Looking for something less... troubling?"
+		}
+	}
+}

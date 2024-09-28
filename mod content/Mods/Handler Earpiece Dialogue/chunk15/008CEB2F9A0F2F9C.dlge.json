@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_skittlebomb/29000_skittlebomb_handler/ds29550_jimmychenid.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds29550_jimmychenid_diana_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_skittlebomb/29000_skittlebomb_handler/ds29550_jimmychenid_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_skittlebomb/29000_skittlebomb_handler/ds29550_jimmychenid_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,4.65)\\\\That server looks oddly out of place. He could be Jimmy Chen.//(4.65,9.38)\\\\If the location is not favorable, find a way to make the target move to another location.",
+					"fr": "//(0,2.8)\\\\Ce serveur n'a pas vraiment l'air dans son élément.//(2.8,4.5)\\\\Il pourrait s'agir de Jimmy Chen.//(4.5,6.5)\\\\Si l'endroit ne vous convient pas,//(6.5,9.379729)\\\\arrangez-vous pour que la cible se déplace.",
+					"it": "//(0,2.347511)\\\\Quel cameriere sembra stranamente fuori luogo.//(2.347511,4.056967)\\\\Potrebbe essere Jimmy Chen.//(4.056967,6.075136)\\\\Se il luogo non è adatto,//(6.075136,9.379729)\\\\trova il modo di far spostare altrove il bersaglio.",
+					"de": "//(0,2.7)\\\\Dieser Kellner wirkt seltsam deplatziert.//(2.7,4.5)\\\\Er könnte Jimmy Chen sein.//(4.5,6.5)\\\\Falls der Ort ungeeignet ist,//(6.5,7.6)\\\\suchen Sie nach Mitteln und Wegen,//(7.6,8.5)\\\\um ihn dazu zu bringen,//(8.5,9.7)\\\\sich an einen anderen zu bewegen.",
+					"es": "//(0,2.669112)\\\\Ese camarero parece estar un tanto fuera de lugar.//(2.669112,4.049836)\\\\Podría ser Jimmy Chen.//(4.049836,5.679905)\\\\Si la ubicación no es favorable,//(5.679905,7.741328)\\\\encuentra la forma de conseguir que el objetivo//(7.741328,9.379729)\\\\se dirija a otra ubicación.",
+					"ru": "//(0,2.682752)\\\\Этому официанту тут явно не место.//(2.682752,4.755187)\\\\Возможно, это Джимми Чен.//(4.755187,6.461563)\\\\Если тебе не нравится это место,//(6.461563,9.379729)\\\\найди способ заманить цель куда-нибудь.",
+					"cn": "//(0,30)\\\\那个服务员举止很怪异。他可能就是吉米·陈。如果在这里不好下手的话，可以想办法让目标转移地点。",
+					"tc": "//(0,30)\\\\那名服務生看起來不太搭調。他可能就是陳吉米。要是地點不合適，想辦法讓目標移至其他地點。",
+					"jp": "//(0,4.6)\\\\あのウェイター、怪しいわね。ジミー・チェンかもしれない。//(4.6,9.379729)\\\\場所が不利だと思うなら、ターゲットを移動させる方法を探るのよ。"
+				}
+			}
+		]
+	}
+}

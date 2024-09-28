@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/rocky/dugong/46000_handler/ds46028_akkacigelim.sweetdialog?/ds46028_akkacigelim_grey_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds46028_akkacigelim_grey_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/rocky/dugong/46000_handler/ds46028_akkacigelim_grey_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/rocky/dugong/46000_handler/ds46028_akkacigelim_grey_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\And so goes Akka. Remarkably efficient, 47, as usual.",
+			"fr": "//(0,30)\\\\Et voilà pour Akka. Très efficace, 47, comme toujours.",
+			"it": "//(0,2.340491)\\\\Diciamo addio anche ad Akka.//(2.340491,32.34049)\\\\Efficiente come sempre, 47.",
+			"de": "//(0,2.15)\\\\Und das wäre Akka.//(2.15,4.6)\\\\Erstaunlich effizient, 47.//(4.6,34.6)\\\\Wie gewohnt.",
+			"es": "//(0,30)\\\\Adiós a Akka. Tan eficiente como siempre, 47.",
+			"ru": "//(0,30)\\\\Вот и не стало Акки. 47-й, ты, как всегда, предельно эффективен.",
+			"cn": "//(0,30)\\\\艾卡已经解决掉了。47，一如继往的高效。",
+			"tc": "//(0,30)\\\\阿卡也解決了。你還是老樣子，47，效率極高。",
+			"jp": "//(0,30)\\\\これでアッカは片づいた。いつも通り、見事な手際だ、47。"
+		}
+	}
+}

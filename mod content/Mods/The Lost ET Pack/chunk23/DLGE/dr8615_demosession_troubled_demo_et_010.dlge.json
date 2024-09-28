@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8615_demosession.sweetdialog?/dr8615_demosession_troubled_demo_et_010.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8615_demosession_troubled_demo_et_010",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8615_demosession_troubled_demo_et_010.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8615_demosession_troubled_demo_et_010.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.6)\\\\I bloody know that! What on earth are you buggering around with!//(3.6,33.6)\\\\They told me you were a bloody good doctor who helped them all with their STDs...",
+			"fr": "//(0,1.7)\\\\Je le sais bien !//(1.7,3.8)\\\\Mais pourquoi vous me racontez tout ça ?//(3.8,33.8)\\\\Ils m'ont dit que vous étiez un super médecin et que vous les aidiez pour leurs MST...",
+			"it": "//(0,3.551)\\\\Questo lo so, accidenti! Non sono venuto qui a cazzeggiare!//(3.551,33.551)\\\\Mi hanno detto che lei è un dottore coi fiocchi, e che li ha aiutati a superare le loro MTS...",
+			"de": "//(0,4)\\\\Verdammt, das weiß ich doch! Warum machen Sie denn so einen Aufstand?//(4,34)\\\\Alle haben gesagt, dass Sie ein verdammt guter Doktor sind, der bei STI hilft ...",
+			"es": "//(0,3.781)\\\\¡Eso ya lo sé! ¿Pero de qué va todo esto?//(3.781,33.781)\\\\Me dijeron que era un gran doctor y que los ayudó con las secuelas de las ETS...",
+			"ru": "//(0,3.8)\\\\А то я не знаю! Да что вы мне голову морочите?!//(3.8,33.8)\\\\Ребята говорят, что вы классный врач, что вы помогали им в тяжелых случаях ЗППП...",
+			"cn": "//(0,3.6)\\\\我他妈就知道！你到底在搞什么呢？//(3.6,33.6)\\\\他们告诉我，你是一位非常好的医生，帮助治好了他们所有人的性病......",
+			"tc": "//(0,3.6)\\\\我他媽就知道！你到底在胡鬧什麼呢？//(3.6,33.6)\\\\他們告訴我，你是一位非常好的醫生，幫助治癒了他們所有人的性病......",
+			"jp": "//(0,3.6)\\\\I bloody know that! What on earth are you buggering around with!//(3.6,33.6)\\\\They told me you were a bloody good doctor who helped them all with their STDs..."
+		}
+	}
+}

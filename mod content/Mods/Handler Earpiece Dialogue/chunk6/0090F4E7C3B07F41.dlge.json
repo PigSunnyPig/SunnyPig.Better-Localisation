@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/cutscenes_s03/m04_rat/m04_rat_flyin.sweetdialog?/m04_rat_flyin_oliviahall_004.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "m04_rat_flyin_oliviahall_004",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/cutscenes_s03/m04_rat/m04_rat_flyin_oliviahall_004.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/cutscenes_s03/m04_rat/m04_rat_flyin_oliviahall_004.animset].pc_animset",
+		"languages": {
+			"en": "//[OLIVIAHALL]\\\\//(0,30)\\\\You'll find Hush conducting his fringe experiments in an abandoned apartment building.",
+			"fr": "//[OLIVIAHALL]\\\\//(0,30)\\\\Vous trouverez Hush en train de mener ses expériences étranges dans un immeuble d'habitations abandonné.",
+			"it": "//[OLIVIAHALL]\\\\//(0,30)\\\\Troverai Hush a condurre i suoi esperimenti estremi in un edificio con appartamenti abbandonati.",
+			"de": "//[OLIVIAHALL]\\\\//(0,30)\\\\Sie können Hush mit seinen grenzwertigen Experimenten in einem verlassenen Apartment Block finden.",
+			"es": "//[OLIVIAHALL]\\\\//(0,30)\\\\Encontrarás a Hush realizando sus experimentos vanguardistas en un bloque de edificios abandonado.",
+			"ru": "//[OLIVIAHALL]\\\\//(0,30)\\\\Хаш проводит свои псевдонаучные эксперименты в заброшенной многоэтажке.",
+			"cn": "//[OLIVIAHALL]\\\\//(0,30)\\\\你可以在一栋废弃的公寓楼里找到正在做各种实验的哈什。",
+			"tc": "//[OLIVIAHALL]\\\\//(0,30)\\\\你可以在廢棄的公寓建築中找到正在進行奇怪實驗的賀許。",
+			"jp": "//[OLIVIAHALL]\\\\//(0,30)\\\\ハッシュは廃墟になってる住居ビルで過激な実験を行っている。"
+		}
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/tutorial/9000_handler/ds9237_collateraldamage.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds9237_collateraldamage_young_diana_001",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/tutorial/9000_handler/ds9237_collateraldamage_young_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/tutorial/9000_handler/ds9237_collateraldamage_young_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,5.55)\\\\So... civilian casualties tend to reflect negatively on your performance and reputation.//(5.55,35.55)\\\\Maybe I forgot to mention that?",
+					"fr": "//(0,0.856196)\\\\Euh, alors...//(0.856196,5.950982)\\\\Les civils ne font pas partie du contrat.//(5.950982,35.95098)\\\\J'ai peut-être oublié de le préciser ?",
+					"it": "//(0,5.785276)\\\\Allora... Le vittime civili tendono a riflettere negativamente sulla tua prestazione e reputazione.//(5.785276,35.78527)\\\\Non te l'avevo accennato?",
+					"de": "//(0,6.1)\\\\Äh, also ... Zivilverluste wirken sich grundsätzlich negativ auf die Ergebnisse und Ihren Ruf aus.//(6.1,36.1)\\\\Habe ich das etwa nicht erwähnt?",
+					"es": "//(0,5.785276)\\\\Eh... Las muertes innecesarias tienden a ser negativas para tu rendimiento y reputación.//(5.785276,35.78527)\\\\Quizá olvidé mencionarlo...",
+					"ru": "//(0,0.8680981)\\\\Эм...//(0.8680981,5.657178)\\\\Потери гражданских, как правило, негативно влияют на твою характеристику и репутацию.//(5.657178,35.65718)\\\\Может, я забыла это упомянуть?",
+					"cn": "//(0,5.818098)\\\\呃，话说......击杀平民会影响你的评价和表现。//(5.818098,35.8181)\\\\也许我忘记跟你提了？",
+					"tc": "//(0,30)\\\\呃，話說......擊殺平民會影響你的評價和表現。也許我忘記跟你提了？",
+					"jp": "//(0,5.5)\\\\うーん... 一般人に危害を加えると あなたの評価が下がってしまうの。//(5.5,35.5)\\\\伝えてなかったかしら？"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds9237_collateraldamage_young_diana_002",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/tutorial/9000_handler/ds9237_collateraldamage_young_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/tutorial/9000_handler/ds9237_collateraldamage_young_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,2.8)\\\\Huh. That was a tad extreme.//(2.8,32.8)\\\\I should tell you, ICA clients rely on our discretion and dislike collateral damage.",
+					"fr": "//(0,2.090491)\\\\Hmm. C'était un peu... violent.//(3.340491,4.182883)\\\\Je préfère vous prévenir,//(4.182883,6.427668)\\\\les clients de l'ICA comptent sur notre discrétion//(6.427668,36.42767)\\\\et ont horreur des dommages collatéraux.",
+					"it": "//(0,3.340491)\\\\Ah... È stato piuttosto... estremo.//(3.340491,33.34049)\\\\I clienti dell'ICA contano sulla nostra discrezione e non amano i danni collaterali.",
+					"de": "//(0,3.5)\\\\Äh, das war jetzt etwas ... extrem.//(3.5,33.5)\\\\Sie sollten wissen, dass ICA-Kunden unsere Diskretion schätzen und nichts für Kollateralschäden übrig haben.",
+					"es": "//(0,3.077)\\\\Uy. Eso ha sido un poco... extremo.//(3.077,33.077)\\\\He de decirte que los clientes de la Agencia confían en tu discreción y no les gustan los daños colaterales.",
+					"ru": "//(0,2.972393)\\\\Хм. Это уже... чересчур.//(2.972393,32.97239)\\\\Должна сказать, клиенты МКА ценят деликатность, и случайные жертвы им не по душе.",
+					"cn": "//(0,3.218098)\\\\哼。你干得......有点过分啊。//(3.218098,6.418098)\\\\我先跟你说清楚，ICA的客户信赖我们谨慎的办事作风，//(6.418098,36.4181)\\\\厌恶不必要的人员伤亡。",
+					"tc": "//(0,3.218)\\\\呵。你幹得有點過分啊。//(3.218,6.418)\\\\我先跟你說清楚，ICA的客戶信賴我們謹慎的辦事作風，//(6.418,36.418)\\\\厭惡不必要的人員傷亡。",
+					"jp": "//(0,4.8)\\\\やり過ぎよ。 ICAの顧客は我々の慎重な姿勢を評価してる。//(4.8,34.8)\\\\罪のない人を傷つけてはだめよ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds9237_collateraldamage_young_diana_003",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/tutorial/9000_handler/ds9237_collateraldamage_young_diana_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/tutorial/9000_handler/ds9237_collateraldamage_young_diana_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Easy there, Initiate. A true assassin is a precision tool and applies only minimum necessary force.",
+					"fr": "//(0,1.724294)\\\\Du calme, initié.//(1.724294,4.650982)\\\\Un véritable assassin fait preuve de précision//(4.650982,34.65098)\\\\et n'applique que la force nécessaire.",
+					"it": "//(0,1.724294)\\\\Nervi saldi, recluta.//(1.724294,31.72429)\\\\I veri assassini sono strumenti di precisione e si affidano alla forza solo se strettamente necessario.",
+					"de": "//(0,2)\\\\Ganz ruhig, Rekrut!//(2,32)\\\\Ein wahrer Attentäter ist ein Präzisionswerkzeug und geht möglichst gewaltlos vor.",
+					"es": "//(0,1.356196)\\\\Tranquilo, iniciado.//(1.356196,4.66908)\\\\Un verdadero asesino es como una herramienta de precisión//(4.66908,34.66908)\\\\y solo aplica la fuerza mínima necesaria.",
+					"ru": "//(0,1.356196)\\\\Полегче, новичок.//(1.356196,31.3562)\\\\Настоящий профессионал всегда действует точно и применяет силу лишь при необходимости.",
+					"cn": "//(0,1.718098)\\\\新人，下手别这么重。//(1.718098,4.768098)\\\\真正的刺客只会精准地击杀目标，//(4.768098,34.7681)\\\\不会滥杀无辜。",
+					"tc": "//(0,30)\\\\新人，下手別這麼重。真正的殺手只會精准地擊殺目標，不會濫殺無辜。",
+					"jp": "//(0,4)\\\\落ち着いて。真の暗殺者とは、ミスを犯さず//(4,34)\\\\力の行使は最低限に抑えるものよ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds9237_collateraldamage_young_diana_004",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/tutorial/9000_handler/ds9237_collateraldamage_young_diana_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/tutorial/9000_handler/ds9237_collateraldamage_young_diana_004.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Really, Initiate. That was not your target.",
+					"fr": "//(0,1.556196)\\\\Doucement, initié.//(1.556196,31.5562)\\\\Ce n'était pas votre cible.",
+					"it": "//(0,30)\\\\Sul serio, recluta? Non era quello il tuo bersaglio.",
+					"de": "//(0,30)\\\\Langsam, Rekrut! Das war nicht die Zielperson.",
+					"es": "//(0,30)\\\\En serio, iniciado. Ese no era el objetivo.",
+					"ru": "//(0,1.356196)\\\\Серьезно, новичок.//(1.356196,31.3562)\\\\Это не твоя цель.",
+					"cn": "//(0,1.618098)\\\\别这么急躁，新人。//(1.618098,31.6181)\\\\那个不是你的目标。",
+					"tc": "//(0,30)\\\\別這麼急躁，新人。那個不是你的目標。",
+					"jp": "//(0,30)\\\\何してるの？ 今のはターゲットじゃない。"
+				}
+			}
+		]
+	}
+}

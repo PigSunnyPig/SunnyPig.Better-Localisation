@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_magpie/29000_handler/29000_flyin.sweetdialog?/29000_flyin_grey_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "29000_flyin_grey_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_magpie/29000_handler/29000_flyin_grey_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_magpie/29000_handler/29000_flyin_grey_002.animset].pc_animset",
+		"languages": {
+			"en": "//[GREY]\\\\//(0,30)\\\\Headquarters of The Ark Society.",
+			"fr": "//[GREY]\\\\//(0,5.5)\\\\Quartiers généraux de la société de l'Arche.",
+			"it": "//[GREY]\\\\//(0,2.6)\\\\Il quartier generale della Ark Society.",
+			"de": "//[GREY]\\\\//(0,2.6)\\\\Hauptsitz der Ark-Gesellschaft.",
+			"es": "//[GREY]\\\\//(0,2.6)\\\\Centro de operaciones de la Ark society.",
+			"ru": "//[GREY]\\\\//(0,2.4)\\\\Штаб-квартира «Общества Ковчега».",
+			"cn": "//[GREY]\\\\//(0,2.404)\\\\方舟会的总部。",
+			"tc": "//[GREY]\\\\//(0,2.4)\\\\方舟會的總部。",
+			"jp": "//[GREY]\\\\//(0,2.5)\\\\アーク・ソサエティの本部。"
+		}
+	}
+}

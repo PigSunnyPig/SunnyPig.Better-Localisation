@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/bulldog/41000_elusive/41000_vesper/41000_vesper_handler/ds444501_robertburkid.sweetdialog?/ds444501_robertburkid_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds444501_robertburkid_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/bulldog/41000_elusive/41000_vesper/41000_vesper_handler/ds444501_robertburkid_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/bulldog/41000_elusive/41000_vesper/41000_vesper_handler/ds444501_robertburkid_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.8)\\\\That... is Robert Burk. An embalmer for the mourners who can afford him.//(4.8,11.7)\\\\His actions to please Mr. Roe's fiendish appetite, makes him an equally diabolical confederate.//(11.7,41.7)\\\\Don't be fooled by his appearance.",
+			"fr": "//(0,4.95)\\\\C'est... Robert Burk, thanatopracteur offrant ses services aux familles en deuil les plus fortunées.//(4.95,11.9)\\\\Ses pratiques pour satisfaire l'appétit diabolique de M. Roe en font un complice tout aussi machiavélique...//(11.9,41.9)\\\\Ne vous laissez pas tromper par son apparence.",
+			"it": "//(0,5)\\\\Quello... è Robert Burk, un imbalsamatore per pochi eletti.//(5,11.9)\\\\Quello che fa per soddisfare l'appetito demoniaco del signor Roe lo rende un complice altrettanto diabolico.//(11.9,41.9)\\\\Non farti trarre in inganno dal suo aspetto.",
+			"de": "//(0,2)\\\\Das ... ist Robert Burk.//(2,5)\\\\Ein Bestatter für Trauernde, die ihn sich leisten können.//(5,12)\\\\Seine Beihilfe bei Mr.  Roes teuflischem Treiben macht ihn zu einem nicht minder teuflischen Schergen.//(12,42)\\\\Lassen Sie sich nicht von seinem Aussehen täuschen.",
+			"es": "//(0,5.2)\\\\Ese... es Robert Burk. Para los dolientes que puedan permitírselo, no es más que un embalsamador.//(5.2,11.7)\\\\Sus acciones para complacer el perverso apetito del señor Roe hacen de él un cómplice igual de diabólico.//(11.7,41.7)\\\\Que no te engañe su apariencia.",
+			"ru": "//(0,3.6)\\\\Это... Роберт Бёрк. Бальзамирует тела усопших для тех,//(3.6,5.12)\\\\кто может себе это позволить.//(5.12,8.69)\\\\Он потакает жутким наклонностям мистера Роу//(8.69,12)\\\\и поэтому является столь же коварным противником.//(12,42)\\\\Не ведись на его безобидную внешность.",
+			"cn": "//(0,2.23)\\\\那个......就是罗伯特·伯克。//(2.23,5)\\\\他是一名防腐师，为那些付得起钱的送丧者提供服务。//(5,8.6)\\\\他为了迎合罗先生恶魔般嗜好而做出的种种行为，//(8.6,38.6)\\\\使他成为了和罗同等邪恶的帮凶。别被他的外表骗了。",
+			"tc": "//(0,2.3)\\\\那個......就是羅伯特·伯克。//(2.3,5.2)\\\\他是一名防腐師，為那些付得起錢的送喪者提供服務。//(5.2,8.7)\\\\他為了迎合羅先生惡魔般嗜好而做出的種種行為//(8.7,38.7)\\\\使他成為了和羅同等邪惡的幫兇。別被他的外表騙了。",
+			"jp": "//(0,5.1)\\\\あれが... ロバート・バーク。羽振りが良い遺族にしか雇えない遺体整復師よ。//(5.1,8.65)\\\\ロウ氏の悪魔のような嗜好を満たす協力をしている時点で、//(8.65,11.9)\\\\彼も極悪非道な共犯者だわ。//(11.9,41.9)\\\\見かけにだまされないで。"
+		}
+	}
+}

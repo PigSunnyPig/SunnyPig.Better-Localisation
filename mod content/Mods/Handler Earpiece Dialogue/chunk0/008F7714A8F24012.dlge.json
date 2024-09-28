@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/golden/gecko/40000_story/dr40106_greystoryneedkeycard.sweetdialog?/dr40106_greystoryneedkeycard_grey_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr40106_greystoryneedkeycard_grey_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/gecko/40000_story/dr40106_greystoryneedkeycard_grey_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/gecko/40000_story/dr40106_greystoryneedkeycard_grey_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.85)\\\\Ah, I think I've got it. We'll need a keycard to gain access.//(4.85,8)\\\\Someone in maintenance should have one we can borrow for a spell.",
+			"fr": "//(0,1.787002)\\\\Ah, je crois que j'ai compris.//(1.787002,5.15)\\\\On a besoin d'une carte d'accès pour entrer dans le système.//(5.15,8)\\\\Tu pourras probablement en \"emprunter\" une à l'un des gars de la maintenance.",
+			"it": "//(0,2.335)\\\\Ah, penso di aver capito.//(2.335,5.135)\\\\Per ottenere l'accesso, ci serve una chiave magnetica.//(5.135,11.90362)\\\\Qualcuno della manutenzione dovrebbe averne una che possiamo prendere in prestito per un po'.",
+			"de": "//(0,2.280491)\\\\Ah, ich glaube, ich hab’s.//(2.280491,4.577179)\\\\Wir werden eine Schlüsselkarte brauchen, um hineinzugelangen.//(4.577179,6.019063)\\\\Jemand von der Wartung sollte eine haben,//(6.019063,8)\\\\die wir uns einen Moment ausleihen können.",
+			"es": "//(0,4.6)\\\\Ah, creo que ya lo tengo. Necesitaremos una tarjeta de acceso para entrar.//(5.05,8)\\\\Alguien de mantenimiento debería tener una que podamos tomar prestada un rato.",
+			"ru": "//(0,5.18)\\\\Ага, я понял. Нужна ключ-карта, чтобы получить доступ.//(5.18,35.18)\\\\Ее наверняка удастся одолжить у кого-нибудь из обслуги.",
+			"cn": "//(0,5)\\\\啊，我想我明白了。咱们得有钥匙卡才能进去。//(5,35)\\\\维修部的人应该有，咱们可以借来用一下。",
+			"tc": "//(0,5.1)\\\\啊，我知道了。我得用鑰匙卡來取得通行權。//(5.1,35.1)\\\\維護部的人應該有，我們能夠借一下。",
+			"jp": "//(0,5)\\\\わかったぞ。アクセスするにはカードキーが必要だ。//(5,35)\\\\メンテナンスの誰かが持っているだろう。少し借してもらおう。"
+		}
+	}
+}

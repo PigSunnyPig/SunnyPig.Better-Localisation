@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25079_chawlkashmirianroom.sweetdialog?/ds25079_chawlkashmirianroom_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25079_chawlkashmirianroom_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25079_chawlkashmirianroom_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25079_chawlkashmirianroom_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.082883)\\\\47, it looks like someone living in the chawl//(3.082883,33.08288)\\\\is using this room as a base of operations of some sort.",
+			"fr": "//(0,3.132883)\\\\47, on dirait qu'une personne vivant dans le chawl//(3.132883,33.13288)\\\\se sert de cette chambre comme base d'opérations.",
+			"it": "//(0,3.082883)\\\\47, a quanto pare qualcuno che abita nei chawl//(3.082883,33.08288)\\\\usa questa stanza come base per una non meglio precisata attività.",
+			"de": "//(0,1.498589)\\\\47, es sieht ganz so aus,//(1.498589,3.015276)\\\\als würde jemand, der im Chawl lebt,//(3.015276,33.01527)\\\\diesen Raum als eine Art Einsatzzentrale nutzen.",
+			"es": "//(0,4.16908)\\\\47, parece que un residente del chawl está usando esta habitación//(4.16908,34.16908)\\\\como una especie de base de operaciones.",
+			"ru": "//(0,3.134785)\\\\47-й, похоже, кто-то из жителей чоула превратил эту//(3.134785,33.13478)\\\\комнату в некое подобие базы для тайных операций.",
+			"cn": "//(0,30)\\\\47，似乎住在这座公寓的某人将这间屋子作为了某种行动的基地。",
+			"tc": "//(0,30)\\\\47，看起來在這個擁擠的公屋生活的人正利用此處作為某種商業的基地。",
+			"jp": "//(0,4.35)\\\\47、どうやら共同住宅に住んでいる誰かがこの部屋を//(4.35,34.35)\\\\何かしらの活動拠点として利用しているみたいだわ。"
+		}
+	}
+}

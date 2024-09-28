@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/tutorial/9000_handler/ds9122_hips.sweetdialog?/ds9122_hips_young_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds9122_hips_young_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/tutorial/9000_handler/ds9122_hips_young_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/tutorial/9000_handler/ds9122_hips_young_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Blending in, I see. Well done, Initiate.",
+			"fr": "//(0,30)\\\\Vous vous mélangez bien, à ce que je vois. Bien joué, initié.",
+			"it": "//(0,30)\\\\Ti sei mimetizzato. Molto bene, recluta.",
+			"de": "//(0,1.478589)\\\\Ich sehe, Sie passen sich an.//(1.478589,31.47859)\\\\Gute Arbeit, Rekrut.",
+			"es": "//(0,30)\\\\Ya veo, disimulando. Bien hecho, iniciado.",
+			"ru": "//(0,30)\\\\Растворяешься в толпе... Отлично сработано!",
+			"cn": "//(0,1.6)\\\\看来你想混入人群。//(1.6,31.6)\\\\干得好，新人。",
+			"tc": "//(0,30)\\\\看來你想混入人群。幹得好，新人。",
+			"jp": "//(0,30)\\\\場に溶け込もうってわけね、お見事よ。"
+		}
+	}
+}

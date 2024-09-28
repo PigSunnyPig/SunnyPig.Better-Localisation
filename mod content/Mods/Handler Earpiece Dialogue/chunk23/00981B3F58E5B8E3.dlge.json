@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_bull/8000_handler/ds8011_opphostagebriefing.sweetdialog?/ds8011_opphostagebriefing_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds8011_opphostagebriefing_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_bull/8000_handler/ds8011_opphostagebriefing_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_bull/8000_handler/ds8011_opphostagebriefing_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,5.289)\\\\Ezra Berg, legendary Mossad operative who specializes in chemical interrogation techniques,//(5.289,8.5)\\\\is here at the compound to interrogate a prisoner.//(8.5,12.58)\\\\My notes indicate he's set up a makeshift drug lab in a garage//(12.58,16.06)\\\\and it looks like he's spending a lot of his time in the basement.//(16.06,46.06)\\\\Could be an opportunity there, 47.",
+			"fr": "//(0,5.6)\\\\Ezra Berg, un célèbre agent du Mossad spécialisé dans les techniques d'interrogatoire chimique,//(5.6,8.7)\\\\est ici afin de faire parler un prisonnier.//(8.7,12.6)\\\\Mes informations me disent qu'il a établi un labo de drogues de fortune dans un garage//(12.6,16.6)\\\\et il semblerait qu'il passe beaucoup de temps dans sa cave.//(16.6,23.70773)\\\\Il y a peut être là une occasion à saisir, 47.",
+			"it": "//(0,5.53)\\\\Ezra Berg, leggendario agente del Mossad specializzato in tecniche di interrogatorio con sostanze chimiche,//(5.53,8.824786)\\\\si trova nel complesso per interrogare un prigioniero.//(8.824786,12.49196)\\\\Le mie fonti indicano che ha allestito un laboratorio improvvisato nel garage//(12.49196,16.368)\\\\e pare spenda molto del suo tempo nel seminterrato.//(16.368,46.368)\\\\Chissà che opportunità si nascondono là sotto, 47.",
+			"de": "//(0,5.6)\\\\Ezra Berg, der legendäre, auf chemische Verhörtechniken spezialisierte Mossad-Agent,//(5.6,8.8)\\\\ist offenbar hier im Hauptquartier um einen Gefangenen zu befragen.//(8.8,16.4)\\\\Offenbar baut er ein provisorisches Drogenlabor in einer Garage auf und verbringt viel Zeit im Keller.//(16.4,46.4)\\\\Dies könnte sich als gute Möglichkeit erweisen, 47.",
+			"es": "//(0,5.393374)\\\\Ezra Berg, el legendario agente del Mossad especializado en técnicas de interrogatorio con químicos,//(5.393374,8.9)\\\\se encuentra en la base para interrogar a un prisionero.//(8.9,12.5)\\\\Nuestra información confirma que tiene un laboratorio improvisado en un garaje//(12.5,16.5)\\\\y parece que pasa mucho tiempo en el sótano.//(16.5,46.5)\\\\Podría ser tu oportunidad, 47.",
+			"ru": "//(0,2.328589)\\\\Эзра Берг — легендарный оперативник «Моссада»,//(2.328589,5.037178)\\\\специалист по допросам с использованием медикаментов.//(5.037178,8.721963)\\\\Судя по всему, он здесь, чтобы допросить заложника.//(8.721963,10)\\\\По нашей информации, в гараже он устроил//(10,12.8)\\\\импровизированную лабораторию для создания препаратов.//(12.8,16.68)\\\\Однако большую часть времени он проводит в подвале.//(16.68,46.68)\\\\Возможно, это шанс, 47-й.",
+			"cn": "//(0,5.4)\\\\以斯拉·贝格是摩萨德的传奇特工，精通用化学药物审讯犯人。//(5.4,8.8)\\\\此人正在建筑中审讯某个犯人。//(8.8,12.4)\\\\情报显示他在车库中有个临时药品实验室，//(12.4,16.2)\\\\而且他大多数时间似乎都呆在地下室里。//(16.2,46.2)\\\\我们可以把握这个机会，47。",
+			"tc": "//(0,8.7)\\\\艾斯拉．伯格是摩薩德的傳奇特務，精通用化學藥物審問犯人。他正在建築中審問某個犯人。//(8.7,16.5)\\\\情報顯示他在車庫中有個臨時藥品實驗室，而且他大多數時間似乎都待在地下室裡。//(16.5,46.5)\\\\我們可以把握這個機會，47。",
+			"jp": "//(0,6.948219)\\\\薬物による 尋問を 得意と して いる伝説的なモサドの 諜報員エズラ・バーグは、 ここで 囚人たちの//(6.948219,16.50202)\\\\尋問を 行って いるわ。 彼は ガレージに 簡易的な薬物研究所を 持って いて、 普段は 地下で 過ごして//(16.50202,18.86152)\\\\いるみたい。 チャンスかもね。"
+		}
+	}
+}

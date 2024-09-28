@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_snowcrane/2000_handler/ds2007_oppmakeoverbriefing.sweetdialog?/ds2007_oppmakeoverbriefing_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds2007_oppmakeoverbriefing_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_snowcrane/2000_handler/ds2007_oppmakeoverbriefing_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_snowcrane/2000_handler/ds2007_oppmakeoverbriefing_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.460491)\\\\Well, this is quite fascinating.//(2.460491,8.34)\\\\The bandaged patient is Jason Portman, former CEO of Quantum Leap.//(8.34,15.4)\\\\According to my intel, he has undergone full facial reconstruction and is scheduled for bandage removal today.//(15.4,45.4)\\\\And, get this - he's going for the full Helmut Kruger look.",
+			"fr": "//(0,2.460491)\\\\Ah, voilà qui est fascinant.//(2.460491,7.96)\\\\Le patient aux bandages est Jason Portman, ancien PDG de Quantum Leap.//(7.96,15.1)\\\\D'après nos infos, il a subi une reconstruction faciale complète et a rendez-vous aujourd'hui pour se faire enlever ses pansements.//(15.1,16.3)\\\\Et devinez-quoi ?//(16.3,46.3)\\\\Il a choisi comme modèle Helmut Kruger.",
+			"it": "//(0,2.33)\\\\Ah, molto interessante.//(2.33,7.946)\\\\Il paziente fasciato è Jason Portman, l'ex amministratore di Quantum Leap.//(7.946,11.998)\\\\Stando alle mie informazioni, è stato sottoposto a una ricostruzione facciale completa//(11.998,15.06088)\\\\e la rimozione delle bende è prevista per oggi.//(15.06088,45.06088)\\\\E senti questa: vuole assomigliare il più possibile a Helmut Kruger.",
+			"de": "//(0,2.4)\\\\Also, das ist ziemlich faszinierend.//(2.4,8.2)\\\\Der bandagierte Patient ist Jason Portman, der ehemalige CEO von Quantum Leap.//(8.2,12.299)\\\\Meinen Informationen zufolge hat er sich einer kompletten Gesichtsrekonstruktion unterzogen,//(12.299,15.375)\\\\und heute sollen die Bandagen entfernt werden.//(15.375,45.375)\\\\Und jetzt kommt's – er will so aussehen wie Helmut Kruger.",
+			"es": "//(0,2.242393)\\\\Bueno, esto es fascinante.//(2.242393,7.961473)\\\\El paciente vendado es Jason Portman, antiguo CEO de Quantum Leap.//(7.961473,12.3)\\\\Según mi información, se le ha practicado una reconstrucción facial completa//(12.3,15.225)\\\\y hoy tiene cita para quitarse los vendajes.//(15.225,45.225)\\\\Además, pretende conseguir parecerse a Helmut Kruger.",
+			"ru": "//(0,2.192393)\\\\Так-так, это уже интересно.//(2.192393,8.15)\\\\Забинтованный пациент — Джейсон Портман, бывший генеральный директор «Квантум лип».//(8.15,12.4)\\\\Согласно моим данным, ему сделали полную реконструкцию лица//(12.4,15.6)\\\\и сегодня снимают повязки.//(15.6,45.6)\\\\И вот что самое занятное — он хочет быть как две капли воды похожим на Хельмута Крюгера.",
+			"cn": "//(0,2.468098)\\\\好吧，还真是相当神奇。//(2.468098,8.018098)\\\\那个绑着绷带的病人是量子跃迁的前任CEO詹森·波特曼。//(8.018098,9.2181)\\\\根据我的情报来看，//(9.2181,15.0681)\\\\他接受了完整的面容重建手术，他今天是来拆除绷带的。//(15.0681,45.0681)\\\\还有，听听这个......他现在跟赫尔穆特·克鲁格长得一模一样。",
+			"tc": "//(0,8)\\\\好吧，還真是相當神奇。那個綁著繃帶的病人是量子跳躍的前任CEO傑森．波特曼。//(8,15)\\\\根據我的情報來看，他接受了完整的面容重建手術，他今天是來拆除繃帶的。//(15,45)\\\\還有，聽聽這個......他現在跟赫爾穆特．克魯格長得一模一樣。",
+			"jp": "//(0,2.275439)\\\\なかなかおもしろいわね...//(2.275439,8.064542)\\\\包帯の 患者は ジェイソン・ ポートマン。 クォンタムリープ社の 元CEOよ。//(8.064542,15.78335)\\\\どうやら大規模な顔面整形を して、 今日包帯を 取ることに なって いるようね。 しかも彼、 ヘルムート・//(15.78335,18.6779)\\\\クルーガーの 顔に 憧れてるそうよ。"
+		}
+	}
+}

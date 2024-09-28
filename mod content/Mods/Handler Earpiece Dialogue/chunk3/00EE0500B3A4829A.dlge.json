@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/bulldog/41000_handler/ds41057_handlerrebeccaconferencecall.sweetdialog?/ds41057_handlerrebeccaconferencecall_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41057_handlerrebeccaconferencecall_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/bulldog/41000_handler/ds41057_handlerrebeccaconferencecall_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/bulldog/41000_handler/ds41057_handlerrebeccaconferencecall_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\I can see from the log that Rebecca was in a conference call from 9pm to midnight last night.",
+			"fr": "//(0,30)\\\\D'après l'historique, Rebecca était au téléphone de 21 h à minuit hier soir.",
+			"it": "//(0,30)\\\\Dal registro vedo che ieri sera Rebecca è stata in videoconferenza dalle 21: 00 fino a mezzanotte.",
+			"de": "//(0,30)\\\\Ich kann an dem Protokoll erkennen, dass Rebecca gestern von 9 Uhr abends bis Mitternacht eine Telefonkonferenz hatte.",
+			"es": "//(0,30)\\\\Veo en el registro que Rebecca tuvo una conferencia anoche, que duró desde las 9 hasta las 12.",
+			"ru": "//(0,4.15)\\\\Судя по журналу, вчера с девяти вечера//(4.15,34.15)\\\\и до полуночи у Ребекки была телеконференция.",
+			"cn": "//(0,30)\\\\记录显示昨晚9点到半夜12点，瑞贝卡一直在参加电话会议。",
+			"tc": "//(0,30)\\\\我從記錄中看見瑞貝卡昨天在下午9點至午夜間都在開通訊會議。",
+			"jp": "//(0,30)\\\\ログから、レベッカが昨夜9時から深夜まで電話会議をしていたことがわかるわ。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/cutscenes_s03/m02_bulldog/m02_bulldog_flyin.sweetdialog?/m02_bulldog_flyin_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "m02_bulldog_flyin_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/cutscenes_s03/m02_bulldog/m02_bulldog_flyin_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/cutscenes_s03/m02_bulldog/m02_bulldog_flyin_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,1.442178)\\\\Thornbridge Manor.",
+			"fr": "//[DIANA]\\\\//(0,30)\\\\Le manoir Thornbridge.",
+			"it": "//[DIANA]\\\\//(0,30)\\\\Tenuta Thornbridge.",
+			"de": "//[DIANA]\\\\//(0,30)\\\\Thornbridge Manor.",
+			"es": "//[DIANA]\\\\//(0,30)\\\\Mansión Thornbridge.",
+			"ru": "//[DIANA]\\\\//(0,30)\\\\Поместье Торнбридж.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\索布里奇庄园。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\索恩橋庄園。",
+			"jp": "//[DIANA]\\\\//(0,30)\\\\ソーンブリッジ・マナー。"
+		}
+	}
+}

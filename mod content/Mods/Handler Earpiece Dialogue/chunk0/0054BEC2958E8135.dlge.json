@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/tutorial/9000_handler/ds9265_lostknight.sweetdialog?/ds9265_lostknight_young_diana_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds9265_lostknight_young_diana_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/tutorial/9000_handler/ds9265_lostknight_young_diana_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/tutorial/9000_handler/ds9265_lostknight_young_diana_002.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Hm. Looks like Knight is on a smoke break. Try again in a little while.",
+			"fr": "//(0,2.562883)\\\\Hmm... Il semble que Knight fait sa pause cigarette.//(2.862883,32.86288)\\\\Réessayez encore un peu plus tard.",
+			"it": "//(0,30)\\\\Mmmh. Sembra che Knight sia in pausa sigaretta. Riprova tra un po'.",
+			"de": "//(0,3)\\\\Hmm. Sieht so aus, als würde Knight gerade eine Raucherpause einlegen.//(3,33)\\\\Versuchen Sie es später nochmal.",
+			"es": "//(0,3)\\\\Mmm... parece que Knight se ha tomado un descanso para fumar.//(3,33)\\\\Vuelve a intentarlo más tarde.",
+			"ru": "//(0,2.93)\\\\Хм. Похоже, что Найт на перерыве.//(2.93,32.93)\\\\Попытайся еще раз попозже.",
+			"cn": "//(0,30)\\\\嗯，看来他去抽烟了。过一会再试试吧。",
+			"tc": "//(0,30)\\\\嗯，看來奈特正在抽煙休息。等下再試。",
+			"jp": "//(0,30)\\\\ナイトは休憩中かしら。少し経ってから戻るといいわ。"
+		}
+	}
+}

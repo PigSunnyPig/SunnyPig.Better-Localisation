@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_magpie/29000_handler/ds29046_greyhandleconstant.sweetdialog?/ds29046_greyhandleconstant_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds29046_greyhandleconstant_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_magpie/29000_handler/ds29046_greyhandleconstant_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_magpie/29000_handler/ds29046_greyhandleconstant_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,3.1)\\\\Both targets down. Impressive work, 47.//(3.1,9.570021)\\\\And now to deal with the Constant. Mr. Grey, what's your status?",
+			"fr": "//[DIANA]\\\\//(0,1.5)\\\\Les deux cibles sont au tapis.//(1.5,3.5)\\\\Impressionnant, 47.//(3.5,7.129)\\\\Il est temps d'aller voir le Constant.//(7.129,9.570021)\\\\M. Grey, où en êtes-vous ?",
+			"it": "//[DIANA]\\\\//(0,1.68)\\\\Entrambi i bersagli eliminati.//(1.68,6.384482)\\\\Notevole, 47. E ora occupiamoci della Costante.//(6.384482,9.570021)\\\\Signor Grey, a che punto sei?",
+			"de": "//[DIANA]\\\\//(0,1.466384)\\\\Beide Ziele neutralisiert.//(1.466384,3.190679)\\\\Beeindruckende Arbeit, 47.//(3.190679,6.527568)\\\\Und jetzt müssen wir uns um die Konstante kümmern.//(6.527568,9.570021)\\\\Mr. Grey, wie ist Ihr Status?",
+			"es": "//[DIANA]\\\\//(0,1.641368)\\\\Ambos objetivos eliminados.//(1.641368,3.733761)\\\\Ha sido impresionante, 47.//(3.733761,6.676067)\\\\Y ahora, a por el Constante.//(6.676067,9.570021)\\\\Señor Grey, ¿cuál es su situación?",
+			"ru": "//[DIANA]\\\\//(0,1.978121)\\\\Обе цели устранены.//(1.978121,3.650333)\\\\Впечатляет, 47-й.//(3.650333,6.536196)\\\\А теперь разберемся с Константой.//(6.536196,9.570021)\\\\Мистер Грей, что у вас?",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\两名目标均已被消灭。非常精彩，47。现在该对付\"永恒常量\"了。格雷先生，你那边怎样？",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\兩名目標均已被消滅。非常精彩，47。現在該對付「常任」了。格雷先生，你那邊怎樣？",
+			"jp": "//[DIANA]\\\\//(0,3.5)\\\\両ターゲットの排除成功。鮮やかな手際ね、47。//(3.5,6.5)\\\\残すはコンスタントよ。//(6.5,36.5)\\\\グレー、報告して。"
+		}
+	}
+}

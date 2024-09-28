@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8616_sessionscomplete.sweetdialog?/dr8616_sessionscomplete_paine_et_003.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8616_sessionscomplete_paine_et_003",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8616_sessionscomplete_paine_et_003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8616_sessionscomplete_paine_et_003.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.8)\\\\Four hours... Coming here is getting harder.//(3.8,8.5)\\\\If I were of the analytical persuasion, I’d expect an assault of some description.//(8.5,12)\\\\Still, no need to waste a moment, I’d think?//(12,17)\\\\Apparently, they found a classic video game here. A bit of an overseen gem.//(17,19.3)\\\\I think I’d like to give it a bit of a try.//(19.3,49.3)\\\\Perhaps even stream it? Except that would bring an airstrike in on us, am I right?",
+			"fr": "//(0,2.3)\\\\Quatre heures ?//(2.3,4.76)\\\\Ça devient difficile de venir ici.//(4.76,9.42)\\\\Si j'étais de l'école analytique, je dirais que je m'attends à une attaque.//(9.42,12.9)\\\\Enfin, je n'ai pas de temps à perdre.//(12.9,17.39)\\\\Apparemment, ils ont trouvé un classique du jeu vidéo ici. Un petit bijou sous-estimé.//(17.39,22)\\\\J'aimerais bien y jeter un coup d'œil. Ou même le streamer ?//(22.785,52.785)\\\\Sauf que ça entraînerait une frappe aérienne sur le complexe, c'est ça ?",
+			"it": "//(0,4.5)\\\\Quattro ore. Venire qui sta diventando difficile.//(4.5,9.3)\\\\Se pensassi in maniera più analitica, mi aspetterei un'aggressione di qualche genere.//(9.3,12.75)\\\\Eppure, non vedo perché perdere tempo, no?//(12.75,17.4)\\\\A quanto pare, qui hanno trovato un videogioco di qualche anno fa. Una piccola perla sottovalutata.//(17.4,22.839)\\\\Non mi dispiacerebbe provarlo. Potrei persino provare a fare uno streaming.//(22.839,52.839)\\\\Se non fosse che attirerei un attacco aereo su di noi, dico bene?",
+			"de": "//(0,4.9)\\\\Vier Stunden. Hierherzukommen, wird immer schwieriger.//(4.9,9.6)\\\\Wenn ich der analytische Typ wäre, würde ich jetzt einen Angriff erwarten.//(9.6,15.5)\\\\Trotzdem, kein Grund, Zeit zu verschwenden. Angeblich haben sie hier ein klassisches Videospiel gefunden.//(15.5,20.3)\\\\Ein vergessenes Juwel. Das würde ich gerne mal ausprobieren.//(20.3,50.3)\\\\Vielleicht sogar streamen. Aber dann müssten wir mit einem Luftschlag rechnen, stimmt's?",
+			"es": "//(0,4.562883)\\\\Cuatro horas. Cada vez es más difícil venir aquí.//(4.562883,9.281963)\\\\Si fuese un obseso analítico, esperaría un ataque de algún tipo.//(9.281963,12.78485)\\\\Aun así, no debería dejar pasar la ocasión, ¿no?//(12.78485,20.09632)\\\\Al parecer, han encontrado un videojuego clásico, una joya olvidada. Creo que voy a probarlo.//(20.09632,50.09632)\\\\¿Quizá incluso podría transmitirlo por Internet? Claro que eso haría que nos lanzasen un ataque aéreo, ¿verdad?",
+			"ru": "//(0,4.094785)\\\\Четыре часа. Посещать это место становится все труднее.//(4.094785,9.470061)\\\\Имей я аналитический склад ума, наверное, я бы больше внимания уделял своей безопасности.//(9.470061,12.88294)\\\\И все же не стоит упускать такой хороший момент.//(12.88294,17.56583)\\\\Говорят, кто-то нашел здесь одну классическую видеоигру. Недооцененный шедевр.//(17.56583,21.73251)\\\\Пожалуй, стоит поиграть. Может быть, даже застримить.//(21.73251,51.73251)\\\\Хотя, в этом случае, нас сразу запеленгуют и сюда тут же налетят бомбардировщики.",
+			"cn": "//(0,3.8)\\\\四个小时......到这来是越来越难了。//(3.8,8.5)\\\\如果我是那种善于分析的人，我就会预料到会发生某种袭击。//(8.5,12)\\\\不过，我觉得还是没必要浪费时间吧？//(12,17)\\\\显然，他们在这里发现了一款经典电子游戏。有点像被人遗忘的宝藏。//(17,19.3)\\\\我想我愿意试一试。//(19.3,49.3)\\\\也许还可以发送走？但那样会招来空袭，对吗？",
+			"tc": "//(0,3.8)\\\\四個小時......來這裡是越來越難了。//(3.8,8.5)\\\\如果我屬於分析型說服者，我會預料到會受到某種描述的攻擊。//(8.5,12)\\\\不過，我想沒必要浪費時間吧？//(12,17)\\\\顯然，他們在這裡發現了一款經典的電子遊戲。有點無意間發現的寶石。//(17,19.3)\\\\我想我想嘗試一下。//(19.3,49.3)\\\\也許甚至可以傳輸它？除非這會帶給我們空襲，對嗎？",
+			"jp": "//(0,3.8)\\\\Four hours. Coming here is getting harder.//(3.8,8.5)\\\\If I were of the analytical persuasion, I’d expect an assault of some description.//(8.5,12)\\\\Still, no need to waste a moment, I’d think?//(12,17)\\\\Apparently, they found a classic video game here. A bit of an overseen gem.//(17,19.3)\\\\I think I’d like to give it a bit of a try.//(19.3,49.3)\\\\Perhaps even stream it? Except that would bring an airstrike in on us, am I right?"
+		}
+	}
+}

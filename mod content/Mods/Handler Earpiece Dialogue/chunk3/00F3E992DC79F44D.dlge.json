@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/bulldog/41000_elusive/41000_bramble/41000_bramble_handler/ds41515_targetescortdown.sweetdialog?/ds41515_targetescortdown_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41515_targetescortdown_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/bulldog/41000_elusive/41000_bramble/41000_bramble_handler/ds41515_targetescortdown_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/bulldog/41000_elusive/41000_bramble/41000_bramble_handler/ds41515_targetescortdown_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\I see what you're doing, 47. Helping the target along to locate the painting.",
+			"fr": "//(0,30)\\\\Je vois ce que vous faites, 47. Vous aidez la cible à trouver le tableau.",
+			"it": "//(0,30)\\\\Ho capito cos'hai in mente, 47. Vuoi aiutare il bersaglio a localizzare il dipinto.",
+			"de": "//(0,30)\\\\Ich merke schon, was Sie da treiben, 47. Sie helfen dem Ziel, das Gemälde zu finden.",
+			"es": "//(0,30)\\\\Ya veo lo que pretendes, 47: ayudas al objetivo a encontrar el cuadro.",
+			"ru": "//(0,30)\\\\А-а-а, вот что ты задумал, 47-й! Хочешь помочь цели найти картину?",
+			"cn": "//(0,30)\\\\我知道你要做什么，47。帮助目标以找到画作的位置。",
+			"tc": "//(0,30)\\\\我知道你在做什麼了，47。你在幫目標來尋找畫作。",
+			"jp": "//(0,30)\\\\何をしているのか分かったわ、47。ターゲットを手伝って、絵を見つけようとしているのね。"
+		}
+	}
+}

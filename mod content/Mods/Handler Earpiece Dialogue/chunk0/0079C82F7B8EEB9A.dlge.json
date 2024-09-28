@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/golden/gecko/40000_handler/ds40003_stuyvesantid.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds40003_stuyvesantid_grey_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/gecko/40000_handler/ds40003_stuyvesantid_grey_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/gecko/40000_handler/ds40003_stuyvesantid_grey_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,2.790491)\\\\Right there... that's Marcus Stuyvesant.//(2.790491,7)\\\\Providence Partner, self-entitled and arrogant little worm.//(7,37)\\\\He might not look like much, but he's done more damage to the world than you could dream.",
+					"fr": "//(0,2.8)\\\\Là... voilà Marcus Stuyvesant.//(2.8,7.4)\\\\Partenaire de Providence, c'est une sale petite fouine arrogante qui se croit tout permis.//(7.4,12.167)\\\\Il n'a pas l'air comme ça, mais il a causé plus de tort à la planète et sa population que tu n'imagines.",
+					"it": "//(0,2.480293)\\\\Proprio là... Quello è Marcus Stuyvesant.//(2.480293,7.39747)\\\\È socio di Providence ed è un piccolo verme presuntuoso e arrogante.//(7.39747,9.47)\\\\Forse non sembra un tipo pericoloso,//(9.47,16.01134)\\\\ma ha causato più danni nel mondo di quanti tu possa mai immaginare.",
+					"de": "//(0,2.402146)\\\\Genau das ... ist Marcus Stuyvesant.//(2.402146,3.958612)\\\\Providence-Partner und ein arroganter kleiner//(3.958612,6.965332)\\\\Wurm voller Selbstüberschätzung.//(6.965332,8.934573)\\\\Er mag nicht nach viel aussehen,//(8.934573,11.0764)\\\\aber er hat der Welt mehr Schaden zugefügt,//(11.0764,12.167)\\\\als man sich je erträumen könnte.",
+					"es": "//(0,6.6)\\\\Ahí está... Ese es Marcus Stuyvesant. Socio de Providence. Un gusano arrogante y malcriado.//(7.55,12.167)\\\\Tal vez parezca poca cosa, pero le ha hecho más daño al mundo del que puedas imaginar.",
+					"ru": "//(0,2.472393)\\\\А это... Маркус Стейвесант.//(2.472393,5.71908)\\\\Партнер «Провиденса», эгоистичный и чванливый мелкий червяк.//(5.71908,35.71908)\\\\На вид неприметный, но причинивший миру столько вреда, что и представить трудно.",
+					"cn": "//(0,2.8)\\\\就在那里......那个人就是马库斯·斯图维森特。//(2.8,9)\\\\他是神意秘会的合伙人，自命不凡的臭虫。他看起来可能不足为虑，//(9,39)\\\\但他对这个世界造成的伤害，比你想的要大得多。",
+					"tc": "//(0,2.8)\\\\這邊......那就是馬克斯‧史岱文森。//(2.8,7.4)\\\\神意秘會的同夥，一名自以為是且高傲的鼠輩。//(7.4,37.4)\\\\他或許看起來沒什麼了不起的，但他對這個世界造成的危害已經超乎想像。",
+					"jp": "//(0,2.9)\\\\あそこだ... あれがマーカス・ストイフェサント。//(2.9,7.5)\\\\プロヴィデンスのパートナーで、うぬぼれていて傲慢な虫けらだ。//(7.5,37.5)\\\\ザコに見えるが、想像もできないほどの害を世界中に撒き散らかしている。"
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/italy/1000_virus/1000_handler/ds1060_carusoescape1.sweetdialog?/ds1060_carusoescape1_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds1060_carusoescape1_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_virus/1000_handler/ds1060_carusoescape1_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_virus/1000_handler/ds1060_carusoescape1_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\47, Caruso is heading for his seaplane. Don't allow him to escape.",
+			"fr": "//(0,30)\\\\47, Caruso se dirige vers son hydravion. Empêchez-le de prendre la fuite.",
+			"it": "//(0,2.964785)\\\\47, Caruso è diretto verso il suo idrovolante.//(2.964785,32.96479)\\\\Devi impedirgli di fuggire.",
+			"de": "//(0,30)\\\\47, Caruso ist unterwegs zu seinem Wasserflugzeug. Lassen Sie ihn nicht entkommen.",
+			"es": "//(0,2.6)\\\\47, Caruso se dirige a su hidroavión.//(2.6,32.6)\\\\No dejes que escape.",
+			"ru": "//(0,30)\\\\47-й, Карузо направляется к гидросамолету. Не дай ему сбежать.",
+			"cn": "//(0,30)\\\\47，卡鲁索正在前往他的水上飞机。别让他逃了。",
+			"tc": "//(0,30)\\\\47，卡魯索正在前往他的水上飛機。別讓他逃了。",
+			"jp": "//(0,30)\\\\カルーソーは飛行機に向かってるわ。逃がさないで。"
+		}
+	}
+}

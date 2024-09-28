@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/tutorial/9000_handler/ds9227_target.sweetdialog?/ds9227_target_young_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds9227_target_young_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/tutorial/9000_handler/ds9227_target_young_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/tutorial/9000_handler/ds9227_target_young_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.329)\\\\That is your target. Mr. Ritter.//(2.329,5.65)\\\\Unfortunately, the place is crawling with witnesses.//(5.65,35.65)\\\\I suggest you follow him. See if you can’t isolate him.",
+			"fr": "//(0,1.224294)\\\\Voilà votre cible,//(1.424294,2.86049)\\\\M. Ritter.//(3.06049,5.839079)\\\\Malheureusement, la zone grouille de témoins.//(6.089079,7.447668)\\\\Je vous suggère de le suivre.//(7.447668,37.44767)\\\\Essayez de trouver un moyen de l'isoler.",
+			"it": "//(0,2.828589)\\\\Quello è Ritter, il tuo bersaglio.//(2.828589,5.8)\\\\Purtroppo per noi, la zona brulica di testimoni.//(5.8,35.8)\\\\Ti consiglio di seguirlo. Trova un modo per isolarlo.",
+			"de": "//(0,2.828589)\\\\Das ist Ihr Ziel, Mr Ritter.//(2.828589,5.887178)\\\\Leider wimmelt es hier von Zeugen.//(5.887178,35.88718)\\\\Ich schlage vor, Sie folgen ihm. Vielleicht können Sie ihn isolieren.",
+			"es": "//(0,2.907)\\\\Ese es el objetivo, el señor Ritter.//(2.907,5.7)\\\\Por desgracia, el sitio está lleno de testigos.//(5.7,35.7)\\\\Te sugiero que lo sigas, a ver si consigues aislarlo.",
+			"ru": "//(0,1.683)\\\\Это твоя цель.//(1.683,2.995)\\\\Мистер Риттер.//(2.995,5.89)\\\\К сожалению, здесь полно свидетелей.//(5.89,35.89)\\\\Лучше последить за ним. Посмотри, сможешь ли ты его изолировать.",
+			"cn": "//(0,2.618098)\\\\那就是你的目标：利特先生。//(2.618098,7.318098)\\\\很不幸，这里到处都是目击者。我建议你跟着他。//(7.318098,37.3181)\\\\看能否让他独处。",
+			"tc": "//(0,2.8)\\\\那就是你的目標：里特先生。//(2.8,5.9)\\\\很不幸，這裡到處都是目擊者。//(5.9,35.9)\\\\我建議你跟著他。找找看跟他獨處的機會。",
+			"jp": "//(0,4.5)\\\\彼がターゲットのリッターよ。 でもここは人目が多すぎるわ。//(4.5,8.747458)\\\\彼の後を追って、二人っきりになる機会を探って。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_handler/dr8610_diana.sweetdialog?/dr8610_diana_diana_et_010.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8610_diana_diana_et_010",
+		"soundtag": "Voiceover_Handler",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_handler/dr8610_diana_diana_et_010.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_handler/dr8610_diana_diana_et_010.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,2.828589)\\\\That's the primary target eliminated, then.//(2.828589,5.823375)\\\\We'll need to improvise to locate the others.//(5.823375,9.220061)\\\\Just a moment, please. I have something.//(9.220061,14.12632)\\\\He was supposed to meet someone from the hacker group, the spec ops group and the demolitions group.//(14.12632,44.12632)\\\\Not sure who specifically, though. Look for anyone doing anything out of the ordinary.",
+			"fr": "//[DIANA]\\\\//(0,2.77)\\\\La cible principale a été éliminée, donc.//(2.77,5.93)\\\\Nous allons devoir improviser pour localiser les autres.//(5.93,9)\\\\Un instant, s'il vous plaît. J'ai quelque chose.//(9,14.35)\\\\Il était censé rencontrer quelqu'un du groupe des hackers, du groupe des opérations spéciales, et du groupe des explosifs.//(14.35,16.4)\\\\Je ne suis pas certaine de savoir qui en particulier, par contre.//(16.4,46.4)\\\\Cherchez quelqu'un n'agissant pas de manière ordinaire.",
+			"it": "//[DIANA]\\\\//(0,5.341)\\\\Il bersaglio primario è stato eliminato, quindi... per trovare gli altri saremo costretti a improvvisare.//(5.841,8.838)\\\\Aspetta un attimo. Ok, ho qualche informazione.//(8.838,14.215)\\\\Pare dovesse vedersi con uno degli hacker, uno degli agenti speciali e uno degli esperti di esplosivi.//(14.215,44.215)\\\\Purtroppo non so dirti chi in particolare. Cerca di far caso a comportamenti anomali.",
+			"de": "//[DIANA]\\\\//(0,2.7)\\\\Die primäre Zielperson wurde eliminiert.//(2.7,5.9)\\\\Wir müssen improvisiseren, um die anderen zu finden.//(5.9,9.2)\\\\Einen Moment bitte. Das könnte hilfreich sein.//(9.2,16.4)\\\\Er sollte jemanden aus der Hackergruppe, der Spezialeinheit und dem Sprengstofftrupp empfangen. Ich bin aber nicht sicher wen.//(16.4,46.4)\\\\Halten Sie nach verdächtigem Verhalten Ausschau.",
+			"es": "//[DIANA]\\\\//(0,5.785276)\\\\El objetivo principal ha sido eliminado. Tendremos que improvisar para encontrar al resto.//(5.785276,8.807668)\\\\Un momento. Tengo información.//(8.807668,12.731)\\\\Tenía que reunirse con un miembro del equipo de hackers, uno de operaciones especiales//(12.731,16.33)\\\\y otro del grupo de explosivos. No sabemos quienes son exactamente.//(16.33,46.33)\\\\Fíjate en cualquiera que esté haciendo algo fuera de lo habitual.",
+			"ru": "//[DIANA]\\\\//(0,2.6)\\\\Значит, основная цель устранена.//(2.6,5.28908)\\\\Нам нужно будет импровизировать, чтобы найти остальных.//(5.28908,7)\\\\Одну секунду...//(7.5,9)\\\\У меня есть сведения.//(9,14.03718)\\\\Он должен был встретиться с кем-то из группы хакеров, спецназовцев и подрывников.//(14.03718,16.34767)\\\\Не уверена, с кем именно.//(16.34767,46.34767)\\\\Попробуй установить, кто делает что-то из ряда вон выходящее.",
+			"cn": "//[DIANA]\\\\//(0,2.828589)\\\\那么，主要目标就这样被消灭了。//(2.828589,5.823375)\\\\我们需要随机应变来寻找其他目标了。//(5.823375,9.220061)\\\\请稍等片刻，我这里有些情报。//(9.220061,14.12632)\\\\他本来应该要去会见黑客小组、特种作战小组和爆破小组的人。//(14.12632,44.12632)\\\\不过，我们不确定具体是谁。找找看有没有人做出异常举动。",
+			"tc": "//[DIANA]\\\\//(0,2.828589)\\\\那麼，主要目標就這樣被消滅了。//(2.828589,5.823375)\\\\我們需要即興發揮來找到其他目標了。//(5.823375,9.220061)\\\\請稍等片刻，我有了些情報。//(9.220061,14.12632)\\\\他本来應該要去會見駭客小組、特殊行動小組和爆破小組的人。//(14.12632,44.12632)\\\\但是，我們不確定具體是誰。尋找看看有沒有做出異常舉動的人。",
+			"jp": "//[DIANA]\\\\//(0,2.828589)\\\\That's the primary target eliminated, then.//(2.828589,5.823375)\\\\We'll need to improvise to locate the others.//(5.823375,9.220061)\\\\Just a moment, please. I have something.//(9.220061,14.12632)\\\\He was supposed to meet someone from the hacker group, the spec ops group and the demolitions group.//(14.12632,44.12632)\\\\Not sure who specifically, though. Look for anyone doing anything out of the ordinary."
+		}
+	}
+}

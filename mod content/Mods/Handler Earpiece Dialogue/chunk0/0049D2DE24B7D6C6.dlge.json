@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/golden/gecko/40000_story/dr40131_greystorymeetingbrief.sweetdialog?/dr40131_greystorymeetingbrief_grey_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr40131_greystorymeetingbrief_grey_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/gecko/40000_story/dr40131_greystorymeetingbrief_grey_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/gecko/40000_story/dr40131_greystorymeetingbrief_grey_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,5.7)\\\\Sheikh Al-Ghazali is reaching out to his worldwide network of lawyers and financial contacts,//(5.7,9.95)\\\\attempting to restore the lost powerbase of the Providence Partners.",
+			"fr": "//(0,3.9)\\\\Son Altesse Royale Al-Ghazali fait appel à son réseau mondial d'avocats//(3.9,9.95)\\\\et de contacts financiers pour essayer de rétablir la puissance perdue des partenaires de Providence.",
+			"it": "//(0,5.153)\\\\Sua Altezza Reale Al-Ghazali sta contattando la sua rete mondiale di banche e avvocati//(5.153,11.07055)\\\\per cercare di ripristinare la rete di potere dei soci di Providence.",
+			"de": "//(0,2.400869)\\\\Seine Königliche Hoheit Al-Ghazali hat sich an//(2.400869,4.801737)\\\\sein weltweites Netz aus Anwälten und Kontakten//(4.801737,6.285474)\\\\in der Finanzwelt gewandt,//(6.285474,7.42623)\\\\in dem Bemühen,//(7.42623,8.798156)\\\\die geschwundene Machtbasis der//(8.798156,9.95)\\\\Providence-Partner wiederherzustellen.",
+			"es": "//(0,5.521472)\\\\Su alteza real Al-Ghazali está recurriendo a su red mundial de abogados y contactos financieros//(5.521472,35.52147)\\\\en un intento por restaurar la base de poder que han perdido los socios de Providence.",
+			"ru": "//(0,5.337)\\\\Шейх аль-Газали задействовал свою всемирную сеть юристов и финансистов,//(5.337,35.337)\\\\чтобы вернуть партнерам «Провиденса» утраченное влияние.",
+			"cn": "//(0,5.5)\\\\埃卡扎里酋长正在联系他全球的律师和金融伙伴，//(5.5,35.5)\\\\想要重新恢复神意秘会同伙的权力基础。",
+			"tc": "//(0,5.9)\\\\阿爾加薩里酋長正在聯繫他的律師與財務人脈，//(5.9,35.9)\\\\並試圖恢復神意秘會同夥所失去的權力後盾。",
+			"jp": "//(0,5.568)\\\\シャイフ・アル＝ガザーリーは、世界中の弁護士や金融関係のコネに連絡を取っている。//(5.568,35.568)\\\\プロヴィデンスのパートナーたちの失われた基盤を取り戻そうとしているようだ。"
+		}
+	}
+}

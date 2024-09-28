@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/marrakech/6000_elusive/6000_cosmopolitan/6000_cosmopolitan_handler/dr6600_diana.sweetdialog?/dr6600_diana_diana_et_010.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr6600_diana_diana_et_010",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/6000_elusive/6000_cosmopolitan/6000_cosmopolitan_handler/dr6600_diana_diana_et_010.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/6000_elusive/6000_cosmopolitan/6000_cosmopolitan_handler/dr6600_diana_diana_et_010.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA_ET]\\\\//(0,30)\\\\Your target is most likely to be in or near the consulate.",
+			"fr": "//[DIANA_ET]\\\\//(0,30)\\\\Votre cible doit se trouver au consulat ou dans ses environs.",
+			"it": "//[DIANA_ET]\\\\//(0,30)\\\\Il bersaglio dovrebbe trovarsi all'interno o nei pressi del consolato.",
+			"de": "//[DIANA_ET]\\\\//(0,30)\\\\Ihr Ziel ist vermutlich im Konsulat oder nicht weit davon entfernt.",
+			"es": "//[DIANA_ET]\\\\//(0,30)\\\\Lo más probable es que tu objetivo esté dentro del consulado o cerca de él.",
+			"ru": "//[DIANA_ET]\\\\//(0,30)\\\\Цель должна быть в консульстве или где-то рядом.",
+			"cn": "//[DIANA_ET]\\\\//(0,30)\\\\你的目标很有可能在领事馆内部或附近。",
+			"tc": "//[DIANA_ET]\\\\//(0,30)\\\\你的目標最有可能會在領事館附近。",
+			"jp": "//[DIANA_ET]\\\\//(0,30)\\\\標的は領事館か周辺にいるはずよ。"
+		}
+	}
+}

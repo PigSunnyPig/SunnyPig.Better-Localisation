@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/12500_white_spider/12500_rabies/12500_handler/ds12524_killfinal.sweetdialog?/ds12524_killfinal_diana_ws_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds12524_killfinal_diana_ws_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12524_killfinal_diana_ws_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12524_killfinal_diana_ws_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\And that's the last of them. Poor bastards.",
+			"fr": "//(0,30)\\\\Et voilà le dernier. Pauvres imbéciles.",
+			"it": "//(0,30)\\\\E quello era l'ultimo. Poveri bastardi.",
+			"de": "//(0,30)\\\\Und das war der Letzte. Arme Kerle.",
+			"es": "//(0,30)\\\\Y ese era el último. Pobres desgraciados.",
+			"ru": "//(0,30)\\\\И это был последний. Бедняги.",
+			"cn": "//(0,30)\\\\这是最后一个了。可怜的家伙们。",
+			"tc": "//(0,30)\\\\這是最後一個了。可憐的傢伙們。",
+			"jp": "//(0,30)\\\\今ので 最後よ。 お気の毒様。"
+		}
+	}
+}

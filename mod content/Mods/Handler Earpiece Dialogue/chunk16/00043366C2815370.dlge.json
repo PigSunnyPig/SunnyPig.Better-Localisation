@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_skunk/27000_handler/ds27019_handlerintelclue9.sweetdialog?/ds27019_handlerintelclue9_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds27019_handlerintelclue9_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_skunk/27000_handler/ds27019_handlerintelclue9_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_skunk/27000_handler/ds27019_handlerintelclue9_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,2.905028)\\\\Janus is looking for an old group photo.//(2.905028,4.751021)\\\\It might be interesting to see who's on it.",
+			"fr": "//[DIANA]\\\\//(0,2.8)\\\\Janus cherche une vieille photo de groupe.//(2.8,6.894698)\\\\Il pourrait être intéressant de savoir qui est dessus.",
+			"it": "//[DIANA]\\\\//(0,4.751021)\\\\Janus sta cercando una vecchia foto di gruppo, potrebbe essere interessante vedere chi ritrae.",
+			"de": "//[DIANA]\\\\//(0,1.744259)\\\\Janus sucht nach einem alten Gruppenfoto.//(1.744259,3.243808)\\\\Könnte es da nicht interessant sein,//(3.243808,4.751021)\\\\wer darauf zu sehen ist?",
+			"es": "//[DIANA]\\\\//(0,2.6)\\\\Janus está buscando una foto antigua de un grupo.//(2.6,4.980844)\\\\Tal vez resulte interesante ver quién aparece en ella.",
+			"ru": "//[DIANA]\\\\//(0,2.883015)\\\\Янус ищет старый групповой снимок.//(2.883015,3.664156)\\\\Интересно было бы глянуть,//(3.664156,4.751021)\\\\кто на нем запечатлен.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\杰纳斯正在找一张旧合影。合影里都有谁呢？或许值得一查。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\傑納斯正在找一張舊合影。合影裡有誰呢？或許值得一查。",
+			"jp": "//[DIANA]\\\\//(0,30)\\\\ヤヌスは古い集合写真を探しているわ。誰が写っているか気にならない？"
+		}
+	}
+}

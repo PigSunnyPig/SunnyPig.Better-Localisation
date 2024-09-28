@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8613_hackersession.sweetdialog?/dr8613_hackersession_paine_et_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8613_hackersession_paine_et_001",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8613_hackersession_paine_et_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8613_hackersession_paine_et_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Hello Ryan, thank you so much for taking the time to come and see me.",
+			"fr": "//(0,1.19)\\\\Bonjour Ryan.//(1.19,31.19)\\\\Merci beaucoup d'avoir pris le temps de venir me voir.",
+			"it": "//(0,30)\\\\Ciao Ryan, grazie per aver trovato del tempo da dedicarmi.",
+			"de": "//(0,30)\\\\Hallo, Ryan! Danke, dass Sie sich die Zeit nehmen, zu mir zu kommen.",
+			"es": "//(0,30)\\\\Hola, Ryan, muchas gracias por sacar tiempo para venir a verme.",
+			"ru": "//(0,30)\\\\Привет, Райан. Спасибо, что нашли время увидеться со мной.",
+			"cn": "//(0,30)\\\\你好，莱恩，非常感谢你愿意抽出时间来见我。",
+			"tc": "//(0,30)\\\\你好，瑞安，非常感謝你願意抽出時間來見我。",
+			"jp": "//(0,30)\\\\Hello Ryan, thank you so much for taking the time to come and see me."
+		}
+	}
+}

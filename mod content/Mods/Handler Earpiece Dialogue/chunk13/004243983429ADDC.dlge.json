@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32003_sp_spiderlilyid.sweetdialog?/ds32003_sp_spiderlilyid_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32003_sp_spiderlilyid_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32003_sp_spiderlilyid_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32003_sp_spiderlilyid_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.789)\\\\That is Captain Re Thak, AKA Spider Lily.//(3.789,33.789)\\\\Gifted recruiter and intelligence officer in the Heavenly Guard.",
+			"fr": "//(0,4.065)\\\\Voilà la capitaine Re Thak, appelé \"Spider Lily\".//(4.065,34.065)\\\\C'est une recruteuse née de la Garde céleste, spécialisée dans les renseignements.",
+			"it": "//(0,30)\\\\Quella è il capitano Re Thak, altrimenti nota come \"Giglio ragno\". Ottima reclutatrice e agente segreto della Guardia celestiale.",
+			"de": "//(0,30)\\\\Das ... ist Hauptmann Re Thak alias „die Spinnenlilie“. Sie ist eine sehr begabte Ausbilderin und Spionage-Offizierin der Himmlischen Garde.",
+			"es": "//(0,30)\\\\Esa... es la capitana Re Thak, alias «Lirio Araña». Es la reclutadora de la Guardia Celestial, así como una agente de inteligencia con mucho talento.",
+			"ru": "//(0,4.126687)\\\\Это... капитан Ре Так по прозвищу Ликорис.//(4.126687,34.12669)\\\\Отличная вербовщица и талантливая разведчица из «Небесной гвардии».",
+			"cn": "//(0,30)\\\\那人......就是萨丽上尉，外号“蜘蛛兰”。是神圣护卫中十分有天赋的招募官和情报官。",
+			"tc": "//(0,30)\\\\那是......卓雷上尉，綽號「彼岸花」。天衛中一名才華洋溢的招募員和情報官。",
+			"jp": "//(0,3.88)\\\\あれはレ・タク大尉、別名「ヒガンバナ」。//(3.88,33.88)\\\\天の警護の有能なスカウト役で諜報員。"
+		}
+	}
+}

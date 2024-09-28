@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/bulldog/41000_handler/ds41021_handlersuicideletter.sweetdialog?/ds41021_handlersuicideletter_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41021_handlersuicideletter_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/bulldog/41000_handler/ds41021_handlersuicideletter_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/bulldog/41000_handler/ds41021_handlersuicideletter_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,5.6)\\\\Zachary’s suicide note. Also, a sample of handwriting.//(5.6,35.6)\\\\It could be relevant to compare to other samples to establish its authenticity.",
+			"fr": "//(0,5.7)\\\\Les derniers mots de Zachary, ainsi qu'un échantillon d'écriture.//(5.7,35.7)\\\\Vous pourriez le comparer à d'autres échantillons pour vérifier son authenticité.",
+			"it": "//(0,2.340491)\\\\Il biglietto d'addio di Zachary.//(2.340491,32.34049)\\\\È anche un campione della sua grafia, può servire per confrontarlo con altri campioni per stabilirne l'autenticità.",
+			"de": "//(0,2.436196)\\\\Zacharys Abschiedsbrief.//(2.436196,5.444785)\\\\Und eine Vorlage für seine Handschrift.//(5.444785,35.44479)\\\\Das könnte noch relevant werden, wenn Sie den Brief mit anderen Schriftstücken bezüglich deren Echtheit abgleichen müssen.",
+			"es": "//(0,5.785276)\\\\La carta de suicidio de Zachary. También es una muestra de su caligrafía.//(5.785276,35.78527)\\\\Quizás sea interesante compararla con otras muestras para determinar si es auténtica.",
+			"ru": "//(0,2.4)\\\\Предсмертная записка Закари —//(2.4,3.812883)\\\\а заодно и образец его почерка.//(3.812883,8.4)\\\\Надо бы сравнить его с другими образцами,//(8.4,38.4)\\\\чтобы проверить подлинность записки.",
+			"cn": "//(0,5.5)\\\\扎切里的自杀字条。这也是一份字迹样本。//(5.5,35.5)\\\\可以跟其他样本进行比对，以验证它的真实性。",
+			"tc": "//(0,5.6)\\\\札卡里的遺書。還有他的筆跡樣本。//(5.6,35.6)\\\\或許能夠透過比對其他樣本來證實它的真偽。",
+			"jp": "//(0,5.7)\\\\ザカリーの遺書ね。筆跡サンプルになるわ。//(5.7,35.7)\\\\他のサンプルと比較すれば、本物かどうかわかるかもしれない。"
+		}
+	}
+}

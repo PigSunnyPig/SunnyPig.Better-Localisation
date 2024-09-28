@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32014_sp_blademoveshostages.sweetdialog?/ds32014_sp_blademoveshostages_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32014_sp_blademoveshostages_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32014_sp_blademoveshostages_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32014_sp_blademoveshostages_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\The Blade is escorting the hostages. If they reach the ship, the mission will be a failure.",
+			"fr": "//(0,30)\\\\La lame escorte les otages. S'ils atteignent le cargo, c'est l'échec de la mission.",
+			"it": "//(0,30)\\\\La Lama sta scortando gli ostaggi. Se dovessero raggiungere la nave, la missione fallirà.",
+			"de": "//(0,30)\\\\Die Klinge eskortiert die Geiseln. Wenn sie das Schiff erreichen, ist die Mission ein Fehlschlag.",
+			"es": "//(0,30)\\\\La Hoja está escoltando a los rehenes. Si llegan al barco, habremos fracasado en nuestra misión.",
+			"ru": "//(0,1.954294)\\\\Клинок сопровождает заложников.//(1.954294,31.95429)\\\\Если они попадут на корабль, задание будет провалено.",
+			"cn": "//(0,30)\\\\刀锋勇士正在护送人质。如果他们登上货船，则任务失败。",
+			"tc": "//(0,30)\\\\刀鋒正在護送人質，他們抵達船上的話，任務就會失敗。",
+			"jp": "//(0,30)\\\\刃が人質を連れている。船までたどり着いたら、任務は失敗よ。"
+		}
+	}
+}

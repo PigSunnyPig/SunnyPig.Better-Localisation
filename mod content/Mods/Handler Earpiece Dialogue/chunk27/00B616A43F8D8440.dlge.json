@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_fashion/3000_handler/ds3332_oppfireworksbriefing.sweetdialog?/ds3332_oppfireworksbriefing_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds3332_oppfireworksbriefing_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_fashion/3000_handler/ds3332_oppfireworksbriefing_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_fashion/3000_handler/ds3332_oppfireworksbriefing_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.110491)\\\\According to the pyrotechnician’s schedule,//(2.110491,7.045767)\\\\Novikov plans a grand fireworks display at the end of the Sanguine show.//(7.045767,12.09914)\\\\Not a bad distraction. The fireworks are located on a barge in the Seine.//(12.09914,42.09914)\\\\However, first you need to find the detonation remote.",
+			"fr": "//(0,6.9)\\\\D'après le planning du pyrotechnicien, Novikov a prévu un feu d'artifice à la fin du défilé Sanguine.//(6.9,12)\\\\Voilà un excellent moyen de détourner l'attention. Les fusées se trouvent sur une barge amarrée sur la Seine.//(12,42)\\\\En revanche, il vous faudra d'abord trouver la télécommande permettant de les amorcer.",
+			"it": "//(0,3.064785)\\\\Stando alla scaletta, Novikov vuole concludere la sfilata//(3.064785,6.891472)\\\\della Sanguine con uno sfarzoso spettacolo pirotecnico.//(6.891472,8.981963)\\\\Pare un diversivo niente male.//(8.981963,11.98104)\\\\I fuochi d'artificio sono a bordo di una chiatta sulla Senna.//(11.98104,41.98104)\\\\Ma prima dovrai trovare il telecomando del detonatore.",
+			"de": "//(0,6.853374)\\\\Laut des Zeitplans des Pyrotechnikers wird Novikov nach der Sanguine-Show ein prächtiges Feuerwerk abbrennen.//(6.853374,8.957668)\\\\Keine schlechte Ablenkung.//(8.957668,38.95767)\\\\Die Raketen sind auf einem Kahn in der Seine aufgebaut. Aber erst einmal müssen Sie den Fernzünder finden.",
+			"es": "//(0,6.8)\\\\Según el programa de fuegos artificiales, Novikov tiene preparado un espectáculo pirotécnico al término del desfile de Sanguine.//(6.8,8.9)\\\\No es mal elemento distractor.//(8.9,11.8)\\\\Los fuegos artificiales se encuentran en una barcaza del Sena.//(11.8,41.8)\\\\No obstante, antes tendrás que encontrar el detonador a distancia.",
+			"ru": "//(0,2.492)\\\\Судя по расписанию пиротехников,//(2.492,7.1)\\\\Новиков планирует в конце показа «Сэнгвин» устроить грандиозный фейерверк.//(7.1,9.1)\\\\Неплохой способ отвлечь внимание.//(9.1,11.9)\\\\Пиротехника установлена на барже на Сене.//(11.9,41.9)\\\\Но сначала придется найти дистанционный детонатор.",
+			"cn": "//(0,2.3)\\\\根据烟火专家的计划，//(2.3,6.5)\\\\诺维科夫在桑甘表演的最后组织了一场盛大的烟火演出。//(6.5,8.5)\\\\这能吸引很多人的注意力。//(8.5,11.6)\\\\烟火在塞纳河上的一条驳船里。//(11.6,41.6)\\\\不过，你先得找到引爆遥控器。",
+			"tc": "//(0,6.7)\\\\根據煙火專家的計畫，諾維科夫在桑甘表演的最後組織了一場盛大的煙火演出。//(6.7,11.7)\\\\這是不錯的娛樂。煙火在塞納河上的一條駁船裡。//(11.7,41.7)\\\\不過，你先得找到引爆遙控器。",
+			"jp": "//(0,5.587261)\\\\ノビコフは ファッションショーの 締めくくりに、 盛大な花火を 打ち上げるみたい。 観衆の 目を//(5.587261,12.77088)\\\\引きつけるには もってこいね。 花火は セーヌ川に 浮かぶ船の 上。 でも、 まずは花火の 遠隔装置が//(12.77088,14.93927)\\\\必要ね。"
+		}
+	}
+}

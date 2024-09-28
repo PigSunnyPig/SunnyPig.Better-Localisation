@@ -1,0 +1,68 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/12500_white_spider/12500_rabies/12500_handler/ds12579_finalhintsmoking.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds12579_finalhintsmoking_diana_ws_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12579_finalhintsmoking_diana_ws_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12579_finalhintsmoking_diana_ws_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\He's lighting a cigarette.",
+					"fr": "//(0,30)\\\\Il allume une cigarette.",
+					"it": "//(0,30)\\\\Si sta accendendo una sigaretta.",
+					"de": "//(0,30)\\\\Er zündet sich eine Zigarette an.",
+					"es": "//(0,30)\\\\Se están encendiendo un cigarrillo.",
+					"ru": "//(0,30)\\\\Зажигает сигарету.",
+					"cn": "//(0,30)\\\\他正在点烟。",
+					"tc": "//(0,30)\\\\他正在點煙。",
+					"jp": "//(0,30)\\\\彼は タバコに 火を つけてる。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds12579_finalhintsmoking_diana_ws_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12579_finalhintsmoking_diana_ws_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12579_finalhintsmoking_diana_ws_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\He's smoking a cigarette, right now.",
+					"fr": "//(0,30)\\\\Il est en train de fumer une cigarette.",
+					"it": "//(0,30)\\\\Sta fumando una sigaretta, in questo momento.",
+					"de": "//(0,30)\\\\Er raucht eine Zigarette, in diesem Moment.",
+					"es": "//(0,30)\\\\Ahora se está fumando un cigarrillo.",
+					"ru": "//(0,30)\\\\Он сейчас курит.",
+					"cn": "//(0,30)\\\\现在他正抽烟呢。",
+					"tc": "//(0,30)\\\\現在他正抽煙呢。",
+					"jp": "//(0,30)\\\\彼は タバコを 吸ってるわ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds12579_finalhintsmoking_diana_ws_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12579_finalhintsmoking_diana_ws_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12579_finalhintsmoking_diana_ws_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\He's smoking now.",
+					"fr": "//(0,30)\\\\Il fume une cigarette.",
+					"it": "//(0,30)\\\\Ora sta fumando.",
+					"de": "//(0,30)\\\\Er raucht jetzt.",
+					"es": "//(0,30)\\\\Está fumando.",
+					"ru": "//(0,30)\\\\Он курит.",
+					"cn": "//(0,30)\\\\他正在抽烟。",
+					"tc": "//(0,30)\\\\他正在抽煙。",
+					"jp": "//(0,30)\\\\彼は タバコを 吸ってる。"
+				}
+			}
+		]
+	}
+}

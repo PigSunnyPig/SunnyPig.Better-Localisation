@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8612_sessioncallins.sweetdialog?/dr8612_sessioncallins_paine_et_003.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8612_sessioncallins_paine_et_003",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8612_sessioncallins_paine_et_003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8612_sessioncallins_paine_et_003.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.1)\\\\Jeffersen, it’s Doctor Paine. Yes, I’m ready for you now.//(3.1,33.1)\\\\Please come over and join me. I’m in Mr. Rose’s study.",
+			"fr": "//(0,1.85)\\\\Jeffersen, c'est le Docteur Paine.//(1.85,5.25)\\\\Oui, je suis prêt à vous recevoir. Rejoignez-moi.//(5.25,35.25)\\\\Je suis dans le bureau de Rose.",
+			"it": "//(0,1.760491)\\\\Jeffersen, sono il dottor Paine.//(1.760491,5.05)\\\\Sì, posso vederti ora. Raggiungimi.//(5.05,35.05)\\\\Sono nello studio del signor Rose.",
+			"de": "//(0,3.4)\\\\Jeffersen, hier ist Doktor Paine. Ich wäre jetzt so weit.//(3.4,33.4)\\\\Kommen Sie bitte zu mir. Ich bin im Arbeitszimmer von Mr Rose.",
+			"es": "//(0,30)\\\\Jeffersen, soy el doctor Paine. Sí, estoy listo para tu sesión. Ven a verme, estoy en el estudio del señor Rose.",
+			"ru": "//(0,2.092393)\\\\Джефферсен, это доктор Пейн.//(2.092393,5)\\\\Да, я готов вас принять. Жду вас у себя.//(5,35)\\\\Я в кабинете мистера Роуза.",
+			"cn": "//(0,3.1)\\\\杰弗森，我是佩恩医生。是的，我现在已经准备好了。//(3.1,33.1)\\\\请过来见我。我在罗斯先生的书房里。",
+			"tc": "//(0,3.1)\\\\傑佛森，我是佩恩醫生。是的，我現在已經準備好了。//(3.1,33.1)\\\\請過來見我。我在羅斯先生的書房裡。",
+			"jp": "//(0,3.1)\\\\Jeffersen, it’s Doctor Paine. Yes, I’m ready for you now.//(3.1,33.1)\\\\Please come over and join me. I’m in Mr. Rose’s study."
+		}
+	}
+}

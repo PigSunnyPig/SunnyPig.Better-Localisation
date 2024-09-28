@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/marrakech/6000_coup/6000_handler/ds6005_strandbergdown.sweetdialog?/ds6005_strandbergdown_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds6005_strandbergdown_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/6000_coup/6000_handler/ds6005_strandbergdown_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/6000_coup/6000_handler/ds6005_strandbergdown_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Target down. Next up, Reza Zaydan.",
+			"fr": "//(0,30)\\\\Cible éliminée. Suivante : Reza Zaydan.",
+			"it": "//(0,30)\\\\Bersaglio eliminato. E ora, Reza Zaydan.",
+			"de": "//(0,30)\\\\Ziel neutralisiert. Nächstes Ziel: Reza Zaydan.",
+			"es": "//(0,1.236196)\\\\Objetivo eliminado.//(1.236196,31.2362)\\\\El siguiente es Reza Zaydan.",
+			"ru": "//(0,30)\\\\Цель уничтожена. Следующий — Реза Зейдан.",
+			"cn": "//(0,30)\\\\目标已被消灭。接下来，雷扎·泽丹。",
+			"tc": "//(0,30)\\\\目標確認擊殺。接下來，禮薩．扎伊丹。",
+			"jp": "//(0,30)\\\\ターゲット・ダウン。次は、レーザ・ゼイダンよ。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32013_sp_spidermoveshostages.sweetdialog?/ds32013_sp_spidermoveshostages_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32013_sp_spidermoveshostages_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32013_sp_spidermoveshostages_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32013_sp_spidermoveshostages_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\47, I'm seeing movement. Spider Lily is escorting the hostages towards the ship.",
+			"fr": "//(0,30)\\\\47... Je vois du mouvement. Spider Lily escorte les otages vers le cargo.",
+			"it": "//(0,30)\\\\47, vedo del movimento. Giglio ragno sta portando gli ostaggi verso la nave.",
+			"de": "//(0,30)\\\\47, ich sehe Bewegung. Die Spinnenlilie eskortiert die Geiseln in Richtung des Schiffs.",
+			"es": "//(0,30)\\\\47, veo movimiento. Lirio Araña está escoltando a los rehenes hacia el barco.",
+			"ru": "//(0,30)\\\\47-й, вижу движение. Ликорис ведёт заложников на корабль.",
+			"cn": "//(0,30)\\\\47，我发现了动静。蜘蛛兰正在护送人质朝货船移动。",
+			"tc": "//(0,30)\\\\47，我發現了行動，彼岸花正在護送人質前往船艦。",
+			"jp": "//(0,30)\\\\47、動きを捉えたわ。ヒガンバナは人質を船に連れていこうとしている。"
+		}
+	}
+}

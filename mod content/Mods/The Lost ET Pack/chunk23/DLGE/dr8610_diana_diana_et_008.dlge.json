@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_handler/dr8610_diana.sweetdialog?/dr8610_diana_diana_et_008.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8610_diana_diana_et_008",
+		"soundtag": "Voiceover_Handler",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_handler/dr8610_diana_diana_et_008.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_handler/dr8610_diana_diana_et_008.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,30)\\\\Peter is not a target, then. I do hope he gets treatment for that rash, though.",
+			"fr": "//[DIANA]\\\\//(0,2.15)\\\\Peter n'est donc pas une cible.//(2.15,32.15)\\\\J'espère tout de même qu'il aura un traitement pour ses rougeurs.",
+			"it": "//[DIANA]\\\\//(0,2.029)\\\\Peter non è un bersaglio, dunque.//(2.029,32.029)\\\\Spero comunque che riesca a farsi vedere quello sfogo da qualcuno.",
+			"de": "//[DIANA]\\\\//(0,30)\\\\Peter ist also kein Ziel. Ich hoffe jedoch, dass er etwas gegen diesen Ausschlag unternimmt.",
+			"es": "//[DIANA]\\\\//(0,2.046687)\\\\Así pues, Peter no es un objetivo.//(2.046687,32.04669)\\\\Espero que consiga un tratamiento para ese sarpullido.",
+			"ru": "//[DIANA]\\\\//(0,30)\\\\Похоже, Питер не цель. Надеюсь, он таки найдет лекарство от сыпи.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\那么，彼得就不是目标了。不过，我倒是真心希望他的皮疹能被治好。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\那麼，彼得就不是目標了。不過，我倒是確實希望他的皮疹能被治癒。",
+			"jp": "//[DIANA]\\\\//(0,30)\\\\Peter is not a target, then. I do hope he gets treatment for that rash, though."
+		}
+	}
+}

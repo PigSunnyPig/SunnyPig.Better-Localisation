@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colombia/23000_hippo/23000_handler/23000_hippo_flyin.sweetdialog?/23000_hippo_flyin_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "23000_hippo_flyin_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colombia/23000_hippo/23000_handler/23000_hippo_flyin_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colombia/23000_hippo/23000_handler/23000_hippo_flyin_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,4.5)\\\\Welcome to Colombia, 47.",
+			"fr": "//[DIANA]\\\\//(0,4.5)\\\\Bienvenue en Colombie, 47.",
+			"it": "//[DIANA]\\\\//(0,4.5)\\\\Benvenuto in Colombia, 47.",
+			"de": "//[DIANA]\\\\//(0,4.5)\\\\Willkommen in Kolumbien, 47.",
+			"es": "//[DIANA]\\\\//(0,4.5)\\\\Bienvenido a Colombia, 47.",
+			"ru": "//[DIANA]\\\\//(0,2.7)\\\\Добро пожаловать в Колумбию, 47.",
+			"cn": "//[DIANA]\\\\//(0,4.5)\\\\欢迎来到哥伦比亚，47。",
+			"tc": "//[DIANA]\\\\//(0,4.5)\\\\歡迎來到哥倫比亞，47。",
+			"jp": "//[DIANA]\\\\//(0,3.568)\\\\コロンビアへようこそ、47。"
+		}
+	}
+}

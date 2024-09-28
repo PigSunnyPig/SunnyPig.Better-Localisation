@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/rat/43000_handler/ds43413_controlleroliviaclearancegranted.sweetdialog?/ds43413_controlleroliviaclearancegranted_oliviahall_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds43413_controlleroliviaclearancegranted_oliviahall_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/rat/43000_handler/ds43413_controlleroliviaclearancegranted_oliviahall_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/rat/43000_handler/ds43413_controlleroliviaclearancegranted_oliviahall_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.7)\\\\Good, I’m in!//(1.7,31.7)\\\\And... you’re safe. That was a close one.",
+			"fr": "//(0,30)\\\\OK, j'y suis ! Et... tout est bon. C'était moins une.",
+			"it": "//(0,30)\\\\Bene, sono dentro! E... tu sei salvo. C'è mancato poco.",
+			"de": "//(0,30)\\\\Gut, ich bin drin! ... Und ... Sie sind sicher. Das war knapp.",
+			"es": "//(0,1.3)\\\\¡Bien, estoy dentro!//(1.9,4)\\\\Y tú estás a salvo.//(5.1,35.1)\\\\Ha estado cerca.",
+			"ru": "//(0,30)\\\\Отлично, я в сети! Так... Всё, порядок. Чуть не попались.",
+			"cn": "//(0,30)\\\\好的，我接入了！然后......你安全了。真险哪。",
+			"tc": "//(0,30)\\\\很好，我進去了！這樣......你就安全了。真是驚險。",
+			"jp": "//(0,5.1)\\\\よし、侵入成功！これで... 大丈夫よ。//(5.1,35.1)\\\\危なかった。"
+		}
+	}
+}

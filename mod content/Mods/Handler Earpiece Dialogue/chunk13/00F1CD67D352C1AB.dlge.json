@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32002_sp_dragoneyeid.sweetdialog?/ds32002_sp_dragoneyeid_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32002_sp_dragoneyeid_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32002_sp_dragoneyeid_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32002_sp_dragoneyeid_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.614785)\\\\That is Captain Lhom Kwai, AKA \"Dragon Eye\".//(3.614785,5.841473)\\\\Earned his nickname after taking a bullet//(5.841473,35.84147)\\\\for the Heavenly Leader.",
+			"fr": "//(0,3.932883)\\\\C'est le capitaine Lhom Kwai, appelé \"Œil de dragon\".//(3.932883,33.93288)\\\\Il a hérité de ce nom après avoir pris une balle pour le chef de la Garde céleste.",
+			"it": "//(0,30)\\\\Quello è il capitano Lhom Kwai, altrimenti noto come \"Occhio di drago\". Si è guadagnato questo soprannome dopo essersi beccato un proiettile per il capo della Guardia celestiale.",
+			"de": "//(0,30)\\\\Das ... ist Hauptmann Lhom Kwai alias „das Drachenauge“. Diesen Spitznamen verdiente er sich, indem er eine Kugel für den Himmlischen Anführer abfing.",
+			"es": "//(0,30)\\\\Ese... es el capitán Lhom Kwai, alias «Ojo de Dragón». Se ganó el apodo tras recibir una bala que iba dirigida al Líder Celestial.",
+			"ru": "//(0,3.944785)\\\\Это... капитан Лхом Квай по прозвищу Глаз дракона.//(3.944785,5.023374)\\\\Такое прозвище он получил за то,//(5.023374,35.02337)\\\\что закрыл собой Небесного предводителя от пули.",
+			"cn": "//(0,30)\\\\那人......就是葵洛上尉，外号“龙眼”。因替神圣领袖挡过一次子弹而得到了这个外号。",
+			"tc": "//(0,30)\\\\那是......桂龍上尉，綽號「獨眼龍」。他曾為了自己的領袖擋過子彈，也因此取得了此綽號。",
+			"jp": "//(0,3.85)\\\\あれは「龍の目」ことロン・カイ大尉。//(3.85,33.85)\\\\天のリーダーを庇って銃弾を受け、そう呼ばれるようになったわ。"
+		}
+	}
+}

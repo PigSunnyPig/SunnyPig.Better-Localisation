@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/gamemodes/versusmode/31_announcer_tallystatusneutralmatchpoint.sweetdialog?/31_announcer_tallystatusneutralmatchpoint_announcer_versus_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "31_announcer_tallystatusneutralmatchpoint_announcer_versus_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/gamemodes/versusmode/31_announcer_tallystatusneutralmatchpoint_announcer_versus_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/gamemodes/versusmode/31_announcer_tallystatusneutralmatchpoint_announcer_versus_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Final target. It’s too close to call.",
+			"fr": "//(0,30)\\\\Dernière cible. C'est encore trop serré !",
+			"it": "//(0,0.7470137)\\\\Bersaglio finale.//(0.7470137,2.383771)\\\\Difficile dire come andrà a finire.",
+			"de": "//(0,30)\\\\Letztes Ziel. Es wird knapp werden.",
+			"es": "//(0,30)\\\\Último objetivo. La cosa está muy reñida.",
+			"ru": "//(0,30)\\\\Последняя цель. Кто победит, пока неясно.",
+			"cn": "//(0,30)\\\\最后一个目标。你与对手势均力敌。",
+			"tc": "//(0,30)\\\\最後的目標，你們勢均力敵。",
+			"jp": "//(0,30)\\\\最後のターゲットです。接戦です。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8613_hackersession.sweetdialog?/dr8613_hackersession_paine_et_009.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8613_hackersession_paine_et_009",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8613_hackersession_paine_et_009.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8613_hackersession_paine_et_009.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Well, are you supposed to know the entire scope of the operation?",
+			"fr": "//(0,30)\\\\Bon. Êtes-vous censé connaître tous les détails de l'opération ?",
+			"it": "//(0,30)\\\\Dimmi, pensi che dovresti conoscere l'intera portata dell'operazione?",
+			"de": "//(0,30)\\\\Ist es denn vorgesehen, dass Sie alle Details der Operation kennen?",
+			"es": "//(0,30)\\\\Bueno, ¿se supone que tú tienes que estar al tanto de todo el alcance de la operación?",
+			"ru": "//(0,30)\\\\Вы считаете, вы должны знать и понимать все — и мелкие и большие — цели организации?",
+			"cn": "//(0,30)\\\\那么，你应该知道整个行动范围的吗？",
+			"tc": "//(0,30)\\\\那麼，你應該了解整個行動範圍的嗎？",
+			"jp": "//(0,30)\\\\Well are you supposed to know the entire scope of the operation?"
+		}
+	}
+}

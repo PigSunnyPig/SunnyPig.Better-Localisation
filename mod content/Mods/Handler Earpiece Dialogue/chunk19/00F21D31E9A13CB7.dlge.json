@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/miami/21000_elusive/21000_sambuca/21000_sambuca_handler/ds21601_missiondone.sweetdialog?/ds21601_missiondone_diana_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds21601_missiondone_diana_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/miami/21000_elusive/21000_sambuca/21000_sambuca_handler/ds21601_missiondone_diana_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/miami/21000_elusive/21000_sambuca/21000_sambuca_handler/ds21601_missiondone_diana_002.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.903)\\\\Hopefully, this will be the last time we have to deal with Mr. Faba.",
+			"fr": "//(0,1.8)\\\\Espérons que nous n'entendrons plus jamais//(1.8,3.903)\\\\parler de M. Faba.",
+			"it": "//(0,2.08)\\\\Speriamo che questa sia l'ultima volta//(2.08,3.903)\\\\che avremo a che fare con il signor Faba.",
+			"de": "//(0,1.948739)\\\\Hoffentlich ist das das letzte Mal,//(1.948739,3.921132)\\\\dass wir uns um Mr. Faba kümmern müssen.",
+			"es": "//(0,2.147346)\\\\Esperemos que esta sea la última vez que tenemos//(2.147346,3.903)\\\\que vérnoslas con el señor Faba.",
+			"ru": "//(0,3.903)\\\\Надеюсь, нам больше не придется устранять мистера Фаба.",
+			"cn": "//(0,30)\\\\但愿这是我们最后一次与法巴先生打交道。",
+			"tc": "//(0,30)\\\\希望這是我們最後一次面對法巴先生。",
+			"jp": "//(0,30)\\\\ファバの相手をするのはこれが最後であることを祈るわ。"
+		}
+	}
+}

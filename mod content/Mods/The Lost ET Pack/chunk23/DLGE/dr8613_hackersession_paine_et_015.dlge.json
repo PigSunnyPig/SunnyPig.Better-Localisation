@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8613_hackersession.sweetdialog?/dr8613_hackersession_paine_et_015.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8613_hackersession_paine_et_015",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8613_hackersession_paine_et_015.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8613_hackersession_paine_et_015.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.6)\\\\Of course, Ryan. Thank you for your time.//(2.6,32.6)\\\\Get in touch with me if you need anything more. Take care!",
+			"fr": "//(0,2.66)\\\\Pas de quoi, Ryan. Merci d'être venu me voir.//(2.66,32.66)\\\\Contactez-moi si vous avez besoin de quoi que ce soit. Au revoir !",
+			"it": "//(0,30)\\\\Figurati, Ryan. Grazie per il tuo tempo. Per qualsiasi cosa, chiamami. Stammi bene!",
+			"de": "//(0,2.7)\\\\Gerne, Ryan. Danke für Ihre Zeit.//(2.7,32.7)\\\\Melden Sie sich, wenn Sie noch etwas brauchen. Bis bald!",
+			"es": "//(0,30)\\\\De nada, Ryan. Gracias a ti por tu tiempo. Avísame si necesitas cualquier otra cosa. ¡Cuídate!",
+			"ru": "//(0,2.75)\\\\Ну, конечно, Райан. Спасибо, что зашли.//(2.75,32.75)\\\\Дайте знать, если захотите поговорить еще. Берегите себя!",
+			"cn": "//(0,2.6)\\\\当然了，莱恩。感谢你愿意抽出时间。//(2.6,32.6)\\\\如果你还需要更多信息，请与我保持联系。保重！",
+			"tc": "//(0,2.6)\\\\當然了，瑞安。感謝你願意抽出時間。//(2.6,32.6)\\\\如果你還需要更多資訊，請與我保持聯繫。保重！",
+			"jp": "//(0,2.6)\\\\Of course, Ryan. Thank you for your time.//(2.6,32.6)\\\\Get in touch with me if you need anything more. Take care!"
+		}
+	}
+}

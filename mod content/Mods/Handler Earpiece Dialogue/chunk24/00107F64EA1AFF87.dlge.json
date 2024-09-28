@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/bangkok/12000_white_spider/12000_zika/12000_handler/ds12040_diana_op_yulduz.sweetdialog?/ds12040_diana_op_yulduz_diana_ws_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds12040_diana_op_yulduz_diana_ws_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/12000_white_spider/12000_zika/12000_handler/ds12040_diana_op_yulduz_diana_ws_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/12000_white_spider/12000_zika/12000_handler/ds12040_diana_op_yulduz_diana_ws_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Sister Yulduz has left the penthouse, 47. And in quite a hurry, too. Intriguing.",
+			"fr": "//(0,30)\\\\Soeur Yulduz a quitté le penthouse, 47. Elle avait l'air pressée. C'est étrange.",
+			"it": "//(0,30)\\\\Sorella Yulduz ha lasciato l'attico, 47, e andava piuttosto di fretta. C'è sotto qualcosa.",
+			"de": "//(0,30)\\\\Schwester Yulduz hat das Penthaus verlassen, 47. Noch dazu ziemlich eilig. Interessant.",
+			"es": "//(0,30)\\\\La hermana Yulduz ha salido del ático, 47, y con bastante prisa. Curioso.",
+			"ru": "//(0,30)\\\\Сестра Юлдуз покинула пентхаус, 47-й. И она торопилась. Интересно.",
+			"cn": "//(0,30)\\\\尤尔杜兹修女离开了顶层，47。而且看上去行色匆忙。很有趣。",
+			"tc": "//(0,30)\\\\尤爾德茲修女離開了頂樓公寓，47。而且看上去很匆忙。真有趣。",
+			"jp": "//(0,30)\\\\シスター・ ユルドゥスが ペントハウスを 離れたわ。 何か あったのかしら。"
+		}
+	}
+}

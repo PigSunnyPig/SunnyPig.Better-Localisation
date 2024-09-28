@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/rocky/dugong/46000_handler/ds46004_targetidakka.sweetdialog?/ds46004_targetidakka_grey_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds46004_targetidakka_grey_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/rocky/dugong/46000_handler/ds46004_targetidakka_grey_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/rocky/dugong/46000_handler/ds46004_targetidakka_grey_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,5.194)\\\\Sinhi Venthan, also known as \"Akka\", leader of the pirates.//(5.194,13.03485)\\\\She should be carrying one of the keycards for the control unit, thanks to her current detente with Crest.",
+			"fr": "//(0,4.570981)\\\\Sinhi Venthan, aussi connue comme \"Akka\", la cheffe des pirates.//(4.570981,34.57098)\\\\Elle devrait avoir l'une des cartes d'accès de l'unité de contrôle sur elle, après ses négociations avec Crest.",
+			"it": "//(0,3.2)\\\\Sinhi Venthan, alias \"Akka\".//(3.2,5.3)\\\\Leader dei pirati.//(5.3,35.3)\\\\Dovrebbe avere una delle chiavi magnetiche dell'unità di controllo con sé, vista la tensione attuale con Crest.",
+			"de": "//(0,3.1)\\\\Sinhi Venthan, auch bekannt als „Akka“.//(3.1,5.2)\\\\Anführerin der Piraten.//(5.2,9.2)\\\\Sie sollte dank der derzeitigen Entspannung, die zwischen ihr und Crest herrscht,//(9.2,39.2)\\\\eine der Schlüsselkarten für die Steuereinheit bei sich haben.",
+			"es": "//(0,4.6)\\\\Sinhi Venthan, más conocida como «Akka». Es la líder de los piratas.//(5.45,9.55)\\\\Debería de llevar encima una de las tarjetas de acceso de la unidad de control//(9.55,39.55)\\\\gracias a su tregua actual con Crest.",
+			"ru": "//(0,3.25)\\\\Синхи Вентен по кличке Акка.//(3.25,4.64)\\\\Предводительница пиратов.//(5.43,8.87)\\\\Она носит с собой одну из ключ-карт от блока управления//(8.87,38.87)\\\\из-за непростых отношений с Крестом.",
+			"cn": "//(0,5.121)\\\\辛妮·文森，又名“艾卡”。海盗头目。//(5.121,35.121)\\\\她现在跟克雷斯的关系还算缓和，因此她身上应该带有控制单元的其中一张钥匙卡。",
+			"tc": "//(0,5.2)\\\\信德·文特安，綽號「阿卡」，是海盜的首領。//(5.2,35.2)\\\\由於她跟克雷斯特之間的糾紛，現在她身上應該會有一張控制裝置的鑰匙卡。",
+			"jp": "//(0,4.91)\\\\シンヒ・ヴェンタン、またの名を「アッカ」。海賊の頭領。//(4.91,34.91)\\\\コントロールユニットのキーカードの1枚を彼女が持っているはず。クレストと手を組んでいるからな。"
+		}
+	}
+}

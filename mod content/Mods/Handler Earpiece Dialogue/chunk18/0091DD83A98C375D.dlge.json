@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colombia/23000_anaconda/23000_anaconda_handler/23900_hunterflyin.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "23900_hunterflyin_diana_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colombia/23000_anaconda/23000_anaconda_handler/23900_hunterflyin_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colombia/23000_anaconda/23000_anaconda_handler/23900_hunterflyin_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,2.642393)\\\\Welcome to Colombia, 47.//(2.642393,5.031926)\\\\Your target is currently searching the jungle//(5.031926,7.122417)\\\\for the legendary and extinction-threatened//(7.122417,8.714809)\\\\white anaconda, known by//(8.714809,12.1234)\\\\the Aztecs as the \"cloud serpent\".//(12.1234,14.56579)\\\\Locate Reddington, eliminate him//(14.56579,17.02438)\\\\and recover his little black book.//(17.02438,18.02438)\\\\Good luck.",
+					"fr": "//[DIANA]\\\\//(0,2.092393)\\\\Bienvenue en Colombie, 47.//(2.092393,5.205276)\\\\Votre cible passe actuellement la jungle au peigne fin//(5.205276,7.4)\\\\à la recherche du légendaire anaconda blanc,//(7.4,8.624294)\\\\en voie d'extinction,//(8.624294,12.586)\\\\également appelé \"serpent des nuées\" par les Aztèques.//(12.586,14.6603)\\\\Trouvez Reddington, éliminez-le//(14.6603,16.6531)\\\\et récupérez ce fameux carnet noir.//(16.6531,17.88553)\\\\Bonne chance.",
+					"it": "//[DIANA]\\\\//(0,2.092393)\\\\Benvenuto in Colombia, 47.//(2.092393,4.316768)\\\\Il tuo bersaglio sta attualmente setacciando//(4.316768,6.533463)\\\\la giungla alla ricerca della leggendaria//(6.533463,8.50115)\\\\anaconda bianca in via d'estinzione,//(8.50115,13.05023)\\\\nota tra gli Aztechi con il nome di \"serpente delle nubi\".//(13.05023,13.92627)\\\\Localizza Reddington,//(13.92627,16.6448)\\\\eliminalo e recupera la sua agendina.//(16.6448,17.88553)\\\\Buona fortuna.",
+					"de": "//[DIANA]\\\\//(0,2.8)\\\\Willkommen in Kolumbien, 47.//(2.8,4.591377)\\\\Ihr Ziel durchkämmt derzeit den Dschungel nach//(4.591377,7.01321)\\\\der legendären und vom Aussterben bedrohten//(7.01321,9.341799)\\\\weißen Anakonda, die bei den Azteken//(9.341799,12.3)\\\\auch „die Wolkenschlange“ genannt wurde.//(12.3,14.62859)\\\\Finden Sie Reddington, eliminieren Sie ihn//(14.62859,17.3)\\\\und bergen Sie sein kleines schwarzes Büchlein.//(17.3,18.70528)\\\\Viel Glück.",
+					"es": "//[DIANA]\\\\//(0,2.092393)\\\\Bienvenido a Colombia, 47.//(2.092393,6)\\\\El objetivo está peinando la jungla en busca de una anaconda blanca,//(6,12.3)\\\\un animal legendario en peligro de extinción que los aztecas llamaban «serpiente de las nubes».//(12.3,16.8)\\\\Encuentra a Reddington, acaba con él y recupera su libreta negra.//(16.8,17.96908)\\\\Buena suerte.",
+					"ru": "//[DIANA]\\\\//(0,2.460491)\\\\Добро пожаловать в Колумбию, 47-й.//(2.460491,5.037178)\\\\Сейчас твоя цель прочесывает джунгли в поисках//(5.037178,8.752)\\\\легендарной белой анаконды, которую ацтеки называли «облачным змеем».//(8.752,12.299)\\\\Разумеется, эта змея находится под угрозой вымирания.//(12.299,16.79251)\\\\Найди Реддингтона, устрани его и забери черную книжку.//(16.79251,17.88553)\\\\Удачи.",
+					"cn": "//[DIANA]\\\\//(0,8.92)\\\\欢迎来到哥伦比亚，47。你的目标目前正在丛林里搜寻已濒临灭绝的传说中的白色水蚺，//(8.92,17.88553)\\\\阿兹台克人称之为“云蛇”。找到并消灭雷丁顿，然后取得他的黑皮书。祝你好运。",
+					"tc": "//[DIANA]\\\\//(0,2.3)\\\\歡迎來到哥倫比亞，47。//(2.3,12.1)\\\\你的目標正在叢林中搜索傳說中瀕臨絕種的白色水蟒，也就是阿茲特克人所稱的「雲蛇」。//(12.1,17.88553)\\\\找到雷丁頓、消滅他並取回小黑書。 祝你好運。",
+					"jp": "//[DIANA]\\\\//(0,2.64)\\\\コロンビアへようこそ、47。//(2.64,5.3)\\\\ターゲットは今、ジャングルで//(5.3,8.71)\\\\絶滅の危機にある伝説の白いアナコンダ、//(8.71,12.55)\\\\アステカ人の言うところの「雲海の蛇」を追っているわ。//(12.55,14.74)\\\\レディントンの居場所を突き止め排除して//(14.74,17.28)\\\\黒い手帳を手に入れるのよ。//(17.28,19.0162)\\\\幸運を祈るわ。"
+				}
+			}
+		]
+	}
+}

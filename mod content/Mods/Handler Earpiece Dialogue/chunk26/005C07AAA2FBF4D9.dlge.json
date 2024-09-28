@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/italy/10000_copperhead/10000_handler/ds10021_fuelconclusion.sweetdialog?/ds10021_fuelconclusion_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds10021_fuelconclusion_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/10000_copperhead/10000_handler/ds10021_fuelconclusion_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/10000_copperhead/10000_handler/ds10021_fuelconclusion_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Nice work, 47. Let’s help make Bosco’s extravagant vision an inferno.",
+			"fr": "//(0,1.85)\\\\Beau travail, 47.//(1.85,31.85)\\\\Aidons donc Bosco à mettre en œuvre sa vision extravagante de l'enfer.",
+			"it": "//(0,1.724294)\\\\Ben fatto, 47.//(1.724294,31.72429)\\\\Facciamo in modo che l'immaginazione stravagante di Bosco diventi un inferno.",
+			"de": "//(0,30)\\\\Gute Arbeit, 47. Helfen wir dabei, Boscos extravagante Vision zu einem Inferno zu machen.",
+			"es": "//(0,30)\\\\Buen trabajo, 47. Ayudemos a convertir la extravagante visión de Bosco en un infierno.",
+			"ru": "//(0,1.724294)\\\\Хорошая работа, 47-й.//(1.724294,31.72429)\\\\Давай поможем превратить экстравагантную концепцию Боско в ад.",
+			"cn": "//(0,1.85)\\\\干得漂亮，47。//(1.85,31.85)\\\\我们来将博斯科的奢侈布景变为一场地狱秀吧。",
+			"tc": "//(0,30)\\\\幹得漂亮，47。我們來將博斯科的奢侈佈景變為一場地獄秀吧。",
+			"jp": "//(0,30)\\\\お手柄よ、47。ボスコのビジョンを地獄絵図にしてあげましょう。"
+		}
+	}
+}

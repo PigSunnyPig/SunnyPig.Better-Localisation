@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/rat/43000_handler/ds43417_controllerhackwindow.sweetdialog?/ds43417_controllerhackwindow_oliviahall_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds43417_controllerhackwindow_oliviahall_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/rat/43000_handler/ds43417_controllerhackwindow_oliviahall_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/rat/43000_handler/ds43417_controllerhackwindow_oliviahall_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\That window can be dimmed, if you hack it with your camera – get you some privacy.",
+			"fr": "//(0,30)\\\\Vous pouvez obscurcir cette vitre en la piratant avec votre caméra, histoire d'éviter les regards indiscrets.",
+			"it": "//(0,30)\\\\Puoi oscurare quella finestra se la hackeri con la tua fotocamera... Ottieni un po' di privacy.",
+			"de": "//(0,30)\\\\Dieses Fenster kann abgedunkelt werden, wenn Sie es mit Ihrer Kamera hacken – so hätten Sie etwas Privatsphäre.",
+			"es": "//(0,30)\\\\Esa ventana se puede oscurecer si la pirateas con tu cámara. Procúrate algo de privacidad.",
+			"ru": "//(0,2.7)\\\\Это окно можно затемнить, если взломать его камерой.//(2.7,32.7)\\\\Немного приватности не повредит.",
+			"cn": "//(0,30)\\\\如果你用摄像机破解窗户，可以让它变暗--给你点隐私。",
+			"tc": "//(0,30)\\\\你能夠用相機侵入窗戶並調暗它－－這樣隱密一點。",
+			"jp": "//(0,30)\\\\あの窓をカメラでハッキングすれば暗くできるわよ。外から見られずに済む。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/greedy/33000_raccoon/33000_handler/ds33001_targetid.sweetdialog?/ds33001_targetid_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds33001_targetid_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/greedy/33000_raccoon/33000_handler/ds33001_targetid_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/greedy/33000_raccoon/33000_handler/ds33001_targetid_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.097223)\\\\That is Athena Savalas.//(2.097223,4.889616)\\\\Billionaire banker, Providence Herald//(4.889616,6.670408)\\\\and bane of the middle class.",
+			"fr": "//(0,2.032721)\\\\Voilà Athena Savalas.//(2.032721,4.95)\\\\Banquière milliardaire, messagère de Providence//(4.95,6.704421)\\\\et fléau de la classe moyenne.",
+			"it": "//(0,2.434808)\\\\Quella... è Athena Savalas.//(2.434808,3.277989)\\\\Banchiera miliardaria,//(3.277989,6.670408)\\\\araldo di Providence e tormento della classe media.",
+			"de": "//(0,2.909091)\\\\Das ... ist Athena Savalas.//(2.909091,3.916517)\\\\Milliardenschwere Bankerin,//(3.916517,6.670408)\\\\Providence-Heroldin und Geißel der Mittelklasse.",
+			"es": "//(0,2.309309)\\\\Esa... es Athena Savalas.//(2.309309,3.109029)\\\\Banquera multimillonaria,//(3.109029,6.670408)\\\\heraldo de Providence y azote de la clase media.",
+			"ru": "//(0,2.228981)\\\\Это Афина Савалас.//(2.228981,4.753275)\\\\Банкир-миллиардер, вестник «Провиденса»//(4.753275,6.670408)\\\\и гроза среднего класса.",
+			"cn": "//(0,30)\\\\那个人——就是雅典娜·萨瓦拉斯。身家亿万的银行家，“神意秘会”使者以及中产阶级的灾星。",
+			"tc": "//(0,30)\\\\那是......雅典娜‧薩瓦拉斯。億萬富翁銀行家、神意秘會使者和中產階級的剋星。",
+			"jp": "//(0,2.08)\\\\あれがアテナ・サバラスよ。//(2.08,32.08)\\\\億万長者の銀行家かつプロヴィデンスのヘラルドであり、中産階級の敵。"
+		}
+	}
+}

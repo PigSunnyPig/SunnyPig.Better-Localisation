@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25050_dawoodcontractbriefinghint4.sweetdialog?/ds25050_dawoodcontractbriefinghint4_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25050_dawoodcontractbriefinghint4_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25050_dawoodcontractbriefinghint4_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25050_dawoodcontractbriefinghint4_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\47, that's the Maelstrom with Vanya Shah. We have him.",
+			"fr": "//(0,2.494472)\\\\47, l'homme avec Vanya Shah est le Maelström.//(2.494472,3.617083)\\\\Nous le tenons.",
+			"it": "//(0,2.328646)\\\\47, quello è Maelstrom assieme a Vanya Shah.//(2.328646,3.617083)\\\\Lo abbiamo in pugno.",
+			"de": "//(0,2.669101)\\\\47, das da bei Vanya Shah ist der Maelstrom.//(2.669101,3.669101)\\\\Wir haben ihn.",
+			"es": "//(0,2.634425)\\\\47, el que está con Vanya Shah es el Torbellino.//(2.634425,3.634425)\\\\Ya es nuestro.",
+			"ru": "//(0,1.887017)\\\\47-й, с Ваньей Шах разговаривает Вихрь собственной//(1.887017,3.617083)\\\\персоной. Мы нашли его.",
+			"cn": "//(0,30)\\\\47，快看，那就是瓦妮娅·沙与大漩涡。我们找到他了。",
+			"tc": "//(0,30)\\\\47，快看，那就是瓦妮婭．沙與大漩渦。我們找到他了。",
+			"jp": "//(0,2.685)\\\\47、ヴァーニャ・シャーと一緒にいるのがメイルストロムよ。//(2.685,32.685)\\\\ようやく姿を捉えたわ。"
+		}
+	}
+}

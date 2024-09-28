@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/miami/21000_flamingo/21000_handler/21000_flyin.sweetdialog?/21000_flyin_diana_007.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "21000_flyin_diana_007",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/miami/21000_flamingo/21000_handler/21000_flyin_diana_007.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/miami/21000_flamingo/21000_handler/21000_flyin_diana_007.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,6.525276)\\\\Moses Lee, CEO of Kowoon, has taken a dominant lead and looks invincible.",
+			"fr": "//[DIANA]\\\\//(0,30)\\\\Moses Lee, PDG de Kowoon, a pris l'avantage et semble invincible.",
+			"it": "//[DIANA]\\\\//(0,5.795125)\\\\Moses Lee, AD di Kowoon, ha preso le redini e sembra invincibile.",
+			"de": "//[DIANA]\\\\//(0,30)\\\\Moses Lee, der CEO von Kowoon, liegt derzeit klar in Führung und scheint unbesiegbar.",
+			"es": "//[DIANA]\\\\//(0,30)\\\\Moses Lee, CEO de Kowoon, mantiene el liderazgo y parece invencible.",
+			"ru": "//[DIANA]\\\\//(0,30)\\\\Мозес Ли, глава компании «Цзюлун Хэви Индастриз», пробился в лидеры и выглядит непобедимым.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\九龙重工的CEO摩西·李，已经遥遥领先并且看起来无法战胜。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\九龍的執行長摩西．李，在賽場上無懈可擊，已取得巨大的領先優勢。",
+			"jp": "//[DIANA]\\\\//(0,2.837)\\\\コーウーンのCEOであるモーゼス・リーが//(2.837,32.837)\\\\絶対的主導権を握っていて、無敵に見えるわね。"
+		}
+	}
+}

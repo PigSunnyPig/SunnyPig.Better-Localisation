@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8613_hackersession.sweetdialog?/dr8613_hackersession_paine_et_003.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8613_hackersession_paine_et_003",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8613_hackersession_paine_et_003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8613_hackersession_paine_et_003.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.3)\\\\Sit down. And let’s talk this through.//(2.3,32.3)\\\\Sit down and tell me what’s on your mind.",
+			"fr": "//(0,2.75)\\\\Asseyez-vous. Parlons un peu.//(2.75,32.75)\\\\Installez-vous et dites-moi ce qui vous tracasse.",
+			"it": "//(0,30)\\\\Siediti. E parliamone con calma. Mettiti comodo e spiegami qual è il problema.",
+			"de": "//(0,30)\\\\Nehmen Sie Platz. Reden wir darüber. Setzen Sie sich und erzählen Sie mir, was Sie beschäftigt.",
+			"es": "//(0,30)\\\\Siéntate. Hablemos de esto. Siéntate y cuéntame qué es lo que te preocupa.",
+			"ru": "//(0,2.840491)\\\\Садитесь. И давайте все обсудим.//(2.840491,32.84049)\\\\Устраивайтесь и расскажите мне, что вас тревожит.",
+			"cn": "//(0,2.3)\\\\请坐，让我们来谈谈这个问题吧。//(2.3,32.3)\\\\坐下来并告诉我，你在想什么。",
+			"tc": "//(0,2.3)\\\\請坐，讓我們來談談這個問題吧。//(2.3,32.3)\\\\坐下來並告訴我，你在想什麼。",
+			"jp": "//(0,2.3)\\\\Sit down. And let’s talk this through.//(2.3,32.3)\\\\Sit down and tell me what’s on your mind."
+		}
+	}
+}

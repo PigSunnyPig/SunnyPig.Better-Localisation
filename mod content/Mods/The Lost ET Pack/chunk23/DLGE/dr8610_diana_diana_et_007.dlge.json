@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_handler/dr8610_diana.sweetdialog?/dr8610_diana_diana_et_007.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8610_diana_diana_et_007",
+		"soundtag": "Voiceover_Handler",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_handler/dr8610_diana_diana_et_007.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_handler/dr8610_diana_diana_et_007.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,30)\\\\47, the target has made a phonecall. One of his patients is on the way.",
+			"fr": "//[DIANA]\\\\//(0,30)\\\\47, la cible a passé un coup de fil. Un de ses patients est en chemin.",
+			"it": "//[DIANA]\\\\//(0,30)\\\\47, il bersaglio ha fatto una telefonata. Uno dei suoi pazienti lo sta raggiungendo.",
+			"de": "//[DIANA]\\\\//(0,30)\\\\47, das Ziel hat jemanden angerufen. Einer der Patienten ist unterwegs.",
+			"es": "//[DIANA]\\\\//(0,30)\\\\47, el objetivo ha hecho una llamada. Uno de sus pacientes va de camino.",
+			"ru": "//[DIANA]\\\\//(0,30)\\\\47-й, цель позвонила по телефону. Один из его пациентов идет сюда.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\47，目标已拨通了电话。他的一名病人正在路上。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\47，目標已打了一通電話。他的一名病患正在路上。",
+			"jp": "//[DIANA]\\\\//(0,30)\\\\47, the target has made a phonecall. One of his patients is on the way."
+		}
+	}
+}

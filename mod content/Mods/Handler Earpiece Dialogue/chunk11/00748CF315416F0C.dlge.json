@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32526_sp_khabkochanging.sweetdialog?/ds32526_sp_khabkochanging_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32526_sp_khabkochanging_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32526_sp_khabkochanging_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32526_sp_khabkochanging_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\47, Roman Khabko is changing out of his prison clothes. He's getting ready to leave the prison.",
+			"fr": "//(0,30)\\\\47, Roman Khabko se change et quitte sa tenue de prisonnier. Il se prépare à sortir de la prison.",
+			"it": "//(0,30)\\\\47, Roman Khabko si sta togliendo la divisa da detenuto. Si prepara a uscire di prigione.",
+			"de": "//(0,30)\\\\47, Roman Khabko zieht die Gefängniskluft aus. Er macht sich bereit, das Gefängnis zu verlassen.",
+			"es": "//(0,30)\\\\47, Roman Khabko va a quitarse la ropa de presidiario. Se está preparando para salir de la cárcel.",
+			"ru": "//(0,30)\\\\47-й, Роман Хабко снимает тюремную робу. Он переодевается и готовится покинуть тюрьму.",
+			"cn": "//(0,30)\\\\47，罗曼·卡布科脱掉了囚服。他准备离开监狱了。",
+			"tc": "//(0,30)\\\\47，羅曼‧卡伯克正在換下囚衣。他正在準備離開監獄。",
+			"jp": "//(0,30)\\\\47、ローマン・カブコが囚人服を着替えたわ。刑務所を出る準備をしているのね。"
+		}
+	}
+}

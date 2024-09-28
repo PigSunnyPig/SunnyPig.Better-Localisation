@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_skunk/27000_handler/ds27025_intelopp_janushouse.sweetdialog?/ds27025_intelopp_janushouse_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds27025_intelopp_janushouse_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_skunk/27000_handler/ds27025_intelopp_janushouse_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_skunk/27000_handler/ds27025_intelopp_janushouse_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,4.905276)\\\\So, we know that Janus is expecting to leave Whittleton Creek via helicopter//(4.905276,8.6)\\\\and that he is going to meet the Constant at some event.//(8.6,12.54373)\\\\I think it's time to look inside Janus' house for more clues.",
+			"fr": "//[DIANA]\\\\//(0,3.680982)\\\\Nous savons que Janus va quitter la Crique de Whittleton//(3.680982,8.5)\\\\en hélicoptère pour retrouver le Constant lors d'un événement.//(8.5,12.54373)\\\\Je pense qu'il est temps de fouiller sa maison pour trouver d'autres indices.",
+			"it": "//[DIANA]\\\\//(0,3.8)\\\\Finora sappiamo che Janus ha in programma di partire da Whittleton Creek//(3.8,8)\\\\con l'elicottero e che incontrerà la Costante a un non meglio specificato evento.//(8,13.27914)\\\\Credo che sia il momento di ispezionare l'interno della casa di Janus per avere più indizi.",
+			"de": "//[DIANA]\\\\//(0,2.7)\\\\So. Wir wissen, dass Janus damit rechnet,//(2.7,5.1)\\\\Whittleton Creek per Helikopter verlassen zu können//(5.1,8.5)\\\\und dass er die Konstante bei einer Veranstaltung trifft.//(8.5,9.6)\\\\Ich glaube, es ist Zeit,//(9.6,12.54373)\\\\Janus’ Haus nach weiteren Hinweisen zu durchsuchen.",
+			"es": "//[DIANA]\\\\//(0,3.9)\\\\Entonces, sabemos que Janus pretende salir en helicóptero de Whittleton Creek//(3.9,8)\\\\y que va a reunirse con el Constante en algún evento.//(8,12.54373)\\\\Creo que va siendo hora de registrar la casa de Janus en busca de más pistas.",
+			"ru": "//[DIANA]\\\\//(0,1.524297)\\\\Итак, мы знаем,//(1.524297,4.028619)\\\\что Янус должен покинуть Уиттлтон-Крик на//(4.028619,6.950327)\\\\вертолете и встретиться с Константой на каком-то//(6.950327,7.934665)\\\\мероприятии.//(7.934665,11.40983)\\\\Думаю, пора осмотреть дом Януса в поисках новых//(11.40983,12.54373)\\\\зацепок.",
+			"cn": "//[DIANA]\\\\//(0,8.488)\\\\我们已经知道杰纳斯即将乘坐直升机离开维多顿小溪并与“永恒常量”在某个场合见面。//(8.488,12.544)\\\\看来是时候在杰纳斯的住处内部继续寻找线索了。",
+			"tc": "//[DIANA]\\\\//(0,8.368)\\\\我們已經知道傑納斯即將搭乘直升機離開維多頓小溪並與「常任」在某個場合見面。//(8.368,12.54373)\\\\看來是時候在傑納斯的住處內繼續尋找線索了。",
+			"jp": "//[DIANA]\\\\//(0,4.995)\\\\さて、ヤヌスはヘリコプターを使ってホイットルトン・クリークを離れ、//(4.995,8.26)\\\\何らかのイベントでコンスタントに会うことが分かった。//(8.26,12.54373)\\\\ヤヌスの家でさらに手がかりを探す時がきたようね。"
+		}
+	}
+}

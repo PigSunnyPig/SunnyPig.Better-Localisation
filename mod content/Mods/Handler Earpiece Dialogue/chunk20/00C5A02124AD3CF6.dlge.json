@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/newzealand/31000_elusive/31000_adonis/31000_adonis_handler/ds31102_missiondone.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds31102_missiondone_diana_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_handler/ds31102_missiondone_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_elusive/31000_adonis/31000_adonis_handler/ds31102_missiondone_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,3.110491)\\\\Target eliminated. Well done, 47.//(3.110491,7.659571)\\\\The client is transferring a very charitable \"donation\" as we speak.//(7.659571,9.64)\\\\Now, time to make your exit.",
+					"fr": "//(0,1.45)\\\\Cible éliminée.//(1.45,3.2)\\\\Beau travail, 47.//(3.2,7.5)\\\\Le client transfère un \"don\" très charitable en ce moment même.//(7.5,9.64)\\\\Il est temps pour vous de quitter la scène.",
+					"it": "//(0,1.16625)\\\\Bersaglio eliminato.//(1.16625,2.890544)\\\\Ben fatto, 47.//(2.890544,7.807722)\\\\Il cliente sta trasferendo una \"donazione\" molto generosa proprio in questo momento.//(7.807722,9.64)\\\\È ora che tu vada.",
+					"de": "//(0,2.960491)\\\\Ziel eliminiert. Gut gemacht, 47.//(2.960491,7.65)\\\\Der Klient überweist auf der Stelle eine großzügige „Spende“.//(7.65,10.33816)\\\\Jetzt wird es Zeit, das Weite zu suchen.",
+					"es": "//(0,1.152713)\\\\Objetivo eliminado.//(1.152713,2.877007)\\\\Buen trabajo, 47.//(2.877007,4.82)\\\\El cliente está transfiriéndonos un «donativo»//(4.82,7.559)\\\\muy generoso mientras hablamos.//(7.559,9.64)\\\\Venga, es hora de salir de ahí.",
+					"ru": "//(0,1.559507)\\\\Цель устранена.//(1.559507,2.915703)\\\\Молодец, 47-й.//(2.915703,7.651754)\\\\Клиент уже перевел нам весьма щедрое «пожертвование».//(7.651754,9.64)\\\\А тебе пора уходить.",
+					"cn": "//(0,30)\\\\目标已消灭。干得好，47。我们慷慨的客户正在将一笔“捐款”打过来。你该设法离开了。",
+					"tc": "//(0,3)\\\\目標已消滅。做得好，47。//(3,33)\\\\客戶現在正在轉帳這些非常優渥的「捐款」。現在你該離開了。",
+					"jp": "//(0,3.09)\\\\ターゲットを排除。良くやったわ、47。//(3.09,7.752)\\\\クライアントは今寛大な「寄付金」を送っているところよ。//(7.752,37.752)\\\\さあ、脱出しましょう。"
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_sakini/3000_sakini_handler/dr3680_diana.sweetdialog?/dr3680_diana_diana_et_008.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr3680_diana_diana_et_008",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_sakini/3000_sakini_handler/dr3680_diana_diana_et_008.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_sakini/3000_sakini_handler/dr3680_diana_diana_et_008.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA_ET]\\\\//(0,30)\\\\The target just posted an update in the ground-floor catering area.",
+			"fr": "//[DIANA_ET]\\\\//(0,30)\\\\La cible vient de signaler qu'elle se trouvait dans la cuisine du rez-de-chaussée.",
+			"it": "//[DIANA_ET]\\\\//(0,30)\\\\Il bersaglio ha pubblicato un aggiornamento dall'area catering del piano terra.",
+			"de": "//[DIANA_ET]\\\\//(0,30)\\\\Das Ziel hat eben ein Update aus dem Gastronomiebereich im Erdgeschoss gepostet.",
+			"es": "//[DIANA_ET]\\\\//(0,30)\\\\El objetivo acaba de actualizar su estado en el catering de la planta baja.",
+			"ru": "//[DIANA_ET]\\\\//(0,30)\\\\Обновление статуса. Цель в зоне обслуживания на первом этаже.",
+			"cn": "//[DIANA_ET]\\\\//(0,30)\\\\目标刚刚在餐饮区一楼发布了新动态。",
+			"tc": "//[DIANA_ET]\\\\//(0,30)\\\\目標剛剛在底樓膳食區域發佈了更新。",
+			"jp": "//[DIANA_ET]\\\\//(0,30)\\\\ターゲットが1階のケータリングエリアからアップデートを投稿したわ。"
+		}
+	}
+}

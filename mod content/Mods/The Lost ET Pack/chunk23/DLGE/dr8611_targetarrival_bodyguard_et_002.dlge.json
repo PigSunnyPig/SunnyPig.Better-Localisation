@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8611_targetarrival.sweetdialog?/dr8611_targetarrival_bodyguard_et_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8611_targetarrival_bodyguard_et_002",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8611_targetarrival_bodyguard_et_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8611_targetarrival_bodyguard_et_002.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.472393)\\\\Huh? Let’s keep moving.//(2.472393,32.47239)\\\\We need to get under cover before our overflight window closes.",
+			"fr": "//(0,2.6)\\\\Hein ? Avançons.//(2.6,32.6)\\\\On doit se mettre à couvert avant que la fenêtre de survol de l'espace aérien soit fermée.",
+			"it": "//(0,30)\\\\Eh? Non fermiamoci. Dobbiamo essere al coperto prima che si chiuda la nostra finestra di sorvolamento.",
+			"de": "//(0,30)\\\\Hm? Gehen wir weiter. Wir müssen in Deckung sein, bevor sich unser Überflugsfenster schließt.",
+			"es": "//(0,30)\\\\¿Eh? Sigamos avanzando. Tenemos que infiltrarnos antes de que termine la franja horaria de nuestro vuelo.",
+			"ru": "//(0,30)\\\\А? Не будем задерживаться. Нужно шевелиться, пока еще есть время.",
+			"cn": "//(0,2.472393)\\\\啊？我们继续前进吧。//(2.472393,32.47239)\\\\我们必须在「飞越时间」结束之前进入掩护区。",
+			"tc": "//(0,2.472393)\\\\啊？我們繼續前進吧。//(2.472393,32.47239)\\\\我們必須在「飛越時間」結束之前進入掩護區。",
+			"jp": "//(0,2.472393)\\\\Huh? Let’s keep moving.//(2.472393,32.47239)\\\\We need to get under cover before our overflight window closes."
+		}
+	}
+}

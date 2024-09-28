@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_magpie/29000_handler/ds29037_constantevacgrey.sweetdialog?/ds29037_constantevacgrey_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds29037_constantevacgrey_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_magpie/29000_handler/ds29037_constantevacgrey_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_magpie/29000_handler/ds29037_constantevacgrey_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,3.1)\\\\Shit... the Constant has been alerted, 47.//(3.1,5.029541)\\\\Mr. Grey! What's your status?",
+			"fr": "//[DIANA]\\\\//(0,2.61124)\\\\Merde ! 47, le Constant a été alerté.//(2.61124,5.029541)\\\\M. Grey, où en êtes-vous ?",
+			"it": "//[DIANA]\\\\//(0,3.51)\\\\Merda... la Costante è stato avvertito, 47.//(3.51,5.029541)\\\\Signor Grey! A che punto sei?",
+			"de": "//[DIANA]\\\\//(0,3.328589)\\\\Shit ... Die Konstante wurde alarmiert, 47.//(3.328589,5.029541)\\\\Mr.  Grey! Wie ist Ihr Status?",
+			"es": "//[DIANA]\\\\//(0,3.205)\\\\Mierda... El Constante ha sido alertado, 47.//(3.205,5.029541)\\\\¡Señor Grey! ¿Cuál es su situación?",
+			"ru": "//[DIANA]\\\\//(0,3.409648)\\\\Черт... 47-й, Константа запаниковал.//(3.409648,5.029541)\\\\Мистер Грей! Что у вас там?",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\该死......\"永恒常量\"有所察觉了，47。格雷先生！你那边怎样？",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\該死......「常任」發現了，47。格雷先生！你那邊怎樣？",
+			"jp": "//[DIANA]\\\\//(0,30)\\\\まずい... コンスタントが警告されたわ、47。グレー！報告して！"
+		}
+	}
+}

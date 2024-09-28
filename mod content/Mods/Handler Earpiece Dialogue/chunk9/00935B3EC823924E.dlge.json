@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/gamemodes/versusmode/04_announcer_matchintroduel10sec.sweetdialog?/04_announcer_matchintroduel10sec_announcer_versus_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "04_announcer_matchintroduel10sec_announcer_versus_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/gamemodes/versusmode/04_announcer_matchintroduel10sec_announcer_versus_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/gamemodes/versusmode/04_announcer_matchintroduel10sec_announcer_versus_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Duel starts in 10 seconds.",
+			"fr": "//(0,30)\\\\Début du duel dans 10 secondes.",
+			"it": "//(0,30)\\\\Il duello inizia tra 10 secondi.",
+			"de": "//(0,30)\\\\Duell startet in 10 Sekunden.",
+			"es": "//(0,30)\\\\El duelo comenzará dentro de 10 segundos.",
+			"ru": "//(0,30)\\\\Дуэль начнется через 10 секунд.",
+			"cn": "//(0,30)\\\\距离决斗开始还剩10秒。",
+			"tc": "//(0,30)\\\\對戰將在10秒後內開始。",
+			"jp": "//(0,30)\\\\対戦開始まであと10秒。"
+		}
+	}
+}

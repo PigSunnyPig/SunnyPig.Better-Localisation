@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_sakini/3000_sakini_handler/dr3680_diana.sweetdialog?/dr3680_diana_diana_et_003.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr3680_diana_diana_et_003",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_sakini/3000_sakini_handler/dr3680_diana_diana_et_003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_sakini/3000_sakini_handler/dr3680_diana_diana_et_003.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA_ET]\\\\//(0,1.604294)\\\\Welcome to Paris.//(1.604294,5.641472)\\\\The target is already in place and has begun his live stream.//(5.641472,11.18294)\\\\This places him currently in the palace kitchen area, but his movements are notoriously erratic.//(11.18294,15.32632)\\\\Additionally, he and his entire staff have been cleared to pass all security checkpoints,//(15.32632,19.4073)\\\\while other staff will be following their normal security protocols.//(19.4073,49.4073)\\\\Good hunting.",
+			"fr": "//[DIANA_ET]\\\\//(0,1.8)\\\\Bienvenue à Paris.//(1.8,5.8)\\\\La cible est déjà en position et a commencé à diffuser sa prestation.//(5.8,11.15)\\\\Il se trouve actuellement dans la cuisine du palais, mais ses déplacements sont connus pour être imprévisibles.//(11.15,15.75)\\\\Il s'avère également que son entourage et lui ont reçu l'autorisation de se déplacer librement dans le palais,//(15.75,19.8)\\\\à la différence du reste du personnel, qui doit suivre les protocoles de sécurité classiques.//(19.8,49.8)\\\\Bonne chasse !",
+			"it": "//[DIANA_ET]\\\\//(0,1.7)\\\\Benvenuto a Parigi.//(1.7,5.7)\\\\Il bersaglio è già arrivato e ha iniziato la sua trasmissione in diretta.//(5.7,8.528588)\\\\Si trova nelle cucine del palazzo,//(8.528588,11.2)\\\\ma i suoi spostamenti sono sempre imprevedibili.//(11.2,15.9)\\\\Inoltre, lui e il suo personale hanno libero accesso a ogni zona presidiata,//(15.9,19.7)\\\\mentre il resto del personale dovrà sottostare ai normali protocolli di sicurezza.//(19.7,49.7)\\\\Buona caccia!",
+			"de": "//[DIANA_ET]\\\\//(0,1.604294)\\\\Willkommen in Paris.//(1.604294,5.621472)\\\\Das Ziel ist bereits vor Ort und hat schon seinen Live-Stream gestartet.//(5.621472,11.17344)\\\\Im Augenblick hält er sich in der Küche des Palastes auf, aber man weiß nie, wo er als Nächstes auftaucht.//(11.17344,15.57871)\\\\Zu allem Überfluss haben er und sein gesamter Stab Zugang zu allen Sicherheitsbereichen,//(15.57871,19.39159)\\\\während für alle anderen Mitarbeiter die üblichen Sicherheitsvorkehrungen gelten.//(19.39159,49.39159)\\\\Waidmanns Heil!",
+			"es": "//[DIANA_ET]\\\\//(0,1.604294)\\\\Bienvenido a París.//(1.604294,5.724)\\\\El objetivo ya está en posición y ha comenzado su programa en directo.//(5.724,8.417)\\\\En este momento, se encuentra en la cocina del palacio,//(8.417,11.052)\\\\pero su comportamiento tiende a ser bastante errático.//(11.052,15.716)\\\\Además, tanto él como su personal tienen permiso para pasar por todos los controles de seguridad,//(15.716,19.586)\\\\mientras que los demás deberán ceñirse al protocolo de seguridad estándar.//(19.586,49.586)\\\\Buena caza.",
+			"ru": "//[DIANA_ET]\\\\//(0,1.972393)\\\\Добро пожаловать в Париж.//(1.972393,6)\\\\Цель уже на месте, трансляция началась.//(6,8.353865)\\\\Это означает, что он должен быть на главной кухне,//(8.353865,11.5)\\\\но помни: он знаменит своей любовью к хаотичным перемещениям.//(11.5,16)\\\\К тому же ему и всей его команде открыт полный доступ через все пункты охраны,//(16,20)\\\\в то время как прочему персоналу необходимо соблюдать все требования безопасности.//(20,50)\\\\Доброй охоты.",
+			"cn": "//[DIANA_ET]\\\\//(0,5.47)\\\\欢迎来到巴黎。目标已经就位并开始直播了。//(5.47,11)\\\\他目前被安排在殿的厨房区，不过他喜欢到处乱跑的习惯一直让别人很伤脑筋。//(11,15.7)\\\\另外，他和他的全体员工已获得通过一切安全检查点的权限，//(15.7,45.7)\\\\而其他员工则遵守普通的安保协议。狩猎愉快。",
+			"tc": "//[DIANA_ET]\\\\//(0,1.604)\\\\歡迎來到巴黎。//(1.604,5.641)\\\\目標已就位並開始直播。//(5.641,11.183)\\\\他目前正在宮殿中的廚房區域，不過他的行動出名地雜亂無章。//(11.183,15.326)\\\\另外，他和他的整體員工都已經過安全檢查，//(15.326,19.407)\\\\而其他員工將依照普通的安全程序。//(19.407,49.407)\\\\狩獵愉快。",
+			"jp": "//[DIANA_ET]\\\\//(0,1.785)\\\\パリへ ようこそ。//(1.785,5.645)\\\\ターゲットは ロケーションですでにライブ配信を 開始しているわ。//(5.645,8.402)\\\\今は 宮殿の キッチンに いるけれど、//(8.402,11.275)\\\\彼の 行動を 予測するのはとても 難しいわね。//(11.275,15.93)\\\\彼と 彼の スタッフは、 すべての セキュリティーポイントを チェックなしで通れるけれど、//(15.93,19.305)\\\\他の スタッフは 通常の 手順に 従わないと いけないわ。//(19.305,20.55142)\\\\成功を 祈るわ。"
+		}
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_handler/ds20023_sp_hiddenbody.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds20023_sp_hiddenbody_diana_001",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_handler/ds20023_sp_hiddenbody_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_handler/ds20023_sp_hiddenbody_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Very clever, 47. They will not discover the body there.",
+					"fr": "//(0,30)\\\\Bien pensé, 47. Personne ne trouvera le corps ici.",
+					"it": "//(0,30)\\\\Molto astuto, 47. Non troveranno mai il corpo, in questo modo.",
+					"de": "//(0,30)\\\\Sehr schlau, 47. Dort wird man die Leiche nicht entdecken.",
+					"es": "//(0,30)\\\\Muy inteligente, 47. Ahí nunca encontrarán el cuerpo.",
+					"ru": "//(0,30)\\\\Довольно умно, 47-й. Здесь они тело не найдут.",
+					"cn": "//(0,30)\\\\十分高明，47。把尸体藏在那里他们不可能发现。",
+					"tc": "//(0,30)\\\\真聰明，47。他們不會發現這裡的軀體。",
+					"jp": "//(0,30)\\\\さすがね、47。そこなら死体は見つからないわ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds20023_sp_hiddenbody_diana_002",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_handler/ds20023_sp_hiddenbody_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_handler/ds20023_sp_hiddenbody_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\That should be hidden well enough for the time being.",
+					"fr": "//(0,30)\\\\Le corps ne devrait pas être retrouvé avant longtemps.",
+					"it": "//(0,30)\\\\Per il momento, dovrebbe essere nascosto abbastanza bene.",
+					"de": "//(0,30)\\\\Das sollte fürs Erste ein passables Versteck sein.",
+					"es": "//(0,30)\\\\De momento, ese es un escondite estupendo.",
+					"ru": "//(0,30)\\\\Здесь оно будет хорошо спрятано.",
+					"cn": "//(0,30)\\\\藏那里的话一时半刻都不会有人发现了。",
+					"tc": "//(0,30)\\\\這暫時應該不會被發現。",
+					"jp": "//(0,30)\\\\そこに隠しておけば当分の間は大丈夫でしょう。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds20023_sp_hiddenbody_diana_003",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_handler/ds20023_sp_hiddenbody_diana_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_handler/ds20023_sp_hiddenbody_diana_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Out of sight, out of mind.",
+					"fr": "//(0,30)\\\\Loin des yeux, loin du cœur.",
+					"it": "//(0,30)\\\\Occhio non vede, cuore non duole.",
+					"de": "//(0,30)\\\\Aus den Augen, aus dem Sinn.",
+					"es": "//(0,30)\\\\Si nadie lo ve, no habrá pasado.",
+					"ru": "//(0,30)\\\\С глаз долой, из сердца вон.",
+					"cn": "//(0,30)\\\\眼不见，心不烦。",
+					"tc": "//(0,30)\\\\眼不見為淨。",
+					"jp": "//(0,30)\\\\去る者は日々に疎しってね。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds20023_sp_hiddenbody_diana_004",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_handler/ds20023_sp_hiddenbody_diana_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_handler/ds20023_sp_hiddenbody_diana_004.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Nice shot, 47.",
+					"fr": "//(0,30)\\\\Beau tir, 47.",
+					"it": "//(0,30)\\\\Bel colpo, 47.",
+					"de": "//(0,30)\\\\Guter Schuss, 47.",
+					"es": "//(0,30)\\\\Buen tiro, 47.",
+					"ru": "//(0,30)\\\\Отличный выстрел, 47-й.",
+					"cn": "//(0,30)\\\\好枪法，47。",
+					"tc": "//(0,30)\\\\好槍法，47。",
+					"jp": "//(0,30)\\\\お見事。"
+				}
+			}
+		]
+	}
+}

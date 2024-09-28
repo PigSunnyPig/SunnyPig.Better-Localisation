@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_dirtyoctopus/2000_dirtyoctopus_handler/dr2620_diana.sweetdialog?/dr2620_diana_diana_et_004.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr2620_diana_diana_et_004",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_dirtyoctopus/2000_dirtyoctopus_handler/dr2620_diana_diana_et_004.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_dirtyoctopus/2000_dirtyoctopus_handler/dr2620_diana_diana_et_004.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA_ET]\\\\//(0,30)\\\\Good work, 47. That will give us something to look for. Let me see what I can pull out of the data.",
+			"fr": "//[DIANA_ET]\\\\//(0,1.6)\\\\Beau travail, 47.//(1.6,31.6)\\\\Voilà qui va nous aider. Laissez-moi voir ce que je peux tirer des données.",
+			"it": "//[DIANA_ET]\\\\//(0,3.38)\\\\Ottimo lavoro, 47. Ora abbiamo qualcosa su cui lavorare.//(3.38,33.38)\\\\Vediamo se riesco a ricavare informazioni utili.",
+			"de": "//[DIANA_ET]\\\\//(0,30)\\\\Gute Arbeit, 47. Damit können wir arbeiten. Mal sehen, was sich aus den Daten rausholen lässt.",
+			"es": "//[DIANA_ET]\\\\//(0,1.7)\\\\Buen trabajo, 47.//(1.7,3.67)\\\\Eso nos dará algo que buscar.//(3.67,33.67)\\\\Déjame ver lo que puedo averiguar.",
+			"ru": "//[DIANA_ET]\\\\//(0,30)\\\\Отличная работа, 47-й. Это нам очень пригодится. Посмотрим, что я найду.",
+			"cn": "//[DIANA_ET]\\\\//(0,3.368098)\\\\干得好，47。这样我们就有目标可循了。//(3.368098,33.3681)\\\\让我来看看数据中都有哪些情报。",
+			"tc": "//[DIANA_ET]\\\\//(0,30)\\\\幹得好，47。這樣我們就有目標了。讓我來看看資料中都有哪些情報。",
+			"jp": "//[DIANA_ET]\\\\//(0,30)\\\\お見事。これは調べる価値がありそうね。データから情報を引き出してみるわ。"
+		}
+	}
+}

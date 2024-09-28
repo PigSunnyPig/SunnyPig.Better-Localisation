@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_skunk/27000_handler/ds27005_bothtargetsdown.sweetdialog?/ds27005_bothtargetsdown_diana_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds27005_bothtargetsdown_diana_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_skunk/27000_handler/ds27005_bothtargetsdown_diana_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_skunk/27000_handler/ds27005_bothtargetsdown_diana_002.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,30)\\\\We are close now, gentlemen. Both targets are dead.",
+			"fr": "//[DIANA]\\\\//(0,1.7)\\\\Nous y sommes presque, messieurs.//(1.7,3.460491)\\\\Les deux cibles sont mortes.",
+			"it": "//[DIANA]\\\\//(0,1.472214)\\\\Signori, ormai ci siamo quasi.//(1.472214,3.092875)\\\\Entrambi gli obiettivi sono stati eliminati.",
+			"de": "//[DIANA]\\\\//(0,1.827)\\\\Wir haben es fast geschafft, meine Herren.//(1.827,4.196687)\\\\Beide Ziele sind tot.",
+			"es": "//[DIANA]\\\\//(0,1.724294)\\\\Estamos cerca, caballeros.//(1.724294,3.092875)\\\\Los dos objetivos están muertos.",
+			"ru": "//[DIANA]\\\\//(0,30)\\\\Мы уже близко, господа. Обе цели мертвы.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\先生们，我们很快就能成功了。两名目标都已消灭。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\先生們，我們很快就會成功了。兩名目標都已消滅。",
+			"jp": "//[DIANA]\\\\//(0,30)\\\\皆、もうすぐよ。ターゲットは双方とも死んだわ。"
+		}
+	}
+}

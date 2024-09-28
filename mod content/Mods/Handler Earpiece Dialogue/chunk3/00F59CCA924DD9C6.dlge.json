@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/bulldog/41000_elusive/41000_bramble/41000_bramble_handler/ds41502_brambletargetid.sweetdialog?/ds41502_brambletargetid_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41502_brambletargetid_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/bulldog/41000_elusive/41000_bramble/41000_bramble_handler/ds41502_brambletargetid_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/bulldog/41000_elusive/41000_bramble/41000_bramble_handler/ds41502_brambletargetid_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\That – is Kody Haynes, obsessive collector, and master of disguise.",
+			"fr": "//(0,30)\\\\C'est... Kody Haynes. Collectionneur compulsif et maître du déguisement.",
+			"it": "//(0,30)\\\\Quello... è Kody Haynes, collezionista compulsivo e maestro del camuffamento.",
+			"de": "//(0,30)\\\\Das ... ist Kody Haynes, ein besessener Kunstsammler und ein Meister der Verkleidung.",
+			"es": "//(0,30)\\\\Ese... es Kody Haynes, coleccionista obsesivo y maestro del disfraz.",
+			"ru": "//(0,30)\\\\А вот и Коди Хейнс, одержимый коллекционер и мастер маскировки.",
+			"cn": "//(0,30)\\\\那就是科迪·海恩斯，狂热的收藏家和伪装大师。",
+			"tc": "//(0,30)\\\\那就是柯迪‧海因斯，一名著迷的收藏家和偽裝大師。",
+			"jp": "//(0,30)\\\\あれが、コディー・ヘインズよ。執着心の強いコレクターにして、変装の達人。"
+		}
+	}
+}

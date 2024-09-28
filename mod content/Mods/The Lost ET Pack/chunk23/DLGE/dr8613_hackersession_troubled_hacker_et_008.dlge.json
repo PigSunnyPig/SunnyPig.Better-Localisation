@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8613_hackersession.sweetdialog?/dr8613_hackersession_troubled_hacker_et_008.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8613_hackersession_troubled_hacker_et_008",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8613_hackersession_troubled_hacker_et_008.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8613_hackersession_troubled_hacker_et_008.animset].pc_animset",
+		"languages": {
+			"en": "//(0,5.4)\\\\I suppose. I think the problem is that it’s hard to see the bigger picture sometimes.//(5.4,8.3)\\\\Hard to know exactly where, or what we’re doing.//(8.3,38.3)\\\\I suppose I just have to trust that the people who see the big picture know that it’s right.",
+			"fr": "//(0,1.86)\\\\Je crois, oui.//(1.86,5.47)\\\\Je pense que j'ai du mal à distinguer notre but ultime.//(5.47,9.05)\\\\C'est difficile de savoir où on va et ce qu'on fait.//(9.05,39.05)\\\\Je devrais faire confiance aux gens qui connaissent exactement tous les enjeux.",
+			"it": "//(0,5.371)\\\\Forse sì. Il problema è che a volte è difficile capire quale sia il piano.//(5.371,9.030062)\\\\Sapere di preciso cosa stiamo facendo.//(9.030062,39.03006)\\\\Immagino che dovrei fidarmi del giudizio di chi ha una prospettiva più ampia.",
+			"de": "//(0,5.7)\\\\Wahrscheinlich. Das Problem ist, dass es manchmal schwer ist, das große Ganze zu sehen.//(5.7,9.1)\\\\Ich weiß nicht genau, was wir eigentlich machen.//(9.1,39.1)\\\\Vermutlich muss ich darauf vertrauen, dass die Leute, die das große Ganze sehen, schon wissen werden, dass das alles richtig ist.",
+			"es": "//(0,5.5)\\\\Supongo que sí. Creo que el problema es que a veces cuesta ver el plan en su conjunto.//(5.5,8.902)\\\\Es difícil saber exactamente qué estamos haciendo.//(8.902,38.902)\\\\Supongo que tengo que confiar en que la gente que sí puede verlo sepa qué es lo correcto.",
+			"ru": "//(0,1.506196)\\\\Да, наверное...//(1.506196,5.55)\\\\Думаю, проблема в том, что иногда я не вижу всей картины целиком.//(5.55,8.85)\\\\Сложно понять, что и зачем мы делаем.//(8.85,38.85)\\\\Наверное, надо просто довериться тем, кто это знает.",
+			"cn": "//(0,5.4)\\\\我想是的。我觉得问题在于，有时我们很难看清大局。//(5.4,8.3)\\\\很难知道我们到底在哪里，在做什么。//(8.3,38.3)\\\\我想，我只能相信，那些洞察全局的人知道这样做是对的。",
+			"tc": "//(0,5.4)\\\\我想。我認為問題在於有時很難看到更大的圖像。//(5.4,8.3)\\\\很難確切地知道我們在哪裡，或者我們在做什麼。//(8.3,38.3)\\\\我想我只需要相信那些看到大局的人就知道這是正確的。",
+			"jp": "//(0,5.4)\\\\I suppose. I think the problem is that it’s hard to see the bigger picture sometimes.//(5.4,8.3)\\\\Hard to know exactly where, or what we’re doing.//(8.3,38.3)\\\\I suppose I just have to trust that the people who see the big picture know that it’s right."
+		}
+	}
+}

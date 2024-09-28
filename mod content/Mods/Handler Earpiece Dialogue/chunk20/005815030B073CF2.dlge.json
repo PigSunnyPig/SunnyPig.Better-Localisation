@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/newzealand/31000_sheep/31000_handler/ds31001_laptop.sweetdialog?/ds31001_laptop_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds31001_laptop_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_sheep/31000_handler/ds31001_laptop_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_sheep/31000_handler/ds31001_laptop_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\47. That computer. See if you can’t access it.",
+			"fr": "//(0,30)\\\\47, cet ordinateur... Essayez d'y accéder.",
+			"it": "//(0,30)\\\\47, vedi se riesci ad hackerare quel computer.",
+			"de": "//(0,2.136637)\\\\47. Dieser Computer.//(2.136637,5.586637)\\\\Versuchen Sie, an seinen Inhalt zu kommen.",
+			"es": "//(0,30)\\\\47, aquel ordenador. A ver si puedes meterte en él.",
+			"ru": "//(0,30)\\\\47-й. Попробуй добраться до того компьютера.",
+			"cn": "//(0,30)\\\\47。那台电脑。想办法闯入其系统。",
+			"tc": "//(0,30)\\\\47。那台電腦。看看你能不能夠侵入它。",
+			"jp": "//(0,30)\\\\47。そのパソコンにアクセスできるか試してみて。"
+		}
+	}
+}

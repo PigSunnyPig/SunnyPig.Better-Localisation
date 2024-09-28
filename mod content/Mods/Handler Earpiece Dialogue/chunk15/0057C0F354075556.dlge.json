@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_magpie/29000_handler/ds29045_kidnappingchoice.sweetdialog?/ds29045_kidnappingchoice_grey_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds29045_kidnappingchoice_grey_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_magpie/29000_handler/ds29045_kidnappingchoice_grey_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_magpie/29000_handler/ds29045_kidnappingchoice_grey_002.animset].pc_animset",
+		"languages": {
+			"en": "//[GREY]\\\\//(0,2.00876)\\\\In position.//(2.00876,6.893342)\\\\Leave the Constant to me or intercept him yourself and bring him to the harbor.//(6.893342,8.902354)\\\\Your choice, 47.",
+			"fr": "//[GREY]\\\\//(0,3.646329)\\\\En position. Soit vous me laissez m'occuper de lui,//(3.646329,6.5)\\\\soit vous l'interceptez et l'emmenez au port.//(6.5,8.975216)\\\\À vous de voir, 47.",
+			"it": "//[GREY]\\\\//(0,2.105)\\\\In posizione.//(2.105,3.67406)\\\\Lascia a me la Costante oppure//(3.67406,7.23)\\\\intercettalo e conducilo al porto.//(7.23,8.902354)\\\\Scegli tu, 47.",
+			"de": "//[GREY]\\\\//(0,1.9)\\\\In Position.//(1.9,3.6)\\\\Überlass mir die Konstante mir oder//(3.6,5.192392)\\\\fang sie selbst ab,//(5.192392,7.540491)\\\\um sie zum Hafen zu bringen.//(7.540491,10.04807)\\\\Du hast die Wahl, 47.",
+			"es": "//[GREY]\\\\//(0,1.899)\\\\En posición.//(1.899,3.652)\\\\Puedes dejar que yo me ocupe del Constante o//(3.652,7.002)\\\\puedes llevarlo tú mismo al puerto.//(7.002,8.902354)\\\\Tú decides, 47.",
+			"ru": "//[GREY]\\\\//(0,4.308843)\\\\Я на месте. Поручи Константу мне или перехвати его//(4.308843,6.953773)\\\\сам и приведи на пристань.//(6.953773,8.902354)\\\\Тебе решать, 47-й.",
+			"cn": "//[GREY]\\\\//(0,30)\\\\我已就位。把\"永恒常量\"交给我，或者你们自己去拦截他，并且带到港口。由你选择，47。",
+			"tc": "//[GREY]\\\\//(0,30)\\\\我已就位。把「常任」交給我，或者你們自己去攔截他，並且帶到港口。你自己選擇，47。",
+			"jp": "//[GREY]\\\\//(0,2)\\\\配置についた。//(2,7)\\\\コンスタントのことは私に任せるか、自分で捕らえて港に連れて行くか。//(7,8.902354)\\\\どちらでも構わないぞ、47。"
+		}
+	}
+}

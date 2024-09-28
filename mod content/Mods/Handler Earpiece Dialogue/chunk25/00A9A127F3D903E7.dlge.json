@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/marrakech/6000_elusive/6000_ginfizz/6000_ginfizz_handler/dr6640_diana.sweetdialog?/dr6640_diana_diana_et_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr6640_diana_diana_et_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/6000_elusive/6000_ginfizz/6000_ginfizz_handler/dr6640_diana_diana_et_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/6000_elusive/6000_ginfizz/6000_ginfizz_handler/dr6640_diana_diana_et_002.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA_ET]\\\\//(0,2.242393)\\\\Welcome to Marrakesh, 47.//(2.242393,6.897668)\\\\The situation on the ground has deteriorated, and the coup is now imminent.//(6.897668,10.34675)\\\\I have recent intercepts placing the target at the abandoned school//(10.34675,13.70963)\\\\currently functioning as a staging area for the coup.//(13.70963,43.70963)\\\\Good hunting, 47.",
+			"fr": "//[DIANA_ET]\\\\//(0,2.4)\\\\Bienvenue à Marrakech, 47.//(2.4,6.9)\\\\La situation va de mal en pis, et le coup d'état est désormais imminent.//(6.9,13.58)\\\\D'après de récentes interceptions, la cible se trouverait dans l'école abandonnée depuis laquelle s'organise le putsch.//(13.58,43.58)\\\\Bonne chasse, 47.",
+			"it": "//[DIANA_ET]\\\\//(0,2.242393)\\\\Benvenuto a Marrakech, 47.//(2.242393,7.00957)\\\\La situazione è precipitata e il colpo di stato è ormai imminente.//(7.00957,10.22865)\\\\Secondo le ultime segnalazioni, il bersaglio si trova nella scuola abbandonata//(10.22865,13.33724)\\\\scelta dai golpisti come base operativa.//(13.33724,43.33724)\\\\Buona caccia, 47.",
+			"de": "//[DIANA_ET]\\\\//(0,2.092393)\\\\Willkommen in Marrakesch, 47.//(2.092393,6.995767)\\\\Die Lage hat sich verschärft. Der Putsch ist nur noch eine Frage der Zeit.//(6.995767,13.29153)\\\\Laut meiner Recherchen hält sich die Zielperson in der verlassenen Schule auf, die den Putschisten als Hauptquartier dient.//(13.29153,43.29153)\\\\Waidmannsheil, 47!",
+			"es": "//[DIANA_ET]\\\\//(0,2.283)\\\\Bienvenido a Marrakech, 47.//(2.283,6.597)\\\\La situación en el terreno ha empeorado, y el golpe de estado es inminente.//(6.597,10.396)\\\\He interceptado información que sitúa al objetivo en el colegio abandonado,//(10.396,13.01)\\\\que actualmente es una zona de pruebas para preparar el golpe.//(13.01,43.01)\\\\Buena caza, 47.",
+			"ru": "//[DIANA_ET]\\\\//(0,2.460491)\\\\Добро пожаловать в Марракеш, 47-й.//(2.460491,7.1)\\\\Ситуация накаляется с каждым часом, и переворота теперь не миновать.//(7.1,10.3)\\\\Из перехваченных переговоров мы узнали, что цель находится в заброшенной школе,//(10.3,13.6)\\\\где сейчас штаб заговорщиков.//(13.6,43.6)\\\\Доброй охоты, 47-й.",
+			"cn": "//[DIANA_ET]\\\\//(0,2.2)\\\\欢迎来到马拉喀什，47。//(2.2,6.6)\\\\当地局势已经恶化，政变迫在眉睫。//(6.6,13.2)\\\\我最近截获的情报显示，目标在一所废弃的学校，目前被征为政变的集结地。//(13.2,43.2)\\\\47，祝你狩猎愉快。",
+			"tc": "//[DIANA_ET]\\\\//(0,2.242)\\\\歡迎來到馬拉喀什，47。//(2.242,6.898)\\\\地面上的情況惡化了，政變即將發生。//(6.898,10.347)\\\\我最近取得的情報發現目標正在把廢棄的學校//(10.347,13.71)\\\\當作政變的策劃地點。//(13.71,43.71)\\\\狩獵愉快，47。",
+			"jp": "//[DIANA_ET]\\\\//(0,2.1)\\\\マラケシュへようこそ 47//(2.1,6.8)\\\\現地の状況は安定しておらずクーデター間近というところよ//(6.8,12.8)\\\\傍受した情報によると現在標的は彼らの集結地としている廃校にいるようね//(12.8,14.91969)\\\\成果を期待しているわ"
+		}
+	}
+}

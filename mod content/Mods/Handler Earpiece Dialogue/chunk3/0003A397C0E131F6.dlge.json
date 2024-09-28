@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/bulldog/41000_elusive/41000_vesper/41000_vesper_handler/ds444502_onetargetdown.sweetdialog?/ds444502_onetargetdown_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds444502_onetargetdown_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/bulldog/41000_elusive/41000_vesper/41000_vesper_handler/ds444502_onetargetdown_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/bulldog/41000_elusive/41000_vesper/41000_vesper_handler/ds444502_onetargetdown_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.1)\\\\Target down.//(1.1,31.1)\\\\It's not over yet, 47. One more to go.",
+			"fr": "//(0,30)\\\\Cible éliminée. Restez concentré, 47, il en reste une.",
+			"it": "//(0,30)\\\\Bersaglio eliminato. Non è ancora finita, 47. Ne manca uno.",
+			"de": "//(0,30)\\\\Ziel neutralisiert. Es ist noch nicht vorbei, 47. Einer fehlt noch.",
+			"es": "//(0,30)\\\\Objetivo abatido, pero aún no has terminado, 47: falta otro.",
+			"ru": "//(0,30)\\\\Цель устранена. Но это не всё, 47-й. Осталась вторая цель.",
+			"cn": "//(0,30)\\\\目标已消灭。还没完呢，47。还有一个目标。",
+			"tc": "//(0,30)\\\\目標已消滅。還沒完呢，47。還有一個目標。",
+			"jp": "//(0,30)\\\\ターゲットを倒したわ。でも、まだ終わりじゃないわ、47。もう一人へ進みましょう。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/bangkok/12000_white_spider/12000_zika/12000_handler/ds12043_diana_all_down.sweetdialog?/ds12043_diana_all_down_diana_ws_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds12043_diana_all_down_diana_ws_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/12000_white_spider/12000_zika/12000_handler/ds12043_diana_all_down_diana_ws_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/12000_white_spider/12000_zika/12000_handler/ds12043_diana_all_down_diana_ws_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.482)\\\\All Targets eliminated, 47. Contract complete.//(3.482,33.482)\\\\I'll have the money wired to your account. Good work, as always.",
+			"fr": "//(0,3.482)\\\\Toutes les cibles ont été éliminées, 47. Je vous fais transférer l'argent.//(3.482,33.482)\\\\Bon travail, encore une fois.",
+			"it": "//(0,3.482)\\\\Bersagli eliminati, 47. Hai portato a termine il contratto.//(3.482,33.482)\\\\Faccio trasferire il denaro sul tuo conto. Ottimo lavoro, come sempre.",
+			"de": "//(0,3.482)\\\\Alle Ziele eliminiert, 47. Auftrag erledigt. Ich überweise das Geld auf Ihr Konto.//(3.482,33.482)\\\\Gute Arbeit, wie immer.",
+			"es": "//(0,3.482)\\\\Eliminaste los objetivos y completaste el contrato, 47. El dinero se transferirá a tu cuenta.//(3.482,33.482)\\\\Buen trabajo, como siempre.",
+			"ru": "//(0,3.482)\\\\Все цели устранены, 47-й. Контракт выполнен.//(3.482,33.482)\\\\Я позабочусь, чтобы деньги перечислили на твой счет. Как всегда, отлично сработано.",
+			"cn": "//(0,30)\\\\全部目标均被消灭，47。契约完成。我会将钱款汇入你的账户。一如既往的出色。",
+			"tc": "//(0,30)\\\\全部目標均被消滅，47。契約完成。我會將錢款匯入你的帳戶。一如既往的出色。",
+			"jp": "//(0,30)\\\\全ターゲット排除。 任務完了よ、 47。 報酬は 口座に 振り込んで おくわ。 いつもながら 見事ね。"
+		}
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/golden/gecko/40000_handler/ds40015_assintelphoto.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds40015_assintelphoto_grey_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/gecko/40000_handler/ds40015_assintelphoto_grey_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/gecko/40000_handler/ds40015_assintelphoto_grey_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,4.116755)\\\\Yes, that's it. Ingram is now like shooting fish in//(4.116755,5.3)\\\\a barrel.",
+					"fr": "//(0,5.3)\\\\Impeccable. On n'aura aucun mal à se faire Ingram, maintenant.",
+					"it": "//(0,2.1)\\\\Sì, esatto.//(2.1,6.16908)\\\\Ora Ingram è proprio come un pesce nella rete.",
+					"de": "//(0,2.039706)\\\\Ja, so ist es gut.//(2.039706,3.970067)\\\\Es sollte jetzt ein Kinderspiel sein,//(3.970067,5.3)\\\\Ingram zu erledigen.",
+					"es": "//(0,1.3)\\\\Sí, eso es.//(2.1,5.3)\\\\Ahora lo de Ingram será como dispararle a un pato de feria.",
+					"ru": "//(0,30)\\\\Да, отлично. Теперь убрать Ингрэма проще пареной репы.",
+					"cn": "//(0,30)\\\\没错，就是这样。英格拉姆已经是俎上鱼肉了。",
+					"tc": "//(0,30)\\\\好，就是這樣。這下想殺英格倫簡直易如反掌。",
+					"jp": "//(0,30)\\\\よくやった。これでイングラムは袋の中のねずみだ。"
+				}
+			}
+		]
+	}
+}

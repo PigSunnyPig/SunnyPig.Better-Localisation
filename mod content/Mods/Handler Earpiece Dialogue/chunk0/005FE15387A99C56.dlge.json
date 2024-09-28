@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/tutorial/9000_handler/ds9259_escortknight.sweetdialog?/ds9259_escortknight_young_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds9259_escortknight_young_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/tutorial/9000_handler/ds9259_escortknight_young_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/tutorial/9000_handler/ds9259_escortknight_young_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.289)\\\\He does prattle on doesn't he? Anyway, you're almost there, Initiate.//(4.289,10)\\\\All you need is to do is read him the instructions in the manual by the jet and Knight will take care of the rest.//(10,40)\\\\Boy, is he in for ride...",
+			"fr": "//(0,1.734)\\\\C'est vrai qu'il parle beaucoup...//(1.990491,2.778589)\\\\Enfin,//(2.778589,4.228589)\\\\vous y êtes presque, initié.//(4.38908,7.89)\\\\Vous n'avez plus qu'à lui lire les instructions du manuel près de l'avion,//(7.95,10.05)\\\\et Knight s'occupera du reste.//(10.29049,40.29049)\\\\Il ne sera pas déçu du voyage...",
+			"it": "//(0,1.896)\\\\Non è esattamente un tipo taciturno, eh?//(1.896,4.365)\\\\In ogni caso, siamo a un passo dal successo.//(4.365,10.287)\\\\Non ti resta che leggergli le istruzioni scritte sul manuale vicino all'aereo e Knight farà il resto.//(10.287,40.287)\\\\Lo aspetta un viaggio indimenticabile...",
+			"de": "//(0,1.9)\\\\Er hört nicht auf zu labern, was?//(2.1,4.7)\\\\Egal, Sie haben's fast geschafft, Rekrut.//(4.7,10.55)\\\\Sie müssen ihm nur noch am Jet die Anweisungen aus dem Handbuch vorlesen, dann erledigt Knight den Rest.//(10.55,40.55)\\\\Mann, das wird ein Flug ...",
+			"es": "//(0,2.4)\\\\Cómo le gusta cotorrear, ¿no?//(2.4,8.7)\\\\Bueno, ya casi estás, iniciado. Solo tienes que leerle las instrucciones del manual del avión,//(8.7,38.7)\\\\y Knight se ocupará del resto. No sabe lo que le espera...",
+			"ru": "//(0,1.647)\\\\А он тот еще болтун, верно?//(1.647,4.114)\\\\Как бы то ни было, дело уже почти сделано.//(4.114,7.962)\\\\Осталось только ознакомить его с правилами техники безопасности рядом с самолетом.//(7.962,10.494)\\\\Остальное Найт сделает сам.//(10.494,40.494)\\\\Его ждет славный полет...",
+			"cn": "//(0,2.068098)\\\\他话还挺多的嘛。//(2.068098,4.318098)\\\\不管怎样，你快到了，新人。//(4.318098,8.068098)\\\\你只需要站在飞机旁边将手册上的指示读给奈特听，//(8.068098,38.0681)\\\\其他的交给他自己就行。哎呀呀，他被弹上天了......",
+			"tc": "//(0,2.068)\\\\他話還挺多的嘛。//(2.068,4.318)\\\\不管怎樣，你快到了，新人。//(4.318,8.068)\\\\你只需要站在飛機旁邊將手冊上的指示讀給奈特聽，//(8.068,38.068)\\\\其他的交給他自己就行。哎呀呀，他要被彈上天了......",
+			"jp": "//(0,4.5)\\\\よくしゃべる人ね。 とにかく、あともう少し。 あなたはジェット機の横で//(4.5,8.8)\\\\マニュアルを読み上げるだけ。 あとは彼に任せて。//(8.8,12.52665)\\\\エキサイティングなフライトになりそうね"
+		}
+	}
+}

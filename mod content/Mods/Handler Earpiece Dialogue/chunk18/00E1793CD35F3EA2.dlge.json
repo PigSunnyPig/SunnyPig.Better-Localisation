@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colombia/23000_hippo/23000_handler/23000_hippo_flyin.sweetdialog?/23000_hippo_flyin_diana_004.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "23000_hippo_flyin_diana_004",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colombia/23000_hippo/23000_handler/23000_hippo_flyin_diana_004.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colombia/23000_hippo/23000_handler/23000_hippo_flyin_diana_004.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,5.696)\\\\Security around Santa Fortuna and the closed-off cartel compound is extremely tight.",
+			"fr": "//[DIANA]\\\\//(0,30)\\\\La sécurité à Santa Fortuna et dans les bâtiments qui abritent le cartel est maximale.",
+			"it": "//[DIANA]\\\\//(0,5.696)\\\\I controlli di sicurezza intorno a Santa Fortuna e al complesso del cartello sono molto rigidi.",
+			"de": "//[DIANA]\\\\//(0,3.817178)\\\\In und um Santa Fortuna sowie auf dem abgeschotteten Anwesen des Kartells//(3.817178,33.81718)\\\\legt man großen Wert auf Sicherheit.",
+			"es": "//[DIANA]\\\\//(0,30)\\\\La seguridad en torno a Santa Fortuna y en el complejo cerrado del cártel es de lo más rigurosa.",
+			"ru": "//[DIANA]\\\\//(0,30)\\\\Санта-Фортуна и закрытая база картеля находятся под очень серьезной охраной.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\圣福耳图那以及附近的黑帮巢穴周围的安保非常严密。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\聖福耳圖那和封閉的黑幫根據地周圍戒備森嚴。",
+			"jp": "//[DIANA]\\\\//(0,4.125)\\\\サンタ・フォルチューナ周辺と立ち入り禁止のカルテルの屋敷の警備は//(4.125,34.125)\\\\極めて厳重よ。"
+		}
+	}
+}

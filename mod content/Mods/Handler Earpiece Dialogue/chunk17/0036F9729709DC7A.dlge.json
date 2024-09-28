@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25096_maelstromnoid7.sweetdialog?/ds25096_maelstromnoid7_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25096_maelstromnoid7_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25096_maelstromnoid7_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25096_maelstromnoid7_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Shame. Not The Maelstrom.",
+			"fr": "//(0,30)\\\\Ce n'est pas le Maelström. Dommage.",
+			"it": "//(0,30)\\\\Che peccato. Non è Maelstrom.",
+			"de": "//(0,30)\\\\Schade. Das ist nicht der Maelstrom.",
+			"es": "//(0,30)\\\\Qué pena. No es el Torbellino.",
+			"ru": "//(0,30)\\\\Это не Вихрь. Жаль.",
+			"cn": "//(0,30)\\\\真遗憾。并不是大漩涡。",
+			"tc": "//(0,30)\\\\真遺憾。不是大漩渦。",
+			"jp": "//(0,30)\\\\残念。メイルストロムじゃないわ。"
+		}
+	}
+}

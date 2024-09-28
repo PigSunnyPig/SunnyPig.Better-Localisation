@@ -1,0 +1,106 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/12500_white_spider/12500_rabies/12500_handler/ds12523_killn.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds12523_killn_diana_ws_001",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12523_killn_diana_ws_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12523_killn_diana_ws_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\An infected Target eliminated. Well done...",
+					"fr": "//(0,30)\\\\Cible infectée éliminée. Beau travail.",
+					"it": "//(0,30)\\\\Bersaglio infetto eliminato. Ben fatto...",
+					"de": "//(0,30)\\\\Infiziertes Ziel eliminiert. Gut gemacht ...",
+					"es": "//(0,30)\\\\Un objetivo infectado eliminado. Bien hecho...",
+					"ru": "//(0,30)\\\\Зараженная цель устранена. Так держать...",
+					"cn": "//(0,30)\\\\一名感染者已被消灭。干得好...",
+					"tc": "//(0,30)\\\\一名感染者已被消滅。幹得好......",
+					"jp": "//(0,30)\\\\感染者の 排除を 確認。 上出来よ..."
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds12523_killn_diana_ws_002",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12523_killn_diana_ws_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12523_killn_diana_ws_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Elimination confirmed. Good work...",
+					"fr": "//(0,30)\\\\Élimination confirmée. Bon travail.",
+					"it": "//(0,30)\\\\Eliminazione confermata. Ottimo lavoro...",
+					"de": "//(0,30)\\\\Eliminierung bestätigt. Gute Arbeit ...",
+					"es": "//(0,30)\\\\Eliminación confirmada. Buen trabajo.",
+					"ru": "//(0,30)\\\\Подтверждаю устранение. Хорошая работа...",
+					"cn": "//(0,30)\\\\确认消灭。干得不错...",
+					"tc": "//(0,30)\\\\確認消滅。幹得不錯......",
+					"jp": "//(0,30)\\\\排除を 確認。 お見事ね..."
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds12523_killn_diana_ws_003",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12523_killn_diana_ws_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12523_killn_diana_ws_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Target down. Excellent...",
+					"fr": "//(0,30)\\\\Cible liquidée. Excellent...",
+					"it": "//(0,30)\\\\Bersaglio confermato. Eccellente...",
+					"de": "//(0,30)\\\\Zielperson am Boden. Ausgezeichnet ...",
+					"es": "//(0,30)\\\\Objetivo confirmado. Excelente.",
+					"ru": "//(0,30)\\\\Цель уничтожена. Отлично...",
+					"cn": "//(0,30)\\\\目标确认。非常好...",
+					"tc": "//(0,30)\\\\目標確認。非常好...",
+					"jp": "//(0,30)\\\\標的を 排除。 さすがね..."
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds12523_killn_diana_ws_004",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12523_killn_diana_ws_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12523_killn_diana_ws_004.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Target down.",
+					"fr": "//(0,30)\\\\Cible éliminée.",
+					"it": "//(0,30)\\\\Bersaglio eliminato.",
+					"de": "//(0,30)\\\\Ziel neutralisiert.",
+					"es": "//(0,30)\\\\Objetivo abatido.",
+					"ru": "//(0,30)\\\\Цель уничтожена.",
+					"cn": "//(0,30)\\\\目标已被消灭",
+					"tc": "//(0,30)\\\\目標確認。",
+					"jp": "//(0,30)\\\\ターゲット・ ダウン。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds12523_killn_diana_ws_005",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12523_killn_diana_ws_005.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12523_killn_diana_ws_005.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Target eliminated.",
+					"fr": "//(0,30)\\\\Cible éliminée.",
+					"it": "//(0,30)\\\\Bersaglio eliminato.",
+					"de": "//(0,30)\\\\Ziel neutralisiert.",
+					"es": "//(0,30)\\\\Objetivo eliminado.",
+					"ru": "//(0,30)\\\\Цель уничтожена.",
+					"cn": "//(0,30)\\\\目标已被消灭。",
+					"tc": "//(0,30)\\\\目標已被消滅。",
+					"jp": "//(0,30)\\\\標的は 死亡。"
+				}
+			}
+		]
+	}
+}

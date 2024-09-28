@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_skunk/27000_handler/ds27053_oppsmokingconclusion.sweetdialog?/ds27053_oppsmokingconclusion_grey_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds27053_oppsmokingconclusion_grey_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_skunk/27000_handler/ds27053_oppsmokingconclusion_grey_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_skunk/27000_handler/ds27053_oppsmokingconclusion_grey_001.animset].pc_animset",
+		"languages": {
+			"en": "//[GREY]\\\\//(0,30)\\\\Good work, 47. All there is left to do now is wait.",
+			"fr": "//[GREY]\\\\//(0,30)\\\\Bien joué, 47. Il ne reste plus qu'à attendre.",
+			"it": "//[GREY]\\\\//(0,1.724294)\\\\Ottimo lavoro, 47.//(1.724294,5.905276)\\\\L'unica cosa che ci resta da fare adesso è aspettare.",
+			"de": "//[GREY]\\\\//(0,30)\\\\Gute Arbeit, 47. Jetzt müssen wir nur noch warten.",
+			"es": "//[GREY]\\\\//(0,30)\\\\Buen trabajo, 47. Ya solo resta esperar.",
+			"ru": "//[GREY]\\\\//(0,30)\\\\Отличная работа, 47-й. Теперь надо лишь подождать.",
+			"cn": "//[GREY]\\\\//(0,30)\\\\干得好，47。现在只需要等待就行了。",
+			"tc": "//[GREY]\\\\//(0,30)\\\\幹得好，47。現在只需要等待就行了。",
+			"jp": "//[GREY]\\\\//(0,30)\\\\よくやった、47。あとは待つだけだ。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8613_hackersession.sweetdialog?/dr8613_hackersession_troubled_hacker_et_012.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8613_hackersession_troubled_hacker_et_012",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8613_hackersession_troubled_hacker_et_012.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8613_hackersession_troubled_hacker_et_012.animset].pc_animset",
+		"languages": {
+			"en": "//(0,6.3)\\\\It’s great, though, the team. I mean, really military, and not a lot of geeks adapt well to that.//(6.3,11.3)\\\\But you know, we work together on this. And it feels bigger than any of us.//(11.3,41.3)\\\\Like there’s a real purpose to it. Something that’s important.",
+			"fr": "//(0,2.4)\\\\À côté de ça, j'adore l'équipe.//(2.4,6.35)\\\\C'est vraiment des militaires, et y a peu de geeks qui peuvent s'adapter à ça.//(6.35,9.77)\\\\Mais bon, on bosse tous ensemble.//(9.77,39.77)\\\\Pour un truc ultra important. Quelque chose qui a un sens. Quelque chose qui compte.",
+			"it": "//(0,6.293374)\\\\È un'ottima squadra, comunque. Molto militarizzata, e per un informatico non è semplice adattarsi.//(6.293374,11.247)\\\\Eppure collaboriamo tutti al progetto. Sentiamo che è qualcosa di più grande di noi.//(11.247,41.247)\\\\Con un obiettivo concreto. Qualcosa di importante.",
+			"de": "//(0,6.273374)\\\\Das Team ist ja auch toll. Echte Militärs, so was ist nichts für Geeks.//(6.273374,11.5)\\\\Wir arbeiten zusammen an dieser Sache, und sie ist größer als irgendeiner von uns.//(11.5,41.5)\\\\Es gibt ein richtiges Ziel. Und es muss richtig wichtig sein.",
+			"es": "//(0,2.340491)\\\\Pero el equipo es genial.//(2.340491,6.386)\\\\Está muy en todo el rollo militar, y no hay muchos informáticos que se adapten bien a eso.//(6.386,11.396)\\\\Pero trabajamos juntos, y da la sensación de que es algo más grande que todos nosotros.//(11.396,41.396)\\\\Como que hay un objetivo real, algo importante.",
+			"ru": "//(0,2)\\\\Но мне нравится, что все мы — одна команда.//(2,6.501)\\\\Ну, то есть, здесь все, как в армии, а к такому обычным ботаникам адаптироваться непросто.//(6.501,9)\\\\Но, знаете, у нас есть общее дело.//(9,11.5)\\\\И оно гораздо важнее, чем каждый из нас по отдельности.//(11.5,41.5)\\\\Я чувствую, что у нас есть какая-то цель. Что-то по-настоящему важное.",
+			"cn": "//(0,6.3)\\\\不过，这个团队很棒。我是说，真的很军事化，不是那种很多宅男都能适应的。//(6.3,11.3)\\\\但你知道，我们是在一起工作的。这种感觉比我们任何人都重要。//(11.3,41.3)\\\\就像有一个真正的目的。很重要的东西。",
+			"tc": "//(0,6.3)\\\\不過，團隊很棒。我的意思是，真正的軍事，並沒有很多極客能夠很好地適應這一點。//(6.3,11.3)\\\\但你知道，我們在這方面共同努力。它感覺比我們任何人都大。//(11.3,41.3)\\\\就像它有一個真正的目的一樣。某件事很重要。",
+			"jp": "//(0,6.3)\\\\It’s great, though, the team. I mean, really military, and not a lot of geeks adapt well to that.//(6.3,11.3)\\\\But you know, we work together on this. And it feels bigger than any of us.//(11.3,41.3)\\\\Like there’s a real purpose to it. Something that’s important."
+		}
+	}
+}

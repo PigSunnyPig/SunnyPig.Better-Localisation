@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colombia/23000_hippo/23000_handler/ds23045_tattoochaircomment.sweetdialog?/ds23045_tattoochaircomment_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds23045_tattoochaircomment_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colombia/23000_hippo/23000_handler/ds23045_tattoochaircomment_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colombia/23000_hippo/23000_handler/ds23045_tattoochaircomment_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.842393)\\\\Interesting office setup, 47.//(2.842393,3.739802)\\\\If I'm not mistaken,//(3.739802,6.802685)\\\\Rico's looking to add some tattoo work to his//(6.802685,8.730396)\\\\already substantial collection.",
+			"fr": "//(0,2.212393)\\\\Intéressant, ce bureau, 47.//(2.212393,4.036687)\\\\D'après mes informations,//(4.036687,5.855767)\\\\Rico Delgado souhaite agrandir//(5.855767,9.105767)\\\\sa collection de tatouages, déjà bien fournie.",
+			"it": "//(0,2.542393)\\\\Che ufficio singolare, 47.//(2.542393,4.420981)\\\\Se non mi sbaglio, Rico Delgado//(4.420981,6.35496)\\\\ha intenzione di aggiungere qualche//(6.35496,8.730396)\\\\altro tatuaggio alla sua collezione.",
+			"de": "//(0,2.724)\\\\Interessante Büroeinrichtung, 47.//(2.724,4.089828)\\\\Wenn ich mich nicht irre,//(4.089828,6.441193)\\\\will Rico Delgado seiner beachtlichen Sammlung//(6.441193,8.730396)\\\\noch eine Tätowierung hinzufügen.",
+			"es": "//(0,2.460491)\\\\Qué oficina tan interesante, 47.//(2.460491,3.732359)\\\\Si no me equivoco,//(3.732359,6.722)\\\\Rico Delgado quiere añadir algún que otro tatuaje//(6.722,10.52203)\\\\a su colección, ya de por sí bastante completa.",
+			"ru": "//(0,2.742393)\\\\Интересный дизайн кабинета, 47-й.//(2.742393,4.502884)\\\\Если не ошибаюсь, Рико Дельгадо//(4.502884,7.134223)\\\\хочет пополнить свою обширнейшую//(7.134223,8.730396)\\\\коллекцию татуировок.",
+			"cn": "//(0,2.7)\\\\47，这间办公室布置得很有意思。//(2.7,8.730396)\\\\如果我没弄错的话，打算将一些纹身作品加入他已经琳琅满目的收藏品中。",
+			"tc": "//(0,2.7)\\\\47，這間辦公室佈置得很有意思。//(2.7,8.730396)\\\\如果我沒弄錯的話，打算將一些刺青作品加入他已經琳琅滿目的收藏中。",
+			"jp": "//(0,8.730396)\\\\面白いものが揃ってるわね、47。おそらく、リコ・デルガドはすでに充実している自分のタトゥーコレクションに新たな作品を加えるつもりよ。"
+		}
+	}
+}

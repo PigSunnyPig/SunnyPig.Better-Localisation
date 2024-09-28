@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32520_sp_riotwardenofficeretreat.sweetdialog?/ds32520_sp_riotwardenofficeretreat_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32520_sp_riotwardenofficeretreat_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32520_sp_riotwardenofficeretreat_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32520_sp_riotwardenofficeretreat_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.600773)\\\\47, the riot has grown out of control.//(2.600773,6.045558)\\\\The warden looks like he's barricading himself now.",
+			"fr": "//(0,30)\\\\47, l'émeute est totalement hors de contrôle à présent. Le directeur semble s'être barricadé pour l'instant.",
+			"it": "//(0,30)\\\\47, la rivolta è fuori controllo. Sembra che il direttore si stia barricando per difendersi.",
+			"de": "//(0,30)\\\\47, die Aufstände sind außer Kontrolle geraten. Jetzt scheint sich der Gefängnisdirektor verbarrikadiert zu haben.",
+			"es": "//(0,30)\\\\47, los disturbios se han descontrolado. Parece que el alcaide se ha encerrado.",
+			"ru": "//(0,30)\\\\47-й, бунт вышел из-под контроля. Похоже, начальник тюрьмы решил забаррикадироваться.",
+			"cn": "//(0,30)\\\\47，暴动已经失控了。监狱长似乎正在设置障碍物保护自己。",
+			"tc": "//(0,30)\\\\47，暴動失去控制了。典獄長好像正在把自己鎖在裡面。",
+			"jp": "//(0,30)\\\\47、暴動は手に負えない規模になったわ。所長は自分の守りを固めているみたい。"
+		}
+	}
+}

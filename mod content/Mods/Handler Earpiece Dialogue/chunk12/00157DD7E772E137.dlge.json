@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/greedy/33000_raccoon/33000_handler/ds33024_vaultoppconclude.sweetdialog?/ds33024_vaultoppconclude_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds33024_vaultoppconclude_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/greedy/33000_raccoon/33000_handler/ds33024_vaultoppconclude_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/greedy/33000_raccoon/33000_handler/ds33024_vaultoppconclude_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.622)\\\\Excellent, 47.//(1.622,6.672284)\\\\Now all that remains is to get inside the vault itself.",
+			"fr": "//(0,1.224628)\\\\Excellent, 47.//(1.224628,5)\\\\Il ne reste plus qu'à entrer dans la chambre forte.",
+			"it": "//(0,1.412416)\\\\Eccellente, 47.//(1.412416,5)\\\\Ora non resta che entrare nella camera blindata.",
+			"de": "//(0,1.356196)\\\\Ausgezeichnet, 47.//(1.356196,5.16908)\\\\Jetzt müssen Sie nur noch in den Tresorraum kommen.",
+			"es": "//(0,1.196135)\\\\Excelente, 47.//(1.196135,4.118023)\\\\Ahora ya solo nos falta entrar en la cámara//(4.118023,5.118023)\\\\acorazada.",
+			"ru": "//(0,1.356196)\\\\Замечательно, 47-й.//(1.356196,5)\\\\Теперь осталось только пробраться в само хранилище.",
+			"cn": "//(0,30)\\\\非常好，47。现在只剩下进入金库了。",
+			"tc": "//(0,30)\\\\非常好，47。現在只需要進去保險庫就行了。",
+			"jp": "//(0,30)\\\\素晴らしいわ、47。さて、あとは金庫室の中に入るだけよ。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12753_owencageid.sweetdialog?/ds12753_owencageid_diana_ws_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds12753_owencageid_diana_ws_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12753_owencageid_diana_ws_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12753_owencageid_diana_ws_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\That is Owen Cage. From the looks of him, it's a miracle he's still alive.",
+			"fr": "//(0,1.302586)\\\\Voilà Owen Cage.//(1.302586,5.093583)\\\\Vu sa tête, c'est un miracle qu'il soit encore en vie.",
+			"it": "//(0,30)\\\\Quello è Owen Cage. A giudicare dall'aspetto, è un miracolo che sia ancora vivo.",
+			"de": "//(0,30)\\\\Das ist Owen Cage. So wie er aussieht, ist es ein Wunder, dass er noch lebt.",
+			"es": "//(0,30)\\\\Ese es Owen Cage. Por su aspecto, es un milagro que siga con vida.",
+			"ru": "//(0,30)\\\\Это Оуэн Кейдж. Глядя на него, удивляешься, что он еще жив.",
+			"cn": "//(0,30)\\\\那就是欧文·凯奇。他已经变成了那副样子，还活着简直是个奇迹。",
+			"tc": "//(0,30)\\\\那就是歐文．凱吉。他已經變成了那副樣子，還活著簡直是個奇跡。",
+			"jp": "//(0,30)\\\\あれが オーウェン・ ケイジよ。 まだ生きて いるなんて 奇跡ね。"
+		}
+	}
+}

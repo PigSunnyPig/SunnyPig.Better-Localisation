@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession.sweetdialog?/dr8614_specopssession_troubled_specops_et_018.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8614_specopssession_troubled_specops_et_018",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession_troubled_specops_et_018.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession_troubled_specops_et_018.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.932883)\\\\Hmmm. I guess. Look, I got to get back.//(4.932883,34.93288)\\\\Thanks for taking the time to talk to me.",
+			"fr": "//(0,2.15)\\\\Hmm... D'accord.//(3.2,33.2)\\\\Bon, je dois y retourner. Merci d'avoir pris le temps de me parler.",
+			"it": "//(0,3.072)\\\\Uhm... Forse è vero.//(3.072,33.072)\\\\Senta, ora devo andare. Grazie per il tempo che mi ha dedicato.",
+			"de": "//(0,30)\\\\Hmmm. Okay. Ich muss jetzt zurück. Danke, dass Sie sich Zeit für mich genommen haben.",
+			"es": "//(0,1.936196)\\\\Mmm. Supongo.//(3.286,33.286)\\\\Bueno, tengo que volver. Gracias por hablar conmigo.",
+			"ru": "//(0,3)\\\\Хм-м... Да, наверное.//(3,5.5)\\\\Слушайте, мне пора возвращаться.//(5.5,35.5)\\\\Спасибо, что уделили мне время.",
+			"cn": "//(0,4.932883)\\\\嗯。我想也是。好吧，我得回去了。//(4.932883,34.93288)\\\\感谢您抽出时间与我交谈。",
+			"tc": "//(0,4.932883)\\\\嗯。我猜。聽著，我得回去了。//(4.932883,34.93288)\\\\感謝您抽出時間與我交談。",
+			"jp": "//(0,4.932883)\\\\Hmmm. I guess. Look, I got to get back.//(4.932883,34.93288)\\\\Thanks for taking the time to talk to me."
+		}
+	}
+}

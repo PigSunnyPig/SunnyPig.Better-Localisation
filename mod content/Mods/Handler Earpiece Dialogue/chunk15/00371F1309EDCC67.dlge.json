@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_penicillin/29000_penicillin_handler/ds29750_penicillinid.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds29750_penicillinid_diana_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_handler/ds29750_penicillinid_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_handler/ds29750_penicillinid_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,4.9)\\\\That... is The Disruptor, multi-billionaire combat sports fighter.//(5.3,10.1)\\\\He has over one hundred victories under his belt, so be careful.//(10.1,40.1)\\\\An amateur he is not.",
+					"fr": "//(0,4.9)\\\\Voici Le bouleversant, combattant de MMA milliardaire.//(5.3,10.1)\\\\Il compte plus de cent victoires à son actif, donc restez sur vos gardes.//(10.1,40.1)\\\\Il n'est pas à prendre à la légère.",
+					"it": "//(0,4.9)\\\\Ecco... quello è il Disgregatore, un combattente di MMA multimiliardario.//(5.3,10.1)\\\\Ha all'attivo oltre cento vittorie, quindi presta molta attenzione.//(10.1,40.1)\\\\Non è certo alle prime armi.",
+					"de": "//(0,4.9)\\\\Das ist ... der Disruptor, ein milliardenschwerer MMA-Kämpfer.//(5.3,10.1)\\\\Er hat schon mehr als hundert Siege auf dem Buckel. Also seien Sie vorsichtig.//(10.1,40.1)\\\\Das ist kein Amateur.",
+					"es": "//(0,4.9)\\\\Ese... es El Reventador, un luchador de MMA multimillonario.//(5.3,10.1)\\\\Acumula en su haber más de cien victorias, así que ve con cuidado.//(10.1,40.1)\\\\No es ningún novato.",
+					"ru": "//(0,4.9)\\\\Это... Разрушитель, боец смешанных единоборств и мультимиллиардер.//(5.3,10.1)\\\\На его счету более сотни побед, так что будь осторожен.//(10.1,40.1)\\\\Это не какой-нибудь дилетант.",
+					"cn": "//(0,4.9)\\\\那个人......就是“破坏者”，身价数十亿美元的综合格斗选手。//(5.3,10.1)\\\\他已经取得了一百多场胜利，所以一定要小心。//(10.1,40.1)\\\\他可不是什么业余人士。",
+					"tc": "//(0,4.9)\\\\那就是......破壞者，身價億萬的綜合格鬥選手。//(5.3,10.1)\\\\他的勝場數超過了一百場，千萬要小心，//(10.1,40.1)\\\\他可不是泛泛之輩。",
+					"jp": "//(0,4.9)\\\\あれは... 億万長者のMMAファイター、ディスラプター。//(5.3,9)\\\\100勝以上も収めてる男よ。//(9,39)\\\\甘くみない方がいいわ、彼はプロよ。"
+				}
+			}
+		]
+	}
+}

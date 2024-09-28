@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession.sweetdialog?/dr8614_specopssession_paine_et_003.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8614_specopssession_paine_et_003",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession_paine_et_003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession_paine_et_003.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Don’t worry about it.",
+			"fr": "//(0,30)\\\\Ce n'est rien.",
+			"it": "//(0,30)\\\\Nessun problema.",
+			"de": "//(0,30)\\\\Machen Sie sich deshalb keine Sorgen.",
+			"es": "//(0,30)\\\\No te preocupes.",
+			"ru": "//(0,30)\\\\Ничего страшного.",
+			"cn": "//(0,30)\\\\别担心。",
+			"tc": "//(0,30)\\\\不用擔心。",
+			"jp": "//(0,30)\\\\Don’t worry about it."
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/opulent/34000_stingray/34000_handler/ds34007_portmanid.sweetdialog?/ds34007_portmanid_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds34007_portmanid_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/opulent/34000_stingray/34000_handler/ds34007_portmanid_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/opulent/34000_stingray/34000_handler/ds34007_portmanid_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.701)\\\\Hang on... That's Jason Portman, former CEO of Quantum leap//(4.701,12.79)\\\\and current CEO of MuchTalk, the disreputed social media network currently involved in a user data scandal.//(12.79,15.252)\\\\Why is he here, 47?",
+			"fr": "//(0,2.494099)\\\\Attendez... C'est Jason Portman,//(2.494099,7.024808)\\\\ancien PDG de Quantum Leap et PDG actuel de MuchTalk,//(7.024808,12.62389)\\\\le célèbre réseau social pris dans un scandale de données utilisateur.//(12.62389,15.09856)\\\\Pourquoi est-il ici, 47 ?",
+			"it": "//(0,2.943884)\\\\Un attimo... Quello è Jason Portman,//(2.943884,7.6)\\\\ex CEO di Quantum Leap e attuale CEO di MuchTalk,//(7.6,12.8)\\\\il social network al centro di uno scandalo sulla fuga di dati personali.//(12.8,14.86099)\\\\Perché si trova qui, 47?",
+			"de": "//(0,2.850043)\\\\Moment ... Das ist Jason Portman,//(2.850043,5.058632)\\\\der ehemalige CEO von Quantum Leap//(5.058632,7.679183)\\\\und derzeitige CEO von MuchTalk,//(7.679183,8.783478)\\\\dem berüchtigten Social-Media-Netzwerk//(8.783478,12.5)\\\\mit den Skandalen um die Nutzerdaten.//(12.5,15.55622)\\\\Warum ist er hier, 47?",
+			"es": "//(0,2.324826)\\\\Espera... Ese es Jason Portman,//(2.324826,4.759443)\\\\antiguo presidente de Quantum Leap y actual//(4.759443,5.916233)\\\\presidente de MuchTalk,//(5.916233,9.394257)\\\\la red social que se vio involucrada hace poco en//(9.394257,12.64911)\\\\un escándalo al filtrarse datos de los usuarios.//(12.64911,15.1596)\\\\¿Por qué está aquí, 47?",
+			"ru": "//(0,2.792216)\\\\Минуточку... Это Джейсон Портман,//(2.792216,4.917201)\\\\бывший глава Quantum Leap,//(4.917201,9.524611)\\\\а ныне — директор социальной сети MuchTalk,//(9.524611,12.6013)\\\\втянутой в скандал с утечкой пользовательских данных.//(12.6013,15.09856)\\\\Почему он здесь, 47-й?",
+			"cn": "//(0,3.1)\\\\等等......那人是詹森·波特曼，//(3.1,7.4)\\\\量子跃迁的前总裁，现职社交媒体网络公司MuchTalk的总裁，//(7.4,15.09856)\\\\该公司目前卷入了用户信息丑闻之中。47，他来这里做什么？",
+			"tc": "//(0,5.3)\\\\等等......那就是傑森．波特曼，量子躍遷的前任執行總裁，//(5.3,12.8)\\\\也是因用戶數據醜聞而名聲敗壞的社群媒體平台－－「多嘴」的現任執行總裁。//(12.8,15.1)\\\\他為什麼在這裡，47。",
+			"jp": "//(0,1.65)\\\\ちょっと待って...//(1.65,3.165)\\\\あの男はジェイソン・ポートマンね。//(3.165,7.67)\\\\クォンタムリープ社の元CEOで、現在はマッチトーク社のCEO。//(7.67,12.8)\\\\ユーザーのデータ関連のスキャンダルで評判がガタ落ちしているソーシャルメディアネットワークよ。//(12.8,15.09856)\\\\なぜ彼がここにいるのかしらね、47？"
+		}
+	}
+}

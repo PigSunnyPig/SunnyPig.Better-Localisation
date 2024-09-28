@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/marrakech/6000_coup/6000_handler/ds6025_tunnel1conclusion.sweetdialog?/ds6025_tunnel1conclusion_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds6025_tunnel1conclusion_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/6000_coup/6000_handler/ds6025_tunnel1conclusion_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/6000_coup/6000_handler/ds6025_tunnel1conclusion_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Good thinking. Zaydan is on the move, and we know exactly where he is going.",
+			"fr": "//(0,30)\\\\Bien raisonné, 47. Zaydan est en route et nous savons exactement où il va.",
+			"it": "//(0,1.236196)\\\\Ottima idea.//(1.236196,31.2362)\\\\Zaydan si sta muovendo e sappiamo esattamente dov'è diretto.",
+			"de": "//(0,1.236196)\\\\Gute Idee.//(1.236196,31.2362)\\\\Zaydan ist unterwegs und wir wissen genau, wohin er will.",
+			"es": "//(0,0.947)\\\\Bien pensado.//(0.947,30.947)\\\\Zaydan se ha puesto en marcha y sabemos exactamente adónde va.",
+			"ru": "//(0,30)\\\\Отлично задумано. Зейдан выдвинулся, и мы точно знаем, куда он направляется.",
+			"cn": "//(0,30)\\\\这个主意好。泽丹正在移动，而我们知道他要去哪里。",
+			"tc": "//(0,30)\\\\這個主意好。扎伊丹正在移動，而我們知道他要去哪裡。",
+			"jp": "//(0,30)\\\\冴えてるわね。ゼイダンは動き出したし、目的地もわかったわ。"
+		}
+	}
+}

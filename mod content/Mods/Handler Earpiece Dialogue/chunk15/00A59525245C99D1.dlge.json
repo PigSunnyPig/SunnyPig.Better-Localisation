@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_magpie/29000_handler/ds29042_targetsdown47hasnokillswitch.sweetdialog?/ds29042_targetsdown47hasnokillswitch_diana_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds29042_targetsdown47hasnokillswitch_diana_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_magpie/29000_handler/ds29042_targetsdown47hasnokillswitch_diana_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_magpie/29000_handler/ds29042_targetsdown47hasnokillswitch_diana_002.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,1.21079)\\\\Question is how.//(1.21079,3.25501)\\\\He’s not likely to come quietly.//(3.25501,6.510021)\\\\Unless... you get your hands on a kill switch.",
+			"fr": "//[DIANA]\\\\//(0,1.528823)\\\\Le tout est d'y arriver.//(1.528823,4.019422)\\\\Il ne vous suivra pas de son plein gré.//(4.019422,6.510021)\\\\À moins de trouver une télécommande de sa puce.",
+			"it": "//[DIANA]\\\\//(0,1.255155)\\\\Il punto è: come?//(1.255155,3.213042)\\\\Non verrà mai di sua spontanea volontà.//(3.213042,4.74)\\\\A meno che...//(4.74,9.262122)\\\\non metti le mani su un interruttore mortale.",
+			"de": "//[DIANA]\\\\//(0,1.410491)\\\\Die Frage ist nur, wie.//(1.410491,3.692266)\\\\Er wird nicht ohne Gegenwehr mitkommen.//(3.692266,6.510021)\\\\Außer ... Sie kriegen einen Killschalter in die Hand.",
+			"es": "//[DIANA]\\\\//(0,1.427675)\\\\La cuestión es cómo.//(1.427675,3.921111)\\\\No va a ir así por las buenas.//(3.921111,6.510021)\\\\A menos... que consigas un interruptor letal.",
+			"ru": "//[DIANA]\\\\//(0,1.4886)\\\\Надо лишь понять как.//(1.4886,3.810631)\\\\По своей воле он вряд ли пойдет.//(3.810631,6.510021)\\\\Если только... ты не найдешь аварийную кнопку.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\问题是要怎么做。他不可能会乖乖照做的。除非......你能拿到一个杀人开关。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\問題是要怎麼做。他不可能會乖乖照做。除非......你可以拿到一個殺人開關。",
+			"jp": "//[DIANA]\\\\//(0,3.5)\\\\問題は方法よ。彼は大人しく従いそうにない。//(3.5,33.5)\\\\だけど... あなたがキルスイッチを入手すれば話は別よ。"
+		}
+	}
+}

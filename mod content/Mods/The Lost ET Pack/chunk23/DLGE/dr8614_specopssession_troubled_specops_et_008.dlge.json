@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession.sweetdialog?/dr8614_specopssession_troubled_specops_et_008.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8614_specopssession_troubled_specops_et_008",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession_troubled_specops_et_008.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession_troubled_specops_et_008.animset].pc_animset",
+		"languages": {
+			"en": "//(0,7.1)\\\\Yeah. It was a tough op. We pulled a journalist, and handed her over to the Russians.//(7.1,37.1)\\\\They blew her up in a car outside of Moscow. Called it a car accident. She was just doing her job.",
+			"fr": "//(0,3.46)\\\\Ouais. Une opération compliquée.//(3.46,11.2)\\\\On a enlevé une journaliste pour la livrer aux Russes. Ils l'ont fait exploser dans une bagnole près de Moscou.//(11.2,13.49)\\\\Accident de voiture, ils ont dit.//(13.49,43.49)\\\\Elle faisait que son boulot.",
+			"it": "//(0,6.9)\\\\Sì, ed è stato impegnativo. Abbiamo rapito una giornalista per consegnarla ai russi,//(6.9,11)\\\\che l'hanno fatta esplodere in un'auto appena fuori Mosca.//(11,41)\\\\L'hanno definito \"un incidente\". Quella donna stava solo facendo il suo lavoro...",
+			"de": "//(0,3.5)\\\\Genau. Es war ein harter Job.//(3.5,7.3)\\\\Wir haben eine Journalistin entführt und den Russen übergeben.//(7.3,13.5)\\\\Sie haben sie außerhalb von Moskau mit einem Auto in die Luft gesprengt und gesagt, es war ein Unfall.//(13.5,43.5)\\\\Dabei hat sie nur ihre Arbeit gemacht.",
+			"es": "//(0,7.189571)\\\\Sí. Fue una operación dura. Secuestramos a una periodista y se la entregamos a los rusos.//(7.189571,11.063)\\\\Volaron su coche por los aires con ella dentro a las afueras de Moscú,//(11.063,13.308)\\\\y dijeron que fue un accidente de coche.//(13.308,43.308)\\\\Ella solo hacía su trabajo.",
+			"ru": "//(0,3.472)\\\\Ага. Жесткая была работенка.//(3.472,7)\\\\Похитили журналистку, передали ее русским.//(7,10.8)\\\\А они потом взорвали ее в машине на окраине Москвы.//(10.8,40.8)\\\\Сказали потом, что это была авария. А она же просто делала свою работу.",
+			"cn": "//(0,7.1)\\\\是的，这是一次艰难的行动。我们抓了一个记者，把她交给了俄罗斯人。//(7.1,37.1)\\\\他们把她炸死在莫斯科郊外的一辆车里。说是车祸。她只是在履行职责。",
+			"tc": "//(0,7.1)\\\\是的。這是一次艱難的行動。我們抓住了一名記者，並將她交給了俄國人。//(7.1,37.1)\\\\他們在莫斯科郊外的一輛汽車裡炸死了她。稱其為車禍。她只是在做她的工作。",
+			"jp": "//(0,7.1)\\\\Yeah. It was a tough op. We pulled a journalist, and handed her over to the Russians.//(7.1,37.1)\\\\They blew her up in a car outside of Moscow. Called it a car accident. She was just doing her job."
+		}
+	}
+}

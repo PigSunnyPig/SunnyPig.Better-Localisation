@@ -1,0 +1,87 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/evergreen/handler/ed059_clbrtfailpost.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ed059_clbrtfailpost_diana_001",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed059_clbrtfailpost_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed059_clbrtfailpost_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,4.420981)\\\\As you failed your campaign, 47, the Syndicates got away.//(4.420981,34.42098)\\\\However, I'm sure you learned a few useful tricks. Let me know when you're ready to take on a new assignment.",
+					"fr": "//(0,2.435)\\\\Comme vous avez échoué votre campagne, 47,//(2.435,4.547)\\\\les syndicats se sont enfuis.//(4.547,8.297)\\\\Cependant, je suis sûre que vous avez appris quelques astuces utiles.//(8.297,38.297)\\\\Faites-moi savoir quand vous êtes prêt à accepter une nouvelle mission.",
+					"it": "//(0,4.78908)\\\\Siccome hai fallito la tua campagna, 47, le organizzazioni sono fuggite.//(4.78908,8.3)\\\\Sono comunque sicura che tu abbia imparato qualche trucco utile.//(8.3,38.3)\\\\Fammi sapere quando sarai pronto per un nuovo incarico.",
+					"de": "//(0,4.65)\\\\Da Ihre Kampagne gescheitert ist, 47, sind die Syndikate davongekommen.//(4.65,8.5)\\\\Doch ich bin mir sicher, Sie haben ein paar nützliche Tricks gelernt.//(8.5,38.5)\\\\Lassen Sie es mich wissen, sobald Sie bereit für einen neuen Auftrag sind.",
+					"es": "//(0,2.628589)\\\\Has fracasado en tu campaña, 47.//(2.628589,4.41908)\\\\Los sindicatos se han librado.//(4.41908,8.320061)\\\\Al menos, seguro que has aprendido unos cuantos trucos útiles.//(8.320061,38.32006)\\\\Avísame cuando estés listo para aceptar un nuevo encargo.",
+					"ru": "//(0,2.784)\\\\Ты потерпел неудачу, 47-й,//(2.784,4.756392)\\\\и синдикатам удалось уйти.//(4.756392,8.546)\\\\Но я уверена, что ты освоил за это время ряд полезных приемов.//(8.546,38.546)\\\\Сообщи, когда будешь готов взяться за новое задание.",
+					"cn": "//(0,4.29)\\\\你的任务失败了，47，辛迪加成员逃走了。//(4.29,8.32)\\\\不过我相信你从中学到了一些有用的技巧。//(8.32,38.32)\\\\准备好执行新任务时就通知我。",
+					"tc": "//(0,4.6)\\\\你的戰役失敗了，47，組織逃走了。//(4.6,8.4)\\\\不過呢，我相信你學會了一些有用的技巧。//(8.4,38.4)\\\\準備好接下新任務的時候請告訴我。",
+					"jp": "//(0,4.516)\\\\キャンペーンに失敗したわね、47。シンジケートに逃げられたわ。//(4.516,8.372)\\\\でも、便利な手段をいくつか学んだはずよ。//(8.372,38.372)\\\\新しい任務の準備ができたら教えてちょうだい。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed059_clbrtfailpost_diana_002",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed059_clbrtfailpost_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed059_clbrtfailpost_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,5.173374)\\\\That was a bold attempt, 47. Unfortunately the Syndicate managed to go into hiding.//(5.173374,14.62773)\\\\Knowing you, I'm sure that you have new ideas in mind to make sure that they won't be so lucky next time.",
+					"fr": "//(0,1.806)\\\\Vous avez pris un gros risque, 47.//(1.806,4.827)\\\\Malheureusement, le syndicat vous a filé entre les doigts.//(4.827,34.827)\\\\Vous connaissant, je suis sûre que c'est une situation que vous ne laisserez pas se reproduire.",
+					"it": "//(0,5.657178)\\\\È stato un tentativo audace, 47. Purtroppo, l'organizzazione è riuscita a nascondersi.//(5.657178,7.5)\\\\Conoscendoti, sono sicura che tu stia già escogitando//(7.5,37.5)\\\\qualcosa per far sì che non se la cavino così, la prossima volta.",
+					"de": "//(0,1.85)\\\\Das war ein mutiger Versuch, 47.//(1.85,4.9)\\\\Leider ist das Syndikat untergetaucht.//(5.4,6.2)\\\\Wie ich Sie kenne,//(6.2,36.2)\\\\schweben Ihnen schon neue Ideen vor, um sicherzustellen, dass Ihr nächstes Ziel nicht so viel Glück hat.",
+					"es": "//(0,1.946687)\\\\Ha sido un intento muy valiente, 47.//(1.946687,5.143374)\\\\Por desgracia, el sindicato ha logrado ocultarse.//(5.143374,7.790061)\\\\Conociéndote, seguro que tienes ya nuevas ideas//(7.790061,37.79006)\\\\para asegurarte de que no tengan tanta suerte la próxima vez.",
+					"ru": "//(0,2.074)\\\\Это была смелая попытка, 47-й.//(2.074,5.617)\\\\К сожалению, синдикат успел уйти в подполье.//(5.617,9.90608)\\\\Но я тебя знаю и уверена, что ты уже придумал план,//(9.90608,39.90608)\\\\чтобы в следующий раз синдикат не сумел скрыться.",
+					"cn": "//(0,4.97)\\\\大胆的尝试，47。不幸的是辛迪加成员已经设法躲藏起来了。//(4.97,34.97)\\\\我了解你，我相信你会想出新办法，让自己下一个敌人不会再这么好运的。",
+					"tc": "//(0,5.3)\\\\你的行事很大膽，47。很遺憾，組織成功躲了起來。//(5.3,7.9)\\\\依我對你的瞭解，我想你一定有了新的點子，//(7.9,37.9)\\\\確保下一次他們運氣不會這麼好。",
+					"jp": "//(0,5.1)\\\\大胆な試みだったわね、47。残念なことにシンジケートは身を隠してしまったわ。//(5.1,35.1)\\\\あなたのことだから、次も同じことを繰り返さないための新しいアイデアを思いついているはずね。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed059_clbrtfailpost_diana_003",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed059_clbrtfailpost_diana_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed059_clbrtfailpost_diana_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,5.673374)\\\\Bad luck, 47. Failing the campaign has resulted in the Syndicate going into hiding.//(5.673374,9.84055)\\\\But don't give up. I'm sure your next execution will be perfect.//(9.84055,14.76724)\\\\Let me know when you're ready.",
+					"fr": "//(0,1.101)\\\\Pas de chance, 47.//(1.101,4.824)\\\\Puisque vous avez échoué la campagne, le syndicat a quitté les radars.//(4.824,9.355)\\\\N'abandonnez pas, je suis sûre que votre prochaine escapade sera parfaite.//(9.355,39.355)\\\\Prévenez-moi quand vous serez prêt.",
+					"it": "//(0,4.9)\\\\Che sfortuna, 47. Con il fallimento della tua campagna, l'organizzazione si è data alla macchia.//(4.9,6.6)\\\\Ma non arrenderti.//(6.6,36.6)\\\\Sono certa che la tua prossima esecuzione sarà perfetta. Fammi sapere quando sei pronto.",
+					"de": "//(0,1.45)\\\\Pech gehabt, 47.//(1.45,4.9)\\\\Das Scheitern in der Kampagne hat dafür gesorgt, dass das Syndikat untertauchen wird.//(5.5,6.75)\\\\Aber geben Sie nicht auf.//(6.75,9.85)\\\\Ich bin mir sicher, Ihre nächste Durchführung wird perfekt sein.//(9.85,39.85)\\\\Lassen Sie es mich wissen, sobald Sie bereit sind.",
+					"es": "//(0,1.324294)\\\\Mala suerte, 47.//(1.324294,5.295276)\\\\Has fracasado y, como resultado, el sindicato se ha ocultado.//(5.295276,6.837669)\\\\Pero no te rindas,//(6.837669,9.96865)\\\\seguro que la próxima vez saldrá todo a la perfección.//(9.96865,39.96865)\\\\Avísame cuando estés listo.",
+					"ru": "//(0,1.386)\\\\Тебе не повезло, 47-й.//(1.386,4.582687)\\\\Твоя кампания обернулась провалом, и синдикат затаился.//(5.74,6.712)\\\\Но не унывай!//(6.712,9.638)\\\\Уверена, что в следующий раз ты выполнишь все идеально.//(9.638,39.638)\\\\Дай знать, как будешь готов.",
+					"cn": "//(0,5.34)\\\\真倒霉，47。由于任务的失败，辛迪加成员现在已经躲藏起来了。//(5.34,9.66)\\\\但不要放弃。我相信你下一次一定会手到擒来。//(9.66,39.66)\\\\准备好时就告诉我。",
+					"tc": "//(0,5.6)\\\\運氣不好，47。戰役失敗讓組織隱藏起來了。//(5.6,10)\\\\但別放棄，我相信你下一次會完美地完成任務。//(10,40)\\\\準備好的時候告訴我。",
+					"jp": "//(0,1.372)\\\\運が悪かったわね、47。//(1.372,5.195)\\\\キャンペーンに失敗したことで、シンジケートは身を隠してしまったわ。//(5.195,9.76)\\\\でも諦めないで。次は完璧な仕事ができるはずよ。//(9.76,39.76)\\\\準備ができたら教えてちょうだい。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed059_clbrtfailpost_diana_004",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed059_clbrtfailpost_diana_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed059_clbrtfailpost_diana_004.animset].pc_animset",
+				"languages": {
+					"en": "//(0,5.557668)\\\\I'm sorry to say but failing your campaign has resulted in the Syndicate disappearing off the grid.//(5.557668,11.41963)\\\\But we know that nothing is predictable in this line of work. I'm sure you'll get back on the saddle.//(11.41963,15.96871)\\\\Let me know when you're ready for your next assignment.",
+					"fr": "//(0,5.12)\\\\Désolée de vous l'apprendre, mais le syndicat a disparu suite à l'échec de cette campagne.//(5.12,9.021)\\\\Mais vous savez comme moi que l'imprévisible est le sel de notre corps de métier.//(9.021,11.24)\\\\La prochaine sera la bonne.//(11.24,41.24)\\\\Prévenez-moi quand vous serez prêt pour votre prochaine mission.",
+					"it": "//(0,5.5)\\\\Mi dispiace dirtelo, ma dato che hai fallito la campagna, l'organizzazione è scomparsa dai nostri radar.//(5.5,9.3)\\\\Del resto, sappiamo bene che non c'è nulla di prevedibile in questo tipo di lavoro.//(9.3,11.2)\\\\Sono sicura che tornerai in sella.//(11.2,41.2)\\\\Fammi sapere quando sarai pronto per il prossimo incarico.",
+					"de": "//(0,5.1)\\\\Es tut mir leid, das sagen zu müssen, aber ein Scheitern in der Kampagne hat die Syndikate untertauchen lassen.//(5.65,9.3)\\\\Doch wir wissen, dass auf diesem Betätigungsfeld nichts vorhersehbar ist.//(9.3,11.35)\\\\Ich bin mir sicher, Sie steigen wieder in den Sattel.//(11.35,41.35)\\\\Lassen Sie es mich wissen, sobald Sie bereit für den nächsten Auftrag sind.",
+					"es": "//(0,2.290491)\\\\Lamento decir que tu fracaso//(2.290491,5.503374)\\\\ha propiciado que les perdiésemos la pista al sindicato.//(5.503374,9.12245)\\\\En fin, ya sabemos que nada es predecible en nuestro trabajo.//(9.12245,11.36294)\\\\Seguro que volverás a cabalgar.//(11.36294,41.36294)\\\\Avísame cuando estés listo para el próximo encargo.",
+					"ru": "//(0,2.352)\\\\К сожалению, ты провалил кампанию//(2.352,5.724)\\\\и все синдикаты скрылись.//(5.724,9.414)\\\\Но мы знаем, что в нашей работе не следует загадывать наперед.//(9.414,11.111)\\\\Ты еще вернешься в форму, я в этом уверена.//(11.111,41.111)\\\\Дай знать, как будешь готов приступить к очередному заданию.",
+					"cn": "//(0,5.36)\\\\我很遗憾地告诉你，由于你的失败，辛迪加成员现已下落不明。//(5.36,8.98)\\\\但我们知道，干这行发生意外是很正常的。//(8.98,38.98)\\\\我相信你会重新振作的。准备好继续执行任务时就告诉我。",
+					"tc": "//(0,5.6)\\\\很遺憾，但是你的戰役失敗使組織消失了。//(5.6,9.3)\\\\但是我們知道這一行，凡事都很難預料。//(9.3,39.3)\\\\我相信你很快就能恢復狀態，為下一場任務做好準備後告訴我。",
+					"jp": "//(0,5.442)\\\\残念だけど、キャンペーンに失敗したことで、シンジケートは行方不明になってしまったわ。//(5.442,11.36)\\\\でもこの仕事が予測不可能なのは承知の上よ。またすぐ任務に戻れるはずよね。//(11.36,41.36)\\\\次の任務の準備が整ったら連絡して。"
+				}
+			}
+		]
+	}
+}

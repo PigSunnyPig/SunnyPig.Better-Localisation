@@ -1,0 +1,125 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/tutorial/9000_handler/ds9245_waitforit.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds9245_waitforit_young_diana_001",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/tutorial/9000_handler/ds9245_waitforit_young_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/tutorial/9000_handler/ds9245_waitforit_young_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Good work. Now we play the waiting game.",
+					"fr": "//(0,1.236196)\\\\Beau travail.//(1.236196,31.2362)\\\\Maintenant, on attend.",
+					"it": "//(0,30)\\\\Ottimo lavoro. Ora non ci resta che aspettare.",
+					"de": "//(0,30)\\\\Gute Arbeit. Jetzt heißt es warten.",
+					"es": "//(0,30)\\\\Bien hecho. Ahora nos toca esperar.",
+					"ru": "//(0,1.236196)\\\\Хорошая работа.//(1.236196,31.2362)\\\\А теперь будем ждать.",
+					"cn": "//(0,30)\\\\干得好。现在我们只要静观其变了。",
+					"tc": "//(0,30)\\\\幹得好。現在我們只要靜觀其變了。",
+					"jp": "//(0,30)\\\\いいわ。しばらく待機よ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds9245_waitforit_young_diana_002",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/tutorial/9000_handler/ds9245_waitforit_young_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/tutorial/9000_handler/ds9245_waitforit_young_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\You're on the right track. Stay put.",
+					"fr": "//(0,0.908)\\\\Vous êtes sur la bonne voie.//(0.908,30.908)\\\\Restez concentré.",
+					"it": "//(0,30)\\\\È quasi fatta. Non muoverti.",
+					"de": "//(0,30)\\\\Sie sind auf dem richtigen Weg. Bleiben Sie, wo Sie sind.",
+					"es": "//(0,30)\\\\Vas por el buen camino. Aguanta ahí.",
+					"ru": "//(0,30)\\\\Ты на верном пути. Прояви терпение.",
+					"cn": "//(0,30)\\\\你方向走对了。待在原地。",
+					"tc": "//(0,30)\\\\你方向走對了。待在原地。",
+					"jp": "//(0,30)\\\\いいわよ。待機して。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds9245_waitforit_young_diana_003",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/tutorial/9000_handler/ds9245_waitforit_young_diana_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/tutorial/9000_handler/ds9245_waitforit_young_diana_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Wait for it...",
+					"fr": "//(0,30)\\\\Attendez...",
+					"it": "//(0,30)\\\\Aspetta...",
+					"de": "//(0,30)\\\\Abwarten ...",
+					"es": "//(0,30)\\\\Espera...",
+					"ru": "//(0,30)\\\\Еще немного...",
+					"cn": "//(0,30)\\\\再等等......",
+					"tc": "//(0,30)\\\\再等等......",
+					"jp": "//(0,30)\\\\待ってね..."
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds9245_waitforit_young_diana_004",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/tutorial/9000_handler/ds9245_waitforit_young_diana_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/tutorial/9000_handler/ds9245_waitforit_young_diana_004.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Almost there.",
+					"fr": "//(0,30)\\\\Presque.",
+					"it": "//(0,30)\\\\Ci siamo quasi.",
+					"de": "//(0,30)\\\\Bald ist es geschafft.",
+					"es": "//(0,30)\\\\Ya falta poco.",
+					"ru": "//(0,30)\\\\Уже почти.",
+					"cn": "//(0,30)\\\\就快到了。",
+					"tc": "//(0,30)\\\\馬上就好了。",
+					"jp": "//(0,30)\\\\もう少しよ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds9245_waitforit_young_diana_005",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/tutorial/9000_handler/ds9245_waitforit_young_diana_005.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/tutorial/9000_handler/ds9245_waitforit_young_diana_005.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Hold on...",
+					"fr": "//(0,30)\\\\Une seconde...",
+					"it": "//(0,30)\\\\Un attimo...",
+					"de": "//(0,30)\\\\Warten Sie ...",
+					"es": "//(0,30)\\\\Un momento...",
+					"ru": "//(0,30)\\\\Постой...",
+					"cn": "//(0,30)\\\\等一下......",
+					"tc": "//(0,30)\\\\等一下......",
+					"jp": "//(0,30)\\\\待って..."
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds9245_waitforit_young_diana_006",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/tutorial/9000_handler/ds9245_waitforit_young_diana_006.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/tutorial/9000_handler/ds9245_waitforit_young_diana_006.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Any second now...",
+					"fr": "//(0,30)\\\\Ça ne va plus tarder...",
+					"it": "//(0,30)\\\\È questione di secondi...",
+					"de": "//(0,30)\\\\Gleich ist es so weit ...",
+					"es": "//(0,30)\\\\En cualquier momento...",
+					"ru": "//(0,30)\\\\В любой момент...",
+					"cn": "//(0,30)\\\\随时都可能发生。",
+					"tc": "//(0,30)\\\\隨時都可能發生。",
+					"jp": "//(0,30)\\\\あと少し..."
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_skunk/27000_handler/ds27005_bothtargetsdown.sweetdialog?/ds27005_bothtargetsdown_grey_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds27005_bothtargetsdown_grey_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_skunk/27000_handler/ds27005_bothtargetsdown_grey_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_skunk/27000_handler/ds27005_bothtargetsdown_grey_001.animset].pc_animset",
+		"languages": {
+			"en": "//[GREY]\\\\//(0,4.837178)\\\\At last, the actions of the first Constant catch up with him.//(4.837178,9.354356)\\\\Death feels like an easy way out for a man like Janus.//(9.354356,11.62245)\\\\Still...",
+			"fr": "//[GREY]\\\\//(0,5.281)\\\\Les actes du premier Constant le rattrapent enfin.//(5.281,9.462)\\\\La mort semble presque trop simple pour un homme pareil.//(9.462,10.55515)\\\\Enfin...",
+			"it": "//[GREY]\\\\//(0,5)\\\\Finalmente, la prima Costante paga per ciò che ha fatto.//(5,10.55515)\\\\La morte sembra una soluzione facile per un uomo come Janus, eppure...",
+			"de": "//[GREY]\\\\//(0,5.1)\\\\Endlich holen seine Taten als erste Konstante ihn ein.//(5.1,6.7)\\\\Der Tod wirkt noch wie ein zu schönes Ende//(6.7,9.609892)\\\\für jemanden wie ihn.//(9.609892,10.60989)\\\\Trotzdem ...",
+			"es": "//[GREY]\\\\//(0,5.2)\\\\Por fin, las acciones del primer Constante le pasan factura.//(5.2,9.2)\\\\La muerte parece una salida muy fácil para un tipo como Janus.//(9.2,10.55515)\\\\Aun así...",
+			"ru": "//[GREY]\\\\//(0,1.604294)\\\\Первая Константа наконец-то//(1.604294,3.526687)\\\\расплатилась за свои грехи.//(5.177,6.827)\\\\Для таких, как Янус, смерть//(6.827,7.763197)\\\\кажется милосердием.//(9.313197,10.55515)\\\\Но...",
+			"cn": "//[GREY]\\\\//(0,30)\\\\首任“永恒常量”终于遭报应了。让杰纳斯这样的人一死了之感觉便宜他了。话说回来......",
+			"tc": "//[GREY]\\\\//(0,30)\\\\首任「常任」終於遭報應了。讓傑納斯這樣的人一死了之感覺便宜他了。話說回來......",
+			"jp": "//[GREY]\\\\//(0,4.505)\\\\ようやく、初代コンスタントとしての行いを償ってもらえる。//(4.505,9.3)\\\\奴のような男には死など生易しいくらいだ。//(9.3,10.55515)\\\\それでも..."
+		}
+	}
+}

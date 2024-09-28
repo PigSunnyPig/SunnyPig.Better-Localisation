@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8615_demosession.sweetdialog?/dr8615_demosession_troubled_demo_et_012.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8615_demosession_troubled_demo_et_012",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8615_demosession_troubled_demo_et_012.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8615_demosession_troubled_demo_et_012.animset].pc_animset",
+		"languages": {
+			"en": "//(0,8.7)\\\\Oh... right. Not the old, you know, burning sensation in your tackle when you use the jacks?//(13.1,17.8)\\\\Look, I’m a wee bit hard of hearing, with all the explosions.//(17.8,47.8)\\\\I'm sorry to have bothered you. I’ll get to my bombs then!",
+			"fr": "//(0,3.2)\\\\Ah... d'accord.//(3.2,9.15)\\\\Alors, ça n'a rien à voir avec la sensation de brûlure quand on pisse ?//(12.3,18.3)\\\\J'ai des problèmes d'ouïe à cause de toutes les explosions.//(18.3,48.3)\\\\Désolé de vous avoir embêté. Je retourne à mes bombes !",
+			"it": "//(0,3.204)\\\\Oh... Ho capito.//(3.204,8.773)\\\\Il classico bruciore alle palle da malattia venerea non c'entra, eh?//(12.973,17.984)\\\\Senta, ho un leggerissimo problema di udito, per via delle esplosioni e tutto il resto.//(17.984,47.984)\\\\Mi dispiace averla disturbata. Torno subito a occuparmi delle mie bombe!",
+			"de": "//(0,8.6)\\\\Oh ... ach so. Also nicht bei dem Brennen im Sack, wenn man Wasser lassen muss?//(13.2,18.4)\\\\Wissen Sie, ich höre nicht mehr so gut, wegen der vielen Explosionen.//(18.4,48.4)\\\\Entschuldigen Sie die Störung. Ich gehe zurück zu meinen Bomben!",
+			"es": "//(0,8.676)\\\\Ah... Vale. ¿Entonces no se referían a esa sensación ardiente en la entrepierna después de una noche loca?//(12.776,17.931)\\\\Verá, es que estoy un poco sordo a causa de todas las explosiones.//(17.931,47.931)\\\\Siento haberlo molestado. ¡Volveré con mis bombas!",
+			"ru": "//(0,9)\\\\А... ну да. То есть, как лечить жжение, если надо отлить, вы не знаете?//(13,18.2)\\\\Послушайте, я немного туговат на ухо — все эти взрывы дают о себе знать.//(18.2,48.2)\\\\Простите, что побеспокоил. Лучше я вернусь к своим бомбам!",
+			"cn": "//(0,8.7)\\\\哦......对了。不是以前那种，你知道的，当你小便时小弟弟会有灼烧感吗？//(13.1,17.8)\\\\听着，爆炸声太大了，我有点听不清。//(17.8,47.8)\\\\抱歉打扰您了。我还是去取炸弹吧！",
+			"tc": "//(0,8.7)\\\\哦......對了。不是以前那種，你知道的，当你上廁所時老二會有灼熱感嗎？//(13.1,17.8)\\\\聽著，我的聽力有點困難，因為爆炸聲很大。//(17.8,47.8)\\\\很抱歉打擾您了。那我就去拿我的炸彈吧！",
+			"jp": "//(0,8.7)\\\\Oh... right. Not the old, you know, burning sensation in your tackle when you use the jacks?//(13.1,17.8)\\\\Look, I’m a wee bit hard of hearing, with all the explosions.//(17.8,47.8)\\\\I'm sorry to have bothered you. I’ll get to my bombs then!"
+		}
+	}
+}

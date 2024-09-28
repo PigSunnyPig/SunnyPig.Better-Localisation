@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession.sweetdialog?/dr8614_specopssession_troubled_specops_et_004.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8614_specopssession_troubled_specops_et_004",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession_troubled_specops_et_004.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession_troubled_specops_et_004.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\This is Rose’s room. He’s very particular about keeping it neat.",
+			"fr": "//(0,1.5)\\\\C'est le bureau de Rose.//(1.5,31.5)\\\\Il... tient absolument à ce que tout reste propre.",
+			"it": "//(0,30)\\\\Questa è la stanza di Rose e lui... diciamo che ci tiene parecchio a vederla immacolata.",
+			"de": "//(0,30)\\\\Das ist Roses Zimmer. Er legt viel Wert darauf, dass alles sauber bleibt.",
+			"es": "//(0,30)\\\\Este es el despacho de Rose. Es muy exigente con lo de mantenerlo limpio.",
+			"ru": "//(0,30)\\\\Это комната Роуза. А он всегда следит за чистотой.",
+			"cn": "//(0,30)\\\\这是罗斯的房间。他很注重保持整洁。",
+			"tc": "//(0,30)\\\\這是羅絲的房間。他非常注重保持整潔。",
+			"jp": "//(0,30)\\\\This is Rose’s room. He’s very particular about keeping it neat."
+		}
+	}
+}

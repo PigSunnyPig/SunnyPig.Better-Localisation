@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/greedy/33000_raccoon/33000_handler/33000_flyin.sweetdialog?/33000_flyin_diana_005.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "33000_flyin_diana_005",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/greedy/33000_raccoon/33000_handler/33000_flyin_diana_005.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/greedy/33000_raccoon/33000_handler/33000_flyin_diana_005.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,2.596687)\\\\Remember, we need to secure the data//(2.596687,4.713873)\\\\from the bank's reinforced vault or,//(4.713873,7.324364)\\\\alternatively, acquire three hard drives//(7.324364,8.882952)\\\\carried by the director and her//(8.882952,12.71154)\\\\two lieutenants, Mann and Pérez.",
+			"fr": "//[DIANA]\\\\//(0,0.5180982)\\\\Rappelez-vous ://(0.5180982,4.35)\\\\vous pouvez obtenir les données directement depuis la chambre forte de la banque,//(4.35,11.27791)\\\\ou en rassemblant les trois disques que Savalas, Pérez et Mann gardent sur eux.",
+			"it": "//[DIANA]\\\\//(0,2.214216)\\\\Ricorda, dobbiamo mettere in sicurezza i dati//(2.214216,4.126191)\\\\entrando nella camera blindata della banca,//(4.126191,5.229975)\\\\o, in alternativa,//(5.229975,7.04342)\\\\impadronendoci delle tre chiavette che la//(7.04342,8.955395)\\\\direttrice e i suoi due soci,//(8.955395,11.27791)\\\\Mann e Pérez, portano con sé.",
+			"de": "//[DIANA]\\\\//(0,2.855501)\\\\Denken Sie dran: Wir brauchen die Daten aus dem//(2.855501,4.945992)\\\\verstärkten Tresorraum der Bank oder//(4.945992,7.25)\\\\alternativ die drei Datenträger,//(7.25,9.9)\\\\die die Direktorin und ihre beiden Vertrauten//(9.9,11.3)\\\\Mann und Pérez bei sich tragen.",
+			"es": "//[DIANA]\\\\//(0,4.04908)\\\\Recuerda: debemos conseguir los datos de la cámara acorazada del banco//(4.04908,8.1)\\\\o, en su defecto, conseguir los tres discos duros//(8.1,11.27791)\\\\que portan la directora y sus dos hombres de confianza, Mann y Pérez.",
+			"ru": "//[DIANA]\\\\//(0,2.431936)\\\\Помни: нужные нам данные можно заполучить,//(2.431936,5.248307)\\\\либо похитив их из защищенного хранилища банка,//(5.248307,8.708222)\\\\либо забрав три жестких диска у директора и двух//(8.708222,9.602419)\\\\ее подручных,//(9.602419,11.27791)\\\\Манна и Переса.",
+			"cn": "//[DIANA]\\\\//(0,4.066)\\\\记住，我们需要从银行安防严密的金库中直接偷取数据，//(4.066,11.278)\\\\或者从总经理和她的两个副手——曼恩和佩雷斯手中拿到三个硬盘。",
+			"tc": "//[DIANA]\\\\//(0,4.1)\\\\記住了，我們必須從銀行的強化保險庫中取得數據，//(4.1,11.3)\\\\或是從總裁和她的兩個部屬曼與佩雷斯身上取得三個硬碟。",
+			"jp": "//[DIANA]\\\\//(0,4.255)\\\\覚えておいて。私たちは銀行の厳重に守られた金庫室からデータを確保するか、//(4.255,8.59)\\\\あるいは、支店長と彼女の2人の部下、マンとぺレスが持つ//(8.59,11.27791)\\\\3台のハードドライブを手に入れる必要がある。"
+		}
+	}
+}

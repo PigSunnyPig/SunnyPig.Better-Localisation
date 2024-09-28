@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/bulldog/41000_handler/ds41040_handlerhowtosolveamurder.sweetdialog?/ds41040_handlerhowtosolveamurder_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41040_handlerhowtosolveamurder_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/bulldog/41000_handler/ds41040_handlerhowtosolveamurder_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/bulldog/41000_handler/ds41040_handlerhowtosolveamurder_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.582883)\\\\So, how does one solve a murder mystery, 47?//(3.582883,6.881472)\\\\Motive, means and opportunity, I believe.//(6.881472,10.69436)\\\\May I suggest you ask the suspects for alibis?//(10.69436,40.69436)\\\\Or perhaps, you prefer searching the manor for clues first?",
+			"fr": "//(0,3.6)\\\\Alors, comment élucider un meurtre, 47 ?//(3.6,7.15)\\\\Moyens, motif et opportunité, me semble-t-il...//(7.15,10.5)\\\\Peut-être devriez-vous interroger les suspects sur leur alibi ?//(10.5,40.5)\\\\Ou préférez-vous commencer par fouiller le manoir à la recherche d'indices ?",
+			"it": "//(0,3.71)\\\\Allora, come si risolve un caso di omicidio, 47?//(3.71,7.26)\\\\Bisogna scoprire movente, mezzi e occasione.//(7.26,10.65)\\\\Posso suggerirti di chiedere ai sospettati se hanno un alibi?//(10.65,40.65)\\\\O forse prima preferisci ispezionare la tenuta in cerca di indizi?",
+			"de": "//(0,3.564785)\\\\Wie löst man nun einen rätselhaften Mordfall, 47?//(3.564785,6.881473)\\\\Mittels Motiv, Tatwaffe und Gelegenheit, glaube ich.//(6.881473,10.65055)\\\\Dürfte ich vorschlagen, dass Sie die Verdächtigen nach ihren Alibis fragen?//(10.65055,40.65055)\\\\Oder wollen Sie das Herrenhaus erst nach Beweisen durchsuchen?",
+			"es": "//(0,3.6)\\\\¿Cómo se resuelve un asesinato misterioso, 47?//(3.6,7.3)\\\\Yo diría que hay tres claves: motivo, modus operandi y oportunidad.//(7.3,10.6)\\\\Te sugiero que cotejes las coartadas de los sospechosos.//(10.6,40.6)\\\\¿O prefieres registrar la mansión en busca de pistas antes de nada?",
+			"ru": "//(0,3.6)\\\\С чего начать расследование, 47-й?//(3.6,7.1)\\\\Полагаю, с установления мотива, средств и возможности.//(7.1,10.7)\\\\Может, тебе следует проверить алиби подозреваемых?//(10.7,40.7)\\\\Или ты хочешь сначала поискать в поместье улики?",
+			"cn": "//(0,3.5)\\\\那么，要如何解开这个凶杀谜题呢，47？//(3.5,7)\\\\应该是从动机、手段和时机方面着手。//(7,10.2)\\\\建议你询问一下嫌疑人有没有不在场证明。//(10.2,40.2)\\\\或者你打算先在庄园里寻找线索？",
+			"tc": "//(0,3.6)\\\\所以，你該如何解開這個謀殺迷案呢，47？//(3.6,7.1)\\\\好像需要動機、手法和時機。//(7.1,10.6)\\\\我建議你去尋找嫌疑犯的不在場證明？//(10.6,40.6)\\\\還是說你想先在庄園尋找線索？",
+			"jp": "//(0,3.465)\\\\さて、殺人の謎はどうやって解くのかしら、47？//(3.465,10.5)\\\\重要なのは、動機、手段、機会ね。容疑者にアリバイを聞くこと提案するわ。//(10.5,40.5)\\\\それとも屋敷の中から手がかりを探す？"
+		}
+	}
+}

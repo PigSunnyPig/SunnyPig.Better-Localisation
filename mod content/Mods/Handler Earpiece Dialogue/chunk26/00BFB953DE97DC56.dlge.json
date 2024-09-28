@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/italy/1000_virus/1000_handler/ds1051_videobriefing.sweetdialog?/ds1051_videobriefing_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds1051_videobriefing_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_virus/1000_handler/ds1051_videobriefing_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_virus/1000_handler/ds1051_videobriefing_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.664785)\\\\According to staff, Caruso has a nostalgic streak//(3.664785,8.61816)\\\\and keeps a crate of VHS tapes from his childhood somewhere in the observatory.//(8.61816,14.22963)\\\\Apparently, he used to watch them on the projector, but stopped after his mental breakdown.//(14.22963,44.22963)\\\\I suggest you locate those tapes. Could be just what we need.",
+			"fr": "//(0,8.3)\\\\Selon ses employés, Caruso conserve par nostalgie des VHS de son enfance quelque part dans l'observatoire,//(8.3,14.1)\\\\VHS qu'il visionnait régulièrement sur le projecteur avant sa dépression.//(14.1,44.1)\\\\Je vous suggère de retrouver ces cassettes. Elles pourraient se révéler fort utiles.",
+			"it": "//(0,3.66908)\\\\Secondo il suo personale di servizio, Caruso è un tipo nostalgico//(3.66908,6.295767)\\\\e ha diverse videocassette della sua infanzia//(6.295767,8.536258)\\\\custodite da qualche parte nell'osservatorio.//(8.536258,11.28294)\\\\Aveva l'abitudine di guardarle con un proiettore,//(11.28294,14.12773)\\\\ma ha smesso dopo la crisi di nervi.//(14.12773,16.83632)\\\\Ti consiglio di trovare quei VHS.//(16.83632,46.83632)\\\\Potrebbero fare al caso nostro.",
+			"de": "//(0,8.411963)\\\\Laut seines Personals hat Caruso eine nostalgische Ader und bewahrt im Observatorium eine Kiste mit VHS-Videos aus seiner Kindheit auf.//(8.411963,13.98344)\\\\Offenbar hat er sich die Videos mit dem Projektor bis zu seinem Nervenzusammenbruch regelmäßig angesehen.//(13.98344,16.75583)\\\\Finden Sie die Videos.//(16.75583,46.75583)\\\\Das ist vielleicht genau das, was wir brauchen.",
+			"es": "//(0,3.532)\\\\Según el personal, Caruso tiene una vena nostálgica//(3.532,8.353)\\\\y guarda una caja con cintas de video de su infancia en algún lugar del observatorio.//(8.353,13.951)\\\\Por lo visto, solía verlas en el proyector, pero dejó de hacerlo tras su crisis nerviosa.//(13.951,43.951)\\\\Te sugiero que localices esas cintas. Podrían ser justo lo que necesitamos.",
+			"ru": "//(0,4.1)\\\\Если верить словам работников, у Карузо бывают приступы ностальгии.//(4.1,8.2)\\\\В обсерватории он держит целый ящик видеокассет из своего детства.//(8.2,14)\\\\Раньше он смотрел их на проекторе, но после нервного срыва перестал.//(14,44)\\\\Советую найти кассеты. Возможно, это то, что нам нужно.",
+			"cn": "//(0,3.5)\\\\据员工所说，卡鲁索是个非常怀旧的人，//(3.5,8.2)\\\\在实验室某处放着一箱他童年时期的录影带。//(8.2,14)\\\\显然他以前常用放映机看这些带子，但精神崩溃后就不看了。//(14,44)\\\\我建议你找到那些录影带。也许那正是我们需要的东西。",
+			"tc": "//(0,8.5)\\\\據員工所說，卡魯索是個非常懷舊的人，在實驗室某處放著一箱他童年時期的錄影帶。//(8.5,14.2)\\\\顯然他以前常用放映機看這些帶子，但精神崩潰後就不看了。//(14.2,44.2)\\\\我建議你找到那些錄影帶。也許那正是我們需要的東西。",
+			"jp": "//(0,7.38)\\\\使用人に よると、 カルーソーは 昔を よく懐かしんでるみたい。 展望台の どこかに、 子ども時代の//(7.38,14.76)\\\\VHSを 隠して いるそうよ。 ノイローゼに なる前は、 プロジェクターで 観て いたんでしょうね。//(14.76,18.45)\\\\そのテープを 見つけましょう。 必要なものかも しれない。"
+		}
+	}
+}

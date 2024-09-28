@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_cross/4000_handler/ds4026_tuktukbriefing.sweetdialog?/ds4026_tuktukbriefing_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds4026_tuktukbriefing_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_cross/4000_handler/ds4026_tuktukbriefing_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_cross/4000_handler/ds4026_tuktukbriefing_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,6.059571)\\\\According to the hotel gardener, Ken Morgan wants to purchase his aging tuk-tuk as a souvenir.//(6.059571,9.69245)\\\\Unfortunately for him, he can't get the engine working.//(9.69245,15.62203)\\\\Well, you're good at fixing things, 47. I suggest you give the gardener a helping hand.//(15.62203,45.62203)\\\\This could be excellent bait.",
+			"fr": "//(0,5.709571)\\\\Selon le jardinier de l'hôtel, Ken Morgan veut lui acheter son vieux tuk tuk comme souvenir.//(5.709571,12.08485)\\\\Malheureusement, pas moyen de le faire démarrer. Vous êtes doué en mécanique, 47.//(12.08485,42.08485)\\\\Je vous suggère de donner un coup de main au jardinier. Cela pourrait être un excellent appât.",
+			"it": "//(0,6.021472)\\\\Il giardiniere dell'hotel sostiene che Ken Morgan voglia acquistare come souvenir il suo vecchio tuk-tuk.//(6.021472,9.454)\\\\Purtroppo per lui, non riesce a metterlo in moto.//(9.454,12.36914)\\\\Tu sei in gamba a risolvere problemi, 47.//(12.36914,15.54583)\\\\Perché non dai una mano al giardiniere?//(15.54583,45.54583)\\\\Sembra un'esca perfetta.",
+			"de": "//(0,5.9)\\\\Laut des Hotelgärtners möchte ihm Ken Morgan sein altes Tuk-Tuk als Souvenir abkaufen,//(5.9,9.45)\\\\aber er bekommt den Motor nicht in Gang.//(9.45,12.28294)\\\\Sie haben für so etwas doch ein Händchen, 47.//(12.28294,42.28294)\\\\Greifen Sie dem Gärtner ein wenig unter die Arme. Das Tuk-Tuk wäre ein perfekter Köder.",
+			"es": "//(0,6.141472)\\\\Según el jardinero del hotel, Ken Morgan quiere adquirir su viejo tuk tuk como recuerdo.//(6.141472,12.53485)\\\\Una pena que no consiga hacerlo arrancar. Aunque tú, 47, eres bueno arreglando cosas.//(12.53485,42.53485)\\\\Te sugiero que eches una mano al jardinero. Podría ser un cebo excelente.",
+			"ru": "//(0,2.192)\\\\По словам местного садовника,//(2.192,5.905)\\\\Кен Морган надумал приобрести на память его старый тук-тук.//(5.905,9.746)\\\\Один минус: тук-тук не заводится.//(9.746,15.811)\\\\Ты хороший механик, 47-й. Советую тебе помочь садовнику.//(15.811,45.811)\\\\Тук-тук может стать отличной приманкой.",
+			"cn": "//(0,6.018098)\\\\据酒店园艺师说，肯恩想要买下他的三轮摩托车作为纪念品。//(6.018098,9.3681)\\\\但不幸的是，摩托车的引擎发动不起来。//(9.3681,12.4681)\\\\我知道，你很擅长修理东西，47。//(12.4681,42.4681)\\\\我建议你去帮帮那位园艺师。这肯定能把他引出来。",
+			"tc": "//(0,6.1)\\\\據旅館園丁說，肯．摩根想要買下他的三輪摩托車作為紀念品。//(6.1,9.3)\\\\但不幸的是，摩托車的引擎發動不起來。//(9.3,12.6)\\\\我知道，你很擅長修理東西，47。//(12.6,42.6)\\\\我建議你去幫幫那位園丁。這肯定能把他引出來。",
+			"jp": "//(0,7.004283)\\\\ホテルの 庭師に よれば、 彼の 古いトゥクトゥクを ケン・ モーガンが 買いたがって いるとか。 ただ、//(7.004283,14.00857)\\\\エンジンが 壊れて いて 庭師には 直せないみたい。 あなたは 修理が 得意よね？ 手を 貸して//(14.00857,17.51071)\\\\あげたらどうかしら？ モーガンを おびき寄せる絶好の エサに なるわ。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8615_demosession.sweetdialog?/dr8615_demosession_paine_et_007.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8615_demosession_paine_et_007",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8615_demosession_paine_et_007.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8615_demosession_paine_et_007.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.8)\\\\Uh... on your tackle?//(1.8,31.8)\\\\Wait, No! No! You’ve got it wrong! I’m not a medical doctor!",
+			"fr": "//(0,2.45)\\\\Euh... vos parties ?//(2.45,32.45)\\\\Attendez ! Non ! Il y a méprise ! Je ne suis pas médecin généraliste !",
+			"it": "//(0,2.436)\\\\Sui... testicoli?//(2.436,32.436)\\\\Aspetta. No, no! Non ci siamo capiti! Io non sono un medico generico!",
+			"de": "//(0,30)\\\\Äh ... an Ihrem Sack? Moment, nein! Nein! Das ist ein Irrtum! Ich bin kein Doktor der Medizin!",
+			"es": "//(0,2.472393)\\\\Ehh... ¿En la entrepierna?//(2.472393,32.47239)\\\\Espera, ¡no! ¡Te has equivocado! ¡Yo no soy médico!",
+			"ru": "//(0,5)\\\\Э-э... на хозяйстве? Стоп, нет! Нет!//(5,35)\\\\Вы ошиблись! Я не такой доктор!",
+			"cn": "//(0,1.8)\\\\呃......在你那玩意上？//(1.8,31.8)\\\\等等，不对！不对！你搞错了！我不是治病的医生！",
+			"tc": "//(0,1.8)\\\\呃...在你的那上面嗎？//(1.8,31.8)\\\\等等，不！不！你錯了！我不是醫生！",
+			"jp": "//(0,1.8)\\\\Uh... on your tackle?//(1.8,31.8)\\\\Wait, No! No! You’ve got it wrong! I’m not a medical doctor!"
+		}
+	}
+}

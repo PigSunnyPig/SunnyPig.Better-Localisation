@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/evergreen/handler/ed062_mechclbrtnmap.sweetdialog?/ed062_mechclbrtnmap_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ed062_mechclbrtnmap_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed062_mechclbrtnmap_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed062_mechclbrtnmap_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,5.85)\\\\This is your world map, where you can find location intel and choose your next destination.//(5.85,35.85)\\\\Some assignments are easier than others, so choose carefully.",
+			"fr": "//(0,1.607)\\\\Voici votre carte du monde,//(1.607,5.832)\\\\où vous pouvez trouver des informations et choisir votre prochaine destination.//(5.832,35.832)\\\\Certaines missions sont plus faciles que d’autres, alors choisissez avec soin.",
+			"it": "//(0,1.5)\\\\Questa è la tua mappa del mondo,//(1.5,5.6)\\\\dove puoi trovare informazioni sulla posizione e scegliere la tua prossima destinazione.//(5.6,35.6)\\\\Alcuni incarichi sono più semplici di altri, quindi scegli con cura.",
+			"de": "//(0,5.8)\\\\Das ist Ihre Weltkarte, wo Sie Informationen finden und Ihr nächstes Ziel auswählen können.//(5.8,7.85)\\\\Manche Aufträge sind leichter als andere.//(7.85,37.85)\\\\Also treffen Sie eine wohlüberlegte Entscheidung.",
+			"es": "//(0,1.542393)\\\\Este es el mapamundi,//(1.542393,3.66908)\\\\donde podrás encontrar información sobre las ubicaciones//(3.66908,5.909571)\\\\y elegir tu próximo destino.//(5.909571,7.956258)\\\\Algunos encargos son más fáciles que otros,//(7.956258,37.95626)\\\\así que elige con criterio.",
+			"ru": "//(0,6)\\\\Это карта мира. Здесь можно узнать сведения о регионе и выбрать следующий пункт назначения.//(6,36)\\\\Некоторые задания легче, чем другие. Выбирай с умом.",
+			"cn": "//(0,3.52)\\\\这是你的世界地图，在上面你可以找到位置的情报，//(3.52,5.68)\\\\还可以选择自己的下个目的地。//(5.68,35.68)\\\\有些任务难度较低，所以要谨慎做出选择。",
+			"tc": "//(0,5.8)\\\\這是你的世界地圖，你可以在這裡找到地點情報並選擇下一個目的地。//(5.8,35.8)\\\\一些任務比其他的容易，所以請謹慎選擇。",
+			"jp": "//(0,1.712)\\\\これはあなたのワールドマップよ。//(1.712,5.85)\\\\ロケーション情報を確認して次の目的地を選ぶことができるわ。//(5.85,35.85)\\\\いくつかの任務は他のよりも簡単だから、慎重に選ぶのよ。"
+		}
+	}
+}

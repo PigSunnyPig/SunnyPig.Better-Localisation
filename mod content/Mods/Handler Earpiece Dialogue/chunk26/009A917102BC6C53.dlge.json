@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/italy/1000_elusive/1000_sazerac/1000_sazerac_handler/dr1650_diana.sweetdialog?/dr1650_diana_diana_et_003.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr1650_diana_diana_et_003",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_sazerac/1000_sazerac_handler/dr1650_diana_diana_et_003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_sazerac/1000_sazerac_handler/dr1650_diana_diana_et_003.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA_ET]\\\\//(0,1.724294)\\\\Good afternoon, 47.//(1.724294,5.155276)\\\\The cardinal’s security team has locked down the Sapienza church.//(5.155276,8.756257)\\\\A small group of demonstrators has gathered outside to protest,//(8.756257,11.79153)\\\\but they are being kept away from the target and the church itself.//(11.79153,17.71301)\\\\Intelligence indicates a sizeable team has secured every approach to the church and the target.//(17.71301,20.78969)\\\\Nothing you won’t be able to handle.//(20.78969,50.78969)\\\\Good hunting.",
+			"fr": "//[DIANA_ET]\\\\//(0,1.85)\\\\Bonjour, 47.//(1.85,5.38)\\\\La sécurité du cardinal a ordonné la fermeture de l'église de Sapienza.//(5.38,8.7)\\\\Un petit groupe de manifestants s'est réuni dehors pour protester,//(8.7,12.1)\\\\mais ils sont tenus éloignés de la cible et de l'église.//(12.1,17.9)\\\\Nos renseignements indiquent qu'une équipe importante a sécurisé tous les accès à l'église et à la cible,//(17.9,20.9)\\\\mais rien que vous ne puissiez régler. Bonne chasse.",
+			"it": "//[DIANA_ET]\\\\//(0,1.724294)\\\\Buon pomeriggio, 47.//(1.724294,5.105276)\\\\Le guardie del cardinale hanno isolato la chiesa di Sapienza.//(5.105276,8.620061)\\\\Alcuni manifestanti si sono radunati all'esterno per protestare,//(8.620061,12.10534)\\\\ma è stato impedito loro di avvicinarsi al bersaglio e alla chiesa stessa.//(12.10534,16.42442)\\\\Le nostre informazioni indicano che ogni accesso alla chiesa è presidiato,//(16.42442,17.99681)\\\\così come il bersaglio.//(17.99681,20.8892)\\\\Nulla di insormontabile, immagino.//(20.8892,50.8892)\\\\Buona caccia.",
+			"de": "//[DIANA_ET]\\\\//(0,1.556196)\\\\Hallo, 47.//(1.556196,5.437178)\\\\Die Sicherheitsleute des Kardinals haben die Kirche in Sapienza abgeriegelt.//(5.437178,11.96914)\\\\Vor der Kirche protestieren zwar einige Demonstranten gegen die Absperrung, aber sie werden von der Kirche und der Zielperson ferngehalten.//(11.96914,17.98632)\\\\Laut unserer Informationen hat ein größeres Team sämtliche Zugänge zur Kirche gesichert.//(17.98632,20.4992)\\\\Aber das dürfte für Sie ja kein Problem sein.//(20.4992,50.4992)\\\\Waidmanns Heil.",
+			"es": "//[DIANA_ET]\\\\//(0,1.724294)\\\\Buenas tardes, 47.//(1.724294,5.062)\\\\El destacamento de seguridad del objetivo ha cerrado la iglesia de Sapienza a cal y canto.//(5.062,8.716)\\\\Un pequeño grupo de manifestantes se han reunido en el exterior para protestar,//(8.716,11.863)\\\\pero seguridad los mantiene alejados del objetivo y de la iglesia.//(11.863,17.821)\\\\Inteligencia indica que un equipo considerable ha asegurado cada punto de acceso a la iglesia y al objetivo.//(17.821,20.577)\\\\Nada que no puedas manejar.//(20.577,50.577)\\\\Buena caza.",
+			"ru": "//[DIANA_ET]\\\\//(0,1.724294)\\\\Добрый день, 47-й.//(1.724294,5)\\\\Служба безопасности кардинала закрыла церковь Сапиенцы.//(5,8)\\\\На улице собралась небольшая группа демонстрантов,//(8,12)\\\\но их не подпускают ни к цели, ни к самой церкви.//(12,18)\\\\Согласно нашим данным, все подходы к церкви и к цели охраняются.//(18,20.5)\\\\Ничего такого, с чем бы ты не справился.//(20.5,50.5)\\\\Доброй охоты.",
+			"cn": "//[DIANA_ET]\\\\//(0,30)\\\\下午好，47。主教的安保团队已经封锁了整处萨比恩撒教堂。有一小队示威者集结在外面进行抗议活动，但他们距离目标本人和教堂都十分遥远。有情报指出教堂的每个入口以及目标周围都配备了大量安保人员。没有什么能难得住你。狩猎愉快。",
+			"tc": "//[DIANA_ET]\\\\//(0,5.1)\\\\午安，47。紅衣主教的保全隊伍已封鎖了羅馬大學教堂。//(5.1,11.8)\\\\有一小群人正在外頭抗議，但是他們卻無法接近目標和教堂。//(11.8,17.8)\\\\情報指出一個頗大的團隊守住了教堂與目標之間的所有路線。//(17.8,47.8)\\\\這對你來說也沒什麼。狩獵愉快。",
+			"jp": "//[DIANA_ET]\\\\//(0,6.828245)\\\\こんにちは、 47。 枢機卿の 護衛たちが サピエンツァの 教会を 封鎖したわ。 教会の 外で 小規模の//(6.828245,15.02214)\\\\集団が 抗議を して いるけど、 彼らは 標的と 教会に 近づけないように なって いる。 情報に よれば、//(15.02214,19.80191)\\\\大規模な警備チームが 教会と 標的への アプローチを すべて監視して いるけど、 あなたなら問題は//(19.80191,21.65692)\\\\ないでしょうね。"
+		}
+	}
+}

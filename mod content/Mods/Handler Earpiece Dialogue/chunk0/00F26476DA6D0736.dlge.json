@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/golden/gecko/40000_handler/ds40014_assoppconclude.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds40014_assoppconclude_grey_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/gecko/40000_handler/ds40014_assoppconclude_grey_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/gecko/40000_handler/ds40014_assoppconclude_grey_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,3.623524)\\\\Perfect. We have Ingram right where we want him.//(3.623524,6)\\\\47, you know what to do.",
+					"fr": "//(0,3.9)\\\\Parfait. On a Ingram exactement là où on le veut.//(3.9,6)\\\\47, tu sais ce qu'il te reste à faire.",
+					"it": "//(0,3.91)\\\\Perfetto. Ora Ingram è esattamente dove vogliamo che sia.//(3.91,6)\\\\47, sai cosa fare.",
+					"de": "//(0,2)\\\\Perfekt. Wir haben Ingram genau da,//(2,3.654882)\\\\wo wir ihn haben wollten.//(3.654882,6)\\\\47, du weißt, was zu tun ist.",
+					"es": "//(0,3.1)\\\\Perfecto. Tenemos a Ingram justo donde queríamos.//(3.85,6)\\\\47, ya sabes lo que hay que hacer.",
+					"ru": "//(0,30)\\\\Идеально. Теперь Ингрэму от нас не уйти. 47-й, ты знаешь, что делать.",
+					"cn": "//(0,30)\\\\好极了，英格拉姆就在我们需要他在的地方。你知道该怎么办，47。",
+					"tc": "//(0,3.7)\\\\太好了。英格倫這下成了甕中之鱉。//(3.7,33.7)\\\\47，你知道該怎麼做。",
+					"jp": "//(0,30)\\\\完璧だ。イングラムはちょうどいい場所にいる。47、何をするかはわかってるな。"
+				}
+			}
+		]
+	}
+}

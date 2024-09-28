@@ -1,0 +1,68 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/evergreen/handler/ed061_clbrtsyndicatewinpost.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ed061_clbrtsyndicatewinpost_diana_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed061_clbrtsyndicatewinpost_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed061_clbrtsyndicatewinpost_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,3.696687)\\\\Excellent, 47. You took down the Syndicate.//(3.696687,6.409571)\\\\But we have intel that there are more connected.//(6.409571,8.363865)\\\\Eliminate them all.//(8.363865,10.25436)\\\\You will be well rewarded.//(10.25436,40.25436)\\\\Prepare and let me know when you are ready.",
+					"fr": "//(0,1.234)\\\\Excellent, 47.//(1.234,3.128)\\\\Vous avez éliminé le syndicat,//(3.128,6.198)\\\\mais nos renseignements en ont révélé d'autres, connectés à celui-ci.//(6.198,9.869)\\\\Éliminez-les tous. Vous serez justement récompensé.//(9.869,39.869)\\\\Préparez-vous et dites-moi quand vous serez prêt.",
+					"it": "//(0,2.960491)\\\\Eccellente, 47. Hai eliminato l'organizzazione.//(2.960491,6.1)\\\\Dalle informazioni che abbiamo, però, pare che ce ne siano altre collegate.//(6.1,9.5)\\\\Eliminale tutte. Sarai ben ricompensato.//(9.5,39.5)\\\\Preparati e fammi sapere quando sarai pronto.",
+					"de": "//(0,1.45)\\\\Hervorragend, 47.//(1.45,3.3)\\\\Sie haben das Syndikat ausgeschaltet.//(3.6,6)\\\\Doch wir haben Informationen, dass noch andere involviert sind.//(6.4,8.25)\\\\Eliminieren Sie sie alle.//(8.25,10.2)\\\\Sie werden großzügig belohnt werden.//(10.2,40.2)\\\\Bereiten Sie sich vor und lassen Sie es mich wissen, sobald Sie bereit sind.",
+					"es": "//(0,1.356196)\\\\Excelente, 47.//(1.356196,3.696687)\\\\Has acabado con el sindicato.//(3.696687,6.565767)\\\\No obstante, tenemos información de que hay otros en la red.//(6.565767,8.08816)\\\\Acaba con todos ellos.//(8.08816,10.29245)\\\\Serás recompensado generosamente.//(10.29245,40.29245)\\\\Prepárate y avísame cuando estés listo.",
+					"ru": "//(0,1.356196)\\\\Превосходно, 47-й.//(1.356196,6.5)\\\\Ты уничтожил синдикат. Но нам сообщили, что с ним связаны еще несколько.//(6.5,9.721962)\\\\Уничтожь их, и тебя щедро вознаградят.//(9.721962,10.958)\\\\Начинай готовиться.//(10.958,40.958)\\\\Дай знать, когда соберешься.",
+					"cn": "//(0,3.42)\\\\太棒了，47。你消灭了辛迪加成员。//(3.42,6.32)\\\\但我们的情报显示，他们还有很多互相有关联的成员。//(6.32,10.12)\\\\一举歼灭他们。你会得到回报的。//(10.12,40.12)\\\\做好准备，想要出发时就告诉我。",
+					"tc": "//(0,6.4)\\\\太好了，47。你擊垮了組織，但是我們的情報指出還有更多相關的組織。//(6.4,36.4)\\\\消滅它們全部，報酬會很好的。去做準備，好的時候告訴我。",
+					"jp": "//(0,3.525)\\\\素晴らしいわ、47。シンジケートを解体したわ。//(3.525,6.295)\\\\でも情報によると、まだ多くの関係者が存在している。//(6.295,10.28)\\\\彼らを全員排除して。報酬は弾むわ。//(10.28,40.28)\\\\準備が整ったら連絡して。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed061_clbrtsyndicatewinpost_diana_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed061_clbrtsyndicatewinpost_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed061_clbrtsyndicatewinpost_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,3.546687)\\\\Good job, 47. You eliminated the Syndicate.//(3.546687,6.309571)\\\\But this is only the tip of the iceberg.//(6.309571,8.281963)\\\\They have more affiliations.//(8.281963,11.31)\\\\Eliminate them to bring them down on their knees.//(11.31,41.31)\\\\Let me know when you are ready.",
+					"fr": "//(0,1.197)\\\\Beau travail, 47.//(1.197,5.918)\\\\Vous avez démantelé le syndicat, mais ce n'était que la pointe de l'iceberg.//(5.918,8.079)\\\\Il compte de nombreuses branches.//(8.079,10.956)\\\\Éliminez-les toutes pour endiguer le syndicat pour de bon.//(10.956,40.956)\\\\Prévenez-moi quand vous êtes prêt.",
+					"it": "//(0,3.328589)\\\\Bel lavoro, 47. Hai eliminato l'organizzazione.//(3.328589,8.365767)\\\\Questa però è solo la punta dell'iceberg, in quanto ha altre affiliazioni.//(8.365767,11)\\\\Eliminale per mettere in ginocchio la loro rete.//(11,41)\\\\Fammi sapere quando sarai pronto.",
+					"de": "//(0,1.4)\\\\Gute Arbeit, 47.//(1.4,3.4)\\\\Sie haben das Syndikat ausgeschaltet.//(3.4,6.2)\\\\Doch das ist nur die Spitze des Eisbergs.//(6.2,7.9)\\\\Aber es gibt noch mehr Verbindungen.//(8.3,10.95)\\\\Schalten Sie sie aus, um sie in die Knie zu zwingen.//(11.3,41.3)\\\\Lassen Sie es mich wissen, sobald Sie bereit sind.",
+					"es": "//(0,1.424294)\\\\Buen trabajo, 47.//(1.424294,3.696687)\\\\Has erradicado al sindicato.//(3.696687,5.97957)\\\\No obstante, tan solo es la punta del iceberg://(5.97957,8.283865)\\\\tienen más ramificaciones.//(8.283865,11.38294)\\\\Acaba con todas ellas para derrotarlos de una vez por todas.//(11.38294,41.38294)\\\\Avísame cuando estés listo.",
+					"ru": "//(0,2.960491)\\\\Отлично, 47-й. Ты ликвидировал синдикат.//(2.960491,7.641473)\\\\Но это лишь верхушка айсберга. У этих людей были сообщники.//(7.641473,11.494)\\\\Уничтожь их, чтобы поставить преступников на колени.//(11.494,41.494)\\\\Дай знать, как будешь готов.",
+					"cn": "//(0,3.5)\\\\干得漂亮，47。你消灭了辛迪加的成员。//(3.5,8.05)\\\\但这只是冰山一角。他们还有很多下属组织。//(8.05,38.05)\\\\歼灭他们，别让他们死灰复燃。准备好时就告诉我。",
+					"tc": "//(0,6.1)\\\\做得好，47。你消滅了組織。但是這不過是冰山一角。//(6.1,36.1)\\\\他們還有更多的關係。消滅並擊垮他們。準備好的時候告訴我。",
+					"jp": "//(0,3.432)\\\\よくやったわ、47。シンジケートを排除した。//(3.432,6.23)\\\\でもこれは氷山の一角に過ぎない。//(6.23,11.26)\\\\シンジケートには多くの関係者がいる。彼らを排除して屈服させるのよ。//(11.26,41.26)\\\\準備が整ったら教えて。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed061_clbrtsyndicatewinpost_diana_004",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed061_clbrtsyndicatewinpost_diana_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed061_clbrtsyndicatewinpost_diana_004.animset].pc_animset",
+				"languages": {
+					"en": "//(0,4)\\\\Well done, 47. The Syndicate has been eliminated.//(4,8.6)\\\\However, I have intel that there are more connected. Finish the job.//(8.6,38.6)\\\\Take them all down and you will be well rewarded. Get back to me, when you're ready.",
+					"fr": "//(0,1.165)\\\\Bravo, 47.//(1.165,3.484)\\\\Ce syndicat est hors d'état de nuire.//(3.484,6.982)\\\\Cependant, selon nos informations, il avait des connexions.//(6.982,8.276)\\\\Terminez la mission.//(8.276,11.214)\\\\Éliminez toutes les branches et vous serez justement récompensé.//(11.214,41.214)\\\\Prévenez-moi quand vous êtes prêt.",
+					"it": "//(0,3.328589)\\\\Eccellente, 47. L'organizzazione è stata eliminata.//(3.328589,7.2)\\\\Dalle informazioni che abbiamo, però, pare che ce ne siano altre collegate.//(7.2,11.3)\\\\Finisci il lavoro, eliminale tutte e sarai ben ricompensato.//(11.3,41.3)\\\\Chiamami quando sei pronto.",
+					"de": "//(0,1.4)\\\\Gut gemacht, 47.//(1.4,3.5)\\\\Das Syndikat wurde ausgeschaltet.//(3.9,7.15)\\\\Doch ich habe Informationen, dass noch mehr involviert sind.//(7.15,8.6)\\\\Bringen Sie die Sache zu Ende.//(8.6,11.55)\\\\Schalten Sie alle aus und Sie werden großzügig belohnt.//(11.55,41.55)\\\\Melden Sie sich, sobald Sie bereit sind.",
+					"es": "//(0,1.524294)\\\\Buen trabajo, 47.//(1.524294,3.764785)\\\\El sindicato ha sido eliminado.//(3.764785,7.297668)\\\\No obstante, tengo información de que hay más conectados.//(7.297668,8.701963)\\\\Termina el trabajo.//(8.701963,11.57865)\\\\Acaba con todos ellos y serás recompensado.//(11.57865,41.57865)\\\\Ven a verme cuando estés listo.",
+					"ru": "//(0,1.356196)\\\\Прекрасно, 47-й.//(1.356196,6.525276)\\\\Синдикат уничтожен. Но мне сообщили, что с ним связаны еще несколько.//(6.525276,11.34)\\\\Заверши эту работу. Уничтожь все синдикаты, и тебя щедро вознаградят.//(11.34,41.34)\\\\Свяжись со мной, когда будешь готов.",
+					"cn": "//(0,3.72)\\\\干得好，47。你消灭了辛迪加成员。//(3.72,8.54)\\\\然而我们的情报显示，他们还有很多互相有关联的成员。去完成任务。//(8.54,11.43)\\\\把他们都消灭掉，你会得到优厚的回报。//(11.43,41.43)\\\\等你准备好之后再答复我吧。",
+					"tc": "//(0,3.8)\\\\做得好，47。組織被消滅了。//(3.8,7)\\\\不過我們的情報指出還有更多相關的組織。//(7,37)\\\\擊垮它們全部，報酬會很好的。準備好的時候請告訴我。",
+					"jp": "//(0,3.755)\\\\お見事ね、47。シンジケートを排除したわ。//(3.755,7.15)\\\\でも情報によると、まだ多くの関係者が存在しているの。//(7.15,11.54)\\\\仕事を最後まで終わらせて。彼らを全員排除してくれたら、報酬は弾むわ。//(11.54,41.54)\\\\準備ができたら連絡して。"
+				}
+			}
+		]
+	}
+}

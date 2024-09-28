@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colombia/23000_hippo/23000_handler/ds23042_idcatalinadelgado.sweetdialog?/ds23042_idcatalinadelgado_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds23042_idcatalinadelgado_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colombia/23000_hippo/23000_handler/ds23042_idcatalinadelgado_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colombia/23000_hippo/23000_handler/ds23042_idcatalinadelgado_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.500949)\\\\That is Catalina Delgado,//(1.500949,5.094875)\\\\wife to Rico Delgado for the past eleven years.",
+			"fr": "//(0,1.381348)\\\\Voici Catalina Delgado.//(1.381348,4.233843)\\\\Elle et Rico Delgado sont mariés depuis onze ans//(4.233843,5.233843)\\\\maintenant.",
+			"it": "//(0,1.610633)\\\\Quella è Catalina Delgado,//(1.610633,5.094875)\\\\la moglie di Rico Delgado da undici anni.",
+			"de": "//(0,1.925255)\\\\Das ... ist Catalina Delgado,//(1.925255,5.094875)\\\\seit elf Jahren die Frau von Rico Delgado.",
+			"es": "//(0,2)\\\\Esa es Catalina Delgado,//(2,3.788)\\\\que ha sido la esposa de Rico Delgado//(3.788,5.492504)\\\\durante los últimos once años.",
+			"ru": "//(0,1.618845)\\\\Это Каталина Дельгадо.//(1.618845,5.094875)\\\\Она замужем за Рико Дельгадо уже одиннадцать лет.",
+			"cn": "//(0,30)\\\\那个是凯特琳娜·戴尔加多，与里科·戴尔加多当了十一年夫妻。",
+			"tc": "//(0,30)\\\\那個是凱特琳娜．戴爾加多，與里科．戴爾加多當了十一年夫妻。",
+			"jp": "//(0,2.01)\\\\あれがカタリナ・デルガド。//(2.01,32.01)\\\\今年で結婚11年目になるリコ・デルガドの妻よ。"
+		}
+	}
+}

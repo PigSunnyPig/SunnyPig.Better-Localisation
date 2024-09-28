@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/bulldog/41000_handler/ds41122_casefilehandlerfindtokennoreveal.sweetdialog?/ds41122_casefilehandlerfindtokennoreveal_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41122_casefilehandlerfindtokennoreveal_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/bulldog/41000_handler/ds41122_casefilehandlerfindtokennoreveal_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/bulldog/41000_handler/ds41122_casefilehandlerfindtokennoreveal_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4)\\\\That’s a token for a vault in the Milton-Fitzpatrick London bank.//(4,7.9)\\\\You need a pair and you gain access no questions asked.//(7.9,11)\\\\I bet that's where Madam Carlisle keeps a copy of the Edwards file.",
+			"fr": "//(0,4.1)\\\\C'est un jeton pour accéder à une chambre forte de la banque Milton-Fitzpatrick, à Londres.//(4.1,7.8)\\\\Si vous en avez deux identiques, on vous laisse entrer sans poser de questions.//(7.8,11.4)\\\\C'est sûrement là-bas que madame Carlisle garde une copie du dossier sur Edwards.",
+			"it": "//(0,4.18)\\\\È un gettone per una camera blindata della banca Milton-Fitzpatrick di Londra.//(4.18,8.01)\\\\Te ne servono due per accedere senza domande.//(8.01,11.53)\\\\Scommetto che è dove Madame Carlisle tiene una copia del fascicolo di Edwards.",
+			"de": "//(0,4.24908)\\\\Das ist ein Marker für einen Tresorraum in der Londoner Milton-Fitzpatrick-Bank.//(4.24908,7.92245)\\\\Man braucht zwei davon und erhält dann Zugang, ohne dass jemand weitere Fragen stellt.//(7.92245,11.45963)\\\\Ich würde wetten, dass Madam Carlisle dort eine Kopie der Edwards-Akte verwahrt.",
+			"es": "//(0,4.2)\\\\Es una ficha de una cámara acorazada del banco Milton-Fitzpatrick de Londres.//(4.2,8)\\\\Si tienes un par de estas, te dejan entrar sin hacer preguntas.//(8,11.7)\\\\Me da que es ahí donde la señora Carlisle guarda una copia del informe de Edwards.",
+			"ru": "//(0,3.9)\\\\Жетон лондонского отделения банка «Мильтон-Фицпатрик».//(3.9,5.555)\\\\Если придешь в банк с двумя такими жетонами,//(5.555,8.25)\\\\тебя пустят в хранилище без лишних вопросов.//(8.25,10.44245)\\\\Может, мадам Карлайл держит копию//(10.44245,40.44245)\\\\досье на Эдварда именно там?",
+			"cn": "//(0,4.15)\\\\那是用来进入米尔顿·菲兹帕特里克伦敦银行金库的代币。//(4.15,34.15)\\\\需要一对才能进入。卡莱尔夫人肯定在那里存放有一份爱德华兹文件。",
+			"tc": "//(0,4.3)\\\\那是米頓‧菲茲派崔克銀行的保險庫代幣。//(4.3,7.9)\\\\只要有兩個，你就能夠無條件通行。//(7.9,37.9)\\\\我看卡萊爾女士就是把愛德華的檔案存放在那裡。",
+			"jp": "//(0,4.2)\\\\ロンドンにあるミルトン=フィッツパトリック銀行の金庫室のトークンね。//(4.2,7.91)\\\\ペアを揃えれば、無条件でアクセスできるようになるわ。//(7.91,37.91)\\\\アーサー・エドワーズのファイルはここに保管してあると、賭けてもいいわ。"
+		}
+	}
+}

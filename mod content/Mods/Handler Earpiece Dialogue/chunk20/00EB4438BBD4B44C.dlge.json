@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/newzealand/31000_sheep/31000_story/dr31002_garage.sweetdialog?/dr31002_garage_diana_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr31002_garage_diana_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_sheep/31000_story/dr31002_garage_diana_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_sheep/31000_story/dr31002_garage_diana_002.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.708589)\\\\I wouldn’t put it past them.//(1.708589,4.503125)\\\\The shadow client is nothing if not industrious.",
+			"fr": "//(0,1.972393)\\\\Je n'en douterais pas.//(1.972393,4.503125)\\\\Le client de l'ombre ne perds pas son temps.",
+			"it": "//(0,1.604294)\\\\Bisogna dargliene atto.//(1.604294,4.503125)\\\\Il cliente ombra si dà da fare.",
+			"de": "//(0,1.508589)\\\\Das traue ich ihm glatt zu.//(1.508589,4.503126)\\\\Der Schattenklient ist absolut umtriebig.",
+			"es": "//(0,1.604294)\\\\Hay que reconocérselo.//(1.604294,4.503125)\\\\El cliente clandestino es de lo más trabajador.",
+			"ru": "//(0,1.855675)\\\\Таинственный клиент без дела не сидит.//(1.855675,4.503125)\\\\С этим не поспоришь.",
+			"cn": "//(0,30)\\\\影子客户还真勤快啊。这点不得不承认。",
+			"tc": "//(0,30)\\\\這影子客戶可真是用功，你說是不是？",
+			"jp": "//(0,30)\\\\特に驚きはないわね。影のクライアントは仕事熱心なのが取り柄だから。"
+		}
+	}
+}

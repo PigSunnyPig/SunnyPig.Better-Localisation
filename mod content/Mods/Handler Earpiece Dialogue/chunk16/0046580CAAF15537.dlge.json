@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_skunk/27000_handler/ds27081_handlermapmarkedhint.sweetdialog?/ds27081_handlermapmarkedhint_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds27081_handlermapmarkedhint_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_skunk/27000_handler/ds27081_handlermapmarkedhint_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_skunk/27000_handler/ds27081_handlermapmarkedhint_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,3.7)\\\\47, I've marked your map with several points of interest.//(3.7,6.7)\\\\We're running this mission with very little up-front intel//(6.7,11.4)\\\\but these locations could provide clues to help you obtain the information we need.//(11.4,14.26724)\\\\Good luck.",
+			"fr": "//[DIANA]\\\\//(0,3.932883)\\\\47, j'ai indiqué quelques points d'intérêt sur votre carte.//(3.932883,6.95)\\\\Nous nous lançons dans cette mission sans trop de visibilité,//(6.95,8.93)\\\\mais ces lieux pourraient contenir des indices//(8.93,11.321)\\\\et vous aider à obtenir les informations dont nous avons besoin.//(11.321,13.45455)\\\\Bonne chance.",
+			"it": "//[DIANA]\\\\//(0,3.8)\\\\47, ho segnato diversi punti di interesse sulla tua mappa.//(3.8,5.4)\\\\Per questa missione non siamo partiti//(5.4,6.932883)\\\\con moltissime informazioni,//(6.932883,9.4)\\\\ma visitare questi luoghi potrebbe fornirti qualche spunto//(9.4,11.5)\\\\per ottenere quello che ci serve sapere.//(11.5,41.5)\\\\Buona fortuna.",
+			"de": "//[DIANA]\\\\//(0,2.1)\\\\47, ich habe auf Ihrer Karte//(2.1,4)\\\\mehrere interessante Orte markiert.//(4,4.9)\\\\Wir führen diese Mission//(4.9,7)\\\\mit sehr wenigen Vorab-Informationen durch,//(7,9)\\\\aber diese Orte könnten Ihnen Hinweise darauf geben,//(9,10.5)\\\\wo Sie die Informationen finden können,//(10.5,11.7)\\\\die wir brauchen.//(11.7,15.21127)\\\\Viel Glück.",
+			"es": "//[DIANA]\\\\//(0,3.7)\\\\47, te he marcado en el mapa varios puntos de interés.//(3.7,6.8)\\\\Vamos a realizar esta misión sabiendo muy pocos detalles de antemano,//(6.8,9.2)\\\\pero estas ubicaciones podrían darnos pistas que te ayuden//(9.2,11.2)\\\\a conseguir la información que precisamos.//(11.2,41.2)\\\\Buena suerte.",
+			"ru": "//[DIANA]\\\\//(0,3.440586)\\\\47-й, я отметила на карте несколько важных объектов.//(3.440586,4.977499)\\\\Мы взялись за операцию,//(4.977499,6.869685)\\\\не имея почти никаких разведданных,//(6.869685,9.472418)\\\\но в этих точках ты сможешь узнать,//(9.472418,11.37609)\\\\как добыть нужные сведения.//(11.37609,12.37609)\\\\Удачи.",
+			"cn": "//[DIANA]\\\\//(0,6.815)\\\\47，我已经在你的地图上标记了几处目标点。我们这次任务的前线情报非常稀缺，//(6.815,12.341)\\\\不过这些地点应该能为你提供一些线索以取得需要的情报。祝你好运。",
+			"tc": "//[DIANA]\\\\//(0,3.868)\\\\47，我已經在你的地圖上標記了幾處目標點。//(3.868,11.536)\\\\我們這次任務的前線情報非常稀缺，不過這些地點應該能為你提供一些線索以取得需要的情報。//(11.536,41.536)\\\\祝你好運。",
+			"jp": "//[DIANA]\\\\//(0,3.88)\\\\47、地図に興味深いポイントをマークしといたわ。//(3.88,6.77)\\\\この任務は限られた事前情報で遂行しているけど、//(6.77,9.75)\\\\これらのポイントからは必要な情報を手に入れるための手がかかりを//(9.75,11.65)\\\\見つけられるかもしれない。//(11.65,41.65)\\\\頑張って。"
+		}
+	}
+}

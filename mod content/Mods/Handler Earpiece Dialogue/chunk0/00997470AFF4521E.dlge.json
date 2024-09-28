@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/evergreen/handler/ed049_hiddenstash.sweetdialog?/ed049_hiddenstash_diana_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ed049_hiddenstash_diana_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed049_hiddenstash_diana_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed049_hiddenstash_diana_002.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,4)\\\\There it is. A little something to help you on your assignment.//(4,6.417178)\\\\Use it wisely.",
+			"fr": "//[DIANA]\\\\//(0,3.594516)\\\\Voilà qui devrait vous aider dans votre mission.//(3.594516,5.268542)\\\\Faites-en bon usage.",
+			"it": "//[DIANA]\\\\//(0,4.124728)\\\\Ci siamo. Ecco un po' di scorte per aiutarti durante il tuo incarico.//(4.124728,5.268542)\\\\Usale con accortezza.",
+			"de": "//[DIANA]\\\\//(0,1)\\\\Da ist es.//(1,3.5)\\\\Ein kleiner Bonus, um bei Ihrem Auftrag zu helfen.//(4,5.268542)\\\\Setzen Sie das mit Bedacht ein.",
+			"es": "//[DIANA]\\\\//(0,30)\\\\Ahí está. Una ayudita para tu encargo. Úsalo con tino.",
+			"ru": "//[DIANA]\\\\//(0,3.674065)\\\\Ага, нашлось. Это поможет тебе в работе.//(3.674065,5.268542)\\\\Используй с умом.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\就是这个。能对你的任务有所帮助小东西。善加使用。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\有了，這能幫助你完成你的任務。善用它。",
+			"jp": "//[DIANA]\\\\//(0,30)\\\\それよ。任務に役立つわ。うまく活用するのよ。"
+		}
+	}
+}

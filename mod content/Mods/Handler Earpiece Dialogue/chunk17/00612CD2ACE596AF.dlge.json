@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25044_tailorhint1.sweetdialog?/ds25044_tailorhint1_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25044_tailorhint1_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25044_tailorhint1_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25044_tailorhint1_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.594785)\\\\Excellent. Let's find out what kind of dress//(2.594785,5.180982)\\\\a woman like Vanya Shah wants...",
+			"fr": "//(0,2.744855)\\\\Parfait. Voyons à quel genre de robe s'intéresse//(2.744855,4.609792)\\\\une femme comme Vanya Shah...",
+			"it": "//(0,2.304896)\\\\Eccellente. Vediamo un po' quali vestiti possono//(2.304896,4.609792)\\\\piacere a una donna come Vanya Shah...",
+			"de": "//(0,1.032887)\\\\Hervorragend.//(1.032887,2.966)\\\\Finden wir also heraus, was für eine Art Kleid//(2.966,8.192457)\\\\eine Frau wie Vanya Shah gerne hätte ...",
+			"es": "//(0,2.4)\\\\Excelente. Veamos qué tipo de vestido//(2.4,6.417178)\\\\busca una mujer como Vanya Shah...",
+			"ru": "//(0,0.7566064)\\\\Замечательно.//(0.7566064,1.50284)\\\\Давай узнаем,//(1.50284,3.21154)\\\\какое платье подойдет такой даме,//(3.21154,4.609792)\\\\как Ванья Шах...",
+			"cn": "//(0,30)\\\\很好。让我们弄清楚，像瓦妮娅·沙这样的女人想要什么样的裙子吧......",
+			"tc": "//(0,30)\\\\很好。讓我們弄清楚，像瓦妮婭．沙這樣的女人想要什麼樣的裙子吧......",
+			"jp": "//(0,30)\\\\いいわね。ヴァーニャ・シャーがどういうドレスを求めているのか聞いてみましょう..."
+		}
+	}
+}

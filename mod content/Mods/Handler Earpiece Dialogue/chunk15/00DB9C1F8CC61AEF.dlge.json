@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_magpie/29000_handler/ds29004_oppmeeting_conclusion.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds29004_oppmeeting_conclusion_diana_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_magpie/29000_handler/ds29004_oppmeeting_conclusion_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_magpie/29000_handler/ds29004_oppmeeting_conclusion_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,1.42332)\\\\Nicely done, 47.//(1.42332,4.570667)\\\\This should put Sophia firmly in the dog house.",
+					"fr": "//(0,30)\\\\Bien joué, 47. Cela va causer de gros ennuis à Sophia.",
+					"it": "//(0,30)\\\\Ottimo, 47. Questo metterà Sophia in una pessima luce.",
+					"de": "//(0,1.524677)\\\\Gut gemacht, 47.//(1.524677,4.570667)\\\\Damit dürfte Sophia wohl in der Patsche sitzen.",
+					"es": "//(0,0.7067478)\\\\Buen trabajo,//(0.7067478,4.570667)\\\\47. Esto debería meter a Sophia en un buen lío.",
+					"ru": "//(0,1.724294)\\\\Хорошо сработано, 47-й.//(1.724294,4.570667)\\\\Теперь София точно разругается со всеми.",
+					"cn": "//(0,30)\\\\47，干得漂亮。这样索菲娅肯定会引起公愤。",
+					"tc": "//(0,30)\\\\47，幹得漂亮。這樣索菲婭肯定會引起公憤。",
+					"jp": "//(0,30)\\\\いい仕事ぶりね、47。これでソフィアの面目は丸つぶれよ。"
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8613_hackersession.sweetdialog?/dr8613_hackersession_troubled_hacker_et_006.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8613_hackersession_troubled_hacker_et_006",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8613_hackersession_troubled_hacker_et_006.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8613_hackersession_troubled_hacker_et_006.animset].pc_animset",
+		"languages": {
+			"en": "//(0,6.075)\\\\Military or political targets, I guess? I have no problems with going in and targeting them.//(6.075,12.8)\\\\But public infrastructure, hospitals, that sort of thing? It doesn’t seem... legitimate, I suppose.//(12.8,42.8)\\\\Rose is fierce, I mean. Driven. I believe in him. I-I trust him, you know. But...",
+			"fr": "//(0,3.56)\\\\À des cibles militaires ou politiques par exemple.//(3.56,6.5)\\\\J'ai pas de souci pour m'en prendre à elles.//(6.5,9.46)\\\\Mais les infrastructures publiques, les hôpitaux, tout ça...//(9.46,13.57)\\\\Ça me semble pas... justifié, je crois.//(13.57,17.9)\\\\Rose est féroce, vraiment. Et déterminé. Je crois en lui.//(17.9,47.9)\\\\Je... je lui fais confiance, vous savez. Mais...",
+			"it": "//(0,5.787178)\\\\Obiettivi militari o politici, per esempio. Non avrei alcun problema ad attaccarli.//(5.787178,12.2)\\\\Ma se si tratta di infrastrutture pubbliche e ospedali... non mi sembra giusto.//(13.45,43.45)\\\\Rose è feroce. Determinato. Credo in lui. Mi fido di lui, davvero. Ma...",
+			"de": "//(0,3.7)\\\\Na ja, militärische oder politische Ziele.//(3.7,6.6)\\\\Ich hätte kein Problem, solche Leute ins Visier zu nehmen.//(6.6,9.7)\\\\Aber öffentliche Infrastruktur, Krankenhäuser und so was?//(9.7,16.4)\\\\Das ist irgendwie ... nicht richtig, denke ich. Rose ist gnadenlos. Wild entschlossen.//(16.4,46.4)\\\\Ich glaube an ihn. Ich vertraue ihm auch, aber ...",
+			"es": "//(0,5.787178)\\\\Objetivos militares o políticos, supongo. No tengo problema en ir contra ellos.//(5.787178,12.212)\\\\¿Pero infraestructuras públicas, hospitales y esa clase de cosas? No parece... legítimo, supongo.//(13.412,43.412)\\\\Rose es intenso. Quiero decir que es resuelto. Yo creo en él. Confío en él. Pero...",
+			"ru": "//(0,5.785276)\\\\Военные и политические цели меня бы устроили. Тут у меня нет никаких проблем.//(5.785276,12.4)\\\\Но гражданские объекты? Больницы? Мне кажется, все это неправильно.//(13.4,16.80534)\\\\Я знаю, Роуз — твердый человек. Упорный. И я верю в него.//(16.80534,46.80534)\\\\Я... Я верю ему, правда. Но...",
+			"cn": "//(0,6.075)\\\\我猜是军事或政治目标吧？我对进入并瞄准他们没什么意见。//(6.075,12.8)\\\\但像公共基础设施、医院之类的？我想，这似乎......不太合理。//(12.8,42.8)\\\\罗斯很凶猛。我是说，有冲劲。我相信他。我——我信任他。你知道的。但是......",
+			"tc": "//(0,6.075)\\\\我猜是軍事目標還是政治目標？我對進入並瞄準他們沒有任何問題。//(6.075,12.8)\\\\但是公共基礎建設、醫院之類的東西呢？我想這似乎...不合法。//(12.8,42.8)\\\\我的意思是，羅斯很兇猛。很驅動。我相信他。我-我相信他，你知道。但...",
+			"jp": "//(0,6.075)\\\\Military or political targets, I guess? I have no problems with going in and targeting them.//(6.075,12.8)\\\\But public infrastructure, hospitals, that sort of thing? It doesn’t seem... legitimate, I suppose.//(12.8,42.8)\\\\Rose is fierce, I mean. Driven. I believe in him. I-I trust him, you know. But..."
+		}
+	}
+}

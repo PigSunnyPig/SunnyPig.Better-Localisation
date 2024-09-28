@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25000_mongoose_flyin.sweetdialog?/ds25000_mongoose_flyin_diana_006.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25000_mongoose_flyin_diana_006",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25000_mongoose_flyin_diana_006.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25000_mongoose_flyin_diana_006.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,4.093374)\\\\A place to start could be the slums where his former gang, \"the Crows,\"//(4.093374,34.09337)\\\\has recently risen from the ashes.",
+			"fr": "//[DIANA]\\\\//(0,2.25)\\\\Un bon endroit pour commencer serait les bidonvilles,//(2.25,32.25)\\\\où son ancien gang, les \"Crows\", s'y est récemment reformé.",
+			"it": "//[DIANA]\\\\//(0,30)\\\\Un buon punto di partenza potrebbero essere i sobborghi, dove la sua ex gang \"I Corvi\" è da poco risorta dalle ceneri.",
+			"de": "//[DIANA]\\\\//(0,4.181473)\\\\Eine mögliche Anlaufstelle für die Suche sind jene Slums, wo die „Crows“, seine ehemalige Bande,//(4.181473,34.18147)\\\\vor Kurzem aus der Asche auferstanden sind.",
+			"es": "//[DIANA]\\\\//(0,4.1)\\\\Un buen lugar para empezar serían los suburbios donde su antigua banda, «los Cuervos»,//(4.1,34.1)\\\\está resurgiendo de las cenizas.",
+			"ru": "//[DIANA]\\\\//(0,7)\\\\Начать поиски стоит с трущоб, где недавно воскресла из пепла его старая банда «Вороны».",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\有个地方可以作为下手点，那就是他从前的帮派，最近死灰复燃的“乌鸦帮”盘踞的贫民窟。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\展開搜索的最佳之處可能是貧民窟，他的前個幫派「烏鴉」最近死灰復燃。",
+			"jp": "//[DIANA]\\\\//(0,2.435)\\\\まずはスラム街に当たってみるのがいいかもしれないわ。//(2.435,32.435)\\\\彼が所属していたギャング「CROWS」が最近復活したということよ。"
+		}
+	}
+}

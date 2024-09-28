@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession.sweetdialog?/dr8614_specopssession_paine_et_011.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8614_specopssession_paine_et_011",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession_paine_et_011.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession_paine_et_011.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.75)\\\\Well Jeffersen, I won’t give you the line about 'follow your orders'–//(3.75,7.5)\\\\because we know that’s how the powerful justify their atrocities.//(7.5,37.5)\\\\But, I’ll ask you this: what do you think all of you are here to do?",
+			"fr": "//(0,8.45)\\\\Jeffersen, je ne vais pas vous dire de \"suivre les ordres\", parce que c'est comme ça que les gens au pouvoir justifient les horreurs qu'ils font.//(8.45,10.72)\\\\J'ai une question pour vous ://(10.72,40.72)\\\\d'après vous, que faites-vous tous ici ?",
+			"it": "//(0,3.5)\\\\Ti risparmio la classica tiritera sul \"seguire gli ordini\", Jeffersen,//(3.5,8.25)\\\\perché è così che i potenti giustificano le loro atrocità.//(8.25,38.25)\\\\Ma voglio chiederti questo: perché credi che siate qui, tutti voi?",
+			"de": "//(0,3.7)\\\\Okay, Jeffersen, ich sage Ihnen jetzt nicht, Sie sollen einfach Ihre Befehle befolgen –//(3.7,8.4)\\\\wir wissen beide, dass die Mächtigen so ihre Gräueltaten rechtfertigen.//(8.4,38.4)\\\\Aber ich möchte Sie etwas fragen: Was glauben Sie, warum Sie alle hier sind?",
+			"es": "//(0,3.65908)\\\\Bueno, Jeffersen, no te voy a soltar eso de \"seguir órdenes\",//(3.65908,8.326)\\\\porque ambos sabemos que así es como los poderosos justifican sus atrocidades.//(8.326,38.326)\\\\Pero dime una cosa: ¿para qué crees que estáis aquí?",
+			"ru": "//(0,4.6)\\\\Что ж, Джефферсен, я не буду говорить вам о том, что «нужно выполнять приказы» —//(4.6,8.25)\\\\так сильные мира сего оправдывают свои злодеяния.//(8.25,38.25)\\\\Вместо этого я задам вам вопрос: чем, по-вашему, вы все здесь занимаетесь?",
+			"cn": "//(0,3.75)\\\\好吧，杰弗森，我就不跟你说什么“服从命令”了，//(3.75,7.5)\\\\——因为我们知道强者就是这样为他们的暴行辩护的。//(7.5,37.5)\\\\但是，我有个问题要问你：你认为你们所有人来这里是为了做什么？",
+			"tc": "//(0,3.75)\\\\好吧，傑佛森，我不會給你「聽從你的命令」的台詞-–//(3.75,7.5)\\\\因為我們知道這就是強者為他們的暴行辯護的方式。//(7.5,37.5)\\\\但是，我會問你：你認為你們來這裡是做什麼的？",
+			"jp": "//(0,3.75)\\\\Well Jeffersen, I won’t give you the line about 'follow your orders'–//(3.75,7.5)\\\\because we know that’s how the powerful justify their atrocities.//(7.5,37.5)\\\\But, I’ll ask you this: what do you think all of you are here to do?"
+		}
+	}
+}

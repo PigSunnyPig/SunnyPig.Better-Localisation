@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/newzealand/31000_sheep/31000_handler/ds31008_hiddenroom.sweetdialog?/ds31008_hiddenroom_diana_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds31008_hiddenroom_diana_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_sheep/31000_handler/ds31008_hiddenroom_diana_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_sheep/31000_handler/ds31008_hiddenroom_diana_002.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.641472)\\\\Wait... According to the floor plan, the room you're in should be a lot bigger.//(4.641472,7.001142)\\\\There might be a concealed space behind the wall.//(7.001142,10.55114)\\\\Check for hidden panels, 47.",
+			"fr": "//(0,0.8680981)\\\\Attendez...//(0.8680981,3.3)\\\\D'après le plan de l'étage, la pièce où vous vous trouvez//(3.3,4.6)\\\\devrait être bien plus grande.//(4.6,7.05)\\\\Il doit y avoir un espace caché derrière une paroi.//(7.05,37.05)\\\\Cherchez un faux mur, 47.",
+			"it": "//(0,0.8680981)\\\\Aspetta...//(0.8680981,2.092392)\\\\Secondo la planimetria,//(2.092392,5)\\\\la stanza dove ti trovi dovrebbe essere molto più grande.//(5,7)\\\\Ci dovrebbe essere dello spazio nascosto dietro al muro.//(7,37)\\\\Controlla se ci sono pannelli nascosti, 47.",
+			"de": "//(0,2.272393)\\\\Halt ... Laut den Grundrissen//(2.272393,4.693374)\\\\sollte der Raum, in dem Sie sind, deutlich größer sein.//(4.693374,7.13816)\\\\Hinter der Wand könnte es einen Geheimraum geben.//(7.13816,37.13816)\\\\Suchen Sie nach einer Geheimtür, 47.",
+			"es": "//(0,1.3)\\\\Espera...//(1.3,5)\\\\según el plano, la habitación en la que estás debería ser mucho más grande.//(5,7.2)\\\\Habrá algún espacio secreto tras la pared.//(7.2,37.2)\\\\Busca paneles ocultos, 47.",
+			"ru": "//(0,0.8680981)\\\\Стоп...//(0.8680981,2.460491)\\\\Судя по плану этажа,//(2.460491,4.91908)\\\\эта комната должна быть гораздо больше.//(4.91908,7.259571)\\\\Где-то за стеной есть тайник.//(7.259571,37.25957)\\\\Ищи замаскированные панели, 47-й.",
+			"cn": "//(0,4.766)\\\\等等......根据户型图纸来看，你这间屋子应该再大一点才对。//(4.766,34.766)\\\\墙后面也许有秘密。找找隐藏面板，47。",
+			"tc": "//(0,30)\\\\等等......根據平面圖，你進入的房間應該更大才對。或許牆後還有秘密空間。找找隱藏的面板，47。",
+			"jp": "//(0,4.565)\\\\待って... 間取図によると、あなたがいる部屋はもっと広いはず。//(4.565,6.96)\\\\壁の裏に隠し部屋があるかもしれないわ。//(6.96,36.96)\\\\何かないか調べるのよ、47。"
+		}
+	}
+}

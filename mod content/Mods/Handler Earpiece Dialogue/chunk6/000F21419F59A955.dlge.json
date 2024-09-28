@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/rat/43000_handler/ds43375_exitoliviadelete47diana.sweetdialog?/ds43375_exitoliviadelete47diana_oliviahall_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds43375_exitoliviadelete47diana_oliviahall_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/rat/43000_handler/ds43375_exitoliviadelete47diana_oliviahall_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/rat/43000_handler/ds43375_exitoliviadelete47diana_oliviahall_002.animset].pc_animset",
+		"languages": {
+			"en": "//[OLIVIAHALL]\\\\//(0,30)\\\\So, wipe all the data referring to the two of you from their system before we publish the rest.",
+			"fr": "//[OLIVIAHALL]\\\\//(0,30)\\\\Bon, je vais supprimer toutes les données sur vous deux du système avant de divulguer le reste.",
+			"it": "//[OLIVIAHALL]\\\\//(0,30)\\\\Allora, ripulisci tutti i dati che fanno riferimento a voi due nel sistema prima di pubblicare il resto.",
+			"de": "//[OLIVIAHALL]\\\\//(0,30)\\\\So. Löschen Sie alle Daten aus dem System, die auf Sie beide verweisen, bevor wir den Rest veröffentlichen.",
+			"es": "//[OLIVIAHALL]\\\\//(0,30)\\\\En fin, limpia todos los datos que os mencionen a los dos antes de que publiquemos el resto.",
+			"ru": "//[OLIVIAHALL]\\\\//(0,3.064785)\\\\Сотри из системы все данные о вас двоих,//(3.064785,33.06479)\\\\а потом мы опубликуем всё остальное.",
+			"cn": "//[OLIVIAHALL]\\\\//(0,3.4)\\\\那么，在我们把数据公之于众之前，//(3.4,33.4)\\\\你得先从他们的系统中抹除所有有关你俩的部分。",
+			"tc": "//[OLIVIAHALL]\\\\//(0,30)\\\\所以，我們洩漏所有檔案前，先將你們兩人的數據從系統中移除。",
+			"jp": "//[OLIVIAHALL]\\\\//(0,30)\\\\さあ、データを公にする前に、二人に関するものをすべて消去して。"
+		}
+	}
+}

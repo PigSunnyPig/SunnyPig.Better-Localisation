@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25072_missionaccomplished.sweetdialog?/ds25072_missionaccomplished_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25072_missionaccomplished_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25072_missionaccomplished_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25072_missionaccomplished_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Mission completed. Time to find an exit.",
+			"fr": "//(0,3.019542)\\\\Mission terminée. Il est temps de trouver une sortie.",
+			"it": "//(0,30)\\\\Missione compiuta, 47. È ora di trovare l'uscita.",
+			"de": "//(0,1.217791)\\\\Mission abgeschlossen.//(1.217791,3.019542)\\\\Zeit, einen Ausgang zu finden.",
+			"es": "//(0,30)\\\\Misión cumplida. Busca una salida.",
+			"ru": "//(0,30)\\\\Задание выполнено, 47-й. Пора искать выход.",
+			"cn": "//(0,30)\\\\任务完成，47。从这里撤退吧。",
+			"tc": "//(0,30)\\\\任務完成，47。從這裡撤退吧。",
+			"jp": "//(0,30)\\\\任務完了よ。脱出ポイントを探して。"
+		}
+	}
+}

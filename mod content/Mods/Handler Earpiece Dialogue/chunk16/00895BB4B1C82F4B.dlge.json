@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_skunk/27000_handler/ds27017_handlerintelclue7.sweetdialog?/ds27017_handlerintelclue7_grey_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds27017_handlerintelclue7_grey_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_skunk/27000_handler/ds27017_handlerintelclue7_grey_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_skunk/27000_handler/ds27017_handlerintelclue7_grey_001.animset].pc_animset",
+		"languages": {
+			"en": "//[GREY]\\\\//(0,5.45)\\\\If that's one of Janus' diaries, it might contain some important information about his past.//(5.45,9.427332)\\\\Our past.",
+			"fr": "//[GREY]\\\\//(0,2.0225)\\\\Si c'est l'un des journaux de Janus,//(2.0225,5.2)\\\\il pourrait contenir une information capitale sur son passé.//(5.2,7.50957)\\\\Sur notre passé.",
+			"it": "//[GREY]\\\\//(0,5.5)\\\\Se quello è il diario di Janus, potrebbe contenere alcuni informazioni importanti sul suo passato.//(5.5,8.474776)\\\\Il nostro passato.",
+			"de": "//[GREY]\\\\//(0,2.1)\\\\Falls das eines von Janus’ Tagebüchern ist,//(2.1,3.9)\\\\könnte es wichtige Informationen//(3.9,5.9)\\\\zu seiner Vergangenheit enthalten.//(5.9,7.242291)\\\\Unserer Vergangenheit.",
+			"es": "//[GREY]\\\\//(0,1.8)\\\\Si ese es uno de los diarios de Janus,//(1.8,5)\\\\podría contener información importante sobre su pasado.//(5,7.286433)\\\\Nuestro pasado.",
+			"ru": "//[GREY]\\\\//(0,2.28586)\\\\Если это один из дневников Януса,//(2.28586,5.667435)\\\\там наверняка есть важные сведения о его прошлом.//(5.667435,7.242291)\\\\О нашем прошлом.",
+			"cn": "//[GREY]\\\\//(0,5.743)\\\\那本是杰纳斯的日记的话，其中或许包含了与他的过去相关的重要信息。//(5.743,35.743)\\\\也许也与我们的过去有关。",
+			"tc": "//[GREY]\\\\//(0,30)\\\\那本是傑納斯的日記的話，其中或許包含了與他的過去相關的重要資訊。也許也與我們的過去有關。",
+			"jp": "//[GREY]\\\\//(0,5.7)\\\\それがヤヌスの日記だとしたら、奴の過去の重要な情報が載っているかもしれない。//(5.7,7.242291)\\\\俺たちの過去のこともな。"
+		}
+	}
+}

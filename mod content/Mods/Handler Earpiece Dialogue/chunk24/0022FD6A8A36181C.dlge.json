@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_handler/dr4610_diana.sweetdialog?/dr4610_diana_diana_et_005.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr4610_diana_diana_et_005",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_handler/dr4610_diana_diana_et_005.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_brassmonkey/4000_brassmonkey_handler/dr4610_diana_diana_et_005.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA_ET]\\\\//(0,30)\\\\Inez Ekwensi is dead, 47. Locate and eliminate Richard Ekwensi now.",
+			"fr": "//[DIANA_ET]\\\\//(0,30)\\\\Inez Ekwensi est morte, 47. Localisez et éliminez Richard Ekwensi maintenant.",
+			"it": "//[DIANA_ET]\\\\//(0,30)\\\\Inez Ekwensi è morta, 47. Localizza ed elimina Richard Ekwensi adesso.",
+			"de": "//[DIANA_ET]\\\\//(0,30)\\\\Inez Ekwensi ist tot, 47. Finden und eliminieren Sie Richard Ekwensi.",
+			"es": "//[DIANA_ET]\\\\//(0,30)\\\\Inez Ekwensi está muerta, 47. Ahora localiza y elimina a Richard Ekwensi now.",
+			"ru": "//[DIANA_ET]\\\\//(0,2.092393)\\\\Инес Эквенси мертва, 47-й.//(2.092393,32.09239)\\\\Найди и ликвидируй Ричарда Эквенси.",
+			"cn": "//[DIANA_ET]\\\\",
+			"tc": "//[DIANA_ET]\\\\//(0,30)\\\\艾內茲．埃克文西已死了，47。立即找到並消滅理查．埃克文西。",
+			"jp": "//[DIANA_ET]\\\\//(0,30)\\\\イネス・エクウェンシーは死亡したわ。次はリチャード・エクウェンシーの番ね。"
+		}
+	}
+}

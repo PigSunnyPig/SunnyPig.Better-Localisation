@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession.sweetdialog?/dr8614_specopssession_troubled_specops_et_010.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8614_specopssession_troubled_specops_et_010",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession_troubled_specops_et_010.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession_troubled_specops_et_010.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Absolutely. And now we’re planning something similar. Some politician or something.",
+			"fr": "//(0,3.685)\\\\Tout à fait. Et maintenant, on prépare le même genre d'opération.//(3.685,33.685)\\\\Pour un politicien, je crois.",
+			"it": "//(0,30)\\\\Esatto, ma ora stiamo organizzando qualcosa di simile. Con un politico o chissà chi altro.",
+			"de": "//(0,30)\\\\Völlig richtig. Und jetzt planen wir etwas Ähnliches. Ein Politiker oder so.",
+			"es": "//(0,30)\\\\Totalmente. Y ahora estamos planeando algo parecido. Un político o alguien así.",
+			"ru": "//(0,30)\\\\Именно. И вот все повторяется. Только на этот раз это уже какой-то политик.",
+			"cn": "//(0,30)\\\\当然。现在我们也在计划类似的事情。一些政客什么的。",
+			"tc": "//(0,30)\\\\絕對地。現在我們正在計劃類似的事情。某個政客什麼的。",
+			"jp": "//(0,30)\\\\Absolutely. And now we’re planning something similar. Some politician or something."
+		}
+	}
+}

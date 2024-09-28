@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/bulldog/41000_handler/ds41025_handlerzacharysbodynomma.sweetdialog?/ds41025_handlerzacharysbodynomma_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41025_handlerzacharysbodynomma_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/bulldog/41000_handler/ds41025_handlerzacharysbodynomma_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/bulldog/41000_handler/ds41025_handlerzacharysbodynomma_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\The dead body of Zachary Carlisle, Alexa's little brother.",
+			"fr": "//(0,30)\\\\Le cadavre de Zachary Carlisle, le petit frère d'Alexa.",
+			"it": "//(0,30)\\\\Il cadavere di Zachary Carlisle, il fratello minore di Alexa.",
+			"de": "//(0,30)\\\\Die Leiche von Zachary Carlisle, Alexas jüngerem Bruder.",
+			"es": "//(0,30)\\\\El cadáver de Zachary Carlisle, el hermano pequeño de Alexa.",
+			"ru": "//(0,30)\\\\Труп Закари Карлайла, младшего брата Алексы.",
+			"cn": "//(0,30)\\\\阿莱莎·卡莱尔的弟弟扎切里的尸体。",
+			"tc": "//(0,30)\\\\艾力克薩的弟弟，札卡里‧卡萊爾的屍體。",
+			"jp": "//(0,30)\\\\アレクサの弟ザカリー・カーライルの遺体よ。"
+		}
+	}
+}

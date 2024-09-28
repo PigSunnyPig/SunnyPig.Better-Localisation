@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_skunk/27000_handler/ds27020_intelopp_briefing.sweetdialog?/ds27020_intelopp_briefing_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds27020_intelopp_briefing_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_skunk/27000_handler/ds27020_intelopp_briefing_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_skunk/27000_handler/ds27020_intelopp_briefing_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,4)\\\\Hm, a lawsuit between Janus and another resident?//(4,8.59831)\\\\Might be a good place to start your investigation into Janus' life, 47.//(8.59831,12.29831)\\\\I suggest you look closer at this James Batty fellow.",
+			"fr": "//[DIANA]\\\\//(0,3.91908)\\\\Hmm, un procès entre Janus et un autre habitant du quartier ?//(3.91908,8.5)\\\\Vous pourriez commencer par là pour enquêter sur la vie de Janus, 47.//(8.5,11.38131)\\\\Renseignez-vous donc sur ce fameux James Batty.",
+			"it": "//[DIANA]\\\\//(0,3.8)\\\\Mmh, una causa civile tra Janus e un altro residente?//(3.8,5.780314)\\\\Potrebbe essere un buon punto di partenza per la//(5.780314,8.5)\\\\nostra indagine sulla vita di Janus, 47.//(8.5,10.16336)\\\\Ti consiglio anche di analizzare James Batty//(10.16336,11.38131)\\\\più da vicino.",
+			"de": "//[DIANA]\\\\//(0,2.4)\\\\Hm, ein Rechtsstreit zwischen Janus//(2.4,4)\\\\und einem anderen Anwohner?//(4,5.409)\\\\Könnte ein guter Anfang sein,//(5.409,8.5)\\\\um Janus’ Leben zu durchleuchten, 47.//(8.5,9.05)\\\\Ich würde vorschlagen,//(9.05,11.38131)\\\\Sie schauen sich mal diesen James Batty an.",
+			"es": "//[DIANA]\\\\//(0,3.9)\\\\Mmm, una demanda judicial entre Janus y un vecino.//(3.9,5.5)\\\\Quizá sea un buen punto de partida para//(5.5,8.2)\\\\nuestra investigación de la vida de Janus, 47.//(8.2,11.62875)\\\\Te sugiero que le eches un vistazo al tal James Batty.",
+			"ru": "//[DIANA]\\\\//(0,3.523299)\\\\Хм, с Янусом судится кто-то из местных?//(3.523299,4.872682)\\\\Это хорошее начало,//(4.872682,7.439187)\\\\чтобы узнать больше о жизни Януса,//(7.439187,11.38131)\\\\47-й. Советую присмотреться к этому Джеймсу Бетти.",
+			"cn": "//[DIANA]\\\\//(0,8.483)\\\\嗯，杰纳斯在和一名当地居民打官司？47，或许你能以此为切入点调查杰纳斯的生活。//(8.483,11.381)\\\\我建议你密切留意这个叫詹姆斯·巴蒂的人。",
+			"tc": "//[DIANA]\\\\//(0,3.968)\\\\嗯，傑納斯在和一名當地居民打官司？//(3.968,8.436)\\\\47，或許你能以此為切入點調查傑納斯的生活。//(8.436,11.38131)\\\\我建議你密切留意這個叫詹姆斯．巴蒂的人。",
+			"jp": "//[DIANA]\\\\//(0,3.815)\\\\ふむ、ヤヌスと他の居住者との訴訟、ね。//(3.815,8.26)\\\\ヤヌスの生活を調べるいい機会かもしれないわね、47。//(8.26,11.38131)\\\\このジェームズ・バティという男をよく調べてみましょう。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25030_fanconclusion.sweetdialog?/ds25030_fanconclusion_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25030_fanconclusion_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25030_fanconclusion_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25030_fanconclusion_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.624294)\\\\Good work, 47.//(1.624294,5.566013)\\\\Dawood is hurrying down now to act out the final scene with Haasan.//(5.566013,8.593667)\\\\Let's make sure he doesn't run out of wind.",
+			"fr": "//(0,1.6)\\\\Bon travail, 47.//(1.6,6.157)\\\\Dawood arrive pour tourner la scène de baiser finale avec Haasan.//(6.157,8.593667)\\\\Espérons pour lui qu'elle ne lui mette pas un vent.",
+			"it": "//(0,1.724294)\\\\Ottimo lavoro, 47.//(1.724294,3.978137)\\\\Dawood si sta precipitando sul set per girare//(3.978137,5.972276)\\\\la scena finale con Haasan.//(5.972276,8.593667)\\\\Facciamo sì che ci sia abbastanza vento.",
+			"de": "//(0,1.905)\\\\Gute Arbeit, 47.//(1.905,3.608)\\\\Dawood eilt jetzt davon,//(3.608,5.905)\\\\um die letzte Szene mit Haasan zu drehen.//(5.905,6.805)\\\\Sorgen Sie dafür,//(6.805,9.761026)\\\\dass ihm jetzt nicht der Wind unter den Flügeln ausgeht.",
+			"es": "//(0,1.724294)\\\\Buen trabajo, 47.//(1.724294,6.1)\\\\Dawood se dirige a toda velocidad a rodar la escena final con Haasan.//(6.1,8.593667)\\\\Asegúrate de que no se quede sin aire.",
+			"ru": "//(0,2.901258)\\\\Отлично, 47-й. Давуд уже спешит вниз,//(2.901258,5.928557)\\\\чтобы сняться в финальной сцене с Хаасан.//(5.928557,8.593667)\\\\Добавь-ка ветра в его паруса любви.",
+			"cn": "//(0,5.9)\\\\干得好，47。达伍德已经赶下去，准备和哈桑拍摄最后的那段戏了。//(5.9,35.9)\\\\让我们确保他到时候能谈笑风生吧。",
+			"tc": "//(0,5.9)\\\\幹得好，47。達伍德已經趕下去，準備和哈桑拍攝最後的那段戲了。//(5.9,8.593667)\\\\讓我們確保他到時候還可以談笑風生吧。",
+			"jp": "//(0,1.555)\\\\よくやったわ、47。//(1.555,5.75)\\\\ハーサンとのラストシーンを演じるために、ダウッドが急いで下に向かってるわ。//(5.75,8.593667)\\\\彼にたっぷり追い風を送ってあげましょう。"
+		}
+	}
+}

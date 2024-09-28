@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/tutorial/9000_handler/ds9251_disguisecelebration.sweetdialog?/ds9251_disguisecelebration_young_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds9251_disguisecelebration_young_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/tutorial/9000_handler/ds9251_disguisecelebration_young_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/tutorial/9000_handler/ds9251_disguisecelebration_young_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\And they say cash is obsolete. So. This uniform should provide access to the hangar. Good job, Initiate.",
+			"fr": "//(0,2.21)\\\\Et c'est pour ça qu'on a toujours besoin de liquide.//(2.5,2.9)\\\\Bon.//(3.4,5.4)\\\\Avec cet uniforme, vous devriez pouvoir accéder au hangar.//(5.882883,35.88288)\\\\Beau travail, initié.",
+			"it": "//(0,2.384)\\\\Poi dicono che i contanti sono superati...//(2.384,32.384)\\\\D'accordo, quest'uniforme ti permetterà di entrare nell'hangar. Ottimo lavoro, recluta.",
+			"de": "//(0,2.490491)\\\\Von wegen „Bargeld ist überflüssig“.//(2.490491,32.49049)\\\\Okay. Mit der Uniform müssten Sie in den Hangar kommen. Gut gemacht, Rekrut.",
+			"es": "//(0,2.813)\\\\Y dicen que el dinero en metálico está obsoleto...//(2.813,6.358)\\\\Con este uniforme deberías poder acceder al hangar.//(6.358,36.358)\\\\Bien hecho, iniciado.",
+			"ru": "//(0,2.655)\\\\А еще говорят, не в деньгах счастье.//(2.655,6.271)\\\\Итак. В этой форме ты сможешь проникнуть в ангар.//(6.271,36.271)\\\\Отличная работа, новичок.",
+			"cn": "//(0,2.918098)\\\\别人还说现金已经过时了呢。好了。//(2.918098,6.118098)\\\\穿上这件制服你应该就能进入机库了。//(6.118098,36.1181)\\\\干得好，新人。",
+			"tc": "//(0,30)\\\\別人還說現金已經過時了呢。看來，穿上這件制服你應該就能進入機庫了。幹得好，新人。",
+			"jp": "//(0,30)\\\\さすが手際がいいわね。さて、この服装なら格納庫に入れるはず。よくやったわ。"
+		}
+	}
+}

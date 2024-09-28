@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/miami/21000_elusive/21000_sambuca/21000_sambuca_handler/ds21603_readyinreception.sweetdialog?/ds21603_readyinreception_diana_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds21603_readyinreception_diana_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/miami/21000_elusive/21000_sambuca/21000_sambuca_handler/ds21603_readyinreception_diana_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/miami/21000_elusive/21000_sambuca/21000_sambuca_handler/ds21603_readyinreception_diana_002.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Be mindful, though. He will not wait around for long.",
+			"fr": "//(0,3.066292)\\\\Hâtez-vous cependant, car il n'attendra pas éternellement.",
+			"it": "//(0,30)\\\\Sappi, tuttavia, che non ti aspetterà per molto.",
+			"de": "//(0,30)\\\\Aber geben Sie Acht: Er wird nicht ewig abwarten.",
+			"es": "//(0,30)\\\\Eso sí, recuerda que no te esperará mucho tiempo.",
+			"ru": "//(0,30)\\\\Но учти, что долго ждать он не будет.",
+			"cn": "//(0,30)\\\\不过要注意。他不会等你太久。",
+			"tc": "//(0,30)\\\\不過記得了，他不會等你太久。",
+			"jp": "//(0,30)\\\\長くは待ってくれないから気を付けて。"
+		}
+	}
+}

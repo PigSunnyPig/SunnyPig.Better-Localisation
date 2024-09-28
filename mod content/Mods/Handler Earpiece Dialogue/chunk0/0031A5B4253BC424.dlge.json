@@ -1,0 +1,87 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/evergreen/handler/ed087_cbrtleader.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ed087_cbrtleader_diana_001",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed087_cbrtleader_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed087_cbrtleader_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Excellent, 47. We have now tracked down the Syndicate Leader's location.",
+					"fr": "//(0,30)\\\\Excellent, 47. Nous avons réussi à localiser la Tête du syndicat.",
+					"it": "//(0,30)\\\\Eccellente 47. Abbiamo appena scoperto la posizione del leader di un'organizzazione.",
+					"de": "//(0,1.5)\\\\Hervorragend, 47.//(1.5,31.5)\\\\Wir haben jetzt den Standort des Syndikatsanführers aufgespürt.",
+					"es": "//(0,1.606196)\\\\Excelente, 47.//(1.606196,2.978589)\\\\Hemos determinado la ubicación//(2.978589,32.97859)\\\\de la persona al frente del sindicato.",
+					"ru": "//(0,30)\\\\Отлично, 47-й. Мы отследили текущее местонахождение босса синдиката.",
+					"cn": "//(0,30)\\\\太棒了，47。我们现在确定了辛迪加头目的位置。",
+					"tc": "//(0,30)\\\\太好了，47。我們現在找到了組織首領的位置。",
+					"jp": "//(0,30)\\\\素晴らしいわ、47。シンジケートのリーダーの居場所を突き止めた。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed087_cbrtleader_diana_002",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed087_cbrtleader_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed087_cbrtleader_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Well done, 47. We now know the current whereabouts of the Syndicate Leader.",
+					"fr": "//(0,1.265)\\\\Bien joué, 47.//(1.265,31.265)\\\\Nous connaissons désormais l'emplacement actuel de la Tête du syndicat.",
+					"it": "//(0,30)\\\\Ben fatto, 47. Ora sappiamo dove si trova attualmente il leader di un'organizzazione.",
+					"de": "//(0,1.25)\\\\Gut gemacht, 47.//(1.55,31.55)\\\\Wir wissen jetzt, wo sich der Syndikatsanführer aufhält.",
+					"es": "//(0,1.724294)\\\\Buen trabajo, 47.//(1.724294,3.400982)\\\\Ahora sabemos cuál es el paradero actual//(3.400982,33.40098)\\\\de la persona al frente del sindicato.",
+					"ru": "//(0,30)\\\\Прекрасно, 47-й. Теперь мы знаем, где в данный момент находится босс синдиката.",
+					"cn": "//(0,30)\\\\干得好，47。我们现在知道辛迪加头目的下落了。",
+					"tc": "//(0,30)\\\\做得好，47。我們知道組織首領目前的位置了。",
+					"jp": "//(0,30)\\\\お見事ね、47。シンジケートのリーダーの現在の居場所がわかったわ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed087_cbrtleader_diana_003",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed087_cbrtleader_diana_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed087_cbrtleader_diana_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\You've done well, 47. We now have information on the Syndicate Leader's current whereabouts.",
+					"fr": "//(0,1.465)\\\\Vous avez bien travaillé, 47.//(1.465,31.465)\\\\Nous avons désormais des renseignements sur l'emplacement actuel de la Tête du syndicat.",
+					"it": "//(0,1.7)\\\\Hai fatto un buon lavoro, 47.//(1.7,31.7)\\\\Ora abbiamo informazioni su dove si trova attualmente il leader di un'organizzazione.",
+					"de": "//(0,1.6)\\\\Sie haben sich gut geschlagen, 47.//(1.6,31.6)\\\\Wir haben jetzt Informationen über den Aufenthaltsort des Syndikatsanführers.",
+					"es": "//(0,1.710491)\\\\Lo has hecho bien, 47.//(1.710491,3.987178)\\\\Ahora tenemos información sobre el paradero actual//(3.987178,33.98718)\\\\de la persona al frente del sindicato.",
+					"ru": "//(0,30)\\\\Ты славно поработал, 47-й. Нам удалось выяснить, где сейчас находится босс синдиката.",
+					"cn": "//(0,30)\\\\干得漂亮，47。我们现在掌握到辛迪加头目的位置了。",
+					"tc": "//(0,30)\\\\你做得很好，47。我們取得了組織首領目前位置的資訊。",
+					"jp": "//(0,30)\\\\よくやったわね、47。シンジケートのリーダーの居場所に関する情報が掴めた。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed087_cbrtleader_diana_004",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed087_cbrtleader_diana_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed087_cbrtleader_diana_004.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Good job, 47. We now know the Syndicate Leader's current location.",
+					"fr": "//(0,1.22)\\\\Beau travail, 47.//(1.22,31.22)\\\\Nous connaissons à présent l'emplacement actuel de la Tête du syndicat.",
+					"it": "//(0,1.724294)\\\\Ottimo lavoro, 47.//(1.724294,31.72429)\\\\Ora conosciamo la posizione attuale del leader di un'organizzazione.",
+					"de": "//(0,1.35)\\\\Gute Arbeit, 47.//(1.35,31.35)\\\\Wir wissen jetzt, wo sich der Syndikatsanführer aktuell aufhält.",
+					"es": "//(0,1.624294)\\\\Buen trabajo, 47.//(1.624294,3.150982)\\\\Ahora sabemos cuál es el paradero actual//(3.150982,33.15098)\\\\de la persona al frente del sindicato.",
+					"ru": "//(0,30)\\\\Молодец, 47-й. Теперь мы знаем, где сейчас босс синдиката.",
+					"cn": "//(0,30)\\\\干得漂亮，47。我们知道辛迪加头目当前的位置了。",
+					"tc": "//(0,30)\\\\做得好，47。我們找出了組織首領目前的所在位置。",
+					"jp": "//(0,30)\\\\やったわね、47。シンジケートのリーダーの居場所が判明したわ。"
+				}
+			}
+		]
+	}
+}

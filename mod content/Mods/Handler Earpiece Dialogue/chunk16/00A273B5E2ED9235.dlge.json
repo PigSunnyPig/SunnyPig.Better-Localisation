@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_skunk/27000_handler/ds27002_janusdown.sweetdialog?/ds27002_janusdown_grey_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds27002_janusdown_grey_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_skunk/27000_handler/ds27002_janusdown_grey_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_skunk/27000_handler/ds27002_janusdown_grey_001.animset].pc_animset",
+		"languages": {
+			"en": "//[GREY]\\\\//(0,4.645096)\\\\Finally. An end to Janus.//(4.645096,10.48037)\\\\Death feels like an easy way out for a man like him. Still...//(10.48037,12.99595)\\\\We are close now, 47.",
+			"fr": "//[GREY]\\\\//(0,3.8)\\\\C'en est fini de Janus, ça y est...//(3.8,8.75)\\\\La mort est presque une issue trop facile pour un tel homme.//(10.7,12.8)\\\\Nous y sommes presque, 47.",
+			"it": "//[GREY]\\\\//(0,4.5)\\\\La fine di Janus, era ora.//(4.5,8)\\\\La morte sembra una soluzione facile per un uomo come lui.//(8,12.8)\\\\Comunque... ci siamo quasi, 47.",
+			"de": "//[GREY]\\\\//(0,4.9)\\\\Endlich ist es mit Janus aus.//(4.9,6.2)\\\\Der Tod wirkt noch wie ein zu schönes Ende//(6.2,8.4)\\\\für jemanden wie ihn.//(8.4,13.35153)\\\\Trotzdem ... Wir sind fast am Ziel, 47.",
+			"es": "//[GREY]\\\\//(0,3.94633)\\\\Por fin, se acerca el final de Janus.//(3.94633,8.6)\\\\La muerte parece una salida muy fácil para un tipo como él.//(8.6,12.8)\\\\En todo caso, estamos cerca, 47.",
+			"ru": "//[GREY]\\\\//(0,4.813)\\\\Наконец-то Янус убит.//(4.813,7.860429)\\\\Для таких, как он, смерть кажется милосердием.//(7.860429,12.8)\\\\Но... Мы уже близко, 47-й.",
+			"cn": "//[GREY]\\\\//(0,30)\\\\杰纳斯终于死了。让他这样的人一死了之感觉便宜他了。话说回来......我们很快就能成功了，47。",
+			"tc": "//[GREY]\\\\//(0,30)\\\\傑納斯終於死了。讓他這樣的人一死了之感覺便宜他了。話說回來......我們很快就會成功了，47。",
+			"jp": "//[GREY]\\\\//(0,4.8)\\\\ついにヤヌスの最期だ。//(4.8,8.37)\\\\奴のような男にとって死など生易しいくらいだ。//(8.37,12.8)\\\\とにかく... あとちょっとだ、47。"
+		}
+	}
+}

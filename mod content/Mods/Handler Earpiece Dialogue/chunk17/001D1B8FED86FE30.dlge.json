@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25045_tailorhint2.sweetdialog?/ds25045_tailorhint2_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25045_tailorhint2_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25045_tailorhint2_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25045_tailorhint2_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.828589)\\\\Shah wants a cerulean dress, 47.//(2.828589,4.991472)\\\\Perhaps you will be able to source a roll//(4.991472,7.509571)\\\\of the right fabric at the local cloth market?",
+			"fr": "//(0,3.04)\\\\Shah cherche une robe de couleur bleu céruléen, 47.//(3.04,7.140208)\\\\Vous devriez pouvoir trouver un rouleau de tissu adéquat au marché.",
+			"it": "//(0,2.828589)\\\\Shah vuole un vestito ceruleo, 47.//(2.828589,5.080575)\\\\Credo che tu possa trovare il tessuto adatto//(5.080575,7.140208)\\\\al mercato locale delle stoffe.",
+			"de": "//(0,2.728589)\\\\Shah will ein himmelblaues Kleid, 47.//(2.728589,5.491472)\\\\Vielleicht finden Sie ja einen Ballen des passenden Stoffs//(5.491472,7.141472)\\\\auf dem einheimischen Tuchmarkt?",
+			"es": "//(0,2.828589)\\\\Shah quiere un vestido cerúleo, 47.//(2.828589,5.080575)\\\\Puede que encuentres el rollo de tela adecuado//(5.080575,7.140208)\\\\en el mercado de tejidos local.",
+			"ru": "//(0,2.946687)\\\\Шах хочет себе платье лазурного цвета, 47-й.//(2.946687,4.78908)\\\\Возможно, рулон такой ткани//(4.78908,7.140209)\\\\найдется на местной барахолке?",
+			"cn": "//(0,30)\\\\沙想要一条天蓝色的裙子，47。或许当地的布料市场会有刚好适合的布料吧。",
+			"tc": "//(0,30)\\\\沙想要一條天藍色的裙子，47。或許當地的布料市場有剛好適合的布料吧。",
+			"jp": "//(0,2.7)\\\\シャーは紺碧のドレスを欲しがってるわ、47。//(2.7,32.7)\\\\地元の織物市場ならピッタリの生地を探せるかもね。"
+		}
+	}
+}

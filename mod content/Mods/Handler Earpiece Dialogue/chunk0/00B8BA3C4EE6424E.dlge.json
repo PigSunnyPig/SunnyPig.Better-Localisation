@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/golden/40000_elusive/gibson/40500_handler/ds40501_targeteliminated.sweetdialog?/ds40501_targeteliminated_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds40501_targeteliminated_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/40000_elusive/gibson/40500_handler/ds40501_targeteliminated_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/40000_elusive/gibson/40500_handler/ds40501_targeteliminated_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Target eliminated. I hope now our late client can rest in peace.",
+			"fr": "//(0,30)\\\\Cible éliminée. J'espère que notre client saura trouver le repos, maintenant.",
+			"it": "//(0,30)\\\\Bersaglio eliminato. Spero che adesso il nostro defunto cliente possa riposare in pace.",
+			"de": "//(0,30)\\\\Ziel neutralisiert. Ich hoffe, unser verstorbener Klient kann nun in Frieden ruhen.",
+			"es": "//(0,30)\\\\Objetivo eliminado. Espero que nuestro difunto cliente pueda descansar en paz.",
+			"ru": "//(0,30)\\\\Цель устранена. Надеюсь, наш почивший клиент теперь обретет покой.",
+			"cn": "//(0,30)\\\\目标已消灭。愿我们已故的客户在天有灵终能安息。",
+			"tc": "//(0,30)\\\\目標已消滅，希望我們已故的客戶能夠安息了。",
+			"jp": "//(0,30)\\\\ターゲットを排除したわ。お亡くなりになったクライアントが安らかに眠れるといいわね。"
+		}
+	}
+}

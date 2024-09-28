@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_skunk/27000_handler/ds27031_intel_lawsuit.sweetdialog?/ds27031_intel_lawsuit_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds27031_intel_lawsuit_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_skunk/27000_handler/ds27031_intel_lawsuit_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_skunk/27000_handler/ds27031_intel_lawsuit_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,5.1)\\\\Janus is apparently engaged in a civil lawsuit with another resident of Whittleton Creek.//(5.1,11.75)\\\\James Batty, the plaintiff, wants Janus to stop his annual landing of a helicopter near the local creek.//(11.75,17.46086)\\\\Batty claims it interrupts the nesting birds and a species of frog that has been declared endangered.//(17.46086,21.51086)\\\\Must be an important trip, given his poor health.",
+			"fr": "//[DIANA]\\\\//(0,2.576687)\\\\Janus est apparemment engagé dans un procès//(2.576687,5.1)\\\\avec un autre habitant de la Crique de Whittleton.//(5.1,8.1)\\\\James Batty, le plaignant, demande à Janus//(8.1,11.7)\\\\d'annuler son atterrissage annuel d'hélicoptère près de la rivière.//(11.7,14)\\\\Batty prétend que cela perturbe les oiseaux//(14,17.6)\\\\et qu'une espèce de grenouille a déjà été déclarée menacée d'extinction.//(17.6,21.513)\\\\Vu son état de santé, le voyage doit être très important.",
+			"it": "//[DIANA]\\\\//(0,0.9532585)\\\\A quanto pare,//(0.9532585,3.532731)\\\\Janus è coinvolto in una causa civile contro un//(3.532731,5.355081)\\\\altro residente di Whittleton Creek.//(5.355081,6.688382)\\\\James Batty, il querelante,//(6.688382,9.267855)\\\\chiede che Janus non faccia più atterrare il suo//(9.267855,11.7)\\\\elicottero ogni anno nei pressi del torrente locale.//(11.7,13.66968)\\\\Batty sostiene che disturba gli uccelli//(13.66968,15.96254)\\\\che nidificano e alcune rane di una specie//(15.96254,17.21168)\\\\considerata a rischio.//(17.21168,18.45154)\\\\Dev'essere un viaggio importante,//(18.45154,20.5605)\\\\considerate le sue condizioni di salute.",
+			"de": "//[DIANA]\\\\//(0,2.8)\\\\Janus hat anscheinend einen Zivilrechtsstreit//(2.8,5.2)\\\\mit einem anderen Bewohner von Whittleton Creek.//(5.2,7.285)\\\\James Batty, der Antragsteller,//(7.285,9.3)\\\\will, dass Janus nicht mehr einmal im Jahr//(9.3,11.718)\\\\mit dem Hubschrauber am örtlichen Bach landet.//(11.718,14.05)\\\\Laut Batty werden die nistenden Vögel aufgescheucht,//(14.05,16.1)\\\\und eine der Froscharten ist wohl auch//(16.1,17.5)\\\\vom Aussterben bedroht.//(17.5,19.3)\\\\Das muss aber ein sehr wichtiger Flug sein,//(19.3,21.12381)\\\\wenn man seine angeschlagene Gesundheit bedenkt.",
+			"es": "//[DIANA]\\\\//(0,5.2)\\\\Al parecer, Janus tiene un pleito legal con otro residente de Whittleton Creek.//(5.2,8)\\\\James Batty, el demandante, quiere que Janus//(8,11.6)\\\\deje de aterrizar todos los años un helicóptero cerca del arroyo cercano.//(11.6,14)\\\\Batty sostiene que afecta a las aves que anidan allí//(14,17.33)\\\\y a una especie de rana declarada en peligro de extinción.//(17.33,22.3692)\\\\Debe de ser un viaje importante dada su maltrecha salud.",
+			"ru": "//[DIANA]\\\\//(0,3.847)\\\\Похоже, Янус судится с одним из жителей//(3.847,8.2)\\\\Уиттлтон-Крик. Истец Джеймс Бетти требует, чтобы//(8.2,10.399)\\\\Янус прекратил каждый год сажать вертолет возле//(10.399,13.263)\\\\местного ручья. Бетти заявляет, что это отпугивает//(13.263,15.313)\\\\гнездящихся там птиц и один из видов лягушек,//(15.313,17.363)\\\\недавно внесенный в Красную книгу.//(17.363,19.159)\\\\Должно быть, это важная поездка, раз//(19.159,20.5605)\\\\Янус летает даже при слабом здоровье.",
+			"cn": "//[DIANA]\\\\//(0,5.134)\\\\杰纳斯正与维多顿小溪的一位居民因民事案件而打官司。//(5.134,11.582)\\\\原告詹姆斯·巴蒂要求杰纳斯停止每年一次把直升机降落在当地小溪的行为。//(11.582,17.088)\\\\巴蒂声称直升机惊扰到了在附近筑巢的鸟类以及一种濒危的蛙类。//(17.088,20.561)\\\\他身体这么差，一定是非常重要的事才不得不坐直升机。",
+			"tc": "//[DIANA]\\\\//(0,5.068)\\\\顯然，傑納斯正與維多頓小溪的居民就民事案件而打官司。//(5.068,11.436)\\\\原告詹姆斯．巴蒂要求傑納斯停止每年一次把直升機降落在當地小溪的行為。//(11.436,17.404)\\\\巴蒂聲稱直升機驚擾附近築巢的鳥類以及一種瀕危的蛙類。//(17.404,20.5605)\\\\他身體這麼差，一定是非常重要的事才不得不坐直升機。",
+			"jp": "//[DIANA]\\\\//(0,2.09)\\\\どうやらヤヌスはホイットルトン・クリークの住民と//(2.09,5)\\\\民事訴訟で争っているらしいわね。//(5,7.115)\\\\原告のジェームズ・バティは、//(7.115,10.22)\\\\毎年ヤヌスが地元の小川の近くにヘリコプターを着陸させるのを//(10.22,11.7)\\\\止めさせようとしているわ。//(11.7,13.96)\\\\バティは、ヘリコプターの騒音が絶滅危惧種に指定されてる鳥や//(13.96,17.3681)\\\\カエルの巣作りを妨害していると主張している。//(17.3681,20.5605)\\\\彼の健康状態が良くないことを考えると、よほど重要な用事なのでしょうね。"
+		}
+	}
+}

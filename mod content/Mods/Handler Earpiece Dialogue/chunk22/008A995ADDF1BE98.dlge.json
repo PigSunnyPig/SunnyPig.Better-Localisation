@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12781_targetsdown_infectedremain.sweetdialog?/ds12781_targetsdown_infectedremain_diana_ws_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds12781_targetsdown_infectedremain_diana_ws_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12781_targetsdown_infectedremain_diana_ws_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12781_targetsdown_infectedremain_diana_ws_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Both of your Primary Targets are eliminated, 47. The virus is still active, however. Eliminate anyone else who is infected. We have to stop it here!",
+			"fr": "//(0,2.346593)\\\\Vos deux cibles principales ont été éliminées,//(2.346593,5.128275)\\\\47, mais le virus est toujours actif.//(5.128275,7.154557)\\\\Éliminez tous les porteurs du virus,//(7.154557,9.396729)\\\\il ne doit pas sortir d'ici !",
+			"it": "//(0,30)\\\\Hai neutralizzato i due bersagli primari, 47, ma il virus è ancora in circolazione. Elimina tutti gli infetti. Dobbiamo arrestare il contagio!",
+			"de": "//(0,30)\\\\Beide Primärziele sind neutralisiert, 47. Aber das Virus ist noch immer aktiv. Eliminieren Sie alle Infizierten. Wir müssen es hier aufhalten!",
+			"es": "//(0,30)\\\\Has eliminado a tus dos objetivos principales, 47. Pero el virus sigue activo. Elimina a cualquier otro infectado, ¡hay que detenerlo aquí!",
+			"ru": "//(0,30)\\\\Обе главные цели устранены, 47-й. Однако активность вируса сохраняется. Устрани всех зараженных. Мы должны остановить его немедленно!",
+			"cn": "//(0,10)\\\\两名主要目标均已被消灭，47。然而病毒仍在传播。消灭其他被感染的人。//(10,14.98773)\\\\我们决不能让病毒从这里蔓延出去！",
+			"tc": "//(0,10)\\\\兩名主要目標均已被消滅，47。然而病毒仍在傳播。消滅其他被感染的人。//(10,40)\\\\我們決不能讓病毒從這裡蔓延出去！",
+			"jp": "//(0,30)\\\\ターゲットの 2人は 始末したわ、 47。 でもウイルスは いまだ健在よ。 感染者は 誰であろうと 排除して。 ここで 食い止めないと！"
+		}
+	}
+}

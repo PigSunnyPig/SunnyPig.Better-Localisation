@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colombia/23000_elusive/23000_highball/23000_highball_handler/ds23801_missiondone.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds23801_missiondone_diana_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colombia/23000_elusive/23000_highball/23000_highball_handler/ds23801_missiondone_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colombia/23000_elusive/23000_highball/23000_highball_handler/ds23801_missiondone_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,1.716468)\\\\Target eliminated.//(1.716468,4.463155)\\\\The money is being transferred now, 47.//(4.463155,5.843396)\\\\Now to find an exit.",
+					"fr": "//(0,1.712)\\\\Cible éliminée.//(1.712,4.158604)\\\\L'argent est en cours de transfert, 47.//(4.158604,5.843396)\\\\Il est temps de trouver une sortie.",
+					"it": "//(0,1.82)\\\\Bersaglio eliminato.//(1.82,4.505)\\\\Il denaro è in fase di trasferimento, 47.//(4.505,5.843396)\\\\Ora trova l'uscita.",
+					"de": "//(0,1.066468)\\\\Ziel eliminiert.//(1.066468,3.7)\\\\Das Geld wird Ihnen jetzt überwiesen, 47.//(3.7,5.843396)\\\\Finden Sie nun einen Ausgang.",
+					"es": "//(0,1.196517)\\\\Objetivo eliminado.//(1.196517,3.450362)\\\\El dinero ya se está transfiriendo,//(3.450362,5.843396)\\\\47. Encuentra una salida.",
+					"ru": "//(0,1.196517)\\\\Цель устранена.//(1.196517,3.450362)\\\\Деньги уже переведены на твой счет,//(3.450362,5.843396)\\\\47-й. Пора искать выход.",
+					"cn": "//(0,30)\\\\目标已消灭。我们正在把钱转给你，47。该找出口了。",
+					"tc": "//(0,30)\\\\目標已消滅。資金已經在轉帳了，47。現在去找個出口吧。",
+					"jp": "//(0,4.568)\\\\ターゲット排除完了。送金中よ、47。//(4.568,34.568)\\\\さあ脱出ポイントを探すのよ。"
+				}
+			}
+		]
+	}
+}

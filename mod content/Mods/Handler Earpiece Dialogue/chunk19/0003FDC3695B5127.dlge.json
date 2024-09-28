@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/miami/21000_flamingo/21000_handler/21000_flyin.sweetdialog?/21000_flyin_diana_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "21000_flyin_diana_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/miami/21000_flamingo/21000_handler/21000_flyin_diana_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/miami/21000_flamingo/21000_handler/21000_flyin_diana_002.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,4.741021)\\\\The Innovation Race is on its last day and it is down to the wire.",
+			"fr": "//[DIANA]\\\\//(0,30)\\\\La course d'innovation en est à son dernier jour et ça se joue sur la corde.",
+			"it": "//[DIANA]\\\\//(0,5.180982)\\\\È l'ultimo giorno della Innovation Race e siamo agli sgoccioli.",
+			"de": "//[DIANA]\\\\//(0,30)\\\\Der letzte Tag des Innovationsrennens ist angebrochen, und es geht um alles.",
+			"es": "//[DIANA]\\\\//(0,30)\\\\Es el último día de la competición de innovación y el resultado pende de un hilo.",
+			"ru": "//[DIANA]\\\\//(0,30)\\\\Сегодня «Гонка инноваций» завершается, и страсти накалены до предела.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\创新车赛已经进入最后一天，正处在争夺冠军的紧要关头。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\創新車賽已經進入最後一天賽程，正處在爭奪冠軍的緊要關頭。",
+			"jp": "//[DIANA]\\\\//(0,4.236)\\\\イノベーションレースは今日が最終日、 大詰めよ。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_skunk/27000_handler/ds27037_intel_microfilm.sweetdialog?/ds27037_intel_microfilm_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds27037_intel_microfilm_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_skunk/27000_handler/ds27037_intel_microfilm_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_skunk/27000_handler/ds27037_intel_microfilm_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,2.805131)\\\\Clearly Janus is a meticulous man.//(2.805131,6.118014)\\\\This microfilm contains a lot of heavily redacted minutes//(6.118014,9.41709)\\\\from what appears to be a yearly event of some sort.//(9.41709,13.53076)\\\\Plenty of initials and project code names that don't ring any bells.//(13.53076,16.53302)\\\\Janus is mentioned by name throughout, however.//(16.53302,18.88302)\\\\This is a very important find, 47.",
+			"fr": "//[DIANA]\\\\//(0,2.912154)\\\\Janus est très clairement un homme méticuleux.//(2.912154,8.933626)\\\\Ce microfilm contient de nombreuses minutes censurées de ce qui semble être un événement annuel...//(8.933626,13.51129)\\\\Il y a beaucoup d'initiales et de noms de code de projets qui ne me disent rien,//(13.51129,16.82179)\\\\Janus y est mentionné, cependant.//(16.82179,19.49608)\\\\Belle découverte, 47.",
+			"it": "//[DIANA]\\\\//(0,2.9)\\\\È chiaro che Janus sia un uomo meticoloso.//(2.9,6)\\\\Questo microfilm contiene moltissimi minuti censurati//(6,9.6)\\\\di quello che sembra una specie di evento annuale.//(9.6,12)\\\\Ci sono tantissime iniziali e nomi in codice//(12,13.816)\\\\del progetto che non mi dicono niente,//(13.816,16.595)\\\\però, Janus viene chiamato per nome//(16.595,18.73406)\\\\e questo è molto importante, 47.",
+			"de": "//[DIANA]\\\\//(0,2.9)\\\\Janus ist eindeutig jemand sehr Sorgfältiges.//(2.9,6.3)\\\\Dieser Mikrofilm enthält stark geschwärzte Zusammenfassungen//(6.3,9.6)\\\\eines wohl jährlich stattfindenden Events.//(9.6,11.9)\\\\Es gibt reichlich Kürzel und Codenamen für//(11.9,13.7)\\\\Projekte, die mir aber alle nichts sagen.//(13.7,16.7)\\\\Janus wird allerdings namentlich erwähnt.//(16.7,18.73406)\\\\Das ist ein sehr wichtiger Fund, 47.",
+			"es": "//[DIANA]\\\\//(0,2.74787)\\\\Está claro que Janus es un hombre meticuloso.//(2.74787,4.956459)\\\\Este microfilme contiene un memorándum con//(4.956459,9.058719)\\\\montones de tachones sobre lo que parece ser un evento anual.//(9.058719,13.9759)\\\\Muchas iniciales y nombres en clave de proyectos que no me suenan.//(13.9759,16.5)\\\\Sin embargo, a Janus se le menciona por su nombre todo el rato.//(16.5,20.38117)\\\\Este hallazgo es muy importante, 47.",
+			"ru": "//[DIANA]\\\\//(0,2.805)\\\\Янус очень скрупулезный.//(2.805,6.118)\\\\Эта микропленка содержит сильно отредактированную//(6.118,9.475)\\\\запись какого-то ежегодного мероприятия.//(9.475,11.5)\\\\Очень много аббревиатур и кодовых названий,//(11.5,13.5)\\\\которые мне ни о чем не говорят.//(13.5,15.72192)\\\\Зато Януса часто упоминают по имени.//(15.72192,17.57215)\\\\Это очень важная находка,//(17.57215,18.73406)\\\\47-й.",
+			"cn": "//[DIANA]\\\\//(0,9.579)\\\\杰纳斯显然是个细致的人。这份微缩胶卷里包含大量某种年度活动上的内容，//(9.579,13.55)\\\\且经过了精心编纂。大量首字母缩写和项目代号令人毫无头绪。//(13.55,18.734)\\\\不过杰纳斯这个名字倒是自始至终都有提及，毫不避讳。47，这项发现相当重要。",
+			"tc": "//[DIANA]\\\\//(0,2.868)\\\\傑納斯顯然是個細心的人。//(2.868,9.336)\\\\這份微縮膠捲裡包含大量某一年度活動上的內容，且經過精心編纂。//(9.336,13.404)\\\\大量首字母縮寫和專案代號讓人毫無頭緒。//(13.404,18.73406)\\\\不過倒是自始至終都提到傑納斯這個名字，毫不避諱。47，這項發現相當重要。",
+			"jp": "//[DIANA]\\\\//(0,2.68)\\\\ヤヌスが几帳面な人間なのは明らかね。//(2.68,5.65)\\\\このマイクロフィルムには、徹底的に編集された//(5.65,9.405)\\\\何らかの年中行事に関する議事録が大量に残されている。//(9.405,13.55)\\\\聞いたことのないイニシャルとプロジェクトコードネームがたくさんあるわ。//(13.55,16.595)\\\\でもヤヌスの名前はそこかしこに記載されている。//(16.595,18.73406)\\\\これは非常に重要な発見よ、47。"
+		}
+	}
+}

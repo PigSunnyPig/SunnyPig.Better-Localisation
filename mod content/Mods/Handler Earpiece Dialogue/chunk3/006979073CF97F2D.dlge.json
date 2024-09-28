@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/bulldog/41000_handler/ds41106_handlerframebutler.sweetdialog?/ds41106_handlerframebutler_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41106_handlerframebutler_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/bulldog/41000_handler/ds41106_handlerframebutler_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/bulldog/41000_handler/ds41106_handlerframebutler_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Unless, of course, you want to do some more detecting, 47.",
+			"fr": "//(0,30)\\\\À moins que vous ne souhaitiez poursuivre votre travail de limier, 47.",
+			"it": "//(0,30)\\\\A meno che tu non voglia investigare ancora un po', 47.",
+			"de": "//(0,30)\\\\Sofern Sie nicht noch etwas länger ermitteln wollen, 47.",
+			"es": "//(0,30)\\\\A menos, claro está, que quieras seguir investigando un poco, 47.",
+			"ru": "//(0,30)\\\\Если, конечно, не хочешь найти еще пару улик.",
+			"cn": "//(0,30)\\\\除非你还想要继续调查，47。",
+			"tc": "//(0,30)\\\\除非，你認為你還得繼續調查，47。",
+			"jp": "//(0,30)\\\\もちろん、もうちょっと調べたいなら別だけどね、47。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_fashion/3000_handler/ds3330_opplaptopconclusion.sweetdialog?/ds3330_opplaptopconclusion_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds3330_opplaptopconclusion_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_fashion/3000_handler/ds3330_opplaptopconclusion_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_fashion/3000_handler/ds3330_opplaptopconclusion_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Margolis should be here shortly to fix the problem. Good thinking, 47.",
+			"fr": "//(0,30)\\\\Margolis ne devrait pas tarder à arriver pour régler le problème. Bien joué, 47.",
+			"it": "//(0,30)\\\\La Margolis arriverà a breve per risolvere il problema. Ottimo piano, 47.",
+			"de": "//(0,30)\\\\Margolis wird gleich hier sein, um das Problem zu beheben. Gute Arbeit, 47.",
+			"es": "//(0,30)\\\\Margolis llegará en breve para arreglar el problema. Bien pensado, 47.",
+			"ru": "//(0,3.196687)\\\\Марголис вскоре явится сюда, чтобы исправить проблему.//(3.196687,33.19669)\\\\Отлично задумано, 47-й.",
+			"cn": "//(0,3.045)\\\\玛戈利斯应该很快就会过来处理故障。//(3.045,33.045)\\\\这个主意好，47。",
+			"tc": "//(0,30)\\\\馬戈利斯應該很快就會過來處理故障。這個主意好，47。",
+			"jp": "//(0,30)\\\\もうじき、システムを復旧しに、マーゴリスが来る。さえてるわね、47。"
+		}
+	}
+}

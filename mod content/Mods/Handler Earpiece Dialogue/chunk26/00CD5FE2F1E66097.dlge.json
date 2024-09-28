@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/italy/1000_virus/1000_handler/ds1025_desantisdown.sweetdialog?/ds1025_desantisdown_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds1025_desantisdown_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_virus/1000_handler/ds1025_desantisdown_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_virus/1000_handler/ds1025_desantisdown_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Target down. Next up, Silvio Caruso.",
+			"fr": "//(0,30)\\\\Cible éliminée. Passez à la suivante, Silvio Caruso.",
+			"it": "//(0,30)\\\\Bersaglio eliminato. Passiamo a Silvio Caruso.",
+			"de": "//(0,1.236196)\\\\Ziel neutralisiert.//(1.236196,31.2362)\\\\Nächstes Ziel: Silvio Caruso.",
+			"es": "//(0,1.236196)\\\\Objetivo eliminado.//(1.236196,31.2362)\\\\El siguiente es Silvio Caruso.",
+			"ru": "//(0,30)\\\\Цель уничтожена. Теперь — Сильвио Карузо.",
+			"cn": "//(0,1.5)\\\\目标已被消灭。//(1.5,31.5)\\\\接下来是西尔维奥·卡鲁索。",
+			"tc": "//(0,30)\\\\目標已倒下。接下來是西爾維奧．卡魯索。",
+			"jp": "//(0,30)\\\\ターゲット・ダウン。次はシルヴィオ・カルーソーよ。"
+		}
+	}
+}

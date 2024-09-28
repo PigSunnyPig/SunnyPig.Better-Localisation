@@ -1,0 +1,49 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/12500_white_spider/12500_rabies/12500_handler/ds12548_limping.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds12548_limping_diana_ws_001",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12548_limping_diana_ws_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12548_limping_diana_ws_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\This is specific. The target is injured. He's limping.",
+					"fr": "//(0,30)\\\\Quelque chose de précis : la cible est blessée et boîte.",
+					"it": "//(0,30)\\\\Abbiamo un dettaglio specifico. Il bersaglio è ferito. Zoppica.",
+					"de": "//(0,30)\\\\Das ist eindeutig. Die Zielperson ist verletzt. Sie hinkt.",
+					"es": "//(0,30)\\\\Esto es muy específico. El objetivo está herido, cojeando.",
+					"ru": "//(0,30)\\\\Это легко заметить. У цели ранение. Он хромает.",
+					"cn": "//(0,30)\\\\这个描写很明确。目标受伤了。他一瘸一拐的。",
+					"tc": "//(0,30)\\\\這個描寫很明確。目標受傷了。他一瘸一拐的。",
+					"jp": "//(0,30)\\\\ターゲットは 怪我を して、 足を 引きずって いるらしいわ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds12548_limping_diana_ws_002",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12548_limping_diana_ws_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12548_limping_diana_ws_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\I have an incident report here. He's been in a training accident. He's limping.",
+					"fr": "//(0,30)\\\\J'ai sous les yeux un rapport d'incident. La cible a eu un accident à l'entraînement. Elle boîte.",
+					"it": "//(0,30)\\\\Vedo un rapporto su un incidente. È rimasto ferito in addestramento. Zoppica.",
+					"de": "//(0,30)\\\\Ich habe hier eine Unfallmeldung. Beim Training. Er hinkt.",
+					"es": "//(0,30)\\\\Me llegan informes de un incidente. Se ha herido durante un entrenamiento y cojea.",
+					"ru": "//(0,30)\\\\Я нашла доклад о происшествии. Во время учений произошел несчастный случай. Он хромает.",
+					"cn": "//(0,30)\\\\我有一份事故报告。目标在训练中遭遇了意外。他一瘸一拐的。",
+					"tc": "//(0,30)\\\\我有一份事故報告。目標在訓練中遭遇了意外。他一瘸一拐的。",
+					"jp": "//(0,30)\\\\ターゲットは 事故に 遭ったみたい。 足を 引きずって いるそうよ。"
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_magpie/29000_handler/ds29024_oppinitiation_conclusion.sweetdialog?/ds29024_oppinitiation_conclusion_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds29024_oppinitiation_conclusion_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_magpie/29000_handler/ds29024_oppinitiation_conclusion_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_magpie/29000_handler/ds29024_oppinitiation_conclusion_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.4)\\\\Solid work, 47.//(1.4,5.093312)\\\\Let's see if you can't turn this interrogation to your advantage.",
+			"fr": "//(0,1.8)\\\\Très bon travail, 47.//(1.8,5.093312)\\\\Voyons si nous pouvons faire pencher cet interrogatoire en notre faveur.",
+			"it": "//(0,1.724294)\\\\Ben fatto, 47.//(1.724294,5.093313)\\\\Vediamo di volgere l'interrogatorio a tuo favore.",
+			"de": "//(0,1.724294)\\\\Solide Arbeit, 47.//(1.724294,3.88908)\\\\Wollen wir mal sehen, ob sich dieses Verhör//(3.88908,7.13926)\\\\zu unserem Vorteil nutzen lässt.",
+			"es": "//(0,2.092393)\\\\Un gran trabajo, 47.//(2.092393,5.905276)\\\\A ver si logras sacar partido a este interrogatorio.",
+			"ru": "//(0,1.906196)\\\\Отлично, 47-й.//(1.906196,5.093312)\\\\Попробуй извлечь выгоду из этого допроса.",
+			"cn": "//(0,30)\\\\干得漂亮，47。看看你能否将这场审问的双方角色互换吧。",
+			"tc": "//(0,30)\\\\幹得漂亮，47。看看你可不可以將這場審問的雙方角色互換吧。",
+			"jp": "//(0,30)\\\\有能ね、47。この尋問をうまく利用するのよ。"
+		}
+	}
+}

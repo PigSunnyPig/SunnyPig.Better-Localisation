@@ -1,0 +1,29 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/edgy/fox/42000_elusive/42000_tomorrowland/42700_tomorrowland_handler/ds42701_missiondone.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Sequence",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds42701_missiondone_diana_001",
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/edgy/fox/42000_elusive/42000_tomorrowland/42700_tomorrowland_handler/ds42701_missiondone_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/edgy/fox/42000_elusive/42000_tomorrowland/42700_tomorrowland_handler/ds42701_missiondone_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,1.5)\\\\Well done, 47.//(1.5,31.5)\\\\I'll inform the client while you make your escape.",
+					"fr": "//(0,30)\\\\Beau travail, 47. Trouvez une issue, je m'occupe d'informer le client.",
+					"it": "//(0,30)\\\\Ben fatto, 47. Informerò il cliente mentre fuggi via.",
+					"de": "//(0,30)\\\\Gut gemacht, 47. Ihr werde den Klienten informieren, während Sie entkommen.",
+					"es": "//(0,30)\\\\Buen trabajo, 47. Informaré al cliente mientras sales de ahí.",
+					"ru": "//(0,30)\\\\Отлично, 47-й. Я свяжусь с клиентом, пока ты ретируешься оттуда.",
+					"cn": "//(0,30)\\\\干得好，47。在你撤离期间，我会通知客户。",
+					"tc": "//(0,30)\\\\做得好，47，我會趁你離開時告知客戶。",
+					"jp": "//(0,30)\\\\よくやった、47。脱出ポイントへ向かう間に、クライアントに連絡しておくわ。"
+				}
+			}
+		]
+	}
+}

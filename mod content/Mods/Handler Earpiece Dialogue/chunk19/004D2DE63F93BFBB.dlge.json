@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/miami/21700_cottonmouth/21700_handler/ds21701_phoneupdate.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds21701_phoneupdate_diana_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/miami/21700_cottonmouth/21700_handler/ds21701_phoneupdate_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/miami/21700_cottonmouth/21700_handler/ds21701_phoneupdate_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,5.7)\\\\By the tone of that conversation, it sounds like Krish is not alone in running this scam.//(5.7,9.647229)\\\\I’ll do some digging, 47, and get back to you.",
+					"fr": "//(0,2.449458)\\\\Le ton de cette conversation laisse penser que//(2.449458,5.314814)\\\\Krish n'est pas seul pour diriger cette arnaque.//(5.314814,9.247698)\\\\Je vais faire quelques recherches, et je vous recontacte.",
+					"it": "//(0,2.2)\\\\Dal tono della conversazione,//(2.2,5.8)\\\\sembra che Krish non sia il solo a gestire questa complessa truffa.//(5.8,9.821587)\\\\Eseguirò qualche ricerca e ti farò sapere, 47.",
+					"de": "//(0,2.8)\\\\Dem Gesprächston nach klingt es,//(2.8,5.8)\\\\als würde Krish seine Betrügereien nicht allein durchziehen.//(5.8,7.5)\\\\Ich gehe dem mal nach, 47,//(7.5,8.586166)\\\\und melde mich wieder bei Ihnen.",
+					"es": "//(0,2.000963)\\\\A juzgar por el tono de esa conversación,//(2.000963,4.404234)\\\\parece que Krish no es el único que dirige esta//(4.404234,6.250988)\\\\estafa. Voy a investigar el tema,//(6.250988,8.586166)\\\\47. Te digo algo lo antes posible.",
+					"ru": "//(0.5,1.901215)\\\\Судя по тону этого разговора,//(1.901215,5.734878)\\\\Криш проворачивает эту аферу вместе с сообщниками.//(5.734878,8.616402)\\\\Я сообщу подробности, как только их узнаю, 47-й.",
+					"cn": "//(0,5.5)\\\\从他们说话的语气判断，克里什这次骗钱活动还有同伙。//(5.5,35.5)\\\\47，我先去调查一下，有结果就会通知你。",
+					"tc": "//(0,5.8)\\\\聽那段對話的語氣，克里西在這詐騙事業上似乎有同夥。//(5.8,35.8)\\\\我去調查一下，47，有消息我會告訴你。",
+					"jp": "//(0,2.32)\\\\会話のトーンからすると、//(2.32,5.8)\\\\クリッシュは1人でこの詐欺ビジネスを運営しているわけではなさそうね。//(5.8,8.586166)\\\\少し調査をして、あなたに報告するわ。"
+				}
+			}
+		]
+	}
+}

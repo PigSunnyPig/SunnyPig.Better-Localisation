@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/12500_white_spider/12500_rabies/12500_handler/ds12537_jnkyrd_resume.sweetdialog?/ds12537_jnkyrd_resume_diana_ws_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds12537_jnkyrd_resume_diana_ws_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12537_jnkyrd_resume_diana_ws_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12537_jnkyrd_resume_diana_ws_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Back to the target in the overgrown junk-yard. Near the water-tower.",
+			"fr": "//(0,30)\\\\Retournez à la cible, dans la cour en friche, près du château d'eau.",
+			"it": "//(0,30)\\\\Torniamo al bersaglio nella discarica incolta, vicino alla torre dell'acqua.",
+			"de": "//(0,30)\\\\Zurück zu der Zielperson auf dem überwucherten Schrottplatz. In der Nähe des Wasserturms.",
+			"es": "//(0,30)\\\\Vuelve a por el objetivo en el chatarrero, cerca del depósito de aguas.",
+			"ru": "//(0,30)\\\\Вернемся к цели на поросшей свалке. Рядом с водонапорной башней.",
+			"cn": "//(0,30)\\\\回来看看大垃圾场的目标。在水塔附近。",
+			"tc": "//(0,30)\\\\回來看看大垃圾場的目標。在水塔附近。",
+			"jp": "//(0,30)\\\\ジャンクヤードの ターゲットよ。 給水塔の 近く。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25100_scopeadjustment.sweetdialog?/ds25100_scopeadjustment_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25100_scopeadjustment_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25100_scopeadjustment_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25100_scopeadjustment_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.533523)\\\\Good thinking, 47.//(1.533523,5.283523)\\\\Now, if we could only make Rangan appear in that window somehow...",
+			"fr": "//(0,2.916687)\\\\Bonne idée, 47. Maintenant, il faut réussir//(2.916687,32.91669)\\\\à faire passer Rangan devant cette fenêtre...",
+			"it": "//(0,0.6295038)\\\\Bella pensata,//(0.6295038,3.521089)\\\\47. Adesso, se riuscissimo in qualche modo a far//(3.521089,5.241896)\\\\avvicinare Rangan a quella finestra...",
+			"de": "//(0,1.674294)\\\\Gute Idee, 47.//(1.674294,3.882883)\\\\Jetzt müssen wir Rangan nur irgendwie//(3.882883,33.88288)\\\\am Fenster erscheinen lassen ...",
+			"es": "//(0,1.724294)\\\\Bien pensado, 47.//(1.724294,31.72429)\\\\Ahora, a ver si conseguimos que Rangan se asome por esa ventana...",
+			"ru": "//(0,1.724294)\\\\Ловко придумано, 47-й.//(1.724294,31.72429)\\\\Еще бы как-то заставить Ранжана встать напротив того окна...",
+			"cn": "//(0,30)\\\\这个办法好，47。现在只要我们想办法让朗甘出现在那扇窗户中......",
+			"tc": "//(0,30)\\\\47，這個辦法好。現在，如果可以讓朗甘走近窗邊......",
+			"jp": "//(0,1.728)\\\\いい考えだわ、47。//(1.728,31.728)\\\\あとは、どうにかしてランガンをあの窓辺に立たせなければ..."
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_skunk/27000_handler/ds27008_intelobjectivescomplete.sweetdialog?/ds27008_intelobjectivescomplete_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds27008_intelobjectivescomplete_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_skunk/27000_handler/ds27008_intelobjectivescomplete_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_skunk/27000_handler/ds27008_intelobjectivescomplete_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,1.724294)\\\\Good work, 47.//(1.724294,6.481963)\\\\We now know Janus is meeting with the Constant at an event related to The Ark Society//(6.481963,8.826748)\\\\and we have an approximate date as well.//(8.826748,10.92675)\\\\I think that's all we we're going to get.",
+			"fr": "//[DIANA]\\\\//(0,1.333408)\\\\Bon travail, 47.//(1.333408,4.05)\\\\Nous savons maintenant que Janus doit rencontrer le Constant//(4.05,6.2)\\\\sur un événement en lien avec la société de l'Arche,//(6.2,8.6)\\\\à une date que nous savons approximative.//(8.6,10.45444)\\\\C'est tout ce que nous avons.",
+			"it": "//[DIANA]\\\\//(0,1.724294)\\\\Ottimo lavoro, 47.//(1.724294,4.300982)\\\\Adesso sappiamo che Janus incontrerà la Costante//(4.300982,9)\\\\a un evento della Ark Society e abbiamo anche una data approssimativa.//(9,10.45444)\\\\Credo sia il massimo che possiamo ottenere.",
+			"de": "//[DIANA]\\\\//(0,1.695)\\\\Gute Arbeit, 47.//(1.695,2.805)\\\\Wir wissen jetzt, dass Janus//(2.805,4.488)\\\\sich mit der Konstante bei einem Event treffen wollte,//(4.488,6.588)\\\\das mit der Ark-Gesellschaft zu tun hat.//(6.588,8.805)\\\\Dafür haben wir sogar ein ungefähres Datum.//(8.805,10.45444)\\\\Ich glaube, mehr werden wir nicht herausbekommen.",
+			"es": "//[DIANA]\\\\//(0,1.724294)\\\\Buen trabajo, 47.//(1.724294,4)\\\\Ahora sabemos que Janus se va a reunir con el Constante//(4,6.3)\\\\en un evento relacionado con la Ark Society//(6.3,8.71816)\\\\y también tenemos una fecha aproximada.//(8.71816,10.45444)\\\\Creo que es todo lo que vamos a sacar.",
+			"ru": "//[DIANA]\\\\//(0,1.724294)\\\\Хорошая работа, 47-й.//(1.724294,3.281)\\\\Теперь мы знаем, что Янус встретится с//(3.281,6.381472)\\\\Константой на заседании «Общества Ковчега»,//(6.381472,8.894)\\\\и даже знаем примерную дату.//(8.894,10.45444)\\\\Думаю, здесь больше ничего не найти.",
+			"cn": "//[DIANA]\\\\//(0,6.52)\\\\干得好，47。现在我们知道杰纳斯将在一场与方舟会相关的活动上与“永恒常量”见面，//(6.52,10.454)\\\\而且我们也知道了会面的大致日期。我们能找到的只有这么多了。",
+			"tc": "//[DIANA]\\\\//(0,1.568)\\\\幹得好，47。//(1.568,6.436)\\\\現在我們知道傑納斯將在一場與方舟會相關的活動上與「常任」見面，//(6.436,8.804)\\\\而且我們也知道會面的大致日期。//(8.804,10.45444)\\\\我們知道的只有這麼多了。",
+			"jp": "//[DIANA]\\\\//(0,1.43)\\\\よくやったわ、47。//(1.43,6.385)\\\\ヤヌスはアーク・ソサエティ関連のイベントでコンスタントに会うことが判明した。//(6.385,8.475)\\\\そしておおよその日程もわかった。//(8.475,10.45444)\\\\必要な情報はすべて手に入れたわね。"
+		}
+	}
+}

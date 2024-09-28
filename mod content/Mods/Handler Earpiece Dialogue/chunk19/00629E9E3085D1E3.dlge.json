@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/miami/21700_cottonmouth/21700_handler/ds21702_targetdown.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds21702_targetdown_diana_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/miami/21700_cottonmouth/21700_handler/ds21702_targetdown_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/miami/21700_cottonmouth/21700_handler/ds21702_targetdown_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,2.7)\\\\Target has been eliminated.//(2.7,6.993237)\\\\Though our client will never get their money back, you have given them peace of mind.//(6.993237,8.298896)\\\\Well done.",
+					"fr": "//(0,2.925738)\\\\La cible a été éliminée.//(2.925738,10.6715)\\\\Notre client ne récupérera jamais l'argent qu'il a perdu, mais il aura au moins l'esprit tranquille. Bien joué.",
+					"it": "//(0,2.8)\\\\Il bersaglio è stato eliminato.//(2.8,7)\\\\Anche se il nostro cliente non riavrà mai i suoi soldi, almeno potrà mettersi l'anima in pace.//(7,9.735601)\\\\Bel lavoro.",
+					"de": "//(0,2.7)\\\\Ziel wurde eliminiert.//(2.7,4.856817)\\\\Auch wenn unser Klient sein Geld nie wiedersehen wird,//(4.856817,7)\\\\haben Sie trotzdem für seinen Seelenfrieden gesorgt.//(7,8.933504)\\\\Gut gemacht.",
+					"es": "//(0,1.925738)\\\\El objetivo ha sido eliminado.//(1.925738,4.144552)\\\\Aunque nuestro cliente nunca recuperará su dinero,//(4.144552,7.281763)\\\\al menos le has dado un poco de tranquilidad.//(7.281763,8.298896)\\\\Buen trabajo.",
+					"ru": "//(0.5,2.680851)\\\\Цель ликвидирована.//(2.680851,5.095636)\\\\Потраченные деньги уже не вернутся к нашему клиенту,//(5.095636,7.062773)\\\\зато к нему вернулся душевный покой.//(7.062773,8.298896)\\\\Отлично.",
+					"cn": "//(0,2.25)\\\\目标已被消灭。//(2.25,6.8)\\\\虽然我们的客户没能把钱讨回来，但你帮他们出了一口恶气。//(6.8,36.8)\\\\干得漂亮。",
+					"tc": "//(0,2.7)\\\\目標已被消滅。//(2.7,7.1)\\\\儘管我們的客戶沒辦法取回他的錢，但是你讓他們內心平靜了許多。//(7.1,37.1)\\\\做得好。",
+					"jp": "//(0,2.735)\\\\ターゲットを排除。//(2.735,5.18)\\\\クライアントにお金が戻ることはないけれど、//(5.18,7.1)\\\\これで依頼主の心にも平穏がもたらされるはずよ。//(7.1,8.298896)\\\\お見事だったわ。"
+				}
+			}
+		]
+	}
+}

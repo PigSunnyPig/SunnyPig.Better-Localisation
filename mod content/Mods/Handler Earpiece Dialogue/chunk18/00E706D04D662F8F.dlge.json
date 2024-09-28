@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colombia/23000_hippo/23000_handler/23000_hippo_flyin.sweetdialog?/23000_hippo_flyin_diana_010.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "23000_hippo_flyin_diana_010",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colombia/23000_hippo/23000_handler/23000_hippo_flyin_diana_010.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colombia/23000_hippo/23000_handler/23000_hippo_flyin_diana_010.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,5.376)\\\\While Andrea Martínez can be found in her village office or around Santa Fortuna itself.",
+			"fr": "//[DIANA]\\\\//(0,3.3)\\\\Andrea Martínez se trouve généralement dans son bureau au village,//(3.3,33.3)\\\\ou dans les rues de Santa Fortuna.",
+			"it": "//[DIANA]\\\\//(0,5.376)\\\\Andrea Martínez, invece, la puoi trovare nel suo ufficio nel villaggio oppure in giro per Santa Fortuna.",
+			"de": "//[DIANA]\\\\//(0,5.376)\\\\Andrea Martínez befindet sich in ihrem Büro oder anderswo im eigentlichen Santa Fortuna.",
+			"es": "//[DIANA]\\\\//(0,30)\\\\Mientras que Andrea Martínez suele estar en su despacho del pueblo o por la propia Santa Fortuna.",
+			"ru": "//[DIANA]\\\\//(0,30)\\\\Андреа Мартинес обычно сидит в офисе, который находится в деревне, или гуляет по улицам Санта-Фортуны.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\安德里亚·马丁内斯一般会在村子办公室或就在圣福耳图那周围。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\而安德里亞．馬丁尼斯會在村辦公室或聖福耳圖那周圍。",
+			"jp": "//[DIANA]\\\\//(0,3.085)\\\\アンドレア・マルチネスは村にあるオフィスか//(3.085,33.085)\\\\サンタ・フォルチューナのどこかにいるはずよ。"
+		}
+	}
+}

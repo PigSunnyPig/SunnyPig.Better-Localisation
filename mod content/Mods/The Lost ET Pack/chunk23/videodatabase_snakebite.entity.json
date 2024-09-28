@@ -1,0 +1,76 @@
+{
+	"tempHash": "00CE21AFE3EFB8A5",
+	"tbluHash": "00E48770C2411D5A",
+	"rootEntity": "fffffffffffffffe",
+	"entities": {
+		"f1927de07932faab": {
+			"parent": "2dce670a04a75fe3",
+			"name": "debriefing",
+			"factory": "[modules:/zuivideodatabaseentryentity.class].pc_entitytype",
+			"blueprint": "[modules:/zuivideodatabaseentryentity.class].pc_entityblueprint",
+			"properties": {
+				"m_sVideoId": {
+					"type": "ZString",
+					"value": "debriefing_snakebite"
+				},
+				"m_resourceId": {
+					"type": "ZRuntimeResourceID",
+					"value": null
+				}
+			}
+		},
+		"f82963b531b72d68": {
+			"parent": "fffffffffffffffe",
+			"name": "Missions",
+			"factory": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint"
+		},
+		"0dd08f287d2c73d7": {
+			"parent": "fffffffffffffffe",
+			"name": "Elusive",
+			"factory": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint"
+		},
+		"9b03c9aee4611446": {
+			"parent": "2dce670a04a75fe3",
+			"name": "briefing",
+			"factory": "[modules:/zuivideodatabaseentryentity.class].pc_entitytype",
+			"blueprint": "[modules:/zuivideodatabaseentryentity.class].pc_entityblueprint",
+			"properties": {
+				"m_sVideoId": {
+					"type": "ZString",
+					"value": "briefing_snakebite"
+				},
+				"m_resourceId": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "006925AD50886E7E",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"2dce670a04a75fe3": {
+			"parent": "f82963b531b72d68",
+			"name": "000_Snakebite",
+			"factory": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint"
+		},
+		"fffffffffffffffe": {
+			"parent": null,
+			"name": "Scene",
+			"factory": "[modules:/zspatialentity.class].pc_entitytype",
+			"blueprint": "[modules:/zspatialentity.class].pc_entityblueprint"
+		}
+	},
+	"propertyOverrides": [],
+	"overrideDeletes": [],
+	"pinConnectionOverrides": [],
+	"pinConnectionOverrideDeletes": [],
+	"externalScenes": [],
+	"subType": "scene",
+	"quickEntityVersion": 3.1,
+	"extraFactoryDependencies": [],
+	"extraBlueprintDependencies": [],
+	"comments": []
+}

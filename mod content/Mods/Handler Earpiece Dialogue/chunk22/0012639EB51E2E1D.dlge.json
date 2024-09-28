@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12766_dianaexit.sweetdialog?/ds12766_dianaexit_diana_ws_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds12766_dianaexit_diana_ws_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12766_dianaexit_diana_ws_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12766_dianaexit_diana_ws_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,7.65)\\\\Very well done, 47. Owen Cage and Klaus Liebleid are both dead and the Nabazov virus has no chance to spread.//(7.65,12.3)\\\\I've relayed the information to the board. They offer their congratulations.//(12.3,42.3)\\\\We'll speak again shortly.",
+			"fr": "//(0,7.65)\\\\Très beau travail, 47. Owen Cage et Klaus Liebleid sont tous les deux morts, et le virus ne peut plus se propager.//(7.65,12.3)\\\\J'ai fait suivre ces informations aux membres du conseil, ils vous adressent leurs félicitations.//(12.3,42.3)\\\\À très vite.",
+			"it": "//(0,7.65)\\\\Molto bene, 47. Owen Cage e Klaus Liebleid sono morti, e il virus Nabazov non ha più modo di propagarsi.//(7.65,12.3)\\\\Ho già riferito tutto ai membri del consiglio, che si complimentano per il successo.//(12.3,42.3)\\\\Ci risentiamo a breve.",
+			"de": "//(0,7.65)\\\\Sehr gute Arbeit, 47. Owen Cage und Klaus Liebleid sind tot, und das Nabazov-Virus kann sich nicht weiter verbreiten.//(7.65,12.3)\\\\Ich habe die Information an das Direktorium weitergegeben. Ich soll Sie beglückwünschen.//(12.3,42.3)\\\\Wir sprechen uns in Kürze wieder.",
+			"es": "//(0,7.65)\\\\Muy bien hecho, 47. Owen Cage y Klaus Liebleid están muertos, y el virus ya no puede propagarse.//(7.65,12.3)\\\\Ya he informado a la junta, te envían sus enhorabuenas.//(12.3,42.3)\\\\Hablaremos muy pronto.",
+			"ru": "//(0,7.65)\\\\Очень хорошо, 47-й. Оуэн Кейдж и Клаус Либляйд мертвы, и вирус Набазова никак не сможет распространиться.//(7.65,12.3)\\\\Я направила информацию совету директоров. Они передают поздравления.//(12.3,42.3)\\\\Скоро мы снова свяжемся.",
+			"cn": "//(0,12)\\\\做得非常好，47。欧文·凯奇与克劳斯·利布莱德两人都已死亡，纳巴佐夫病毒也无法再传播。//(12,15.72393)\\\\我已将情况转发给了董事会。他们也表示祝贺。我们稍后再谈。",
+			"tc": "//(0,12)\\\\做得非常好，47。歐文．凱吉與克勞斯．利布萊德兩人都已死亡，納巴佐夫病毒也無法再傳播。//(12,42)\\\\我已將情況轉發給了董事會。他們也表示祝賀。我們稍後再談。",
+			"jp": "//(0,30)\\\\素晴らしいわ、 47。 オーウェン・ ケイジと クラウス・ リーブリードは 共に死亡、 ナバゾフ・ウイルスの 拡散を 止めたのよ。 上層部には 連絡して おいた。 ねぎらいの 言葉が あったわ。 また後で話しましょう。"
+		}
+	}
+}

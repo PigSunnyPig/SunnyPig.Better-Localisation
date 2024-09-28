@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/golden/40000_elusive/gibson/40500_handler/ds40500_gibsontargetid.sweetdialog?/ds40500_gibsontargetid_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds40500_gibsontargetid_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/40000_elusive/gibson/40500_handler/ds40500_gibsontargetid_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/40000_elusive/gibson/40500_handler/ds40500_gibsontargetid_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.3)\\\\That... Is Allison Moretta.//(2.3,32.3)\\\\Be careful: She has an eye for faces.",
+			"fr": "//(0,30)\\\\Voici... Allison Moretta. Soyez prudent, elle est particulièrement observatrice.",
+			"it": "//(0,30)\\\\Quella... è Allison Moretta. Sta' attento, ha occhio per i volti.",
+			"de": "//(0,30)\\\\Das ... ist Allison Moretta. Seien sie vorsichtig: Sie kann sich Gesichter sehr gut merken.",
+			"es": "//(0,2.25)\\\\Esa... es Allison Moretta.//(2.25,32.25)\\\\Ten cuidado, tiene muy buen ojo para las caras.",
+			"ru": "//(0,2.104294)\\\\Это... Эллисон Моретта.//(2.104294,32.10429)\\\\Будь осторожен, у нее отличная память на лица.",
+			"cn": "//(0,2.2)\\\\那人......便是艾莉森·莫雷塔。//(2.2,32.2)\\\\你要多加小心。她对别人的长相过目不忘。",
+			"tc": "//(0,30)\\\\那......就是愛麗森·莫瑞塔。小心了，她對人的長相可是過目不忘。",
+			"jp": "//(0,30)\\\\あれが... アリソン・モレッタよ。気を付けて。彼女は人の顔をよく覚えているの。"
+		}
+	}
+}

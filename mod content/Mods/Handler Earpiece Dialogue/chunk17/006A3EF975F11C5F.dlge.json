@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25074_opppainterconclusion.sweetdialog?/ds25074_opppainterconclusion_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25074_opppainterconclusion_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25074_opppainterconclusion_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25074_opppainterconclusion_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.424294)\\\\All right, 47.//(1.424294,5.085979)\\\\Let's see if the aim of our Kashmirian friend is true...",
+			"fr": "//(0,3.486912)\\\\Très bien, 47. Voyons si notre ami le Cachemiri a//(3.486912,5.085979)\\\\l'étoffe d'un tireur d'élite.",
+			"it": "//(0,1.356196)\\\\Bene, 47.//(1.356196,6.537178)\\\\Vediamo se il nostro amico Kashmiro ha una buona mira...",
+			"de": "//(0,1.98901)\\\\Okay, 47. Mal sehen,//(1.98901,5.085979)\\\\wie gut unser Freund aus Kaschmir so zielt ...",
+			"es": "//(0,6)\\\\Vale, 47. Comprobemos la puntería de nuestro amigo el Cachemir.",
+			"ru": "//(0,2.127437)\\\\Что ж, 47-й. Посмотрим,//(2.127437,5.085979)\\\\насколько метко целится наш друг из Кашмира...",
+			"cn": "//(0,30)\\\\好了，47。让我们看看这位克什米尔朋友的枪法准不准吧......",
+			"tc": "//(0,30)\\\\好了，47。讓我們看看這位喀什米爾朋友的槍法準不準吧......",
+			"jp": "//(0,30)\\\\さて、47。我らが友人のカシミリアンのお手並み拝見と行きましょう..."
+		}
+	}
+}

@@ -1,0 +1,68 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/evergreen/handler/ed040_areaunlck.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ed040_areaunlck_diana_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed040_areaunlck_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed040_areaunlck_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\A new part of the safehouse is now available to use.",
+					"fr": "//[DIANA]\\\\//(0,2.906)\\\\Une nouvelle partie de la planque est maintenant disponible.",
+					"it": "//[DIANA]\\\\//(0,30)\\\\Una nuova area del rifugio è ora disponibile.",
+					"de": "//[DIANA]\\\\//(0,2.963844)\\\\Ein neuer Teil des Unterschlupfs kann jetzt verwendet werden.",
+					"es": "//[DIANA]\\\\//(0,30)\\\\Ya se puede usar una parte nueva del piso franco.",
+					"ru": "//[DIANA]\\\\//(0,3.00032)\\\\Явочная квартира расширилась за счет нового помещения.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\安全屋的新区域现已开放。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\新的密屋區域現已開放使用。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\セーフハウスで利用可能な場所が新しく増えたわ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed040_areaunlck_diana_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed040_areaunlck_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed040_areaunlck_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,3.2)\\\\An area in the Safehouse has now been unlocked.//(3.2,6.16908)\\\\Enjoy, 47.",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Une nouvelle zone de la planque a été ouverte. Profitez bien, 47.",
+					"it": "//[DIANA]\\\\//(0,30)\\\\È stata sbloccata un'area del rifugio. Goditela, 47.",
+					"de": "//[DIANA]\\\\//(0,3)\\\\Ein Bereich im Unterschlupf wurde jetzt entriegelt.//(3,4.292625)\\\\Viel Spaß, 47.",
+					"es": "//[DIANA]\\\\//(0,3.094785)\\\\Se ha desbloqueado una zona del piso franco.//(3.094785,33.09478)\\\\Disfrútala, 47.",
+					"ru": "//[DIANA]\\\\//(0,2.694)\\\\На явочной квартире открылось новое помещение.//(3.137,33.137)\\\\Наслаждайся, 47-й.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\安全屋的一个区域现在已经解锁。希望你喜欢，47。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\密屋的一個區域已經解鎖了。盡情享受吧，47。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\セーフハウスの一部のエリアが解除されたわ。楽しんでね、47。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed040_areaunlck_diana_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed040_areaunlck_diana_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed040_areaunlck_diana_003.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\You can now gain access to a new area in the safehouse.",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Vous avez maintenant accès à un nouvel espace dans votre planque.",
+					"it": "//[DIANA]\\\\//(0,30)\\\\Ora puoi accedere a una nuova area del rifugio.",
+					"de": "//[DIANA]\\\\//(0,3.581042)\\\\Sie haben jetzt Zugang zu einem neuen Bereich im Unterschlupf.",
+					"es": "//[DIANA]\\\\//(0,5.180982)\\\\Ya puedes acceder a una nueva zona del piso franco.",
+					"ru": "//[DIANA]\\\\//(0,3.581042)\\\\Ты получил доступ к новому помещению явочной квартиры.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\你现在可以进入安全屋的新区域了。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\你現在可以進入密屋中的新區域。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\セーフハウスの新しいエリアにアクセスできるようになったわ。"
+				}
+			}
+		]
+	}
+}

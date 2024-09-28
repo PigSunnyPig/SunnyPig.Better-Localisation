@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8615_demosession.sweetdialog?/dr8615_demosession_troubled_demo_et_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8615_demosession_troubled_demo_et_002",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8615_demosession_troubled_demo_et_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8615_demosession_troubled_demo_et_002.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\What did you say?",
+			"fr": "//(0,30)\\\\Pardon ?",
+			"it": "//(0,30)\\\\Come ha detto?",
+			"de": "//(0,30)\\\\Wie war das?",
+			"es": "//(0,30)\\\\¿Qué ha dicho?",
+			"ru": "//(0,30)\\\\Что вы сказали?",
+			"cn": "//(0,30)\\\\你在说什么呢？",
+			"tc": "//(0,30)\\\\你說什麼？",
+			"jp": "//(0,30)\\\\What did you say?"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/gamemodes/versusmode/42_announcer_opponentitemgrab.sweetdialog?/42_announcer_opponentitemgrab_announcer_versus_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "42_announcer_opponentitemgrab_announcer_versus_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/gamemodes/versusmode/42_announcer_opponentitemgrab_announcer_versus_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/gamemodes/versusmode/42_announcer_opponentitemgrab_announcer_versus_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Your opponent just picked up additional equipment.",
+			"fr": "//(0,30)\\\\Votre adversaire a ramassé de l'équipement.",
+			"it": "//(0,2.86318)\\\\Il tuo avversario ha appena raccolto un equipaggiamento addizionale.",
+			"de": "//(0,30)\\\\Ihr Gegner hat weitere Ausrüstung aufgehoben.",
+			"es": "//(0,1.897787)\\\\Tu contrincante acaba de conseguir equipo//(1.897787,2.897787)\\\\adicional.",
+			"ru": "//(0,2.786433)\\\\Противник только что взял дополнительное снаряжение.",
+			"cn": "//(0,30)\\\\你的对手刚刚拾取了一件额外装备。",
+			"tc": "//(0,30)\\\\你的對手剛剛拾起了一個額外道具。",
+			"jp": "//(0,30)\\\\対戦相手が追加装備を入手。"
+		}
+	}
+}

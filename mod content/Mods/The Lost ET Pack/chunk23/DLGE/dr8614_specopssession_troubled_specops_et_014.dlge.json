@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession.sweetdialog?/dr8614_specopssession_troubled_specops_et_014.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8614_specopssession_troubled_specops_et_014",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession_troubled_specops_et_014.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession_troubled_specops_et_014.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.85)\\\\But it’s a slope, right?//(1.85,31.85)\\\\We start with noble intentions... and then suddenly we look around, and we’re the monsters.",
+			"fr": "//(0,2.18)\\\\Mais c'est pervers, vous trouvez pas ?//(2.18,32.18)\\\\On commence par une cause juste... et au final, c'est nous les monstres.",
+			"it": "//(0,2.029)\\\\Ma è un lento degrado, no?//(2.029,32.029)\\\\Cominciamo animati da nobili intenzioni... e poi di colpo ci accorgiamo di essere diventati dei mostri.",
+			"de": "//(0,2.3)\\\\Aber das ist ja die Gefahr!//(2.3,32.3)\\\\Wir beginnen mit noblen Zielen ... und plötzlich müssen wir feststellen, dass wir die Monster sind.",
+			"es": "//(0,3.832883)\\\\Pero es un descenso, ¿verdad? Empezamos con intenciones nobles...//(3.832883,33.83288)\\\\Y, de repente, miramos a nuestro alrededor y resulta que nosotros somos los monstruos.",
+			"ru": "//(0,3.944785)\\\\Это скользкий путь. Сегодня ты борешься с несправедливостью...//(3.944785,33.94479)\\\\но оглянуться не успеешь, как сам превратишься в чудовище.",
+			"cn": "//(0,1.85)\\\\但这简直像个斜坡，对吧？//(1.85,31.85)\\\\我们的出发点是高尚的......然后突然间，我们环顾四周时，就变成了怪物。",
+			"tc": "//(0,1.85)\\\\但這是一個斜坡，對嗎？//(1.85,31.85)\\\\我們以崇高的意圖開始...然後突然環顧四周，我們就是怪物。",
+			"jp": "//(0,1.85)\\\\But it’s a slope, right?//(1.85,31.85)\\\\We start with noble intentions... and then suddenly we look around, and we’re the monsters."
+		}
+	}
+}

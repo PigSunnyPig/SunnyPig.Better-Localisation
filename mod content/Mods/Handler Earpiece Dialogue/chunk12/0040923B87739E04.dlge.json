@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/greedy/33000_raccoon/33000_handler/33000_flyin.sweetdialog?/33000_flyin_diana_004.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "33000_flyin_diana_004",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/greedy/33000_raccoon/33000_handler/33000_flyin_diana_004.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/greedy/33000_raccoon/33000_handler/33000_flyin_diana_004.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,2.208589)\\\\And Head of Accounts Fabian Mann//(2.208589,4.388962)\\\\can be found on the investment banker floor//(4.388962,6.185643)\\\\and the top floor of the bank,//(6.185643,8.365465)\\\\driving the internal investigation.",
+			"fr": "//[DIANA]\\\\//(0,2.696687)\\\\Enfin, le chef comptable Fabian Mann navigue//(2.696687,5.641472)\\\\entre l'étage des banquiers et le dernier étage//(5.641472,8.365465)\\\\pour mener l'enquête en interne.",
+			"it": "//[DIANA]\\\\//(0,2.212663)\\\\Il responsabile della contabilità Fabian Mann//(2.212663,6.013644)\\\\si trova al piano degli investitori in cima alla banca,//(6.013644,8.365465)\\\\intento a guidare l'indagine interna.",
+			"de": "//[DIANA]\\\\//(0,2.616687)\\\\Und den Leiter der Buchhaltung, Fabian Mann,//(2.616687,4.6)\\\\finden Sie in der Investmentbanking-Etage//(4.6,6.5)\\\\und im obersten Stockwerk der Bank.//(6.5,8.365767)\\\\Er leitet die internen Ermittlungen.",
+			"es": "//[DIANA]\\\\//(0,2.2)\\\\El jefe de contabilidad, Fabian Mann,//(2.2,4.28908)\\\\está dirigiendo la investigación interna//(4.28908,5.869195)\\\\y lo encontrarás en el piso de inversiones//(5.869195,8.365465)\\\\y en el piso superior del banco.",
+			"ru": "//[DIANA]\\\\//(0,2.311236)\\\\Главный бухгалтер Фабиан Манн обычно сидит на//(2.311236,4.177395)\\\\этаже, где находится отдел инвестиций,//(4.177395,6.266092)\\\\или же на верхнем этаже банка,//(6.266092,8.365465)\\\\где он ведет внутреннее расследование.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\你可以在投资部楼层以及银行顶层找到账目主管法比安·曼恩，他正在协助内部调查事务。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\會計主任費邊‧曼會在投資銀行家的樓層和銀行頂樓，他正在執行內部調查。",
+			"jp": "//[DIANA]\\\\//(0,2.345)\\\\そして、経理部長のファビアン・マンは、//(2.345,6.365)\\\\バンカーたちのフロアか銀行の最上階にいるはず。//(6.365,8.365465)\\\\内部調査をしているわ。"
+		}
+	}
+}

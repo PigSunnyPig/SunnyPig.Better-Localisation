@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/bulldog/41000_elusive/41000_bramble/41000_bramble_handler/ds41507_targetdownobjectivewasontarget.sweetdialog?/ds41507_targetdownobjectivewasontarget_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41507_targetdownobjectivewasontarget_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/bulldog/41000_elusive/41000_bramble/41000_bramble_handler/ds41507_targetdownobjectivewasontarget_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/bulldog/41000_elusive/41000_bramble/41000_bramble_handler/ds41507_targetdownobjectivewasontarget_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Target down. Get the painting, if you want, and find an exit. I'll transfer the money to your account.",
+			"fr": "//(0,3.65)\\\\Cible abattue. Cherchez le tableau si vous voulez, et trouvez une sortie.//(3.65,33.65)\\\\Je m'occupe de transférer l'argent sur votre compte.",
+			"it": "//(0,30)\\\\Bersaglio eliminato. Ora prendi il dipinto, se vuoi, e trova un'uscita. Trasferirò il compenso sul tuo conto.",
+			"de": "//(0,1.236196)\\\\Ziel neutralisiert.//(1.236196,3.911473)\\\\Beschaffen Sie das Gemälde, wenn Sie wollen, und suchen Sie dann einen Ausgang.//(3.911473,33.91147)\\\\Ich überweise das Geld auf Ihr Konto.",
+			"es": "//(0,30)\\\\Objetivo eliminado. Coge el cuadro si quieres y busca una salida. Te transferiré el dinero a tu cuenta.",
+			"ru": "//(0,0.97)\\\\Цель уничтожена.//(1.3,2.55)\\\\Если хочешь, найди еще и картину,//(2.55,3.84)\\\\а потом двигайся к выходу.//(3.84,33.84)\\\\Я переведу деньги на твой счет.",
+			"cn": "//(0,3.8)\\\\目标已消灭。如果愿意的话就去找画作，然后找到出口。//(3.8,33.8)\\\\我会把钱打到你的账上。",
+			"tc": "//(0,3.7)\\\\目標倒下了。想要的話，去取得畫作並找出出口。//(3.7,33.7)\\\\我會把錢匯到你的帳戶。",
+			"jp": "//(0,3.8)\\\\ターゲットを始末した。できるなら絵画を見つけて、出口を探しましょう。//(3.8,33.8)\\\\報酬は口座に送金するわ。"
+		}
+	}
+}

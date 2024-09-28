@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_handler/dr2610_diana.sweetdialog?/dr2610_diana_diana_et_003.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr2610_diana_diana_et_003",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_handler/dr2610_diana_diana_et_003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_moscowmule/2000_moscowmule_handler/dr2610_diana_diana_et_003.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA_ET]\\\\//(0,3.682883)\\\\Good afternoon, 47. I have an update for you.//(3.682883,9.586258)\\\\The Gama facility has continued their research into the Variant 2 Banner-Coleman Hemorrhagic Virus//(9.586258,12.06294)\\\\and may have several samples in storage.//(12.06294,15.03202)\\\\I have been unable to ascertain the location of the samples,//(15.03202,19.98969)\\\\so you will need to locate them yourself if you wish to honor the client's special request.//(19.98969,49.98969)\\\\Good hunting, 47, as always.",
+			"fr": "//[DIANA_ET]\\\\//(0,1.78)\\\\Bonjour, 47.//(1.78,3.29)\\\\J'ai du nouveau pour vous.//(3.29,9.5)\\\\Le site de Gama poursuit ses recherches sur la variante 2 du virus hémorragique Banner-Coleman.//(9.5,12.2)\\\\Il devrait y en avoir des échantillons en stock.//(12.2,20.2)\\\\Je n'ai pas réussi à identifier l'endroit où ils sont stockés, vous allez devoir le faire vous même si vous voulez livrer la commande spéciale.//(20.2,50.2)\\\\Bonne chasse, 47, comme toujours.",
+			"it": "//[DIANA_ET]\\\\//(0,3.310491)\\\\Buonasera, 47. Ho un aggiornamento.//(3.310491,9.314)\\\\La clinica Gama sta conducendo delle ricerche sulla variante due del virus emorragico Banner-Coleman//(9.314,12.022)\\\\e dovrebbe disporre di numerosi campioni.//(12.022,14.937)\\\\Non sono riuscita a risalire alla loro posizione,//(14.937,20.154)\\\\quindi dovrai trovarli da solo se vuoi soddisfare la richiesta del cliente.//(20.154,50.154)\\\\Buona caccia 47, come sempre.",
+			"de": "//[DIANA_ET]\\\\//(0,1.724294)\\\\Guten Tag, 47.//(1.724294,3.5)\\\\Ich habe ein Update für Sie.//(3.5,9.5)\\\\Gama hat seine Forschungen zur Variante 2 des hämorrhagischen Banner-Coleman-Virus fortgesetzt//(9.5,11.7)\\\\und müsste mehrere Proben auf Lager haben.//(11.7,15)\\\\Ich konnte den genauen Aufbewahrungsort nicht ermitteln,//(15,20.2)\\\\das müssten Sie selbst erledigen, falls Sie dem Sonderwunsch des Klienten nachkommen wollen.//(20.2,50.2)\\\\Waidmannsheil, 47, wie immer.",
+			"es": "//[DIANA_ET]\\\\//(0,3.2)\\\\Buenas tardes, 47. Tengo noticias para ti.//(3.2,9.5)\\\\La instalación Gama ha continuado su investigación sobre la variante 2 del virus hemorrágico Banner-Coleman,//(9.5,12.2)\\\\y es posible que tengan almacenadas varias muestras.//(12.2,17.1)\\\\No he podido averiguar la ubicación de las mismas, así que tendrás que localizarlas tú mismo//(17.1,19.7)\\\\si quieres cumplir con la petición especial del cliente.//(19.7,49.7)\\\\Buena caza, 47, como siempre.",
+			"ru": "//[DIANA_ET]\\\\//(0,3.328589)\\\\Добрый день, 47-й. Есть новые сведения.//(3.328589,9.1)\\\\В «Гаме» сейчас ведутся исследования второго варианта геморрагического вируса Баннера-Колмена,//(9.1,11.9)\\\\так что в хранилище наверняка есть несколько образцов.//(11.9,14.8)\\\\Я не смогла выяснить их точное месторасположение,//(14.8,20.20528)\\\\так что тебе придется искать их самостоятельно, если ты хочешь исполнить желание заказчика.//(20.20528,50.20528)\\\\Как всегда, 47-й, желаю удачной охоты.",
+			"cn": "//[DIANA_ET]\\\\",
+			"tc": "//[DIANA_ET]\\\\//(0,3.68)\\\\午安，47。這裡給你些更新。//(3.68,12)\\\\伽馬設施持續在研究2類班納．柯爾曼出血熱病毒並且在倉庫中有許多樣本。//(12,15)\\\\我無法找出這些樣本的位置，//(15,20)\\\\所以你想完成客戶的特殊要求的話，你將需要自己找到它們。//(20,50)\\\\一如往常，狩獵愉快，47。",
+			"jp": "//[DIANA_ET]\\\\//(0,8.915075)\\\\こんばんは、 47。 更新情報を 伝えるわ。 ガマ病院は 出血性ウィルスの 研究を 続けて いて、 いくつかの//(8.915075,16.04714)\\\\サンプルを 保管して いる可能性が ある。 サンプルの 場所は 特定できてないから、 クライアントの//(16.04714,22.28769)\\\\リクエストに 応えたい場合は 自分で 探し出して ちょうだい。 それでは、 よろしくね。"
+		}
+	}
+}

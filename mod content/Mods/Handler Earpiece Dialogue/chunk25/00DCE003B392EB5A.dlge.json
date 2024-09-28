@@ -1,0 +1,21 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/marrakech/11600_elusive/11600_negroni/11600_negroni_handler/dr11610_diana.sweetdialog?/dr11610_diana_diana_et_006.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"langmap": "xx,en,fr,it,de,es",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr11610_diana_diana_et_006",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_handler/dr11610_diana_diana_et_006.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_handler/dr11610_diana_diana_et_006.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.576687)\\\\Those crates are branded \"Ether.\" That’s intriguing.//(3.576687,10.20626)\\\\Silvio Caruso, the younger brother of your two targets, is Chief Researcher for the Ether Corporation.//(10.20626,40.20626)\\\\But our information indicates no links between them. I wonder how they managed to get this.",
+			"fr": "//(0,4)\\\\Ces caisses sont marquées Ether. Étrange.//(4,7.4)\\\\Silvio Caruso, le jeune frère de vos deux cibles,//(7.4,10.62957)\\\\est responsable des recherches pour Ether Corporation.//(10.62957,13.57)\\\\Mais selon nos informations, il n'y a pas de lien entre eux.//(13.57,43.57)\\\\Je me demande comment ils ont eu ça.",
+			"it": "//(0,3.876687)\\\\Sulle casse campeggia la scritta \"Ether\". Interessante.//(3.876687,10.54006)\\\\Silvio Caruso, il fratello minore dei nostri bersagli, è capo ricercatore alla Ether Corporation,//(10.54006,13.375)\\\\ma le nostre fonti sostengono che non siano in contatto tra di loro.//(13.375,43.375)\\\\Mi chiedo come ci siano riusciti.",
+			"de": "//(0,4)\\\\Auf diesen Kisten steht Ether. Das ist interessant.//(4,10.6)\\\\Silvio Caruso, der jüngere Brüder der zwei Zielpersonen, leitet die Forschungsabteilung der Ether Corporation.//(10.6,13.7)\\\\Aber laut unseren Informationen besteht keine Verbindung zwischen ihnen.//(13.7,43.7)\\\\Wie sind sie da wohl rangekommen?",
+			"es": "//(0,3.912883)\\\\Las cajas llevan la marca de Ether. Es curioso.//(3.912883,10.64245)\\\\Silvio Caruso, el hermano menor de los objetivos, es el investigador jefe de la Corporación Ether.//(10.64245,40.64245)\\\\Sin embargo, de acuerdo con nuestra información, no hay vínculos entre ellos. No sé cómo lo han hecho."
+		}
+	}
+}

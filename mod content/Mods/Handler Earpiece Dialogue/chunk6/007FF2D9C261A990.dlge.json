@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/rat/43000_handler/ds43375_exitoliviadelete47diana.sweetdialog?/ds43375_exitoliviadelete47diana_oliviahall_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds43375_exitoliviadelete47diana_oliviahall_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/rat/43000_handler/ds43375_exitoliviadelete47diana_oliviahall_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/rat/43000_handler/ds43375_exitoliviadelete47diana_oliviahall_001.animset].pc_animset",
+		"languages": {
+			"en": "//[OLIVIAHALL]\\\\//(0,4.5)\\\\The two of you go way back. I didn't realize that you...//(4.5,34.5)\\\\I don't know... I get why you want to protect her.",
+			"fr": "//[OLIVIAHALL]\\\\//(0,4.5)\\\\Vous vous connaissez depuis longtemps. J'ignorais que vous...//(4.5,34.5)\\\\Je ne sais pas... Je comprends pourquoi vous voulez la protéger.",
+			"it": "//[OLIVIAHALL]\\\\//(0,30)\\\\Vi conoscete da una vita. Non credevo che... Non so... Ora capisco perché la vuoi proteggere.",
+			"de": "//[OLIVIAHALL]\\\\//(0,2.408589)\\\\Sie beide haben eine lange Vorgeschichte.//(2.408589,32.40859)\\\\Mir war nicht klar, dass Sie ... Ich wusste nicht ... Ich verstehe, warum Sie sie schützen wollen.",
+			"es": "//[OLIVIAHALL]\\\\//(0,1.7)\\\\Vosotros dos habéis pasado mucho juntos.//(2.5,3.8)\\\\No era consciente...//(4.7,5.8)\\\\no sabía...//(6.2,36.2)\\\\Entiendo por qué quieres protegerla.",
+			"ru": "//[OLIVIAHALL]\\\\//(0,3.944785)\\\\Как давно вы знакомы. Я и не думала...//(3.944785,33.94479)\\\\Не знала... Теперь понятно, почему ты так хочешь ее защитить.",
+			"cn": "//[OLIVIAHALL]\\\\//(0,4)\\\\你俩认识这么久了。我没想到你......//(4,34)\\\\我不知道......我明白你为什么想保护她了。",
+			"tc": "//[OLIVIAHALL]\\\\//(0,6.1)\\\\你們兩個認識很久了。我並沒有察覺你......我並不知道......//(6.1,36.1)\\\\我明白你為什麼想要保護她。",
+			"jp": "//[OLIVIAHALL]\\\\//(0,3.694)\\\\二人は長い付き合いなのね。知らなかった...//(4.5,6.2)\\\\なんていうか...//(6.2,36.2)\\\\彼女を守りたい理由がわかったわ。"
+		}
+	}
+}

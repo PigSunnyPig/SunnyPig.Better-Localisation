@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/opulent/34000_stingray/34000_handler/ds34009_missioncomplete.sweetdialog?/ds34009_missioncomplete_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds34009_missioncomplete_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/opulent/34000_stingray/34000_handler/ds34009_missioncomplete_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/opulent/34000_stingray/34000_handler/ds34009_missioncomplete_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.694566)\\\\That's all we need to do from here.//(2.694566,6.85)\\\\Miss Hall should be able to extract the information needed from the Haven servers.//(6.85,9.54794)\\\\Good work, 47.",
+			"fr": "//(0,2.380614)\\\\C'est tout ce que nous avons à faire pour le moment.//(2.380614,4.957301)\\\\Mademoiselle Hall devrait pouvoir extraire les informations//(4.957301,6.590971)\\\\que nous recherchons des serveurs de Haven.//(6.590971,9.540971)\\\\Beau travail, 47.",
+			"it": "//(0,2.410557)\\\\Il nostro lavoro si conclude qui.//(2.410557,4.3)\\\\La signorina Hall dovrebbe riuscire a estrarre//(4.3,7)\\\\le informazioni necessarie dai server di Haven.//(7,9.166172)\\\\Ottimo lavoro, 47.",
+			"de": "//(0,1.090853)\\\\Das wäre alles,//(1.090853,2.8)\\\\was wir hier erledigen müssen.//(2.8,4.9)\\\\Miss Hall sollte jetzt die benötigten//(4.9,7.2)\\\\Informationen von den Haven-Servern holen können.//(7.2,9.093833)\\\\Gute Arbeit, 47.",
+			"es": "//(0,3)\\\\Eso es todo lo que teníamos que hacer por nuestra parte.//(3,5.333)\\\\La señorita Hall podrá extraer la información//(5.333,7.202)\\\\que necesitamos de los servidores de Haven.//(7.202,11.92675)\\\\Buen trabajo, 47.",
+			"ru": "//(0,2.576893)\\\\Здесь наша работа завершена.//(2.576893,5.251373)\\\\Теперь мисс Холл сможет извлечь нужную нам//(5.251373,7.128265)\\\\информацию с серверов «Гавани».//(7.128265,9.093833)\\\\Молодец, 47-й.",
+			"cn": "//(0,2.7)\\\\我们在这里要办的事已经办完了。//(2.7,32.7)\\\\霍尔女士应该能从海文服务器里提取所需的数据了。干得好，47。",
+			"tc": "//(0,2.6)\\\\我們在這裡的任務已經完成了。//(2.6,9.1)\\\\哈爾女士應該能夠從避風港伺服器中收集資訊。做得好，47。",
+			"jp": "//(0,2.575)\\\\ここでの目的はすべて完了したわ。//(2.575,6.99)\\\\これでミス・ホールが必要な情報をヘイヴンのサーバーから引き出せるはずよ。//(6.99,9.093833)\\\\さすがね、47。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_handler/dr8610_diana.sweetdialog?/dr8610_diana_diana_et_003.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8610_diana_diana_et_003",
+		"soundtag": "Voiceover_Handler",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_handler/dr8610_diana_diana_et_003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_handler/dr8610_diana_diana_et_003.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,1.604294)\\\\Welcome to Colorado.//(1.604294,3.776687)\\\\The target has arrived.//(3.776687,10.5)\\\\Remember, you must identify and eliminate any militia members who visit the target for counseling.//(10.5,16.96393)\\\\Obviously, do not eliminate your main target until you are sure you have identified all of his patients.//(16.96393,46.96393)\\\\Good hunting, 47.",
+			"fr": "//[DIANA]\\\\//(0,2.07)\\\\Bienvenue dans le Colorado.//(2.07,4.2)\\\\La cible est arrivée.//(4.2,10.96)\\\\N'oubliez pas : vous devez identifier et éliminer les membres de la milice qui consultent la cible.//(10.96,17.4)\\\\Évidemment, n'éliminez pas la cible principale tant que vous n'aurez pas identifié tous ses patients.//(17.4,47.4)\\\\Bonne chasse, 47.",
+			"it": "//[DIANA]\\\\//(0,2.004294)\\\\Benvenuto in Colorado.//(2.004294,4.226687)\\\\Il bersaglio è arrivato.//(4.226687,10.83626)\\\\Ricorda, devi identificare ed eliminare tutti i membri della milizia che chiederanno un consulto al bersaglio.//(10.83626,17.31)\\\\Naturalmente, prima di eliminare il bersaglio dovresti assicurarti di aver identificato tutti i pazienti.//(17.31,47.31)\\\\Buona caccia, 47.",
+			"de": "//[DIANA]\\\\//(0,2)\\\\Willkommen in Colorado!//(2,4.3)\\\\Die Zielperson ist eingetroffen.//(4.3,11)\\\\Denken Sie daran: Sie müssen jedes Mitglied der Miliz identifizieren und eliminieren, das mit der Zielperson ein Therapiegespräch führt.//(11,17.4)\\\\Das heißt natürlich auch, dass Sie das Hauptziel erst ausschalten, nachdem Sie alle seine Patienten identifiziert haben.//(17.4,47.4)\\\\Waidmannsheil, 47!",
+			"es": "//[DIANA]\\\\//(0,4.126687)\\\\Bienvenido a Colorado. El objetivo ha llegado.//(4.126687,10.82245)\\\\Recuerda, debes identificar y eliminar a los miembros de la milicia que visiten al objetivo para recibir terapia.//(10.82245,17.318)\\\\Obviamente, no elimines a tu objetivo principal hasta que estés seguro de haber identificado a todos sus pacientes.//(17.318,47.318)\\\\Buena caza, 47.",
+			"ru": "//[DIANA]\\\\//(0,4.3)\\\\Добро пожаловать в Колорадо. Цель на месте.//(4.3,11.1)\\\\Помни, ты должен найти и устранить всех бойцов группировки, которые пришли к Пейну на психологическое консультирование.//(11.1,17.1)\\\\Не устраняй основную цель до тех пор, пока ты не найдешь всех пациентов.//(17.1,47.1)\\\\Доброй охоты, 47-й.",
+			"cn": "//[DIANA]\\\\//(0,1.604294)\\\\欢迎来到科罗拉多。//(1.604294,3.776687)\\\\目标已经抵达当地。//(3.776687,10.5)\\\\记住，你必须辨认并消灭所有曾造访目标那里进行过心理辅导的民兵成员。//(10.5,16.96393)\\\\显然，你将不得抢先消灭你的主要目标，除非你已肯定能够识别出其余的所有病人。//(16.96393,46.96393)\\\\狩猎愉快，47。",
+			"tc": "//[DIANA]\\\\//(0,1.604294)\\\\歡迎來到科羅拉多。//(1.604294,3.776687)\\\\目標已經抵達當地。//(3.776687,10.5)\\\\記住，你必須識別並消滅所有曾造訪目標那裡進行過心理輔導的民兵成員。//(10.5,16.96393)\\\\顯然，你將不得優先消滅你的主要目標，除非你已肯定能夠辨認出其餘的所有病患。//(16.96393,46.96393)\\\\狩獵愉快，47。",
+			"jp": "//[DIANA]\\\\//(0,1.604294)\\\\Welcome to Colorado.//(1.604294,3.776687)\\\\The target has arrived.//(3.776687,10.5)\\\\Remember, you must identify and eliminate any militia members who visit the target for counseling.//(10.5,16.96393)\\\\Obviously, do not eliminate your main target until you are sure you have identified all of his patients.//(16.96393,46.96393)\\\\Good hunting, 47."
+		}
+	}
+}

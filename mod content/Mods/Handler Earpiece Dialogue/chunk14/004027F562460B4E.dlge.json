@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "004027F562460B4E",
+	"DITL": "005CC166F7715F6D",
+	"CLNG": "00063B34B5153AEE",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds20033_sp_maisonidentified_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20033_sp_maisonidentified_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20033_sp_maisonidentified_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\That is Guillaume Maison, The Kingfisher, former Interpol agent and the owner of the mansion and its grounds.",
+			"fr": "//(0,30)\\\\Voici Guillaume Maison, le Martin-pêcheur. Ancien agent d'Interpol, et propriétaire de tout le domaine.",
+			"it": "//(0,30)\\\\Lui è Guillaume Maison, il Martin Pescatore, ex agente dell'Interpol nonché proprietario della villa e dei terreni circostanti.",
+			"de": "//(0,30)\\\\Das ist Guillaume Maison, Der Eisvogel, ehemaliger Interpol-Agent und Besitzer des Herrenhauses und des umliegenden Grundstücks.",
+			"es": "//(0,30)\\\\Ese es Guillaume Maison, Martín Pescador. Antiguo agente de la Interpol y dueño de la mansión y de los terrenos.",
+			"ru": "//(0,30)\\\\Это — ГИЙОМ МЕЗОН, Зимородок. Бывший агент Интерпола, владелец этого особняка и прилегающей территории.",
+			"cn": "//(0,3.228)\\\\那就是吉奥姆·米森，绰号“翠鸟”，//(3.228,33.228)\\\\以前是国际刑警探员，也是这座庄园及周围土地的拥有者。",
+			"tc": "//(0,3.228)\\\\那是紀堯姆．梅森，又名「翠鳥」，//(3.228,33.228)\\\\前任國際刑警與此豪宅和地點的主人。",
+			"jp": "//(0,3.175)\\\\あれはギヨーム・メゾン、別名キングフィッシャー。//(3.175,33.175)\\\\元インターポールのエージェントで、この土地と屋敷の持ち主よ。"
+		}
+	}
+}

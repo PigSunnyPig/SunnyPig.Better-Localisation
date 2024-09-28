@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/miami/21000_flamingo/21000_handler/ds21041_knoxfoodstandcallout.sweetdialog?/ds21041_knoxfoodstandcallout_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds21041_knoxfoodstandcallout_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/miami/21000_flamingo/21000_handler/ds21041_knoxfoodstandcallout_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/miami/21000_flamingo/21000_handler/ds21041_knoxfoodstandcallout_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.749106)\\\\47, Robert Knox is on the move.//(2.749106,4.118542)\\\\If I'm not mistaken,//(4.118542,6.967576)\\\\he's heading down to the bayside food stand selling//(6.967576,8.030687)\\\\coconut balls...",
+			"fr": "//(0,2.6)\\\\47, Robert Knox vient de sortir.//(2.6,3.64)\\\\Sauf erreur de ma part,//(3.64,6.35)\\\\il va vers le stand au bord de la mer qui vend des...//(6.35,9.925276)\\\\boules de coco.",
+			"it": "//(0,2.700593)\\\\47, Robert Knox è in movimento.//(2.700593,5.063476)\\\\Se non vado errata si dirige verso la baia//(5.063476,6.872065)\\\\per andare alla bancarella che vende//(6.872065,8.722065)\\\\palline di cocco.",
+			"de": "//(0,1.938272)\\\\47, Robert Knox ist unterwegs.//(1.938272,3.482665)\\\\Wenn ich mich nicht irre,//(3.482665,6.186946)\\\\ist er auf dem Weg zum Imbiss am Strand,//(6.186946,8.030687)\\\\wo es die Kokoskugeln gibt ...",
+			"es": "//(0,2.560925)\\\\47, Robert Knox se ha puesto en marcha.//(2.560925,3.704891)\\\\Si no me equivoco,//(3.704891,6.61373)\\\\se dirige hacia el puesto de comida de la bahía que//(6.61373,8.030687)\\\\vende bolitas de coco...",
+			"ru": "//(0,2.104162)\\\\47-й, Роберт Нокс вышел.//(2.104162,3.335344)\\\\Если не ошибаюсь,//(3.335344,6.0472)\\\\он идет на побережье к торговой точке,//(6.0472,8.030687)\\\\которая продает кокосовые конфеты...",
+			"cn": "//(0,30)\\\\47，罗伯特·诺克斯正在移动。如果我没弄错的话，他正在前往售卖椰子球的海湾区小吃摊......",
+			"tc": "//(0,30)\\\\47，羅伯特．諾克斯正移動中。如果我沒弄錯的話，他正在前往售賣椰子球的海灣區小吃攤......",
+			"jp": "//(0,2.69)\\\\47、ロバート・ノックスが動き出したわ。//(2.69,3.708098)\\\\私の勘違いじゃなければ、//(3.708098,5.8)\\\\彼はベイサイドのフードスタンドに向かっているわよ。//(5.8,8.030687)\\\\ココナッツボールを買うためにね..."
+		}
+	}
+}

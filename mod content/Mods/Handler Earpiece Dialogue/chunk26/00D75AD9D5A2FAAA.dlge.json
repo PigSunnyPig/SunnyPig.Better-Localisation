@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/italy/12250_white_spider/12250_ebola/12250_handler/ds12256_diana_meeting_started.sweetdialog?/ds12256_diana_meeting_started_diana_ws_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds12256_diana_meeting_started_diana_ws_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/12250_white_spider/12250_ebola/12250_handler/ds12256_diana_meeting_started_diana_ws_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/12250_white_spider/12250_ebola/12250_handler/ds12256_diana_meeting_started_diana_ws_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\47, the targets are heading for their meeting now.",
+			"fr": "//(0,1.740935)\\\\Les cibles se dirigent vers leur point de//(1.740935,2.740935)\\\\rendez-vous, 47.",
+			"it": "//(0,30)\\\\47, i bersagli si stanno recando all'incontro.",
+			"de": "//(0,1.917163)\\\\47, die Zielpersonen sind jetzt unterwegs zu ihrem//(1.917163,2.917163)\\\\Treffen.",
+			"es": "//(0,30)\\\\47, los objetivos se disponen a reunirse.",
+			"ru": "//(0,30)\\\\47-й, цели отправляются на встречу.",
+			"cn": "//(0,30)\\\\47，两名目标正在前往会面地点。",
+			"tc": "//(0,30)\\\\47，兩名目標正在前往會面地點。",
+			"jp": "//(0,30)\\\\ターゲットが 待ち合わせ場所に 向かったわ。"
+		}
+	}
+}

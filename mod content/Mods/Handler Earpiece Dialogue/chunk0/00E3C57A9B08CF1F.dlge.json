@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/tutorial/9000_handler/ds9232_hips.sweetdialog?/ds9232_hips_young_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds9232_hips_young_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/tutorial/9000_handler/ds9232_hips_young_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/tutorial/9000_handler/ds9232_hips_young_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.3)\\\\The target will spot you if you get too close.//(2.3,32.3)\\\\To eavesdrop on his conversation, try and find a way to blend in.",
+			"fr": "//(0,2.412883)\\\\La cible va vous repérer si vous l'approchez trop.//(2.412883,32.41288)\\\\Essayez-vous de vous mêler à la foule pour espionner sa conversation.",
+			"it": "//(0,2.321)\\\\Se ti avvicini troppo, il bersaglio ti noterà.//(2.321,32.321)\\\\Trova un modo per confonderti tra i presenti e origliare la sua conversazione.",
+			"de": "//(0,2.5)\\\\Die Zielperson wird Sie entdecken, wenn Sie sich zu weit nähern.//(2.5,32.5)\\\\Mischen Sie sich irgendwie unter die Leute, um sein Gespräch zu belauschen.",
+			"es": "//(0,2.565)\\\\Si te acercas demasiado, el blanco te detectará.//(2.565,32.565)\\\\Para espiar su conversación, busca una forma de camuflarte.",
+			"ru": "//(0,2.65)\\\\Если подойдешь слишком близко, цель раскроет тебя.//(2.65,32.65)\\\\Чтобы подслушать разговор, попробуй смешаться с толпой.",
+			"cn": "//(0,2.718098)\\\\如果你靠目标太近，就会被识破。//(2.718098,32.7181)\\\\想办法混入人群，然后就能偷听他说话了。",
+			"tc": "//(0,30)\\\\如果你靠目標太近，就會被識破。想辦法混入人群，然後就能偷聽他說話了。",
+			"jp": "//(0,2.1)\\\\ターゲットに近づきすぎると見つかるわ。//(2.1,32.1)\\\\会話を盗み聞きするには、場に溶け込むのよ。"
+		}
+	}
+}

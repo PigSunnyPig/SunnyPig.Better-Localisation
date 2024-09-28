@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8616_sessionscomplete.sweetdialog?/dr8616_sessionscomplete_paine_et_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8616_sessionscomplete_paine_et_001",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8616_sessionscomplete_paine_et_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8616_sessionscomplete_paine_et_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.8)\\\\That’s it. That’s the last of them. That last one wasn’t a patient though.//(4.8,34.8)\\\\Just a bloody fool who didn’t use a condom the last time he was at the local fleshpot.",
+			"fr": "//(0,3.07)\\\\Voilà. C'était le dernier.//(3.07,33.07)\\\\Enfin, le dernier n'était pas un patient. Ce n'était qu'un abruti qui n'avait pas mis de capote lors d'une visite au bordel du coin.",
+			"it": "//(0,4.707)\\\\Bene, quello era l'ultimo. Tra l'altro, non era neanche un vero paziente.//(4.707,34.707)\\\\Solo un maledetto idiota che si è fatto un giro al bordello senza usare il profilattico.",
+			"de": "//(0,3.1)\\\\Das war's. Das war der Letzte.//(3.1,33.1)\\\\Aber der war gar kein Patient, nur ein Idiot, der beim letzten Besuch im Puff kein Kondom benutzt hat.",
+			"es": "//(0,4.76908)\\\\Se acabó. Ese era el último, aunque no era un paciente.//(4.76908,34.76908)\\\\Solo un idiota que no usó un condón la última vez que fue a ese antro de perversión local.",
+			"ru": "//(0,2.690491)\\\\Ну все! Это был последний.//(2.690491,5.04908)\\\\Хотя он и пациентом-то не был.//(5.04908,35.04908)\\\\Просто болван, которые никогда не слышал о презервативах.",
+			"cn": "//(0,4.8)\\\\就是这样，这是当中的最后一个了。不过最后那名却不是病人。//(4.8,34.8)\\\\只是一个该死的蠢货，上回在当地玩女人的时候甚至还不戴套。",
+			"tc": "//(0,4.8)\\\\就是這樣，這是他們中的最後一個了。不過最後那名卻不是病患。//(4.8,34.8)\\\\只是一個該死的傻瓜，上次在當地的紅燈區玩時甚至還沒用保險套。",
+			"jp": "//(0,4.8)\\\\That’s it. That’s the last of them. That last one wasn’t a patient though.//(4.8,34.8)\\\\Just a bloody fool who didn’t use a condom the last time he was at the local fleshpot."
+		}
+	}
+}

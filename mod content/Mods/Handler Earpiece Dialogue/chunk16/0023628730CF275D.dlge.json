@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_skunk/27000_handler/ds27007_missioncomplete.sweetdialog?/ds27007_missioncomplete_diana_003.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds27007_missioncomplete_diana_003",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_skunk/27000_handler/ds27007_missioncomplete_diana_003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_skunk/27000_handler/ds27007_missioncomplete_diana_003.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,30)\\\\You make it sound so easy...",
+			"fr": "//[DIANA]\\\\//(0,30)\\\\Ça a l'air simple, quand vous le dites...",
+			"it": "//[DIANA]\\\\//(0,30)\\\\La fai sembrare così facile...",
+			"de": "//[DIANA]\\\\//(0,30)\\\\Bei Ihnen klingt das alles so einfach ...",
+			"es": "//[DIANA]\\\\//(0,30)\\\\Haces que suene hasta fácil...",
+			"ru": "//[DIANA]\\\\//(0,30)\\\\Можно подумать, всё так легко...",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\你说得可真轻巧。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\你說得可真輕巧。",
+			"jp": "//[DIANA]\\\\//(0,30)\\\\簡単そうに言ってくれるわね..."
+		}
+	}
+}

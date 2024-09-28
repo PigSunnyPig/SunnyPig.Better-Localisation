@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession.sweetdialog?/dr8614_specopssession_paine_et_019.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8614_specopssession_paine_et_019",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession_paine_et_019.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession_paine_et_019.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Sure. Not a problem. Let me know if you want to talk again.",
+			"fr": "//(0,30)\\\\De rien. C'est normal. Contactez-moi si vous voulez me revoir.",
+			"it": "//(0,30)\\\\Sicuro. Nessun problema. Quando vuoi fare due chiacchiere, vieni pure.",
+			"de": "//(0,30)\\\\Gerne. Kein Problem. Sagen Sie's mir, wenn Sie noch mal mit mir reden wollen.",
+			"es": "//(0,30)\\\\Por supuesto. Sin problema. Avísame si quieres hablar otra vez.",
+			"ru": "//(0,30)\\\\Ага. Нет проблем. Дайте знать, если захотите снова поговорить.",
+			"cn": "//(0,30)\\\\当然。没问题。如果你想再聊，告诉我一声。",
+			"tc": "//(0,30)\\\\當然。不是問題。如果您想再次交談，請告訴我。",
+			"jp": "//(0,30)\\\\Sure. Not a problem. Let me know if you want to talk again."
+		}
+	}
+}

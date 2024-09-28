@@ -1,0 +1,125 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "00E602591B7A7A3B",
+	"DITL": "005CC166F7715F6D",
+	"CLNG": "00063B34B5153AEE",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds20038_sp_containsituation_diana_001",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20038_sp_containsituation_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20038_sp_containsituation_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\47, someone's on to you.",
+					"fr": "//(0,30)\\\\Quelqu'un vous a repéré, 47.",
+					"it": "//(0,30)\\\\47, qualcuno è sulle tue tracce.",
+					"de": "//(0,30)\\\\47, jemand ist Ihnen auf der Spur.",
+					"es": "//(0,30)\\\\47, alguien te ha descubierto.",
+					"ru": "//(0,30)\\\\47-й, тебя заметили.",
+					"cn": "//(0,30)\\\\47，有人盯上你了。",
+					"tc": "//(0,30)\\\\47，有人發現你了。",
+					"jp": "//(0,30)\\\\47、気付かれたわよ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds20038_sp_containsituation_diana_002",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20038_sp_containsituation_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20038_sp_containsituation_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\47, the situation is about to get out of hand.",
+					"fr": "//(0,30)\\\\La situation risque de dégénérer, 47.",
+					"it": "//(0,30)\\\\47, la situazione ti sta sfuggendo di mano.",
+					"de": "//(0,30)\\\\47, die Situation läuft aus dem Ruder.",
+					"es": "//(0,30)\\\\47, la situación está a punto de desmadrarse.",
+					"ru": "//(0,30)\\\\47-й, ситуация может выйти из-под контроля.",
+					"cn": "//(0,30)\\\\47，局面很快就要失控了。",
+					"tc": "//(0,30)\\\\47，情況即將脫離掌控。",
+					"jp": "//(0,30)\\\\47、もうすぐ手に負えないことになるわ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds20038_sp_containsituation_diana_003",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20038_sp_containsituation_diana_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20038_sp_containsituation_diana_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\47, you're about to be spotted.",
+					"fr": "//(0,30)\\\\Vous allez vous faire repérer, 47.",
+					"it": "//(0,30)\\\\47, stai per essere scoperto.",
+					"de": "//(0,30)\\\\47, Sie sind kurz davor, entdeckt zu werden.",
+					"es": "//(0,30)\\\\47, están a punto de descubrirte.",
+					"ru": "//(0,30)\\\\47-й, тебя сейчас заметят.",
+					"cn": "//(0,30)\\\\47，你即将被发现。",
+					"tc": "//(0,30)\\\\47，你要被發現了。",
+					"jp": "//(0,30)\\\\47、このままだと見つかるわ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds20038_sp_containsituation_diana_004",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20038_sp_containsituation_diana_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20038_sp_containsituation_diana_004.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\47, the situation is about to become critical.",
+					"fr": "//(0,30)\\\\47, reprenez vite le contrôle de la situation.",
+					"it": "//(0,30)\\\\47, la situazione si sta facendo critica.",
+					"de": "//(0,30)\\\\47, die Situation droht kritisch zu werden.",
+					"es": "//(0,30)\\\\47, la situación está a punto de volverse crítica.",
+					"ru": "//(0,30)\\\\47-й, ситуация может стать критической.",
+					"cn": "//(0,30)\\\\47，局面很快就要失控了。",
+					"tc": "//(0,30)\\\\47，情況即將惡化。",
+					"jp": "//(0,30)\\\\47、このままだと大変なことになるわ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds20038_sp_containsituation_diana_005",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20038_sp_containsituation_diana_005.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20038_sp_containsituation_diana_005.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\47, they're about to raise the alarm.",
+					"fr": "//(0,30)\\\\Ils vont sonner l'alarme, 47.",
+					"it": "//(0,30)\\\\47, stanno per dare l'allarme.",
+					"de": "//(0,30)\\\\47, man will Alarm geben.",
+					"es": "//(0,30)\\\\47, están a punto de dar la alarma.",
+					"ru": "//(0,30)\\\\47-й, они готовятся поднять тревогу.",
+					"cn": "//(0,30)\\\\47，他们即将拉响警报。",
+					"tc": "//(0,30)\\\\47，他們要啟動警報了。",
+					"jp": "//(0,30)\\\\47、警報を鳴らそうとしているわ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds20038_sp_containsituation_diana_006",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20038_sp_containsituation_diana_006.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20038_sp_containsituation_diana_006.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\47, they are beginning to suspect something.",
+					"fr": "//(0,30)\\\\47, ils commencent à se douter de quelque chose.",
+					"it": "//(0,30)\\\\47, cominciano a sospettare qualcosa.",
+					"de": "//(0,30)\\\\47, die scheinen langsam etwas zu vermuten.",
+					"es": "//(0,30)\\\\47, están empezando a sospechar algo.",
+					"ru": "//(0,30)\\\\47-й, они начали что-то подозревать.",
+					"cn": "//(0,30)\\\\47，他们开始起疑心了。",
+					"tc": "//(0,30)\\\\47，他們開始起了疑心。",
+					"jp": "//(0,30)\\\\47、怪しまれてるみたいよ。"
+				}
+			}
+		]
+	}
+}

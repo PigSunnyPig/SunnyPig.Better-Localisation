@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/italy/10000_copperhead/10000_handler/ds10026_qabriefing.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds10026_qabriefing_diana_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/10000_copperhead/10000_handler/ds10026_qabriefing_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/10000_copperhead/10000_handler/ds10026_qabriefing_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,5.317178)\\\\A Q&A session? This could get complicated. A lot of witnesses around.//(5.317178,35.31718)\\\\Then again, a distraction of sorts could create a perfect setup.",
+					"fr": "//(0,1.8)\\\\Une séance de questions-réponses ?//(1.8,5.315)\\\\Ça risque d'être compliqué. Beaucoup de témoins.//(5.315,35.315)\\\\Ceci dit, une diversion pourrait simplifier les choses.",
+					"it": "//(0,1.572393)\\\\Una sessione di domande?//(1.572393,3.176687)\\\\Potrebbe essere complicato.//(3.176687,33.17669)\\\\Ci sono troppi testimoni in giro, ma un diversivo potrebbe fornirci l'occasione ideale.",
+					"de": "//(0,4.894785)\\\\Ein Q&A? Das könnte schwierig werden. Viele Zeugen.//(4.894785,34.89478)\\\\Andererseits, mit einer Ablenkung wäre es die perfekte Gelegenheit.",
+					"es": "//(0,5.05)\\\\¿Una ronda de preguntas? Podría resultar complicado, dada la enorme cantidad de testigos.//(5.05,35.05)\\\\Tal vez una distracción sirva para crear la oportunidad perfecta.",
+					"ru": "//(0,5)\\\\Встреча с поклонниками? Это усложняет задачу. Много свидетелей.//(5,35)\\\\С другой стороны, если правильно отвлечь внимание, открывается прекрасная возможность.",
+					"cn": "//(0,1.58)\\\\问答环节？//(1.58,5.2)\\\\有点麻烦。附近的目击者太多了。//(5.2,35.2)\\\\不过你总可以用分散人群注意力的方式创造绝佳的下手时机。",
+					"tc": "//(0,5)\\\\問答環節？有點麻煩。附近的目擊者太多了。//(5,35)\\\\不過你總可以用分散人群注意力的方式創造絕佳的下手時機。",
+					"jp": "//(0,6.803942)\\\\質疑応答コーナー？ 面倒なことに なりそうね、 目撃者も 多いし。 でも 考えようによっては、//(6.803942,9.719916)\\\\ちょっとした妨害で 完璧な仕掛けが 作れるわね。"
+				}
+			}
+		]
+	}
+}

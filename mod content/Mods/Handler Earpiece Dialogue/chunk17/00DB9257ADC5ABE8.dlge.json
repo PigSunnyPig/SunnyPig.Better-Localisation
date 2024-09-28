@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25111_contractshahbriefingnew.sweetdialog?/ds25111_contractshahbriefingnew_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25111_contractshahbriefingnew_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25111_contractshahbriefingnew_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25111_contractshahbriefingnew_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.560491)\\\\This is certainly interesting, 47.//(2.560491,9.735767)\\\\Dawood Rangan has contracted a hired killer, The Kashmirian, to eliminate Vanya Shah.//(9.735767,12.51626)\\\\Well, with Shah already eliminated,//(12.51626,15.65153)\\\\you should get in touch with Rangan through one of the city’s payphones//(15.65153,18.02822)\\\\and let him know the contract is fulfilled.//(18.02822,21.37301)\\\\Something is bound to come from it.",
+			"fr": "//(0,2.828589)\\\\Voilà qui est très intéressant, 47.//(2.828589,7.513)\\\\Dawood Rangan a engagé un assassin, le Cachemiri,//(7.513,9.722)\\\\pour se débarrasser de Vanya Shah.//(9.722,14.373)\\\\Vu que celle-ci est déjà morte, vous devriez contacter Rangan//(14.373,15.66773)\\\\depuis l'une des cabines téléphoniques de la ville//(15.66773,18.11252)\\\\et le prévenir que le contrat est rempli.//(18.11252,48.11252)\\\\Nous verrons comment il réagit.",
+			"it": "//(0,2.460491)\\\\Questo è molto interessante, 47.//(2.460491,9.5)\\\\Dawood Rangan ha assoldato un killer, il Kashmiro, per uccidere Vanya Shah.//(9.5,15.5)\\\\Beh, ora che Shah è già stata eliminata dovresti usare un telefono pubblico//(15.5,18.54442)\\\\per metterti in contatto con Rangan e informarlo che l'incarico è stato portato a termine.//(18.54442,48.54442)\\\\Vedrai che poi succederà qualcosa.",
+			"de": "//(0,2.66)\\\\Das ist wirklich interessant, 47.//(2.66,5.989)\\\\Dawood Rangan hat einen Auftragsmörder angeworben,//(5.989,9.786)\\\\den Kaschmiri, um Vanya Shah zu eliminieren.//(9.786,12.586)\\\\Da Shah inzwischen eliminiert wurde,//(12.586,14.486)\\\\können Sie sich über ein öffentliches Telefon//(14.486,16.286)\\\\mit Rangan in Verbindung setzen und ihn wissen lassen,//(16.286,18.136)\\\\dass der Auftrag erledigt ist.//(18.136,48.136)\\\\Daraus wird sich sicher etwas ergeben.",
+			"es": "//(0,2.460491)\\\\Esto es muy interesante, 47.//(2.460491,7.5)\\\\Dawood Rangan ha contratado a un asesino, el Cachemir,//(7.5,10)\\\\para que se ocupe de Vanya Shah.//(10,12.15485)\\\\Como Shah ya está fuera de la ecuación,//(12.15485,15.46773)\\\\deberías usar un teléfono público para contactar con Rangan//(15.46773,18.17632)\\\\e informarle del cumplimiento del contrato.//(18.17632,48.17632)\\\\Seguro que sale algo interesante de todo eso.",
+			"ru": "//(0,2.874294)\\\\Весьма любопытно, 47-й.//(2.874294,7.620981)\\\\Давуд Ранжан нанял киллера по кличке Кашмирец,//(7.620981,9.893374)\\\\чтобы убрать Ванью Шах.//(9.893374,12.69337)\\\\Но, поскольку Шах уже мертва,//(12.69337,15.69337)\\\\тебе стоит связаться с Ранжаном по одному из уличных таксофонов//(15.69337,18.19337)\\\\и сообщить, что контракт выполнен.//(18.19337,48.19337)\\\\Это наверняка будет нам на руку.",
+			"cn": "//(0,2.613)\\\\这真是非常有趣，47。//(2.613,9.62)\\\\达伍德·朗甘雇佣了一名职业杀手克什米尔人来消灭瓦妮娅·沙。//(9.62,18.249)\\\\现在瓦妮娅·沙已死，你应该利用市内的公共电话联系朗甘告诉他契约完成。//(18.249,48.249)\\\\这件事肯定还会有后续。",
+			"tc": "//(0,9.768)\\\\看起來有趣可真沒錯，47。達伍德．朗甘找了個殺手，喀什米爾人，要除掉瓦妮婭．沙。//(9.768,17.936)\\\\既然瓦妮婭．沙已出局，你或許可以將那合約當作是你的工作，隨便找一處公共電話打給朗甘。//(17.936,47.936)\\\\有些事的發生都是必然的。",
+			"jp": "//(0,2.53)\\\\これは興味深いわ、47。//(2.53,6.085)\\\\ダウッド・ランガンはヴァーニャ・シャーを排除するために、//(6.085,9.515)\\\\殺し屋のカシミリアンを雇ったみたい。//(9.515,12.62)\\\\シャーはすでに排除されているから、//(12.62,18.15)\\\\街にある公衆電話からランガンに任務完了の報告をしてみるといいわ。//(18.15,48.15)\\\\何か得られるはずよ。"
+		}
+	}
+}

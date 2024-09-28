@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_bull/8000_handler/ds8008_opplimobriefing.sweetdialog?/ds8008_opplimobriefing_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds8008_opplimobriefing_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_bull/8000_handler/ds8008_opplimobriefing_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_bull/8000_handler/ds8008_opplimobriefing_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.62)\\\\A battering ram has injured one of the strike team.//(2.62,4.7)\\\\Point man by the name of Burgess.//(4.7,9.4)\\\\And according to those militiamen, Maya Parvati oversees training. Sounds promising.//(9.4,14.1)\\\\I suggest you infiltrate the strike team, 47. Perhaps you//(14.1,44.1)\\\\can relieve the hapless point man of his duties.",
+			"fr": "//(0,4.75)\\\\Un membre de l'équipe d'assaut a été blessé par un bélier. L'homme de pointe, un certain Burgess.//(4.75,9.25)\\\\Selon les miliciens, Maya Parvati aime superviser l'entraînement.//(9.25,10.87)\\\\Ça tombe bien.//(10.87,13.7)\\\\Vous devriez infiltrer l'équipe d'assaut.//(13.7,43.7)\\\\Vous pourriez remplacer ce pauvre homme de pointe.",
+			"it": "//(0,4.7)\\\\Un ariete da sfondamento ha ferito uno dei membri della squadra d'assalto, il caposquadra Burgess.//(4.7,9)\\\\Secondo quei miliziani, inoltre, Maya Parvati ama supervisionare le sessioni di addestramento.//(9,13.9)\\\\Sembra promettente. Ti suggerisco di infiltrarti nella squadra d'assalto, 47.//(13.9,43.9)\\\\Forse puoi prendere il posto di quello sfortunato caposquadra.",
+			"de": "//(0,4.7)\\\\Eine Ramme hat den Anführer des Strike-Teams verletzt, einen Mann namens Burgess.//(4.7,9.3)\\\\Und laut der Milizionäre überwacht Maya Parvati das Training für gewöhnlich.//(9.3,10.82245)\\\\Klingt vielversprechend.//(10.82245,13.5)\\\\Ich schlage vor, Sie infiltrieren das Strike-Team, 47.//(13.5,43.5)\\\\Vielleicht können Sie den armen Mann ja von seinen Pflichten entbinden.",
+			"es": "//(0,2.7)\\\\Un miliciano del equipo de asalto ha resultado herido con un quitapiedras.//(2.7,6.30908)\\\\El hombre punta en cuestión se llama Burgess, y, según parece,//(6.30908,9.135767)\\\\a Maya Parvati le gusta supervisar los entrenamientos.//(9.135767,14)\\\\Suena prometedor. Te sugiero que te infiltres en el equipo de asalto, 47.//(14,44)\\\\Podrías relevar al pobre hombre de sus funciones.",
+			"ru": "//(0,4.180982)\\\\Таран ранил одного из бойцов ударной группы — стрелка Берджесса.//(4.180982,9)\\\\И, судя по данным от тех бойцов, Майя Парвати любит лично наблюдать за тренировками.//(9,10.85)\\\\Звучит многообещающе.//(10.85,14)\\\\47-й, я рекомендую тебе проникнуть в ударную группу.//(14,44)\\\\Возможно, тебе удастся освободить бедного стрелка от служебных обязанностей.",
+			"cn": "//(0,4.7)\\\\一名突击队员被攻城槌撞伤了。那个尖兵名叫伯吉斯。//(4.7,9)\\\\根据民兵的说法，玛耶·帕尔瓦蒂负责监管训练。//(9,10.65)\\\\听上去很不错。//(10.65,13.5)\\\\我建议你渗透进突击小队，47。//(13.5,43.5)\\\\也许你可以帮助那个倒霉的尖兵提前解脱。",
+			"tc": "//(0,4.6)\\\\一名突擊隊員被破門錘撞傷了。那個前鋒名叫伯吉斯。//(4.6,9)\\\\根據民兵的說法，馬雅．帕爾瓦蒂負責監管訓練。//(9,13.8)\\\\聽起來是機會。我建議你滲透進突擊小隊，47。//(13.8,43.8)\\\\也許你可以幫助那個倒楣的前鋒提前解脫。",
+			"jp": "//(0,6.456635)\\\\バッテリングラムの 事故で、 攻撃部隊の ポイントマンが 負傷したわ。 名前は バージェス。 情報に//(6.456635,14.52743)\\\\よると、 マヤ・ パールバティが 訓練を 指揮して いるようね。 部隊に 潜入して みて。 哀れなポイントマンを、//(14.52743,16.94867)\\\\職務から 解放できるかも しれないわ。"
+		}
+	}
+}

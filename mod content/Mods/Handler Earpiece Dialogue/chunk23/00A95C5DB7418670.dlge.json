@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_bull/8000_story/dr8100_shelteropening.sweetdialog?/dr8100_shelteropening_diana_003.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8100_shelteropening_diana_003",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_bull/8000_story/dr8100_shelteropening_diana_003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_bull/8000_story/dr8100_shelteropening_diana_003.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,4.3)\\\\Sean Rose was not the shadow client. That much is clear.//(4.3,7.8)\\\\Whoever commands the militia, they got out just in time.//(7.8,37.8)\\\\Look around, 47. We're getting closer.",
+			"fr": "//[DIANA]\\\\//(0,3.2)\\\\Le client de l'ombre n'était pas Sean Rose.//(3.2,4.75)\\\\Maintenant, c'est sûr.//(4.75,8.37)\\\\La personne qui contrôle la milice vient de prendre ses jambes à son cou.//(8.37,38.37)\\\\Fouillez tout, 47. Je crois qu'on brûle.",
+			"it": "//[DIANA]\\\\//(0,4.580982)\\\\Sean Rose non era il cliente ombra. Questo è chiaro.//(4.580982,8.268)\\\\Chiunque sia il leader della milizia, è andato via appena in tempo.//(8.268,38.268)\\\\Guardati intorno, 47. Ci stiamo avvicinando.",
+			"de": "//[DIANA]\\\\//(0,3.2)\\\\Sean Rose war nicht der Klient im Schatten.//(3.2,4.8)\\\\So viel steht fest.//(4.8,7.8)\\\\Wer auch immer die Miliz befehligt, ist in letzter Sekunde entwischt.//(7.8,9.6)\\\\Sehen Sie sich um, 47.//(9.6,39.6)\\\\Wir sind auf dem richtigen Weg.",
+			"es": "//[DIANA]\\\\//(0,4.750982)\\\\Sean Rose no era el cliente clandestino; eso está claro.//(4.750982,8.406257)\\\\Quienquiera que sea el que dirige la milicia, se fue justo a tiempo.//(8.406257,9.7)\\\\Estate atento, 47.//(9.7,39.7)\\\\Nos estamos acercando.",
+			"ru": "//[DIANA]\\\\//(0,3.3)\\\\Шон Роуз не был таинственным клиентом.//(3.3,4.8)\\\\Это ясно.//(4.8,8.4)\\\\Кто бы ни был командиром этой группировки, он успел выбраться вовремя.//(8.4,9.8)\\\\Оглядись, 47-й.//(9.8,39.8)\\\\Мы все ближе.",
+			"cn": "//[DIANA]\\\\//(0,4.689)\\\\肖恩·罗斯并不是影子客户。这一点很明确。//(4.689,8.38)\\\\不管是谁在指挥民兵组织，他们的时间抓得不错。//(8.38,38.38)\\\\四处看看，47。我们离目标越来越近了。",
+			"tc": "//[DIANA]\\\\//(0,4.8)\\\\肖恩．羅斯不是影子客戶，這點非常明確。//(4.8,8.2)\\\\無論民兵背後由誰指揮，此人及時逃脫了。//(8.2,38.2)\\\\四處找找，47。我們快找到答案了。",
+			"jp": "//[DIANA]\\\\//(0,6.092103)\\\\ローズは「影の クライアント」じゃ なかった。 これで わかったわね。 この傭兵どもを 逃がした黒幕が//(6.092103,10.4436)\\\\いるのよ。 調べて、 47。 敵は 近いわ。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/bulldog/41000_handler/ds41011_handlermurdermysteryflavor.sweetdialog?/ds41011_handlermurdermysteryflavor_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41011_handlermurdermysteryflavor_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/bulldog/41000_handler/ds41011_handlermurdermysteryflavor_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/bulldog/41000_handler/ds41011_handlermurdermysteryflavor_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,5.405276)\\\\A famous Private Investigator summoned by Alexa Carlisle, has arrived at Thornbridge Manor.//(5.405276,35.40528)\\\\If you take his place, it may be an opportunity to get close to Madam Carlisle...",
+			"fr": "//(0,5.9)\\\\Un célèbre détective privé engagé par Alexa Carlisle est arrivé au manoir Thornbridge.//(5.9,35.9)\\\\Si vous preniez son identité, vous pourriez en profiter pour vous rapprocher de madame Carlisle...",
+			"it": "//(0,5.91)\\\\Alla tenuta Thornbridge è arrivato il famoso investigatore privato convocato da Alexa Carlisle.//(5.91,35.91)\\\\Se tu riuscissi a prendere il suo posto, potresti avere l'occasione di avvicinarti a Madame Carlisle...",
+			"de": "//(0,5.525276)\\\\Ein berühmter Privatdetektiv, den Alexa Carlisle hergerufen hat, ist in Thornbridge Manor eingetroffen.//(5.525276,35.52528)\\\\Wenn Sie seinen Platz einnehmen würden, könnten Sie dicht an Madam Carlisle herankommen.",
+			"es": "//(0,6)\\\\A petición de Alexa Carlisle, ha llegado a la mansión Thornbridge un famoso detective privado.//(6,36)\\\\Si te haces pasar por él, quizás tengas una oportunidad para acercarte a la señora Carlisle.",
+			"ru": "//(0,1.697)\\\\В поместье Торнбридж прибыл знаменитый частный детектив,//(1.697,3.6)\\\\нанятый Алексой Карлайл.//(3.6,7.237669)\\\\Если займешь его место, то, скорее всего,//(7.237669,37.23767)\\\\сможешь подобраться к самой мадам Карлайл.",
+			"cn": "//(0,5.8)\\\\阿莱莎·卡莱尔雇佣的一名著名私人调查员抵达了索布里奇庄园。//(5.8,35.8)\\\\如果你盗用他的身份，就有机会接近卡莱尔夫人......",
+			"tc": "//(0,5.9)\\\\艾力克薩‧卡萊爾找來的知名私家偵探來到了索恩橋庄園。//(5.9,35.9)\\\\如果你取代他，或許你就能找到機會接近卡萊爾女士......",
+			"jp": "//(0,5.9)\\\\アレクサ・カーライルに呼び出された有名な私立探偵がソーンブリッジ・マナーに到着したわ。//(5.9,35.9)\\\\彼に成りすませば、マダム・カーライルに近づくチャンスができるかもしれない..."
+		}
+	}
+}

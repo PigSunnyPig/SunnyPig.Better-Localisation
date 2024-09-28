@@ -1,0 +1,49 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "005E6EAB2B1BDD33",
+	"DITL": "005CC166F7715F6D",
+	"CLNG": "00063B34B5153AEE",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds20010_sp_photographerlang_diana_001",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20010_sp_photographerlang_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20010_sp_photographerlang_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\47, it looks like Dorian Lang is with the couple now. Is he... he's taking their wedding photos using his phone. Well, when in need...",
+					"fr": "//(0,30)\\\\47, on dirait que Dorian Lang est avec le couple en ce moment. ... Il les prend en photo avec son téléphone. Aux grands maux les grands remèdes, j'imagine.",
+					"it": "//(0,30)\\\\47, sembra che Dorian Lang sia con la coppia, ora. Sta... sta scattando le foto del matrimonio con il telefono. Beh, a mali estremi...",
+					"de": "//(0,30)\\\\47, Dorian Lang scheint jetzt beim Brautpaar zu sein. Er ... Er macht ihre Hochzeitsfotos mit seinem Handy. Tja, in der Not frisst der Teufel Fliegen ...",
+					"es": "//(0,30)\\\\47, parece que Dorian Lang está con la pareja ahora mismo. Está... Está haciendo las fotos de boda con el móvil. Bueno, a falta de pan...",
+					"ru": "//(0.15,30.15)\\\\47-й, похоже ДОРИАН ЛЭНГ присоединился к молодоженам. Он... Он снимает их на свой сотовый. Ну что ж, на безрыбье...",
+					"cn": "//(0,30)\\\\47，似乎多利安·朗正在陪伴新人。他......在用自己的手机拍结婚照。呃，这也算一种办法吧。",
+					"tc": "//(0,3.5)\\\\47，看起來多里安．朗正在跟這對小倆口在一起。//(3.5,33.5)\\\\他......他在用手機來拍婚禮照。這，真是牽強......",
+					"jp": "//(0,30)\\\\ドリアン・ラングが一緒だわ。自分の携帯で写真を撮ってるみたい。ないよりはましね..."
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds20010_sp_photographerlang_diana_002",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20010_sp_photographerlang_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20010_sp_photographerlang_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\47, I'm seeing Lang with the couple. It looks like he's taking pictures using his phone. Might be an opportunity for you here.",
+					"fr": "//(0,30)\\\\47, je vois Lang avec le couple. Il les prend en photo avec son téléphone, semble-t-il. Vous pourriez en profiter.",
+					"it": "//(0,30)\\\\47, vedo Lang insieme alla coppia. A quando pare sta scattando le foto con il telefono. Potrebbe essere una buona occasione.",
+					"de": "//(0,30)\\\\47, ich sehe jetzt Lang beim Hochzeitspaar. Es wirkt so, als würde er Bilder mit seinem Handy machen. Das könnte eine Gelegenheit für Sie sein.",
+					"es": "//(0,30)\\\\47, veo a Lang con la pareja. Me parece que les está haciendo fotos con el móvil. Puede que tengas una oportunidad.",
+					"ru": "//(0,30)\\\\47-й, вижу ЛЭНГА рядом с молодоженами. Похоже, он снимает их на свой сотовый. Это может быть подходящим моментом.",
+					"cn": "//(0,30)\\\\47，我看到朗和两位新人在一起。他似乎正在用自己的手机拍照。这也许是你下手的机会。",
+					"tc": "//(0,2.3)\\\\47，我看見了朗跟這對小倆口在一起。//(2.3,32.3)\\\\他似乎在用手機為他們拍照。或許這裡有點機會。",
+					"jp": "//(0,30)\\\\ラングがカップルと一緒だわ。自分の携帯を使って写真を撮ってるみたい。チャンスかもしれないわ。"
+				}
+			}
+		]
+	}
+}

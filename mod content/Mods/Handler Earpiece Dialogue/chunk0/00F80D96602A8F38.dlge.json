@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/tutorial/9000_handler/ds9218_gangway.sweetdialog?/ds9218_gangway_young_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds9218_gangway_young_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/tutorial/9000_handler/ds9218_gangway_young_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/tutorial/9000_handler/ds9218_gangway_young_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.4)\\\\As suspected. Security won’t allow you onboard in your current outfit.//(4.4,34.4)\\\\We should avoid confrontation and look for another way in.",
+			"fr": "//(0,1.254294)\\\\Je m'en doutais.//(1.354294,3.854294)\\\\La sécurité ne vous laissera pas monter à bord dans cette tenue.//(4.45,5.6)\\\\Évitons la confrontation,//(5.6,35.6)\\\\cherchez une autre entrée.",
+			"it": "//(0,4.386)\\\\Come sospettavo... La sicurezza non ti farà salire a bordo con quegli abiti.//(4.386,34.386)\\\\Dovremmo evitare il confronto e cercare un'altra via d'accesso.",
+			"de": "//(0,4.25)\\\\Genau wie befürchtet. Die Security lässt Sie in Ihrem derzeitigen Aufzug nicht an Bord.//(4.25,34.25)\\\\Wir sollten jede Konfrontation vermeiden und nach einem anderen Zugang suchen.",
+			"es": "//(0,1.154294)\\\\Lo que imaginaba.//(1.154294,4.421472)\\\\Los de seguridad no te dejarán subir a bordo con ese atuendo.//(4.421472,34.42147)\\\\Deberíamos evitar enfrentamientos y buscar otra forma de entrar.",
+			"ru": "//(0,1.47)\\\\Как я и думала.//(1.47,4.73)\\\\В этом костюме ты не пройдешь мимо охраны.//(4.73,34.73)\\\\Лучше избежать конфликта и поискать другой вход.",
+			"cn": "//(0,1.168098)\\\\果然不出我所料。//(1.168098,4.418098)\\\\以你现在的装束，安保不会允许你登船。//(4.418098,34.4181)\\\\我们应该避免和他们起正面冲突，并另想办法进入。",
+			"tc": "//(0,30)\\\\果然不出我所料。以你現在的裝束，安保不會允許你登船。我們應該避免和他們起正面衝突，並另想辦法進入。",
+			"jp": "//(0,2.9)\\\\思ったとおり。 その服じゃ、入れてくれないわね。//(2.9,32.9)\\\\ここは事を荒立てずに、他の方法を探しましょう。"
+		}
+	}
+}

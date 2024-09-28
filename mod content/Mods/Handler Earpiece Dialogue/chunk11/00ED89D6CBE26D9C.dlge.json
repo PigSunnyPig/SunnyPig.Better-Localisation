@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32599_sp_reznikovpilotmeetknight.sweetdialog?/ds32599_sp_reznikovpilotmeetknight_knight_mp_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32599_sp_reznikovpilotmeetknight_knight_mp_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32599_sp_reznikovpilotmeetknight_knight_mp_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32599_sp_reznikovpilotmeetknight_knight_mp_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Warden's meeting up with the pilot. Something's about to go down.",
+			"fr": "//(0,30)\\\\Le directeur va retrouver le pilote. Il prépare quelque chose.",
+			"it": "//(0,30)\\\\Il direttore si sta incontrando con il pilota. Sta per succedere qualcosa.",
+			"de": "//(0,30)\\\\Der Gefängnisdirektor trifft sich oben mit dem Piloten. Da passiert gleich was.",
+			"es": "//(0,30)\\\\El alcaide se va a reunir con el piloto. Está a punto de pasar algo.",
+			"ru": "//(0,30)\\\\Начальник тюрьмы встречается с пилотом. Это не к добру.",
+			"cn": "//(0,30)\\\\监狱长正在和飞行员碰头。有事情要发生了。",
+			"tc": "//(0,30)\\\\典獄長正在和飛行員碰面。即將有事要發生了。",
+			"jp": "//(0,30)\\\\所長がパイロットと会ってる。何か進展がありそう。"
+		}
+	}
+}

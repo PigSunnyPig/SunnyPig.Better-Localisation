@@ -1,0 +1,49 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/12500_white_spider/12500_rabies/12500_handler/ds12545_shooting.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds12545_shooting_diana_ws_001",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12545_shooting_diana_ws_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12545_shooting_diana_ws_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\The Target is assigned to fire-arms training. You're looking for a shooter.",
+					"fr": "//(0,30)\\\\La cible est préposée à l'entraînement aux armes à feu. C'est un tireur que vous cherchez.",
+					"it": "//(0,30)\\\\Il bersaglio è addestrato a usare le armi. Stai cercando un tiratore scelto.",
+					"de": "//(0,30)\\\\Die Zielperson absolviert ein Schusswaffentraining. Sie suchen einen Schützen.",
+					"es": "//(0,30)\\\\El objetivo ha sido asignado al entrenamiento con armas de fuego. Buscas a un tirador.",
+					"ru": "//(0,30)\\\\Цель находится на тренировке по стрельбе. Тебе нужен стрелок.",
+					"cn": "//(0,30)\\\\目标奉命进行射击训练。找找射手。",
+					"tc": "//(0,30)\\\\目標奉命進行射擊訓練。找找射手。",
+					"jp": "//(0,30)\\\\ターゲットは 銃の 訓練の 最中よ。 探して みて。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds12545_shooting_diana_ws_003",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12545_shooting_diana_ws_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12545_shooting_diana_ws_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\The Target signed for an assault rifle and several hundred rounds of ammunition. Look for someone shooting.",
+					"fr": "//(0,30)\\\\La cible a demandé un fusil d'assaut et plusieurs centaines de munitions. Cherchez quelqu'un qui tire.",
+					"it": "//(0,30)\\\\Il bersaglio ha prelevato dai magazzini un fucile d'assalto e diverse centinaia di proiettili. Cerca qualcuno intento a sparare.",
+					"de": "//(0,30)\\\\Die Zielperson hat den Erhalt eines Sturmgewehrs und mehrerer Hundert Schuss Munition quittiert. Suchen Sie jemanden, der schießt.",
+					"es": "//(0,30)\\\\El objetivo ha recibido hace poco un rifle de asalto y varios cientos de rondas de munición. Busca a un tirador.",
+					"ru": "//(0,30)\\\\Цель получила в распоряжение автомат и несколько сотен патронов. Ищи того, кто стреляет.",
+					"cn": "//(0,30)\\\\目标手上有一支突击步枪与几百发弹药。找找正在射击的人。",
+					"tc": "//(0,30)\\\\目標手上有一支突擊步槍與幾百發彈藥。找找正在射擊的人。",
+					"jp": "//(0,30)\\\\武器と 弾薬の 伝票に ターゲットの サインが あったわ。 銃を 撃って いる人を 探して。"
+				}
+			}
+		]
+	}
+}

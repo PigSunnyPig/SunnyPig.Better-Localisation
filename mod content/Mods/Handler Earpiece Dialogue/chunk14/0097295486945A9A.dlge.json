@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "0097295486945A9A",
+	"DITL": "005CC166F7715F6D",
+	"CLNG": "00063B34B5153AEE",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds20032_sp_leeidentified_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20032_sp_leeidentified_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20032_sp_leeidentified_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\That is Doris Lee, aka The Goldfinch. Former Hollywood stuntwoman of Cheyenne descent.",
+			"fr": "//(0,30)\\\\C'est Doris Lee, alias le Chardonneret. Cascadeuse hollywoodienne à la retraite, d'origine cheyenne.",
+			"it": "//(0,30)\\\\Lei è Doris Lee, alias il Cardellino. Ex stunt di Hollywood, di discendenza Cheyenne.",
+			"de": "//(0,30)\\\\Das ist Doris Lee, alias Der Goldfink. Eine ehemalige Stuntfrau aus Hollywood mit Cheyenne-Vorfahren.",
+			"es": "//(0,30)\\\\Esa es Doris Lee, alias Jilguero. Descendiente de cheyenes, trabajó como doble en Hollywood.",
+			"ru": "//(0,30)\\\\Это — ДОРИС ЛИ, она же Щегол. Потомок индейцев-шайенов; работала каскадером в Голливуде.",
+			"cn": "//(0,4.15)\\\\那就是朵丽丝·李，绰号“红额金翅”。//(4.15,34.15)\\\\她有夏安族血统，之前是好莱坞的特技替身演员。",
+			"tc": "//(0,4.15)\\\\那是朵麗絲．李，綽號「金翅雀」。//(4.15,34.15)\\\\有夏安人血統的前任好萊塢女替身。",
+			"jp": "//(0,4.21)\\\\あれはドリス・リー。またの名をゴールドフィンチ。//(4.21,34.21)\\\\シャイアン族の血を引く女性で、かつてハリウッドのスタントマンだった。"
+		}
+	}
+}

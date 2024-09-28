@@ -1,0 +1,68 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/12500_white_spider/12500_rabies/12500_handler/ds12521_hintsdone.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds12521_hintsdone_diana_ws_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12521_hintsdone_diana_ws_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12521_hintsdone_diana_ws_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\That's all I can find on this Target, 47. Remember to review your intel. There should be enough information to locate him.",
+					"fr": "//(0,30)\\\\C'est tout ce que je trouve sur la cible, 47. N'oubliez pas de lire les informations, elles devraient suffire à vous permettre de l'identifier.",
+					"it": "//(0,30)\\\\Non trovo altro su questo bersaglio, 47. Esamina attentamente le informazioni. Dovrebbero essere sufficienti a localizzarlo.",
+					"de": "//(0,30)\\\\Mehr finde ich zu diesem Ziel nicht, 47. Gehen Sie Ihre Infos noch mal durch. Sie müssten genügend haben, um ihn zu finden.",
+					"es": "//(0,30)\\\\Esto es todo lo que tengo sobre el objetivo, 47. Acuérdate de revisar la información, debería sobrarte para localizarlo.",
+					"ru": "//(0,30)\\\\Это все, что смогла узнать об этой цели, 47-й. Не забывай проверять полученные данные. Должно хватить, чтобы обнаружить его.",
+					"cn": "//(0,30)\\\\对这个目标我只掌握这么多，47。记得查看你的情报。这些情报应该足够找到他了。",
+					"tc": "//(0,30)\\\\對這個目標我只掌握這麼多，47。記得查看你的情報。這些情報應該足夠找到他了。",
+					"jp": "//(0,30)\\\\このターゲットに関する 情報は 以上よ、 47。 これだけ わかれば 居場所を 突き止められるはず。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds12521_hintsdone_diana_ws_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12521_hintsdone_diana_ws_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12521_hintsdone_diana_ws_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\There's no more information, 47. Review the intel I've found for you so far. You should have enough to ID him.",
+					"fr": "//(0,30)\\\\C'est tout ce que j'ai, 47. Relisez les informations que je vous ai envoyées, elles devraient vous permettre de l'identifier.",
+					"it": "//(0,30)\\\\Non ho altre informazioni, 47. Esamina i dati che ti ho mandato finora. Dovrebbero essere sufficienti a identificarlo.",
+					"de": "//(0,30)\\\\Mehr Informationen gibt es nicht, 47. Gehen Sie die bisherigen Infos noch mal durch. Sie müssten ihn damit identifizieren können.",
+					"es": "//(0,30)\\\\No tengo más información, 47. Revisa la que he encontrado hasta ahora. Debería sobrar para identificarlo.",
+					"ru": "//(0,30)\\\\Эта вся информация, 47-й. Проверь данные, которые я уже отправила. Их должно быть достаточно, чтобы его найти.",
+					"cn": "//(0,30)\\\\没有更多情报了，47。看看我为你找到的情报。应该足够找到它了。",
+					"tc": "//(0,30)\\\\沒有更多情報了，47。看看我為你找到的情報。應該足夠找到它了。",
+					"jp": "//(0,30)\\\\情報は これだけよ、 47。 ターゲットの 特定には 十分の はずよ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds12521_hintsdone_diana_ws_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12521_hintsdone_diana_ws_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12521_hintsdone_diana_ws_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\I can't find anything else, 47. Check your intel. You should have all the info you need to ID the Target now.",
+					"fr": "//(0,30)\\\\Je ne trouve plus rien, 47. Relisez vos informations. Vous devriez en avoir assez pour identifier la cible.",
+					"it": "//(0,30)\\\\Non trovo altro, 47. Controlla i dati. Dovresti avere tutte le informazioni necessarie a identificare il bersaglio.",
+					"de": "//(0,30)\\\\Ich finde sonst nichts mehr, 47. Überprüfen Sie Ihre Infos. Sie müssten jetzt genügend haben, um das Ziel zu identifizieren.",
+					"es": "//(0,30)\\\\No encuentro nada más, 47. Consulta lo que te he dado, ya tienes suficiente información para identificarlo.",
+					"ru": "//(0,30)\\\\Больше ничего не найти, 47-й. Просмотри данные. Там вся информация, необходимая для обнаружения цели.",
+					"cn": "//(0,30)\\\\我找不到其他东西了，47。看看你的情报。你现在应该有足够信息找到目标了。",
+					"tc": "//(0,30)\\\\我找不到其他東西了，47。看看你的情報。你現在應該有足夠資訊找到目標了。",
+					"jp": "//(0,30)\\\\これ以上は わからないわ、 47。 でも、 特定に 必要な情報は 揃って いるはずよ。"
+				}
+			}
+		]
+	}
+}

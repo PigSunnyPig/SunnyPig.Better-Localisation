@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25048_dawoodcontractbriefinghint2.sweetdialog?/ds25048_dawoodcontractbriefinghint2_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25048_dawoodcontractbriefinghint2_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25048_dawoodcontractbriefinghint2_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25048_dawoodcontractbriefinghint2_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.21985)\\\\Well, it looks like your call triggered something//(2.21985,4.248471)\\\\inside the Shah compound.//(4.248471,5.777092)\\\\She's making another call.//(5.777092,7.392479)\\\\One moment, I'll try to patch in.",
+			"fr": "//(0,3.175254)\\\\Votre coup de fil a fait son petit effet chez Shah ;//(3.175254,5.51852)\\\\elle appelle quelqu'un en ce moment même.//(5.51852,7.392479)\\\\Attendez, je vais tenter d'écouter.",
+			"it": "//(0,2.037217)\\\\Sembra che la tua chiamata abbia innescato//(2.037217,3.88769)\\\\qualcosa nel complesso di Shah.//(3.88769,5.447131)\\\\Sta facendo un'altra telefonata.//(5.447131,7.392479)\\\\Un momento, provo a intercettarla.",
+			"de": "//(0,1.566687)\\\\Okay, sieht aus, als hätte Ihr Anruf//(1.566687,4.036819)\\\\etwas auf dem Anwesen von Shah ausgelöst.//(4.036819,5.786819)\\\\Sie ruft jemanden an.//(5.786819,9.765408)\\\\Moment. Ich versuche mal, mich einzuklinken.",
+			"es": "//(0,4.1)\\\\Vaya, parece que tu llamada ha provocado algo dentro de las instalaciones de Shah.//(4.1,5.773374)\\\\Está haciendo otra llamada.//(5.773374,7.392479)\\\\Espera, que voy a intentar pincharla.",
+			"ru": "//(0,1.282351)\\\\Твой звонок, похоже,//(1.282351,3.866131)\\\\вызвал бурную реакцию на базе Шах.//(3.866131,5.747637)\\\\Она собирается кому-то звонить.//(5.747637,7.392479)\\\\Минуточку, попробую подключиться.",
+			"cn": "//(0,30)\\\\看起来，你的电话触动了沙心里的某些东西。她正在打电话给别人。稍等，我看看能不能窃听他们的通话。",
+			"tc": "//(0,4)\\\\看起來，你的電話觸動沙心裡的某些東西。//(4,34)\\\\她正在打電話給別人。稍等，我看看可不可以竊聽他們的通話。",
+			"jp": "//(0,4.22)\\\\どうやら、あなたが電話したことでシャーが動き出したみたい。//(4.22,5.77)\\\\彼女がどこかへ電話しているわ。//(5.77,7.392479)\\\\ちょっと待って、すぐに繋いであげる。"
+		}
+	}
+}

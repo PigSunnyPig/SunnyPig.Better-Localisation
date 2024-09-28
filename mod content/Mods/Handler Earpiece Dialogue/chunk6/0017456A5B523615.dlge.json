@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/rat/43000_handler/ds43008_targetidroyce.sweetdialog?/ds43008_targetidroyce_oliviahall_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds43008_targetidroyce_oliviahall_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/rat/43000_handler/ds43008_targetidroyce_oliviahall_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/rat/43000_handler/ds43008_targetidroyce_oliviahall_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.696687)\\\\That’s Imogen Royce. Quite the bitch, apparently.//(3.696687,33.69669)\\\\Nothing wrong with her look though. Edgy.",
+			"fr": "//(0,30)\\\\Ça, c'est Imogen Royce. Sacrée conne, apparemment. Rien à redire sur son style, par contre. Audacieux.",
+			"it": "//(0,30)\\\\Lei è Imogen Royce. Una bella stronza, a quanto pare. Ma non c'è niente che non va nel suo aspetto. Tagliente.",
+			"de": "//(0,1.672393)\\\\Das ist Imogen Royce.//(1.672393,3.562883)\\\\Anscheinend ein ganz schönes Miststück.//(3.562883,33.56288)\\\\Doch an ihrem Stil gibt es nichts auszusetzen. Ausgefallen.",
+			"es": "//(0,3.3)\\\\Esa es Imogen Royce. Una zorra de mucho cuidado, por lo visto.//(3.8,33.8)\\\\Aunque de aspecto no está mal. Moderna.",
+			"ru": "//(0,1.9)\\\\А вот и Имоджен Ройс.//(1.9,3.8)\\\\Ну и стерва же она, наверное.//(3.8,33.8)\\\\Но выглядит неплохо. Стильно.",
+			"cn": "//(0,3.5)\\\\那人就是伊莫金·罗伊斯。很显然，她是个泼妇。//(3.5,33.5)\\\\不过她的长相倒是没毛病。烦躁不安。",
+			"tc": "//(0,3.6)\\\\那就是伊摩金‧羅伊斯。真是個婊子。//(3.6,33.6)\\\\不過她看起來真不錯，很前衛。",
+			"jp": "//(0,30)\\\\イモジェン・ロイスよ。なかなかキツイ性格をしてるらしい。見た目は悪くないわ。先鋭的っていうの？"
+		}
+	}
+}

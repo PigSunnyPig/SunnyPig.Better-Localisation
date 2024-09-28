@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/golden/gecko/40000_handler/ds40013_assoppreveal.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds40013_assoppreveal_grey_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/gecko/40000_handler/ds40013_assoppreveal_grey_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/gecko/40000_handler/ds40013_assoppreveal_grey_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,3.261252)\\\\Zana Kazem, aka “The Vulture.”//(3.261252,5.101743)\\\\One of the top agents//(5.101743,6.694136)\\\\working for Crystal Dawn,//(6.694136,8.666529)\\\\the Pan-African terrorist organization.//(8.666529,10.94892)\\\\I almost hired him//(10.94892,14.02561)\\\\myself once but chose The Maelstrom instead.//(14.02561,16.48721)\\\\Now, what is his business here?",
+					"fr": "//(0,3.5)\\\\Zana Kazem, dit \"le Vautour\".//(3.5,9.55)\\\\L'un des meilleurs assassins de Crystal Dawn, l'organisation terroriste panafricaine...//(9.55,13.8)\\\\À tel point que j'ai failli l'engager moi-même, avant de finalement choisir le Maelström.//(13.8,16.48721)\\\\La question est : qu'est-ce qu'il vient faire ici ?",
+					"it": "//(0,2.945791)\\\\Zana Kazem, conosciuto come \"l'Avvoltoio\".//(2.945791,9.625)\\\\Uno dei migliori assassini della Crystal Dawn, l'organizzazione terroristica panafricana.//(9.625,13.88)\\\\Stavo per assumerlo una volta, ma alla fine ho scelto Maelstrom.//(13.88,16.48721)\\\\Cos'è venuto a fare qui?",
+					"de": "//(0,3.521772)\\\\Zana Kazem alias „Der Geier“.//(3.521772,4.964739)\\\\Einer der Spitzenattentäter,//(4.964739,6.557132)\\\\der für Crystal Dawn,//(6.557132,9.652748)\\\\die pan-afrikanische Terrororganisation, arbeitet.//(9.652748,11.06195)\\\\Ich hätte ihn fast selbst angeheuert,//(11.06195,13.62247)\\\\habe mich aber für Maelstrom entschieden.//(13.62247,16.48721)\\\\Also, was hat er hier wohl zu tun?",
+					"es": "//(0,3.3)\\\\Zana Kazem, alias «El Buitre».//(3.5,9)\\\\Uno de los mejores asesinos de Crystal Dawn, la organización terrorista panafricana.//(9.5,12.9)\\\\Una vez casi lo contrato, aunque al final me decanté por el Torbellino.//(13.8,16.48721)\\\\¿Qué estará haciendo aquí?",
+					"ru": "//(0,2.710491)\\\\Зейна Казим, он же Гриф.//(2.710491,8.223374)\\\\Один из лучших агентов всеафриканской террористической организации «Хрустальная заря».//(8.223374,12.41055)\\\\Я однажды сам чуть не нанял его, но в итоге выбрал Вихря.//(12.41055,42.41055)\\\\И что он здесь делает?",
+					"cn": "//(0,9.015)\\\\扎纳·卡齐姆，又名“秃鹫”，是为泛非恐怖组织“水晶黎明”工作的顶级特工之一。//(9.015,39.015)\\\\我之前差点把他也拉入伙，但最后还是选择了“大漩涡”。他在这里做什么呢？",
+					"tc": "//(0,3.6)\\\\薩納‧卡斯姆，綽號「禿鷹」。//(3.6,9.4)\\\\他是泛非恐怖主義組織－－水晶黎明的一名頂尖特務。//(9.4,13.8)\\\\我本來差點雇用了他，但是最後還是選擇了大漩渦。//(13.8,43.8)\\\\嗯，他在這裡做什麼？",
+					"jp": "//(0,3.245)\\\\ザナ・カジム、またの名を「禿鷹」。//(3.245,9.165)\\\\パン・アフリカのテロ組織、クリスタル・ドーンのトップエージェントの一人。//(9.165,13.285)\\\\俺自身、奴を雇おうとしたこともあったが、代わりにメイルストロムを使った。//(13.285,43.285)\\\\さて、奴はここへ何しに来たのか？"
+				}
+			}
+		]
+	}
+}

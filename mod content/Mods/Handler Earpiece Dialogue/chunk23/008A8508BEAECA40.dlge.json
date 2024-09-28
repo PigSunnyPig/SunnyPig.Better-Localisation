@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_bull/8000_story/dr8105_icareveal.sweetdialog?/dr8105_icareveal_diana_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8105_icareveal_diana_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_bull/8000_story/dr8105_icareveal_diana_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_bull/8000_story/dr8105_icareveal_diana_002.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,1.56)\\\\Look how far it dates back.//(1.56,5.2)\\\\Hayamoto. Beldingford. D'Alvade.//(5.2,35.2)\\\\The shadow client has been tracking you for decades.",
+			"fr": "//[DIANA]\\\\//(0,5)\\\\Regardez de quand ça date. Hayamoto. Beldingford. D'Alvade.//(5,35)\\\\Le client de l'ombre vous suit depuis des décennies.",
+			"it": "//[DIANA]\\\\//(0,5.5)\\\\Iniziato molto tempo fa. Hayamoto, Beldingford, D'Alvade...//(5.5,35.5)\\\\È come se il cliente ombra ti tenesse d'occhio da decenni.",
+			"de": "//[DIANA]\\\\//(0,1.7)\\\\Sehen Sie, wie weit das zurückreicht.//(1.7,3.1)\\\\Hayamoto.//(3.1,4.2)\\\\Beldingford.//(4.2,5.3)\\\\D'Alvade.//(5.3,35.3)\\\\Der Klient im Schatten beobachtet Sie seit Jahrzehnten.",
+			"es": "//[DIANA]\\\\//(0,5.599)\\\\Mira las fechas... Hayamoto, Beldingford, D'Alvade...//(5.599,35.599)\\\\El cliente clandestino lleva décadas siguiéndote la pista.",
+			"ru": "//[DIANA]\\\\//(0,1.9)\\\\Посмотри, как далеко уходят даты.//(1.9,2.768098)\\\\Хаямото.//(2.768098,4.17)\\\\Белдингфорд.//(4.17,5.63)\\\\Д’Альваде.//(5.63,35.63)\\\\Таинственный клиент следил за тобой десятилетиями.",
+			"cn": "//[DIANA]\\\\//(0,5.601)\\\\看看这要追溯到多久之前。早本。贝丁福德。蒂阿瓦德。//(5.601,35.601)\\\\影子客户一直在追踪你。",
+			"tc": "//[DIANA]\\\\//(0,5.5)\\\\看看這裡有多久以前的紀錄，早本、貝爾丁福德、達爾瓦德，//(5.5,35.5)\\\\影子客戶已經觀察你數十年了。",
+			"jp": "//[DIANA]\\\\//(0,6.484545)\\\\日付を 見て。 ハヤモト。 ベルディングフォード。 ダルバーデ。 「影の クライアント」は 十年以上、 あなたを//(6.484545,8.441916)\\\\追ってた。"
+		}
+	}
+}

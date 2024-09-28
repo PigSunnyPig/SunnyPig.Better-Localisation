@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/miami/21000_flamingo/21000_handler/ds21046_knoxeyedropshint.sweetdialog?/ds21046_knoxeyedropshint_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds21046_knoxeyedropshint_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/miami/21000_flamingo/21000_handler/ds21046_knoxeyedropshint_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/miami/21000_flamingo/21000_handler/ds21046_knoxeyedropshint_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.948589)\\\\Hm, are those eye drops, 47?//(2.948589,6.261472)\\\\Looking over Knox's medical files I see a prescription//(6.261472,9.66391)\\\\for medication for chronic dry eye syndrome.//(9.66391,12.3606)\\\\Apparently, he's sensitive to low humidity areas//(12.3606,15.06919)\\\\like rooms with air conditioning turned//(15.06919,17.15921)\\\\to high, for instance.",
+			"fr": "//(0,3)\\\\Hum, est-ce que c'est du collyre, 47 ?//(3,5.2)\\\\D'après le dossier médical de Knox,//(5.2,7.611717)\\\\ce médicament est prescrit pour soigner//(7.611717,9.5)\\\\la sécheresse oculaire.//(9.5,10.4)\\\\Apparemment,//(10.4,13.15)\\\\il n'aime pas les endroits où le taux d'humidité est faible,//(13.15,15.45)\\\\comme les pièces où la climatisation//(15.45,17.15921)\\\\est trop forte.",
+			"it": "//(0,3.193)\\\\Mmh, quello è un collirio, 47?//(3.193,5.893374)\\\\Nei referti medici di Knox c'è scritto che//(5.893374,9.600027)\\\\gli serve per contrastare la secchezza oculare.//(9.600027,11.36545)\\\\A quanto pare i suoi occhi sono molto sensibili//(11.36545,13.1795)\\\\alle zone con scarsa umidità,//(13.1795,16.01535)\\\\come le stanze con l'aria condizionata troppo forte,//(16.01535,17.15921)\\\\ad esempio.",
+			"de": "//(0,2.880491)\\\\Hm, sind das Augentropfen, 47?//(2.880491,6.777667)\\\\Laut Knox’ Krankenakte hat man ihm etwas gegen//(6.777667,9.49725)\\\\chronisch trockene Augen verschrieben.//(9.49725,11.09884)\\\\Anscheinend ist er empfindlich,//(11.09884,12.57124)\\\\was Umgebungen mit trockener//(12.57124,14.07003)\\\\Luft angeht – zum Beispiel Büros,//(14.07003,17.15921)\\\\in denen man die Klimaanlage voll aufgedreht hat.",
+			"es": "//(0,3.316687)\\\\Mmm, ¿son gotas para los ojos, 47?//(3.316687,5.715858)\\\\Al mirar el expediente médico de Knox,//(5.715858,8.660643)\\\\he visto la receta de un medicamento que//(8.660643,10.57255)\\\\trata el síndrome del ojo seco crónico.//(10.57255,14.01711)\\\\Al parecer, es sensible a los sitios con poca humedad,//(14.01711,17.46189)\\\\como habitaciones con el aire acondicionado a tope.",
+			"ru": "//(0,3.288438)\\\\Хм, 47-й, это что, капли для глаз?//(3.288438,6.506098)\\\\Я посмотрела медкарту Нокса и нашла рецепт на//(6.506098,7.730392)\\\\лекарство, которое назначают//(7.730392,9.68949)\\\\при синдроме сухого глаза.//(9.68949,11.67959)\\\\Похоже, он плохо переносит низкую//(11.67959,14.21973)\\\\влажность воздуха — например, когда кондиционеры//(14.21973,17.15921)\\\\в комнатах включены на полную мощность.",
+			"cn": "//(0,9.637)\\\\嗯，那是眼药水吗，47？我翻了下诺克斯的医疗档案，上面有提到用于治疗慢性眼部干涩的药物处方。//(9.637,17.15921)\\\\很明显，他对低湿度区域很敏感——比如室温较高的屋子。",
+			"tc": "//(0,3.1)\\\\嗯，那是眼藥水嗎，47？//(3.1,9.6)\\\\我翻了下諾克斯的醫療紀錄，上面有提到用於治療慢性眼部乾澀的藥物處方。//(9.6,17.15921)\\\\很明顯，他對低濕度區域很敏感—— 比如空調設定調到高的房間。",
+			"jp": "//(0,2.625)\\\\うーん、それって点眼薬じゃないかしら、47？//(2.625,5.2)\\\\ノックスの医療記録を見ると、//(5.2,9.42)\\\\慢性のドライアイ症候群治療薬の処方箋があるわ。//(9.42,13.149)\\\\どうやら彼は低湿度の場所に敏感のようね。//(13.149,17.15921)\\\\例えば過度に空調が効いた部屋とかね。"
+		}
+	}
+}

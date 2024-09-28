@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8612_sessioncallins.sweetdialog?/dr8612_sessioncallins_troubled_demo_et_006.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8612_sessioncallins_troubled_demo_et_006",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8612_sessioncallins_troubled_demo_et_006.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8612_sessioncallins_troubled_demo_et_006.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.7)\\\\Oh, hello doctor. Aye, I do, yes.//(3.7,33.7)\\\\It's a wee bit personal, though. Aye, I'll be right over then.",
+			"fr": "//(0,1.5)\\\\Oh, bonjour docteur.//(2.5,4.7)\\\\Oui, j'arrive.//(4.7,7.7)\\\\Mais c'est un peu personnel.//(8.34,38.34)\\\\Je suis là dans une seconde.",
+			"it": "//(0,2.224294)\\\\Ah, salve dottore.//(2.224294,4.069)\\\\Certo, assolutamente, sì.//(4.069,8.109)\\\\È una questione piuttosto personale.//(8.109,38.109)\\\\Allora arrivo subito.",
+			"de": "//(0,4.7)\\\\Oh, hallo, Doktor! Ja, absolut, ja.//(4.7,34.7)\\\\Es ist allerdings ziemlich persönlich. Ich bin gleich bei Ihnen.",
+			"es": "//(0,4.088589)\\\\Ah, hola, doctor. Sí, sí, claro.//(4.088589,6.75)\\\\Aunque es un poco personal.//(8.05,38.05)\\\\Vale, voy ahora mismo.",
+			"ru": "//(0,1.3)\\\\О, здравствуйте, доктор.//(2.044294,4.2)\\\\Да, конечно, да.//(4.5,7.2)\\\\Ну, дело немного личное.//(8,38)\\\\Тогда сейчас же подойду.",
+			"cn": "//(0,3.7)\\\\哦，你好，医生。好的，我愿意，是的。//(3.7,33.7)\\\\不过，这有一丁点涉及个人隐私了。好的，我马上就过来。",
+			"tc": "//(0,3.7)\\\\噢，你好，醫生。好的，我願意，是的。//(3.7,33.7)\\\\不過，這有點涉及個人隱私了。好的，我馬上就過去。",
+			"jp": "//(0,3.7)\\\\Oh, hello doctor. Aye, I do, yes.//(3.7,33.7)\\\\It's a wee bit personal, though. Aye, I'll be right over then."
+		}
+	}
+}

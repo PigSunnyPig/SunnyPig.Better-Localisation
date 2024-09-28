@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8613_hackersession.sweetdialog?/dr8613_hackersession_troubled_hacker_et_014.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8613_hackersession_troubled_hacker_et_014",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8613_hackersession_troubled_hacker_et_014.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8613_hackersession_troubled_hacker_et_014.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.432883)\\\\You know, you know you’re right. I’ll do that.//(4.432883,34.43288)\\\\Oh man, thanks doc. I really appreciate it.",
+			"fr": "//(0,5.4)\\\\Je crois que vous avez raison. C'est ce que je vais faire.//(5.4,35.4)\\\\Merci mille fois, doc. Ça m'aide beaucoup.",
+			"it": "//(0,4)\\\\Sì, sì, ha ragione. Farò così.//(5.3,35.3)\\\\Accidenti, grazie dottore. È stato gentile.",
+			"de": "//(0,5.4)\\\\Wissen Sie, Sie haben völlig recht. Das mache ich.//(5.4,35.4)\\\\Oh, Mann, danke, Doc. Sie haben mir sehr geholfen.",
+			"es": "//(0,4.009)\\\\¿Sabe qué? Tiene razón. Eso haré.//(6.109,36.109)\\\\Gracias, doctor. Se lo agradezco de veras.",
+			"ru": "//(0,4.3)\\\\Знаете, пожалуй, вы правы. Так и поступлю.//(5.8,35.8)\\\\Ох, спасибо, доктор. Я вам очень признателен.",
+			"cn": "//(0,4.432883)\\\\你知道，你知道你是对的。我会的。//(4.432883,34.43288)\\\\哦天啊，谢谢医生。真的很感谢你。",
+			"tc": "//(0,4.432883)\\\\你知道，你知道你是對的。我會這麼做的。//(4.432883,34.43288)\\\\噢，夥計，謝謝醫生。我真的很感激。",
+			"jp": "//(0,4.432883)\\\\You know, you know you’re right. I’ll do that.//(4.432883,34.43288)\\\\Oh man, thanks doc. I really appreciate it."
+		}
+	}
+}

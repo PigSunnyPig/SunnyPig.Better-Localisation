@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/evergreen/handler/ed088_ldr1tm.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ed088_ldr1tm_diana_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed088_ldr1tm_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed088_ldr1tm_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Wait, 47. That person seemed suspicious. Some of the tells fit their description. I would dig further, if I were you.",
+					"fr": "//(0,3.156)\\\\Attendez, 47... cette personne est suspecte.//(3.156,5.17)\\\\Elle présente certains des signes distinctifs de la description.//(5.17,35.17)\\\\Essayez d'en savoir un peu plus.",
+					"it": "//(0,3.328589)\\\\Aspetta, 47. Quella persona sembra sospetta.//(3.328589,33.32859)\\\\Alcuni elementi rientrano nella descrizione. Indagherei più a fondo, se fossi in te.",
+					"de": "//(0,1.25)\\\\Halt, 47.//(1.25,3.2)\\\\Diese Person wirkt verdächtig.//(3.2,5.35)\\\\Einige ihrer Erkennungszeichen passen zur Beschreibung.//(5.35,35.35)\\\\Ich würde tiefer graben, wenn ich an Ihrer Stelle wäre.",
+					"es": "//(0,1.356196)\\\\Espera, 47.//(1.356196,3.328589)\\\\Esa persona parecía sospechosa.//(3.328589,5.541472)\\\\Algunos de los rasgos identificadores coinciden con su descripción.//(5.541472,35.54147)\\\\Yo que tú, indagaría un poco más.",
+					"ru": "//(0,2.960491)\\\\Погоди, 47-й. Это подозрительная личность.//(2.960491,5.66908)\\\\Ряд примет совпадает с описанием цели.//(5.66908,35.66908)\\\\Я бы копнула глубже на твоем месте.",
+					"cn": "//(0,5.3)\\\\47，先等等。那人看上去很可疑。有些地方符合他们给出的特征。//(5.3,35.3)\\\\我建议再深入调查一下。",
+					"tc": "//(0,3.1)\\\\等等，47。那個人看起來有點可疑。//(3.1,33.1)\\\\有些符合目標的特徵。我會建議追查下去。",
+					"jp": "//(0,3.168)\\\\待って、47。あの人物は怪しいわ。//(3.168,33.168)\\\\容疑者の情報に当てはまる癖がいくつか見られる。調べてみたらどうかしら。"
+				}
+			}
+		]
+	}
+}

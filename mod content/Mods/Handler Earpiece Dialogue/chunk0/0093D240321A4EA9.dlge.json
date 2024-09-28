@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/golden/40000_elusive/gibson/40500_handler/ds40503_targetescape.sweetdialog?/ds40503_targetescape_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds40503_targetescape_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/40000_elusive/gibson/40500_handler/ds40503_targetescape_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/40000_elusive/gibson/40500_handler/ds40503_targetescape_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Bad timing. One of the elevators has been repaired, and the target's about to leave in it.",
+			"fr": "//(0,30)\\\\Mauvais timing. L'un des ascenseurs a été réparé, et la cible compte l'emprunter pour s'enfuir.",
+			"it": "//(0,30)\\\\Quando si dice la sfortuna. Uno dei due ascensori è stato riparato e il bersaglio vuole usarlo per scappare.",
+			"de": "//(0,30)\\\\Schlechtes Timing. Einer der Aufzüge wurde repariert und das Ziel will gerade damit flüchten.",
+			"es": "//(0,30)\\\\Has medido mal los tiempos. Han arreglado uno de los ascensores y el objetivo está a punto de irse.",
+			"ru": "//(0,30)\\\\Как не вовремя! Один из лифтов починили, и цель намерена уехать на нем.",
+			"cn": "//(0,30)\\\\时机真不巧。一部电梯已经修复，目标打算乘座该电梯离开。",
+			"tc": "//(0,30)\\\\真不巧，一台電梯已經被修好了，而目標馬上就要搭它離開。",
+			"jp": "//(0,30)\\\\タイミングが悪いわ。エレベータのうち1基の修理が終わって、ターゲットはそれで出て行こうとしている。"
+		}
+	}
+}

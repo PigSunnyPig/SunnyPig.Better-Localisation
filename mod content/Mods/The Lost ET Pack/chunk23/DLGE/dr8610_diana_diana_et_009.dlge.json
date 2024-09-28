@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_handler/dr8610_diana.sweetdialog?/dr8610_diana_diana_et_009.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8610_diana_diana_et_009",
+		"soundtag": "Voiceover_Handler",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_handler/dr8610_diana_diana_et_009.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_handler/dr8610_diana_diana_et_009.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,30)\\\\The target is on the move, 47. He has seen all of his patients.",
+			"fr": "//[DIANA]\\\\//(0,30)\\\\La cible est en route, 47. Il a vu tous ses patients.",
+			"it": "//[DIANA]\\\\//(0,30)\\\\Il bersaglio è in movimento. Ha già incontrato tutti i suoi pazienti.",
+			"de": "//[DIANA]\\\\//(0,30)\\\\Das Ziel ist unterwegs, 47. Alle Patienten wurden beraten.",
+			"es": "//[DIANA]\\\\//(0,30)\\\\El objetivo se ha puesto en marcha, 47. Ya ha visitado a todos sus pacientes.",
+			"ru": "//[DIANA]\\\\//(0,30)\\\\Цель находится в движении, 47-й. Он уже проконсультировал всех пациентов.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\目标正在移动，47。他已经给所有病人都看过病了。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\目標正在移動，47。他已經面診過所有病患了。",
+			"jp": "//[DIANA]\\\\//(0,30)\\\\The target is on the move, 47. He has seen all of his patients."
+		}
+	}
+}

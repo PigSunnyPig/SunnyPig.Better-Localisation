@@ -1,0 +1,49 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/12500_white_spider/12500_rabies/12500_handler/ds12569_sick.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds12569_sick_diana_ws_001",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12569_sick_diana_ws_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12569_sick_diana_ws_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Insight has more on the symptoms. Nausea is to be expected. Look for someone throwing up, or sick.",
+					"fr": "//(0,30)\\\\Nous avons de nouvelles informations sur les symptômes. Les nausées sont courantes. Cherchez quelqu'un en train de vomir, ou malade.",
+					"it": "//(0,30)\\\\Stando alle note di Insight, la nausea è uno dei sintomi più frequenti. Cerca qualcuno che manifesti vomito e malessere.",
+					"de": "//(0,30)\\\\Wir wissen jetzt mehr über die Symptome. Übelkeit ist eins davon. Suchen Sie jemanden, der sich übergibt oder krank wirkt.",
+					"es": "//(0,30)\\\\Tenemos algo más sobre los síntomas. Pueden aparecer náuseas, busca a alguien mareado o vomitando.",
+					"ru": "//(0,30)\\\\Есть еще информация о симптомах. Проявляется тошнота. Ищи того, кого рвет или тошнит.",
+					"cn": "//(0,30)\\\\Insight又获取到了症状相关的情报。对象可能会感到恶心。找找有没有在呕吐的人。",
+					"tc": "//(0,30)\\\\慧眼又獲取到了症狀相關的情報。目標可能會感到噁心。找找有沒有在嘔吐的人。",
+					"jp": "//(0,30)\\\\新しい情報よ。 感染者は「吐き気」を 催すみたい。 気分が 悪そうな人を 探して。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds12569_sick_diana_ws_002",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12569_sick_diana_ws_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12569_sick_diana_ws_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,4.417178)\\\\The Doctor's journal indicates the Target is suffering from nausea and vomiting//(4.417178,7.806)\\\\\"due to ongoing collapse of the esophagus.\"//(7.81,37.81)\\\\Look for someone sick, or throwing up... We're doing these people a kindness, 47.",
+					"fr": "//(0,8)\\\\Le journal du docteur indique que la cible souffre de nausées et de vomissements \"dus à la dégradation permanente de l'oesophage\".//(8,38)\\\\Cherchez quelqu'un de malade, en train de vomir... Nous rendons service à ces gens, 47.",
+					"it": "//(0,8)\\\\Stando alla cartella del dottore, il bersaglio soffre di nausea e vomito \"a causa del collasso dell'esofago\".//(8,38)\\\\Cerca qualcuno scosso da conati e malessere addominale... Stiamo facendo un favore a questi poveri diavoli, 47.",
+					"de": "//(0,8)\\\\In den Unterlagen des Doktors steht, dass die Zielperson unter Übelkeit leidet und sich häufig übergibt. \"Aufgrund laufender Auflösung der Speiseröhre.\"//(8,38)\\\\Suchen Sie jemanden, dem schlecht ist oder der sich übergibt ... Wir tun etwas Gutes für diese Leute, 47.",
+					"es": "//(0,8)\\\\El diario del doctor indica que el objetivo sufre náuseas y vómitos \"debido a un colapso persistente del esófago\".//(8,38)\\\\Busca a alguien mareado o vomitando... Estamos haciendo un favor a esta gente, 47.",
+					"ru": "//(0,8)\\\\В записях доктора говорится, что цель мучает тошнота и рвота «вследствие прогрессирующего разрушения пищевода».//(8,38)\\\\Ищи того, кого тошнит или рвет... Мы помогаем этим людям, 47-й.",
+					"cn": "//(0,8)\\\\医生的日志显示出目标表现出反胃症状并“因为食道瓦解”而呕吐。//(8,14.98773)\\\\找找有没有在呕吐的人...我们是在帮这些人脱离苦海，47。",
+					"tc": "//(0,8)\\\\醫生的日誌顯示出目標表現出反胃症狀並「因為食道塌陷而嘔吐。//(8,38)\\\\」尋找感度不適或在嘔吐的人......為們這是在減少他們的痛苦，47。",
+					"jp": "//(0,30)\\\\ドクターの メモに よると、 ターゲットは 吐き気を 催して、 嘔吐して いると 思われる。 「慢性的な食道炎」が 原因だそうよ。 具合が 悪そうな人には 親切に して あげないとね、 47。"
+				}
+			}
+		]
+	}
+}

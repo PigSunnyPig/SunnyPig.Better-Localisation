@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32510_sp_targetheadingforchopper.sweetdialog?/ds32510_sp_targetheadingforchopper_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32510_sp_targetheadingforchopper_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32510_sp_targetheadingforchopper_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32510_sp_targetheadingforchopper_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\47, Reznikov and Khabko are almost at the helicopter. Time is running out.",
+			"fr": "//(0,30)\\\\47, Reznikov et Khabko ont presque atteint l'hélicoptère. Les secondes défilent.",
+			"it": "//(0,30)\\\\47, Reznikov e Khabko hanno quasi raggiunto l'elicottero. Il tempo sta per scadere.",
+			"de": "//(0,30)\\\\47, Reznikov und Khabko sind fast am Helikopter. Die Zeit läuft uns davon.",
+			"es": "//(0,30)\\\\47, Reznikov y Khabko ya casi han llegado al helicóptero. Se acaba el tiempo.",
+			"ru": "//(0,30)\\\\47-й, Резников и Хабко уже почти добрались до вертолета. Время на исходе.",
+			"cn": "//(0,30)\\\\47，列兹尼科夫和卡布科即将登上直升机。时间紧迫。",
+			"tc": "//(0,30)\\\\47，雷茲尼克瓦和卡伯克快要到達直昇機了。快沒時間了。",
+			"jp": "//(0,30)\\\\47、レズニコフとカブコがヘリに乗り込もうとしてる。時間がないわ。"
+		}
+	}
+}

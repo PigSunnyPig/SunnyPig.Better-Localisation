@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/golden/gecko/40000_story/dr40172_greystoryelevatordoorsopen.sweetdialog?/dr40172_greystoryelevatordoorsopen_grey_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr40172_greystoryelevatordoorsopen_grey_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/gecko/40000_story/dr40172_greystoryelevatordoorsopen_grey_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/gecko/40000_story/dr40172_greystoryelevatordoorsopen_grey_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Elevator doors are now open.",
+			"fr": "//(0,30)\\\\Les portes de l'ascenseur sont ouvertes.",
+			"it": "//(0,30)\\\\Le porte dell'ascensore sono aperte.",
+			"de": "//(0,30)\\\\Die Aufzugtüren sind jetzt offen.",
+			"es": "//(0,30)\\\\Las puertas de los ascensores ya están abiertas.",
+			"ru": "//(0,30)\\\\Двери лифта открыты.",
+			"cn": "//(0,30)\\\\电梯门已经开了。",
+			"tc": "//(0,30)\\\\電梯門開啟了。",
+			"jp": "//(0,30)\\\\エレベータの扉が開いたぞ。"
+		}
+	}
+}

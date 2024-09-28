@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8615_demosession.sweetdialog?/dr8615_demosession_troubled_demo_et_004.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8615_demosession_troubled_demo_et_004",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8615_demosession_troubled_demo_et_004.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8615_demosession_troubled_demo_et_004.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.45)\\\\Oh, right. Look, there’s no need to shout!//(2.45,32.45)\\\\Look, I just need to talk about this rash I’ve got.",
+			"fr": "//(0,3.5)\\\\Ah, d'accord. Inutile de hurler !//(3.5,33.5)\\\\Je suis juste là pour vous parler d'une rougeur.",
+			"it": "//(0,2.976687)\\\\Ho capito. Non c'è bisogno di urlare!//(2.976687,32.97669)\\\\Volevo solo parlare con lei dello sfogo cutaneo che ho avuto...",
+			"de": "//(0,30)\\\\Oh, na klar. Sie müssen übrigens nicht schreien! Also, ich habe da diesen Ausschlag ...",
+			"es": "//(0,30)\\\\Ah, vale. ¡No hace falta gritar! Mire, solo quería hablar de este sarpullido que me ha salido.",
+			"ru": "//(0,3.3)\\\\Ах, да. Кричать необязательно!//(3.3,33.3)\\\\Слушайте, я хотел узнать, что это за сыпь?",
+			"cn": "//(0,2.45)\\\\哦，好。你看，没必要大喊大叫的吧！//(2.45,32.45)\\\\听着，我只是想问问我身上的疹子。",
+			"tc": "//(0,2.45)\\\\哦，對了。看吧，沒必要喊！//(2.45,32.45)\\\\聽著，我只想談談我的皮疹。",
+			"jp": "//(0,2.45)\\\\Oh, right. Look, there’s no need to shout!//(2.45,32.45)\\\\Look, I just need to talk about this rash I’ve got."
+		}
+	}
+}

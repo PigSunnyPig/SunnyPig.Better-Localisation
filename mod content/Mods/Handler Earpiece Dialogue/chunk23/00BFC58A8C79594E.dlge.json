@@ -1,0 +1,49 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/12500_white_spider/12500_rabies/12500_handler/ds12567_boxing.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds12567_boxing_diana_ws_001",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12567_boxing_diana_ws_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12567_boxing_diana_ws_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Information indicates the Target is a boxer, or fancies himself one.",
+					"fr": "//(0,30)\\\\Les informations indiquent que la cible est un boxeur, ou voudrait en être un.",
+					"it": "//(0,30)\\\\Le informazioni indicano che il bersaglio è un pugile, o almeno si spaccia per tale.",
+					"de": "//(0,30)\\\\Die Infos deuten darauf hin, dass die Zielperson Boxer ist oder zumindest gerne einer wäre.",
+					"es": "//(0,30)\\\\De acuerdo con la información, el objetivo es un boxeador, o se cree uno.",
+					"ru": "//(0,30)\\\\Судя по данным, наша цель — боксер, или считает себя им.",
+					"cn": "//(0,30)\\\\信息显示出目标是一名拳击手，或这说他自认为是一名拳击手。",
+					"tc": "//(0,30)\\\\資訊顯示出目標是一名拳擊手，或這說他自認為是一名拳擊手。",
+					"jp": "//(0,30)\\\\ターゲットは ボクサー。 もしくは自称ボクサーらしいわ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds12567_boxing_diana_ws_002",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12567_boxing_diana_ws_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12567_boxing_diana_ws_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\The Target is a freestyle fighter. Watch for anyone shadowboxing.",
+					"fr": "//(0,30)\\\\La cible est un boxeur freestyle. Cherchez quelqu'un en train de s'entraîner.",
+					"it": "//(0,30)\\\\Il bersaglio è un lottatore. Cerca qualcuno che si allena con la boxe a vuoto.",
+					"de": "//(0,30)\\\\Die Zielperson ist ein Freestyle-Kämpfer. Suchen Sie jemanden, der Schattenboxen macht.",
+					"es": "//(0,30)\\\\El objetivo es un luchador de estilo libre. Busca a alguien que esté boxeando solo.",
+					"ru": "//(0,30)\\\\Цель — борец вольного стиля. Поищи кого-нибудь, кто ведет бой с тенью.",
+					"cn": "//(0,30)\\\\目标是一名自由搏击手。注意找找打太极拳的人。",
+					"tc": "//(0,30)\\\\目標是一名自由搏擊手。注意找找打太極拳的人。",
+					"jp": "//(0,30)\\\\ターゲットは 格闘家よ。 シャドーボクシングを して いる人、 探して みて。"
+				}
+			}
+		]
+	}
+}

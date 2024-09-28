@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colombia/23000_hippo/23000_handler/ds23029_opphallowedgroundconclusion.sweetdialog?/ds23029_opphallowedgroundconclusion_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds23029_opphallowedgroundconclusion_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colombia/23000_hippo/23000_handler/ds23029_opphallowedgroundconclusion_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colombia/23000_hippo/23000_handler/ds23029_opphallowedgroundconclusion_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.924294)\\\\Nicely done. Looks//(1.924294,4.216125)\\\\like the foreman is going to tour the site and show some of the machinery to Andrea Martinez. This might be your chance, 47.",
+			"fr": "//(0,2.156196)\\\\Impressionnant, 47.//(2.156196,4.216125)\\\\Voilà qui devrait calmer les ouvriers.",
+			"it": "//(0,2.324294)\\\\Davvero incredibile, 47.//(2.324294,3.414785)\\\\Questo dovrebbe spingere i lavoratori//(3.414785,5.164785)\\\\ad allontanarsi.",
+			"de": "//(0,2.224)\\\\Sehr eindrucksvoll, 47.//(2.224,4.216125)\\\\Dadurch sollten sich die Arbeiter zerstreuen.",
+			"es": "//(0,0.920787)\\\\Impresionante,//(0.920787,8.362541)\\\\47. Esto hará que los obreros se dispersen.",
+			"ru": "//(0,30)\\\\Впечатляет, 47-й. Теперь рабочие точно разбегутся.",
+			"cn": "//(0,30)\\\\了不起，47。这样应该能令工人们安心工作了。",
+			"tc": "//(0,30)\\\\了不起，47。這樣應該會讓工人們安心工作。",
+			"jp": "//(0,2.1)\\\\素晴らしいわ、47。//(2.1,32.1)\\\\これで作業員たちは解散するはずだわ。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/marrakech/6000_coup/6000_handler/ds6014_headmasterbriefing.sweetdialog?/ds6014_headmasterbriefing_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds6014_headmasterbriefing_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/6000_coup/6000_handler/ds6014_headmasterbriefing_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/6000_coup/6000_handler/ds6014_headmasterbriefing_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,6)\\\\The old headmaster of the school Zaydan is using as his field HQ lives right above the carpet shop.//(6,10.50528)\\\\According to his son, he kept the school’s master key out of nostalgia.//(10.50528,40.50528)\\\\Supposedly, this opens any lock in the building.",
+			"fr": "//(0,5.99)\\\\L'ancien directeur de l'école que Zaydan utilise comme QG habite au-dessus de la boutique de tapis.//(5.99,10.227)\\\\D'après son fils, il a conservé les clés de l'école par nostalgie.//(10.227,40.227)\\\\C'est un passe-partout qui permet d'ouvrir toutes les portes du bâtiment.",
+			"it": "//(0,6.312)\\\\Il vecchio preside della scuola in cui Zaydan ha allestito il suo quartier generale vive sopra il negozio di tappeti.//(6.312,10.149)\\\\Secondo il figlio, ha conservato il passepartout della scuola per motivi nostalgici.//(10.149,40.149)\\\\A quanto pare, apre ogni serratura dell'edificio.",
+			"de": "//(0,5.9)\\\\Der ehemalige Direktor der Schule, die Zaydan als Hauptquartier nutzt, wohnt über dem Teppichgeschäft.//(5.9,10.5)\\\\Laut seines Sohns hat er den Generalschlüssel der Schule als Erinnerungsstück behalten.//(10.5,40.5)\\\\Dieser Schlüssel öffnet vermutlich sämtliche Schlösser der Schule.",
+			"es": "//(0,4.117178)\\\\El antiguo director de la escuela que Zaydan está utilizando como base//(4.117178,6.111963)\\\\vive justo encima de la tienda de alfombras.//(6.111963,10.33534)\\\\Según su hijo, se quedó con la llave maestra de la escuela como recuerdo.//(10.33534,40.33534)\\\\Supuestamente, abre cualquier cerradura del edificio.",
+			"ru": "//(0,2.816687)\\\\Старый директор школы, в которой расположился Зейдан,//(2.816687,5.525276)\\\\живет прямо над лавкой с коврами.//(5.525276,10.97104)\\\\По словам его сына, директор на память сохранил универсальный ключ от школы.//(10.97104,40.97104)\\\\Он открывает любой замок в здании.",
+			"cn": "//(0,3.968098)\\\\泽丹把战地总部设在了一所学校里，//(3.968098,7.268098)\\\\学校的老校长就住在地毯店的楼上。据校长儿子所说，//(7.268098,37.2681)\\\\校长出于怀旧留着学校的主钥匙。这把钥匙应该能打开楼房里的一切锁。",
+			"tc": "//(0,6.1)\\\\扎伊丹把戰地總部設在了一所學校裡，學校的老校長就住在地毯店的樓上。//(6.1,36.1)\\\\據校長兒子所說，校長出於懷舊留著學校的主鑰匙。這把鑰匙應該能打開樓房裡所有的鎖。",
+			"jp": "//(0,6.501488)\\\\ゼイダンが 本部として 使って いる廃校の 元校長が、 じゅうたんショップの 上に 住んで いるの。//(6.501488,11.5582)\\\\息子に よると、 思い出として 学校の マスターキーを 持ってるらしいわ。 どこにでも//(11.5582,13.52069)\\\\アクセスできるって。"
+		}
+	}
+}

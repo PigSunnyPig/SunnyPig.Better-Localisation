@@ -1,0 +1,49 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/12500_white_spider/12500_rabies/12500_handler/ds12570_raking.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds12570_raking_diana_ws_001",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12570_raking_diana_ws_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12570_raking_diana_ws_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\The Target is on punishment detail, 47. Raking the yard. Should be easy to spot.",
+					"fr": "//(0,30)\\\\La cible est en punition, en train de ratisser la cour. Il devrait être facile à trouver.",
+					"it": "//(0,30)\\\\Il bersaglio sta rastrellando il cortile per scontare una sanzione disciplinare. Penso che lo troverai senza problemi.",
+					"de": "//(0,30)\\\\Die Zielperson hat eine Strafaufgabe erhalten, 47. Er recht den Hof zusammen. Sollte leicht zu finden sein.",
+					"es": "//(0,30)\\\\El objetivo está cumpliendo un castigo, 47. Pasando el rastrillo al jardín. Debería ser un blanco fácil.",
+					"ru": "//(0,30)\\\\Цель в штрафном наряде, 47-й. Убирает граблями двор. Должно быть легко заметить.",
+					"cn": "//(0,30)\\\\目标正在遭受处罚，47。他在打扫院子。应该很好找。",
+					"tc": "//(0,30)\\\\目標正在遭受處罰，47。他在打掃院子。應該很好找。",
+					"jp": "//(0,30)\\\\ターゲットは 罰を 課されて 庭の 落ち葉を 掃いてるいるそうよ。 すぐに 見つかりそうね。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds12570_raking_diana_ws_002",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12570_raking_diana_ws_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12570_raking_diana_ws_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\You're looking for someone raking up leaves, 47. Thankless task.",
+					"fr": "//(0,30)\\\\Cherchez quelqu'un qui ratisse des feuilles, 47. Quelle tâche ingrate...",
+					"it": "//(0,30)\\\\Devi cercare qualcuno intento a rastrellare le foglie, 47. Un compito ingrato.",
+					"de": "//(0,30)\\\\Sie suchen jemanden, der Blätter zusammenrecht, 47. Undankbare Aufgabe.",
+					"es": "//(0,30)\\\\Ahora buscas a alguien recogiendo hojas, 47. Qué tarea más desagradecida.",
+					"ru": "//(0,30)\\\\Твоя цель сгребает листья, 47-й. Неблагодарное занятие.",
+					"cn": "//(0,30)\\\\找找正在打扫叶子的人，47。小菜一碟。",
+					"tc": "//(0,30)\\\\找找正在打掃葉子的人，47。小菜一碟。",
+					"jp": "//(0,30)\\\\落ち葉掃除を して いる人を 探して みて、 47。"
+				}
+			}
+		]
+	}
+}

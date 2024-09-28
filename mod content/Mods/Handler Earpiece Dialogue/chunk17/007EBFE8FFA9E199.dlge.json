@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25094_maelstromnoid5.sweetdialog?/ds25094_maelstromnoid5_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25094_maelstromnoid5_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25094_maelstromnoid5_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25094_maelstromnoid5_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\That wasn't him, no.",
+			"fr": "//(0,30)\\\\Ce n'était pas lui, non.",
+			"it": "//(0,30)\\\\Quello non era lui, no.",
+			"de": "//(0,30)\\\\Das war er nicht, nein.",
+			"es": "//(0,30)\\\\No era ese. No.",
+			"ru": "//(0,30)\\\\Увы, это не он.",
+			"cn": "//(0,30)\\\\那不是他，不。",
+			"tc": "//(0,30)\\\\那不是他，不是。",
+			"jp": "//(0,30)\\\\違うわね、彼じゃないわ。"
+		}
+	}
+}

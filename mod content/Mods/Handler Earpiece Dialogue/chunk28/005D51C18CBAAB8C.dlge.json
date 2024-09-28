@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/rocky/dugong/46000_handler/ds46011_keytwopickup.sweetdialog?/ds46011_keytwopickup_grey_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds46011_keytwopickup_grey_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/rocky/dugong/46000_handler/ds46011_keytwopickup_grey_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/rocky/dugong/46000_handler/ds46011_keytwopickup_grey_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.672)\\\\That's the second keycard.//(1.672,7.803829)\\\\Without these, the control unit is little more than a military-grade paperweight.",
+			"fr": "//(0,30)\\\\C'est la deuxième carte d'accès. Sans ça, l'unité de contrôle ne vaut plus rien.",
+			"it": "//(0,2.055)\\\\Ed ecco la seconda chiave magnetica.//(2.055,32.055)\\\\Senza di queste, l'unità di controllo è praticamente un fermacarte di livello militare.",
+			"de": "//(0,1.95)\\\\Das ist die zweite Schlüsselkarte.//(1.95,31.95)\\\\Ohne sie ist die Steuereinheit kaum mehr als ein Briefbeschwerer, der militärischen Anforderungen genügt.",
+			"es": "//(0,2.15)\\\\Esa es la segunda tarjeta de acceso.//(2.15,32.15)\\\\Sin ellas, la unidad de control es poco más que un pisapapeles de categoría militar.",
+			"ru": "//(0,1.604294)\\\\Это вторая ключ-карта.//(1.604294,31.60429)\\\\Без них блок управления превратится в пресс-папье военного назначения.",
+			"cn": "//(0,30)\\\\那就是第二张钥匙卡。没有这两样东西，控制单元就跟军工级别的压纸器没两样。",
+			"tc": "//(0,30)\\\\那就是第二張鑰匙卡。少了它們，控制裝置就成了軍事等級的垃圾。",
+			"jp": "//(0,30)\\\\それが2枚目のキーカードだ。そいつがないと、コントロールユニットは何の役にも立たない。"
+		}
+	}
+}

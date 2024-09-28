@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/italy/7000_mamba/7000_handler/ds7007_lawyerconclusion.sweetdialog?/ds7007_lawyerconclusion_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds7007_lawyerconclusion_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/7000_mamba/7000_handler/ds7007_lawyerconclusion_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/7000_mamba/7000_handler/ds7007_lawyerconclusion_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Good work, 47. Abiatti will be with you shortly. I dare say this is one negotiation he is going to regret.",
+			"fr": "//(0,3.7)\\\\Beau travail, 47. Abiatti vous rejoindra bientôt.//(3.7,33.7)\\\\Quelque chose me dit que c'est une négociation qu'il va amèrement regretter.",
+			"it": "//(0,3.533)\\\\Complimenti, 47. Tra poco sarai in compagnia di Abiatti.//(3.533,33.533)\\\\Qualcosa mi dice che rimpiangerà di aver intrapreso questa trattativa...",
+			"de": "//(0,3.8)\\\\Gute Arbeit, 47. Abiatti wird in Kürze bei Ihnen sein.//(3.8,33.8)\\\\Ich wage zu behaupten, das wird eine Unterredung, die er bedauern wird.",
+			"es": "//(0,3.814785)\\\\Buen trabajo, 47. Abiatti se reunirá pronto contigo.//(3.814785,33.81479)\\\\Me atrevería a decir que se arrepentirá de esta negociación.",
+			"ru": "//(0,1.57)\\\\Отличная работа, 47-й.//(1.57,3.696687)\\\\Абиатти вскоре будет здесь.//(3.696687,33.69669)\\\\Боюсь, результат переговоров его не обрадует.",
+			"cn": "//(0,3.296)\\\\干得好，47。阿布亚蒂很快就会来见你。//(3.296,33.296)\\\\他肯定会后悔跟你见面的。",
+			"tc": "//(0,30)\\\\幹得好，47。艾比亞迪很快就會來見你。他肯定會後悔跟你見面的。",
+			"jp": "//(0,30)\\\\完璧よ、47。アビアッティが間もなく到着するわ。彼はこの交渉を後悔するでしょうね。"
+		}
+	}
+}

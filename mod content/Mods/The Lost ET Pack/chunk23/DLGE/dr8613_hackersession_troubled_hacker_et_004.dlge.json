@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8613_hackersession.sweetdialog?/dr8613_hackersession_troubled_hacker_et_004.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8613_hackersession_troubled_hacker_et_004",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8613_hackersession_troubled_hacker_et_004.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8613_hackersession_troubled_hacker_et_004.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.3)\\\\So, these ops we’re doing are really... unfocused.//(4.3,34.3)\\\\I mean, there doesn’t seem to be a bigger picture, at least not one that I can see.",
+			"fr": "//(0,4.56)\\\\Euh... Disons que les opérations sont vraiment... désorganisées.//(4.56,34.56)\\\\En fait, on dirait qu'il n'y a pas de but ultime. Ou du moins, je ne le vois pas.",
+			"it": "//(0,4.364785)\\\\Vede, le missioni che ci affidano sono... confuse.//(4.364785,34.36478)\\\\Non sembrano sorrette da una visione d'insieme, o almeno io non la vedo.",
+			"de": "//(0,4.7)\\\\Also, diese Operationen, die wir durchführen, sind irgendwie ... unkoordiniert.//(4.7,34.7)\\\\Es scheint keine größere Perspektive zu geben ... zumindest sehe ich sie nicht.",
+			"es": "//(0,4.432883)\\\\Verá, estas operaciones que estamos realizando son muy... aleatorias.//(4.432883,34.43288)\\\\Quiero decir que no parece que haya un gran plan, o al menos yo no consigo verlo.",
+			"ru": "//(0,4.172884)\\\\В общем, кажется, я недоволен тем, что мы делаем.//(4.172884,34.17288)\\\\Во всем этом, кажется, нет никакого смысла, по крайней мере для меня.",
+			"cn": "//(0,4.3)\\\\所以，我们的这些行动真的......没有重点。//(4.3,34.3)\\\\我的意思是，好像没有什么更大的格局，反正我是看不到。",
+			"tc": "//(0,4.3)\\\\所以，我們正在做的這些操作真的...沒有重點。//(4.3,34.3)\\\\我的意思是，似乎沒有更大的圖景，至少我看不到。",
+			"jp": "//(0,4.3)\\\\So, these ops we’re doing are really... unfocused.//(4.3,34.3)\\\\I mean, there doesn’t seem to be a bigger picture, at least not one that I can see."
+		}
+	}
+}

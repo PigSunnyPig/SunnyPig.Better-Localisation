@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession.sweetdialog?/dr8614_specopssession_paine_et_005.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8614_specopssession_paine_et_005",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession_paine_et_005.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession_paine_et_005.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.4)\\\\Don’t worry about it, Jeffersen. It'll be cleaned out when we’re done,//(3.4,6.2)\\\\and Sean has full faith in me, and the service I provide.//(6.2,36.2)\\\\So sit down, and tell me what’s on your mind.",
+			"fr": "//(0,6.61)\\\\Ne vous inquiétez pas, Jeffersen. Ce sera nettoyé après notre départ. Sean me fait confiance et apprécie mes services.//(6.61,36.61)\\\\Asseyez-vous et dites-moi ce qui vous travaille.",
+			"it": "//(0,3.4)\\\\Non preoccuparti, Jeffersen. Quando avremo finito, sarà ripulita a dovere.//(3.4,33.4)\\\\Sean ha piena fiducia in me e nei servizi che offro, quindi siediti e dimmi cosa ti passa per la mente.",
+			"de": "//(0,2)\\\\Machen Sie sich keine Sorgen, Jeffersen.//(2,6.7)\\\\Wenn wir fertig sind, wird hier sauber gemacht, und außerdem hat Sean volles Vertrauen zu mir und meiner Dienstleistung.//(6.7,36.7)\\\\Also setzen Sie sich und erzählen Sie mir, was Sie beschäftigt.",
+			"es": "//(0,2.092393)\\\\No te preocupes, Jeffersen.//(2.092393,6.516)\\\\Lo limpiarán cuando terminemos, y Sean confía plenamente en mí y en mis servicios.//(6.516,36.516)\\\\Siéntate y dime qué es lo que te preocupa.",
+			"ru": "//(0,6.6)\\\\Не волнуйтесь, Джефферсен. Шон доверяет мне, а когда мы закончим, здесь все уберут.//(6.6,36.6)\\\\Так что устраивайтесь и расскажите мне, что вас тревожит.",
+			"cn": "//(0,3.4)\\\\别担心，杰弗森。我们完事后就会清理干净的，//(3.4,6.2)\\\\肖恩对我以及我提供的服务充满信心。//(6.2,36.2)\\\\所以，坐下来吧，告诉我你在想什么。",
+			"tc": "//(0,3.4)\\\\別擔心，傑佛森。當我們完成後，它會被清理掉，//(3.4,6.2)\\\\肖恩對我和我提供的服務充滿信心。//(6.2,36.2)\\\\所以坐下來，告訴我你在想什麼。",
+			"jp": "//(0,3.4)\\\\Don’t worry about it, Jeffersen. It'll be cleaned out when we’re done,//(3.4,6.2)\\\\and Sean has full faith in me, and the service I provide.//(6.2,36.2)\\\\So sit down, and tell me what’s on your mind."
+		}
+	}
+}

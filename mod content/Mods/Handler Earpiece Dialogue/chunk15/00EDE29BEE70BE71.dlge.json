@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_magpie/29000_handler/ds29050_constantsecuregrey_leave.sweetdialog?/ds29050_constantsecuregrey_leave_grey_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds29050_constantsecuregrey_leave_grey_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_magpie/29000_handler/ds29050_constantsecuregrey_leave_grey_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_magpie/29000_handler/ds29050_constantsecuregrey_leave_grey_001.animset].pc_animset",
+		"languages": {
+			"en": "//[GREY]\\\\//(0,2.43)\\\\Package secure. Returning to base.//(2.43,5.399582)\\\\Have the anesthetic ready. Over.",
+			"fr": "//[GREY]\\\\//(0,1.480563)\\\\Le colis est dans la boîte.//(1.480563,3)\\\\Je rentre à la base.//(3,4.619412)\\\\Préparez les anesthésiants.//(4.619412,5.619412)\\\\Terminé.",
+			"it": "//[GREY]\\\\//(0,1.515)\\\\Il pacco è al sicuro.//(1.515,2.94)\\\\Sto tornando alla base.//(2.94,5.04)\\\\Preparate l'anestetico.//(5.04,6.115)\\\\Passo.",
+			"de": "//[GREY]\\\\//(0,1.003009)\\\\Paket gesichert.//(1.003009,2.603344)\\\\Kehre zur Basis zurück.//(2.603344,4.502341)\\\\Halten Sie die Narkose bereit.//(4.502341,5.502341)\\\\Over.",
+			"es": "//[GREY]\\\\//(0,1.301672)\\\\Paquete a salvo.//(1.301672,2.902006)\\\\Vuelvo a la base.//(2.902006,4.502341)\\\\Tened preparado el anestésico.//(4.502341,5.502341)\\\\Cambio.",
+			"ru": "//[GREY]\\\\//(0,1.565673)\\\\Груз на месте.//(1.565673,3.131346)\\\\Возвращаюсь на базу.//(3.131346,4.337782)\\\\Готовьте анестезию.//(4.337782,5.337782)\\\\Прием.",
+			"cn": "//[GREY]\\\\//(0,30)\\\\包裹已收下。正在返回基地。准备好麻醉药。完毕。",
+			"tc": "//[GREY]\\\\//(0,30)\\\\包裹已收下。正在返回基地。準備好麻醉藥。完畢。",
+			"jp": "//[GREY]\\\\//(0,3)\\\\対象を確保。これより基地へ戻る。//(3,33)\\\\麻酔の用意をしておけ。以上。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32018_sp_bladelilymeet.sweetdialog?/ds32018_sp_bladelilymeet_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32018_sp_bladelilymeet_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32018_sp_bladelilymeet_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32018_sp_bladelilymeet_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Hm, looks like Colonel Noo and Captain Thak are having a meeting of some sort, 47.",
+			"fr": "//(0,30)\\\\Hm, on dirait que le colonel Noo et la capitaine Thak discutent de quelque chose, 47.",
+			"it": "//(0,30)\\\\Uhm, sembra che il colonnello Noo e il capitano Thak siano nel bel mezzo di una riunione, 47.",
+			"de": "//(0,30)\\\\Hm, sieht aus, als hätten Oberst Noo und Hauptmann Thak eine Art Treffen, 47.",
+			"es": "//(0,30)\\\\Vaya, parece que el coronel Noo y la capitana Thak se han reunido, 47.",
+			"ru": "//(0,30)\\\\Хм-м-м. Похоже, у полковника Ну и капитана Так какие-то переговоры, 47-й.",
+			"cn": "//(0,30)\\\\嗯，47，看来诺上校和萨上尉正在进行某种会面。",
+			"tc": "//(0,30)\\\\嗯，看來樓上校和卓上尉正在開某種會議，47。",
+			"jp": "//(0,30)\\\\ヌー大佐とタク大尉が打ち合わせをしているみたいよ、47。"
+		}
+	}
+}

@@ -1,0 +1,1179 @@
+{
+	"tempHash": "00A9B93A825F5BDC",
+	"tbluHash": "005BA5CA6AC00627",
+	"patch": [
+		{ "RemoveEntityByID": "221e95c7e41a1849" },
+		{ "RemoveEntityByID": "9e09b3d1b297c267" },
+		{ "RemoveEntityByID": "94b39db82aa429e6" },
+		{ "RemoveEntityByID": "578beb383ff6f74c" },
+		{ "RemoveEntityByID": "76aa4edfb9111c17" },
+		{ "RemoveEntityByID": "81425d9d63241256" },
+		{ "RemoveEntityByID": "cbe5d3f8cd8de186" },
+		{ "RemoveEntityByID": "cf8d5456464ae43e" },
+		{ "RemoveEntityByID": "3698eb51167538a4" },
+		{ "RemoveEntityByID": "c7b5c64852cbb14b" },
+		{ "RemoveEntityByID": "3819cfb575fe8ca2" },
+		{ "RemoveEntityByID": "24afe5065ec60be9" },
+		{ "RemoveEntityByID": "967d42b5dca51cdf" },
+		{ "RemoveEntityByID": "615f882348e4609a" },
+		{ "RemoveEntityByID": "334b53793707fd1f" },
+		{ "RemoveEntityByID": "3723910065cc3668" },
+		{ "RemoveEntityByID": "b69eab18dc66caec" },
+		{ "RemoveEntityByID": "94faebef7c5ad671" },
+		{ "RemoveEntityByID": "28f5338d225dd4fe" },
+		{ "RemoveEntityByID": "a984359ed540b8cd" },
+		{ "RemoveEntityByID": "3f4f9a47b3f2517e" },
+		{ "RemoveEntityByID": "fa7b3f281954c3a2" },
+		{ "RemoveEntityByID": "f138faf39ae454d3" },
+		{ "RemoveEntityByID": "a831b76862593364" },
+		{ "RemoveEntityByID": "c3b347fec2085081" },
+		{
+			"SubEntityOperation": [
+				"6b92275688a6273a",
+				{
+					"PatchArrayPropertyValue": [
+						"m_Leaders",
+						[
+							{
+								"AddItemAfter": ["d05f552beb7bd129", "cafe5ff1c06fd96d"]
+							},
+							{
+								"AddItemAfter": ["d05f552beb7bd129", "cafe0a45594e2a55"]
+							},
+							{
+								"AddItemAfter": ["d05f552beb7bd129", "cafef2cc588a4063"]
+							},
+							{
+								"AddItemAfter": ["d05f552beb7bd129", "cafed7af3d2b8a13"]
+							},
+							{
+								"AddItemAfter": ["d05f552beb7bd129", "cafe8cc86b5c5c69"]
+							},
+							{
+								"AddItemAfter": ["d05f552beb7bd129", "cafe88880bde771d"]
+							}
+						]
+					]
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"5cd96f12f000a95a",
+				{
+					"PatchArrayPropertyValue": [
+						"m_Leaders",
+						[
+							{
+								"AddItemAfter": ["a74e3b47d73c4fc4", "cafe180ce6adc19c"]
+							},
+							{
+								"AddItemAfter": ["a74e3b47d73c4fc4", "cafe9341a69be79a"]
+							},
+							{
+								"AddItemAfter": ["a74e3b47d73c4fc4", "cafe46d5783ecd09"]
+							},
+							{
+								"AddItemAfter": ["a74e3b47d73c4fc4", "cafe4c11f7c82aa6"]
+							},
+							{
+								"AddItemAfter": ["a74e3b47d73c4fc4", "cafe945dc5f17fee"]
+							},
+							{
+								"AddItemAfter": ["a74e3b47d73c4fc4", "cafe7172056af9d8"]
+							},
+							{
+								"AddItemAfter": ["a74e3b47d73c4fc4", "cafeca699bcb99a6"]
+							}
+						]
+					]
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"60431df2d3aafe0d",
+				{
+					"PatchArrayPropertyValue": [
+						"m_Leaders",
+						[
+							{ "RemoveItemByValue": "c7b5c64852cbb14b" },
+							{ "RemoveItemByValue": "cf8d5456464ae43e" },
+							{ "RemoveItemByValue": "f138faf39ae454d3" },
+							{ "RemoveItemByValue": "24afe5065ec60be9" },
+							{ "RemoveItemByValue": "94faebef7c5ad671" },
+							{ "RemoveItemByValue": "28f5338d225dd4fe" },
+							{ "RemoveItemByValue": "b69eab18dc66caec" },
+							{ "RemoveItemByValue": "c3b347fec2085081" },
+							{ "RemoveItemByValue": "94b39db82aa429e6" },
+							{ "RemoveItemByValue": "967d42b5dca51cdf" },
+							{ "RemoveItemByValue": "fa7b3f281954c3a2" },
+							{ "RemoveItemByValue": "a984359ed540b8cd" },
+							{ "RemoveItemByValue": "3f4f9a47b3f2517e" },
+							{ "RemoveItemByValue": "76aa4edfb9111c17" }
+						]
+					]
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"e3d58f4f87e2d098",
+				{
+					"PatchArrayPropertyValue": [
+						"m_Leaders",
+						[
+							{
+								"AddItemAfter": ["8731fb54d6d05dfc", "cafe72fca042d54a"]
+							},
+							{
+								"AddItemAfter": ["8731fb54d6d05dfc", "cafe75cce54f4d22"]
+							}
+						]
+					]
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"6339dc4885aaad47",
+				{
+					"PatchArrayPropertyValue": [
+						"m_Leaders",
+						[
+							{ "RemoveItemByValue": "3698eb51167538a4" },
+							{ "RemoveItemByValue": "221e95c7e41a1849" },
+							{ "RemoveItemByValue": "a831b76862593364" },
+							{ "RemoveItemByValue": "334b53793707fd1f" },
+							{ "RemoveItemByValue": "615f882348e4609a" },
+							{ "RemoveItemByValue": "3723910065cc3668" },
+							{ "RemoveItemByValue": "9e09b3d1b297c267" },
+							{ "RemoveItemByValue": "578beb383ff6f74c" },
+							{ "RemoveItemByValue": "3819cfb575fe8ca2" },
+							{
+								"AddItemAfter": ["646c106f91c570d5", "cafec4b5135ffafe"]
+							},
+							{
+								"AddItemAfter": ["646c106f91c570d5", "cafe8e88b48de825"]
+							},
+							{
+								"AddItemAfter": ["646c106f91c570d5", "cafe6ab557844629"]
+							},
+							{
+								"AddItemAfter": ["646c106f91c570d5", "cafe0f05a3b5d0da"]
+							},
+							{
+								"AddItemAfter": ["646c106f91c570d5", "cafe419f896bbbd1"]
+							},
+							{
+								"AddItemAfter": ["646c106f91c570d5", "cafe6ffdb73031ab"]
+							},
+							{
+								"AddItemAfter": ["646c106f91c570d5", "cafe705147001e34"]
+							},
+							{
+								"AddItemAfter": ["646c106f91c570d5", "cafe1727e16ec8ca"]
+							},
+							{
+								"AddItemAfter": ["646c106f91c570d5", "cafee66ce7ecdc73"]
+							},
+							{
+								"AddItemAfter": ["646c106f91c570d5", "cafeaf68b95feb07"]
+							}
+						]
+					]
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"b709134d1407f05a",
+				{
+					"PatchArrayPropertyValue": [
+						"m_Leaders",
+						[
+							{
+								"AddItemAfter": ["c4e3e5662e52618f", "cafe1013e75a5240"]
+							},
+							{
+								"AddItemAfter": ["c4e3e5662e52618f", "cafed11548341ef2"]
+							}
+						]
+					]
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"ed693e64437ec084",
+				{
+					"PatchArrayPropertyValue": [
+						"m_Leaders",
+						[
+							{ "RemoveItemByValue": "81425d9d63241256" },
+							{
+								"AddItemAfter": ["e478bb3b1c2d843a", "cafe0619bc8a9cfe"]
+							},
+							{
+								"AddItemAfter": ["e478bb3b1c2d843a", "cafea4cb00d88132"]
+							},
+							{
+								"AddItemAfter": ["e478bb3b1c2d843a", "cafed68ffc0968e8"]
+							},
+							{
+								"AddItemAfter": ["e478bb3b1c2d843a", "cafedca308a845c9"]
+							},
+							{
+								"AddItemAfter": ["e478bb3b1c2d843a", "cafee25dbd1fc900"]
+							},
+							{
+								"AddItemAfter": ["e478bb3b1c2d843a", "cafeef5d704be802"]
+							},
+							{
+								"AddItemAfter": ["e478bb3b1c2d843a", "cafe0c00c099d3f5"]
+							},
+							{
+								"AddItemAfter": ["e478bb3b1c2d843a", "cafec52793626187"]
+							},
+							{
+								"AddItemAfter": ["e478bb3b1c2d843a", "cafe3c495d1b3a94"]
+							},
+							{
+								"AddItemAfter": ["e478bb3b1c2d843a", "cafe0a844f28a4f5"]
+							},
+							{
+								"AddItemAfter": ["e478bb3b1c2d843a", "cafe3d6cf5b7a3b8"]
+							},
+							{
+								"AddItemAfter": ["e478bb3b1c2d843a", "cafeade2db3ad43f"]
+							},
+							{
+								"AddItemAfter": ["e478bb3b1c2d843a", "cafe440f63ab0a99"]
+							}
+						]
+					]
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"b00df24c1bcee461",
+				{
+					"PatchArrayPropertyValue": [
+						"m_Leaders",
+						[
+							{ "RemoveItemByValue": "cbe5d3f8cd8de186" },
+							{
+								"AddItemAfter": ["5c1bf81fc2806fb2", "cafe580bc1833868"]
+							},
+							{
+								"AddItemAfter": ["5c1bf81fc2806fb2", "cafee1ffd9db0dec"]
+							},
+							{
+								"AddItemAfter": ["5c1bf81fc2806fb2", "cafe81004cd3be1c"]
+							},
+							{
+								"AddItemAfter": ["5c1bf81fc2806fb2", "cafe16b54a8466e9"]
+							}
+						]
+					]
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe81004cd3be1c",
+				{
+					"parent": "b00df24c1bcee461",
+					"name": "LeaderName_Cerberus",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "00DA60D978A2E052",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafedca308a845c9",
+				{
+					"parent": "ed693e64437ec084",
+					"name": "LeaderName_TheGamemaster",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "006D9E3EBF17FE3C",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafeca699bcb99a6",
+				{
+					"parent": "5cd96f12f000a95a",
+					"name": "LeaderName_Chronos",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "00175163424E35F2",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe945dc5f17fee",
+				{
+					"parent": "5cd96f12f000a95a",
+					"name": "LeaderName_Crimetype08_02",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "00F10F5BBA4ABCBB",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe440f63ab0a99",
+				{
+					"parent": "ed693e64437ec084",
+					"name": "LeaderName_Crimetype04_002",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "00B0EE7851E8AAF3",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafeaf68b95feb07",
+				{
+					"parent": "6339dc4885aaad47",
+					"name": "LeaderName_Crimetype07_012",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "0086150A52280CE7",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe46d5783ecd09",
+				{
+					"parent": "5cd96f12f000a95a",
+					"name": "LeaderName_TheDisrupter",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "00B8CF5956D7886E",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafeef5d704be802",
+				{
+					"parent": "ed693e64437ec084",
+					"name": "LeaderName_TheDeceiver",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "00EEEF2936831437",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafee25dbd1fc900",
+				{
+					"parent": "ed693e64437ec084",
+					"name": "LeaderName_TheDissembler",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "00BC5C929CD2424A",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe3c495d1b3a94",
+				{
+					"parent": "ed693e64437ec084",
+					"name": "LeaderName_Crimetype04_009",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "00DAF1CBF6D9D24B",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe3d6cf5b7a3b8",
+				{
+					"parent": "ed693e64437ec084",
+					"name": "LeaderName_Crimetype04_005",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "0008E0FBBDC5DD5B",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafed68ffc0968e8",
+				{
+					"parent": "ed693e64437ec084",
+					"name": "LeaderName_TheImpostor",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "009964E74F5A773D",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe6ab557844629",
+				{
+					"parent": "6339dc4885aaad47",
+					"name": "LeaderName_TheMalevolent",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "00D86651E927357F",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe0a844f28a4f5",
+				{
+					"parent": "ed693e64437ec084",
+					"name": "LeaderName_Crimetype04_008",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "00E7E1665F53B3B9",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe0f05a3b5d0da",
+				{
+					"parent": "6339dc4885aaad47",
+					"name": "LeaderName_TheInitiator",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "00A83BE4B59206B7",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafea4cb00d88132",
+				{
+					"parent": "ed693e64437ec084",
+					"name": "LeaderName_TheManipulator",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "006BF9EB20B864CF",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe0619bc8a9cfe",
+				{
+					"parent": "ed693e64437ec084",
+					"name": "LeaderName_TheMask",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "001F9523862E09C1",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe16b54a8466e9",
+				{
+					"parent": "b00df24c1bcee461",
+					"name": "LeaderName_Crimetype04_006",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "00317611C0D958F6",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafec4b5135ffafe",
+				{
+					"parent": "6339dc4885aaad47",
+					"name": "LeaderName_TheWhisperer",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "002F0AD948662BE8",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafec52793626187",
+				{
+					"parent": "ed693e64437ec084",
+					"name": "LeaderName_Crimetype06_010",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "00B2D8FB4B2B1AF5",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe7172056af9d8",
+				{
+					"parent": "5cd96f12f000a95a",
+					"name": "LeaderName_Crimetype04_010",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "009ACE34CCD1EAF2",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe580bc1833868",
+				{
+					"parent": "b00df24c1bcee461",
+					"name": "LeaderName_ThePeacock",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "003C29061671DDC6",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe9341a69be79a",
+				{
+					"parent": "5cd96f12f000a95a",
+					"name": "LeaderName_ThePirate",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "00828BB60E920199",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe0c00c099d3f5",
+				{
+					"parent": "ed693e64437ec084",
+					"name": "LeaderName_Crimetype06_012",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "00F8C3C435633DC2",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafee1ffd9db0dec",
+				{
+					"parent": "b00df24c1bcee461",
+					"name": "LeaderName_Crimetype07_016",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "0050916435C1A62C",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe4c11f7c82aa6",
+				{
+					"parent": "5cd96f12f000a95a",
+					"name": "LeaderName_Crimetype08_010",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "000F550E1B3E5D6B",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe72fca042d54a",
+				{
+					"parent": "e3d58f4f87e2d098",
+					"name": "LeaderName_Crimetype08_014",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "00B30C395D6A1835",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafed11548341ef2",
+				{
+					"parent": "b709134d1407f05a",
+					"name": "LeaderName_Crimetype10_005",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "008DBA997F53526C",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe0a45594e2a55",
+				{
+					"parent": "6b92275688a6273a",
+					"name": "LeaderName_TheScammer",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "001772CF0229F8A6",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe75cce54f4d22",
+				{
+					"parent": "e3d58f4f87e2d098",
+					"name": "LeaderName_Crimetype07_003",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "000F19FDF6AE5199",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe88880bde771d",
+				{
+					"parent": "6b92275688a6273a",
+					"name": "LeaderName_Crimetype08_007",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "0063F92E8B875F0E",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe8cc86b5c5c69",
+				{
+					"parent": "6b92275688a6273a",
+					"name": "LeaderName_Crimetype08_009",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "0056A1BA7B4F2D5E",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe180ce6adc19c",
+				{
+					"parent": "5cd96f12f000a95a",
+					"name": "LeaderName_TheSquid",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "0000D5627BE6B712",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafeade2db3ad43f",
+				{
+					"parent": "ed693e64437ec084",
+					"name": "LeaderName_Crimetype04_004",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "007EDCFBF26DFDDF",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafee66ce7ecdc73",
+				{
+					"parent": "6339dc4885aaad47",
+					"name": "LeaderName_Crimetype10_002",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "0057C68AEACF114E",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe1727e16ec8ca",
+				{
+					"parent": "6339dc4885aaad47",
+					"name": "LeaderName_Crimetype10_004",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "004DA8A9670040EC",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafed7af3d2b8a13",
+				{
+					"parent": "6b92275688a6273a",
+					"name": "LeaderName_Crimetype10_006",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "005E42F042BBCC71",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe705147001e34",
+				{
+					"parent": "6339dc4885aaad47",
+					"name": "LeaderName_Crimetype10_007",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "004063CFB8C995B1",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe6ffdb73031ab",
+				{
+					"parent": "6339dc4885aaad47",
+					"name": "LeaderName_Crimetype10_010",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "00AA6E39332D5E85",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe419f896bbbd1",
+				{
+					"parent": "6339dc4885aaad47",
+					"name": "LeaderName_Crimetype10_011",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "0092E70AB02F99CC",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafef2cc588a4063",
+				{
+					"parent": "6b92275688a6273a",
+					"name": "LeaderName_Crimetype10_008",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "00B27BB9E2D9AABC",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe1013e75a5240",
+				{
+					"parent": "b709134d1407f05a",
+					"name": "LeaderName_TheVulture",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "005F717DF7F67672",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe8e88b48de825",
+				{
+					"parent": "6339dc4885aaad47",
+					"name": "LeaderName_TheMindSpider",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "0064284A5B21F477",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe5ff1c06fd96d",
+				{
+					"parent": "6b92275688a6273a",
+					"name": "LeaderName_TheLotusConnection",
+					"factory": "[modules:/zevergreencampaigntext.class].pc_entitytype",
+					"blueprint": "[modules:/zevergreencampaigntext.class].pc_entityblueprint",
+					"properties": {
+						"m_Textline": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "00BC21263FE65249",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddComment": {
+				"parent": "cafedca308a845c9",
+				"name": "Notes",
+				"text": "chessmaster type (sick games is overpopulated)"
+			}
+		},
+		{
+			"AddComment": {
+				"parent": "cafed68ffc0968e8",
+				"name": "Notes",
+				"text": "lmao SUS hahahahhahahhahahahhahahaahhahahhahahahahahsdvjkvhzaickiAZ"
+			}
+		}
+	],
+	"patchVersion": 6
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8613_hackersession.sweetdialog?/dr8613_hackersession_paine_et_005.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8613_hackersession_paine_et_005",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8613_hackersession_paine_et_005.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8613_hackersession_paine_et_005.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Unfocused? Due to the targets you’re engaging? What were you expecting?",
+			"fr": "//(0,3.6)\\\\Désorganisées ? À cause des cibles que vous visez ?//(3.6,33.6)\\\\À quoi vous attendiez-vous ?",
+			"it": "//(0,30)\\\\Confuse? Ti riferisci alle tipologie di bersaglio? Cosa ti aspettavi?",
+			"de": "//(0,30)\\\\Unkoordiniert? Wegen der Ziele, die Sie angreifen? Was hatten Sie erwartet?",
+			"es": "//(0,30)\\\\¿Aleatorias? ¿Por los objetivos a los que os enfrentáis? ¿Qué es lo que esperabas?",
+			"ru": "//(0,30)\\\\Нет смысла? Проблема в целях, которые перед вами ставят? А чего бы вы хотели?",
+			"cn": "//(0,30)\\\\精神不集中？由于你所接触的目标？你在期待什么？",
+			"tc": "//(0,30)\\\\注意力不集中？由於你所接觸的目標？你在期待什麼？",
+			"jp": "//(0,30)\\\\Unfocused? Due to the targets you’re engaging? What were you expecting?"
+		}
+	}
+}

@@ -1,0 +1,68 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "002899AF25DEEBF5",
+	"DITL": "005CC166F7715F6D",
+	"CLNG": "00063B34B5153AEE",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds20027_sp_accidentkill_diana_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20027_sp_accidentkill_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20027_sp_accidentkill_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\That's impressive, 47.",
+					"fr": "//(0,30)\\\\Très impressionnant, 47.",
+					"it": "//(0,30)\\\\Davvero notevole, 47.",
+					"de": "//(0,30)\\\\Das ist beeindruckend, 47.",
+					"es": "//(0,30)\\\\Impresionante, 47.",
+					"ru": "//(0,30)\\\\Впечатляет, 47-й.",
+					"cn": "//(0,30)\\\\了不起，47。",
+					"tc": "//(0,30)\\\\真是令人佩服。47。",
+					"jp": "//(0,30)\\\\素晴らしいわ、47！"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds20027_sp_accidentkill_diana_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20027_sp_accidentkill_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20027_sp_accidentkill_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\I did not see that coming, 47. Well done.",
+					"fr": "//(0,30)\\\\Vous continuez de me surprendre, 47. Bien joué.",
+					"it": "//(0,30)\\\\Non me l'aspettavo, 47. Complimenti.",
+					"de": "//(0,30)\\\\Das hätte ich nicht erwartet, 47. Gut gemacht.",
+					"es": "//(0,30)\\\\Vaya, eso no me lo esperaba, 47. Buen trabajo.",
+					"ru": "//(0,30)\\\\Это было неожиданно, 47-й. Отлично.",
+					"cn": "//(0,30)\\\\47，我都没想到你居然用这种办法。不错。",
+					"tc": "//(0,30)\\\\真是沒想到，47。做得好。",
+					"jp": "//(0,30)\\\\そう来るとは思わなかった。さすがだわ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds20027_sp_accidentkill_diana_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20027_sp_accidentkill_diana_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20027_sp_accidentkill_diana_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Clever use of the environment, 47.",
+					"fr": "//(0,30)\\\\Belle utilisation de l'environnement, 47.",
+					"it": "//(0,30)\\\\Un utilizzo davvero astuto dell'ambiente, 47.",
+					"de": "//(0,30)\\\\Ein kluger Einsatz der Umgebung, 47.",
+					"es": "//(0,30)\\\\Has hecho un gran uso del entorno, 47.",
+					"ru": "//(0,30)\\\\Умно, 47-й. Ты подстроил несчастный случай.",
+					"cn": "//(0,30)\\\\你非常巧妙地利用了环境，47。",
+					"tc": "//(0,30)\\\\真是善用環境，47。",
+					"jp": "//(0,30)\\\\上手く環境を活かしたわね。"
+				}
+			}
+		]
+	}
+}

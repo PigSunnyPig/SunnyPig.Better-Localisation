@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_bull/8000_story/dr8102_secondrevealsoders.sweetdialog?/dr8102_secondrevealsoders_diana_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8102_secondrevealsoders_diana_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_bull/8000_story/dr8102_secondrevealsoders_diana_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_bull/8000_story/dr8102_secondrevealsoders_diana_002.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,3.3)\\\\Soders? But that would mean...//(4.7,14.5)\\\\Providence has infiltrated ICA. And Erich Soders is their operative. Bastard!//(14.5,44.5)\\\\It all fits. He was the one who persuaded the rest of the ICA board to green light this operation.",
+			"fr": "//[DIANA]\\\\//(0,0.969)\\\\Soders ?//(2.23,3.4)\\\\Mais ça voudrait dire que...//(4.95,8.45)\\\\Providence a infiltré l'ICA.//(8.45,14.02)\\\\Et Erich Soders est leur agent. L'ordure ! Ça explique tout.//(14.02,44.02)\\\\C'est lui qui a persuadé le reste du conseil de l'ICA de lancer cette opération.",
+			"it": "//[DIANA]\\\\//(0,0.9680981)\\\\Soders?//(2.018,3.172393)\\\\Questo significa che...//(4.922,8.330589)\\\\Providence è riuscita a infiltrarsi nell'ICA.//(8.330589,11.55728)\\\\Ed Erich Soders è un loro agente.//(11.55728,13.912)\\\\Bastardo! Tutto torna.//(13.912,43.912)\\\\È stato lui a convincere gli altri membri del consiglio dell'ICA ad autorizzare questa operazione.",
+			"de": "//[DIANA]\\\\//(0,3.8)\\\\Soders? Aber das würde bedeuten ...//(3.8,8.4)\\\\Providence hat die ICA infiltriert.//(8.4,12.6)\\\\Und Erich Soders ist ihr Agent. Dieser Mistkerl.//(12.6,12.6)\\\\Es passt alles zusammen.//(12.6,42.6)\\\\Er war es, der das ICA-Direktorium überzeugt hat, dieser Operation grünes Licht zu geben.",
+			"es": "//[DIANA]\\\\//(0,1.35)\\\\¿Soders?//(2.16,3.59)\\\\Pero eso significaría que...//(4.89,8.316687)\\\\Providence se ha infiltrado en la Agencia//(8.316687,11.47528)\\\\y Erich Soders es su agente.//(11.47528,13.9)\\\\¡Cabrón! Todo cuadra.//(13.9,43.9)\\\\Fue quien convenció al resto de la junta directiva de la Agencia para que aprobaran esta operación.",
+			"ru": "//[DIANA]\\\\//(0,2.3)\\\\Содерс?//(2.3,4.95)\\\\Но это значит...//(4.95,8.6)\\\\Что «Провиденс» проникла в МКА.//(8.6,11.68)\\\\И Эрих Содерс — их оперативник.//(11.68,12.8)\\\\Ублюдок!//(12.8,14.38)\\\\Все сходится.//(14.38,44.38)\\\\Это он убедил совет МКА провести эту операцию.",
+			"cn": "//[DIANA]\\\\//(0,1.999)\\\\索德斯吗？//(1.999,8.3)\\\\但这就说明......神意秘会已经渗透进了ICA。//(8.3,10.999)\\\\而埃里希·索德斯就是他们的特工。//(10.999,13.55)\\\\混蛋！这样就说得通了。//(13.55,43.55)\\\\就是他说服了ICA董事会的其他人为这次行动大开绿灯。",
+			"tc": "//[DIANA]\\\\//(0,8.4)\\\\索德斯？可這樣代表......神意秘會滲透了ICA。//(8.4,12.7)\\\\而埃里希．索德斯就是他們的特務。混蛋！//(12.7,42.7)\\\\這樣非常吻合，說服ICA董事會同意此次行動的就是他。",
+			"jp": "//[DIANA]\\\\//(0,3.665559)\\\\ソーダース？ でも、 それって...//(3.665559,11.23497)\\\\プロヴィデンスが ICAに 潜入を？ ソーダースが 奴らの スパイだって いうの？ あの男！ けど合点が//(11.23497,16.28125)\\\\いく。 今回の 任務も、 奴の ゴリ押しで 決まったの。"
+		}
+	}
+}

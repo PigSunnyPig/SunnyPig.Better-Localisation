@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8611_targetarrival.sweetdialog?/dr8611_targetarrival_paine_et_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8611_targetarrival_paine_et_001",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8611_targetarrival_paine_et_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8611_targetarrival_paine_et_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.72)\\\\Colorado in the autumn.//(1.72,31.72)\\\\Quite the metaphor for the final decades of the American Century, I’m sure.",
+			"fr": "//(0,2.28)\\\\Le Colorado à l'automne.//(2.28,32.28)\\\\C'est une belle métaphore pour les dernières décennies du siècle américain.",
+			"it": "//(0,30)\\\\Il Colorado in autunno. Una perfetta metafora degli ultimi decenni del secolo americano.",
+			"de": "//(0,2.4)\\\\Colorado im Herbst.//(2.4,32.4)\\\\Eine passende Metapher für die letzten Jahrzehnte des amerikanischen Jahrhunderts, möchte ich wetten.",
+			"es": "//(0,30)\\\\Colorado en otoño. Una buena metáfora de las últimas décadas del siglo americano, sin duda.",
+			"ru": "//(0,30)\\\\Осень в Колорадо. Интересная метафора для заката «эпохи США».",
+			"cn": "//(0,1.72)\\\\秋天中的科罗拉多啊。//(1.72,31.72)\\\\我敢肯定，这正是美国世纪最后几十年的隐喻。",
+			"tc": "//(0,1.72)\\\\秋天中的科羅拉多啊。//(1.72,31.72)\\\\我敢肯定，這正是美國世紀最後幾十年的隱喻。",
+			"jp": "//(0,1.72)\\\\Colorado in the autumn.//(1.72,31.72)\\\\Quite the metaphor for the final decades of the American Century, I’m sure."
+		}
+	}
+}

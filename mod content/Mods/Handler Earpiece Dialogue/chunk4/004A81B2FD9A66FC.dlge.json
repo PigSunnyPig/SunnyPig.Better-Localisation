@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/edgy/fox/42000_elusive/42000_tomorrowland/42700_tomorrowland_handler/ds42705_drugoppreveal.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds42705_drugoppreveal_diana_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/edgy/fox/42000_elusive/42000_tomorrowland/42700_tomorrowland_handler/ds42705_drugoppreveal_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/edgy/fox/42000_elusive/42000_tomorrowland/42700_tomorrowland_handler/ds42705_drugoppreveal_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,3.6)\\\\Laskaridis seems to treat his bodyguard like a bagman.//(3.6,33.6)\\\\You might be able to use that to get close.",
+					"fr": "//(0,3.7)\\\\Laskaridis semble utiliser son garde du corps comme acheteur...//(3.7,33.7)\\\\Vous pourriez en profiter pour vous rapprocher.",
+					"it": "//(0,30)\\\\Sembra che Laskaridis tratti la sua guardia del corpo come un portaborse. Potresti usare questa cosa per avvicinarti.",
+					"de": "//(0,3)\\\\Laskaridis scheint seinen Leibwächter als Kurier zu missbrauchen.//(3.795,33.795)\\\\Vielleicht kommen Sie so näher an ihn heran.",
+					"es": "//(0,3.9)\\\\Parece que Laskaridis trata a su guardaespaldas como a un trapo.//(3.9,33.9)\\\\Podrías aprovechar eso para acercarte a él.",
+					"ru": "//(0,30)\\\\Ласкаридис использует своего телохранителя в качестве посредника. Используй это, чтобы подобраться ближе.",
+					"cn": "//(0,3.6)\\\\拉斯卡里迪斯似乎把他的保镖当成一个工具人。//(3.6,33.6)\\\\你也许可以利用这一点接近他。",
+					"tc": "//(0,3.4)\\\\拉斯卡里迪斯似乎把自己的保鏢派去跑腿，//(3.4,33.4)\\\\你可以藉此接近他。",
+					"jp": "//(0,30)\\\\ラスカリディスは護衛に薬物を買わせようとしている。それを利用して接近できるかもしれない。"
+				}
+			}
+		]
+	}
+}

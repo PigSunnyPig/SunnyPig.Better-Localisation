@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25023_idmaelstrompicture.sweetdialog?/ds25023_idmaelstrompicture_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25023_idmaelstrompicture_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25023_idmaelstrompicture_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25023_idmaelstrompicture_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.770104)\\\\47! That nose, those eyes.//(3.770104,7.245664)\\\\That can only be Wazir Kale, The Maelstrom.//(7.245664,8.913021)\\\\Identification confirmed.",
+			"fr": "//(0,3.871007)\\\\47 ! Ce nez, ces yeux...//(3.871007,5.801498)\\\\Aucun doute, c'est Wazir Kale,//(5.801498,7.270331)\\\\alias le Maelström.//(7.270331,8.913021)\\\\Identification confirmée.",
+			"it": "//(0,3.93)\\\\47! Quel naso e quegli occhi.//(3.93,6.019249)\\\\Possono appartenere solo a Wazir Kale,//(6.019249,7.28)\\\\detto Maelstrom.//(7.28,8.913021)\\\\Identificazione confermata.",
+			"de": "//(0,3.710491)\\\\47! Diese Nase, diese Augen.//(3.710491,7.155)\\\\Das kann nur Wazir Kale sein. Der Maelstrom.//(7.155,8.913021)\\\\Identifizierung bestätigt.",
+			"es": "//(0,3.969106)\\\\¡47! Esa nariz, esos ojos...//(3.969106,7.2)\\\\¡Ese es Wazir Kale, el Torbellino!//(7.2,8.913021)\\\\¡Identificación confirmada!",
+			"ru": "//(0,3.651684)\\\\47-й! Я знаю эти глаза и нос.//(3.651684,5.541676)\\\\Это однозначно Вазир Кале,//(5.541676,8.913021)\\\\он же Вихрь. Личность подтверждена.",
+			"cn": "//(0,3.9)\\\\47！那个人的鼻子和眼睛。//(3.9,33.9)\\\\那个人正是维齐尔·凯尔，也就是大漩涡。目标身份已确认。",
+			"tc": "//(0,3.9)\\\\47！那個人的鼻子和眼睛。//(3.9,33.9)\\\\那個人正是維齊爾．凱爾，也就是大漩渦。目標身份已確認。",
+			"jp": "//(0,3.9)\\\\47！あの鼻と目。//(3.9,7.19)\\\\あれはワジール・カレ、別名メイルストロムに違いない。//(7.19,37.19)\\\\ターゲット確認。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8613_hackersession.sweetdialog?/dr8613_hackersession_paine_et_007.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8613_hackersession_paine_et_007",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8613_hackersession_paine_et_007.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8613_hackersession_paine_et_007.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\But you’re worried?",
+			"fr": "//(0,30)\\\\Mais vous êtes inquiet ?",
+			"it": "//(0,30)\\\\Ma sei preoccupato.",
+			"de": "//(0,30)\\\\Aber Sie sind besorgt?",
+			"es": "//(0,30)\\\\¿Pero estás preocupado?",
+			"ru": "//(0,30)\\\\Но вы беспокоитесь?",
+			"cn": "//(0,30)\\\\但你很担心吗？",
+			"tc": "//(0,30)\\\\但你很擔心嗎？",
+			"jp": "//(0,30)\\\\But you’re worried?"
+		}
+	}
+}

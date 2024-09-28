@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/golden/gecko/40000_story/dr40132_greystorysetupmeeting.sweetdialog?/dr40132_greystorysetupmeeting_grey_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr40132_greystorysetupmeeting_grey_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/gecko/40000_story/dr40132_greystorysetupmeeting_grey_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/gecko/40000_story/dr40132_greystorysetupmeeting_grey_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.245099)\\\\Good, we're in. Now all you need to do is access the//(4.245099,6.726827)\\\\terminal and use the calendar option to summon//(6.726827,9.0095)\\\\the Providence Partners to a meeting.",
+			"fr": "//(0,2.15)\\\\Bien, on y est.//(2.15,4.75)\\\\Il ne te reste plus qu'à accéder au terminal//(4.75,11.69055)\\\\et à utiliser l'agenda pour inviter les partenaires de Providence à une réunion.",
+			"it": "//(0,2.28)\\\\Bene, siamo dentro.//(2.28,6.515)\\\\Ora tutto ciò che devi fare è accedere al terminale e usare l'opzione calendario//(6.515,11.41941)\\\\per riunire i soci di Providence per un incontro.",
+			"de": "//(0,1.805266)\\\\Gut, wir sind drin.//(1.805266,4.663544)\\\\Jetzt musst du nur noch auf das Terminal zugreifen//(4.663544,6.037422)\\\\und die Kalenderoption benutzen,//(6.037422,9.0095)\\\\um die Providence-Partner zu einem Treffen zu rufen.",
+			"es": "//(0,5.2)\\\\Bien, estamos dentro. Ahora, lo único que tienes que hacer es acceder al terminal//(5.2,9.0095)\\\\y usar la aplicación de la agenda para convocar a los socios de Providence a una reunión.",
+			"ru": "//(0,2.092393)\\\\Отлично, мы в системе.//(2.092393,4.78908)\\\\Теперь подойди к терминалу и воспользуйся ежедневником,//(4.78908,34.78908)\\\\чтобы вызвать партнеров «Провиденса» на встречу.",
+			"cn": "//(0,4.834)\\\\很好，我们进去了。现在你的任务就是获得终端机的控制权，//(4.834,34.834)\\\\使用日历功能，召集神意秘会同伙来开会。",
+			"tc": "//(0,4.8)\\\\很好，進去了。現在你必須存取終端//(4.8,34.8)\\\\並使用行事曆選項來安排神意秘會同夥來開會。",
+			"jp": "//(0,2.2)\\\\よし、中に入れた。//(2.2,6.6)\\\\あとは端末にアクセスして、カレンダーオプションを使って、//(6.6,36.6)\\\\プロヴィデンスのパートナーたちをミーティングに招集するんだ。"
+		}
+	}
+}

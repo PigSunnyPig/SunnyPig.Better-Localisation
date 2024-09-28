@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/marrakech/11000_python/11000_handler/ds11012_escortbriefing.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds11012_escortbriefing_diana_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11000_python/11000_handler/ds11012_escortbriefing_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11000_python/11000_handler/ds11012_escortbriefing_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,5.077668)\\\\Mendola’s escort is not likely to get well soon, but he does have a job to do.//(5.077668,35.07767)\\\\Maybe you could give him a helping hand?",
+					"fr": "//(0,3.2)\\\\L'escorte de Mendola n'est pas prête de s'en remettre.//(3.2,5)\\\\Mais il a un travail à faire.//(5,35)\\\\Peut-être pourriez-vous lui donner un coup de main ?",
+					"it": "//(0,5.01)\\\\La guardia del corpo di Mendola non si riprenderà presto, ma ha un lavoro da svolgere.//(5.01,35.01)\\\\Forse potresti dargli una mano?",
+					"de": "//(0,5.1)\\\\Mendolas Begleitschutz wird es so schnell nicht besser gehen. Aber er hat einen Job zu erledigen.//(5.1,35.1)\\\\Vielleicht sollten Sie ihm ein wenig zur Hand gehen.",
+					"es": "//(0,3.1)\\\\Es poco probable que el escolta de Mendola se recupere pronto.//(3.1,33.1)\\\\Pero tiene trabajo que hacer. Quizá puedas echarle una mano.",
+					"ru": "//(0,5.04908)\\\\Вряд ли охранник Мендолы скоро поправится. Но у него столько работы.//(5.04908,35.04908)\\\\Может, стоит протянуть ему руку помощи?",
+					"cn": "//(0,3.168098)\\\\门多拉护卫的身体状况一时半会儿是不会好转了，//(3.168098,33.1681)\\\\但他的活儿总得有人干。要不你去帮帮他吧？",
+					"tc": "//(0,30)\\\\門多拉護衛的身體狀況一時半會兒是不會好轉了，但他的活兒總得有人幹。要不你去幫幫他吧？",
+					"jp": "//(0,6.001716)\\\\メンドーラの 護衛が 元気に なるには 時間が かかるけど、 仕事が ないわけじゃ ない。 手を 貸して//(6.001716,7.483958)\\\\あげたらどうかしら？"
+				}
+			}
+		]
+	}
+}

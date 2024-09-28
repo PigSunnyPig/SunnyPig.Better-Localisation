@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/greedy/33000_raccoon/33000_handler/ds33012_vaultdisguisecallout.sweetdialog?/ds33012_vaultdisguisecallout_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds33012_vaultdisguisecallout_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/greedy/33000_raccoon/33000_handler/ds33012_vaultdisguisecallout_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/greedy/33000_raccoon/33000_handler/ds33012_vaultdisguisecallout_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.496687)\\\\Hm, the vault looks even more fortified//(2.496687,4.858488)\\\\than we feared. If I'm not mistaken,//(4.858488,7.435175)\\\\only high-tier security is allowed in here.//(7.435175,9.67996)\\\\Access seems to be restricted to the use//(9.67996,12.48425)\\\\of a keycard of some sort.",
+			"fr": "//(0,2.497482)\\\\Hm, la chambre forte a l'air encore plus sécurisée//(2.497482,3.932432)\\\\que l'on ne pensait.//(3.932432,6.610411)\\\\Je pense qu'il faut un niveau d'accès très élevé pour//(6.610411,7.509766)\\\\pouvoir entrer...//(7.509766,9.38435)\\\\Il faut visiblement présenter une carte d'accès//(9.38435,11.0871)\\\\pour entrer dans la chambre.",
+			"it": "//(0,2.06388)\\\\Uhm, la camera blindata sembra più rinforzata di//(2.06388,3.300076)\\\\quanto temessimo.//(3.300076,4.524371)\\\\Se non sbaglio,//(4.524371,5.951772)\\\\solo ai membri della sicurezza di alto livello è//(5.951772,7.556067)\\\\concesso entrare qui.//(7.556067,9.263086)\\\\A quanto pare è possibile entrare solo utilizzando una//(9.263086,11.0871)\\\\chiave magnetica di qualche tipo.",
+			"de": "//(0,2.747844)\\\\Hm. Offenbar ist der Tresorraum sogar noch besser//(2.747844,3.877561)\\\\geschützt als befürchtet.//(3.877561,5.39141)\\\\Wenn mich nicht alles täuscht,//(5.39141,8)\\\\ist nur den wichtigsten Mitarbeitern der Zutritt gestattet.//(8,9.55)\\\\Für den Zugang braucht man anscheinend//(9.55,11.10101)\\\\eine Schlüsselkarte.",
+			"es": "//(0,1.894456)\\\\Mmm, la cámara parece estar aún más fortificada//(1.894456,3.3412)\\\\de lo que nos temíamos.//(3.3412,4.325516)\\\\Si no me equivoco,//(4.325516,6.373331)\\\\aquí solo se puede entrar con un permiso de//(6.373331,7.592539)\\\\seguridad de alto nivel.//(7.592539,9.640354)\\\\El acceso está restringido y solo se puede acceder//(9.640354,11.0871)\\\\con una especie de tarjeta.",
+			"ru": "//(0,0.8680981)\\\\Хм-м-м.//(0.8680981,3.688875)\\\\Похоже, хранилище защищено даже лучше, чем мы думали.//(3.688875,5.767464)\\\\Если не ошибаюсь, здесь могут находиться//(5.767464,7.707955)\\\\только охранники с максимальным допуском.//(7.707955,11.0871)\\\\Кажется, для прохода нужна какая-то ключ-карта.",
+			"cn": "//(0,3.758)\\\\嗯，这个金库可能比我们想象的还要坚固。//(3.758,7.646)\\\\如果我没有记错的话，只有拥有高级别权限的人才有权进入这里。//(7.646,11.087)\\\\进出似乎必须使用门卡之类的东西。",
+			"tc": "//(0,3.5)\\\\嗯，這個保險庫比我們想像的還堅固。//(3.5,11.1)\\\\如果我想得沒錯，只有高級保全能夠進來。似乎需要某種鑰匙卡才能存取它。",
+			"jp": "//(0,3.8)\\\\うーん、金庫室は予測してた以上に堅固みたいね。//(3.8,7.8)\\\\私の間違いでなければ、ここでは上位のセキュリティ所持者しか入れないはず。//(7.8,11.0871)\\\\アクセスの方法は 特殊なキーカードのようなもの以外には なさそうね。"
+		}
+	}
+}

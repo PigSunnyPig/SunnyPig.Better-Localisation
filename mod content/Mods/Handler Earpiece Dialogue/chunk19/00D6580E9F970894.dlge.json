@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/miami/21000_flamingo/21000_handler/ds21017_oppsabotageconclusion.sweetdialog?/ds21017_oppsabotageconclusion_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds21017_oppsabotageconclusion_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/miami/21000_flamingo/21000_handler/ds21017_oppsabotageconclusion_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/miami/21000_flamingo/21000_handler/ds21017_oppsabotageconclusion_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Excellent, 47. And now for a bit of maintenance.",
+			"fr": "//(0,30)\\\\Excellent, 47. Et maintenant, un peu de maintenance.",
+			"it": "//(0,30)\\\\Eccellente, 47. E adesso un po' di manutenzione.",
+			"de": "//(0,1.606196)\\\\Hervorragend, 47.//(1.606196,3.4)\\\\Und jetzt machen wir uns an die Wartung.",
+			"es": "//(0,30)\\\\Excelente, 47. Y ahora un poco de mantenimiento.",
+			"ru": "//(0,1.506196)\\\\Прекрасно, 47-й.//(1.506196,31.5062)\\\\Теперь надо бы подкрутить пару гаек.",
+			"cn": "//(0,30)\\\\非常好，47。现在来维修一下吧。",
+			"tc": "//(0,30)\\\\非常好，47。現在來維修一下吧。",
+			"jp": "//(0,30)\\\\見事よ、47。さあ、少しメンテナンスよ。"
+		}
+	}
+}

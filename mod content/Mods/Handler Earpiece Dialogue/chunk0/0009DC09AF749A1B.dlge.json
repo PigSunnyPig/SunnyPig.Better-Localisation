@@ -1,0 +1,68 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/evergreen/handler/ed011_meetbuisness.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ed011_meetbuisness_diana_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed011_meetbuisness_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed011_meetbuisness_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,3.742)\\\\The possible suspect appears to be engaged in a business deal.//(3.742,5.54908)\\\\Could be of interest.",
+					"fr": "//[DIANA]\\\\//(0,3.56)\\\\Votre cible potentielle semble être ici pour les affaires.//(3.56,4.901937)\\\\Ça pourrait être intéressant.",
+					"it": "//[DIANA]\\\\//(0,3.3)\\\\La potenziale persona sospetta sembra aver pianificato un incontro d'affari.//(3.3,5.180982)\\\\Potrebbe essere interessante.",
+					"de": "//[DIANA]\\\\//(0,3.6)\\\\Der mögliche Verdächtige scheint ein Geschäft abzuschließen.//(3.6,4.901938)\\\\Könnte interessant sein.",
+					"es": "//[DIANA]\\\\//(0,1.988952)\\\\La persona de quien sospechamos parece estar en//(1.988952,3.321136)\\\\medio de algún trato.//(3.321136,4.901937)\\\\Eso podría ser de interés.",
+					"ru": "//[DIANA]\\\\//(0,3.104)\\\\Вероятная цель, похоже, занята проведением сделки.//(3.761,4.901938)\\\\Это стоит учесть.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\嫌疑人似乎正在谈生意。也许对我们有价值。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\嫌疑犯似乎正在進行商業交易，或許可以查查。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\容疑者が商談中のようだわ。何か情報が得られるかもしれない。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed011_meetbuisness_diana_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed011_meetbuisness_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed011_meetbuisness_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,3.972)\\\\The possible suspect appears to be engaged in a business deal.//(3.972,5.54908)\\\\Could be worth investigating.",
+					"fr": "//[DIANA]\\\\//(0,3.56)\\\\Votre cible potentielle semble être ici pour les affaires.//(3.56,5.4)\\\\C'est une bonne piste à suivre.",
+					"it": "//[DIANA]\\\\//(0,3.5)\\\\La potenziale persona sospetta sembra aver pianificato un incontro d'affari.//(3.5,5.21875)\\\\Potrebbe valere la pena indagare.",
+					"de": "//[DIANA]\\\\//(0,3.7)\\\\Der mögliche Verdächtige scheint ein Geschäft abzuschließen.//(3.7,5.21875)\\\\Könnte sich lohnen, dem nachzugehen.",
+					"es": "//[DIANA]\\\\//(0,2.117498)\\\\La persona de quien sospechamos parece estar en//(2.117498,3.535781)\\\\medio de algún trato.//(3.535781,5.21875)\\\\Quizá valga la pena investigarlo.",
+					"ru": "//[DIANA]\\\\//(0,3.363)\\\\Вероятная цель, похоже, занята проведением сделки.//(3.952,5.21875)\\\\Советую обратить внимание на это.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\嫌疑人似乎正在谈生意。值得调查一番。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\嫌疑犯似乎正在進行商業交易，或許值得一探。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\容疑者が商談中のようだわ。調べてみる価値があるかもしれない。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed011_meetbuisness_diana_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed011_meetbuisness_diana_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed011_meetbuisness_diana_003.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,3.619)\\\\It looks like the possible suspect is taking part in a business deal.//(3.619,6.285276)\\\\Maybe it's something to look into?",
+					"fr": "//[DIANA]\\\\//(0,3.279)\\\\On dirait que la cible potentielle participe à un échange.//(3.279,5.5)\\\\Cela pourrait valoir le coup de s'y intéresser ?",
+					"it": "//[DIANA]\\\\//(0,3.5)\\\\Sembra che la potenziale persona sospetta stia partecipando a un incontro d'affari.//(3.5,5.917178)\\\\Forse vale la pena investigare?",
+					"de": "//[DIANA]\\\\//(0,3.4)\\\\Es sieht aus, als würde der mögliche Verdächtige an einem Geschäft teilnehmen.//(3.4,6.037178)\\\\Vielleicht sollte man sich das einmal anschauen?",
+					"es": "//[DIANA]\\\\//(0,2.0653)\\\\Parece que la persona de quien sospechamos está//(2.0653,3.190459)\\\\negociando algún trato.//(3.190459,5.090104)\\\\Tal vez convenga tenerlo en cuenta.",
+					"ru": "//[DIANA]\\\\//(0,2.905)\\\\Судя по всему, вероятная цель участвует в проведении сделки.//(3.859,5.78908)\\\\Быть может, стоит навести справки?",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\看样子嫌疑人正在谈生意。或许有必要调查？",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\看來有嫌疑犯正在參與商業交易。或許可以去看看？",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\容疑者が商談に参加しているようだわ。調べてみてはどうかしら？"
+				}
+			}
+		]
+	}
+}

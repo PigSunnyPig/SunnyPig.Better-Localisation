@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_fashion/3000_handler/ds3322_oppkrugerbriefing.sweetdialog?/ds3322_oppkrugerbriefing_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds3322_oppkrugerbriefing_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_fashion/3000_handler/ds3322_oppkrugerbriefing_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_fashion/3000_handler/ds3322_oppkrugerbriefing_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.66908)\\\\According to our intel, Helmut Kruger is friendly with Dalia Margolis.//(4.66908,10.07865)\\\\I suspect that IAGO uses fashion models to infiltrate the lives of the rich and powerful,//(10.07865,13.10202)\\\\and Kruger is likely one of their spies.//(13.10202,43.10202)\\\\His face paint conveniently obscures his features, and the two of you already share a striking resemblance.",
+			"fr": "//(0,5)\\\\Selon nos informations, Helmut Kruger s'entend bien avec Dalia Margolis.//(5,10.2)\\\\Je soupçonne IAGO d'utiliser des top models pour infiltrer la vie des puissants de ce monde,//(10.2,13.1)\\\\et Kruger pourrait fort bien être l'un de leurs espions.//(13.1,20.51301)\\\\Son maquillage masque justement ses traits, et il vous ressemble de façon troublante.",
+			"it": "//(0,5.037178)\\\\Stando alle nostre informazioni, Helmut Kruger ha iniziato a frequentare Dalia Margolis.//(5.037178,9.97675)\\\\Sospetto che la IAGO usi i ragazzi delle sfilate per infiltrarsi nella vita privata dei potenti//(9.97675,12.90344)\\\\e che Kruger sia una loro spia.//(12.90344,42.90344)\\\\Per tua fortuna, ha il volto truccato e i vostri lineamenti sono molto simili.",
+			"de": "//(0,4.917178)\\\\Laut unserer Informationen hat sich Helmut Kruger kürzlich mit Dalia Margolis getroffen.//(4.917178,13.20534)\\\\Ich vermute, dass IAGO Models einsetzt, um sich in das Leben der Reichen und Mächtigen einzuschleichen und Kruger ist einer ihrer Spione.//(13.20534,43.20534)\\\\Geschminkt kann man ihn kaum erkennen, und Sie sehen ihm so schon verblüffend ähnlich.",
+			"es": "//(0,4.9)\\\\Nuestras fuentes indican que Helmut Kruger y Dalia Margolis tienen buena relación.//(4.9,13)\\\\Sospecho que IAGO emplea a modelos para infiltrarse en las vidas de los ricos y poderosos, y que Kruger es uno de esos espías.//(13,43)\\\\También lleva una conveniente pintura facial para ocultar su rostro, y ambos guardáis un parecido asombroso.",
+			"ru": "//(0,5.181)\\\\По нашим данным, Хельмут Крюгер недавно встречался с Далией Марголис.//(5.181,10)\\\\Подозреваю, что «ЯГО» использует моделей, чтобы шпионить за богачами и знаменитостями,//(10,13)\\\\и Крюгер — один из таких шпионов.//(13,43)\\\\Нам повезло: вы с ним здорово похожи друг на друга, к тому же его лицо скрыто под гримом.",
+			"cn": "//(0,2.5)\\\\我们的情报指出赫尔穆特·克鲁格//(2.5,4.6)\\\\是达莉亚·玛戈利斯的友方。//(4.6,10.2)\\\\我怀疑埃古用时尚模特来渗透有钱有权的人的生活，//(10.2,12.6)\\\\而克鲁格很有可能是他们的一名间谍。//(12.6,16.2)\\\\他脸上涂的油彩恰巧掩盖了他的面部特征，//(16.2,46.2)\\\\而你们两人的长相本来就惊人的相似。",
+			"tc": "//(0,4.6)\\\\我們的情報指出赫爾穆特．克魯格是達莉亞．馬戈利斯的友方。//(4.6,13)\\\\我懷疑IAGO用時尚模特兒來滲透有錢有權的人的生活，而克魯格很有可能是他們的一名間諜。//(13,43)\\\\他臉上塗的油彩恰巧掩蓋了他的面部特徵，而你們兩人的長相本來就驚人的相似。",
+			"jp": "//(0,6.928571)\\\\情報に よると、 ヘルムート・ クルーガーと ダリア・ マーゴリスは 仲が いいみたい。 IAGOは 金持ちや//(6.928571,13.85714)\\\\権力者の 生活に 入り込んで いると 思われるから、 クルーガーも スパイの 可能性が あるわ。 あなたたち、//(13.85714,19.4)\\\\とっても顔立ちが 似てるし、 フェイスペイントが うまい具合に 顔の 特徴を 隠して くれるはず。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/miami/21000_flamingo/21000_handler/21000_flyin.sweetdialog?/21000_flyin_diana_006.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "21000_flyin_diana_006",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/miami/21000_flamingo/21000_handler/21000_flyin_diana_006.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/miami/21000_flamingo/21000_handler/21000_flyin_diana_006.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,3.807818)\\\\The Kronstadt RK Mark III has seen fierce competition//(3.807818,7.121937)\\\\from the Chinese Kowoon Heavy industries’ new racer.",
+			"fr": "//[DIANA]\\\\//(0,3.8)\\\\La Kronstadt RK Mark III est en sérieuse compétition//(3.8,33.8)\\\\avec le nouveau pilote de l'écurie chinoise Kowoon Heavy industries.",
+			"it": "//[DIANA]\\\\//(0,4)\\\\La Kronstadt RK Mark III ha fatto parte di una fiera competizione//(4,34)\\\\grazie al nuovo pilota della Kowoon Heavy Industries.",
+			"de": "//[DIANA]\\\\//(0,3.7)\\\\Der Kronstadt RK Mark III hat mit dem neuen Rennwagen der chinesischen//(3.7,33.7)\\\\Kowoon Heavy Industries einen erbitterten Konkurrenten gefunden.",
+			"es": "//[DIANA]\\\\//(0,3.9)\\\\El RK Mark III de Kronstadt se ha topado con un feroz competidor://(3.9,33.9)\\\\el nuevo piloto de la escudería china Kowoon Heavy Industries.",
+			"ru": "//[DIANA]\\\\//(0,30)\\\\Болид «Кронштада» RK Марк III ожесточенно конкурирует с новым гонщиком китайской «Цзюлун Хэви Индастриз».",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\喀琅施塔RKMarkIII型赛车最强劲的对手是来自中国的九龙重工的新赛车。",
+			"tc": "//[DIANA]\\\\//(0,3.8)\\\\與喀琅施塔得 RK Mark III 型賽車競爭最激烈的，//(3.8,33.8)\\\\是來自中國九龍重工隊的新車手。",
+			"jp": "//[DIANA]\\\\//(0,2.368)\\\\クローンシュタットのRKマークIIIは、//(2.368,5.96)\\\\中国のコーウーン重工業の最新型レーサーと//(5.96,35.96)\\\\熾烈な戦いを見せているわ。"
+		}
+	}
+}

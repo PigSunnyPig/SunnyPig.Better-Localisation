@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/italy/1000_virus/1000_handler/ds1047_ghostconclusion.sweetdialog?/ds1047_ghostconclusion_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds1047_ghostconclusion_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_virus/1000_handler/ds1047_ghostconclusion_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_virus/1000_handler/ds1047_ghostconclusion_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Good show, 47. Now do put the poor soul out of his misery.",
+			"fr": "//(0,30)\\\\Beau travail, 47. À présent, abrégez-donc les souffrances de ce pauvre homme.",
+			"it": "//(0,1.724294)\\\\Ottimo lavoro, 47.//(1.724294,31.72429)\\\\Ora non ti resta che mettere fine ai suoi tormenti.",
+			"de": "//(0,1.674294)\\\\Tolle Show, 47.//(1.674294,31.67429)\\\\Und jetzt erlösen Sie die arme Seele von ihrem Leid.",
+			"es": "//(0,1.483)\\\\Muy bien, 47.//(1.483,31.483)\\\\Ahora acaba con el sufrimiento de este pobre hombre.",
+			"ru": "//(0,30)\\\\Отличное представление, 47-й. А теперь избавь беднягу от страданий.",
+			"cn": "//(0,1.4)\\\\干得漂亮，47。//(1.4,31.4)\\\\现在结束这个可怜的家伙的痛苦吧。",
+			"tc": "//(0,30)\\\\幹得漂亮，47。現在結束這個可憐的傢伙的痛苦吧。",
+			"jp": "//(0,30)\\\\お見事ね。楽にしてあげましょうか。"
+		}
+	}
+}

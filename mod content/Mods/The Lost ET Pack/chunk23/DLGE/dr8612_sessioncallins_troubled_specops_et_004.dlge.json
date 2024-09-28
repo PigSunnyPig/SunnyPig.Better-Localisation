@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8612_sessioncallins.sweetdialog?/dr8612_sessioncallins_troubled_specops_et_004.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8612_sessioncallins_troubled_specops_et_004",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8612_sessioncallins_troubled_specops_et_004.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8612_sessioncallins_troubled_specops_et_004.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Yah. I hear you. Where are you? I’ll be right over.",
+			"fr": "//(0,0.99)\\\\Oui. Compris.//(2.02,3.95)\\\\Où êtes-vous ?//(3.95,33.95)\\\\J'arrive tout de suite.",
+			"it": "//(0,2.006196)\\\\Sì, ricevuto.//(2.006196,3.874)\\\\Dove?//(3.874,33.874)\\\\Arrivo subito.",
+			"de": "//(0,30)\\\\Ja, ich höre Sie. Wo sind Sie? Ich bin gleich da.",
+			"es": "//(0,30)\\\\Sí, dígame. ¿Dónde está? Voy ahora mismo.",
+			"ru": "//(0,1.1)\\\\Ага. Понял.//(1.836196,3.2)\\\\Вы где?//(4,34)\\\\Сейчас подойду.",
+			"cn": "//(0,30)\\\\嗯，我听到了。你在哪儿？我马上过来。",
+			"tc": "//(0,30)\\\\嗯，我聽到了。你在哪裡？我馬上過去。",
+			"jp": "//(0,30)\\\\Yah. I hear you. Where are you? I’ll be right over."
+		}
+	}
+}

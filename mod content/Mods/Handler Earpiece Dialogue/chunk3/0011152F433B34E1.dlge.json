@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "0011152F433B34E1",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "DBD00F15",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": null,
+		"defaultFfx": null,
+		"languages": {
+			"en": "//[SLATE]\\\\//(0,30)\\\\“END OF THE LINE”",
+			"fr": "//[SLATE]\\\\//(0,30)\\\\\"FIN DU VOYAGE\"",
+			"it": "//[SLATE]\\\\//(0,30)\\\\\"CAPOLINEA\"",
+			"de": "//[SLATE]\\\\//(0,30)\\\\„ENDSTATION“",
+			"es": "//[SLATE]\\\\//(0,30)\\\\«FINAL DEL TRAYECTO»",
+			"ru": "//[SLATE]\\\\//(0,30)\\\\«КОНЕЦ ПУТИ»",
+			"cn": "//[SLATE]\\\\//(0,30)\\\\“终局”",
+			"tc": "//[SLATE]\\\\//(0,30)\\\\「到此為止」",
+			"jp": "//[SLATE]\\\\//(0,30)\\\\「終点」"
+		}
+	}
+}

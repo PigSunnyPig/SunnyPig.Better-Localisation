@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_magpie/29000_handler/ds29037_constantevacgrey.sweetdialog?/ds29037_constantevacgrey_grey_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds29037_constantevacgrey_grey_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_magpie/29000_handler/ds29037_constantevacgrey_grey_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_magpie/29000_handler/ds29037_constantevacgrey_grey_002.animset].pc_animset",
+		"languages": {
+			"en": "//[GREY]\\\\//(1,4.89908)\\\\I've secured the helicopter. He should be heading straight for me.//(4.89908,8.263865)\\\\Do not engage. I repeat, do not engage.//(8.263865,9.963865)\\\\I'll handle this.",
+			"fr": "//[GREY]\\\\//(0,1.893789)\\\\J'ai le contrôle de l'hélicoptère.//(1.893789,4.978953)\\\\Il devrait me tomber tout cuit dans le bec.//(4.978953,6.277054)\\\\Restez à l'écart.//(6.277054,8.267941)\\\\Je répète, restez à l'écart.//(8.267941,9.566042)\\\\Je m'en charge.",
+			"it": "//[GREY]\\\\//(0,2.77)\\\\Ho messo in sicurezza l'elicottero.//(2.77,4.96)\\\\Dovrebbe arrivare dritto tra le mie braccia.//(4.96,8.68)\\\\NON attaccare. Ripeto: non attaccare.//(8.68,10.40479)\\\\Ci penso io.",
+			"de": "//[GREY]\\\\//(0,2.612559)\\\\Ich habe den Helikopter gesichert.//(2.612559,4.871869)\\\\Er sollte also direkt in meine Richtung kommen.//(4.871869,5.887676)\\\\Nicht eingreifen.//(5.887676,8.535734)\\\\Wiederhole: Nicht eingreifen.//(8.535734,9.566042)\\\\Ich kümmere mich darum.",
+			"es": "//[GREY]\\\\//(0,1.132857)\\\\Tengo el helicóptero,//(1.132857,3.979758)\\\\así que debería venir directo hacia mí.//(3.979758,5.464233)\\\\No establezcáis contacto.//(5.464233,7.400353)\\\\Repito, no establezcáis contacto.//(7.400353,9.566042)\\\\Yo me ocuparé de todo.",
+			"ru": "//[GREY]\\\\//(0,2.731694)\\\\Я захватил вертолет.//(2.731694,4.52096)\\\\Он сейчас идет прямо ко мне.//(4.52096,8.579548)\\\\Не атакуйте его. Повторяю: не атакуйте.//(8.579548,9.579548)\\\\Я справлюсь сам.",
+			"cn": "//[GREY]\\\\//(0,30)\\\\我已经搞定了直升机。他应该马上就过来了。不要开火。重复，不要开火。我来处理。",
+			"tc": "//[GREY]\\\\//(0,30)\\\\我已經搞定直升機。他應該馬上就過來了。不要開火。重複， 不要開火。我來處理。",
+			"jp": "//[GREY]\\\\//(0,4.5)\\\\ヘリコプターを確保した。やつはまっすぐここに向かってくるはずだ。//(4.5,9.566042)\\\\交戦するな。繰り返す、交戦するな。私に任せろ。"
+		}
+	}
+}

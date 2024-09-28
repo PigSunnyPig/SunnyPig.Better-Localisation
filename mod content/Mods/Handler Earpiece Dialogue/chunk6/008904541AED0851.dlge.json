@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/rat/43000_handler/ds43420_controlleroliviamscomplete.sweetdialog?/ds43420_controlleroliviamscomplete_oliviahall_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds43420_controlleroliviamscomplete_oliviahall_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/rat/43000_handler/ds43420_controlleroliviamscomplete_oliviahall_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/rat/43000_handler/ds43420_controlleroliviamscomplete_oliviahall_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.7)\\\\She really takes the term \"god complex\" to a whole new level,//(3.7,6.2)\\\\sitting in there pulling the strings like that.//(7.3,10.5)\\\\I think you should take her setup and give it a spin, 47.//(10.5,40.5)\\\\I see potential, if you time it right.",
+			"fr": "//(0,7.3)\\\\Elle a vraiment poussé le terme de \"complexe divin\" à son paroxysme avec ce bureau d'où elle tire les ficelles...//(7.3,37.3)\\\\Vous devriez essayer tout ça, 47. Il y a un vrai potentiel si vous l'utilisez bien.",
+			"it": "//(0,5.97)\\\\Fa decisamente salire il concetto di \"complesso di Dio\" a tutt'altro livello. Guarda un po' che macchinazioni.//(7.3,10.7)\\\\Credo proprio che dovresti dare un'occhiata al suo schema, 47.//(10.7,40.7)\\\\Con il giusto tempismo, ci vedo del potenziale.",
+			"de": "//(0,7.306258)\\\\Bei ihr erreicht der Begriff „Gottkomplex“ aber auch ganz neue Höhen, wenn man sieht, wie sie da drin sitzt und die Strippen zieht.//(7.306258,10.58153)\\\\Ich glaube, Sie sollten mal ihre Ausrüstung übernehmen und sie testweise ausprobieren, 47.//(10.58153,40.58153)\\\\Mit dem richtigen Timing sehe ich da Potenzial.",
+			"es": "//(0,5.9)\\\\Ahí sentada, manejando los hilos, a la jodida el término «complejo de Dios» se le queda corto.//(7.4,9.8)\\\\Creo que deberías darle una vuelta de tuerca a su configuración, 47.//(10.7,40.7)\\\\Le veo potencial si lo sincronizas bien.",
+			"ru": "//(0,3.2)\\\\Тут прям комплекс бога в квадрате.//(3.2,6.761472)\\\\Сидит, значит, в своем кабинете и дергает за ниточки.//(6.761472,10.32626)\\\\Попробуй воспользоваться ее системой в своих интересах, 47-й.//(10.32626,40.32626)\\\\Думаю, если правильно подгадать время, то всё получится.",
+			"cn": "//(0,6)\\\\她真的坐在那里暗中发号施令，把“上帝情结”体现得淋漓尽致。//(6,10)\\\\我想你应该记住她的安排自己试一试，47。//(10,40)\\\\如果你时机把握得当的话，我觉得可以。",
+			"tc": "//(0,7.3)\\\\她真是「上帝情結」最佳寫照，竟然這樣在幕後操縱一切。//(7.3,37.3)\\\\你應該試試她的設置，47。要是你抓準時機，這會很有潛力。",
+			"jp": "//(0,5.89)\\\\尊大にも程があるわ。ここからあれこれ指図してたのね。//(7.4,37.4)\\\\そのセットアップを試してみな、47。うまくやれば、面白いことになるかもよ。"
+		}
+	}
+}

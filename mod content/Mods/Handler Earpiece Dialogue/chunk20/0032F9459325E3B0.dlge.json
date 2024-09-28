@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/newzealand/31000_sheep/31000_story/dr31044_47datareport.sweetdialog?/dr31044_47datareport_diana_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr31044_47datareport_diana_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_sheep/31000_story/dr31044_47datareport_diana_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_sheep/31000_story/dr31044_47datareport_diana_002.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\All in the past, I'm afraid. Keep looking, 47.",
+			"fr": "//(0,2)\\\\Tout cela est passé, malheureusement.//(2,6.657178)\\\\Continuez de chercher, 47.",
+			"it": "//(0,1.748812)\\\\Temo che ormai sia acqua passata.//(1.748812,3.841205)\\\\Continua a cercare, 47.",
+			"de": "//(0,1.85)\\\\Das ist leider alles schon passiert.//(1.85,4.841205)\\\\Suchen Sie weiter, 47.",
+			"es": "//(0,30)\\\\Todo eso es del pasado, me temo. Sigue buscando, 47.",
+			"ru": "//(0,30)\\\\Увы, это всё уже в прошлом. Ищи дальше, 47-й.",
+			"cn": "//(0,30)\\\\恐怕这些都是过去的事了。继续找，47。",
+			"tc": "//(0,30)\\\\這恐怕都是過去的事了，繼續搜尋，47。",
+			"jp": "//(0,30)\\\\残念ながら、全部過去の話ね。捜索を続けて、47。"
+		}
+	}
+}

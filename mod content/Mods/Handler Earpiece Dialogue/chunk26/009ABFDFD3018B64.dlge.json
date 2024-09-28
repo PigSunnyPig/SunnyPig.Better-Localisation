@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/italy/1000_virus/1000_handler/ds1034_gravebriefing.sweetdialog?/ds1034_gravebriefing_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds1034_gravebriefing_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_virus/1000_handler/ds1034_gravebriefing_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_virus/1000_handler/ds1034_gravebriefing_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.444785)\\\\Today is the anniversary of Isabella Caruso’s death.//(3.444785,8.416258)\\\\Silvio Caruso will be visiting her grave and has ordered a fresh bouquet of flowers.//(8.416258,11.36202)\\\\His visit would be a good time to catch him alone.//(11.36202,41.36202)\\\\That is, provided the flowers ever arrive.",
+			"fr": "//(0,3.444785)\\\\C'est aujourd'hui l'anniversaire de la mort d'Isabella Caruso.//(3.444785,8.3)\\\\Silvio Caruso se rendra sur sa tombe, sur laquelle doit être déposé un bouquet de fleurs qu'il a fait commander.//(8.3,11.4)\\\\Cette visite serait l'occasion rêvée de le surprendre seul.//(11.4,41.4)\\\\À condition que les fleurs soit livrées, bien entendu.",
+			"it": "//(0,3.444785)\\\\Oggi è l'anniversario della morte di Isabella Caruso.//(3.444785,8.230062)\\\\Silvio renderà omaggio alla sua tomba e ha ordinato un mazzo di fiori freschi.//(8.230062,11.29485)\\\\Sarà un'ottima occasione per sorprenderlo in piena solitudine,//(11.29485,14.73963)\\\\ma dobbiamo assicurarci che i fiori arrivino davvero.",
+			"de": "//(0,3.290491)\\\\Heute ist Isabella Carusos Todestag.//(3.290491,7.993865)\\\\Silvio Caruso wird ihr Grab besuchen und hat dazu einen frischen Strauß Blumen bestellt.//(7.993865,11.17675)\\\\Das wäre eine gute Gelegenheit, ihn allein zu erwischen.//(11.17675,41.17675)\\\\Vorausgesetzt, die Blumen kommen bei ihm an.",
+			"es": "//(0,3.237)\\\\Hoy es el aniversario de la muerte de Isabella Caruso.//(3.237,8.113)\\\\Silvio Caruso visitará su tumba y ha pedido un ramo de flores.//(8.113,11.185)\\\\Esta visita puede ser una buena ocasión para sorprenderlo solo,//(11.185,41.185)\\\\siempre y cuando las flores sean entregadas.",
+			"ru": "//(0,3.34)\\\\Сегодня годовщина смерти Изабеллы Карузо.//(3.34,8.1)\\\\Сильвио Карузо собирается навестить ее могилу и заказал букет живых цветов.//(8.1,11.3)\\\\На могиле матери его можно будет застать в одиночестве.//(11.3,41.3)\\\\Если, конечно, букет смогут доставить.",
+			"cn": "//(0,3.3)\\\\今天是伊莎贝拉·卡鲁索去世一周年纪念日。//(3.3,8.1)\\\\西尔维奥·卡鲁索会去给她扫墓，还订了一束鲜花。//(8.1,11.3)\\\\他扫墓时独自一人，是你下手的好时机。//(11.3,41.3)\\\\前提是花必须送到。",
+			"tc": "//(0,3.4)\\\\今天是伊莎貝爾．卡魯索去世一週年紀念日。//(3.4,8.2)\\\\西爾維奧．卡魯索會去給她掃墓，還訂了一束鮮花。//(8.2,38.2)\\\\他掃墓時獨自一人，是你下手的好時機。前提是花必須送到。",
+			"jp": "//(0,8.077647)\\\\今日は イザベラ・ カルーソーの 命日よ。 カルーソーは 彼女の 墓に 供える花を 注文して いるわ。//(8.077647,13.732)\\\\墓参り中なら誰にも 邪魔されずに 近づくことが できる。 それには 花が 必要ね。"
+		}
+	}
+}

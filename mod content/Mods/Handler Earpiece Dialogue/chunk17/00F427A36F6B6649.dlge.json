@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25004_shahdown.sweetdialog?/ds25004_shahdown_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25004_shahdown_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25004_shahdown_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25004_shahdown_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.764785)\\\\Confirmed kill on Vanya Shah. Excellent work, 47.",
+			"fr": "//(0,1.859)\\\\Élimination de Vanya Shah confirmée.//(1.859,7.123777)\\\\Excellent travail, 47.",
+			"it": "//(0,2.222306)\\\\Uccisione di Vanya Shah confermata.//(2.222306,3.81)\\\\Lavoro eccellente, 47.",
+			"de": "//(0,2.024185)\\\\Bestätigter Abschuss für Vanya Shah.//(2.024185,8.655167)\\\\Ausgezeichnete Arbeit, 47.",
+			"es": "//(0,2.005324)\\\\Confirmada la muerte de Vanya Shah.//(2.005324,4.097716)\\\\Un trabajo excelente, 47.",
+			"ru": "//(0,1.903694)\\\\Подтверждаю убийство Ваньи Шах.//(1.903694,3.212654)\\\\Прекрасно, 47-й.",
+			"cn": "//(0,30)\\\\瓦妮娅·沙已确认死亡。干得漂亮，47。",
+			"tc": "//(0,3.6)\\\\瓦妮婭．沙已確認死亡。幹得漂亮，47。",
+			"jp": "//(0,30)\\\\ヴァーニャ・シャーの抹殺を確認。素晴らしい仕事ね、47。"
+		}
+	}
+}

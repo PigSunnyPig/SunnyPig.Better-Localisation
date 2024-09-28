@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32524_sp_releasesignal.sweetdialog?/ds32524_sp_releasesignal_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32524_sp_releasesignal_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32524_sp_releasesignal_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32524_sp_releasesignal_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.826687)\\\\Lowering the flag seems to have triggered//(1.826687,4.096578)\\\\new activity in the facility.//(4.096578,7.388953)\\\\Uhm, I'm picking up chatter on the intercom.//(7.388953,9.550604)\\\\They're about to start Khabko's release.",
+			"fr": "//(0,30)\\\\Baisser le drapeau semble avoir enclenché une nouvelle activité dans la prison. Hm, je capte une communication dans l'interphone. Ils sont sur le point de relâcher Khabko.",
+			"it": "//(0,30)\\\\L'abbassamento della bandiera sembra aver dato il via a una nuova attività nella struttura. Uhm, sto captando delle comunicazioni attraverso l'interfono. Stanno per avviare il rilascio di Khabko.",
+			"de": "//(0,30)\\\\Die Flagge einzuholen, scheint für neue Aktivität in der Anlage zu sorgen. Ähm, ich kriege da etwas aus der Gegensprechanlage rein. Ähm, sie wollen wohl mit Khabkos Freilassung beginnen.",
+			"es": "//(0,30)\\\\Al bajar la bandera, parece que se ha iniciado una cierta actividad en las instalaciones. Mmm, recibo una conversación por el intercomunicador. Están a punto de liberar a Khabko.",
+			"ru": "//(0,30)\\\\Похоже, из-за спуска флага народ в тюрьме оживился. Хм-м. Слышу, как кто-то беседует по внутренней связи. Они готовятся выпустить Хабко.",
+			"cn": "//(0,3.8)\\\\降下旗帜似乎使设施里发生了新状况。//(3.8,7.5)\\\\嗯，我侦听到内部通话系统里有人说话。//(7.5,37.5)\\\\说的是开始卡布科的释放程序。",
+			"tc": "//(0,3.9)\\\\降低旗幟似乎在設施中觸發了新的活動。//(3.9,9.6)\\\\呃，我在對講機上收到了一些對話。他們要開始釋放卡伯克了。",
+			"jp": "//(0,3.81)\\\\旗が下がったら施設で新たな動きが始まったわ。//(3.81,7.285)\\\\ううん、内部無線から聞こえてくるわね。//(7.285,37.285)\\\\そろそろカブコの釈放を始めるらしいわよ。"
+		}
+	}
+}

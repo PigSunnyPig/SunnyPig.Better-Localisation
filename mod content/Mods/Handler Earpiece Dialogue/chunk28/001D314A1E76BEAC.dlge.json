@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/rocky/dugong/46000_handler/ds46018_oppmechreveal.sweetdialog?/ds46018_oppmechreveal_grey_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds46018_oppmechreveal_grey_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/rocky/dugong/46000_handler/ds46018_oppmechreveal_grey_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/rocky/dugong/46000_handler/ds46018_oppmechreveal_grey_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.6)\\\\Apparently Crest is waiting for that boat to be repaired.//(3.6,8.745768)\\\\You're handy with a wrench, aren't you 47?",
+			"fr": "//(0,30)\\\\Visiblement, Crest attend que ce bateau soit réparé. Je crois savoir que tu es plutôt habile avec une clé anglaise, 47, non ?",
+			"it": "//(0,3.812883)\\\\Apparentemente Crest sta aspettando che la nave venga riparata.//(3.812883,33.81288)\\\\Te la sai cavare con le chiavi inglesi, non è vero, 47?",
+			"de": "//(0,2.9)\\\\Anscheinend wartet Crest darauf, dass das Boot repariert wird.//(3.65,33.65)\\\\Der Umgang mit einem Schraubenschlüssel ist doch kein Problem, oder, 47?",
+			"es": "//(0,2.95)\\\\Según parece, Crest quiere que reparen ese barco.//(3.9,33.9)\\\\Y tú eres un hacha de la mecánica, ¿a que sí, 47?",
+			"ru": "//(0,3.9)\\\\Похоже, Крест ждет окончания ремонта этого судна.//(3.9,33.9)\\\\47-й, ты ведь умеешь с гаечным ключом обращаться?",
+			"cn": "//(0,30)\\\\显然克雷斯在等待那艘船修理完毕。47，你很擅长使用扳手，对吧？",
+			"tc": "//(0,30)\\\\看來克雷斯特正在等待船隻的維修，你不是很會用扳手嗎，47？",
+			"jp": "//(0,3.8)\\\\クレストはあのボートが修理されるのを待っているようだ。//(3.8,33.8)\\\\レンチの扱いには慣れてるだろう、47？"
+		}
+	}
+}

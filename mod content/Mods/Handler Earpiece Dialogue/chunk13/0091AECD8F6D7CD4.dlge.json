@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32010_sp_missionsuccess.sweetdialog?/ds32010_sp_missionsuccess_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32010_sp_missionsuccess_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32010_sp_missionsuccess_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32010_sp_missionsuccess_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.758)\\\\The Heavenly Guard has been taken care of.//(2.758,5.675)\\\\I'll get an extraction team to secure the hostages.//(5.675,35.675)\\\\Excellent work, 47.",
+			"fr": "//(0,2.45)\\\\La Garde céleste est hors d'état de nuire.//(2.45,5.6)\\\\J'envoie immédiatement une équipe pour faire sortir les otages.//(5.6,35.6)\\\\Excellent travail, 47.",
+			"it": "//(0,30)\\\\La Guardia celestiale è sistemata. Manderò una squadra di recupero a mettere al sicuro gli ostaggi. Lavoro eccellente, 47.",
+			"de": "//(0,30)\\\\Die Himmlische Garde wurde erledigt. Ich sorge für einen Extraktionstrupp, der die Geiseln sichert. Hervorragend, 47.",
+			"es": "//(0,30)\\\\La Guardia Celestial ha sido eliminada. Mandaré a un equipo de extracción a por los rehenes. Un trabajo excelente, 47.",
+			"ru": "//(0,2.672393)\\\\С «Небесной гвардией» покончено.//(2.672393,5.601)\\\\Я отправлю людей, чтобы вытащить заложников.//(5.601,35.601)\\\\Отличная работа, 47-й.",
+			"cn": "//(0,30)\\\\神圣护卫已被解决。我会派接应小队接走人质。干得漂亮，47。",
+			"tc": "//(0,30)\\\\天衛已經被解決了。我會派遣一支撤離小隊來帶回人質。做得很好，47。",
+			"jp": "//(0,5.48)\\\\天の警護の排除完了。救出チームに人質を確保させる。//(5.48,35.48)\\\\よくやったわ、47。"
+		}
+	}
+}

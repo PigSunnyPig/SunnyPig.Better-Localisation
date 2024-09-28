@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/greedy/33000_raccoon/33000_handler/ds33023_exposeoppconclude.sweetdialog?/ds33023_exposeoppconclude_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds33023_exposeoppconclude_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/greedy/33000_raccoon/33000_handler/ds33023_exposeoppconclude_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/greedy/33000_raccoon/33000_handler/ds33023_exposeoppconclude_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.647741)\\\\It sounds like Miss Red has quite a scoop on her hands.//(3.647741,6.467447)\\\\My guess is this will cause a major market upset,//(6.467447,9.198133)\\\\which is sure to bring the Director out from her//(9.198133,10.19813)\\\\fortified office...",
+			"fr": "//(0,3.487589)\\\\On dirait que mademoiselle Red a trouvé son scoop.//(3.487589,5.280822)\\\\Cela ébranlera certainement le marché,//(5.280822,8.984457)\\\\ce qui fera à coup sûr sortir la directrice de son//(8.984457,10.11519)\\\\bureau forteresse...",
+			"it": "//(0,2.590804)\\\\A quanto sembra la signorina Red ha uno scoop niente//(2.590804,3.979042)\\\\male per le mani.//(3.979042,6.654305)\\\\Io dico che porterà a una grossa crisi di mercato,//(6.654305,8.986029)\\\\cosa che di certo farà uscire la direttrice dal//(8.986029,10.11519)\\\\suo ufficio fortificato.",
+			"de": "//(0,2)\\\\Klingt, als hätte Miss Red da//(2,3.777494)\\\\eine nette Story an Land gezogen.//(3.777494,6.477954)\\\\Das wird wohl zu einem echten Marktbeben führen,//(6.477954,9.054641)\\\\was wiederum die Direktorin aus der Festung//(9.054641,10.11519)\\\\ihres Büros locken wird ...",
+			"es": "//(0,3.6)\\\\Parece que la señorita Red tiene un bombazo entre manos.//(3.6,7)\\\\Opino que esto podría causar estragos en la bolsa,//(7,8.7)\\\\lo cual a buen seguro obligaría a la//(8.7,10.11519)\\\\directora a salir de su despacho fortificado...",
+			"ru": "//(0,3.596687)\\\\Кажется, мисс Рэд удалось накопать кое-что интересное.//(3.596687,7.114266)\\\\Полагаю, это вызовет серьезные волнения на рынке,//(7.114266,10.82905)\\\\а значит, директору придется покинуть свой уютный офис.",
+			"cn": "//(0,7.079)\\\\听起来莱德小姐的手里有很多的猛料啊。据我猜测，这会引起主要市场的混乱，//(7.079,10.115)\\\\这样就一定会使总经理从她防卫坚固的办公室中走出来。",
+			"tc": "//(0,3.4)\\\\看來瑞德小姐找到了獨家報導。//(3.4,10.2)\\\\我看這會對市場造成重大影響，這一定會把總裁引出她堡壘一般的辦公室......",
+			"jp": "//(0,3.541)\\\\ミス・レッドはどうやらスクープを握ってるようね。//(3.541,7.035)\\\\市場に大混乱をもたらすことになりそうだわ。//(7.035,10.11519)\\\\そうなれば、支店長をあの要塞みたいなオフィスから引きずり出すことになるはず..."
+		}
+	}
+}

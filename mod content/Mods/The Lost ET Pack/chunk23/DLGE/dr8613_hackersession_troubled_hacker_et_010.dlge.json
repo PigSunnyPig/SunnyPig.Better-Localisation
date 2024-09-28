@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8613_hackersession.sweetdialog?/dr8613_hackersession_troubled_hacker_et_010.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8613_hackersession_troubled_hacker_et_010",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8613_hackersession_troubled_hacker_et_010.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8613_hackersession_troubled_hacker_et_010.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.920981)\\\\I suppose not. I mean, compartmentalization is important, of course.//(4.920981,8.3)\\\\There are cells all over the place that we don’t know about.//(8.3,38.3)\\\\Dedicated guys all over the world.",
+			"fr": "//(0,5.42)\\\\J'imagine que non. En fait, c'est indispensable de compartimenter nos opérations.//(5.42,35.42)\\\\Y a des cellules dont on ignore même l'existence. Des gars motivés dans le monde entier.",
+			"it": "//(0,5.551)\\\\Penso di no. La suddivisione dei ruoli è importante, ovviamente.//(5.551,35.551)\\\\Ci sono cellule di cui non conosciamo l'esistenza. Persone dedite alla causa in tutto il mondo.",
+			"de": "//(0,5.7)\\\\Eher nicht. Bereichsbildung ist ein wichtiger Aspekt.//(5.7,35.7)\\\\Es gibt überall Zellen, von denen wir nichts wissen. Engagierte Leute auf der ganzen Welt.",
+			"es": "//(0,5.433)\\\\Supongo que no. La organización es importante, por supuesto.//(5.433,35.433)\\\\Hay células por todas partes de las que no sabemos nada. Hay tíos muy comprometidos por todo el mundo.",
+			"ru": "//(0,5.795276)\\\\Думаю, что нет. И да, я понимаю, что разделение обязанностей — это важно.//(5.795276,8.5)\\\\У нас полно ячеек, которые ничего друг о друге не знают.//(8.5,38.5)\\\\Наши люди разбросаны по всему миру, и они действительно преданны общему делу.",
+			"cn": "//(0,4.920981)\\\\我想不会吧。我的意思是，分门别类当然很重要。//(4.920981,8.3)\\\\到处都有我们不知道的单元。//(8.3,38.3)\\\\全世界兢兢业业的人们。",
+			"tc": "//(0,4.920981)\\\\我想不會。我的意思是，劃分當然很重要。//(4.920981,8.3)\\\\到處都有我們不知道的細胞。//(8.3,38.3)\\\\全世界都有奉獻精神的人。",
+			"jp": "//(0,4.920981)\\\\I suppose not. I mean, compartmentalization is important, of course.//(4.920981,8.3)\\\\There are cells all over the place that we don’t know about.//(8.3,38.3)\\\\Dedicated guys all over the world."
+		}
+	}
+}

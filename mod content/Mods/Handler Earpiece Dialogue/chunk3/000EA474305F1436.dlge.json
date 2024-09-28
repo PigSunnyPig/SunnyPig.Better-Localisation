@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/bulldog/41000_elusive/41000_bramble/41000_bramble_handler/ds41506_objectivecompletetargettogo.sweetdialog?/ds41506_objectivecompletetargettogo_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41506_objectivecompletetargettogo_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/bulldog/41000_elusive/41000_bramble/41000_bramble_handler/ds41506_objectivecompletetargettogo_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/bulldog/41000_elusive/41000_bramble/41000_bramble_handler/ds41506_objectivecompletetargettogo_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Good, you got the painting. Now take care of the target.",
+			"fr": "//(0,30)\\\\Vous avez le tableau, c'est bien. Il ne reste plus qu'à vous occuper de la cible.",
+			"it": "//(0,30)\\\\Bene, hai preso il dipinto. Ora occupati del bersaglio.",
+			"de": "//(0,30)\\\\Gut, Sie haben das Gemälde. Kümmern Sie sich jetzt um das Ziel.",
+			"es": "//(0,30)\\\\Bien, ya tienes el cuadro. Ahora encárgate del objetivo.",
+			"ru": "//(0,30)\\\\Отлично, картина у тебя. Теперь нужно заняться целью.",
+			"cn": "//(0,30)\\\\很好，你得到了画作。现在去对付目标吧。",
+			"tc": "//(0,30)\\\\做得好，畫作到手了。現在去消滅目標。",
+			"jp": "//(0,30)\\\\よし、絵画を手に入れたわね。さあ、ターゲットを始末して。"
+		}
+	}
+}

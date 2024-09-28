@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_skunk/27000_handler/ds27057_oppforsalebrief.sweetdialog?/ds27057_oppforsalebrief_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds27057_oppforsalebrief_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_skunk/27000_handler/ds27057_oppforsalebrief_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_skunk/27000_handler/ds27057_oppforsalebrief_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(2.838382,6.15)\\\\A realtor with a taste for the sweet things in life is in Whittleton Creek to show a house to Nolan Cassidy.//(6.15,10.18864)\\\\It looks like he's stuck at a local muffin stand at the moment.//(10.18864,13.13864)\\\\It would be a shame to keep Cassidy waiting, wouldn't it?",
+			"fr": "//[DIANA]\\\\//(0,3.6)\\\\Un agent immobilier très porté sur les sucreries est à la Crique de Whittleton//(3.6,6.15)\\\\pour faire visiter une maison à Cassidy.//(6.15,10.2)\\\\On dirait qu'il est retenu devant un stand de muffin en ce moment.//(10.2,16.75757)\\\\Il ne faudrait surtout pas faire attendre Cassidy, qu'en dites-vous ?",
+			"it": "//[DIANA]\\\\//(0,0.9069214)\\\\In questo momento,//(0.9069214,2.8)\\\\un agente immobiliare con la passione per i dolci//(2.8,4.5)\\\\si trova a Whittleton Creek per mostrare una casa//(4.5,6.1)\\\\a Nolan Cassidy,//(6.1,7.8)\\\\ma sembra che per ora sia bloccato//(7.8,10)\\\\alla bancarella dei muffin.//(10,11.1)\\\\Sarebbe un vero peccato//(11.1,14.11159)\\\\far aspettare Cassidy, non credi?",
+			"de": "//[DIANA]\\\\//(0,2.7)\\\\Ein Immobilienmakler mit einem Hang zu süßen Sachen//(2.7,6.2)\\\\will Nolan Cassidy ein Haus in Whittleton Creek zeigen.//(6.2,7.7)\\\\Es sieht ganz so aus, als würde er//(7.7,10.1)\\\\am örtlichen Muffinstand aufgehalten werden.//(10.1,10.8)\\\\Es wäre doch eine Schande,//(10.8,14.63534)\\\\wenn man Cassidy warten lässt, oder?",
+			"es": "//[DIANA]\\\\//(0,2)\\\\Ha llegado a Whittleton Creek un agente//(2,4)\\\\inmobiliario con debilidad por los dulces para//(4,6.4)\\\\enseñarle una casa a Nolan Cassidy.//(6.4,8.5)\\\\Por lo visto, en estos momentos está entretenido//(8.5,9.886665)\\\\en un puesto donde sirven muffins.//(9.886665,12)\\\\Sería una pena hacer esperar a Cassidy,//(12,13.00521)\\\\¿no te parece?",
+			"ru": "//[DIANA]\\\\//(0,2.313613)\\\\Агент по продаже элитной недвижимости приехал//(2.313613,3.210524)\\\\в Уиттлтон-Крик,//(3.210524,5.662313)\\\\чтобы показать дом Нолану Кэссиди.//(5.662313,9.656509)\\\\И этот агент сейчас стоит у ларька с кексами.//(9.656509,11.71023)\\\\Некрасиво заставлять Кэссиди ждать понапрасну,//(11.71023,13.00521)\\\\так ведь?",
+			"cn": "//[DIANA]\\\\//(0,6.252)\\\\一个爱吃甜食的房地产经纪人来到了维多顿小溪，准备向诺兰·卡西迪展示一栋房子。//(6.252,13.005)\\\\他目前正在当地的一处松饼摊驻足。让卡西迪久等就不好了，你说呢？",
+			"tc": "//[DIANA]\\\\//(0,6.068)\\\\一個愛吃甜食的房地產經紀人來到維多頓小溪，準備向諾蘭．凱西迪展示房子。//(6.068,13.00521)\\\\他目前正在當地的一處鬆餅攤駐足。讓凱西迪久等就不好了，你說呢？",
+			"jp": "//[DIANA]\\\\//(0,4.1)\\\\甘いもの好きの不動産仲介業者がホイットルトン・クリークで//(4.1,5.942)\\\\ノーラン・キャシディに家を紹介しに来ているわ。//(5.942,9.98)\\\\彼は今、地元のマフィンスタンドに夢中みたい。//(9.98,13.00521)\\\\キャシディを待たせるなんて。ねえ？"
+		}
+	}
+}

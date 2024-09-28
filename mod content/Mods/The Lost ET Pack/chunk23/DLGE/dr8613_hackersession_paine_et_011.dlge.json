@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8613_hackersession.sweetdialog?/dr8613_hackersession_paine_et_011.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8613_hackersession_paine_et_011",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8613_hackersession_paine_et_011.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8613_hackersession_paine_et_011.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\You’re all dedicated, Ryan. That’s why you were chosen.",
+			"fr": "//(0,30)\\\\Vous êtes motivé, Ryan. C'est pour ça que vous avez été choisi.",
+			"it": "//(0,30)\\\\Siete tutti dediti alla causa, Ryan. Per questo siete stati scelti.",
+			"de": "//(0,30)\\\\Sie sind alle engagiert, Ryan. Deshalb wurden Sie ausgewählt.",
+			"es": "//(0,30)\\\\Todos estáis muy comprometidos, Ryan. Por eso fuisteis elegidos.",
+			"ru": "//(0,30)\\\\Как и вы, Райан. Вот почему вас выбрали.",
+			"cn": "//(0,30)\\\\你们都很敬业，莱恩。这就是你们被选中的原因。",
+			"tc": "//(0,30)\\\\你們都很敬業，瑞安。這就是你們被選中的原因。",
+			"jp": "//(0,30)\\\\You’re all dedicated, Ryan. That’s why you were chosen."
+		}
+	}
+}

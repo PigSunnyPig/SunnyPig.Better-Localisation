@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_mojito/3000_mojito_handler/dr_3650_diana.sweetdialog?/dr_3650_diana_diana_et_003.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr_3650_diana_diana_et_003",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_mojito/3000_mojito_handler/dr_3650_diana_diana_et_003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_mojito/3000_mojito_handler/dr_3650_diana_diana_et_003.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA_ET]\\\\//(0,1.724294)\\\\Good afternoon, 47.//(1.724294,7.506)\\\\Your target is not the guestlist, so he will most likely be attempting to slip past security in some way.//(7.506,11.212)\\\\If he is located within a secure area, guards will escort him out.//(11.212,41.212)\\\\Good hunting.",
+			"fr": "//[DIANA_ET]\\\\//(0,1.6)\\\\Bonjour, 47.//(1.6,3.6)\\\\Votre cible n'est pas sur la liste des invités,//(3.6,7.5)\\\\il tentera donc probablement de s'introduire sans se faire remarquer par la sécurité.//(7.5,37.5)\\\\Si les gardes le trouvent dans une zone sécurisée, ils l'escorteront dehors. Bonne chasse.",
+			"it": "//[DIANA_ET]\\\\//(0,1.524294)\\\\Buon pomeriggio, 47.//(1.524294,3.487178)\\\\Il bersaglio non figura tra gli ospiti in lista.//(3.487178,7.481963)\\\\Probabilmente cercherà un modo per aggirare la sorveglianza.//(7.481963,11.65104)\\\\Se verrà sorpreso in un'area riservata, le guardie lo scorteranno fuori.//(11.65104,41.65104)\\\\Buona caccia.",
+			"de": "//[DIANA_ET]\\\\//(0,1.406196)\\\\Hallo, 47.//(1.406196,3.483)\\\\Die Zielperson steht nicht auf der Gästeliste.//(3.483,7.402)\\\\Unser Mann wird also versuchen, sich irgendwie an der Security vorbeizumogeln.//(7.402,11.725)\\\\Wenn er in einem sicheren Bereich aufgegriffen wird, bringen ihn die Wachen nach draußen.//(11.725,41.725)\\\\Waidmanns Heil.",
+			"es": "//[DIANA_ET]\\\\//(0,7.5)\\\\Buenas tardes, 47. Tu objetivo no está en la lista de invitados, así que seguramente intentará burlar la seguridad de alguna forma.//(7.5,37.5)\\\\Si se encuentra en una zona protegida, los guardias lo acompañarán fuera. Buena caza.",
+			"ru": "//[DIANA_ET]\\\\//(0,1.724294)\\\\Добрый день, 47-й.//(1.724294,7.497668)\\\\Журналиста нет в списке приглашенных, так что он скорее всего попытается пробраться мимо охраны.//(7.497668,11.7)\\\\Если его найдут в закрытой для гостей зоне, то выпроводят прочь.//(11.7,41.7)\\\\Доброй охоты.",
+			"cn": "//[DIANA_ET]\\\\//(0,1.475)\\\\下午好，47。//(1.475,7.16)\\\\你的目标并不在宾客名单上，因此他很有可能会想办法绕开安保人员。//(7.16,11.36)\\\\如果他出现在安保区域，警卫会护送他离开。//(11.36,41.36)\\\\狩猎愉快。",
+			"tc": "//[DIANA_ET]\\\\//(0,1.724)\\\\午安，47。//(1.724,7.178)\\\\你的目標並不在賓客名單上，因此他很有可能會想辦法繞開保全人員。//(7.178,11.42)\\\\如果他出現在保全區域，警衛會護送他離開。//(11.42,41.42)\\\\狩獵愉快。",
+			"jp": "//[DIANA_ET]\\\\//(0,6.701445)\\\\ごきげんよう、 47。 ターゲットは 来客者名簿に 載って いないから、 どうにかして セキュリティーを//(6.701445,12.56521)\\\\抜けようと するはず。 彼が 警備エリア内で 見つかったら、 警備員に 連れ出されるでしょうね。"
+		}
+	}
+}

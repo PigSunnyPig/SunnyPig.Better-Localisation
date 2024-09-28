@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_skunk/27000_handler/ds27047_opphealthcheckbrief.sweetdialog?/ds27047_opphealthcheckbrief_grey_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds27047_opphealthcheckbrief_grey_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_skunk/27000_handler/ds27047_opphealthcheckbrief_grey_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_skunk/27000_handler/ds27047_opphealthcheckbrief_grey_001.animset].pc_animset",
+		"languages": {
+			"en": "//[GREY]\\\\//(0,4.149285)\\\\So, Janus has an appointment with a male nurse every Saturday.//(4.149285,7.829265)\\\\He's down feeding the birds by the creek at the moment.//(7.829265,10.8924)\\\\Sounds like a good way inside Janus' house.",
+			"fr": "//[GREY]\\\\//(0,4.1)\\\\Janus voit un infirmier tous les samedis.//(4.1,8.3)\\\\Il est en train de nourrir les oiseaux près de la rivière en ce moment.//(8.3,10.8924)\\\\Cela pourrait être votre sésame chez Janus.",
+			"it": "//[GREY]\\\\//(0,1.2)\\\\Dunque, ogni sabato Janus ha un//(1.2,4)\\\\appuntamento con un infermiere,//(4,5.5)\\\\che in questo momento sta dando da mangiare agli//(5.5,8)\\\\uccelli vicino al torrente.//(8,9.331491)\\\\Sembrerebbe un ottimo modo per//(9.331491,12.67156)\\\\introdursi in casa di Janus.",
+			"de": "//[GREY]\\\\//(0,2.7)\\\\So. Janus hat jeden Samstag einen Termin//(2.7,4.2)\\\\mit einem Krankenpfleger.//(4.2,8.1)\\\\Dieser füttert gerade die Enten am Bach.//(8.1,12.23255)\\\\Klingt, als könnte man so leicht in Janus’ Haus gelangen.",
+			"es": "//[GREY]\\\\//(0,4.3)\\\\Así que Janus tiene una cita todos los sábados con un enfermero.//(4.3,7.5)\\\\El sanitario está ahora en el arroyo dando de comer a las aves.//(7.5,11.20245)\\\\Parece una buena oportunidad para colarse en la casa de Janus.",
+			"ru": "//[GREY]\\\\//(0,3.566683)\\\\Значит, каждую субботу к Янусу приходит медбрат,//(3.566683,6.996484)\\\\который сейчас кормит птичек у ручья.//(6.996484,10.8924)\\\\Это хороший способ пробраться в дом Януса.",
+			"cn": "//[GREY]\\\\//(0,8.075)\\\\看来杰纳斯每周六都约好和一名男护士见面。目前此人正在溪边喂鸟。//(8.075,10.892)\\\\听起来是潜入杰纳斯住处的好机会。",
+			"tc": "//[GREY]\\\\//(0,4.018)\\\\看來傑納斯每週六都約好和一名男護士見面。//(4.018,8.086)\\\\目前此人正在溪邊餵鳥。//(8.086,10.8924)\\\\聽起來是潛入傑納斯住處的好機會。",
+			"jp": "//[GREY]\\\\//(0,3.94)\\\\なるほど、ヤヌスは毎週土曜日に男性の看護師に来てもらっているようだな。//(3.94,7.995)\\\\そいつは今、川岸で鳥に餌をやっているようだ。//(7.995,10.8924)\\\\ヤヌスの家に入るのにはよさそうな方法だぞ。"
+		}
+	}
+}

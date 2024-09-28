@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/italy/7000_mamba/7000_handler/ds7013_stageconclusion.sweetdialog?/ds7013_stageconclusion_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds7013_stageconclusion_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/7000_mamba/7000_handler/ds7013_stageconclusion_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/7000_mamba/7000_handler/ds7013_stageconclusion_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Good work, 47. Let’s see if Abiatti can talk himself out of this one.",
+			"fr": "//(0,30)\\\\Beau travail, 47. Voyons si Abiatti arrivera à s'en sortir.",
+			"it": "//(0,30)\\\\Ottimo lavoro, 47. Vediamo se Abiatti riesce a tirarsi fuori da questo guaio.",
+			"de": "//(0,30)\\\\Gute Arbeit, 47. Mal sehen, ob Abiatti sich da noch herausreden kann.",
+			"es": "//(0,30)\\\\Buen trabajo, 47. Veamos si Abiatti consigue salir de esta.",
+			"ru": "//(0,1.724294)\\\\Отличная работа, 47-й.//(1.724294,31.72429)\\\\Посмотрим, как он будет выкручиваться.",
+			"cn": "//(0,30)\\\\干得好，47。我们看看阿布亚蒂这次还能不能靠花言巧语脱身了。",
+			"tc": "//(0,30)\\\\幹得好，47。我們看看艾比亞迪這次還能不能靠花言巧語脫身了。",
+			"jp": "//(0,30)\\\\上出来よ、47。アビアッティの言い逃れが楽しみね。"
+		}
+	}
+}

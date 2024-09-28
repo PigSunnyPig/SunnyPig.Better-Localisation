@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_magpie/29000_handler/ds29018_oppfuneral_conclusion.sweetdialog?/ds29018_oppfuneral_conclusion_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds29018_oppfuneral_conclusion_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_magpie/29000_handler/ds29018_oppfuneral_conclusion_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_magpie/29000_handler/ds29018_oppfuneral_conclusion_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.873512)\\\\You... playing dead.//(1.873512,4.3)\\\\Hm. This takes me back.//(4.3,7.126776)\\\\Good thinking, 47.",
+			"fr": "//(0,30)\\\\Vous jouez le mort ! Je ne m'y attendais pas. Bien vu, 47.",
+			"it": "//(0,2.924566)\\\\Tu... che giochi a fare il morto.//(2.924566,4.946178)\\\\Mmm... mi ricorda qualcosa.//(4.946178,6.055104)\\\\Bell'idea, 47.",
+			"de": "//(0,2.343747)\\\\Sie ... stellen sich tot.//(2.343747,4.839147)\\\\Hm. Da denke ich an alte Zeiten.//(4.839147,6.055)\\\\Gut mitgedacht, 47.",
+			"es": "//(0,2.212613)\\\\¿Vas... a hacerte el muerto?//(2.212613,4.711957)\\\\Mmm. Qué recuerdos me trae esto...//(4.711957,6.055104)\\\\Buena idea, 47.",
+			"ru": "//(0,2.1668)\\\\О... ты притворился мертвым.//(2.1668,4.866536)\\\\Хм. Да, помню, было дело.//(4.866536,6.055104)\\\\Хитро, 47-й.",
+			"cn": "//(0,30)\\\\你......在装死。嗯。让我想起了过去。47，这个办法好。",
+			"tc": "//(0,30)\\\\你......在裝死。嗯。讓我想起過去。47，這個辦法好。",
+			"jp": "//(0,30)\\\\それは... 死んだふり？ふむ、昔を思い出すわ。名案かもよ、47。"
+		}
+	}
+}

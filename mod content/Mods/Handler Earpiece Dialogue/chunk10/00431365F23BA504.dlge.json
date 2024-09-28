@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/opulent/34000_stingray/34000_cinematics/34000_flyin.sweetdialog?/34000_flyin_diana_006.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "34000_flyin_diana_006",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/opulent/34000_stingray/34000_cinematics/34000_flyin_diana_006.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/opulent/34000_stingray/34000_cinematics/34000_flyin_diana_006.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,2.092393)\\\\This is it, 47.//(2.092393,6.4)\\\\Eliminating the three owners of Haven should buy Miss Hall the time needed to//(6.4,11.19055)\\\\do a full penetration and retrieval of the Providence Partner data.",
+			"fr": "//[DIANA]\\\\//(0,1.593777)\\\\Vous savez tout.//(1.593777,3.802366)\\\\Éliminer les trois propriétaires de Haven//(3.802366,5.613366)\\\\devrait donner suffisamment de temps à mademoiselle Hall//(5.613366,10.86694)\\\\pour s'infiltrer et récupérer les données des partenaires de Providence.",
+			"it": "//[DIANA]\\\\//(0,1.724294)\\\\È tutto, 47.//(1.724294,4.2)\\\\L'eliminazione dei tre proprietari dell'Haven//(4.2,7.245767)\\\\dovrebbe far guadagnare alla signorina Hall il tempo necessario penetrare//(7.245767,10.86694)\\\\e recuperare i dati dei partner di Providence.",
+			"de": "//[DIANA]\\\\//(0,2.092393)\\\\Jetzt gilt es, 47.//(2.092393,4.693433)\\\\Das Ausschalten der drei Besitzer von Haven//(4.693433,7.034167)\\\\sollte Miss Hall ausreichend Zeit verschaffen,//(7.034167,8.506559)\\\\komplett einzudringen und die//(8.506559,10.86694)\\\\Partner-Daten von Providence zu bergen.",
+			"es": "//[DIANA]\\\\//(0,4.7)\\\\Es la hora, 47. Si eliminas a los tres propietarios de Haven,//(4.7,6.391125)\\\\la señorita Hall tendrá tiempo//(6.391125,8.967812)\\\\más que suficiente para infiltrarse y recuperar//(8.967812,10.86694)\\\\la información de los socios de Providence.",
+			"ru": "//[DIANA]\\\\//(0.5,2.256196)\\\\Итак, 47-й.//(2.256196,4.513998)\\\\Если ты устранишь трех владельцев «Гавани»,//(4.513998,7.690685)\\\\мисс Холл как раз успеет взломать систему//(7.690685,10.86694)\\\\и добыть данные о Партнерах «Провиденса».",
+			"cn": "//[DIANA]\\\\//(0,5.5)\\\\就这样，47。消灭海文的三个拥有者应该能为霍尔女士//(5.5,35.5)\\\\争取到完全破解并取回神意秘会同伙数据的时间。",
+			"tc": "//[DIANA]\\\\//(0,5.5)\\\\就這樣，47。消滅避風港的三名主人應該會給霍爾女士//(5.5,10.86694)\\\\足夠的時間來完全入侵並取得神意秘會的數據。",
+			"jp": "//[DIANA]\\\\//(0,2.062)\\\\いよいよね、47。//(2.062,4.518)\\\\ヘイヴンの3人のオーナーを排除すれば、//(4.518,7.712)\\\\ミス・ホールがセキュリティを完全に突破して、//(7.712,10.86694)\\\\プロヴィデンスのパートナーのデータを回収するまでの時間を稼げるはず。"
+		}
+	}
+}

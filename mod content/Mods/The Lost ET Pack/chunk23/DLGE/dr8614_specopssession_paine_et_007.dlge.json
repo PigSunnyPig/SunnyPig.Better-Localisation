@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession.sweetdialog?/dr8614_specopssession_paine_et_007.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8614_specopssession_paine_et_007",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession_paine_et_007.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession_paine_et_007.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\John Stubbs, right? Part of a CICADA unit?",
+			"fr": "//(0,30)\\\\John Stubbs, c'est ça ? Il est dans une unité CICADA ?",
+			"it": "//(0,30)\\\\John Stubbs, giusto? Il membro dell'unità CICADA?",
+			"de": "//(0,30)\\\\John Stubbs, richtig? Eine CICADA-Einheit?",
+			"es": "//(0,30)\\\\John Stubbs, ¿verdad? ¿Parte de una unidad de CICADA?",
+			"ru": "//(0,30)\\\\С Джоном Стаббсом? Из «ЦИКАДЫ»?",
+			"cn": "//(0,30)\\\\约翰·斯塔布斯对吧? 是希卡达的成员吗？",
+			"tc": "//(0,30)\\\\約翰·斯塔布斯，對嗎？ CICADA 單位的一部分？",
+			"jp": "//(0,30)\\\\John Stubbs, right? Part of a CICADA unit?"
+		}
+	}
+}

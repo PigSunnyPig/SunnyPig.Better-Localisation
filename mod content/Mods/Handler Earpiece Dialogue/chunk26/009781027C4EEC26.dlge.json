@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/italy/10000_copperhead/10000_handler/ds10015_boscodown.sweetdialog?/ds10015_boscodown_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds10015_boscodown_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/10000_copperhead/10000_handler/ds10015_boscodown_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/10000_copperhead/10000_handler/ds10015_boscodown_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Target down. Now head towards an exit.",
+			"fr": "//(0,30)\\\\Cible éliminée. Dirigez-vous vers une sortie.",
+			"it": "//(0,30)\\\\Bersaglio eliminato. Ora dirigiti verso un'uscita.",
+			"de": "//(0,30)\\\\Ziel neutralisiert. Gehen Sie jetzt zu einem der Ausgänge.",
+			"es": "//(0,30)\\\\Objetivo eliminado. Ahora dirígete a la salida.",
+			"ru": "//(0,30)\\\\Цель мертва. Направляйся к выходу.",
+			"cn": "//(0,30)\\\\目标已被消灭。现在前往出口。",
+			"tc": "//(0,30)\\\\任務完成。現在前往出口。",
+			"jp": "//(0,30)\\\\ターゲット・ダウン。出口へ向かって。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/golden/gecko/40000_story/dr40129_greystorybecomeguard.sweetdialog?/dr40129_greystorybecomeguard_grey_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr40129_greystorybecomeguard_grey_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/gecko/40000_story/dr40129_greystorybecomeguard_grey_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/gecko/40000_story/dr40129_greystorybecomeguard_grey_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.9)\\\\Cameras are showing a lot of guards up here.//(2.9,5.816)\\\\They wouldn't suspect one of their own, though...",
+			"fr": "//(0,2.908146)\\\\Je vois beaucoup de gardes sur les caméras.//(2.908146,5.816292)\\\\Mais ils ne soupçonneront pas l'un des leurs...",
+			"it": "//(0,2.597)\\\\Le telecamere mostrano molte guardie qui intorno.//(2.597,7.410275)\\\\Non potrebbero mai sospettare che proprio uno dei loro...",
+			"de": "//(0,2.853515)\\\\Die Kameras zeigen hier oben eine Menge Wachen.//(2.853515,7.2983)\\\\Sie würden sich aber wohl nicht gegenseitig verdächtigen ...",
+			"es": "//(0,2.4)\\\\Las cámaras muestran un montón de guardias en la zona.//(3.2,5.816292)\\\\Pero no sospecharán de uno de los suyos...",
+			"ru": "//(0,2.828589)\\\\Судя по камерам, здесь много охраны.//(2.828589,32.82859)\\\\Впрочем, своего они вряд ли заподозрят...",
+			"cn": "//(0,30)\\\\摄像头显示这里有很多守卫。不过他们应该不会怀疑自己人......",
+			"tc": "//(0,30)\\\\攝影機顯示這上面有很多警衛。不過他們應該不會懷疑自己人。",
+			"jp": "//(0,30)\\\\たくさんの警備員がカメラに写っている。でも、仲間に疑いはかけないだろう..."
+		}
+	}
+}

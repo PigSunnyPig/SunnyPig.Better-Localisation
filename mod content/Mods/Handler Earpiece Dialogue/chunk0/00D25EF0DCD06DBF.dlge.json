@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/tutorial/9000_handler/ds9110_oppbrief_safeconduct.sweetdialog?/ds9110_oppbrief_safeconduct_young_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds9110_oppbrief_safeconduct_young_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/tutorial/9000_handler/ds9110_oppbrief_safeconduct_young_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/tutorial/9000_handler/ds9110_oppbrief_safeconduct_young_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.839571)\\\\The slides depicting Knight’s escape route from Cuba to his new home in the Soviet Union//(4.839571,7.02153)\\\\are ready for pickup at the reception.//(7.02153,10.45441)\\\\Desk security expect a soldier to fetch the slides,//(10.45441,40.45441)\\\\whereupon the KGB officer and Knight will likely retreat to the upstairs office.",
+			"fr": "//(0,7.2)\\\\Les documents indiquant l'itinéraire de Knight depuis Cuba jusqu'en URSS ont été déposés à la réception.//(7.2,10.4)\\\\L'agent de sécurité qui est posté a été prévenu qu'un soldat viendrait les récupérer,//(10.4,40.4)\\\\après quoi l'officier du KGB et Knight se retrouveront probablement dans le bureau situé à l'étage.",
+			"it": "//(0,2.817178)\\\\Le diapositive che mostrano la via di fuga di Knight da Cuba//(2.817178,4.981963)\\\\fino alla sua nuova abitazione in Unione Sovietica//(4.981963,7.17245)\\\\possono essere prelevate alla reception.//(7.17245,10.10963)\\\\La guardia lì presente si aspetta che passi a prenderle un soldato,//(10.10963,40.10963)\\\\dopo di che, l'agente del KGB e Knight dovrebbero ritirarsi nell'ufficio al piano di sopra.",
+			"de": "//(0,2.576687)\\\\Die Folien mit Knights Fluchtroute von Kuba//(2.576687,5.153374)\\\\in seine neue Heimat in der Sowjetunion//(5.153374,7.343865)\\\\wurden an der Rezeption hinterlegt.//(7.343865,10.40865)\\\\Nachdem ein Soldat die Folien dort abgeholt hat,//(10.40865,12.98534)\\\\werden sich Knight und der KGB-Offizier vermutlich//(12.98534,42.98534)\\\\in das Büro im Obergeschoss zurückziehen.",
+			"es": "//(0,3.8)\\\\Las transparencias que revelan la ruta de escape de Knight desde Cuba hasta su nuevo hogar,//(3.8,7.3)\\\\en la Unión Soviética, están listas para su recogida en la recepción.//(7.3,10.2)\\\\El puesto de seguridad espera que un soldado vaya a por ellas,//(10.2,40.2)\\\\de modo que el agente de la KGB y Knight probablemente se retiren al despacho de arriba.",
+			"ru": "//(0,5)\\\\Слайды, иллюстрирующие маршрут побега Найта с Кубы в СССР,//(5,7.161)\\\\уже можно забрать на стойке регистрации.//(7.161,10.09)\\\\Охранник думает, что слайды заберет солдат.//(10.09,40.09)\\\\Сразу после этого офицер КГБ и Найт удалятся в офис наверху.",
+			"cn": "//(0,5)\\\\描绘奈特从古巴逃到新家苏联路线的幻灯片//(5,7.2)\\\\已经放在接待处等着他去拿了。//(7.2,10.5681)\\\\接待处的保安正在等一名士兵去取幻灯片，//(10.5681,40.5681)\\\\而克格勃军官和奈特很可能会回到楼上的办公室里。",
+			"tc": "//(0,7.2)\\\\描繪奈特從古巴逃到新家蘇聯路線的幻燈片已經放在接待處等著他去拿了。//(7.2,10.568)\\\\接待處的保全正在等一名士兵去取幻燈片，//(10.568,40.568)\\\\而KGB軍官和奈特很可能會回到樓上的辦公室裡。",
+			"jp": "//(0,4.8)\\\\キューバからソ連の新居へと至る、 ナイトの脱出ルートを記したスライドを//(4.8,9.4)\\\\受付で預かっているようね。 そこでスライドを受け取り次第//(9.4,14.42521)\\\\KGB将校とナイトは二階のオフィスへ向かうはずよ。"
+		}
+	}
+}

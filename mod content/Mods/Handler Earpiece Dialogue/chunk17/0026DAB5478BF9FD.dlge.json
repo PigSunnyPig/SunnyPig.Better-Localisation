@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25110_contractranganbriefingnew.sweetdialog?/ds25110_contractranganbriefingnew_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25110_contractranganbriefingnew_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25110_contractranganbriefingnew_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25110_contractranganbriefingnew_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.61908)\\\\Well, it looks like there’s a power struggle underway in Mumbai.//(4.61908,11.59436)\\\\Vanya Shah has contracted a hired killer, The Kashmirian, to eliminate Dawood Rangan.//(11.59436,15.75393)\\\\With Rangan now out of the picture, you should be able to pick up that contract//(15.75393,18.87111)\\\\and get in touch with Shah through one of the city’s payphones.//(18.87111,25.30209)\\\\Perhaps it will set off a beneficial chain of events?",
+			"fr": "//(0,2.696687)\\\\Bien, il semblerait qu'un jeu de pouvoir//(2.696687,5.073)\\\\ait lieu à Bombay en ce moment.//(5.073,8.958159)\\\\Vanya Shah a engagé un assassin, le Cachemiri,//(8.958159,11.731)\\\\pour tuer Dawood Rangan.//(11.731,13.62724)\\\\Maintenant que Rangan n'est plus parmi nous,//(13.62724,16.94012)\\\\vous devriez vous emparer du contrat et appeler Shah//(16.94012,19.017)\\\\depuis l'une des cabines de la ville.//(19.017,20.121)\\\\Peut-être allons-nous déclencher//(20.121,50.121)\\\\une réaction en chaîne bénéfique ?",
+			"it": "//(0,4.5)\\\\Beh, sembra che ci sia in atto una guerra per il potere a Mumbai.//(4.5,11.5)\\\\Vanya Shah ha assoldato un killer chiamato il Kashmiro per uccidere Dawood Rangan.//(11.5,14)\\\\Ora che Rangan è stato eliminato//(14,19)\\\\potresti impossessarti dell'incarico e metterti in contatto con Shah usando un telefono pubblico.//(19,49)\\\\Chissà, potrebbe avviare una serie di eventi positivi.",
+			"de": "//(0,1.230491)\\\\Tja, es sieht so aus,//(1.230491,4.657178)\\\\als gäbe es einen Machtkampf in Mumbai.//(4.657178,7.785766)\\\\Vanya Shah hat einen Auftragsmörder angeworben,//(7.785766,11.38245)\\\\den Kaschmiri, um Dawood Rangan zu eliminieren.//(11.38245,13.34294)\\\\Da Rangan inzwischen abserviert wurde,//(13.34294,15.36963)\\\\können Sie diesen Auftrag zu Ende bringen//(15.36963,18.469)\\\\und sich über ein öffentliches Telefon mit Shah in Verbindung setzen.//(18.469,48.469)\\\\Vielleicht kommt so eine positive Kettenreaktion in Gang.",
+			"es": "//(0,5.037178)\\\\Vaya, parece que hay toda una guerra por el poder en Bombay.//(5.037178,9.2)\\\\Vanya Shah ha contratado a un asesino, el Cachemir,//(9.2,11.66675)\\\\para que se ocupe de Dawood Rangan.//(11.66675,14)\\\\Como Rangan ya está fuera de la ecuación,//(14,17)\\\\deberías poder recoger el contrato y contactar con Shah//(17,19.1)\\\\mediante uno de los teléfonos públicos de la ciudad.//(19.1,49.1)\\\\Puede que eso desate una interesante cadena de acontecimientos.",
+			"ru": "//(0,4.782883)\\\\Судя по всему, в Мумбаи разгорелась борьба за власть.//(4.782883,7.991472)\\\\Ванья Шах заказала убийство Давуда Ранжана//(7.991472,11.76387)\\\\киллеру по кличке Кашмирец.//(11.76387,13.76387)\\\\Теперь, когда Ранжан устранен,//(13.76387,15.86387)\\\\ты можешь приписать эту заслугу себе//(15.86387,18.86387)\\\\и позвонить Шах по одному из уличных таксофонов.//(18.86387,48.86387)\\\\Вдруг это запустит цепочку выгодных нам событий?",
+			"cn": "//(0,4.89)\\\\嗯，看来孟买地下的权力斗争很严重啊。//(4.89,11.496)\\\\瓦妮娅·沙雇佣了一名职业杀手克什米尔人来消灭达伍德·朗甘。//(11.496,15.654)\\\\现在朗甘已死，你应该可以接手这份契约，//(15.654,45.654)\\\\利用市内的公共电话联系瓦妮娅·沙。也许这会引发一系列事件？",
+			"tc": "//(0,4.868)\\\\嗯，看起來孟買暗地裡正在上演一場權力鬥爭。//(4.868,11.736)\\\\瓦妮婭．沙找了個殺手，喀什米爾人，要除掉達伍德．朗甘。//(11.736,18.854)\\\\既然朗甘已出局，你或許可以將那合約當作是你的工作，隨便找一處公共電話打給瓦妮婭．沙。//(18.854,48.854)\\\\也許，會帶來一連串的連鎖反應？",
+			"jp": "//(0,4.63)\\\\さて、ムンバイで権力争いが行われているようね。//(4.63,7.89)\\\\ヴァーニャ・シャーはダウッド・ランガンを排除するために、//(7.89,11.65)\\\\殺し屋のカシミリアンを雇ったみたい。//(11.65,15.74)\\\\ランガンはいなくなったわけだし、あなたがそのコントラクトを引き継いで、//(15.74,18.78)\\\\街にある公衆電話からシャーに連絡したらいいと思うわ。//(18.78,48.78)\\\\芋づる式に有利な事が起きるかもしれないじゃない？"
+		}
+	}
+}

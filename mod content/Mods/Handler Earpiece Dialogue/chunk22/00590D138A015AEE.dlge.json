@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12755_cagedead.sweetdialog?/ds12755_cagedead_diana_ws_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds12755_cagedead_diana_ws_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12755_cagedead_diana_ws_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12755_cagedead_diana_ws_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Target down. That's the end of Owen Cage and, hopefully, the end of this threat. Now for Klaus Liebleid.",
+			"fr": "//(0,0.8511816)\\\\Cible neutralisée.//(0.8511816,2.454529)\\\\Espérons qu'à présent qu'il est mort,//(2.454529,4.572978)\\\\Owen Cage ne représentera plus une menace.//(4.572978,6.184521)\\\\Passez maintenant à Klaus Liebleid.",
+			"it": "//(0,30)\\\\Bersaglio eliminato. Questa è la fine di Owen Cage e dei suoi folli piani. Ora pensiamo a Klaus Liebleid.",
+			"de": "//(0,30)\\\\Ziel neutralisiert. Das ist das Ende von Owen Cage und hoffentlich auch dieser Bedrohung. Und jetzt zu Klaus Liebleid!",
+			"es": "//(0,30)\\\\Objetivo eliminado. Este es el fin de Owen Cage y, con suerte, el de esta amenaza. Ahora, a por Klaus Liebleid.",
+			"ru": "//(0,30)\\\\Цель уничтожена. С Оуэном Кейджем покончено, надеюсь, с вирусом тоже. На очереди Клаус Либляйд.",
+			"cn": "//(0,30)\\\\目标已被消灭。欧文·凯奇已经丧命，希望这次威胁也能随之瓦解现在该消灭克劳斯·利布莱德了。",
+			"tc": "//(0,30)\\\\目標確認。歐文．凱奇已經喪命，希望這次威脅也能隨之瓦解。現在該消滅克勞斯．利布萊德了。",
+			"jp": "//(0,30)\\\\ターゲット排除。 彼が ウイルスの 最後の 犠牲者だと いいわね。 次は クラウス・リーブリードよ。"
+		}
+	}
+}

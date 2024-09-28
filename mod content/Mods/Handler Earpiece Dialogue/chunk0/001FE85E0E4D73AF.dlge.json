@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/tutorial/9000_handler/ds9252_safetyprotocolhint.sweetdialog?/ds9252_safetyprotocolhint_young_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds9252_safetyprotocolhint_young_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/tutorial/9000_handler/ds9252_safetyprotocolhint_young_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/tutorial/9000_handler/ds9252_safetyprotocolhint_young_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\You're in. Now look around. The safety protocol should be around here somewhere.",
+			"fr": "//(0,0.5)\\\\Vous y êtes.//(0.8,2.010491)\\\\Maintenant, observez.//(2.260491,32.26049)\\\\Le protocole de sécurité est quelque part ici.",
+			"it": "//(0,30)\\\\Sei dentro. Ora guardati intorno. Il protocollo di sicurezza dovrebbe essere nei paraggi.",
+			"de": "//(0,30)\\\\Sie sind drin. Sehen Sie sich jetzt um. Das Sicherheitsprotokoll müsste hier irgendwo sein.",
+			"es": "//(0,2.209)\\\\Estás dentro. Mira a tu alrededor.//(2.209,32.209)\\\\El protocolo de seguridad debería estar por aquí.",
+			"ru": "//(0,1.236196)\\\\Ты внутри.//(1.236196,2.104294)\\\\Осмотрись.//(2.104294,32.10429)\\\\Правила техники безопасности должны быть где-то здесь.",
+			"cn": "//(0,2.068098)\\\\潜入成功。现在四处观察一下。//(2.068098,32.0681)\\\\安全协议应该就在这儿附近。",
+			"tc": "//(0,30)\\\\你已經進來了。四處看看。安全協議應該就在這兒附近。",
+			"jp": "//(0,30)\\\\中に入った。周囲を調べて。安全マニュアルがあるはずよ。"
+		}
+	}
+}

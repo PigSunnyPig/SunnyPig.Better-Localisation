@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/suburbia/27500_gartersnake/27500_handler/ds27500_galenvholesid.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds27500_galenvholesid_diana_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27500_gartersnake/27500_handler/ds27500_galenvholesid_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27500_gartersnake/27500_handler/ds27500_galenvholesid_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,2.04)\\\\THAT is Galen Vholes.//(2.04,7.423083)\\\\Don’t let his home practice fool you, he’s no more a doctor than his business partner.",
+					"fr": "//(0,1.404016)\\\\Voici Galen Vholes.//(1.404016,4.086196)\\\\Ne vous laissez pas berner par ses pratiques,//(4.086196,7.423083)\\\\car il n'est pas plus docteur que son associé.",
+					"it": "//(0,2.6)\\\\Quello è Galen Vholes.//(2.6,7.945943)\\\\Non lasciarti ingannare dallo studio che ha allestito, quello è tutto tranne che un medico.",
+					"de": "//(0,2.7)\\\\Das ... ist Galen Vholes.//(2.7,4.8)\\\\Lassen Sie sich nicht von seiner Hauspraxis täuschen://(4.8,9.430159)\\\\Er ist ebenso wenig Arzt wie sein Geschäftspartner.",
+					"es": "//(0,1.860966)\\\\Ese... es Galen Vholes.//(1.860966,4.176783)\\\\Que no te engañe su clínica casera.//(4.176783,8.357765)\\\\Tiene de médico lo mismo que su compañero de negocios.",
+					"ru": "//(0.5,2.616)\\\\Это... Гален Воулс.//(2.616,4.715)\\\\Хотя у него на дому работает клиника,//(4.715,5.814503)\\\\он знает о медицине не больше,//(5.814503,7.423083)\\\\чем его деловой партнер.",
+					"cn": "//(0,2.6)\\\\那人......就是盖伦·沃尔斯。//(2.6,32.6)\\\\别被他的家庭诊所骗了，他和他的商业伙伴一样，根本不是什么医生。",
+					"tc": "//(0,30)\\\\那......就是蓋倫‧弗爾斯。別被他的家庭診所騙了，他和他的事業同伴都不是醫生。",
+					"jp": "//(0,2.8)\\\\あの男がガレン・ヴォレスよ。//(2.8,4.7)\\\\ヴォレスの自由診療に騙されないで。//(4.7,7.423083)\\\\彼は自身の共謀者と同様、医者でもなければその知識もない。"
+				}
+			}
+		]
+	}
+}

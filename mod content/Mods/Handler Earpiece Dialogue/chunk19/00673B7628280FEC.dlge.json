@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/miami/21000_flamingo/21000_handler/21000_flyin.sweetdialog?/21000_flyin_diana_004.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "21000_flyin_diana_004",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/miami/21000_flamingo/21000_handler/21000_flyin_diana_004.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/miami/21000_flamingo/21000_handler/21000_flyin_diana_004.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,3.832022)\\\\Sierra Knox is expertly piloting her red Kronstadt car.",
+			"fr": "//[DIANA]\\\\//(0,30)\\\\Sierra Knox conduit habilement sa Kronstadt rouge.",
+			"it": "//[DIANA]\\\\//(0,30)\\\\Sierra Knox sfreccia sulla sua Kronstadt rossa.",
+			"de": "//[DIANA]\\\\//(0,30)\\\\Gekonnt steuert Sierra Knox ihren roten Kronstadt-Wagen.",
+			"es": "//[DIANA]\\\\//(0,30)\\\\Sierra Knox es una experta pilotando su coche rojo de Kronstadt.",
+			"ru": "//[DIANA]\\\\//(0,30)\\\\Сьерра Нокс умело пилотирует свой красный болид от «Кронштадт Индастриз».",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\希拉·诺克斯正在如火纯青的驾驶着她的喀琅施塔红色赛车。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\希拉．諾克斯正爐火純青地駕駛她的紅色喀琅施塔得賽車。",
+			"jp": "//[DIANA]\\\\//(0,30)\\\\シエラ・ノックスは赤いクローンシュタット車を見事に乗りこなしているわ。"
+		}
+	}
+}

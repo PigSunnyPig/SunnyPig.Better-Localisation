@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/rocky/dugong/46000_handler/46000_flyin.sweetdialog?/46000_flyin_grey_004.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "46000_flyin_grey_004",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/rocky/dugong/46000_handler/46000_flyin_grey_004.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/rocky/dugong/46000_handler/46000_flyin_grey_004.animset].pc_animset",
+		"languages": {
+			"en": "//[GREY]\\\\//(0,7.021472)\\\\You'll need to destroy the unit itself or render it inoperable by retrieving both keycards.",
+			"fr": "//[GREY]\\\\//(0,5.95075)\\\\Tu dois détruire l'unité, ou la rendre inutilisable en récupérant les deux cartes d'accès.",
+			"it": "//[GREY]\\\\//(0,5.95075)\\\\Distruggi l'unità o rendila inutilizzabile recuperando entrambe le chiavi magnetiche.",
+			"de": "//[GREY]\\\\//(0,3.6)\\\\Man wird die eigentliche Einheit vernichten oder funktionsunfähig machen müssen,//(3.6,5.95075)\\\\indem man beide Schlüsselkarten birgt.",
+			"es": "//[GREY]\\\\//(0,5.95075)\\\\Tendrás que recuperar ambas tarjetas para destruir la unidad o dejarla inoperativa.",
+			"ru": "//[GREY]\\\\//(0,3.731081)\\\\Уничтожь блок или выведи его из строя,//(3.731081,5.95075)\\\\забрав обе ключ-карты.",
+			"cn": "//[GREY]\\\\//(0,30)\\\\你必须把那两张钥匙卡都拿到手，以便让控制单元自毁，或者让它无法运作。",
+			"tc": "//[GREY]\\\\//(0,30)\\\\你必須摧毀控制裝置，或取得兩張鑰匙卡來使其無法被使用。",
+			"jp": "//[GREY]\\\\//(0,5.95075)\\\\お前は、ユニット自体を破壊するか、それともカードキーを2枚とも奪って使えなくするかしてくれ。"
+		}
+	}
+}

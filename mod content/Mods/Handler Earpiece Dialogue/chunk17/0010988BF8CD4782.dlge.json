@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25006_maelstromdown.sweetdialog?/ds25006_maelstromdown_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25006_maelstromdown_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25006_maelstromdown_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25006_maelstromdown_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.695582)\\\\The infamous Maelstrom is dead.//(2.695582,6.370771)\\\\Very well done, 47.",
+			"fr": "//(0,2.647015)\\\\Le célèbre Maelström est mort.//(2.647015,6.370771)\\\\Superbe travail, 47. Finissons-en.",
+			"it": "//(0,3.092785)\\\\Il famigerato Maelstrom è morto.//(3.092785,4.353276)\\\\Davvero un ottimo lavoro, 47.//(4.353276,6.370771)\\\\Adesso è tempo di chiudere la questione.",
+			"de": "//(0,2.901374)\\\\Der berüchtigte Maelstrom ist tot.//(2.901374,4.994)\\\\Sehr gute Arbeit, 47.//(4.994,6.370771)\\\\Bringen wir es zu Ende.",
+			"es": "//(0,2.630185)\\\\El infame Torbellino está muerto.//(2.630185,8)\\\\Buen trabajo, 47. Acabemos con esto.",
+			"ru": "//(0,2.547326)\\\\Знаменитый преступник Вихрь мертв.//(2.547326,4.571621)\\\\Превосходная работа, 47-й.//(4.571621,6.370771)\\\\Пора закругляться.",
+			"cn": "//(0,30)\\\\臭名昭著的大漩涡已经死亡。非常漂亮，47。让我们把任务做完吧。",
+			"tc": "//(0,30)\\\\臭名昭彰的大漩渦已經死亡。非常漂亮，47。讓我們把任務完成吧。",
+			"jp": "//(0,2.73)\\\\悪名高いメイルストロムが死んだわ。//(2.73,5.17)\\\\本当に良くやったわ、47。//(5.17,35.17)\\\\さあ終わりにしましょう。"
+		}
+	}
+}

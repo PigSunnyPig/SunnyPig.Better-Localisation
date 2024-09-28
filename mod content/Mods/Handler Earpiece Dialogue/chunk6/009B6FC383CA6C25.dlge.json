@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/rat/43000_handler/ds43014_targetsdownbothcore.sweetdialog?/ds43014_targetsdownbothcore_oliviahall_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds43014_targetsdownbothcore_oliviahall_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/rat/43000_handler/ds43014_targetsdownbothcore_oliviahall_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/rat/43000_handler/ds43014_targetsdownbothcore_oliviahall_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.8)\\\\Both targets down, good.//(1.8,5.3)\\\\Just give me a second... and I'm in.//(5.3,35.3)\\\\You can now access the core, 47.",
+			"fr": "//(0,4.4)\\\\Les deux cibles sont éliminées. Parfait, donnez-moi une seconde, et...//(4.4,34.4)\\\\c'est bon. Vous pouvez accéder au cœur, 47.",
+			"it": "//(0,1.9)\\\\Entrambi i bersagli a terra, bene.//(1.9,5.42)\\\\Dammi solo un secondo... e ci sono.//(5.42,35.42)\\\\Ora puoi accedere al sistema centrale, 47.",
+			"de": "//(0,1.722393)\\\\Beide Ziele neutralisiert. Gut.//(1.722393,5.285276)\\\\Geben Sie mir einen Augenblick ... und ich bin drin.//(5.285276,35.28527)\\\\Sie kommen jetzt an den Kern heran, 47.",
+			"es": "//(0,1.2)\\\\Los dos objetivos abatidos, bien.//(1.9,5.4)\\\\Dame un segundo, enseguida estoy contigo.//(5.4,35.4)\\\\Ya puedes acceder al núcleo, 47.",
+			"ru": "//(0,3.340491)\\\\Обе цели мертвы. Отлично. Секундочку...//(3.340491,33.34049)\\\\Всё, я в сети. Можешь разбираться с ядром, 47-й.",
+			"cn": "//(0,3.58)\\\\两名目标均已被消灭，很好。给我一点时间......//(3.58,33.58)\\\\登录成功。现在你可以访问核心了，47。",
+			"tc": "//(0,3.6)\\\\兩個目標都倒下了，很好。等我一下......//(3.6,33.6)\\\\我進去了。現在你能夠存取核心了，47。",
+			"jp": "//(0,30)\\\\両ターゲットを排除。よし、ちょっと待って... 入れた。コアにアクセスできるわよ、47。"
+		}
+	}
+}

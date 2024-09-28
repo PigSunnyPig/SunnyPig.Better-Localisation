@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/italy/1000_virus/1000_handler/ds1055_biohazardbriefing.sweetdialog?/ds1055_biohazardbriefing_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds1055_biohazardbriefing_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_virus/1000_handler/ds1055_biohazardbriefing_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_virus/1000_handler/ds1055_biohazardbriefing_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,5.091472)\\\\In case of an accident, the central lab unit is kept perpetually doused in chemicals//(5.091472,8.11816)\\\\to stop the virus prototype from spreading.//(8.11816,12.17681)\\\\Entering without a hazmat suit is sure to be lethal.//(12.17681,42.17681)\\\\The air purification system is able to clear the toxin, but the controls are only operated by senior lab personnel.",
+			"fr": "//(0,5)\\\\Des produits chimiques, destinés à empêcher la propagation du virus en cas d'accident,//(5,8.3)\\\\sont en permanence diffusés dans la pièce centrale du laboratoire.//(8.3,12.1)\\\\Y entrer sans combinaison de sécurité équivaudrait à un suicide.//(12.1,15.1)\\\\Le système de purification de l'air permet de dissiper les émanations toxiques,//(15.1,45.1)\\\\mais seuls les responsables du laboratoire sont habilités à le mettre en marche.",
+			"it": "//(0,3.800982)\\\\In caso di incidenti, l'unità del laboratorio centrale viene inondata//(3.800982,8.350061)\\\\di agenti chimici per impedire la propagazione del prototipo del virus.//(8.350061,12.16294)\\\\Entrare senza una tuta anti-contagio equivale a morte certa.//(12.16294,15.29583)\\\\Il sistema di purificazione dell'aria può eliminare la tossina,//(15.29583,45.29583)\\\\ma solo il personale qualificato è in grado di attivare i comandi.",
+			"de": "//(0,8.145767)\\\\Im Falle eines Unfalls werden Chemikalien in die zentrale Laboreinheit eingeleitet, um eine Ausbreitung des Virus zu verhindern.//(8.145767,11.79485)\\\\Das Betreten des Labors ohne Schutzanzug wäre zu diesem Zeitpunkt tödlich.//(11.79485,41.79485)\\\\Das Luftreinigungssystem ist in der Lage, das Toxin zu neutralisieren, darf aber nur von leitenden Labormitarbeitern bedient werden.",
+			"es": "//(0,3.95)\\\\En caso de accidente, la unidad central del laboratorio se rocía//(3.95,8.166)\\\\con sustancias químicas para evitar que el prototipo del virus se propague.//(8.166,11.834)\\\\Entrar sin un traje de aislamiento sería letal.//(11.834,15.063)\\\\El sistema de purificación del aire es capaz de eliminar la toxina,//(15.063,45.063)\\\\pero solo el personal veterano del laboratorio puede activarlo.",
+			"ru": "//(0,5)\\\\В случае аварии в центральной лаборатории начинается химическая обработка,//(5,8.4)\\\\чтобы не дать вирусу распространиться.//(8.4,12)\\\\Находиться там без защитного костюма — верная смерть.//(12,15.2)\\\\Система очистки воздуха может вывести токсины,//(15.2,45.2)\\\\но ей могут управлять только старшие сотрудники лаборатории.",
+			"cn": "//(0,5)\\\\为了防止发生事故，中央实验室单元永久浸泡在化学品中，//(5,8.2)\\\\这样原型病毒就无法扩散。//(8.2,12)\\\\不穿防护服进入肯定会丧命。//(12,15)\\\\他们的空气净化系统可以消除毒素，//(15,45)\\\\但控制台只有实验室的资深工作人员才能使用。",
+			"tc": "//(0,8.3)\\\\為了防止發生意外，中央實驗室單位永久浸泡在化學品中，這樣原型病毒就無法擴散。//(8.3,15.2)\\\\不穿防護服進入肯定會喪命。他們的空氣淨化系統可以消除毒素，//(15.2,45.2)\\\\但控制台只有實驗室的資深工作人員才能使用。",
+			"jp": "//(0,8.328843)\\\\研究所の 中央部分は 事故に 備えて、 ウィルスの 拡散を 防ぐ化学物質で 満たされて いるの。//(8.328843,15.73226)\\\\危険物処理の スーツが ないと 死ぬわ。 毒素を 除去する浄化システムも あるけれど、 幹部研究員以外は//(15.73226,18.50854)\\\\操作できないように なって いるの。"
+		}
+	}
+}

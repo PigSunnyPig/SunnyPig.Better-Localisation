@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/greedy/33000_raccoon/33000_handler/33000_flyin.sweetdialog?/33000_flyin_diana_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "33000_flyin_diana_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/greedy/33000_raccoon/33000_handler/33000_flyin_diana_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/greedy/33000_raccoon/33000_handler/33000_flyin_diana_002.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,2.696687)\\\\Your target, Director Athena Savalas can be//(2.696687,4.702666)\\\\found in her top floor office,//(4.702666,6.892902)\\\\overlooking the iconic teller hall.",
+			"fr": "//[DIANA]\\\\//(0,2.568589)\\\\Votre cible, Mme Savalas, la directrice,//(2.568589,4.869696)\\\\se trouve dans son bureau au dernier étage,//(4.869696,6.892902)\\\\surplombant les guichets du hall.",
+			"it": "//[DIANA]\\\\//(0,0.8588155)\\\\Il tuo bersaglio,//(0.8588155,1.975844)\\\\la direttrice Athena Savalas,//(1.975844,4.858727)\\\\si trova nel suo ufficio all'ultimo piano del palazzo,//(4.858727,8.303513)\\\\che dà sulla famosa sala degli sportelli bancari.",
+			"de": "//[DIANA]\\\\//(0,2.65)\\\\Sie finden Ihr Ziel, Direktorin Athena Savalas,//(2.65,4.8)\\\\in ihrem Büro in der obersten Etage,//(4.8,7.625523)\\\\von wo aus sie die berühmte Schalterhalle überblickt.",
+			"es": "//[DIANA]\\\\//(0,2.3)\\\\Encontrarás a tu objetivo, la directora Athena Savalas,//(2.3,4.5)\\\\en su oficina del piso superior,//(4.5,6.979248)\\\\desde donde supervisa el icónico vestíbulo de los cajeros.",
+			"ru": "//[DIANA]\\\\//(0,2.014792)\\\\Твоя цель, директор Афина Савалас,//(2.014792,4.626321)\\\\находится в своем офисе на верхнем этаже,//(4.626321,6.892902)\\\\откуда виден роскошный операционный зал.",
+			"cn": "//[DIANA]\\\\//(0,4.575)\\\\你的目标，总经理雅典娜·萨瓦拉斯此刻正在银行顶层的私人办公室，//(4.575,34.575)\\\\俯瞰着标志性的出纳大厅。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\你的目標總裁薩瓦拉斯會在她的頂樓辦公室，你在那裡可以看見具標誌性的銀行大廳。",
+			"jp": "//[DIANA]\\\\//(0,4.775)\\\\ターゲットの支店長、アテナ・サバラスは最上階にいるはずよ。//(4.775,6.892902)\\\\旧式の窓口フロアを見下ろす、彼女のオフィスにね。"
+		}
+	}
+}

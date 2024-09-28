@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_fashion/3000_handler/ds3203_bothtargetsdown.sweetdialog?/ds3203_bothtargetsdown_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds3203_bothtargetsdown_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_fashion/3000_handler/ds3203_bothtargetsdown_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_fashion/3000_handler/ds3203_bothtargetsdown_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.158589)\\\\Both targets are down. Great work.//(2.158589,32.15859)\\\\Now head towards an exit.",
+			"fr": "//(0,30)\\\\Vous avez eu les deux cibles. Beau travail. Maintenant, sortez d'ici.",
+			"it": "//(0,30)\\\\Entrambi i bersagli sono stati eliminati. Ottimo lavoro. Ora dirigiti verso un'uscita.",
+			"de": "//(0,1.604294)\\\\Beide Ziele neutralisiert.//(1.604294,2.472393)\\\\Hervorragend.//(2.472393,32.47239)\\\\Gehen Sie jetzt zu einem der Ausgänge.",
+			"es": "//(0,30)\\\\Has abatido a los dos objetivos. Un gran trabajo. Ahora dirígete a una salida.",
+			"ru": "//(0,30)\\\\Обе цели мертвы. Прекрасно сработано. А теперь давай к выходу.",
+			"cn": "//(0,2.1)\\\\两个目标都已消灭。干得漂亮。//(2.1,32.1)\\\\现在前往出口。",
+			"tc": "//(0,30)\\\\兩個目標都已消滅。幹得漂亮。現在前往出口。",
+			"jp": "//(0,30)\\\\二人とも始末できたわね。さあ、出口に向かって。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25078_maelstromkilledid.sweetdialog?/ds25078_maelstromkilledid_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25078_maelstromkilledid_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25078_maelstromkilledid_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25078_maelstromkilledid_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.783098)\\\\47, that man you just eliminated.//(2.783098,4.72377)\\\\That was The Maelstrom...//(4.72377,5.72377)\\\\Well done!",
+			"fr": "//(0,3.196687)\\\\47, cet homme que vous venez d'éliminer...//(3.196687,33.19669)\\\\C'était le Maelström. Bien joué.",
+			"it": "//(0,5)\\\\47, l'uomo che hai appena eliminato era Maelstrom...//(5,35)\\\\Ben fatto!",
+			"de": "//(0,3.184785)\\\\47, der Mann, den Sie gerade eliminiert haben://(3.184785,33.18478)\\\\Das war der Maelstrom ... Gut gemacht!",
+			"es": "//(0,3.1)\\\\47, ese hombre al que acabas de eliminar...//(3.1,33.1)\\\\Era el Torbellino... ¡Buen trabajo!",
+			"ru": "//(0,30)\\\\47-й, тот, кого ты сейчас убил, и есть Вихрь... Отлично!",
+			"cn": "//(0,30)\\\\47，你刚刚消灭的那个人。那个人就是大漩涡......干得好！",
+			"tc": "//(0,30)\\\\47，你剛除掉的人。就是大漩渦......幹得好！",
+			"jp": "//(0,30)\\\\47、あなたが排除した男。彼がメイルストロムよ... よくやったわね！"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession.sweetdialog?/dr8614_specopssession_troubled_specops_et_016.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8614_specopssession_troubled_specops_et_016",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession_troubled_specops_et_016.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession_troubled_specops_et_016.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\I guess. I mean, it’s just hard, right – to know what actually is the right thing to do.",
+			"fr": "//(0,1.84)\\\\C'est vrai.//(1.84,31.84)\\\\Franchement, c'est dur de... de savoir si on fait le bon choix.",
+			"it": "//(0,30)\\\\Immagino di sì, ma... è difficile capire quale sia la cosa giusta da fare.",
+			"de": "//(0,30)\\\\Das stimmt wohl. Aber es ist so schwer ... zu wissen, was wirklich richtig ist.",
+			"es": "//(0,30)\\\\Supongo. Pero es difícil. A veces cuesta saber qué es lo correcto.",
+			"ru": "//(0,1.656196)\\\\Да, наверное.//(1.656196,31.6562)\\\\Но вы же понимаете, что не всегда просто... понять, что правильно, а что нет.",
+			"cn": "//(0,30)\\\\我想是的。我的意思是，这很难，对吧——要知道什么才是真正该做的事。",
+			"tc": "//(0,30)\\\\我猜。我的意思是，要知道什麼是正確的做法確實很難，對吧。",
+			"jp": "//(0,30)\\\\I guess. I mean, it’s just hard, right – to know what actually is the right thing to do."
+		}
+	}
+}

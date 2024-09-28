@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession.sweetdialog?/dr8614_specopssession_troubled_specops_et_012.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8614_specopssession_troubled_specops_et_012",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession_troubled_specops_et_012.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession_troubled_specops_et_012.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\We’re freedom fighters. We’re taking on the actual power-brokers, the people who are beyond justice.",
+			"fr": "//(0,30)\\\\On combat pour la liberté. On s'attaque aux éminences grises, à ceux qui échappent à la justice.",
+			"it": "//(0,30)\\\\Noi siamo paladini della libertà. Combattiamo i veri manipolatori, i potenti al di sopra della giustizia.",
+			"de": "//(0,30)\\\\Wir sind Freiheitskämpfer. Wir treten gegen die Machthaber an, die sich außerhalb des Gesetzes stellen.",
+			"es": "//(0,1.690491)\\\\Somos luchadores por la libertad.//(1.690491,31.69049)\\\\Nos enfrentamos a los poderosos, a la gente que actúa más allá de la justicia.",
+			"ru": "//(0,30)\\\\Мы борцы за свободу. Мы сражаемся с теми, кто поставил себя выше правосудия.",
+			"cn": "//(0,30)\\\\我们是自由战士。我们要对付的是真正的权力掮客，是那些无法伸张正义的人。",
+			"tc": "//(0,30)\\\\我們是自由戰士。我們正在對抗真正的權力掮客，那些超越正義的人。",
+			"jp": "//(0,30)\\\\We’re freedom fighters. We’re taking on the actual power-brokers, the people who are beyond justice."
+		}
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/elegant/llama/44000_elusive/44000_clerico/44000_clerico_handler/ds44552_bookid.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds44552_bookid_diana_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/elegant/llama/44000_elusive/44000_clerico/44000_clerico_handler/ds44552_bookid_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/elegant/llama/44000_elusive/44000_clerico/44000_clerico_handler/ds44552_bookid_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,2.5)\\\\Evidently the target came prepared.//(2.5,5.8)\\\\And what have we here? A scrapbook?//(5.8,35.8)\\\\Newcombe certainly wouldn't be the first serial killer to keep trophies.",
+					"fr": "//(0,5.9)\\\\La cible est venue préparée, de toute évidence. Tiens, qu'avons-nous là ? Un scrapbook ?//(5.9,35.9)\\\\Newcombe fait donc partie de ces tueurs en série qui aiment garder des souvenirs.",
+					"it": "//(0,2.7)\\\\A quanto pare il bersaglio è ben preparato.//(2.7,5.9)\\\\Cosa abbiamo qui, un album di ritagli?//(5.9,35.9)\\\\Newcombe non sarebbe di certo il primo serial killer a conservare trofei delle vittime.",
+					"de": "//(0,2.708589)\\\\Das Ziel ist eindeutig vorbereitet angereist.//(2.708589,4.64908)\\\\Und was haben wir hier?//(4.64908,5.903374)\\\\Eine Art Sammelalbum?//(5.903374,35.90337)\\\\Newcombe wäre wahrlich nicht der erste Serienmörder, der Trophäen sammelt.",
+					"es": "//(0,2.4)\\\\Es obvio que el objetivo ha venido preparado.//(2.7,5.5)\\\\¿Qué tenemos aquí? ¿Un álbum de recortes?//(5.85,35.85)\\\\Desde luego, Newcombe no sería el primer asesino en serie que atesora trofeos.",
+					"ru": "//(0,2.109)\\\\Судя по всему, цель готовилась к встрече.//(2.76,5.43)\\\\Что это у нас? Альбом с вырезками?//(6.2,36.2)\\\\Ньюкомб не первый серийный убийца, собирающий трофеи.",
+					"cn": "//(0,2.68)\\\\显然目标有备而来。//(2.68,5.9)\\\\找到什么东西了吗？这是本剪贴簿？//(5.9,35.9)\\\\纽科姆当然不是第一个保存战利品的连环杀手。",
+					"tc": "//(0,6)\\\\顯然目標有備而來。找到什麼東西了嗎？這是本剪貼簿？//(6,36)\\\\紐康姆當然不是第一個保存戰利品的連環殺手。",
+					"jp": "//(0,2.62)\\\\ターゲットは準備に手ぬかりがないわね。//(2.62,5.76)\\\\それでこれは何かしら？スクラップブック？//(5.76,35.76)\\\\「戦利品」を取っておく連続殺人鬼はニューカムだけじゃないわ。"
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/rat/43000_handler/ds43325_meetupolivia5thdroneshot.sweetdialog?/ds43325_meetupolivia5thdroneshot_oliviahall_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds43325_meetupolivia5thdroneshot_oliviahall_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/rat/43000_handler/ds43325_meetupolivia5thdroneshot_oliviahall_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/rat/43000_handler/ds43325_meetupolivia5thdroneshot_oliviahall_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Not bad. I’ll keep the signal up a little while longer.",
+			"fr": "//(0,30)\\\\Pas mal. Je vais maintenir le signal un petit moment.",
+			"it": "//(0,30)\\\\Non male. Tengo attivo il segnale ancora un po'.",
+			"de": "//(0,30)\\\\Nicht schlecht. Ich werde das Signal noch etwas länger aufrechterhalten.",
+			"es": "//(0,30)\\\\No se te da mal. Mantendré la señal un poco más.",
+			"ru": "//(0,30)\\\\Неплохо. Я пока буду удерживать сигнал.",
+			"cn": "//(0,30)\\\\还不错。我会让信号再持续一段时间。",
+			"tc": "//(0,30)\\\\不錯，我會繼續維持訊號。",
+			"jp": "//(0,30)\\\\やるわね。もうしばらく通信を維持しとくわ。"
+		}
+	}
+}

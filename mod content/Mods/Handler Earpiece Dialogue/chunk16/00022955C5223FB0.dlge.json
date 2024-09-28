@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_skunk/27000_handler/ds27067_oppmoleholesbrief.sweetdialog?/ds27067_oppmoleholesbrief_grey_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds27067_oppmoleholesbrief_grey_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_skunk/27000_handler/ds27067_oppmoleholesbrief_grey_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_skunk/27000_handler/ds27067_oppmoleholesbrief_grey_001.animset].pc_animset",
+		"languages": {
+			"en": "//[GREY]\\\\//(0,7.123846)\\\\One of Janus' gardeners has decided to clear a series of mole tunnels using explosives.//(7.123846,13.63646)\\\\I applaud his enthusiasm, but sadly local police have confiscated his equipment.//(13.63646,19.5706)\\\\If you were to find it, 47, it might be the perfect way to rid the world of Janus.",
+			"fr": "//[GREY]\\\\//(0,2.681)\\\\L'un des jardiniers de Janus a décidé de se débarrasser//(2.681,7.3)\\\\de galeries de taupe à l'aide d'explosifs.//(7.3,9.374)\\\\J'admire son enthousiasme,//(9.374,14)\\\\mais ce n'est pas le cas de la police locale, qui a confisqué son matériel.//(14,16.5)\\\\Si vous pouviez mettre la main dessus, 47,//(16.5,20.64965)\\\\vous auriez un moyen tout trouvé de nous débarrasser de Janus.",
+			"it": "//[GREY]\\\\//(0,2.4)\\\\Uno dei giardinieri di Janus aveva deciso di//(2.4,7.3)\\\\distruggere i tunnel delle talpe usando l'esplosivo.//(7.3,9.2)\\\\Ho apprezzato molto il suo entusiasmo,//(9.2,11)\\\\ma purtroppo la polizia locale//(11,13.9)\\\\gli ha confiscato l'attrezzatura.//(13.9,17.5)\\\\47, se dovessi trovarla potrebbe essere il modo//(17.5,20.46447)\\\\perfetto per liberare il mondo dalla presenza di Janus.",
+			"de": "//[GREY]\\\\//(0,2.2)\\\\Einer von Janus’ Gärtnern hat sich entschieden,//(2.2,7.3)\\\\eine Reihe von Maulwurfsgängen zu sprengen.//(7.3,9.3)\\\\Mir gefällt sein Enthusiasmus,//(9.3,10.9)\\\\aber leider hat die örtliche Polizei//(10.9,14.1)\\\\seine Ausrüstung beschlagnahmt.//(14.1,16.5)\\\\Wenn Sie sie finden könnten, 47,//(16.5,17.6)\\\\wäre das die ideale Methode,//(17.6,19.5706)\\\\um die Welt von Janus zu befreien.",
+			"es": "//[GREY]\\\\//(0,2.443)\\\\Uno de los jardineros de Janus ha decidido usar//(2.443,7.423)\\\\explosivos para acabar con los túneles de unos topos.//(7.423,9.4)\\\\Aplaudo su entusiasmo//(9.4,10.5)\\\\pero, por desgracia,//(10.5,14.3)\\\\la policía local le ha confiscado el material.//(14.3,16.5)\\\\Si pudieras encontrarlo, 47,//(16.5,19.5706)\\\\sería perfecto para librar al mundo de Janus.",
+			"ru": "//[GREY]\\\\//(0,2.83381)\\\\Один из садовников Януса решил уничтожить//(2.83381,6.204)\\\\норы кротa с помощью взрывчатки.//(7.298806,10.217)\\\\Я одобряю такую находчивость, но, увы,//(10.217,12.846)\\\\полицейские эту взрывчатку конфисковали.//(13.896,17.303)\\\\Найди ее, 47-й, и тогда сможешь покончить//(17.303,19.5706)\\\\с Янусом самым эффектным способом.",
+			"cn": "//[GREY]\\\\//(0,7.202)\\\\杰纳斯的一名园丁决定用炸药清理鼹鼠挖出的一系列隧道。//(7.202,13.901)\\\\他的热情值得称道，但不幸的是，警察没收了他的设备。//(13.901,19.5706)\\\\47，如果你能找到这些炸药，或许能完美地解决掉杰纳斯。",
+			"tc": "//[GREY]\\\\//(0,7.168)\\\\傑納斯的一名園丁決定用炸藥清理鼴鼠挖出的隧道。//(7.168,13.736)\\\\他的熱情值得稱道，但不幸的是，員警沒收了他的設備。//(13.736,19.5706)\\\\47，如果你能找到這些炸藥，或許可以完美解決掉傑納斯。",
+			"jp": "//[GREY]\\\\//(0,7.4)\\\\ヤヌスの庭師の一人がモグラの作ったトンネルを爆薬で除去することにしたらしい。//(7.4,14)\\\\彼の熱意は称賛に価するが、地元警察が備品を没収してしまった。//(14,19.5706)\\\\それを見つければ、世界からヤヌスを葬るのに大いに役立つかもしれない。"
+		}
+	}
+}

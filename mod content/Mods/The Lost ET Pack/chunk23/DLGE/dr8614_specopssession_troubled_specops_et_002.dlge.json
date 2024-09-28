@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession.sweetdialog?/dr8614_specopssession_troubled_specops_et_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8614_specopssession_troubled_specops_et_002",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession_troubled_specops_et_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession_troubled_specops_et_002.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.7)\\\\Thanks, Doctor. I’ll just sit down here.//(2.7,32.7)\\\\Sorry, I’ve got mud on my boots from the range.",
+			"fr": "//(0,3.2)\\\\Merci, docteur. Je vais m'asseoir ici.//(3.2,33.2)\\\\Désolé. Mes bottes sont couvertes de boue.",
+			"it": "//(0,3.067)\\\\Grazie, dottore. Con permesso, mi siedo qui.//(3.067,33.067)\\\\Scusi, ma ho gli stivali sporchi di fango. Sa, il poligono...",
+			"de": "//(0,3.3)\\\\Danke, Doktor. Ich setze mich einfach mal hierhin.//(3.3,33.3)\\\\Tut mir leid, meine Stiefel sind schmutzig vom Schießstand.",
+			"es": "//(0,30)\\\\Gracias, doctor. Me sentaré aquí. Lo siento, vengo del campo de tiro y tengo barro en las botas.",
+			"ru": "//(0,3.080491)\\\\Спасибо, доктор. Я присяду, хорошо?//(3.080491,33.08049)\\\\Простите, у меня ботинки грязные — я только со стрельбища.",
+			"cn": "//(0,2.7)\\\\谢谢，医生。我就坐这儿吧。//(2.7,32.7)\\\\对不起，我的靴子沾上了靶场的泥巴。",
+			"tc": "//(0,2.7)\\\\謝謝，醫生。我就坐在這裡吧。//(2.7,32.7)\\\\抱歉，我的靴子上沾滿了靶場的泥巴。",
+			"jp": "//(0,2.7)\\\\Thanks, Doctor. I’ll just sit down here.//(2.7,32.7)\\\\Sorry, I’ve got mud on my boots from the range."
+		}
+	}
+}

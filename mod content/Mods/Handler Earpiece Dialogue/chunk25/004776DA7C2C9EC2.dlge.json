@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/marrakech/11000_python/11000_handler/ds11005_docobtainedtwotarget.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds11005_docobtainedtwotarget_diana_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11000_python/11000_handler/ds11005_docobtainedtwotarget_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11000_python/11000_handler/ds11005_docobtainedtwotarget_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Documents acquired. Two objectives remaining.",
+					"fr": "//(0,30)\\\\Documents obtenus. Deux objectifs restants.",
+					"it": "//(0,30)\\\\Documenti acquisiti. Due obiettivi rimanenti.",
+					"de": "//(0,30)\\\\Dokument beschafft. Zwei Ziele verbleiben.",
+					"es": "//(0,30)\\\\Te has hecho con los documentos. Quedan dos objetivos.",
+					"ru": "//(0,1.236196)\\\\Документы получены.//(1.236196,31.2362)\\\\Осталось две задачи.",
+					"cn": "//(0,30)\\\\已获取档案。还剩两个目标。",
+					"tc": "//(0,30)\\\\已獲取檔案。還剩兩個目標。",
+					"jp": "//(0,30)\\\\書類確保。目標、残り2つ。"
+				}
+			}
+		]
+	}
+}

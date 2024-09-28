@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/tutorial/9000_handler/ds9246_outrofreeform.sweetdialog?/ds9246_outrofreeform_young_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds9246_outrofreeform_young_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/tutorial/9000_handler/ds9246_outrofreeform_young_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/tutorial/9000_handler/ds9246_outrofreeform_young_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//[YOUNG_DIANA]\\\\//(0,2.2)\\\\Once again, great work, Initiate.//(2.2,5.4)\\\\This exercise is available for as long as you need.//(5.4,35.4)\\\\When you are ready to advance, you have only to let us know.",
+			"fr": "//[YOUNG_DIANA]\\\\//(0,2)\\\\Une fois encore, beau travail, initié.//(2.398589,5.29)\\\\Vous pouvez recommencer cet exercice à tout moment.//(5.493374,6.75)\\\\Quand vous serez prêt à progresser,//(7.15,37.15)\\\\prévenez-nous.",
+			"it": "//[YOUNG_DIANA]\\\\//(0,2.228)\\\\Ancora una volta, ottimo lavoro, recluta.//(2.228,5.466)\\\\Questa esercitazione resterà disponibile fin quando vorrai.//(5.466,35.466)\\\\Quando ti sentirai pronto a procedere oltre, non dovrai far altro che chiedere.",
+			"de": "//[YOUNG_DIANA]\\\\//(0,2.578589)\\\\Das war wieder gute Arbeit, Rekrut.//(2.578589,5.537178)\\\\Sie können die Übung jederzeit wiederholen.//(5.537178,35.53718)\\\\Lassen Sie es uns wissen, wenn Sie mit der nächsten Übung fortfahren möchten.",
+			"es": "//[YOUNG_DIANA]\\\\//(0,2.7)\\\\Una vez más, buen trabajo, iniciado.//(2.7,32.7)\\\\Podrás repetir el ejercicio tanto como quieras. Cuando estés listo para continuar, avísanos.",
+			"ru": "//[YOUNG_DIANA]\\\\//(0,1.972393)\\\\И вновь отличный результат.//(1.972393,5.04908)\\\\К этому упражнению можно возвращаться сколько угодно.//(5.04908,35.04908)\\\\Дай знать, когда будешь готов продолжить.",
+			"cn": "//[YOUNG_DIANA]\\\\//(0,2.268098)\\\\你这次的表现依然出色，新人。//(2.268098,5.618098)\\\\只要你需要，随时都可以重温此项练习。//(5.618098,35.6181)\\\\你准备好进行下一步时，只要和我们说一声就行。",
+			"tc": "//[YOUNG_DIANA]\\\\//(0,2.5)\\\\你這次的表現依然出色，新人。//(2.5,5.7)\\\\只要你需要，隨時都可以重溫此項練習。//(5.7,35.7)\\\\你準備好進行下一步時，只要和我們說一聲就行。",
+			"jp": "//[YOUNG_DIANA]\\\\//(0,2.4)\\\\もう一度言わせて。 見事だったわ。//(2.4,8.992458)\\\\トレーニングは好きなだけしてもらって構わない。 先に進みたいときは教えてね。"
+		}
+	}
+}

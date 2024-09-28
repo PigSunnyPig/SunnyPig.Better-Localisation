@@ -1,0 +1,21 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/marrakech/11600_elusive/11600_negroni/11600_negroni_handler/dr11610_diana.sweetdialog?/dr11610_diana_diana_et_007.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"langmap": "xx,en,fr,it,de,es",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr11610_diana_diana_et_007",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_handler/dr11610_diana_diana_et_007.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11600_elusive/11600_negroni/11600_negroni_handler/dr11610_diana_diana_et_007.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\That PDA will no doubt contain a great deal of information, 47. Take it with you when you extract.",
+			"fr": "//(0,3.8)\\\\Ce PDA contient sûrement des informations précieuses, 47.//(3.8,33.8)\\\\Récupérez-le avant de partir.",
+			"it": "//(0,30)\\\\Il palmare contiene sicuramente informazioni preziose, 47. Portalo con te al punto di estrazione.",
+			"de": "//(0,3.8)\\\\Der PDA enthält ohne Zweifel zahlreiche Informationen, 47.//(3.8,33.8)\\\\Nehmen Sie ihn mit, wenn Sie sich absetzen.",
+			"es": "//(0,30)\\\\Sin duda, esa PDA debe de contener mucha información, 47. Llévatela cuando hayas acabado ahí."
+		}
+	}
+}

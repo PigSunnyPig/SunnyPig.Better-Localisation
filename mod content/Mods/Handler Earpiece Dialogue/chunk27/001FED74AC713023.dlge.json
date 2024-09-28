@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_margerita/3000_margerita_handler/dr3647_diana.sweetdialog?/dr3647_diana_diana_et_005.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr3647_diana_diana_et_005",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_margerita/3000_margerita_handler/dr3647_diana_diana_et_005.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_margerita/3000_margerita_handler/dr3647_diana_diana_et_005.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA_ET]\\\\//(0,30)\\\\Excellent, 47. Now locate and eliminate the target.",
+			"fr": "//[DIANA_ET]\\\\//(0,30)\\\\Excellent, 47. Maintenant, trouvez la cible et éliminez-la.",
+			"it": "//[DIANA_ET]\\\\//(0,30)\\\\Perfetto, 47. Ora localizza ed elimina il bersaglio.",
+			"de": "//[DIANA_ET]\\\\//(0,30)\\\\Ausgezeichnet, 47. Finden und eliminieren Sie jetzt die Zielperson.",
+			"es": "//[DIANA_ET]\\\\//(0,30)\\\\Excelente, 47. Ahora localiza y elimina al objetivo.",
+			"ru": "//[DIANA_ET]\\\\//(0,30)\\\\Отлично, 47-й. Теперь найди и ликвидируй цель.",
+			"cn": "//[DIANA_ET]\\\\",
+			"tc": "//[DIANA_ET]\\\\//(0,30)\\\\非常好，47。現在去尋找並消滅目標。",
+			"jp": "//[DIANA_ET]\\\\//(0,30)\\\\よく見つけたわね。次はターゲットを始末して。"
+		}
+	}
+}

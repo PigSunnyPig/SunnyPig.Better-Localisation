@@ -1,0 +1,49 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/12500_white_spider/12500_rabies/12500_handler/ds12562_cooking.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds12562_cooking_diana_ws_001",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12562_cooking_diana_ws_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12562_cooking_diana_ws_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\The Target is assigned to the mess. Look for someone cooking in the field-kitchen.",
+					"fr": "//(0,30)\\\\La cible est préposée au mess. Cherchez quelqu'un qui fait la cuisine.",
+					"it": "//(0,30)\\\\Il bersaglio è assegnato alla mensa. Cerca qualcuno all'opera nella cucina da campo.",
+					"de": "//(0,30)\\\\Die Zielperson ist der Messe zugeteilt. Suchen Sie in der Feldküche jemanden, der kocht.",
+					"es": "//(0,30)\\\\El objetivo se encarga de las comidas. Busca a alguien cocinando en la cocina de campaña.",
+					"ru": "//(0,30)\\\\Цель дежурит в столовой. Ищи того, кто готовит на полевой кухне.",
+					"cn": "//(0,30)\\\\目标奉命前往清理现场。找找行军厨房里在做饭的人。",
+					"tc": "//(0,30)\\\\目標奉命前往清理現場。找找行軍廚房裡在做飯的人。",
+					"jp": "//(0,30)\\\\ターゲットは 調理担当よ。 外で 料理してる人を 探して。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds12562_cooking_diana_ws_002",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12562_cooking_diana_ws_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12562_cooking_diana_ws_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\The Target is near the field kitchen. He's a chef. I do hope he washed his hands...",
+					"fr": "//(0,30)\\\\La cible est près de la cuisine. C'est un chef cuisinier. J'espère qu'il s'est lavé les mains...",
+					"it": "//(0,30)\\\\Il bersaglio è vicino alla cucina da campo. È un cuoco. Speriamo si sia lavato le mani...",
+					"de": "//(0,30)\\\\Das Ziel ist in der Nähe der Feldküche. Er ist Koch. Hoffentlich hat er sich die Hände gewaschen ...",
+					"es": "//(0,30)\\\\El objetivo está cerca de la comida de campaña, es cocinero. Espero que se haya lavado las manos...",
+					"ru": "//(0,30)\\\\Цель должна быть у полевой кухни. Он повар. Надеюсь, он помыл руки...",
+					"cn": "//(0,30)\\\\目标在行军厨房附近。他是名大厨。希望他洗过手了...",
+					"tc": "//(0,30)\\\\目標在行軍廚房附近。他是名大廚。希望他洗過手了......",
+					"jp": "//(0,30)\\\\ターゲットは 外の 調理場の あたりに いるわ。 ちゃんと手を 洗ってるのかしら..."
+				}
+			}
+		]
+	}
+}

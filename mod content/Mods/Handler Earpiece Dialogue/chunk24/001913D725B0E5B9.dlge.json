@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_cross/4000_handler/ds4011_auditionconclusion.sweetdialog?/ds4011_auditionconclusion_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds4011_auditionconclusion_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_cross/4000_handler/ds4011_auditionconclusion_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_cross/4000_handler/ds4011_auditionconclusion_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Climbing the cultural ladder, I see. Good work, 47.",
+			"fr": "//(0,30)\\\\Je vois que vous grimpez les échelons de la culture. Beau travail, 47.",
+			"it": "//(0,30)\\\\Potresti avere un futuro come artista. Ottimo lavoro, 47.",
+			"de": "//(0,30)\\\\Kultur ist einfach Ihre Stärke, 47. Gute Arbeit.",
+			"es": "//(0,30)\\\\Ascendiendo en la escalera cultural, por lo que veo. Buen trabajo, 47.",
+			"ru": "//(0,2.6)\\\\Повышаешь культурный уровень, 47-й?//(2.6,32.6)\\\\Отличная работа.",
+			"cn": "//(0,30)\\\\我明白了，你打算进入文艺界。干得好，47。",
+			"tc": "//(0,30)\\\\我明白了，你打算進入演藝界。幹得好，47。",
+			"jp": "//(0,30)\\\\上流階級の仲間入りというわけね。上出来よ。"
+		}
+	}
+}

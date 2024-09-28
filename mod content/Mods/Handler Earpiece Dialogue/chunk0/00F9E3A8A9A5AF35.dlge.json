@@ -1,0 +1,87 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/evergreen/handler/ed004_almostgone.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ed004_almostgone_diana_001",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed004_almostgone_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed004_almostgone_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\47! Your target is slipping away!",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Votre cible vous échappe, 47 !",
+					"it": "//[DIANA]\\\\//(0,30)\\\\47! Il tuo bersaglio si sta allontanando!",
+					"de": "//[DIANA]\\\\//(0,30)\\\\47! Ihr Ziel schlüpft Ihnen durch die Finger!",
+					"es": "//[DIANA]\\\\//(0,30)\\\\¡47! ¡Tu objetivo se está escabullendo!",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\47-й! Твоя цель убегает!",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\47！你的目标快要逃走了！",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\47！你的目標要溜了！",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\47！ターゲットが逃げようとしている！"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed004_almostgone_diana_002",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed004_almostgone_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed004_almostgone_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\47! Your target is almost gone! Hurry!",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\47 ! Votre cible est à deux doigts de filer ! Vite !",
+					"it": "//[DIANA]\\\\//(0,30)\\\\47! Tra poco perderai il bersaglio! Sbrigati!",
+					"de": "//[DIANA]\\\\//(0,30)\\\\47! Ihr Ziel ist schon fast weg! Beeilung!",
+					"es": "//[DIANA]\\\\//(0,30)\\\\¡47, tu objetivo ya casi se ha ido! ¡Date prisa!",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\47-й! Твоя цель вот-вот скроется! Поспеши!",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\47！你的目标就快逃走了！快！",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\47！你的目標要跑了！快點！",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\47！ターゲットが行ってしまうわ！急いで！"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed004_almostgone_diana_003",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed004_almostgone_diana_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed004_almostgone_diana_003.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\47! You need to act fast! Your target is almost gone!",
+					"fr": "//[DIANA]\\\\//(0,1.960491)\\\\47, vous devez vous dépêcher !//(1.960491,3.634271)\\\\Votre cible est sur le point de s'échapper !",
+					"it": "//[DIANA]\\\\//(0,4.680982)\\\\47! Devi agire in fretta! Tra poco perderai il bersaglio!",
+					"de": "//[DIANA]\\\\//(0,2.1)\\\\47! Sie müssen rasch handeln!//(2.1,5.04908)\\\\Ihr Ziel ist schon fast weg!",
+					"es": "//[DIANA]\\\\//(0,2.060491)\\\\¡47, tienes que actuar rápido!//(2.060491,4.064785)\\\\¡Tu objetivo ya casi se ha ido!",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\47-й! Действуй быстро! Твоя цель скоро сбежит!",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\47！你得赶快行动！你的目标就快逃走了！",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\47！你動作得快一點！你的目標要跑了！",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\47！早くしないと！ターゲットがもう行ってしまう！"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed004_almostgone_diana_004",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed004_almostgone_diana_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed004_almostgone_diana_004.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\Your target is getting away! You need to move, 47!",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Votre cible s'échappe ! Accélérez le rythme, 47 !",
+					"it": "//[DIANA]\\\\//(0,30)\\\\Il tuo bersaglio sta fuggendo! Muoviti, 47!",
+					"de": "//[DIANA]\\\\//(0,1.2)\\\\Das Ziel entkommt!//(1.2,3.576687)\\\\Sie müssen sich in Bewegung setzen, 47!",
+					"es": "//[DIANA]\\\\//(0,30)\\\\¡Tu objetivo se escapa! ¡Tienes que moverte, 47!",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\Твоя цель уходит! 47-й, шевелись!",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\你的目标正在逃跑！47，你得赶快行动！",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\你的目標快逃走了！動作快，47！",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\ターゲットが行ってしまう！早くしなさい、47！"
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_handler/dr8610_diana.sweetdialog?/dr8610_diana_diana_et_006.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8610_diana_diana_et_006",
+		"soundtag": "Voiceover_Handler",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_handler/dr8610_diana_diana_et_006.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_handler/dr8610_diana_diana_et_006.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,30)\\\\Jeffersen is a target. Track and eliminate him.",
+			"fr": "//[DIANA]\\\\//(0,30)\\\\Jeffersen est une cible. Trouvez et éliminez-le.",
+			"it": "//[DIANA]\\\\//(0,30)\\\\Jeffersen è un bersaglio. Seguilo ed eliminalo.",
+			"de": "//[DIANA]\\\\//(0,30)\\\\Jeffersen ist ein Ziel. Verfolgen und eliminieren Sie ihn.",
+			"es": "//[DIANA]\\\\//(0,30)\\\\Jeffersen es un objetivo. Síguelo y elimínalo.",
+			"ru": "//[DIANA]\\\\//(0,30)\\\\Джефферсен — цель. Выследи и уничтожь его.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\杰弗森是一名目标。追踪并消灭他。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\傑佛森是一名目標。追踪並消滅他。",
+			"jp": "//[DIANA]\\\\//(0,30)\\\\Jeffersen is a target. Track and eliminate him."
+		}
+	}
+}

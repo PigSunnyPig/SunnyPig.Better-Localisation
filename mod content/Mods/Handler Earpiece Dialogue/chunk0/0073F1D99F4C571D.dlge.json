@@ -1,0 +1,68 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/evergreen/handler/ed023_leaderescape.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ed023_leaderescape_diana_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed023_leaderescape_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed023_leaderescape_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,2.362)\\\\The Leader has managed to escape.//(2.362,5.447433)\\\\We lost our chance, 47.",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\La Tête a réussi à s'échapper. C'était notre chance, 47.",
+					"it": "//[DIANA]\\\\//(0,1.9)\\\\Il leader ce l'ha fatta a fuggire.//(1.9,4.244529)\\\\Abbiamo perso la nostra occasione, 47.",
+					"de": "//[DIANA]\\\\//(0,1.75)\\\\Dem Anführer ist die Flucht gelungen.//(2.3,4.202707)\\\\Wir haben unsere Chance vertan, 47.",
+					"es": "//[DIANA]\\\\//(0,1.895034)\\\\Su líder ha logrado escapar.//(1.895034,3.905525)\\\\Hemos perdido nuestra oportunidad, 47.",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\Боссу удалось скрыться. Мы упустили шанс, 47-й.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\头目设法逃走了。我们失去了机会，47。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\首領逃脫了，我們錯過了機會，47。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\リーダーは逃げてしまったわ。もうチャンスはないわ、47。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed023_leaderescape_diana_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed023_leaderescape_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed023_leaderescape_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\The Leader slipped away, 47.",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\La Tête nous a filé entre les doigts, 47.",
+					"it": "//[DIANA]\\\\//(0,30)\\\\Il leader ce l'ha fatta a darsi alla macchia, 47.",
+					"de": "//[DIANA]\\\\//(0,30)\\\\Der Anführer ist entwischt, 47.",
+					"es": "//[DIANA]\\\\//(0,30)\\\\Su líder ha huido, 47.",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\Босс ускользнул, 47-й.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\头目溜走了，47。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\首領逃脫了，47。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\リーダーが逃げたわ、47。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed023_leaderescape_diana_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed023_leaderescape_diana_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed023_leaderescape_diana_003.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,2.113)\\\\We lost the Leader, 47.//(2.113,32.113)\\\\Better luck next time.",
+					"fr": "//[DIANA]\\\\//(0,1.579)\\\\Nous avons perdu la Tête, 47.//(1.579,3.5)\\\\Vous aurez plus de chance la prochaine fois.",
+					"it": "//[DIANA]\\\\//(0,1.8)\\\\Abbiamo perso il leader, 47.//(1.8,3.460491)\\\\Andrà meglio la prossima volta.",
+					"de": "//[DIANA]\\\\//(0,1.6)\\\\Wir haben den Anführer verloren, 47.//(2.05,3.828589)\\\\Mehr Glück beim nächsten Mal.",
+					"es": "//[DIANA]\\\\//(0,30)\\\\Hemos perdido a su líder, 47. ¡La próxima vez será!",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\Мы упустили босса, 47-й. В другой раз повезет.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\我们跟丢了头目，47。祝你下次好运。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\我們追丟了首領，47。祝你下次好運。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\リーダーを見失ったわ、47。次は頑張りましょう。"
+				}
+			}
+		]
+	}
+}

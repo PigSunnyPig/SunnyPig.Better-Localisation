@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25047_dawoodcontractbriefinghint1.sweetdialog?/ds25047_dawoodcontractbriefinghint1_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25047_dawoodcontractbriefinghint1_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25047_dawoodcontractbriefinghint1_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25047_dawoodcontractbriefinghint1_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.13521)\\\\You should get in touch with Vanya Shah now that//(2.13521,4.562431)\\\\her contract on Rangan has been fulfilled.//(4.562431,7.136694)\\\\Use one of the nearby payphones to call her.//(7.136694,8.713381)\\\\Maybe you can get her to reveal//(8.713381,12.68577)\\\\something about the Maelstrom.",
+			"fr": "//(0,1.537174)\\\\Vous devriez contacter Vanya Shah,//(1.537174,3.557494)\\\\maintenant que le contrat pour éliminer Rangan//(3.557494,6.258469)\\\\a été rempli. Appelez-la depuis l'une des cabines//(6.258469,8.661494)\\\\du coin, elle vous révélera peut-être quelque chose//(8.661494,10.208)\\\\à propos du Maelström.",
+			"it": "//(0,2.381574)\\\\Dovresti metterti in contatto con Vanya Shah,//(2.381574,4.773659)\\\\ora che Rangan è stato eliminato.//(4.773659,7.049256)\\\\Usa un telefono pubblico per chiamarla: magari//(7.049256,9.324852)\\\\riuscirai a farti dare delle informazioni sul//(9.324852,10.32485)\\\\Maelstrom.",
+			"de": "//(0,2.000235)\\\\Da ihr Attentat auf Rangan jetzt ausgeführt wurde,//(2.000235,4.764307)\\\\sollten Sie nun mit Vanya Shah in Kontakt treten.//(4.764307,6.040994)\\\\Rufen Sie sie von einem der Münztelefone//(6.040994,7.581)\\\\in der Nähe aus an.//(7.581,8.731484)\\\\Vielleicht bringen Sie sie ja dazu,//(8.731484,10.208)\\\\etwas über den Maelstrom preiszugeben.",
+			"es": "//(0,2.416178)\\\\Ahora que el contrato de Rangan ha sido completado,//(2.416178,4.063493)\\\\deberías contactar con Vanya Shah.//(4.063493,7.5)\\\\Usa una de las cabinas telefónicas de la zona para llamarla.//(7.5,12.79355)\\\\Puede que consigas que te revele algo sobre el Torbellino.",
+			"ru": "//(0,1.73313)\\\\Свяжись с Ваньей Шах и скажи ей,//(1.73313,4.929817)\\\\что Ранжан убит, как она и заказывала.//(4.929817,7.442279)\\\\Позвони ей из какого-нибудь таксофона неподалеку.//(7.442279,10.208)\\\\Возможно, она сообщит полезную информацию о Вихре.",
+			"cn": "//(0,4.8)\\\\既然你已经完成了朗甘的暗杀行动，你应该与瓦妮娅·沙见一面。//(4.8,10.208)\\\\使用附近的付费电话给她打个电话吧。或许她可以告诉你一些关于大漩涡的事情。",
+			"tc": "//(0,4.8)\\\\既然你已經完成朗甘的暗殺行動，你應該與瓦妮婭．沙見上一面。//(4.8,10.208)\\\\使用附近的公用電話打個電話吧。或許她可以告訴你一些大漩渦的事情。",
+			"jp": "//(0,4.555)\\\\ランガン暗殺が達成されたから、ヴァーニャ・シャーと連絡を取るといいわ。//(4.555,7.15)\\\\近くにある公衆電話を使うのよ。//(7.15,10.208)\\\\彼女からメイルストロムの情報を聞き出すことができるかもしれない。"
+		}
+	}
+}

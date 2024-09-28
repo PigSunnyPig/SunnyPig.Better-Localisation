@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/evergreen/handler/ed083_hardcorefail.sweetdialog?/ed083_hardcorefail_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ed083_hardcorefail_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed083_hardcorefail_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed083_hardcorefail_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\I understand. And don't worry, you can always return when you feel you're ready for it.",
+			"fr": "//(0,30)\\\\Je comprends. Ne vous en faites pas, vous pourrez y retourner dès que vous serez prêt.",
+			"it": "//(0,30)\\\\Capisco. Non preoccuparti, potrai sempre tornare quando ti sentirai pronto.",
+			"de": "//(0,1.1)\\\\Ich verstehe schon.//(1.1,2.05)\\\\Und keine Sorge://(2.05,32.05)\\\\Sie können jederzeit wiederkommen, sobald Sie meinen, bereit zu sein.",
+			"es": "//(0,1.236196)\\\\Lo entiendo.//(1.236196,2.160491)\\\\No te preocupes,//(2.160491,32.16049)\\\\siempre puedes volver cuando te sientas preparado para ello.",
+			"ru": "//(0,1.94)\\\\Понимаю тебя. Не переживай.//(1.94,31.94)\\\\Ты всегда можешь вернуться к работе, когда соберешься с силами.",
+			"cn": "//(0,30)\\\\我理解。别担心，等你准备好后随时可以回来。",
+			"tc": "//(0,30)\\\\我瞭解，不用擔心，準備好之後，隨時都可以回來。",
+			"jp": "//(0,30)\\\\わかったわ。心配は無用よ、準備が整ったと感じたら、いつでも戻れるわ。"
+		}
+	}
+}

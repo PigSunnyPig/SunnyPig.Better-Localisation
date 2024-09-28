@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/opulent/34000_stingray/34000_cinematics/34000_flyin.sweetdialog?/34000_flyin_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "34000_flyin_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/opulent/34000_stingray/34000_cinematics/34000_flyin_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/opulent/34000_stingray/34000_cinematics/34000_flyin_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,30)\\\\Welcome to the Maldives, 47.",
+			"fr": "//[DIANA]\\\\//(0,30)\\\\Bienvenue aux Maldives, 47.",
+			"it": "//[DIANA]\\\\//(0,30)\\\\Benvenuto alle Maldive, 47.",
+			"de": "//[DIANA]\\\\//(0,30)\\\\Willkommen auf den Malediven, 47.",
+			"es": "//[DIANA]\\\\//(0,30)\\\\Bienvenido a las Maldivas, 47.",
+			"ru": "//[DIANA]\\\\//(0.45,30.45)\\\\Добро пожаловать на Мальдивы, 47-й.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\47，欢迎来到马尔代夫。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\歡迎來到馬爾地夫，47。",
+			"jp": "//[DIANA]\\\\//(0,30)\\\\モルディブへようこそ、47。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession.sweetdialog?/dr8614_specopssession_troubled_specops_et_006.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8614_specopssession_troubled_specops_et_006",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession_troubled_specops_et_006.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession_troubled_specops_et_006.animset].pc_animset",
+		"languages": {
+			"en": "//(0,6.417178)\\\\All right. So. We’re planning an op. It’s a snatch and grab.//(6.417178,36.41718)\\\\I did something similar with this guy Stubbs, a while back, in Riga...",
+			"fr": "//(0,6.75)\\\\D'accord... Bon. On prépare une opération. Un kidnapping.//(6.75,36.75)\\\\J'ai déjà fait un truc de ce genre y a quelque temps avec Stubbs, à Riga...",
+			"it": "//(0,2.656)\\\\D'accordo, dunque...//(2.656,6.653)\\\\Stiamo organizzando una missione. Un \"prelievo\", diciamo.//(6.653,36.653)\\\\Ho già fatto qualcosa del genere qualche tempo fa, a Riga, con un certo Stubbs...",
+			"de": "//(0,7)\\\\In Ordnung. Wir planen gerade eine Operation. Wir sollen jemanden verschleppen.//(7,37)\\\\Ich hab so was Ähnliches schon mal gemacht, mit Stubbs. Ist 'ne Weile her, in Riga ...",
+			"es": "//(0,6.565)\\\\Bien, verá. Estamos planeando una operación. Un secuestro.//(6.565,36.565)\\\\Hice algo parecido hace tiempo con un tipo llamado Stubbs, en Riga...",
+			"ru": "//(0,6.3)\\\\Понятно. Так. Мы готовим операцию. Быстрый налет.//(6.3,36.3)\\\\Я уже проворачивал такое в Риге, работал вместе с этим парнем... Стаббсом.",
+			"cn": "//(0,6.417178)\\\\好吧，那么。我们在计划一次行动。抢夺和掠取。//(6.417178,36.41718)\\\\前不久，我在里加也和这个叫斯塔布斯的人做过类似的事...",
+			"tc": "//(0,6.417178)\\\\好的。所以。我們正在計劃一次手術。這是搶奪。//(6.417178,36.41718)\\\\不久前，我在裡加和史塔布斯做了類似的事情…",
+			"jp": "//(0,6.417178)\\\\All right. So. We’re planning an op. It’s a snatch and grab.//(6.417178,36.41718)\\\\I did something similar with this guy Stubbs, a while back, in Riga..."
+		}
+	}
+}

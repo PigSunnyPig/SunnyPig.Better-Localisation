@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8611_targetarrival.sweetdialog?/dr8611_targetarrival_paine_et_003.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8611_targetarrival_paine_et_003",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8611_targetarrival_paine_et_003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8611_targetarrival_paine_et_003.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Yes, of course. Although that, too, is quite the metaphor.",
+			"fr": "//(0,30)\\\\Oui, bien sûr. Même si ça aussi, c'est une métaphore.",
+			"it": "//(0,30)\\\\Sì, certo. Anche quella è un'ottima metafora, però.",
+			"de": "//(0,30)\\\\Ja, natürlich. Das ist übrigens auch eine sehr schöne Metapher.",
+			"es": "//(0,30)\\\\Sí, por supuesto. Aunque eso también es una buena metáfora.",
+			"ru": "//(0,30)\\\\Да, конечно. Хотя, это тоже неплохая метафора.",
+			"cn": "//(0,30)\\\\是的，当然了。虽说这......也是一个不错的比喻。",
+			"tc": "//(0,30)\\\\是的，當然了。儘管這......也是一個不錯的比喻。",
+			"jp": "//(0,30)\\\\Yes, of course. Although that, too, is quite the metaphor."
+		}
+	}
+}

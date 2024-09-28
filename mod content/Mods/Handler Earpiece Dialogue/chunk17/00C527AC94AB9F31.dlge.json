@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25109_contractrangandeadfindkashmirianlaptop.sweetdialog?/ds25109_contractrangandeadfindkashmirianlaptop_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25109_contractrangandeadfindkashmirianlaptop_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25109_contractrangandeadfindkashmirianlaptop_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25109_contractrangandeadfindkashmirianlaptop_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.842393)\\\\47, this is interesting...//(2.842393,8.209571)\\\\It looks like Vanya Shah hired \"The Kashmirian\" to kill Dawood Rangan.//(8.209571,10.88055)\\\\Well, since he's already eliminated,//(10.88055,14.37534)\\\\perhaps you should call Shah and let her know the contract is fulfilled?",
+			"fr": "//(0,2.724)\\\\47, c'est intéressant...//(2.724,5.737)\\\\On dirait que Vanya Shah a engagé le Cachemiri//(5.737,8.31)\\\\pour éliminer Dawood Rangan.//(8.31,10.87006)\\\\Comme celui-ci est déjà mort,//(10.87006,12.07006)\\\\peut-être pourriez-vous appeler Shah//(12.07006,42.07006)\\\\et la prévenir que le travail est terminé ?",
+			"it": "//(0,2.828589)\\\\47, credo che questo sia interessante...//(2.828589,7.745767)\\\\Sembra che Vanya Shah abbia assoldato \"il Kashmiro\" per uccidere Dawood Rangan.//(7.745767,11.17865)\\\\Beh, dal momento che lui è già stato eliminato//(11.17865,41.17865)\\\\potresti farle una telefonata per informarla che l'incarico è stato portato a termine.",
+			"de": "//(0,2.792393)\\\\47, das ist interessant ...//(2.792393,4.489)\\\\Es sieht aus, als hätte Vanya Shah//(4.489,8.153865)\\\\den „Kaschmiri“ angeheuert, um Dawood Rangan zu töten.//(8.153865,10.62055)\\\\Nun, da er inzwischen schon eliminiert wurde,//(10.62055,12.06104)\\\\sollten Sie vielleicht Shah anrufen//(12.06104,42.06104)\\\\und sie wissen lassen, dass der Auftrag erfüllt wurde.",
+			"es": "//(0,3)\\\\Qué interesante, 47...//(3,8.7)\\\\Parece que Vanya Shah contrató al «Cachemir» para matar a Dawood Rangan.//(8.7,11)\\\\Bueno, como este ya está criando malvas,//(11,41)\\\\¿por qué no llamas a Shah y le informas de que el contrato se ha cumplido?",
+			"ru": "//(0,2.906196)\\\\Любопытно, 47-й...//(2.906196,5.886687)\\\\Похоже, Ванья Шах наняла Кашмирца,//(5.886687,8.286687)\\\\чтобы убить Давуда Ранжана.//(8.286687,10.93669)\\\\Но раз он теперь мертв,//(10.93669,12.08669)\\\\может, стоит позвонить Шах//(12.08669,42.08669)\\\\и сообщить, что задание выполнено?",
+			"cn": "//(0,8.279)\\\\47，这很有意思......瓦妮娅·沙好像雇佣了“克什米尔人”刺杀达伍德·朗甘。//(8.279,38.279)\\\\嗯，既然他已经死了，也许你可以呼叫瓦妮娅·沙告诉她契约完成？",
+			"tc": "//(0,2.818)\\\\47，這挺有趣的......//(2.818,8.186)\\\\看起來瓦妮婭．沙找了「喀什米爾人」，要幹掉達伍德．朗甘。//(8.186,38.186)\\\\嗯，他已經被幹掉了，或許你可以打給沙，讓她知道合約工作已經完成？",
+			"jp": "//(0,2.745)\\\\47、面白いことがわかったわ...//(2.745,8.32)\\\\ヴァーニャ・シャーはダウッド・ランガンを殺すために「カシミリアン」を雇ったらしい。//(8.32,10.82)\\\\ランガンはすでに排除されているから、//(10.82,40.82)\\\\電話でシャーに任務完了の報告をしてみたらどうかしら？"
+		}
+	}
+}

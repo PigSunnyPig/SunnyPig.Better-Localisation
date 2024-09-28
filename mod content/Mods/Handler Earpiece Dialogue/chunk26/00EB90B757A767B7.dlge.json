@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/italy/7000_mamba/7000_handler/ds7008_earpiecebriefing.sweetdialog?/ds7008_earpiecebriefing_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds7008_earpiecebriefing_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/7000_mamba/7000_handler/ds7008_earpiecebriefing_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/7000_mamba/7000_handler/ds7008_earpiecebriefing_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.9)\\\\It is not uncommon practice for a politician to have cameras installed//(3.9,6.5)\\\\to get the help of a so called “third eye”.//(6.5,10.3)\\\\Someone who can feed them names and information on important individuals,//(10.3,12.2)\\\\in case they forget who they are.//(12.2,42.2)\\\\Maybe it’s time to have a little fun with our charismatic charlatan and see where it could lead us.",
+			"fr": "//(0,6.85)\\\\Il n'est pas rare pour un politicien d'utiliser des caméras afin d'obtenir l'aide de ce qu'on appelle \"le troisième œil\".//(6.85,10.47)\\\\Quelqu'un qui puisse lui donner les noms et les informations sur des personnes importantes,//(10.47,12.75)\\\\au cas où il ne les reconnaîtrait pas.//(12.75,42.75)\\\\Il est peut-être temps de s'amuser un petit peu avec notre charismatique charlatan et voir où ça peut nous amener.",
+			"it": "//(0,6.763865)\\\\Non è raro che i politici si servano di telecamere nascoste per essere supportati da un cosiddetto \"terzo occhio\",//(6.763865,12.6)\\\\una persona in grado di fornire loro informazioni e nomi di individui importanti, casomai se li dimenticassero.//(12.6,42.6)\\\\Forse potremmo fare uno scherzetto al nostro carismatico ciarlatano e vedere come si evolve la situazione...",
+			"de": "//(0,4)\\\\Es ist nicht ungewöhnlich für Politiker, Kameras zu installieren//(4,6.7)\\\\um ein sogenanntes „drittes Auge“ zur Hilfe zu haben.//(6.7,10.4)\\\\Jemanden, der ihnen Namen und Informationen zu wichtigen Individuen zustecken kann,//(10.4,12.5)\\\\falls sie vergessen wer diese sind.//(12.5,16.4)\\\\Vielleicht ist es an der Zeit für ein kleines Späßchen mit unserem charismatischen Scharlatan.//(16.4,46.4)\\\\Mal sehen, wo uns das hinführt.",
+			"es": "//(0,6.9)\\\\No es raro que un político instale cámaras para obtener la ayuda de lo que se conoce como un \"tercer ojo\".//(6.9,10.6)\\\\Alguien que puede darle los nombres e información acerca de individuos importantes,//(10.6,12.612)\\\\en caso de que no recuerde quienes son.//(12.612,16.25)\\\\Creo que es el momento de divertirnos un poco con nuestro carismático charlatán//(16.25,46.25)\\\\y ver hasta dónde nos conduce.",
+			"ru": "//(0,6.7)\\\\Политики нередко устанавливают камеры, чтобы использовать так называемый «третий глаз» —//(6.7,12.5)\\\\сотрудника, который подсказывает им имена и сведения о важных лицах, если они их вдруг забыли.//(12.5,42.5)\\\\Мне кажется, пришло время немного подшутить над нашим обаятельным шарлатаном и посмотреть, к чему это приведет.",
+			"cn": "//(0,6.477)\\\\政客经常安装摄像头，这样就能得到所谓“第三只眼”的协助。//(6.477,9.395098)\\\\因为他们有时候会忘记重要人物的名字，//(9.395098,12.6451)\\\\而“第三只眼”就能给政客提供对方的名字和信息。//(12.6451,42.6451)\\\\也许是时候跟我们魅力四射的骗子玩一玩并看看事情会如何发展了。",
+			"tc": "//(0,6.9)\\\\政客經常安裝攝影機，這樣就能得到所謂「第三隻眼」的協助。//(6.9,12.7)\\\\因為他們有時候會忘記重要人物的名字，而「第三隻眼」就能給政客提供對方的名字和資訊。//(12.7,42.7)\\\\也許是時候跟我們魅力四射的騙子玩一玩並看看事情會如何發展了。",
+			"jp": "//(0,7.570877)\\\\「第三の 目」と 呼ばれるスタッフの 手を 借りるために、 カメラを 取り付ける政治家は 珍しくないわ。//(7.570877,15.14175)\\\\政治家が 忘れた時の ために、 重要人物の 名前や、 個人データを 伝える係よ。 そろそろそのペテン師と//(15.14175,17.98083)\\\\遊ぶ時間よ？ さあ、 どうなるかしらね。"
+		}
+	}
+}

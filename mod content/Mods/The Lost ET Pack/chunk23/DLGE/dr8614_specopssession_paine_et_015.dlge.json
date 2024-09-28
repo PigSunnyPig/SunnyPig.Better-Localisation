@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession.sweetdialog?/dr8614_specopssession_paine_et_015.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8614_specopssession_paine_et_015",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession_paine_et_015.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession_paine_et_015.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.1)\\\\It sounds to me like this something that really concerns you, Jeffersen.//(4.1,9)\\\\I’m not going to roll out a football movie quote, or something trite.//(9,14)\\\\It is a real danger. That’s why it’s so important you talk about it.//(14,18.5)\\\\Not just with me, but with your team, with Rose, with everyone.//(18.5,21.35)\\\\You are freedom fighters, like you said,//(21.35,51.35)\\\\and it’s only your convictions that make you different from the people you’re fighting.",
+			"fr": "//(0,5.02)\\\\J'ai l'impression que c'est quelque chose qui vous hante, Jeffersen.//(5.02,9.8)\\\\Je ne vais pas vous sortir de citation tirée d'un film de série Z ni une banalité.//(9.8,11.78)\\\\C'est un véritable danger.//(11.78,14.4)\\\\C'est pour ça que vous devez en parler.//(14.4,19.4)\\\\Pas seulement avec moi, mais avec votre équipe, avec Rose... tout le monde.//(19.4,49.4)\\\\Comme vous l'avez dit, vous luttez pour la liberté et seules vos convictions vous distinguent de vos cibles.",
+			"it": "//(0,4.853)\\\\A quanto pare, Jeffersen, la questione ti turba profondamente.//(4.853,9.670178)\\\\Non voglio rifilarti qualche citazione tratta da un film sul football americano.//(9.670178,14.25)\\\\Il rischio è serio. Per questo è così importante che tu ne parli...//(14.25,19.198)\\\\Non solo con me, ma anche con la tua squadra, con Rose e con tutti gli altri.//(19.198,21.551)\\\\Voi lottate per la libertà, come hai appena ammesso,//(21.551,51.551)\\\\e sono proprio le vostre convinzioni a rendervi diversi dalle persone contro cui combattete.",
+			"de": "//(0,5.1)\\\\Das scheint Sie wirklich zu beunruhigen, Jeffersen.//(5.1,10)\\\\Ich werde jetzt keine Durchhalteparole aus einem Sportfilm zitieren oder so was.//(10,12)\\\\Diese Gefahr besteht wirklich.//(12,14.5)\\\\Darum ist es auch so wichtig, dass Sie darüber sprechen.//(14.5,19.5)\\\\Nicht nur mit mir, auch mit Ihrem Team, mit Rose, mit allen.//(19.5,49.5)\\\\Sie sind Freiheitskämpfer, wie Sie gesagt haben, und nur Ihre Überzeugungen unterscheiden Sie von denen, die Sie bekämpfen.",
+			"es": "//(0,4.887)\\\\Me da la impresión de que eso te preocupa de verdad, Jeffersen.//(4.887,9.75)\\\\No voy a usar ninguna cita de esas películas de deportes de equipo o algo igual de manido.//(9.75,14.348)\\\\Es un peligro real. Por eso es tan importante que hables de ello.//(14.348,19.404)\\\\No solo conmigo, sino también con tu equipo y con Rose. Con todos.//(19.404,21.607)\\\\Como tú has dicho, sois luchadores por la libertad,//(21.607,51.607)\\\\lo único que os diferencia de la gente contra la que lucháis son vuestras convicciones.",
+			"ru": "//(0,4.5)\\\\Похоже, Джефферсен, вас это всерьез беспокоит.//(4.5,9.5)\\\\Я не собираюсь сейчас бросаться банальными фразочками из фильмов про футбол.//(9.5,14.2)\\\\Это настоящая проблема. Вот почему так важно о ней говорить.//(14.2,18.90822)\\\\И не только со мной — обсудите это со своей командой, с Роузом, со всеми остальными.//(18.90822,48.90822)\\\\Вы сами сказали, что вы борцы за свободу, и только ваши убеждения отличают вас от тех, с кем вы сражаетесь.",
+			"cn": "//(0,4.1)\\\\在我看来，这才是你真正关心的问题，杰弗森。//(4.1,9)\\\\我才不要搬出足球电影里的经典名言，或者一些老生常谈的东西。//(9,14)\\\\这是真正的危险。这就是必须谈论它的原因。//(14,18.5)\\\\不仅是我，还有你的团队、罗斯和所有人。//(18.5,21.35)\\\\正如你所说，你们是自由战士，//(21.35,51.35)\\\\只有你的信念才能让你与你所对抗的人有所不同。",
+			"tc": "//(0,4.1)\\\\在我看來，這確實是你關心的事情，傑佛森。//(4.1,9)\\\\我不會推出足球電影台詞或陳腔濫調。//(9,14)\\\\這是一個真正的危險。這就是為什麼你談論它如此重要。//(14,18.5)\\\\不只是我，還有你的團隊，羅斯，每個人。//(18.5,21.35)\\\\正如你所說，你們是自由鬥士，//(21.35,51.35)\\\\正是你的信念使你與你的對手不同。",
+			"jp": "//(0,4.1)\\\\It sounds to me like this something that really concerns you, Jeffersen.//(4.1,9)\\\\I’m not going to roll out a football movie quote, or something trite.//(9,14)\\\\It is a real danger. That’s why it’s so important you talk about it.//(14,18.5)\\\\Not just with me, but with your team, with Rose, with everyone.//(18.5,21.35)\\\\You are freedom fighters, like you said,//(21.35,51.35)\\\\and it’s only your convictions that make you different from the people you’re fighting."
+		}
+	}
+}

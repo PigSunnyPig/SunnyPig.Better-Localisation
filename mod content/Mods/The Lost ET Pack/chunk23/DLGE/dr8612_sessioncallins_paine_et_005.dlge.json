@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8612_sessioncallins.sweetdialog?/dr8612_sessioncallins_paine_et_005.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8612_sessioncallins_paine_et_005",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8612_sessioncallins_paine_et_005.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8612_sessioncallins_paine_et_005.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4)\\\\Peter, hello. Yes, it’s me. Do you have time to come and see me?//(4,34)\\\\Of course, Peter. That’s what I’m here for. I’ll be waiting for you.",
+			"fr": "//(0,1.3)\\\\Peter ? Bonjour.//(1.3,2.56)\\\\Oui, c'est moi.//(2.56,4.05)\\\\Vous avez le temps de venir me voir ?//(4.8,34.8)\\\\Bien sûr, Peter. Je suis là pour ça. Je vous attends.",
+			"it": "//(0,1.206196)\\\\Peter, ciao.//(1.206196,4.589)\\\\Sì, sono io. Hai tempo di passare da me?//(4.589,34.589)\\\\Certo, Peter. Sono qui per questo. Ti aspetto.",
+			"de": "//(0,4.8)\\\\Peter, hallo! Ja, ich bin's. Hätten Sie jetzt Zeit für mich?//(4.8,34.8)\\\\Natürlich, Peter. Dafür bin ich ja da. Ich warte auf Sie.",
+			"es": "//(0,4)\\\\Hola, Peter. Sí, soy yo. ¿Tienes tiempo para venir a verme?//(4.789,34.789)\\\\Por supuesto, Peter. Para eso estoy aquí. Te estaré esperando.",
+			"ru": "//(0,2.5)\\\\Питер, здравствуйте. Да, это я.//(2.5,4.2)\\\\У вас есть время пообщаться со мной?//(4.2,34.2)\\\\Разумеется, Питер. Именно для этого я здесь. Буду ждать.",
+			"cn": "//(0,4)\\\\彼得，你好。是的，是我，你有时间来找我吗？//(4,34)\\\\当然了，彼得。我就是为这个来的，我会等你的。",
+			"tc": "//(0,4)\\\\彼得，你好。是的，是我，你有時間來找我嗎？//(4,34)\\\\當然了，彼得。這就是我來這裡的目的，我會等你的。",
+			"jp": "//(0,4)\\\\Peter, hello. Yes, it’s me. Do you have time to come and see me?//(4,34)\\\\Of course, Peter. That’s what I’m here for. I’ll be waiting for you."
+		}
+	}
+}

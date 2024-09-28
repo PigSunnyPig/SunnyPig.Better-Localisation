@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/rocky/dugong/46000_handler/ds46030_intelfarahhunt.sweetdialog?/ds46030_intelfarahhunt_grey_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds46030_intelfarahhunt_grey_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/rocky/dugong/46000_handler/ds46030_intelfarahhunt_grey_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/rocky/dugong/46000_handler/ds46030_intelfarahhunt_grey_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\A prisoner in the ruins? Might be worth a look.",
+			"fr": "//(0,30)\\\\Un prisonnier dans les ruines ? Ça pourrait être intéressant.",
+			"it": "//(0,1.972393)\\\\Un prigioniero nelle rovine?//(1.972393,31.97239)\\\\Potrebbe valere la pena indagare.",
+			"de": "//(0,1.9)\\\\Ein Gefangener in den Ruinen?//(1.9,31.9)\\\\Lohnt sich vielleicht, dem nachzugehen.",
+			"es": "//(0,30)\\\\¿Hay un prisionero en las ruinas? Quizás deberíamos echar un vistazo.",
+			"ru": "//(0,30)\\\\Пленник среди развалин? Это надо разведать.",
+			"cn": "//(0,30)\\\\废墟里有个囚犯？或许值得一查。",
+			"tc": "//(0,30)\\\\遺跡裡有個囚犯？或許值得一探。",
+			"jp": "//(0,30)\\\\廃墟に囚われの身？一度見てみる価値はあるな。"
+		}
+	}
+}

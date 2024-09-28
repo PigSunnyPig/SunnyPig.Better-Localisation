@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/miami/21000_flamingo/21000_handler/ds21039_raceover.sweetdialog?/ds21039_raceover_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds21039_raceover_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/miami/21000_flamingo/21000_handler/ds21039_raceover_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/miami/21000_flamingo/21000_handler/ds21039_raceover_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.778274)\\\\47, the race is over.//(1.778274,4.8)\\\\Sierra will be coming off the track any time now.",
+			"fr": "//(0,1.854)\\\\La course est terminée, 47.//(1.854,3.915)\\\\Sierra va quitter le circuit//(3.915,5.430687)\\\\d'une seconde à l'autre.",
+			"it": "//(0,1.956271)\\\\47, la corsa è finita.//(1.956271,3.796762)\\\\Sierra potrebbe uscire dalla pista//(3.796762,5.16486)\\\\in qualsiasi momento.",
+			"de": "//(0,2.057)\\\\47, das Rennen ist vorbei.//(2.057,6.656732)\\\\Sierra wird jetzt jeden Moment von der Strecke kommen.",
+			"es": "//(0,2.083293)\\\\47, la carrera ha terminado.//(2.083293,3.953302)\\\\Sierra abandonará el circuito en cualquier//(3.953302,4.953302)\\\\momento.",
+			"ru": "//(0,1.601177)\\\\47-й, гонка окончена.//(1.601177,4.8)\\\\Сьерра может сойти с трассы в любой момент.",
+			"cn": "//(0,30)\\\\47，比赛结束了。希拉随时都可能离开赛道。",
+			"tc": "//(0,30)\\\\47，比賽結束了。希拉隨時都可能離開賽道。",
+			"jp": "//(0,2.025)\\\\47、レースは終了したわ。//(2.025,32.025)\\\\シエラはコースからすぐにでも降りてくるわよ。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8615_demosession.sweetdialog?/dr8615_demosession_paine_et_005.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8615_demosession_paine_et_005",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8615_demosession_paine_et_005.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8615_demosession_paine_et_005.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\A rash? WHAT RASH?",
+			"fr": "//(0,30)\\\\Une rougeur ? QUELLE ROUGEUR ?",
+			"it": "//(0,30)\\\\Sfogo? QUALE SFOGO?",
+			"de": "//(0,30)\\\\Einen Ausschlag? WAS FÜR EINEN AUSSCHLAG?",
+			"es": "//(0,30)\\\\¿Un sarpullido? ¿Qué sarpullido?",
+			"ru": "//(0,0.8680981)\\\\Сыпь?//(2,32)\\\\Какая сыпь?",
+			"cn": "//(0,30)\\\\皮疹？什么皮疹？",
+			"tc": "//(0,30)\\\\皮疹？什麼皮疹？",
+			"jp": "//(0,30)\\\\A rash? WHAT RASH?"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession.sweetdialog?/dr8614_specopssession_paine_et_017.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8614_specopssession_paine_et_017",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession_paine_et_017.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession_paine_et_017.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Don’t over-analyze it. Focus on what’s right, and the rest will come.",
+			"fr": "//(0,1.91)\\\\Ne vous torturez pas.//(1.91,31.91)\\\\Concentrez-vous sur le bien et le reste suivra.",
+			"it": "//(0,30)\\\\Non pensarci troppo. Concentrati su ciò che è giusto, e il resto verrà da sé.",
+			"de": "//(0,30)\\\\Analysieren Sie nicht zu viel. Konzentrieren Sie sich darauf, was richtig ist, der Rest findet sich.",
+			"es": "//(0,30)\\\\No lo analices en exceso. Céntrate en lo que está bien, y el resto llegará.",
+			"ru": "//(0,1.972393)\\\\Не углубляйтесь так сильно.//(1.972393,31.97239)\\\\Сосредоточьтесь на том, что правильно, а остальное придет само.",
+			"cn": "//(0,30)\\\\不要过度分析。专注于做正确的事情，其他的都会迎刃而解。",
+			"tc": "//(0,30)\\\\不要過度分析它。專注於正確的事情，剩下的就會水到渠成。",
+			"jp": "//(0,30)\\\\Don’t over-analyze it. Focus on what’s right, and the rest will come."
+		}
+	}
+}

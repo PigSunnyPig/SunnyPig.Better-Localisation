@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/bulldog/41000_handler/ds41026_handlerzacharysbodynommb.sweetdialog?/ds41026_handlerzacharysbodynommb_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41026_handlerzacharysbodynommb_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/bulldog/41000_handler/ds41026_handlerzacharysbodynommb_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/bulldog/41000_handler/ds41026_handlerzacharysbodynommb_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\I wonder what happened to him, 47.",
+			"fr": "//(0,30)\\\\Je me demande ce qui lui est arrivé.",
+			"it": "//(0,30)\\\\Chissà che cosa gli è successo, 47.",
+			"de": "//(0,30)\\\\Ich frage mich, was ihm zugestoßen ist, 47.",
+			"es": "//(0,30)\\\\Me pregunto qué le habrá pasado, 47.",
+			"ru": "//(0,30)\\\\Интересно, что с ним случилось, 47-й?",
+			"cn": "//(0,30)\\\\不知道他遭遇了什么，47。",
+			"tc": "//(0,30)\\\\不知道他是怎麼了，47。",
+			"jp": "//(0,30)\\\\彼に一体何があったのかしら、47。"
+		}
+	}
+}

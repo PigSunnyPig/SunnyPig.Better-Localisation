@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/bulldog/41000_handler/ds41110_handlerpresentsuicide.sweetdialog?/ds41110_handlerpresentsuicide_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41110_handlerpresentsuicide_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/bulldog/41000_handler/ds41110_handlerpresentsuicide_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/bulldog/41000_handler/ds41110_handlerpresentsuicide_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Or, perhaps, you feel like digging a bit more?",
+			"fr": "//(0,30)\\\\Ou bien préférez-vous continuer de fouiller un peu ?",
+			"it": "//(0,30)\\\\O magari vuoi scavare ancora un po'?",
+			"de": "//(0,30)\\\\Oder vielleicht wollen Sie noch etwas tiefer graben?",
+			"es": "//(0,30)\\\\¿O prefieres indagar un poco más?",
+			"ru": "//(0,30)\\\\Или хочешь разузнать что-то еще?",
+			"cn": "//(0,30)\\\\或者你想要再作进一步调查？",
+			"tc": "//(0,30)\\\\除非，你想再深入調查一下？",
+			"jp": "//(0,30)\\\\それとも、もう少し探ってみたいかしら？"
+		}
+	}
+}

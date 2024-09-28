@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/italy/10000_elusive/10000_capirinha/10000_capirinha_handler/dr10609_diana.sweetdialog?/dr10609_diana_diana_et_003.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr10609_diana_diana_et_003",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/10000_elusive/10000_capirinha/10000_capirinha_handler/dr10609_diana_diana_et_003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/10000_elusive/10000_capirinha/10000_capirinha_handler/dr10609_diana_diana_et_003.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA_ET]\\\\//(0,1.45)\\\\Good evening, 47.//(1.45,3.876687)\\\\Intercepts have placed members of the target’s//(3.876687,6.641472)\\\\entourage in Sapienza, and this may lead you//(6.641472,9.83626)\\\\to the target himself. The chaos of Bosco’s//(9.83626,12.98104)\\\\epic film production will no doubt provide cover//(12.98104,16.38393)\\\\for your infiltration. And, I’m sure, a number of//(16.38393,46.38393)\\\\opportunities to engage him. Good hunting, 47.",
+			"fr": "//[DIANA_ET]\\\\//(0,1.84)\\\\Bonsoir, 47.//(1.84,5.86)\\\\D'après nos écoutes, l'entourage de la cible se trouverait en ville,//(5.86,8.67)\\\\ce qui pourrait vous conduire jusqu'à elle.//(8.67,14.6)\\\\Le chaos causé par le tournage gigantesque du film de Bosco vous fournira des moyens de vous couvrir et de vous infiltrer.//(14.6,18.56)\\\\Et je suis sûre qu'un certain nombre de possibilités s'offriront à vous.//(18.56,48.56)\\\\Bonne chasse, 47.",
+			"it": "//[DIANA_ET]\\\\//(0,1.756196)\\\\Buonasera, 47.//(1.756196,5.657178)\\\\Secondo le intercettazioni, l'entourage del bersaglio si trova a Sapienza.//(5.657178,8.588)\\\\Scommetto che questa pista ti condurrà fino al nostro uomo.//(8.588,14.548)\\\\Il caos che circonda la produzione dell'epico film di Bosco ti fornirà senza dubbio un'ottima copertura,//(14.548,18.443)\\\\oltre a svariate occasioni per avvicinare il bersaglio.//(18.443,48.443)\\\\Buona caccia, 47.",
+			"de": "//[DIANA_ET]\\\\//(0,1.73)\\\\Guten Abend, 47.//(1.73,8.8)\\\\Wir haben erfahren, dass sich Mitglieder der Entourage der Zielperson in Sapienza aufhalten, die Sie vielleicht zum Ziel selbst führen könnten.//(8.8,18.5)\\\\Das Chaos bei Boscos epischer Filmproduktion erleichtert Ihnen zweifellos die Infiltration und bietet ganz sicher auch diverse Möglichkeiten, ihn zu eliminieren.//(18.5,48.5)\\\\Waidmannsheil, 47!",
+			"es": "//[DIANA_ET]\\\\//(0,1.604294)\\\\Buenas tardes, 47.//(1.604294,5.66)\\\\Nuestras intercepciones han localizado a diversos miembros del séquito del objetivo en Sapienza,//(5.66,8.768159)\\\\lo que puede llevarte al mismo.//(8.768159,14.33)\\\\El guirigay de la producción de la película épica de Bosco será sin duda una tapadera perfecta para tu infiltración//(14.33,18.549)\\\\y fuente de múltiples oportunidades para hacer tu trabajo, sin duda.//(18.549,48.549)\\\\Buena caza, 47.",
+			"ru": "//[DIANA_ET]\\\\//(0,1.724294)\\\\Добрый вечер, 47-й.//(1.724294,6.013374)\\\\Мы выяснили, что люди из ближайшего окружения цели находятся в Сапиенце,//(6.013374,8.841963)\\\\думаю, эта информация будет тебе полезна.//(8.841963,14.36724)\\\\Хаос, который сейчас творится на съемочной площадке Боско, должен обеспечить тебе хорошее прикрытие.//(14.36724,18.6)\\\\А также целый ряд возможностей для устранения объекта.//(18.6,48.6)\\\\Доброй охоты, 47-й.",
+			"cn": "//[DIANA_ET]\\\\//(0,1.568098)\\\\晚上好，47。//(1.568098,5.768098)\\\\侦听到的情报表明目标的随行人员就在萨比恩撒，//(5.768098,8.718098)\\\\这应该能引到你找到目标本人。//(8.718098,14.6681)\\\\博斯科史诗电影拍摄过程中发生的骚乱无疑会为你提供完美的渗透掩护。//(14.6681,44.6681)\\\\你肯定有不少机会能够接近他。狩猎愉快，47。",
+			"tc": "//[DIANA_ET]\\\\//(0,1.3)\\\\晚安，47。//(1.3,5.5)\\\\偵聽到的情報表明目標的隨行人員就在羅馬大學，//(5.5,8.35)\\\\這應該能帶你找到目標本人。//(8.35,14.3)\\\\博斯科史詩電影拍攝過程中發生的騷亂無疑會為你提供完美的滲透掩護。//(14.3,18.5)\\\\你肯定有不少機會能夠接近他。//(18.5,48.5)\\\\狩獵愉快，47。",
+			"jp": "//[DIANA_ET]\\\\//(0,1.69)\\\\こんばんは、 47。//(1.69,5.55)\\\\傍受した情報に よると、 サピエンツァに 側近が 複数いるらしく、//(5.55,8.7)\\\\それが 標的を 探す手がかりに なるかも しれないわ。//(8.7,14.58)\\\\ボスコの 大作映画の 撮影で 起こって いる騒動は、 潜入を 手助けして くれるはずよ。//(14.58,18.52)\\\\それに、 標的に 接近する機会が いくつも あるはず。//(18.52,19.85135)\\\\頼んだわよ、47。"
+		}
+	}
+}

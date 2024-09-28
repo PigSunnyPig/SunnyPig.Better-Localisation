@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_sakini/3000_sakini_handler/dr3680_diana.sweetdialog?/dr3680_diana_diana_et_007.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr3680_diana_diana_et_007",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_sakini/3000_sakini_handler/dr3680_diana_diana_et_007.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_sakini/3000_sakini_handler/dr3680_diana_diana_et_007.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA_ET]\\\\//(0,30)\\\\The target is in the ground-floor catering area, 47.",
+			"fr": "//[DIANA_ET]\\\\//(0,30)\\\\La cible est dans la cuisine du rez-de-chaussée, 47.",
+			"it": "//[DIANA_ET]\\\\//(0,30)\\\\Il bersaglio è nell'area catering del piano terra, 47.",
+			"de": "//[DIANA_ET]\\\\//(0,30)\\\\Das Ziel ist im Gastronomiebereich im Erdgeschoss, 47.",
+			"es": "//[DIANA_ET]\\\\//(0,30)\\\\El objetivo se encuentra en el catering de la planta baja, 47.",
+			"ru": "//[DIANA_ET]\\\\//(0,30)\\\\Цель в зоне обслуживания на первом этаже, 47-й.",
+			"cn": "//[DIANA_ET]\\\\//(0,30)\\\\47，目标在餐饮区一楼。",
+			"tc": "//[DIANA_ET]\\\\//(0,30)\\\\目標正在底樓膳食區域，47。",
+			"jp": "//[DIANA_ET]\\\\//(0,30)\\\\ターゲットは1階のケータリングエリアにいるわ、47。"
+		}
+	}
+}

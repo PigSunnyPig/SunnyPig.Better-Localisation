@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32012_sp_hostagestoship.sweetdialog?/ds32012_sp_hostagestoship_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32012_sp_hostagestoship_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32012_sp_hostagestoship_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32012_sp_hostagestoship_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\47, the hostages are being transported to the ship. You need to act now.",
+			"fr": "//(0,30)\\\\47, ils emmènent les otages sur le cargo. Dépêchez-vous d'agir.",
+			"it": "//(0,30)\\\\47, stanno trasportando gli ostaggi verso la nave. Devi agire subito.",
+			"de": "//(0,30)\\\\47, die Geiseln werden zum Schiff transportiert. Sie müssen jetzt handeln.",
+			"es": "//(0,30)\\\\47, los rehenes están siendo transportados al barco. Tienes que pasar a la acción ahora mismo.",
+			"ru": "//(0,30)\\\\47-й, заложников грузят на корабль. Нужно действовать.",
+			"cn": "//(0,30)\\\\47，人质正在被运上船。你得立刻行动。",
+			"tc": "//(0,30)\\\\47，人質被轉移到船上了，你的動作要快。",
+			"jp": "//(0,30)\\\\47、人質が船に移送されてる。今すぐ行動を開始して。"
+		}
+	}
+}

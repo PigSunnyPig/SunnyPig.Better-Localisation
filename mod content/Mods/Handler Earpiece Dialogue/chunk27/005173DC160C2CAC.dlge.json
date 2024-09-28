@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_sakini/3000_sakini_handler/dr3680_diana.sweetdialog?/dr3680_diana_diana_et_011.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr3680_diana_diana_et_011",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_sakini/3000_sakini_handler/dr3680_diana_diana_et_011.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_sakini/3000_sakini_handler/dr3680_diana_diana_et_011.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA_ET]\\\\//(0,30)\\\\Your target and his entourage have arrived on the first floor, 47.",
+			"fr": "//[DIANA_ET]\\\\//(0,30)\\\\Votre cible et son entourage viennent d'arriver au premier étage, 47.",
+			"it": "//[DIANA_ET]\\\\//(0,30)\\\\Il bersaglio e il suo personale hanno raggiunto il primo piano, 47.",
+			"de": "//[DIANA_ET]\\\\//(0,30)\\\\Die Zielperson ist jetzt im ersten Stock, 47.",
+			"es": "//[DIANA_ET]\\\\//(0,30)\\\\El objetivo y su séquito han llegado al primer piso, 47.",
+			"ru": "//[DIANA_ET]\\\\//(0,30)\\\\Цель в сопровождении свиты сейчас на втором этаже, 47-й.",
+			"cn": "//[DIANA_ET]\\\\//(0,30)\\\\47，你的目标及其随行人员已抵达一楼。",
+			"tc": "//[DIANA_ET]\\\\//(0,30)\\\\你的目標和他的團隊剛剛抵達了一樓，47。",
+			"jp": "//[DIANA_ET]\\\\//(0,30)\\\\ターゲットと取り巻きが、2階に現れたわ、47。"
+		}
+	}
+}

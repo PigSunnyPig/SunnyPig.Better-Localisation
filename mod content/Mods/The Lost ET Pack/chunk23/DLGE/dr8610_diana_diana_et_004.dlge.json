@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_handler/dr8610_diana.sweetdialog?/dr8610_diana_diana_et_004.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8610_diana_diana_et_004",
+		"soundtag": "Voiceover_Handler",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_handler/dr8610_diana_diana_et_004.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_handler/dr8610_diana_diana_et_004.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,30)\\\\That’s all of them, 47. A net improvement to the world of mental health, I’m sure.",
+			"fr": "//[DIANA]\\\\//(0,30)\\\\Vous les avez tous eus, 47. Vous avez rendu service au secteur de la santé mentale.",
+			"it": "//[DIANA]\\\\//(0,30)\\\\Questo era l'ultimo, 47. Hai fornito un prezioso contributo alla psichiatria, poco ma sicuro.",
+			"de": "//[DIANA]\\\\//(0,1.7)\\\\Das waren alle, 47.//(1.7,31.7)\\\\Eine deutliche Verbesserung für die Welt der psychischen Gesundheit. Ganz bestimmt.",
+			"es": "//[DIANA]\\\\//(0,30)\\\\Ya están todos, 47. Una gran mejora para la salud mental del mundo, sin duda.",
+			"ru": "//[DIANA]\\\\//(0,30)\\\\Это все, 47-й! Уверена, сегодня в мире стало на несколько безумцев меньше.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\这就是全部目标了，47。我确信，这对全世界的心理健康会有很大的改善。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\這就是全部目標了，47。我確信，這對全世界的心理健康來說是一個淨改善。",
+			"jp": "//[DIANA]\\\\//(0,30)\\\\That’s all of them, 47. A net improvement to the world of mental health, I’m sure."
+		}
+	}
+}

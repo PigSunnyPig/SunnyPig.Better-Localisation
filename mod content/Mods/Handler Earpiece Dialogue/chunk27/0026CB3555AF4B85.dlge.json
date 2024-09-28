@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_margerita/3000_margerita_handler/dr3647_diana.sweetdialog?/dr3647_diana_diana_et_006.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr3647_diana_diana_et_006",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_margerita/3000_margerita_handler/dr3647_diana_diana_et_006.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_margerita/3000_margerita_handler/dr3647_diana_diana_et_006.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA_ET]\\\\//(0,30)\\\\Well done, 47. The money has been wired to your account.",
+			"fr": "//[DIANA_ET]\\\\//(0,30)\\\\Beau travail, 47. L'argent a été transféré sur votre compte.",
+			"it": "//[DIANA_ET]\\\\//(0,30)\\\\Ben fatto, 47. Abbiamo già trasferito il denaro sul tuo conto.",
+			"de": "//[DIANA_ET]\\\\//(0,30)\\\\Gute Arbeit, 47. Das Geld wurde auf Ihr Konto überwiesen.",
+			"es": "//[DIANA_ET]\\\\//(0,30)\\\\Bien hecho, 47. El dinero se ha transferido a tu cuenta.",
+			"ru": "//[DIANA_ET]\\\\//(0,30)\\\\Очень хорошо, 47-й. Деньги перечислены на твой счет.",
+			"cn": "//[DIANA_ET]\\\\//(0,30)\\\\干得好，47。钱已经汇到了你账上。",
+			"tc": "//[DIANA_ET]\\\\//(0,30)\\\\幹得不錯，47。錢已經匯到了你賬上。",
+			"jp": "//[DIANA_ET]\\\\//(0,30)\\\\任務は完了よ。報酬は口座に振り込んだわ。"
+		}
+	}
+}

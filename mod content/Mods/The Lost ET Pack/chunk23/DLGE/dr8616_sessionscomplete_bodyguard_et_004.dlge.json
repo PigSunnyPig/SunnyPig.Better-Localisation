@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8616_sessionscomplete.sweetdialog?/dr8616_sessionscomplete_bodyguard_et_004.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8616_sessionscomplete_bodyguard_et_004",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8616_sessionscomplete_bodyguard_et_004.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8616_sessionscomplete_bodyguard_et_004.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Sure. Fire it up. I’ll get some beers in.",
+			"fr": "//(0,30)\\\\OK. Allez-y. Je vais chercher des bières.",
+			"it": "//(0,30)\\\\Certo, inizi pure. Io vado a prendere le birre.",
+			"de": "//(0,30)\\\\Kein Problem. Nur zu. Ich hole Bier.",
+			"es": "//(0,30)\\\\Claro, enciéndelo. Traeré unas cervezas.",
+			"ru": "//(0,30)\\\\Ага. Врубайте. Я пока за пивком схожу.",
+			"cn": "//(0,30)\\\\当然，点燃它。我要去喝点啤酒。",
+			"tc": "//(0,30)\\\\當然，點燃它。我去拿點啤酒喝。",
+			"jp": "//(0,30)\\\\Sure. Fire it up. I’ll get some beers in."
+		}
+	}
+}

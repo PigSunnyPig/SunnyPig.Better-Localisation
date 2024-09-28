@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/newzealand/31000_sheep/31000_story/dr31001_driveway.sweetdialog?/dr31001_driveway_diana_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr31001_driveway_diana_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_sheep/31000_story/dr31001_driveway_diana_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_sheep/31000_story/dr31001_driveway_diana_002.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.411366)\\\\They could be out.//(1.411366,2.822732)\\\\Could be lying low.//(2.822732,5.063739)\\\\The satellite scans were inconclusive.//(5.063739,7.163739)\\\\Only one way to find out, I’m afraid.",
+			"fr": "//(0,2.75)\\\\Ils sont peut-être sortis, ou ils se cachent.//(2.75,4.839)\\\\Les images satellites sont non-concluantes.//(4.839,11.57436)\\\\Il n'y a qu'une façon de le savoir, j'ai bien peur.",
+			"it": "//(0,1.34)\\\\Potrebbero essere usciti.//(1.34,2.95)\\\\O forse si stanno nascondendo.//(2.95,5.31)\\\\Le scansioni del satellite non sciolgono tutti i dubbi...//(5.31,35.31)\\\\Temo che ci sia solo un modo per scoprire la verità.",
+			"de": "//(0,1.122741)\\\\Vielleicht sind sie gerade unterwegs.//(1.122741,2.532403)\\\\Oder sie verstecken sich.//(2.532403,5.040992)\\\\Die Satellitenbilder geben auch keinen Aufschluss.//(5.040992,8.263384)\\\\Sie müssen das leider selbst herausfinden.",
+			"es": "//(0,0.9229041)\\\\Podrían estar fuera,//(0.9229041,2.409744)\\\\tratando de pasar desapercibidos.//(2.409744,4.174065)\\\\El satélite no es concluyente.//(4.174065,7.048313)\\\\Me temo que solo hay una forma de averiguarlo.",
+			"ru": "//(0,1.397147)\\\\Возможно, их нет дома.//(1.397147,2.821723)\\\\Или они прячутся.//(2.821723,4.889219)\\\\По снимкам со спутника не поймешь.//(4.889219,7.048313)\\\\Увы, есть только один способ проверить.",
+			"cn": "//(0,5.1)\\\\他们可能出去了。可能在避人耳目。我们用卫星也没扫描出什么来。//(5.1,35.1)\\\\恐怕只有一种办法能查清楚了。",
+			"tc": "//(0,5)\\\\可能出門了，也有可能在躲避風頭。衛星掃描不出結果。//(5,35)\\\\恐怕只剩下一種方式來查出究竟了。",
+			"jp": "//(0,2.525)\\\\外出中、もしくは隠れてるのかもしれないわ。//(2.525,4.915)\\\\衛星スキャンでは詳しいことはわからなかった。//(4.915,7.048313)\\\\どうやら確かめる方法は1つだけのようね。"
+		}
+	}
+}

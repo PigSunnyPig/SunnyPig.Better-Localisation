@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/golden/gecko/40000_handler/ds40002_ingrameliminated.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds40002_ingrameliminated_grey_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/gecko/40000_handler/ds40002_ingrameliminated_grey_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/gecko/40000_handler/ds40002_ingrameliminated_grey_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,3.204207)\\\\Carl Ingram finally gets what he deserves – good//(3.204207,6.307542)\\\\riddance. Now let's get Marcus Stuyvessant.",
+					"fr": "//(0,3.1)\\\\Carl Ingram a eu finalement ce qu'il méritait.//(3.1,4.6)\\\\Bon débarras.//(4.6,6.308)\\\\Maintenant, au tour de Marcus Stuyvesant.",
+					"it": "//(0,3.055)\\\\Finalmente Carl Ingram ha avuto quello che si meritava.//(3.055,4.535698)\\\\Che liberazione.//(4.535698,6.307542)\\\\Ora prendiamo Marcus Stuyvesant.",
+					"de": "//(0,2.696687)\\\\Endlich kriegt Carl Ingram, was er verdient –//(2.696687,4.201944)\\\\und das ist auch gut so.//(4.201944,6.307542)\\\\Schnappen wir uns jetzt Marcus Stuyvesant.",
+					"es": "//(0,2.8)\\\\Carl Ingram por fin ha tenido su merecido.//(3,4.3)\\\\Adiós, muy buenas.//(4.6,6.307542)\\\\Ahora, a por Marcus Stuyvessant.",
+					"ru": "//(0,3.944785)\\\\Карл Ингрэм наконец получил по заслугам. Скатертью дорога.//(3.944785,33.94479)\\\\Теперь на очереди Маркус Стейвесант.",
+					"cn": "//(0,4.5)\\\\卡尔·英格拉姆终于得到了报应，他死得大快人心。//(4.5,34.5)\\\\现在咱们该去找马库斯·斯图维森特了。",
+					"tc": "//(0,30)\\\\卡爾‧英格倫罪該應得－－活該。我們去找馬克斯‧史岱文森。",
+					"jp": "//(0,4.33)\\\\ついにカール・イングラムは受けるべき制裁を受けたな。せいせいしたぜ。//(4.33,34.33)\\\\次はマーカス・ストイフェサントだ。"
+				}
+			}
+		]
+	}
+}

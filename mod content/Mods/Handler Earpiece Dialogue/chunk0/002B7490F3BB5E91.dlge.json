@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/golden/gecko/40000_story/dr40040_superimportantintro.sweetdialog?/dr40040_superimportantintro_grey_005.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr40040_superimportantintro_grey_005",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/gecko/40000_story/dr40040_superimportantintro_grey_005.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/gecko/40000_story/dr40040_superimportantintro_grey_005.animset].pc_animset",
+		"languages": {
+			"en": "//[GREY]\\\\//(0,30)\\\\Good. Get back to me when you're there.",
+			"fr": "//[GREY]\\\\//(0,30)\\\\Bien. Rappelle-moi quand tu y seras.",
+			"it": "//[GREY]\\\\//(0,30)\\\\Bene. Ci risentiamo quando sei lì.",
+			"de": "//[GREY]\\\\//(0,30)\\\\Gut. Melde dich wieder, wenn du ihn erreicht hast.",
+			"es": "//[GREY]\\\\//(0,30)\\\\Bien. Avísame cuando llegues.",
+			"ru": "//[GREY]\\\\//(0,30)\\\\Хорошо. Сообщи, когда доберешься.",
+			"cn": "//[GREY]\\\\//(0,30)\\\\很好，等你到了之后再答复我吧。",
+			"tc": "//[GREY]\\\\//(0,30)\\\\很好，你到的時候跟我說一聲。",
+			"jp": "//[GREY]\\\\//(0,30)\\\\わかった。到着したら教えてくれ。"
+		}
+	}
+}

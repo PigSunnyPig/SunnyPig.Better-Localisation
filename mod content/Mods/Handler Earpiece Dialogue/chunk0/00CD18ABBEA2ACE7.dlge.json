@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/golden/gecko/40000_story/dr40144_greystorymissionover.sweetdialog?/dr40144_greystorymissionover_grey_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr40144_greystorymissionover_grey_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/gecko/40000_story/dr40144_greystorymissionover_grey_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/gecko/40000_story/dr40144_greystorymissionover_grey_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.8)\\\\Finally, Stuyvesant and Ingram are gone.//(2.8,8)\\\\Providence will soon be no more than a bad memory.//(8,12.2)\\\\47, thank you.//(12.2,14.86)\\\\I'll meet you at the rendez-vous on the edge of town.",
+			"fr": "//(0,3.8)\\\\Stuyvesant et Ingram ont disparu pour de bon.//(3.8,7.244785)\\\\Providence ne sera bientôt plus qu'un mauvais souvenir.//(7.244785,15.407)\\\\47, merci. On//(15.407,18.13781)\\\\se retrouve au point de rendez-vous à la sortie de la ville.",
+			"it": "//(0,3.515)\\\\Finalmente, Stuyvesant e Ingram sono morti.//(3.515,7.69)\\\\Presto Providence sarà solo un brutto ricordo.//(7.69,10.08)\\\\47, grazie.//(12.06,15.15)\\\\Ti//(15.15,18.13781)\\\\aspetto al punto d'incontro fuori dalla città.",
+			"de": "//(0,3.800482)\\\\Endlich sind Stuyvesant und Ingram tot.//(3.800482,7.266911)\\\\Bald wird Providence nicht mehr als eine böse Erinnerung sein.//(7.266911,14.65436)\\\\47, vielen Dank. Wir//(14.65436,18.13781)\\\\treffen uns am vereinbarten Ort am Stadtrand.",
+			"es": "//(0,2.7)\\\\Stuyvesant e Ingram están muertos, por fin.//(3.5,6.2)\\\\Pronto, Providence no será más que un mal recuerdo.//(7.8,10.8)\\\\47, gracias.//(12.1,18.13781)\\\\Me reuniré contigo en el punto de encuentro, a las afueras de la ciudad.",
+			"ru": "//(0,2.840491)\\\\Наконец-то. Стейвесант и Ингрэм мертвы.//(2.840491,7.466)\\\\«Провиденс» скоро останется лишь дурным воспоминанием.//(7.466,37.466)\\\\Спасибо, 47-й. Буду ждать тебя в точке встречи на окраине города.",
+			"cn": "//(0,3)\\\\结束了，斯图维森特和英格拉姆都不在了。//(3,6.62)\\\\用不了多久，神意秘会便只会是个糟糕的回忆了。//(6.62,36.62)\\\\47，谢谢你。我在城边的会合点等你。",
+			"tc": "//(0,3.6)\\\\終於，史岱文森和英格倫都被解決了。//(3.6,7.6)\\\\神意秘會很快就會成為一段不堪回首的回憶。//(7.6,37.6)\\\\47，謝謝你。我們到城鎮邊緣的會合點見面。",
+			"jp": "//(0,3)\\\\ついに、ストイフェサントとイングラムが片付いた。//(3,6.6)\\\\じきにプロヴィデンスはただの悪い思い出になるだろう。//(7.65,12.1)\\\\47、ありがとう。//(12.1,42.1)\\\\町外れの合流地点で会おう。"
+		}
+	}
+}

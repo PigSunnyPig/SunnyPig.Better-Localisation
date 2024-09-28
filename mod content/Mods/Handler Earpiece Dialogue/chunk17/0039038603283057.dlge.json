@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25022_idmaelstromvoice.sweetdialog?/ds25022_idmaelstromvoice_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25022_idmaelstromvoice_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25022_idmaelstromvoice_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25022_idmaelstromvoice_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.312034)\\\\47, that voice. It belongs to The Maelstrom.//(4.312034,5.921229)\\\\I'd recognize it anywhere.",
+			"fr": "//(0,2.374294)\\\\47, cette voix !//(2.374294,4.233988)\\\\C'est celle du Maelström,//(4.233988,5.92123)\\\\je la reconnaîtrais entre mille.",
+			"it": "//(0,3.778291)\\\\47, quella voce! Appartiene a Maelstrom.//(3.778291,5.921229)\\\\La riconoscerei ovunque.",
+			"de": "//(0,4.118405)\\\\47, diese Stimme! Das ist der Maelstrom.//(4.118405,5.921229)\\\\Ich würde sie überall erkennen.",
+			"es": "//(0,3.525737)\\\\¡47! ¡Esa voz! Es la voz del Torbellino.//(3.525737,5.921229)\\\\La reconocería en cualquier parte.",
+			"ru": "//(0,30)\\\\Я знаю этот голос, 47-й! Это Вихрь. Я узнаю его где угодно.",
+			"cn": "//(0,30)\\\\47，那个声音！那是大漩涡的声音。我一下就能听出来。",
+			"tc": "//(0,30)\\\\47，那個聲音！那是大漩渦的聲音。我一下就聽出來了。",
+			"jp": "//(0,30)\\\\47、あの声は！あれはメイルストロムの声よ。聞いてすぐにわかったわ。"
+		}
+	}
+}

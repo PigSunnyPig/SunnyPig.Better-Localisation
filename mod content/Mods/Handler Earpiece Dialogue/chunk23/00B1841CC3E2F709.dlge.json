@@ -1,0 +1,49 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/12500_white_spider/12500_rabies/12500_handler/ds12552_itchy.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds12552_itchy_diana_ws_001",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12552_itchy_diana_ws_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12552_itchy_diana_ws_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,6.7)\\\\From the Doctor's journal: \"Subject displaying symptomatic pruritus, indicative of imminent skin lesions\".//(6.7,36.7)\\\\Lovely. Look for someone scratching himself!",
+					"fr": "//(0,6.7)\\\\Dans le journal du docteur : \"Le sujet présente un prurit, symptôme annonciateur de lésions cutanées imminentes.\"//(6.7,36.7)\\\\Formidable. Cherchez quelqu'un qui se gratte !",
+					"it": "//(0,6.7)\\\\Dalla cartella del dottore: \"Il soggetto soffre di prurito sintomatico, indice di imminenti lesioni epidermiche\".//(6.7,36.7)\\\\Adorabile... Cerca qualcuno che si gratti di continuo!",
+					"de": "//(0,6.7)\\\\Aus den Unterlagen des Doktors: \"Subjekt hat Pruritus, es wird in Kürze zu Hautläsionen kommen.\"//(6.7,36.7)\\\\Sehr hübsch. Suchen Sie jemanden, der sich ständig kratzt!",
+					"es": "//(0,6.7)\\\\Del diario del doctor: \"El sujeto muestra un prurito sintomático indicador de una inminente lesión cutánea\".//(6.7,36.7)\\\\Qué bien. ¡Busca a alguien que se rasque!",
+					"ru": "//(0,6.7)\\\\Это из записей нашего доктора: «У объекта проявляется симптом: кожный зуд, что указывает на поражение кожи».//(6.7,36.7)\\\\Очень мило. Тебе нужен тот, кто чешется!",
+					"cn": "//(0,30)\\\\摘自医生的日志：“实验对象显示出搔痒症状，可能即将发生皮肤损伤。”很不错。找找在挠痒的人！",
+					"tc": "//(0,30)\\\\摘自醫生的日誌：「實驗物件顯示出搔癢症狀，可能即將發生皮膚損傷」。很棒。找找在撓癢的人！",
+					"jp": "//(0,30)\\\\ドクターの メモに こうあったわ。 「被験者は 皮膚の かゆみを 訴えて いる」。 かゆそうに してる人を 探しましょう！"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds12552_itchy_diana_ws_002",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12552_itchy_diana_ws_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12552_itchy_diana_ws_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\I have something from Insight, 47. Chronic itching is an early-stage symptom of the infection. Look for someone scratching himself.",
+					"fr": "//(0,30)\\\\J'ai des informations, 47. L'urticaire chronique est l'un des premiers symptômes de l'infection. Cherchez quelqu'un qui se gratte.",
+					"it": "//(0,30)\\\\Ho trovato nuovi dati su Insight, 47. Il prurito cronico è un sintomo legato alle prime fasi dell'infezione. Cerca qualcuno intento a grattarsi.",
+					"de": "//(0,30)\\\\Ich habe hier etwas, 47. Ständiger Juckreiz ist ein frühes Symptom der Infektion. Suchen Sie jemanden, der sich kratzt.",
+					"es": "//(0,30)\\\\Tengo más información, 47. El picor crónico es un síntoma de las primeras fases de la infección. Busca a alguien que se esté rascando.",
+					"ru": "//(0,30)\\\\Есть еще сведения о вирусе, 47-й. Хроническая чесотка — один из ранних симптомов заболевания. Ищи того, кто чешется.",
+					"cn": "//(0,30)\\\\我在Insight上发现了些东西，47。习惯性搔痒是感染的早期阶段症状。找找在挠痒的人。",
+					"tc": "//(0,30)\\\\我在慧眼上發現了些東西，47。習慣性搔癢是感染的早期階段症狀。找找在撓癢的人。",
+					"jp": "//(0,30)\\\\追加情報よ、 47。 慢性的なかゆみは、 感染者の 初期症状。 体を かいて いる人を 探して。"
+				}
+			}
+		]
+	}
+}

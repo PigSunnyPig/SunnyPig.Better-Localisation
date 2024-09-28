@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_whiterussian/3000_whiterussian_handler/dr3637_diana.sweetdialog?/dr3637_diana_diana_et_003.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr3637_diana_diana_et_003",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_whiterussian/3000_whiterussian_handler/dr3637_diana_diana_et_003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_whiterussian/3000_whiterussian_handler/dr3637_diana_diana_et_003.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA_ET]\\\\//(0,2.092393)\\\\Welcome to Paris, 47.//(2.092393,5.705276)\\\\The fashion event of the year has already begun.//(5.705276,11.48534)\\\\Intercepts place your target on site. It is highly likely that he will spend time at the ground-floor reception area.//(11.48534,15.83012)\\\\This represents your best opportunity to acquire him.//(15.83012,45.83012)\\\\Good hunting, 47.",
+			"fr": "//[DIANA_ET]\\\\//(0,2.3)\\\\Bienvenue à Paris, 47.//(2.3,5.4)\\\\Le plus grand défilé de l'année a déjà commencé.//(5.4,8)\\\\D'après nos agents, votre cible est sur le site.//(8,12.1)\\\\Elle risque de passer du temps au rez-de-chaussée, dans la salle de réception.//(12.1,42.1)\\\\C'est une opportunité à saisir. Bonne chasse, 47.",
+			"it": "//[DIANA_ET]\\\\//(0,2.242393)\\\\Benvenuto a Parigi, 47.//(2.242393,5.537)\\\\Il più grande evento della moda dell'anno è iniziato.//(5.537,8.082)\\\\Le intercettazioni confermano che il bersaglio è qui.//(8.082,11.899)\\\\È molto probabile che trascorrerà del tempo al rinfresco al piano terra.//(11.899,15.558)\\\\È la migliore occasione per individuarlo.//(15.558,45.558)\\\\Buona caccia, 47.",
+			"de": "//[DIANA_ET]\\\\//(0,5.16908)\\\\Willkommen in Paris, 47. Das Modeereignis des Jahres hat schon begonnen.//(5.16908,8.313865)\\\\Laut unserer Informationen ist Ihre Zielperson bereits eingetroffen.//(8.313865,12.05865)\\\\Vermutlich nimmt er am Empfang im Erdgeschoss teil.//(12.05865,42.05865)\\\\Das dürfte Ihre beste Chance für den Zugriff sein. Waidmannsheil, 47.",
+			"es": "//[DIANA_ET]\\\\//(0,5.6)\\\\Bienvenido a París, 47. El evento de moda del año ha dado comienzo.//(5.6,12.1)\\\\Intercepta a tu objetivo allí. Lo más probable es que frecuente el área de recepción de la planta baja.//(12.1,42.1)\\\\Es tu mejor oportunidad para ocuparte de él. Buena suerte, 47.",
+			"ru": "//[DIANA_ET]\\\\//(0,2.210491)\\\\Добро пожаловать в Париж, 47-й.//(2.210491,5.400982)\\\\Модельный показ года уже начался.//(5.400982,7.9)\\\\Судя по нашим данным, твоя цель на месте.//(7.9,12.05)\\\\Вероятнее всего, он будет на первом этаже, в зоне приемов.//(12.05,15.7)\\\\Там ты сможешь устранить его.//(15.7,45.7)\\\\Доброй охоты, 47-й.",
+			"cn": "//[DIANA_ET]\\\\//(0,2.2)\\\\欢迎来到巴黎，47。//(2.2,5.4)\\\\年度时尚活动已经开始了。//(5.4,8.1)\\\\截获的情报表明你的目标就在现场。//(8.1,12)\\\\他很有可能会花时间待在一楼的招待区。//(12,15.6)\\\\这是你找到他的最佳时机。//(15.6,45.6)\\\\狩猎愉快，47。",
+			"tc": "//[DIANA_ET]\\\\//(0,5.7)\\\\歡迎來到巴黎，47。時尚界的年度頂級盛事已展開。//(5.7,11.5)\\\\情報指出目標在現場。他非常有可能會在底樓的接待處。//(11.5,15.83)\\\\這是你解決他的最佳時機。//(15.83,45.83)\\\\狩獵愉快，47。",
+			"jp": "//[DIANA_ET]\\\\//(0,2.285)\\\\パリへ ようこそ、47。//(2.285,5.22)\\\\今年一番の ファッションイベントは すでに始まって いるわ。//(5.22,7.96)\\\\ターゲットが 到着して いることも 確認した。//(7.96,12.05)\\\\彼は 1階の レセプションエリアに いる可能性が 高いわ。//(12.05,15.63)\\\\そこへ 行けば、 ターゲットに 接触できるはずよ。//(15.63,17.01304)\\\\成功を 祈るわ、47。"
+		}
+	}
+}

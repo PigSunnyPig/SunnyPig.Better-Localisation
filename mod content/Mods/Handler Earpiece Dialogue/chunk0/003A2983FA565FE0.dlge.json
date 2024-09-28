@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/tutorial/9000_handler/ds9211_firstciviliankill.sweetdialog?/ds9211_firstciviliankill_young_diana_003.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds9211_firstciviliankill_young_diana_003",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/tutorial/9000_handler/ds9211_firstciviliankill_young_diana_003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/tutorial/9000_handler/ds9211_firstciviliankill_young_diana_003.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Be advised, Initiate. ICA clients rely on our discretion and do not expect collateral damage.",
+			"fr": "//(0,30)\\\\Prenez note, initié. Les clients de l'ICA comptent sur notre discrétion et n'attendent pas de dommages collatéraux.",
+			"it": "//(0,30)\\\\Recluta, ti ricordo che i clienti dell'ICA contano sulla nostra discrezione e non si aspettano danni collaterali.",
+			"de": "//(0,30)\\\\Überlegen Sie, Rekrut. ICA-Klienten verlassen sich auf unsere Diskretion und erwarten auf keinen Fall Kollateralschäden.",
+			"es": "//(0,1.524294)\\\\Quedas advertido, iniciado.//(1.524294,31.52429)\\\\Los clientes de la Agencia confían en nuestra discreción y no esperan daños colaterales.",
+			"ru": "//(0,30)\\\\Действуй осторожнее, новичок. Клиенты МКА ценят деликатность и не любят побочный урон.",
+			"cn": "//(0,1.5)\\\\注意了，新人。//(1.5,3.9)\\\\ICA的客户看中的就是我们低调的行事风格，//(3.9,33.9)\\\\他们不希望我们造成平民伤亡。",
+			"tc": "//(0,1.5)\\\\注意了，新人。//(1.5,3.9)\\\\ICA的客戶看中的就是我們低調的行事風格，//(3.9,33.9)\\\\他們不希望我們造成平民傷亡。",
+			"jp": "//(0,30)\\\\ひとつ忠告よ。ICAのクライアントは巻き添えを望んでいない。"
+		}
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/marrakech/11000_python/11000_handler/ds11013_escortconclusion.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds11013_escortconclusion_diana_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/11000_python/11000_handler/ds11013_escortconclusion_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/11000_python/11000_handler/ds11013_escortconclusion_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Good work, 47. Mendola is right where we want him. Now all that’s missing is the host.",
+					"fr": "//(0,3.8)\\\\Bon travail 47. Mendola se trouve exactement où l'on voulait.//(3.8,33.8)\\\\Tout ce qu'il nous manque, maintenant, c'est l'hôte.",
+					"it": "//(0,1.424294)\\\\Bel lavoro, 47.//(1.424294,3.501)\\\\Mendola è esattamente dove volevamo che fosse.//(3.501,33.501)\\\\Ora manca solo il padrone di casa.",
+					"de": "//(0,3.6)\\\\Gute Arbeit, 47. Mendola ist genau dort, wo wir ihn haben wollen.//(3.6,33.6)\\\\Jetzt fehlt nur der Gastgeber.",
+					"es": "//(0,30)\\\\Buen trabajo, 47. Mendola está justo donde lo queríamos. Ahora lo único que falta es el anfitrión.",
+					"ru": "//(0,3.75)\\\\Отличная работа, 47-й. Мендола именно там, где нужно.//(3.75,33.75)\\\\Теперь на этой вечеринке есть все, кроме хозяина.",
+					"cn": "//(0,1.55)\\\\干得好，47。//(1.55,3.8)\\\\门多拉就在我们想要的位置上。//(3.8,33.8)\\\\现在万事俱备，只欠主人了。",
+					"tc": "//(0,30)\\\\幹得好，47。門多拉就在我們想要的位置上。現在萬事俱備，只欠主人了。",
+					"jp": "//(0,30)\\\\よくやったわ、47。メンドーラがいい場所にいるわ。あとはホストを待つだけね。"
+				}
+			}
+		]
+	}
+}

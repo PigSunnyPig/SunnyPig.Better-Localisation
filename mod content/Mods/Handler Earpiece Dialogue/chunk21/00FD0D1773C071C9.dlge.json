@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_whiterussian/3000_whiterussian_handler/dr3637_diana.sweetdialog?/dr3637_diana_diana_et_006.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr3637_diana_diana_et_006",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3000_whiterussian/3000_whiterussian_handler/dr3637_diana_diana_et_006.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3000_whiterussian/3000_whiterussian_handler/dr3637_diana_diana_et_006.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA_ET]\\\\//(0,30)\\\\Contract complete.",
+			"fr": "//[DIANA_ET]\\\\//(0,30)\\\\Contrat terminé.",
+			"it": "//[DIANA_ET]\\\\//(0,30)\\\\Contratto completato.",
+			"de": "//[DIANA_ET]\\\\//(0,30)\\\\Auftrag erledigt.",
+			"es": "//[DIANA_ET]\\\\//(0,30)\\\\Contrato completado.",
+			"ru": "//[DIANA_ET]\\\\//(0,30)\\\\Контракт выполнен.",
+			"cn": "//[DIANA_ET]\\\\//(0,30)\\\\契约完成。",
+			"tc": "//[DIANA_ET]\\\\//(0,30)\\\\契約完成。",
+			"jp": "//[DIANA_ET]\\\\//(0,30)\\\\コントラクト完了。"
+		}
+	}
+}

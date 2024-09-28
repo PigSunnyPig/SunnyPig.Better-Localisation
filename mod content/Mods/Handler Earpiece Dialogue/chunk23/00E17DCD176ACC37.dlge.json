@@ -1,0 +1,68 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/12500_white_spider/12500_rabies/12500_handler/ds12530_anyinfectrun.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds12530_anyinfectrun_diana_ws_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12530_anyinfectrun_diana_ws_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12530_anyinfectrun_diana_ws_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Another one of the infected is making a run for it. Take him down now, 47!",
+					"fr": "//(0,30)\\\\Un autre agent infecté tente de prendre la fuite, abattez-le, 47 !",
+					"it": "//(0,30)\\\\Un altro infetto si sta dando alla fuga. Devi eliminarlo subito, 47!",
+					"de": "//(0,30)\\\\Ein weiterer Infizierter versucht zu fliehen. Schalten Sie ihn sofort aus, 47!",
+					"es": "//(0,30)\\\\Otro de los infectados se está escapando. ¡Elimínalo ya, 47!",
+					"ru": "//(0,30)\\\\Еще один зараженный убегает. Скорее стреляй, 47-й!",
+					"cn": "//(0,30)\\\\又一名感染者正打算逃跑。快消灭他，47！",
+					"tc": "//(0,30)\\\\又一名感染者正打算逃跑。快消滅他，47！",
+					"jp": "//(0,30)\\\\また感染者が 逃げようと してるわ。 急いで、 47！"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds12530_anyinfectrun_diana_ws_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12530_anyinfectrun_diana_ws_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12530_anyinfectrun_diana_ws_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\One of the infected targets is trying to escape. Take the shot!",
+					"fr": "//(0,30)\\\\Un des porteurs du virus essaie de s'enfuir. Tirez !",
+					"it": "//(0,30)\\\\Uno dei bersagli infetti sta cercando di scappare. Sparagli!",
+					"de": "//(0,30)\\\\Eine der infizierten Zielpersonen will fliehen. Schießen Sie!",
+					"es": "//(0,30)\\\\Uno de los objetivos infectados trata de escapar. ¡Dispara!",
+					"ru": "//(0,30)\\\\Одна из зараженных целей пытается сбежать. Стреляй!",
+					"cn": "//(0,30)\\\\有一名感染者试图逃跑。开枪消灭他！",
+					"tc": "//(0,30)\\\\有一名感染者試圖逃跑。開槍消滅他！",
+					"jp": "//(0,30)\\\\感染者が 逃走を 図って いるわ。 仕留めて！"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds12530_anyinfectrun_diana_ws_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12530_anyinfectrun_diana_ws_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12530_anyinfectrun_diana_ws_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\One of them is trying to escape, 47! Eliminate him before he can get clear!",
+					"fr": "//(0,30)\\\\Il y en a un qui essaie de s'échapper, 47 ! Éliminez-le avant qu'il ne soit hors de portée !",
+					"it": "//(0,30)\\\\Uno di loro sta scappando, 47! Eliminalo prima che sia troppo tardi!",
+					"de": "//(0,30)\\\\Einer von ihnen versucht zu fliehen, 47! Eliminieren Sie ihn, bevor er entkommt!",
+					"es": "//(0,30)\\\\¡Uno de ellos se está escapando, 47! ¡Elimínalo antes de que se esfume!",
+					"ru": "//(0,30)\\\\Один из них пытается сбежать, 47-й! Устрани его, пока он не покинул поле зрения!",
+					"cn": "//(0,30)\\\\有一名感染者试图逃跑，47！在他得逞之前快消灭他！",
+					"tc": "//(0,30)\\\\有一名感染者試圖逃跑，47！在他得逞之前快消滅他！",
+					"jp": "//(0,30)\\\\感染者が 逃げようと してるわ、 47！ 逃げられる前に 始末して！"
+				}
+			}
+		]
+	}
+}

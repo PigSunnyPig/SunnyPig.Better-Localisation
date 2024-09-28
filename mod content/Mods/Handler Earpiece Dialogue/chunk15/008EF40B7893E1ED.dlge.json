@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_penicillin/29000_penicillin_handler/ds29752_missiondone.sweetdialog?/ds29752_missiondone_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds29752_missiondone_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_handler/ds29752_missiondone_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_handler/ds29752_missiondone_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.3)\\\\Well done, 47.//(1.3,4.2)\\\\Target has been eliminated. Find an exit.//(4.2,34.2)\\\\Your money is being transferred now.",
+			"fr": "//(0,1.3)\\\\Bien joué, 47,//(1.3,3)\\\\la cible a été éliminée.//(3,33)\\\\Trouvez une issue, je m'occupe du transfert.",
+			"it": "//(0,1.3)\\\\Complimenti, 47.//(1.3,4.2)\\\\Il bersaglio è stato eliminato. Cerca un'uscita.//(4.2,34.2)\\\\Il denaro è in fase di trasferimento.",
+			"de": "//(0,1.3)\\\\Gut gemacht, 47.//(1.3,4.2)\\\\Ziel eliminiert. Suchen Sie einen Ausgang.//(4.2,34.2)\\\\Ihr Geld wird jetzt überwiesen.",
+			"es": "//(0,1.3)\\\\Buen trabajo, 47,//(1.3,4.2)\\\\el objetivo ha sido eliminado.//(4.2,34.2)\\\\Busca una salida. Ya se te está transfiriendo el dinero.",
+			"ru": "//(0,1.3)\\\\Отлично, 47-й.//(1.3,4.2)\\\\Цель устранена. Иди к выходу.//(4.2,34.2)\\\\Деньги уже переводятся на твой счет.",
+			"cn": "//(0,1.3)\\\\干得好，47。//(1.3,4.2)\\\\目标已被消灭。该找出口了。//(4.2,34.2)\\\\我们正在把钱转给你。",
+			"tc": "//(0,1.3)\\\\47，做得好。//(1.3,4.2)\\\\目標已消滅。找出口離開吧，//(4.2,34.2)\\\\我們馬上把錢轉給你。",
+			"jp": "//(0,1.3)\\\\よくやったわ、47。//(1.3,4.2)\\\\ターゲット排除完了。出口を探して。//(4.2,34.2)\\\\報酬は送金中よ。"
+		}
+	}
+}

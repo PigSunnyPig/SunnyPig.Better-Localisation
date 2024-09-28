@@ -1,0 +1,68 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_magpie/29000_handler/ds29053_oppfuneral_coffin.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds29053_oppfuneral_coffin_diana_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_magpie/29000_handler/ds29053_oppfuneral_coffin_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_magpie/29000_handler/ds29053_oppfuneral_coffin_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\That must be Janus' casket. But still no body.",
+					"fr": "//(0,1.683559)\\\\Ce doit être le cercueil de Janus.//(1.683559,3.568542)\\\\Mais il n'y a toujours pas de corps.",
+					"it": "//(0,1.784271)\\\\Quella dev'essere la bara di Janus.//(1.784271,3.568542)\\\\Del corpo però non c'è traccia.",
+					"de": "//(0,1.784271)\\\\Das sollte Janus’ Sarg sein.//(1.784271,3.568542)\\\\Aber immer noch keine Leiche.",
+					"es": "//(0,30)\\\\Debe de ser el ataúd de Janus; pero sigue faltando el cuerpo.",
+					"ru": "//(0,30)\\\\Это, видимо, гроб для Януса. Но тела нет.",
+					"cn": "//(0,30)\\\\那肯定就是杰纳斯的棺材。但仍然没有尸体。",
+					"tc": "//(0,30)\\\\那肯定就是傑納斯的棺材。但仍然沒有屍體。",
+					"jp": "//(0,30)\\\\ヤヌスの棺桶だわ。でもまだ遺体がない。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds29053_oppfuneral_coffin_diana_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_magpie/29000_handler/ds29053_oppfuneral_coffin_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_magpie/29000_handler/ds29053_oppfuneral_coffin_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,1.576214)\\\\That must be Janus' casket.//(1.576214,3.896121)\\\\Looks like the wake is about to start.//(3.896121,5.224438)\\\\But still no body.",
+					"fr": "//(0,1.612838)\\\\Ce doit être le cercueil de Janus.//(1.612838,3.418638)\\\\La veillée est sur le point de débuter.//(3.418638,5.224437)\\\\Mais il n'y a toujours pas de corps.",
+					"it": "//(0,1.668347)\\\\Quella dev'essere la bara di Janus.//(1.668347,3.329362)\\\\Sembra che la veglia stia per cominciare,//(3.329362,5.224438)\\\\ma non c'è alcuna traccia del corpo.",
+					"de": "//(0,1.482912)\\\\Das sollte Janus’ Sarg sein.//(1.482912,3.741526)\\\\Sieht aus, als würde die Totenwache gleich anfangen.//(3.741526,5.224438)\\\\Aber immer noch keine Leiche.",
+					"es": "//(0,1.743728)\\\\Debe de ser el ataúd de Janus.//(1.743728,3.689331)\\\\Parece que el velatorio está a punto de empezar,//(3.689331,5.224438)\\\\pero sigue faltando el cuerpo.",
+					"ru": "//(0,2.080491)\\\\Это, видимо, гроб для Януса.//(2.080491,4.134785)\\\\Поминки вот-вот начнутся.//(4.134785,5.78908)\\\\Но тела нет.",
+					"cn": "//(0,30)\\\\那肯定就是杰纳斯的棺材。看来守丧仪式马上要开始了。但仍然没有尸体。",
+					"tc": "//(0,30)\\\\那肯定就是傑納斯的棺材。看來守喪儀式馬上要開始。但仍然沒有屍體。",
+					"jp": "//(0,30)\\\\ヤヌスの棺桶だわ。通夜がもうすぐ始まりそうね。でもまだ遺体がない。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds29053_oppfuneral_coffin_diana_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_magpie/29000_handler/ds29053_oppfuneral_coffin_diana_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_magpie/29000_handler/ds29053_oppfuneral_coffin_diana_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,1.913389)\\\\That must be Janus' casket.//(1.913389,4.42863)\\\\Looks like the Arkians really admired him.//(4.42863,5.740167)\\\\But no body.",
+					"fr": "//(0,2.173419)\\\\Ce doit être le cercueil de Janus.//(2.173419,3.566748)\\\\L'Arche devait vraiment l'admirer.//(3.566748,5.740167)\\\\Mais il n'y a pas de corps.",
+					"it": "//(0,1.639719)\\\\Quella dev'essere la bara di Janus.//(1.639719,3.51)\\\\I membri della Ark avevano davvero//(3.51,4.91)\\\\una grande stima di lui.//(4.91,8.413094)\\\\Nessuna traccia del corpo, però.",
+					"de": "//(0,1.705429)\\\\Das sollte Janus’ Sarg sein.//(1.705429,3.5)\\\\Sieht aus, als hätten die Arkianer//(3.5,4.7)\\\\ihn aufrichtig bewundert.//(4.7,6.638312)\\\\Aber keine Leiche.",
+					"es": "//(0,2.07923)\\\\Debe de ser el ataúd de Janus.//(2.07923,4.407221)\\\\Parece que los arquianos lo admiraban un montón.//(4.407221,5.740167)\\\\Pero falta el muerto.",
+					"ru": "//(0,2.180491)\\\\Это, видимо, гроб для Януса.//(2.180491,4.88908)\\\\В «Обществе Ковчега» его явно обожают.//(4.88908,6.893374)\\\\Но тела нет.",
+					"cn": "//(0,30)\\\\那肯定就是杰纳斯的棺材。看来方舟会的人对他相当敬仰。但仍然没有尸体。",
+					"tc": "//(0,30)\\\\那肯定就是傑納斯的棺材。看來方舟會的人對他相當敬仰。但仍然沒有屍體。",
+					"jp": "//(0,2)\\\\ヤヌスの棺桶だわ。//(2,32)\\\\見たところ、アーキアンは本当に彼を敬愛していたようね。でも遺体がない。"
+				}
+			}
+		]
+	}
+}

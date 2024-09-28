@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12763_47vaccine.sweetdialog?/ds12763_47vaccine_diana_ws_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds12763_47vaccine_diana_ws_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12763_47vaccine_diana_ws_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12763_47vaccine_diana_ws_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Alright, 47. That should provide you with immunity to the Nabazov virus.",
+			"fr": "//(0,2.541075)\\\\Parfait, 47, vous devriez être immunisé contre le//(2.541075,3.517914)\\\\virus de Nabazov,//(3.517914,4.517914)\\\\à présent.",
+			"it": "//(0,30)\\\\D'accordo, 47. Questo dovrebbe garantirti l'immunità al virus NABAZOV.",
+			"de": "//(0,30)\\\\Okay, 47. Damit sollten Sie immun gegen das NABAZOV-Virus sein.",
+			"es": "//(0,30)\\\\Muy bien, 47. Con eso tendrás inmunidad ante el virus Nabazov.",
+			"ru": "//(0,30)\\\\Итак, 47-й. Это должно дать тебе иммунитет к вирусу НАБАЗОВА.",
+			"cn": "//(0,30)\\\\好了，47。这样你就能免疫纳巴佐夫病毒了。",
+			"tc": "//(0,30)\\\\好了，47。這樣你就能免疫納巴佐夫病毒了。",
+			"jp": "//(0,30)\\\\いいわ、 47。 それでナバゾフ・ウイルスの 抗体が できる。"
+		}
+	}
+}

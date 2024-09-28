@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/newzealand/31000_sheep/31000_handler/ds31006_tutorial_cctv.sweetdialog?/ds31006_tutorial_cctv_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds31006_tutorial_cctv_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/newzealand/31000_sheep/31000_handler/ds31006_tutorial_cctv_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/newzealand/31000_sheep/31000_handler/ds31006_tutorial_cctv_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,0.85)\\\\Good aim.//(0.85,4)\\\\Now, according to the local home security provider,//(4,6.8)\\\\the house is equipped with multiple cameras,//(6.8,8.35)\\\\placed around the perimeter.//(8.35,11.82275)\\\\I suggest you get rid of them, 47.",
+			"fr": "//(0,1.236196)\\\\Joli tir.//(1.236196,5)\\\\Bon, d'après un fournisseur de système de sécurité du coin,//(5,8.101963)\\\\la maison est équipée de trois caméras supplémentaires//(8.101963,9.75)\\\\placées dans le périmètre.//(9.75,39.75)\\\\Vous devriez les neutraliser, 47.",
+			"it": "//(0,1.236196)\\\\Bel colpo.//(1.236196,5.5)\\\\Ora, stando a quanto dice il fornitore del sistema di sicurezza, nella casa si trovano//(5.5,8.208589)\\\\altre telecamere piazzate lungo il perimetro.//(8.208589,38.20859)\\\\Ti suggerisco di sbarazzartene, 47.",
+			"de": "//(0,1.55)\\\\Gut gezielt.//(1.55,3)\\\\Laut dem örtlichen Sicherheitsdienstleister//(3,4.8)\\\\für Eigenheime ist das Haus//(4.8,6.9)\\\\mit mehreren Kameras ausgerüstet,//(6.9,8.4)\\\\die an der Grundstücksgrenze angebracht sind.//(8.4,38.4)\\\\Ich würde vorschlagen, Sie beseitigen sie, 47.",
+			"es": "//(0,1.236196)\\\\Buen disparo.//(1.236196,5)\\\\Ahora, según la empresa de seguridad local,//(5,7.208589)\\\\la casa cuenta en su perímetro//(7.208589,8.9)\\\\con numerosas cámaras adicionales.//(8.9,38.9)\\\\Te sugiero que te libres de ellas, 47.",
+			"ru": "//(0,0.85)\\\\Меткий выстрел.//(0.85,4)\\\\Но согласно данным местного охранного агентства,//(4,6.8)\\\\по периметру дома//(6.8,8.35)\\\\установлены еще три камеры.//(8.35,38.35)\\\\Советую тоже от них избавиться, 47-й.",
+			"cn": "//(0,8.2)\\\\很不错。根据当地住宅安保提供的情况，这间房子在外墙上安装了数个摄像头。//(8.2,38.2)\\\\我建议你先把它们全搞定，47。",
+			"tc": "//(0,8.2)\\\\射得真準。現在根據當地居家保全供應商的資料顯示，這家在外牆裝了數隻相機。//(8.2,38.2)\\\\我建議你先把它們解決掉，47。",
+			"jp": "//(0,1)\\\\お見事。//(1,4.5)\\\\さてと、地元のホームセキュリティ業者によると、//(4.5,8.5)\\\\あの家の周辺にはあと3台の監視カメラが設置されているらしい。//(8.5,38.5)\\\\破壊した方がいいわ、47。"
+		}
+	}
+}

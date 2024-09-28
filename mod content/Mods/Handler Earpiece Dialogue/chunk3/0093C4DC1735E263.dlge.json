@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/bulldog/41000_handler/ds41028_handlerusecameraonzacharysbody.sweetdialog?/ds41028_handlerusecameraonzacharysbody_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41028_handlerusecameraonzacharysbody_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/bulldog/41000_handler/ds41028_handlerusecameraonzacharysbody_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/bulldog/41000_handler/ds41028_handlerusecameraonzacharysbody_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Why don't you use your camera to scan the dead body, 47?",
+			"fr": "//(0,30)\\\\Pourquoi ne pas scanner le cadavre avec votre appareil photo, 47 ?",
+			"it": "//(0,30)\\\\Perché non usi la tua telecamera per scansionare il cadavere, 47?",
+			"de": "//(0,30)\\\\Warum verwenden Sie nicht Ihre Kamera, um die Leiche zu scannen, 47?",
+			"es": "//(0,30)\\\\¿Por qué no usas la cámara para escanear el cadáver, 47?",
+			"ru": "//(0,30)\\\\Может, осмотришь труп при помощи камеры, 47-й?",
+			"cn": "//(0,30)\\\\用你的相机扫描一下尸体，47。",
+			"tc": "//(0,30)\\\\你怎麼不用相機掃描屍體看看，47？",
+			"jp": "//(0,30)\\\\カメラで遺体をスキャンしてみたらどう？47？"
+		}
+	}
+}

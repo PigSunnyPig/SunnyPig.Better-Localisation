@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colombia/23000_anaconda/23000_anaconda_handler/ds23903_targetdown.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds23903_targetdown_diana_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colombia/23000_anaconda/23000_anaconda_handler/ds23903_targetdown_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colombia/23000_anaconda/23000_anaconda_handler/ds23903_targetdown_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,1.762083)\\\\Target has been eliminated.//(1.762083,3.569)\\\\Who would have thought that you would be one to//(3.569,8.119287)\\\\preserve endangered life, 47. Well done.",
+					"fr": "//(0,1.755519)\\\\Cible éliminée.//(1.755519,3.516216)\\\\Qui aurait cru que vous vous feriez le défenseur//(3.516216,6)\\\\d'une espèce en voie d'extinction, 47 ?//(6,7.344805)\\\\Beau travail.",
+					"it": "//(0,1.603515)\\\\Il bersaglio è stato eliminato.//(1.603515,3.873234)\\\\Chi l'avrebbe mai detto che ti saresti messo a//(3.873234,5.216403)\\\\tutelare le specie in pericolo,//(5.216403,6.658095)\\\\47? Ben fatto.",
+					"de": "//(0,2.2)\\\\Das Ziel wurde eliminiert.//(2.2,3.771396)\\\\Wer hätte gedacht, dass Sie einmal//(3.771396,5.8)\\\\eine vom Aussterben bedrohte Art retten würden, 47.//(5.8,8.336182)\\\\Gut gemacht.",
+					"es": "//(0,1.563597)\\\\El objetivo ha sido eliminado.//(1.563597,4.26864)\\\\¿Quién iba a decir que el gran 47 salvaría a una//(4.26864,5.832237)\\\\especie en peligro de extinción?//(5.832237,6.832237)\\\\Buen trabajo.",
+					"ru": "//(0,0.9838564)\\\\Цель уничтожена.//(0.9838564,2.2512)\\\\Кто бы мог подумать,//(2.2512,4.594878)\\\\что именно ты встанешь на защиту жизни исчезающих//(4.594878,6.658095)\\\\видов, 47-й. Отличная работа.",
+					"cn": "//(0,30)\\\\目标已被消灭。47，谁能想到你居然会致力于保护受威胁的生命呢？干得漂亮。",
+					"tc": "//(0,30)\\\\目標已消滅。誰能料到你竟然會去保護瀕臨絕種的動物，47。做得好。",
+					"jp": "//(0,1.92)\\\\ターゲット排除成功。//(1.92,31.92)\\\\あなたが絶滅の危機にある命を救うなんてね、47。よくやったわ。"
+				}
+			}
+		]
+	}
+}

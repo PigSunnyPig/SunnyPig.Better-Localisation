@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/rat/43000_handler/ds43415_controlleroliviaclearancefailed2.sweetdialog?/ds43415_controlleroliviaclearancefailed2_oliviahall_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds43415_controlleroliviaclearancefailed2_oliviahall_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/rat/43000_handler/ds43415_controlleroliviaclearancefailed2_oliviahall_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/rat/43000_handler/ds43415_controlleroliviaclearancefailed2_oliviahall_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.8)\\\\Shit. We’re out of time and your clearance failed.//(2.8,32.8)\\\\They know you’re an intruder.",
+			"fr": "//(0,30)\\\\Merde. On n'a plus de temps et l'autorisation a échoué. Ils savent que vous êtes un intrus.",
+			"it": "//(0,30)\\\\Merda. Non c'è più tempo e il tuo nullaosta ha fallito. Sanno che sei un intruso.",
+			"de": "//(0,30)\\\\Shit. Uns ist die Zeit ausgegangen, und Ihre Freigabe ist fehlgeschlagen. Man weiß, dass Sie ein Eindringling sind.",
+			"es": "//(0,30)\\\\Mierda. Nos quedamos sin tiempo y tu acreditación no vale. Saben que eres un intruso.",
+			"ru": "//(0,3.2)\\\\Черт. Время закончилось, твоя авторизация не прошла.//(3.2,33.2)\\\\Они знают, что ты посторонний.",
+			"cn": "//(0,30)\\\\该死。我们没时间了，你的许可失效了。他们知道你是入侵者了。",
+			"tc": "//(0,3)\\\\靠，我們沒時間了，而且你的權限失效了。//(3,33)\\\\這下他們知道你是入侵者了。",
+			"jp": "//(0,30)\\\\クソッ、時間切れよ。認証失敗だわ。侵入者だってことがバレてしまった。"
+		}
+	}
+}

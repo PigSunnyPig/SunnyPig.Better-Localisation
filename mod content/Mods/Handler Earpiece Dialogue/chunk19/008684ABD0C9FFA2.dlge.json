@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/miami/21000_flamingo/21000_handler/ds21043_kronstadtmechanicid.sweetdialog?/ds21043_kronstadtmechanicid_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds21043_kronstadtmechanicid_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/miami/21000_flamingo/21000_handler/ds21043_kronstadtmechanicid_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/miami/21000_flamingo/21000_handler/ds21043_kronstadtmechanicid_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.406078)\\\\That's one of the Kronstadt mechanics//(1.406078,3.130476)\\\\but he's away from the pit.//(3.130476,4.854875)\\\\I wonder what he's up to?",
+			"fr": "//(0,1.517196)\\\\C'est l'un des mécaniciens Kronstadt,//(1.517196,3.613334)\\\\mais il n'est pas au stand.//(3.613334,4.854875)\\\\Qu'est-ce qu'il manigance ?",
+			"it": "//(0,1.774555)\\\\Quello è uno dei meccanici di Kronstadt,//(1.774555,3.314715)\\\\ma è lontano dai box.//(3.314715,4.854875)\\\\Che cosa avrà in mente?",
+			"de": "//(0,1.106484)\\\\Das ist einer der Kronstadt-Mechaniker,//(1.106484,3.050692)\\\\aber er ist weit weg von der Boxengasse.//(3.050692,3.741674)\\\\Ich frage mich,//(3.741674,4.854875)\\\\was er wohl vorhat ...",
+			"es": "//(0,1.92094)\\\\Ese es uno de los mecánicos de Kronstadt,//(1.92094,3.618623)\\\\pero no está en los boxes.//(3.618623,4.854875)\\\\Me pregunto qué tramará.",
+			"ru": "//(0,1.458626)\\\\Это один из механиков «Кронштадта»,//(1.458626,3.473845)\\\\но он почему-то не в боксе.//(3.473845,4.110865)\\\\Что-то замышляет,//(4.110865,5.110865)\\\\видимо.",
+			"cn": "//(0,30)\\\\那是喀琅施塔得的一名机械工，但他现在并不在岗位上。不知道他要做什么？",
+			"tc": "//(0,30)\\\\那是喀琅施塔得的機械工，但他現在並不在崗位上。不知道他要做什麼？",
+			"jp": "//(0,30)\\\\あれはクローンシュタットの整備士の一人だけど、ピットから離れているわ。何をしているのかしら。"
+		}
+	}
+}

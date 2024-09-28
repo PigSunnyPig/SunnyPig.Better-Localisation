@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/bulldog/41000_elusive/41000_vesper/41000_vesper_handler/ds444500_jackroeid.sweetdialog?/ds444500_jackroeid_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds444500_jackroeid_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/bulldog/41000_elusive/41000_vesper/41000_vesper_handler/ds444500_jackroeid_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/bulldog/41000_elusive/41000_vesper/41000_vesper_handler/ds444500_jackroeid_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.9)\\\\That... is Jack Roe, a. k. a Jakob Ro, celebrity chef//(4.9,9.1)\\\\who has cashed in on the Nordic Cuisine bandwagon and has succeeded.//(9.1,39.1)\\\\His recipes might be bold, but he is a charlatan if there ever was one.",
+			"fr": "//(0,3.99)\\\\C'est... Jack Roe, aussi appelé Jakob Ro,//(3.99,9.05)\\\\le célèbre chef cuisinier qui a capitalisé sur cette fameuse tendance de nouvelle cuisine nordique.//(9.05,39.05)\\\\Ses recettes ont beau être audacieuses, il n'en reste pas moins un charlatan de la pire espèce.",
+			"it": "//(0,4.1)\\\\Quello... è Jack Roe, alias Jakob Ro,//(4.1,9.2)\\\\uno chef rinomato che ha deciso di puntare con successo nell'ultima tendenza della cucina nordica.//(9.2,39.2)\\\\Propone ricette audaci, ma è un ciarlatano di prima categoria.",
+			"de": "//(0,4)\\\\Das ... ist Jack Roe alias Jakob Ro,//(4,7.5)\\\\ein Starkoch, der auf den Nordische-Küche-Zug aufgesprungen//(7.5,9)\\\\und damit sehr erfolgreich ist.//(9,39)\\\\Seine Rezepte sind gewagt, aber er ist ein Scharlatan, wie er im Buche steht.",
+			"es": "//(0,8.9)\\\\Ese... es Jack Roe, alias Jakob Ro, famoso chef que con gran éxito se ha subido al carro de la cocina nórdica.//(9.2,39.2)\\\\Sus recetas pueden ser audaces, pero es un charlatán de aúpa.",
+			"ru": "//(0,4.9)\\\\Это... Джек Роу, он же Джейкоб Ро, знаменитый шеф-повар,//(4.9,7.935)\\\\разбогатевший на популярности скандинавской кухни.//(7.935,37.935)\\\\Его рецепты кажутся смелыми, но на самом деле он отпетый шарлатан.",
+			"cn": "//(0,4)\\\\那个......就是杰克·罗，也就是雅各布·罗，//(4,9.05)\\\\这位名厨靠着北欧美食潮流大捞一笔并且取得了成功。//(9.05,39.05)\\\\他的食谱可能很大胆，但我更愿意称他为江湖骗子。",
+			"tc": "//(0,4.1)\\\\那個......就是傑克·羅，也就是雅各·羅，//(4.1,9.1)\\\\這位名廚靠著北歐美食潮流大撈一筆並且取得了成功。//(9.1,39.1)\\\\他的食譜可能很大膽，但我更願意稱他為江湖騙子。",
+			"jp": "//(0,4.135)\\\\あれが... ジャック・ロウ。またの名をヤコブ・ロー。//(4.135,9.02)\\\\北欧料理のブームに乗って一儲けした有名シェフよ。//(9.02,39.02)\\\\大胆な料理を作るようだけど、とんだペテン師よ。"
+		}
+	}
+}

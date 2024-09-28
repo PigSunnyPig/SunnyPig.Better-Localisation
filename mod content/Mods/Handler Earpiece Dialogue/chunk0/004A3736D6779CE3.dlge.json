@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/tutorial/9000_handler/ds9217_getstarted.sweetdialog?/ds9217_getstarted_young_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds9217_getstarted_young_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/tutorial/9000_handler/ds9217_getstarted_young_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/tutorial/9000_handler/ds9217_getstarted_young_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.7)\\\\First things first. Head towards the gangway.//(2.7,5.3)\\\\I have little hope they'll let us in, but you never know.//(5.3,35.3)\\\\Oh... and don't worry about the training operatives. All weapons are simulated. Just don't get caught.",
+			"fr": "//(0,1.254294)\\\\Procédons dans l'ordre.//(1.254294,2.8)\\\\Dirigez-vous vers la passerelle.//(2.9,4.091472)\\\\Oh, et ne vous inquiétez pas pour les//(4.091472,5.35)\\\\autres agents. Toutes les armes//(5.35,5.85)\\\\sont//(6.05,7.8)\\\\factices, occupez-vous juste de ne pas vous faire prendre.",
+			"it": "//(0,5.3)\\\\Per iniziare, dirigiti verso la passerella. Non credo ci lasceranno passare, ma non si sa mai.//(5.3,9.174)\\\\Oh, e non preoccuparti degli agenti istruttori. Tutte le armi sono simulate.//(9.174,39.174)\\\\Pensa solo a non farti catturare.",
+			"de": "//(0,3)\\\\Alles der Reihe nach. Gehen Sie Richtung Gangway.//(3,5.5)\\\\Ich bezweifle, dass sie uns einfach so reinlassen, aber man weiß ja nie.//(5.5,7.8)\\\\Oh, und keine Sorgen wegen der Trainingsagenten.//(7.8,37.8)\\\\Alle Waffen sind simuliert, Sie dürfen nur nicht erwischt werden.",
+			"es": "//(0,5.31)\\\\Vayamos en orden. Dirígete a la pasarela. Dudo que nos dejen pasar, pero nunca se sabe.//(5.31,7.511)\\\\Oh, y no te preocupes por los operativos del entrenamiento.//(7.511,16.12344)\\\\Todas las armas son simuladas. No te dejes atrapar.",
+			"ru": "//(0,1.156)\\\\Будем действовать по порядку.//(1.156,4.3)\\\\Иди к трапу. Есть надежда, что они нас пропустят,//(4.3,5.972)\\\\но никогда нельзя быть уверенным.//(5.972,8.108589)\\\\А, и не переживай насчет других агентов.//(8.108589,38.10859)\\\\Все оружие учебное, просто постарайся не попадаться.",
+			"cn": "//(0,2.518098)\\\\首先。前往舷梯。//(2.518098,5.268098)\\\\不知道我们能不能进去。谁知道呢。//(5.268098,7.768098)\\\\哦，另外不用担心陪练员。//(7.768098,37.7681)\\\\所有武器都是仿造的，别被人逮个正着就好。",
+			"tc": "//(0,2.518)\\\\首先。前往舷梯。//(2.518,5.268)\\\\不知道我們能不能進去。誰知道呢。//(5.268,7.768)\\\\哦，另外不用擔心陪練員。//(7.768,37.768)\\\\所有武器都是仿造的，別被人逮個正著就好。",
+			"jp": "//(0,1.9)\\\\まずはタラップに近づいてみて。//(1.9,4.6)\\\\たぶん止められると思うけど、ダメ元で。//(4.6,8.8)\\\\ちなみに彼らのことは心配いらないわ。 武器はすべてダミーだから。//(8.8,38.8)\\\\とにかく見つからないように行動して。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8612_sessioncallins.sweetdialog?/dr8612_sessioncallins_troubled_hacker_et_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8612_sessioncallins_troubled_hacker_et_002",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8612_sessioncallins_troubled_hacker_et_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8612_sessioncallins_troubled_hacker_et_002.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Hi, doc! Great. I’ll be right over.",
+			"fr": "//(0,30)\\\\Salut, doc ! Génial. J'arrive tout de suite.",
+			"it": "//(0,30)\\\\Salve, dottore! Bene, arrivo subito.",
+			"de": "//(0,30)\\\\Hallo, Doc! Großartig. Ich bin gleich bei Ihnen.",
+			"es": "//(0,30)\\\\¡Hola, doctor! Estupendo. Voy enseguida.",
+			"ru": "//(0,30)\\\\Здравствуйте, доктор! Отлично. Сейчас подойду.",
+			"cn": "//(0,30)\\\\嗨，医生！太好了，我马上过来。",
+			"tc": "//(0,30)\\\\嗨，醫生！太好了，我馬上過去。",
+			"jp": "//(0,30)\\\\Hi, doc! Great. I’ll be right over."
+		}
+	}
+}

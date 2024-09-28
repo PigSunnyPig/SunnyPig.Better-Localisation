@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_skunk/27000_handler/ds27017_handlerintelclue7.sweetdialog?/ds27017_handlerintelclue7_diana_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds27017_handlerintelclue7_diana_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_skunk/27000_handler/ds27017_handlerintelclue7_diana_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_skunk/27000_handler/ds27017_handlerintelclue7_diana_002.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,3.03305)\\\\Or maybe something that can help us locate the Constant...",
+			"fr": "//[DIANA]\\\\//(0,2.864167)\\\\Ou quelque chose qui nous permettrait de localiser le Constant...",
+			"it": "//[DIANA]\\\\//(0,3.03305)\\\\O magari qualcosa che ci aiuti a individuare la Costante...",
+			"de": "//[DIANA]\\\\//(0,0.7283234)\\\\Oder auch etwas,//(0.7283234,1.834472)\\\\was uns dabei helfen könnte,//(1.834472,2.834472)\\\\die Konstante zu finden ...",
+			"es": "//[DIANA]\\\\//(0,30)\\\\O quizá algo que nos ayude a localizar al Constante...",
+			"ru": "//[DIANA]\\\\//(0,30)\\\\Или нечто, что поможет нам выследить Константу...",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\也许能发现有助于我们找到“永恒常量”的线索。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\也許能發現有助於我們找到「常任」的線索。",
+			"jp": "//[DIANA]\\\\//(0,30)\\\\あるいは、コンスタントの位置を知る手がかりがあるかも..."
+		}
+	}
+}

@@ -1,0 +1,68 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/evergreen/handler/ed006_supplier.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ed006_supplier_diana_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed006_supplier_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed006_supplier_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,4.233)\\\\47. There is a supplier deployed in the area, should you need anything...//(4.233,6.905276)\\\\extra.",
+					"fr": "//[DIANA]\\\\//(0,2.494)\\\\47, il y a un fournisseur déployé dans la zone,//(2.494,32.494)\\\\si vous avez besoin de quelque chose... en plus.",
+					"it": "//[DIANA]\\\\//(0,5.326695)\\\\47. C'è un fornitore nell'area, nel caso avessi bisogno di qualche... giocattolino.",
+					"de": "//[DIANA]\\\\//(0,4.15)\\\\47. Es ist ein Versorger in der Gegend, sollten Sie etwas ...//(4.15,6.16908)\\\\Zusätzliches brauchen.",
+					"es": "//[DIANA]\\\\//(0,2.512422)\\\\47, hay un proveedor por la zona,//(2.512422,4.271751)\\\\por si necesitaras algo...//(4.271751,5.271751)\\\\extra.",
+					"ru": "//[DIANA]\\\\//(0,3.682)\\\\47-й, в этом районе есть поставщик, если тебе нужны...//(4.444,5.444)\\\\дополнительные ресурсы.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\47。如果你有......额外需要，区域内有一名供应商。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\47。你需要......額外的東西的話，這個區域有供應商。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\47。追加で何か必要になった時のために、このエリアに売人を配置しているわ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed006_supplier_diana_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed006_supplier_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed006_supplier_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,1.269613)\\\\If you need anything specific,//(1.269613,3.738834)\\\\there should be a supplier located in the area.",
+					"fr": "//[DIANA]\\\\//(0,1.666077)\\\\Si vous avez besoin d'un objet en particulier,//(1.666077,3.738833)\\\\il devrait y avoir un fournisseur dans le coin.",
+					"it": "//[DIANA]\\\\//(0,1.72839)\\\\Se ti serve qualcosa di specifico,//(1.72839,3.738833)\\\\dovrebbe esserci un fornitore in zona.",
+					"de": "//[DIANA]\\\\//(0,1.45)\\\\Falls Sie etwas Spezielles wollen://(1.45,3.738833)\\\\Es sollte einen Versorger in der Gegend geben.",
+					"es": "//[DIANA]\\\\//(0,1.18195)\\\\Si necesitas algo concreto,//(1.18195,3.738833)\\\\debería de haber un proveedor por la zona.",
+					"ru": "//[DIANA]\\\\//(0,3.738833)\\\\Если тебе нужно особое снаряжение, в этом районе есть поставщик.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\如果你需要特别的东西，区域内应该有一名供应商。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\你需要特定的工具的話，這個區域中應該有供應商。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\何か具体的なものが必要なら、このエリアに売人がいるはずよ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed006_supplier_diana_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed006_supplier_diana_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed006_supplier_diana_003.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\If you need anything, there is a supplier in the area.",
+					"fr": "//[DIANA]\\\\//(0,0.929)\\\\Si vous avez besoin de quoi que ce soit,//(0.929,2.641)\\\\il y a un fournisseur dans le coin.",
+					"it": "//[DIANA]\\\\//(0,30)\\\\Se ti serve qualcosa, c'è un fornitore nell'area.",
+					"de": "//[DIANA]\\\\//(0,1)\\\\Falls Sie etwas brauchen://(1,3.944785)\\\\Es ist ein Versorger in der Gegend.",
+					"es": "//[DIANA]\\\\//(0,30)\\\\Si necesitas algo, hay un proveedor por la zona.",
+					"ru": "//[DIANA]\\\\//(0,2.641083)\\\\Если что-нибудь понадобится, в этом районе есть поставщик.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\需要什么的话，区域内有一名供应商。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\你需要東西的話，這個區域有供應商。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\何か必要だったら、このエリアに売人がいるわ。"
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/italy/12250_white_spider/12250_ebola/12250_handler/ds12258_diana_author_killed.sweetdialog?/ds12258_diana_author_killed_diana_ws_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds12258_diana_author_killed_diana_ws_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/12250_white_spider/12250_ebola/12250_handler/ds12258_diana_author_killed_diana_ws_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/12250_white_spider/12250_ebola/12250_handler/ds12258_diana_author_killed_diana_ws_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Kill confirmed. Craig Black has been eliminated.",
+			"fr": "//(0,1.016908)\\\\Élimination confirmée.//(1.016908,3.245021)\\\\Craig Black a bien été éliminé.",
+			"it": "//(0,30)\\\\Eliminazione confermata. Craig Black è morto.",
+			"de": "//(0,30)\\\\Ziel neutralisiert. Craig Black wurde eliminiert.",
+			"es": "//(0,30)\\\\Baja confirmada. Craig Black ha sido eliminado.",
+			"ru": "//(0,30)\\\\Подтверждаю убийство. Крейг Блэк устранен.",
+			"cn": "//(0,30)\\\\已确认目标死亡。克雷格·布莱克已被消灭。",
+			"tc": "//(0,30)\\\\已確認目標死亡。克雷格·布萊克已被消滅。",
+			"jp": "//(0,30)\\\\死亡確認。 クレイグ・ ブラックを 排除。"
+		}
+	}
+}

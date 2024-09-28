@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/gamemodes/versusmode/41_announcer_opponentweapongrab.sweetdialog?/41_announcer_opponentweapongrab_announcer_versus_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "41_announcer_opponentweapongrab_announcer_versus_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/gamemodes/versusmode/41_announcer_opponentweapongrab_announcer_versus_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/gamemodes/versusmode/41_announcer_opponentweapongrab_announcer_versus_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Your opponent just picked up a weapon.",
+			"fr": "//(0,30)\\\\Votre adversaire a ramassé une arme.",
+			"it": "//(0,30)\\\\Il tuo avversario ha appena raccolto un'arma.",
+			"de": "//(0,30)\\\\Ihr Gegner hat eine Waffe aufgehoben.",
+			"es": "//(0,30)\\\\Tu contrincante acaba de coger un arma.",
+			"ru": "//(0,30)\\\\Противник только что взял оружие.",
+			"cn": "//(0,30)\\\\你的对手刚刚拾取了一把武器。",
+			"tc": "//(0,30)\\\\你的對手剛剛拾起了一把武器。",
+			"jp": "//(0,30)\\\\対戦相手が武器を入手。"
+		}
+	}
+}

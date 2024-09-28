@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/bulldog/41000_handler/ds41108_handlerpresentsuicide.sweetdialog?/ds41108_handlerpresentsuicide_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41108_handlerpresentsuicide_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/bulldog/41000_handler/ds41108_handlerpresentsuicide_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/bulldog/41000_handler/ds41108_handlerpresentsuicide_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.460491)\\\\You’re an excellent detective, 47.//(2.460491,5.8)\\\\Uncovering truths half a century old.//(5.8,35.8)\\\\If you frame it correctly, I believe you could use the information to convince Madam Carlisle that Zachary committed suicide.",
+			"fr": "//(0,2.4)\\\\Vous êtes un détective hors pair, 47.//(2.4,6.2)\\\\Déterrer des secrets vieux d'un demi-siècle...//(6.2,10.5)\\\\En formulant tout ça correctement, je pense que vous pourriez utiliser ces informations//(10.5,40.5)\\\\pour convaincre madame Carlisle que Zachary s'est bel et bien suicidé.",
+			"it": "//(0,2.460491)\\\\Sei un detective eccellente, 47.//(2.460491,5.905276)\\\\Hai scoperto verità risalenti a quasi cinquant'anni fa.//(5.905276,8.233865)\\\\Se le imbastisci nel modo corretto,//(8.233865,38.23386)\\\\credo che tu possa usare le informazioni per convincere Madame Carlisle che Zachary si è suicidato.",
+			"de": "//(0,2.828589)\\\\Sie sind ein hervorragender Detektiv, 47.//(2.828589,6.641472)\\\\Sie haben ein halbes Jahrhundert später die Wahrheit aufgedeckt.//(6.641472,36.64147)\\\\Wenn Sie das richtig präsentieren, könnten wir dieses Wissen nutzen, um Madam Carlisle davon zu überzeugen, dass Zachary Selbstmord beging.",
+			"es": "//(0,6.4)\\\\Eres un detective excelente, 47. Qué don para desvelar secretos de hace medio siglo...//(6.4,10.4)\\\\Si juegas bien tus cartas, creo que podrías usar esa información//(10.4,40.4)\\\\para convencer a la señora Carlisle de que Zachary se suicidó.",
+			"ru": "//(0,2.5)\\\\Ты превосходный детектив, 47-й.//(2.5,3.8)\\\\Тебе под силу раскрыть преступление//(3.8,6.3)\\\\даже полувековой давности.//(6.3,8.4)\\\\Если ты правильно преподнесешь доказательства,//(8.4,12.27485)\\\\то, возможно, убедишь мадам Карлайл в том,//(12.27485,42.27485)\\\\что Закари совершил самоубийство.",
+			"cn": "//(0,5.939)\\\\你真是个优秀的侦探，47。掩盖了半个世纪之久的真相即将揭开。//(5.939,8.356)\\\\如果栽赃嫁祸手法运用得当，//(8.356,38.356)\\\\你可以利用掌握的信息说服卡莱尔夫人，扎切里是自杀的。",
+			"tc": "//(0,6.4)\\\\你是個很棒的偵探，47。揭開了埋藏了近五十年的秘密。//(6.4,8.3)\\\\如果你巧妙地解釋，//(8.3,38.3)\\\\我相信你能夠用這些資訊說服卡萊爾女士，札卡里是自殺身亡。",
+			"jp": "//(0,5.8)\\\\あなたは優秀な探偵ね、47。半世紀前の真実を暴いたわ。//(6.3,36.3)\\\\正しく組み立てれば、この情報でマダム・カーライルにザカリーの死が自殺だったと納得させられると思うわ。"
+		}
+	}
+}

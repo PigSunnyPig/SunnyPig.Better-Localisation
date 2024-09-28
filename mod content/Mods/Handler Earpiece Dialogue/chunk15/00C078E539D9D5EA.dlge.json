@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_magpie/29000_handler/ds29012_oppvote_conclusion.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds29012_oppvote_conclusion_diana_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_magpie/29000_handler/ds29012_oppvote_conclusion_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_magpie/29000_handler/ds29012_oppvote_conclusion_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,4.086479)\\\\Well. You've certainly placed yourself at the crossroads of history. Nicely done, 47.",
+					"fr": "//(0,4.4)\\\\Vous êtes intervenu à un moment historique.//(4.4,5.4)\\\\Bien joué,  47.",
+					"it": "//(0,0.8680981)\\\\Bene.//(0.8680981,4.53)\\\\Questo è certamente un punto importante della tua storia.//(4.53,6.537178)\\\\Ben fatto, 47.",
+					"de": "//(0,0.8561963)\\\\Nun gut,//(0.8561963,2.397)\\\\Sie haben sich hier sicher//(2.397,4.505)\\\\an einem Scheidepunkt der Geschichte platziert.//(4.505,6.405276)\\\\Gut gemacht, 47.",
+					"es": "//(0,6.405276)\\\\Bien. Has hecho historia. Bien hecho, 47.",
+					"ru": "//(0,4.300982)\\\\Что ж, ты определенно внес свой вклад на перепутье истории.//(4.300982,5.300982)\\\\Ловко придумано, 47-й.",
+					"cn": "//(0,30)\\\\好的。你的确是把自己置于历史的十字路口。干得好，47。",
+					"tc": "//(0,30)\\\\嗯，你還真站了在歷史的三岔口上。幹的好，47。",
+					"jp": "//(0,4.28)\\\\そうね、あなたは確かに歴史の交差点に立っているわよ。//(4.28,34.28)\\\\よくやったわ、47。"
+				}
+			}
+		]
+	}
+}

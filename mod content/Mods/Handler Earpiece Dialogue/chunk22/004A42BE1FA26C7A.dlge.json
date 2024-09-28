@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_snowcrane/2000_handler/ds2019_opptelltaleheartbriefing.sweetdialog?/ds2019_opptelltaleheartbriefing_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds2019_opptelltaleheartbriefing_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_snowcrane/2000_handler/ds2019_opptelltaleheartbriefing_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_snowcrane/2000_handler/ds2019_opptelltaleheartbriefing_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,7.9)\\\\Dr. Katashi Ito, also known as \"The Curator,\" is participating in some sort of medical trial. Interesting.//(7.9,14.56)\\\\The Curator oversees the hospital’s organ storage facility and surely has access to Soders’ donor heart.//(14.56,18.11288)\\\\I suggest you locate the research assistant’s report, 47,//(18.11288,48.11288)\\\\and find out what this neural implant is for. Could prove useful.",
+			"fr": "//(0,7.05)\\\\Le Dr Katashi Ito, également appelé le \"Conservateur\", participe à une sorte d'essai clinique.//(7.05,8.25)\\\\Intéressant.//(8.25,14.95)\\\\Le Conservateur chapeaute le stockage d'organes de l'hôpital et a sûrement accès au futur cœur de Soders.//(14.95,21.85)\\\\Je vous suggère de localiser le rapport de l'assistant de recherches et de découvrir à quoi sert son implant neural.//(21.85,51.85)\\\\Ça peut nous être utile.",
+			"it": "//(0,3.501)\\\\Il dottor Katashi Ito, noto anche come il \"Curatore\",//(3.501,7.93)\\\\sta svolgendo una sorta di esperimento medico. Interessante.//(7.93,11.663)\\\\Il Curatore gestisce il deposito di organi della clinica//(11.663,14.775)\\\\e avrà senz'altro accesso al cuore di Soders.//(14.775,18.227)\\\\Ti consiglio di trovare il rapporto dell'assistente ricercatore per scoprire//(18.227,48.227)\\\\a cosa serve l'impianto neurale. Potrebbe tornare utile.",
+			"de": "//(0,3.6)\\\\Doktor Katashi Ito, auch bekannt als der „Kurator“,//(3.6,6.7)\\\\nimmt an einer Art medizinischem Test teil.//(6.7,8.2)\\\\Interessant.//(8.2,11.8)\\\\Der Kurator verwaltet das Organlager des Krankenhauses//(11.8,14.8)\\\\und hat mit Sicherheit Zugriff auf Soders' Spenderherz.//(14.8,18.3)\\\\Ich schlage vor, Sie suchen den Bericht des Forschungsassistenten, 47,//(18.3,21.8)\\\\und finden heraus, wofür dieses Neuralimplantat gedacht ist.//(21.8,51.8)\\\\Könnte nützlich sein.",
+			"es": "//(0,3.552883)\\\\El doctor Katashi Ito, también conocido como el \"curador\",//(3.552883,6.997669)\\\\está participando en algún tipo de ensayo clínico.//(6.997669,11.73294)\\\\Qué interesante. El curador supervisa el centro de almacenamiento de órganos del hospital//(11.73294,14.846)\\\\y tiene acceso al corazón del donante de Soders.//(14.846,18.35)\\\\Te sugiero que encuentres el informe del ayudante de investigación, 47,//(18.35,21.78)\\\\y que descubras para qué sirve el implante neural.//(21.78,51.78)\\\\Podría ser de utilidad.",
+			"ru": "//(0,6.9)\\\\Доктор Каташи Ито, он же Куратор, проводит сейчас какое-то медицинское испытание.//(6.9,11.8)\\\\Интересно. Хранилище органов находится в ведении Куратора,//(11.8,14.8)\\\\а значит, у него точно есть доступ к сердцу, которое должны пересадить Содерсу.//(14.8,18.6)\\\\47-й, я рекомендую найти отчет научного сотрудника//(18.6,21.7)\\\\и выяснить, для чего нужен этот нейроимплантат.//(21.7,51.7)\\\\Может пригодиться.",
+			"cn": "//(0,8.168098)\\\\人称“监护人”的伊藤·加田志医生参与着某项医学实验。有意思。//(8.168098,11.6181)\\\\监护人负责监管医院的器官存储设施，//(11.6181,14.9181)\\\\他肯定能够接触到索德斯的供体心脏。//(14.9181,18.6681)\\\\我建议你去找一下研究助理的报告，47，//(18.6681,48.6681)\\\\查明这枚神经植入物的用途。这说不定能够派上用场。",
+			"tc": "//(0,8.1)\\\\伊藤堅醫生，又名「管理員」正在參與某種醫療實驗。有意思。//(8.1,14.9)\\\\管理員控管著這所醫院的器官儲藏設施並且能夠使用捐贈給索德斯的心臟。//(14.9,44.9)\\\\我建議你去找一下研究助理的報告，47，查明這枚神經植入物的用途。也許會有用。",
+			"jp": "//(0,5.571448)\\\\「キュレーター」の 呼び名で 知られるカタシ・イトウ医師は、 なんらかの臨床試験の 治験者の ようね。//(5.571448,12.07147)\\\\ガマ病院の 臓器保管施設の 責任者よ。 ソーダースに 移植される心臓も 管理下に あるはず。//(12.07147,20.42864)\\\\あの研究助手の 報告書で チップの 詳細を 調べれば、 有益な情報が 手に 入るかも しれないわね。//(20.42864,22.95127)\\\\探って みたらどう？"
+		}
+	}
+}

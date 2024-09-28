@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8612_sessioncallins.sweetdialog?/dr8612_sessioncallins_paine_et_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8612_sessioncallins_paine_et_001",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8612_sessioncallins_paine_et_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8612_sessioncallins_paine_et_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Ryan? Hello. It’s Bradley. I’m ready to see you now.",
+			"fr": "//(0,0.99)\\\\Ryan ?//(0.99,30.99)\\\\Bonjour. C'est Bradley. Je suis prêt à vous recevoir.",
+			"it": "//(0,30)\\\\Ryan? Ciao, sono Bradley. Posso vederti ora.",
+			"de": "//(0,30)\\\\Ryan? Hallo! Hier Bradley. Ich wäre jetzt so weit.",
+			"es": "//(0,30)\\\\¿Ryan? Hola. Soy Bradley. Ya estoy listo para verte.",
+			"ru": "//(0,30)\\\\Райан? Привет. Это Брэдли. Я готов вас принять.",
+			"cn": "//(0,30)\\\\莱恩？你好。我是布兰德利，我现在已经准备好接见你了。",
+			"tc": "//(0,30)\\\\瑞安？你好。這是布蘭德利，我現在已經準備好接見你了。",
+			"jp": "//(0,30)\\\\Ryan? Hello. It’s Bradley. I’m ready to see you now."
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32513_sp_riotwestbuildingfire.sweetdialog?/ds32513_sp_riotwestbuildingfire_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32513_sp_riotwestbuildingfire_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32513_sp_riotwestbuildingfire_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32513_sp_riotwestbuildingfire_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\I'm seeing flames erupt in the west building, 47. Anyone caught in the flames will not survive.",
+			"fr": "//(0,30)\\\\Je vois des flammes sortir du bâtiment ouest, 47. Quiconque est pris dans les flammes n'y survivra pas.",
+			"it": "//(0,30)\\\\Vedo le fiamme uscire dall'edificio ovest, 47. Chiunque rimarrà bloccato tra le fiamme non sopravviverà.",
+			"de": "//(0,30)\\\\Ich sehe Flammen aus dem Westgebäude schlagen, 47. Jeder, der in die Flammen gerät, wird das nicht überleben.",
+			"es": "//(0,30)\\\\Veo llamas en el pabellón oeste, 47. Quien se quede atrapado entre las llamas tiene la muerte asegurada.",
+			"ru": "//(0,30)\\\\Вижу пламя в западном корпусе, 47-й. Тем, кого там застал пожар, не выжить.",
+			"cn": "//(0,30)\\\\47，我看到西大楼窜出了火苗。被卷入火灾的人必死无疑。",
+			"tc": "//(0,30)\\\\我在西大樓看見了火焰，47。被困在火裡的人死定了。",
+			"jp": "//(0,3.03)\\\\西の棟に火が付いたのが見えるわ、47。//(3.03,33.03)\\\\炎に捕まれば生きては出られないでしょう。"
+		}
+	}
+}

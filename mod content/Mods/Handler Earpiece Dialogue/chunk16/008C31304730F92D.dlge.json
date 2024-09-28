@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/suburbia/27000_skunk/27000_handler/27000_flyin.sweetdialog?/27000_flyin_diana_005.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "27000_flyin_diana_005",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/suburbia/27000_skunk/27000_handler/27000_flyin_diana_005.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/suburbia/27000_skunk/27000_handler/27000_flyin_diana_005.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,30)\\\\- Good luck, 47.",
+			"fr": "//[DIANA]\\\\//(0,30)\\\\- Bonne chance, 47.",
+			"it": "//[DIANA]\\\\//(0,30)\\\\- Buona fortuna, 47.",
+			"de": "//[DIANA]\\\\//(0,30)\\\\- Viel Glück, 47.",
+			"es": "//[DIANA]\\\\//(0,30)\\\\- Buena suerte, 47.",
+			"ru": "//[DIANA]\\\\//(0,2)\\\\- Удачи, 47-й.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\-祝你好运，47。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\- 祝你好運，47。",
+			"jp": "//[DIANA]\\\\//(0,30)\\\\頼んだわよ、47。"
+		}
+	}
+}

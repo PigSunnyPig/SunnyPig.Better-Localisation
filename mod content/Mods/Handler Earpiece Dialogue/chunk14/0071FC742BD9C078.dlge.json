@@ -1,0 +1,106 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "0071FC742BD9C078",
+	"DITL": "005CC166F7715F6D",
+	"CLNG": "00063B34B5153AEE",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds20039_sp_evacuationinprogress_diana_001",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20039_sp_evacuationinprogress_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20039_sp_evacuationinprogress_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\47, targets are evacuating. Secure any remaining primaries now!",
+					"fr": "//(0,30)\\\\47, les cibles sont en train d'évacuer. Occupez-vous des cibles restantes maintenant !",
+					"it": "//(0,30)\\\\47, i bersagli se ne stanno andando. Occupati subito dei bersagli principali rimasti!",
+					"de": "//(0,30)\\\\47, die Ziele werden evakuiert. Erledigen Sie sofort alle verbleibenden Hauptziele!",
+					"es": "//(0,30)\\\\47, están evacuando a los objetivos. ¡Asegura los objetivos principales!",
+					"ru": "//(0,30)\\\\47-й, цели уходят. Срочно ликвидируй оставшиеся цели!",
+					"cn": "//(0,30)\\\\47，目标正在撤离。立刻消灭剩下的主要目标！",
+					"tc": "//(0,30)\\\\47，目標正在撤離。解決所有剩餘的主要目標！",
+					"jp": "//(0,30)\\\\47、ターゲットが避難を始めたわ。今すぐ残りのターゲットを仕留めて！"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds20039_sp_evacuationinprogress_diana_002",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20039_sp_evacuationinprogress_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20039_sp_evacuationinprogress_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\47, an alarm went off. They're evacuating.",
+					"fr": "//(0,30)\\\\47, une alarme a été déclenchée. Les cibles évacuent.",
+					"it": "//(0,30)\\\\47, è scattato un allarme. Stanno evacuando.",
+					"de": "//(0,30)\\\\47, ein Alarm wurde ausgelöst. Sie evakuieren.",
+					"es": "//(0,30)\\\\47, está sonando una alarma. Van a evacuar.",
+					"ru": "//(0,30)\\\\47-й, они подняли тревогу. Они уходят.",
+					"cn": "//(0,30)\\\\47，警报响了。他们正在撤离。",
+					"tc": "//(0,30)\\\\47，警報響起了。他們正在撤離。",
+					"jp": "//(0,30)\\\\47、警報が鳴ったわ。ターゲットが避難するわよ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds20039_sp_evacuationinprogress_diana_003",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20039_sp_evacuationinprogress_diana_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20039_sp_evacuationinprogress_diana_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\47, code red. Everyone is evacuating.",
+					"fr": "//(0,30)\\\\Code rouge, 47. Tout le monde évacue les lieux.",
+					"it": "//(0,30)\\\\47, codice rosso. Stanno scappando tutti.",
+					"de": "//(0,30)\\\\47, Code Rot. Alle werden evakuiert.",
+					"es": "//(0,30)\\\\47, código rojo. Están evacuando a todo el mundo.",
+					"ru": "//(0,30)\\\\47-й, красная тревога. Все эвакуируются.",
+					"cn": "//(0,30)\\\\47，红色警报。所有人都在撤离。",
+					"tc": "//(0,30)\\\\47，紅色警戒。大家正在撤離。",
+					"jp": "//(0,30)\\\\47、警報よ。全員避難を始めている。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds20039_sp_evacuationinprogress_diana_004",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20039_sp_evacuationinprogress_diana_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20039_sp_evacuationinprogress_diana_004.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Alarms have gone off all over the mansion. Targets are evacuating.",
+					"fr": "//(0,30)\\\\Les alarmes retentissent dans toute la demeure. Les cibles sont en train d'évacuer.",
+					"it": "//(0,30)\\\\È scattato l'allarme in tutta la villa. I bersagli se la danno a gambe.",
+					"de": "//(0,30)\\\\Im ganzen Herrenhaus sind Alarme ausgelöst worden. Die Ziele werden evakuiert.",
+					"es": "//(0,30)\\\\Están sonando alarmas por toda la mansión. Los objetivos están evacuando.",
+					"ru": "//(0,30)\\\\Сигнализация орет по всему особняку. Цели эвакуируются.",
+					"cn": "//(0,30)\\\\庄园肯定四处都响起了警报。目标正在撤离。",
+					"tc": "//(0,30)\\\\豪宅的警報響起了。目標正在撤離。",
+					"jp": "//(0,30)\\\\屋敷のあちこちで警報が鳴っているわ。ターゲットは避難中よ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds20039_sp_evacuationinprogress_diana_005",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20039_sp_evacuationinprogress_diana_005.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20039_sp_evacuationinprogress_diana_005.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\47, the targets are leaving the area. You must act now.",
+					"fr": "//(0,30)\\\\47, les cibles sont en train de quitter la zone. Vous devez agir maintenant.",
+					"it": "//(0,30)\\\\47, i bersagli stanno abbandonando la zona. Devi agire subito.",
+					"de": "//(0,30)\\\\47, die Ziele verlassen das Gebiet. Sie müssen sofort handeln.",
+					"es": "//(0,30)\\\\47, los objetivos están abandonando la zona. Haz algo. Ya.",
+					"ru": "//(0,30)\\\\47-й, цели покидают территорию. Сделай что-нибудь немедленно!",
+					"cn": "//(0,30)\\\\47，目标正在离开此区域。你必须立刻行动。",
+					"tc": "//(0,30)\\\\47，目標正在離開區域。你必需立即行動。",
+					"jp": "//(0,30)\\\\47、ターゲットが去ろうとしているわ。早く仕留めて。"
+				}
+			}
+		]
+	}
+}

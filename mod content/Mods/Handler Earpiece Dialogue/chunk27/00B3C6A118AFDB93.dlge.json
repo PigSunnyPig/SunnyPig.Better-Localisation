@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_fashion/3000_handler/ds3140_auctionhint.sweetdialog?/ds3140_auctionhint_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds3140_auctionhint_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_fashion/3000_handler/ds3140_auctionhint_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_fashion/3000_handler/ds3140_auctionhint_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.972393)\\\\You're in. Good work.//(1.972393,5.417178)\\\\So, this is the \"auction of secrets.\"",
+			"fr": "//(0,2.1)\\\\Vous y voilà. Beau travail.//(2.1,32.1)\\\\Voici donc ces \"enchères des secrets\".",
+			"it": "//(0,2.172393)\\\\Sei entrato. Ottimo lavoro.//(2.172393,32.17239)\\\\Quindi è questa \"l'asta dei segreti\".",
+			"de": "//(0,2.190491)\\\\Sie sind drin. Gute Arbeit.//(2.190491,32.19049)\\\\Hier werden also die Geheimnisse versteigert.",
+			"es": "//(0,30)\\\\Ya estás dentro. Buen trabajo. Pues bien, esta es la subasta de los secretos.",
+			"ru": "//(0,2.104294)\\\\Ты внутри. Отлично.//(2.104294,32.10429)\\\\Это тот самый «аукцион тайн».",
+			"cn": "//(0,1.9)\\\\你进来了。干得好。//(1.9,31.9)\\\\看来这就是“秘密拍卖会”了。",
+			"tc": "//(0,30)\\\\你已經進來了。幹得好。看來這就是「秘密拍賣會」了。",
+			"jp": "//(0,30)\\\\よくやったわ。ここが、「闇オークション」の会場ね。"
+		}
+	}
+}

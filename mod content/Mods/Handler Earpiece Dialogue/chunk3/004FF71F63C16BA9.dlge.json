@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/bulldog/41000_handler/ds41102_handleraccuseemmakeepdetecting.sweetdialog?/ds41102_handleraccuseemmakeepdetecting_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41102_handleraccuseemmakeepdetecting_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/bulldog/41000_handler/ds41102_handleraccuseemmakeepdetecting_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/bulldog/41000_handler/ds41102_handleraccuseemmakeepdetecting_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Unless you think there are more secrets to uncover.",
+			"fr": "//(0,30)\\\\Sauf si vous pensez qu'il y a encore des secrets à découvrir.",
+			"it": "//(0,30)\\\\A meno che non pensi che ci siano altri segreti da scoprire.",
+			"de": "//(0,30)\\\\Sofern Sie nicht meinen, dass es noch mehr Geheimnisse aufzudecken gibt.",
+			"es": "//(0,30)\\\\A menos que creas que hay más secretos por encontrar...",
+			"ru": "//(0,30)\\\\Если ты, конечно, не хочешь разузнать что-нибудь еще.",
+			"cn": "//(0,30)\\\\除非你觉得还有更多的秘密有待发掘。",
+			"tc": "//(0,30)\\\\除非你覺得這裡有更多秘密。",
+			"jp": "//(0,30)\\\\まだ見つけていない秘密があると思うなら別だけど。"
+		}
+	}
+}

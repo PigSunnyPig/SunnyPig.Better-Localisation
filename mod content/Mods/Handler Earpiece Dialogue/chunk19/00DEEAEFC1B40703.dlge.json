@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/miami/21000_flamingo/21000_handler/ds21077_stepzero17.sweetdialog?/ds21077_stepzero17_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds21077_stepzero17_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/miami/21000_flamingo/21000_handler/ds21077_stepzero17_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/miami/21000_flamingo/21000_handler/ds21077_stepzero17_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.344974)\\\\Be mindful of roaming security guards.//(2.344974,4.975956)\\\\Some of them may work out you don't quite belong.//(4.975956,8.262152)\\\\Use the crowds to hide in if needed.",
+			"fr": "//(0,2.35)\\\\Faites attention aux agents de sécurité.//(2.35,5.1)\\\\Certains sauront que vous ne faites pas partie du personnel,//(5.1,35.1)\\\\alors fondez-vous dans la foule si besoin.",
+			"it": "//(0,2.5)\\\\Fa' attenzione ad aggirarti tra le guardie.//(2.5,5)\\\\Alcune di loro potrebbero capire che sei un intruso.//(5,35)\\\\In caso di bisogno, nasconditi tra la folla.",
+			"de": "//(0,2.340491)\\\\Achten Sie auf umherstreifende Wachen.//(2.340491,5.073374)\\\\Einigen fällt vielleicht auf, dass Sie hier nicht reinpassen.//(5.073374,5.997668)\\\\Nutzen Sie Menschenmengen,//(5.997668,35.99767)\\\\um sich bei Bedarf zu verstecken.",
+			"es": "//(0,2.2)\\\\Ten cuidado con los guardias de seguridad.//(2.2,4.9)\\\\Alguno podría darse cuenta de que no deberías estar aquí.//(4.9,34.9)\\\\Si lo necesitas, ocúltate entre la multitud.",
+			"ru": "//(0,2.304294)\\\\Берегись патрулирующих охранников.//(2.304294,5.105276)\\\\Некоторые из них могут сообразить, тебя здесь быть не должно.//(5.105276,35.10528)\\\\При необходимости прячься в толпе.",
+			"cn": "//(0,30)\\\\小心巡逻的警卫。有些人可能会认出你不属于这里。有必要的话可以借助人群隐匿。",
+			"tc": "//(0,30)\\\\要小心隨處走動的保全人員。有些人可能知道你不是這裡的人。需要的話，用群眾作為掩護。",
+			"jp": "//(0,2.195)\\\\辺りをうろついている警備員に気をつけて。//(2.195,5.02)\\\\あなたが部外者であることに気づく者もいるかもしれないわ。//(5.02,35.02)\\\\危険を感じたら人混みに隠れるのよ。"
+		}
+	}
+}

@@ -1,0 +1,203 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "00BB1081AAE8821E",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Switch",
+		"switchKey": "Ev_Tells",
+		"default": "DIALOGUE_TLSFALLBACK",
+		"containers": [
+			{
+				"type": "Random",
+				"cases": ["DIALOGUE_ALLERGIC"],
+				"containers": [
+					{
+						"type": "WavFile",
+						"wavName": "ed052_tellsc_allergic_diana_001",
+						"weight": 1.0,
+						"soundtag": "Voiceover_Handler_ICAEarpiece",
+						"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed052_tells/ed052_tellsc/ed052_tellsc_allergic_diana_001.wav].pc_wes",
+						"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed052_tells/ed052_tellsc/ed052_tellsc_allergic_diana_001.animset].pc_animset",
+						"languages": {
+							"en": "//[DIANA]\\\\//(0,30)\\\\And we know that they suffer from allergies.",
+							"fr": "//[DIANA]\\\\//(0,30)\\\\Nous savons également qu'elle souffre d'allergies.",
+							"it": "//[DIANA]\\\\//(0,30)\\\\E sappiamo che soffre di allergie.",
+							"de": "//[DIANA]\\\\//(0,30)\\\\Und wir wissen, dass Ihr Ziel an Allergien leidet.",
+							"es": "//[DIANA]\\\\//(0,30)\\\\Y sabemos que tiene alergias.",
+							"ru": "//[DIANA]\\\\//(0,30)\\\\Еще мы узнали, что цель страдает аллергией.",
+							"cn": "//[DIANA]\\\\//(0,30)\\\\我们还知道此人有过敏症。",
+							"tc": "//[DIANA]\\\\//(0,30)\\\\而且我們知道他有過敏症。",
+							"jp": "//[DIANA]\\\\//(0,30)\\\\それに、アレルギー持ちなのもわかっているわ。"
+						}
+					}
+				]
+			},
+			{
+				"type": "Random",
+				"cases": ["DIALOGUE_BOOKWORM"],
+				"containers": [
+					{
+						"type": "WavFile",
+						"wavName": "ed052_tellsc_bookworm_diana_001",
+						"weight": 1.0,
+						"soundtag": "Voiceover_Handler_ICAEarpiece",
+						"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed052_tells/ed052_tellsc/ed052_tellsc_bookworm_diana_001.wav].pc_wes",
+						"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed052_tells/ed052_tellsc/ed052_tellsc_bookworm_diana_001.animset].pc_animset",
+						"languages": {
+							"en": "//[DIANA]\\\\//(0,1.384345)\\\\And they like to read,//(1.384345,3.463721)\\\\be it with keeping up with the times//(3.463721,5.729375)\\\\or simply... wanting to be inspired.",
+							"fr": "//[DIANA]\\\\//(0,5.729375)\\\\Et, elle aime lire, que ce soit pour s'informer ou bien pour s'inspirer.",
+							"it": "//[DIANA]\\\\//(0,1.8)\\\\E anche che ama leggere,//(1.8,5.729375)\\\\semplicemente per stare al passo coi tempi o... in cerca di ispirazione.",
+							"de": "//[DIANA]\\\\//(0,1.85)\\\\Und es liest gern,//(1.85,7.141472)\\\\ob nun auf dem aktuellen Stand zu bleiben oder einfach nur ... um sich inspirieren zu lassen.",
+							"es": "//[DIANA]\\\\//(0,1.827858)\\\\Y le gusta leer,//(1.827858,3.590741)\\\\ya sea para mantenerse al día con los tiempos//(3.590741,8.981232)\\\\o simplemente... para buscar inspiración.",
+							"ru": "//[DIANA]\\\\//(0,1.647665)\\\\А еще любит читать,//(1.647665,4.45027)\\\\будь то свежие газеты или что-нибудь...//(4.45027,5.729374)\\\\для вдохновения.",
+							"cn": "//[DIANA]\\\\//(0,30)\\\\另外，此人喜欢读书，无论是为了跟上时代，还是纯粹......为了获得启发。",
+							"tc": "//[DIANA]\\\\//(0,30)\\\\而且他喜歡讀書，可能是想要瞭解時事，或是......想要取得靈感。",
+							"jp": "//[DIANA]\\\\//(0,3.4)\\\\それに、本を読むのも好き。時代の流れについていくためなのか、それとも単に...//(3.4,5.729375)\\\\何かインスピレーションを受けたいのか。"
+						}
+					}
+				]
+			},
+			{
+				"type": "Random",
+				"cases": ["DIALOGUE_THIRSTY"],
+				"containers": [
+					{
+						"type": "WavFile",
+						"wavName": "ed052_tellsc_drink_diana_001",
+						"weight": 1.0,
+						"soundtag": "Voiceover_Handler_ICAEarpiece",
+						"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed052_tells/ed052_tellsc/ed052_tellsc_drink_diana_001.wav].pc_wes",
+						"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed052_tells/ed052_tellsc/ed052_tellsc_drink_diana_001.animset].pc_animset",
+						"languages": {
+							"en": "//[DIANA]\\\\//(0,30)\\\\And they suffer from dehydration.",
+							"fr": "//[DIANA]\\\\//(0,1.93)\\\\Nous savons aussi qu'elle souffre de déshydratation.",
+							"it": "//[DIANA]\\\\//(0,30)\\\\E che soffre di disidratazione cronica.",
+							"de": "//[DIANA]\\\\//(0,30)\\\\Und es ist schrecklich dehydriert.",
+							"es": "//[DIANA]\\\\//(0,30)\\\\Y sufre de deshidratación.",
+							"ru": "//[DIANA]\\\\//(0,30)\\\\Цель также мучается жаждой.",
+							"cn": "//[DIANA]\\\\//(0,30)\\\\而且此人有脱水症状。",
+							"tc": "//[DIANA]\\\\//(0,30)\\\\而且他有些脫水。",
+							"jp": "//[DIANA]\\\\//(0,30)\\\\それに、脱水気味よ。"
+						}
+					}
+				]
+			},
+			{
+				"type": "Random",
+				"cases": ["DIALOGUE_HUNGRY"],
+				"containers": [
+					{
+						"type": "WavFile",
+						"wavName": "ed052_tellsc_hungry_diana_001",
+						"weight": 1.0,
+						"soundtag": "Voiceover_Handler_ICAEarpiece",
+						"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed052_tells/ed052_tellsc/ed052_tellsc_hungry_diana_001.wav].pc_wes",
+						"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed052_tells/ed052_tellsc/ed052_tellsc_hungry_diana_001.animset].pc_animset",
+						"languages": {
+							"en": "//[DIANA]\\\\//(0,30)\\\\And they see themselves as a foodie.",
+							"fr": "//[DIANA]\\\\//(0,30)\\\\De plus, elle se considère comme quelqu'un de gourmet.",
+							"it": "//[DIANA]\\\\//(0,30)\\\\E che si annovera tra i veri esperti di cibo.",
+							"de": "//[DIANA]\\\\//(0,30)\\\\Und es betrachtet sich selbst als Foodie.",
+							"es": "//[DIANA]\\\\//(0,30)\\\\Y se considera amante de la buena comida.",
+							"ru": "//[DIANA]\\\\//(0,30)\\\\И считает себя гурманом.",
+							"cn": "//[DIANA]\\\\//(0,30)\\\\而且此人是个吃货。",
+							"tc": "//[DIANA]\\\\//(0,30)\\\\而且他自認為是一名饕客。",
+							"jp": "//[DIANA]\\\\//(0,30)\\\\それに、自分のことをグルメだと思っているみたい。"
+						}
+					}
+				]
+			},
+			{
+				"type": "Random",
+				"cases": ["DIALOGUE_NERVOUS"],
+				"containers": [
+					{
+						"type": "WavFile",
+						"wavName": "ed052_tellsc_nervous_diana_001",
+						"weight": 1.0,
+						"soundtag": "Voiceover_Handler_ICAEarpiece",
+						"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed052_tells/ed052_tellsc/ed052_tellsc_nervous_diana_001.wav].pc_wes",
+						"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed052_tells/ed052_tellsc/ed052_tellsc_nervous_diana_001.animset].pc_animset",
+						"languages": {
+							"en": "//[DIANA]\\\\//(0,30)\\\\But worst of all... They are paranoid.",
+							"fr": "//[DIANA]\\\\//(0,30)\\\\Mais surtout, elle est paranoïaque.",
+							"it": "//[DIANA]\\\\//(0,30)\\\\Ma soprattutto... Soffre di paranoia.",
+							"de": "//[DIANA]\\\\//(0,30)\\\\Aber am schlimmsten ist ... sein Verfolgungswahn.",
+							"es": "//[DIANA]\\\\//(0,30)\\\\Pero lo peor de todo... es la paranoia que tiene.",
+							"ru": "//[DIANA]\\\\//(0,30)\\\\Но что хуже всего, цель страдает паранойей.",
+							"cn": "//[DIANA]\\\\//(0,30)\\\\但最要命的是......此人是个偏执狂。",
+							"tc": "//[DIANA]\\\\//(0,30)\\\\最糟糕的是......他有被害妄想症。",
+							"jp": "//[DIANA]\\\\//(0,30)\\\\でも最悪なのは... 被害妄想があるの。"
+						}
+					}
+				]
+			},
+			{
+				"type": "Random",
+				"cases": ["DIALOGUE_SMOKER"],
+				"containers": [
+					{
+						"type": "WavFile",
+						"wavName": "ed052_tellsc_smoker_diana_001",
+						"weight": 1.0,
+						"soundtag": "Voiceover_Handler_ICAEarpiece",
+						"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed052_tells/ed052_tellsc/ed052_tellsc_smoker_diana_001.wav].pc_wes",
+						"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed052_tells/ed052_tellsc/ed052_tellsc_smoker_diana_001.animset].pc_animset",
+						"languages": {
+							"en": "//[DIANA]\\\\//(0,30)\\\\And they smoke.",
+							"fr": "//[DIANA]\\\\//(0,30)\\\\Et elle fume.",
+							"it": "//[DIANA]\\\\//(0,30)\\\\Inoltre, fuma.",
+							"de": "//[DIANA]\\\\//(0,30)\\\\Und es raucht.",
+							"es": "//[DIANA]\\\\//(0,30)\\\\Y fuma.",
+							"ru": "//[DIANA]\\\\//(0,30)\\\\И курит.",
+							"cn": "//[DIANA]\\\\//(0,30)\\\\还抽烟。",
+							"tc": "//[DIANA]\\\\//(0,30)\\\\而且他抽煙。",
+							"jp": "//[DIANA]\\\\//(0,30)\\\\それに、タバコを吸う。"
+						}
+					}
+				]
+			},
+			{
+				"type": "Random",
+				"cases": ["DIALOGUE_SWEETTOOTH"],
+				"containers": [
+					{
+						"type": "WavFile",
+						"wavName": "ed052_tellsc_sweettooth_diana_001",
+						"weight": 1.0,
+						"soundtag": "Voiceover_Handler_ICAEarpiece",
+						"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed052_tells/ed052_tellsc/ed052_tellsc_sweettooth_diana_001.wav].pc_wes",
+						"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed052_tells/ed052_tellsc/ed052_tellsc_sweettooth_diana_001.animset].pc_animset",
+						"languages": {
+							"en": "//[DIANA]\\\\//(0,30)\\\\And last, but not least. They have sweet tooth.",
+							"fr": "//[DIANA]\\\\//(0,30)\\\\Enfin et surtout, elle aime les sucreries.",
+							"it": "//[DIANA]\\\\//(0,1.411053)\\\\In ultimo ma non meno importante,//(1.411053,3.052375)\\\\ha un debole per i dolci.",
+							"de": "//[DIANA]\\\\//(0,30)\\\\Und schlussendlich mag es Süßigkeiten.",
+							"es": "//[DIANA]\\\\//(0,1.795248)\\\\Y por último, pero no menos importante,//(1.795248,3.052375)\\\\le priva el dulce.",
+							"ru": "//[DIANA]\\\\//(0,30)\\\\И вдобавок обожает сладости.",
+							"cn": "//[DIANA]\\\\//(0,30)\\\\最后一点，此人爱吃甜食。",
+							"tc": "//[DIANA]\\\\//(0,30)\\\\最後一點，他喜歡吃甜食。",
+							"jp": "//[DIANA]\\\\//(0,30)\\\\最後に、甘いもの好きよ。"
+						}
+					}
+				]
+			},
+			{
+				"type": "Random",
+				"cases": ["DIALOGUE_TLSFALLBACK"],
+				"containers": [
+					{
+						"type": "WavFile",
+						"wavName": "ed052_tellsc_tlsfallback_diana_001",
+						"weight": 1.0,
+						"soundtag": "Voiceover_Handler_ICAEarpiece",
+						"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed052_tells/ed052_tellsc/ed052_tellsc_tlsfallback_diana_001.wav].pc_wes",
+						"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed052_tells/ed052_tellsc/ed052_tellsc_tlsfallback_diana_001.animset].pc_animset",
+						"languages": {}
+					}
+				]
+			}
+		]
+	}
+}

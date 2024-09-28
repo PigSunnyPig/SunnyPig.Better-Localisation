@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/marrakech/6000_elusive/6000_screwdriver/6000_screwdriver_handler/dr6620_diana.sweetdialog?/dr6620_diana_diana_et_003.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr6620_diana_diana_et_003",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/6000_elusive/6000_screwdriver/6000_screwdriver_handler/dr6620_diana_diana_et_003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/6000_elusive/6000_screwdriver/6000_screwdriver_handler/dr6620_diana_diana_et_003.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA_ET]\\\\//(0,6.341472)\\\\Good afternoon, 47. The Swedish consulate is besieged by protesters linked to the imminent coup.//(6.341472,10.27865)\\\\Our intelligence indicates the target entered the consulate with a transport vehicle,//(10.27865,12.40104)\\\\most likely carrying weapons.//(12.40104,42.40104)\\\\He has not been spotted since. Good hunting, 47.",
+			"fr": "//[DIANA_ET]\\\\//(0,1.356196)\\\\Bonjour, 47.//(1.356196,6.1)\\\\Le consulat de Suède est assiégé par les émeutiers, suite à l'imminence du coup d'état.//(6.3,12.15)\\\\D'après nos agents, la cible est entrée avec un véhicule transportant probablement des armes.//(12.15,14.5)\\\\On ne l'a pas revue depuis.//(14.7,44.7)\\\\Bonne chasse, 47.",
+			"it": "//[DIANA_ET]\\\\//(0,1.724294)\\\\Buon pomeriggio, 47.//(1.724294,6.063865)\\\\Il consolato svedese è assediato dai manifestanti e la protesta sembra collegata all'imminente colpo di stato.//(6.063865,8.796748)\\\\Secondo gli informatori, il bersaglio è entrato nel consolato//(8.796748,12.24153)\\\\con un veicolo da trasporto carico di armi.//(12.24153,14.47012)\\\\Da allora, nessuno l'ha più visto.//(14.47012,44.47012)\\\\Buona caccia, 47.",
+			"de": "//[DIANA_ET]\\\\//(0,1.356196)\\\\Hallo, 47.//(1.356196,4.052883)\\\\Das schwedische Konsulat wird von Demonstranten belagert,//(4.052883,6.297668)\\\\die mit dem drohenden Putsch in Verbindung stehen.//(6.297668,10.36055)\\\\Laut unserer Informationen ist Ihr Ziel mit einem Transporter//(10.36055,12.52344)\\\\– vermutlich einer Waffenlieferung – vor dem Konsulat vorgefahren.//(12.52344,14.15012)\\\\Seitdem wurde der Mann nicht mehr gesehen.//(14.15012,44.15012)\\\\Waidmanns Heil, 47.",
+			"es": "//[DIANA_ET]\\\\//(0,1.724294)\\\\Buenas tardes, 47.//(1.724294,6.205)\\\\El consulado sueco está rodeado de manifestantes, un hecho relacionado con el inminente golpe.//(6.205,8.1)\\\\Nuestra inteligencia indica que el objetivo//(8.1,12.3)\\\\ha entrado al consulado con un vehículo de transporte que seguramente tenía armas.//(12.3,14.5)\\\\No lo han visto desde entonces.//(14.5,44.5)\\\\Buena caza, 47.",
+			"ru": "//[DIANA_ET]\\\\//(0,1.724294)\\\\Добрый день, 47-й.//(1.724294,6.3)\\\\Шведское консульство осадили протестующие, неизбежен военный переворот.//(6.3,10.3)\\\\Разведка утверждает, что цель заехала на территорию консульства за рулем автомобиля,//(10.3,12.5)\\\\скорее всего с грузом оружия.//(12.5,14.6)\\\\С тех пор ее не видели.//(14.6,44.6)\\\\Доброй охоты, 47-й.",
+			"cn": "//[DIANA_ET]\\\\//(0,6.34)\\\\下午好，47。瑞典领事馆正在遭到抗议者的围攻，而这一切又与即将发生的政变有关联。//(6.34,10.23)\\\\我们的情报指出目标开着一辆货车进入了领事馆，//(10.23,12.4)\\\\车里运的很有可能是武器。//(12.4,42.4)\\\\从那以后就再没人见过他。47，祝你狩猎愉快。",
+			"tc": "//[DIANA_ET]\\\\//(0,6.2)\\\\午安，47。瑞典領事館遭到一群抗議群眾包圍了，這跟即將發生的政變有關係。//(6.2,10.2)\\\\我們的情報指出目標透過運輸車輛進入了領事館，//(10.2,14.6)\\\\很有可能帶了武器。那之後他並未再現身。//(14.6,44.6)\\\\狩獵愉快，47。",
+			"jp": "//[DIANA_ET]\\\\//(0,6.843776)\\\\こんにちは、 47。 スウェーデン領事館は 暴徒たちに 襲撃されて いるわ。 情報に よると 標的は、//(6.843776,13.68755)\\\\武器を 載せたと 思われる輸送車両で 領事館へ 入ったようね。 それ以降、 彼の 姿は 見てないわ。//(13.68755,15.96881)\\\\成果を 期待してるわよ、 47。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/rat/43000_handler/ds43351_exitoliviakillroyce.sweetdialog?/ds43351_exitoliviakillroyce_oliviahall_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds43351_exitoliviakillroyce_oliviahall_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/rat/43000_handler/ds43351_exitoliviakillroyce_oliviahall_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/rat/43000_handler/ds43351_exitoliviakillroyce_oliviahall_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\You still have to take care of Imogen Royce before we can access the core, 47.",
+			"fr": "//(0,30)\\\\Vous devez encore éliminer Imogen Royce avant de pouvoir accéder au cœur, 47.",
+			"it": "//(0,30)\\\\Devi ancora occuparti di Imogen Royce, prima di poter accedere al sistema centrale, 47.",
+			"de": "//(0,30)\\\\Sie müssen sich immer noch um Imogen Royce kümmern, bevor wir auf den Kern zugreifen können, 47.",
+			"es": "//(0,30)\\\\Tendrás que ocuparte de Imogen Royce para que podamos acceder al núcleo, 47.",
+			"ru": "//(0,1.960491)\\\\Прежде чем добраться до ядра,//(1.960491,31.96049)\\\\тебе нужно разделаться с Имоджен Ройс, 47-й.",
+			"cn": "//(0,30)\\\\你还得干掉伊莫金·罗伊斯，我们才能去核心区域，47。",
+			"tc": "//(0,30)\\\\你得先解決掉伊摩金‧羅伊斯才能存取核心，47。",
+			"jp": "//(0,30)\\\\あとイモジェン・ロイスを始末しないとコアにはアクセスできないわ、47。"
+		}
+	}
+}

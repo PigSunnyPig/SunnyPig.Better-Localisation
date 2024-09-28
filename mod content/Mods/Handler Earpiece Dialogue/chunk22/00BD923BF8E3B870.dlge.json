@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_snowcrane/2000_handler/ds2020_opptelltaleheartconclusion.sweetdialog?/ds2020_opptelltaleheartconclusion_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds2020_opptelltaleheartconclusion_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_snowcrane/2000_handler/ds2020_opptelltaleheartconclusion_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_snowcrane/2000_handler/ds2020_opptelltaleheartconclusion_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Bringing joy to the world now, 47? Well, let's see where this takes him, shall we?",
+			"fr": "//(0,2.9)\\\\Vous plongez le monde dans l'allégresse, 47 ?//(2.9,32.9)\\\\Bien, observons sa réaction, à présent.",
+			"it": "//(0,30)\\\\Ora diffondi gioia, 47? Bene, vediamo come reagirà.",
+			"de": "//(0,2.79)\\\\Tragen Sie jetzt Freude in die Welt, 47?//(2.79,32.79)\\\\Finden wir heraus, wohin ihn das bringt, in Ordnung?",
+			"es": "//(0,30)\\\\¿Repartiendo alegría por el mundo, 47? Bueno, veamos cómo acaba esto.",
+			"ru": "//(0,30)\\\\Несешь в мир радость, 47-й? Что ж, посмотрим, куда это его приведет.",
+			"cn": "//(0,3.068098)\\\\在给世界送去欢声笑语吗，47？//(3.068098,33.0681)\\\\好了，看看他会有什么反应。",
+			"tc": "//(0,30)\\\\在給世界帶來歡笑嗎，47？好了，看看他會有什麼反應。",
+			"jp": "//(0,30)\\\\ずいぶんゴキゲンなようね。あとをつけてみましょうか？"
+		}
+	}
+}

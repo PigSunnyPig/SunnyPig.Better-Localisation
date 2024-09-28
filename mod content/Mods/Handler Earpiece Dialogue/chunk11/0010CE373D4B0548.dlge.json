@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32518_sp_riotreinforcecamp.sweetdialog?/ds32518_sp_riotreinforcecamp_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32518_sp_riotreinforcecamp_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32518_sp_riotreinforcecamp_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32518_sp_riotreinforcecamp_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.740491)\\\\Worker camp security is joining//(1.740491,3.576687)\\\\the fight against the rioters.",
+			"fr": "//(0,30)\\\\La sécurité du camp de travail a rejoint le combat pour étouffer l'émeute.",
+			"it": "//(0,30)\\\\Il personale di sicurezza del campo di lavoro si è unito alla lotta contro i rivoltosi.",
+			"de": "//(0,30)\\\\Die Sicherheit des Arbeitslagers schließt sich dem Kampf gegen die Aufständischen an.",
+			"es": "//(0,30)\\\\El equipo de seguridad del campo de trabajo se une también a la lucha contra los amotinados.",
+			"ru": "//(0,30)\\\\Охрану трудовой колонии отправили на усмирение бунтующих.",
+			"cn": "//(0,30)\\\\劳动营的安保加入了对抗暴动者的战斗。",
+			"tc": "//(0,30)\\\\工人營地保全也去協助抵抗暴動者。",
+			"jp": "//(0,30)\\\\労働キャンプの看守が暴動鎮圧に参加しようとしてるわ。"
+		}
+	}
+}

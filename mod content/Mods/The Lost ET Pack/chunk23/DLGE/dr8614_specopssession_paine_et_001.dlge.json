@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession.sweetdialog?/dr8614_specopssession_paine_et_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8614_specopssession_paine_et_001",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession_paine_et_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession_paine_et_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Ah, Jeffersen. Please come in.",
+			"fr": "//(0,30)\\\\Ah, Jeffersen. Entrez !",
+			"it": "//(0,30)\\\\Ah, Jeffersen. Prego, entra.",
+			"de": "//(0,30)\\\\Ah, Jeffersen. Bitte treten Sie ein.",
+			"es": "//(0,30)\\\\Ah, Jeffersen. Pasa, por favor.",
+			"ru": "//(0,30)\\\\А, Джефферсен. Проходите.",
+			"cn": "//(0,30)\\\\啊，杰弗森。请进。",
+			"tc": "//(0,30)\\\\啊，傑佛森。請進來。",
+			"jp": "//(0,30)\\\\Ah, Jeffersen. Please come in."
+		}
+	}
+}

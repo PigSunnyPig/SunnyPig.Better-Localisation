@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25064_lostloveconclusion.sweetdialog?/ds25064_lostloveconclusion_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25064_lostloveconclusion_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25064_lostloveconclusion_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25064_lostloveconclusion_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.208735)\\\\That is a positive identification on Maelstrom,//(2.208735,6.15075)\\\\47. Well done. Now to the job at hand.",
+			"fr": "//(0,3.810491)\\\\Identification du Maelström confirmée, 47.//(3.810491,4.660491)\\\\Beau travail.//(4.660491,6.15075)\\\\Passons maintenant aux choses sérieuses.",
+			"it": "//(0,1.587661)\\\\Identificazione di Maelstrom confermata,//(1.587661,4.918227)\\\\47. Ben fatto. E adesso...//(4.918227,6.15075)\\\\al lavoro.",
+			"de": "//(0,1.840491)\\\\Das ist eine positive Identifikation//(1.840491,3.871247)\\\\für den Maelstrom, 47.//(3.871247,6.15075)\\\\Gut gemacht. Und jetzt an die Arbeit.",
+			"es": "//(0,4)\\\\Identificación positiva. Es el Torbellino, 47.//(4,6.871391)\\\\Buen trabajo. Y ahora, remata la faena.",
+			"ru": "//(0,2.608978)\\\\47-й, подтверждаю идентификацию Вихря.//(2.608978,6.15075)\\\\Молодец. Теперь переходи к делу.",
+			"cn": "//(0,30)\\\\辨认结果出来了，这个人就是大漩涡，47。干得漂亮。快完成手头的工作吧。",
+			"tc": "//(0,30)\\\\辨認結果出來了，這個人就是大漩渦，47。幹得漂亮。快完成手邊的工作吧。",
+			"jp": "//(0,4.65)\\\\メイルストロムを確認できたわ、47。よくやったわね。//(4.65,34.65)\\\\さて、目の前に仕事に専念するのよ。"
+		}
+	}
+}

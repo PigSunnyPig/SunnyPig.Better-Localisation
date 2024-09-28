@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/greedy/33000_raccoon/33000_handler/ds33017_jobinterviewoppconclude.sweetdialog?/ds33017_jobinterviewoppconclude_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds33017_jobinterviewoppconclude_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/greedy/33000_raccoon/33000_handler/ds33017_jobinterviewoppconclude_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/greedy/33000_raccoon/33000_handler/ds33017_jobinterviewoppconclude_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.296687)\\\\Best of luck in your interview, 47.//(2.296687,4.196687)\\\\Let's see where this will lead you to.",
+			"fr": "//(0,2.460491)\\\\Bonne chance pour l'entretien, 47.//(2.460491,3.928521)\\\\Voyons où cela vous mène.",
+			"it": "//(0,1.60422)\\\\Buona fortuna per il colloquio,//(1.60422,3.928521)\\\\47. Vediamo dove ti porterà.",
+			"de": "//(0,2.3)\\\\Viel Glück bei Ihrem Vorstellungsgespräch, 47.//(2.3,3.928521)\\\\Mal sehen, wohin Sie das führt.",
+			"es": "//(0,2)\\\\Mucha suerte en tu entrevista, 47.//(2,3.928521)\\\\Veamos adónde te lleva todo esto.",
+			"ru": "//(0,2.160491)\\\\Удачи тебе на собеседовании, 47-й.//(2.160491,3.928521)\\\\Посмотрим, что из этого выйдет.",
+			"cn": "//(0,30)\\\\面试顺利，47。我们来看看接下来将发生什么。",
+			"tc": "//(0,30)\\\\祝你面試好運了，47。讓我們看看這會有什麼成果。",
+			"jp": "//(0,30)\\\\面接の成功を祈るわ、47。どうなるか、結果を待ちましょう。"
+		}
+	}
+}

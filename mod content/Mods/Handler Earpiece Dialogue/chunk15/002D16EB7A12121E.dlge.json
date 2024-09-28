@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_magpie/29000_handler/ds29020_oppeffigy_briefing.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds29020_oppeffigy_briefing_diana_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_magpie/29000_handler/ds29020_oppeffigy_briefing_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_magpie/29000_handler/ds29020_oppeffigy_briefing_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,1.150492)\\\\Interesting.//(1.150492,4.163751)\\\\Zoe Washington is going to partake in a ceremony,//(4.163751,10.44903)\\\\symbolizing the downfall of civilization from which The Ark Society will emerge unscathed.//(10.44903,17)\\\\Apparently, a giant phoenix-shaped effigy is set on fire... with Zoe inside it.//(17,23.60854)\\\\Well. I suggest you locate this \"Master of Ceremonies\" who lights the fire, 47.//(23.60854,27.34039)\\\\If this doesn't sound like an accident waiting to happen, I don't know what does.",
+					"fr": "//(0,3.34)\\\\Intéressant. Zoe Washington va participer//(3.34,5.653374)\\\\à la cérémonie symbolisant la chute de la civilisation//(5.653374,10.4)\\\\dont la société de l'Arche émergera intacte.//(10.4,15)\\\\Apparemment, une effigie géante en forme de phœnix sera embrasée...//(15,17.647)\\\\et Zoe sera dedans.//(17.647,20.95988)\\\\Je vous suggère de trouver le \"maître de cérémonie\"//(20.95988,23.42037)\\\\qui allumera le feu, 47.//(23.42037,26.85326)\\\\Si ce n'est pas un accident qui attend d'arriver,//(26.85326,27.85326)\\\\je ne sais ce que sais.",
+					"it": "//(0,6.176108)\\\\Interessante. Zoe Washington parteciperà a una cerimonia che simboleggia il crollo della civiltà,//(6.176108,10)\\\\da cui la Ark Society emergerà illesa.//(10,18)\\\\A quanto pare, verrà appiccato il fuoco a una gigantesca effigie a forma di fenice... con Zoe all'interno.//(18,23.5)\\\\Bene, 47, ti consiglio di individuare il \"Maestro delle cerimonie\" che accenderà la torcia.//(23.5,27.95)\\\\Un incidente servito sul piatto d'argento.",
+					"de": "//(0,1.3)\\\\Interessant.//(1.3,4.3)\\\\Zoe Washington wird an einer Zeremonie teilnehmen,//(4.3,7.364785)\\\\die den Niedergang der Zivilisation darstellt, aus der//(7.364785,10.5)\\\\die Ark-Gesellschaft aber unbeschadet hervorgeht.//(10.5,13.7)\\\\Anscheinend wird ein riesiger Götze//(13.7,15.2)\\\\in Form eines Phönix entzündet ...//(15.2,17.8)\\\\mit Zoe im Innern.//(17.8,19.6)\\\\Tja, ich würde vorschlagen,//(19.6,21.7)\\\\Sie finden diesen „Zeremonienmeister“,//(21.7,23.7)\\\\der die Fackel anzündet, 47.//(23.7,25.6)\\\\Denn wenn das nicht nach einem Rezept//(25.6,26.605)\\\\für einen Unfall klingt,//(26.605,27.605)\\\\weiß ich auch nicht mehr.",
+					"es": "//(0,1.226699)\\\\Qué interesante.//(1.226699,4.148862)\\\\Zoe Washington va a participar en una ceremonia//(4.148862,7.436295)\\\\que simbolizará la caída de la civilización y el//(7.436295,10.12408)\\\\alzamiento de la Ark Society indemne.//(10.12408,10.97369)\\\\Según parece,//(10.97369,14.26113)\\\\van a prenderle fuego a una gigantesca efigie de//(14.26113,17.0798)\\\\un fénix... con Zoe dentro.//(17.0798,20.49812)\\\\Bueno. Te sugiero que localices al «maestro de//(20.49812,23.17409)\\\\ceremonias» que va a encender la antorcha,//(23.17409,26.95768)\\\\47. La situación pide a gritos que ocurra un//(26.95768,27.95768)\\\\accidente...",
+					"ru": "//(0,3.909895)\\\\Интересно. Зои Вашингтон примет участие в//(3.909895,6.208541)\\\\церемонии, символизирующей крах цивилизации//(6.208541,9.58708)\\\\и чудесное спасение «Общества Ковчега».//(9.58708,12.96562)\\\\Планируется сжечь огромное чучело феникса...//(12.96562,16.34416)\\\\внутри которого будет сидеть Зои.//(16.34416,18.11145)\\\\Предлагаю найти «церемониймейстера»,//(18.11145,20.4101)\\\\которому поручено зажечь факел,//(20.4101,24.49321)\\\\47-й. Если хочешь подстроить несчастный случай,//(24.49321,27.34039)\\\\лучшего повода не найти.",
+					"cn": "//(0,4.326)\\\\很有意思。佐伊·华盛顿准备参加一场仪式，//(4.326,10.592)\\\\象征着文明的衰落而方舟会毫发无损地度过这一难关。//(10.592,17.526)\\\\很明显，有座巨大的凤凰雕像被烈焰点燃......而佐伊就在其中。//(17.526,23.625)\\\\嗯。我建议你找到这个负责点燃火炬的“司仪”，47。//(23.625,27.95)\\\\我简直找不到比这听起来更像潜在事故的事情了。",
+					"tc": "//(0,4.465)\\\\很有意思。佐伊．華盛頓準備參加一場儀式，//(4.465,10.468)\\\\象徵文明的衰落而方舟會毫無損失度過這一難關。//(10.468,17.836)\\\\很明顯，有座巨大的鳳凰雕像被烈焰點燃......而佐伊就在其中。//(17.836,23.554)\\\\嗯。我建議你找到這個負責點燃火把的「司儀」，47。//(23.554,27.95)\\\\我簡直找不到比這聽起來更像潛在事故的事情了。",
+					"jp": "//(0,1)\\\\これは面白いわね。//(1,4.5)\\\\ゾーイ・ワシントンは、式典に参加するみたいだわ。//(4.5,10.5)\\\\文明崩壊から無傷で生き残るアーク・ソサエティの姿を象徴した式典のようね。//(10.5,15)\\\\どうやら、巨大な不死鳥の彫像に火が放たれるらしい...//(15,18.5)\\\\ゾーイがその中に入った状態でね。//(18.5,23.5)\\\\この火をつける「進行役」を探した方がいいと思うわ、47。//(23.5,27.34039)\\\\いつ事故が起きてもおかしくない状態とはこういうことよ。"
+				}
+			}
+		]
+	}
+}

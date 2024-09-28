@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/12500_white_spider/12500_rabies/12500_handler/ds12577_track1.sweetdialog?/ds12577_track1_diana_ws_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds12577_track1_diana_ws_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12577_track1_diana_ws_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12577_track1_diana_ws_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\I'm looking at the data now, I'll have some intel for you shortly.",
+			"fr": "//(0,30)\\\\Je me penche sur les données, j'aurai des informations pour vous sous peu.",
+			"it": "//(0,30)\\\\Sto esaminando i dati. A breve ti fornirò tutte le informazioni.",
+			"de": "//(0,30)\\\\Ich sehe mir gerade die Daten an und werde in Kürze Infos für Sie haben.",
+			"es": "//(0,30)\\\\Estoy consultando los datos. Pronto tendré información para ti.",
+			"ru": "//(0,30)\\\\Просматриваю данные, скоро для тебя будут новые сведения.",
+			"cn": "//(0,30)\\\\我正在查看数据，稍后为你发送情报。",
+			"tc": "//(0,30)\\\\我正在查看資料，稍後為你發送情報。",
+			"jp": "//(0,30)\\\\確認中よ。 すぐ情報を 用意するわね。"
+		}
+	}
+}

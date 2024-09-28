@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25000_mongoose_flyin.sweetdialog?/ds25000_mongoose_flyin_diana_007.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25000_mongoose_flyin_diana_007",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25000_mongoose_flyin_diana_007.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25000_mongoose_flyin_diana_007.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,30)\\\\Dawood Rangan will be easy to find in his half-finished tower, wrapping up his new film called \"Mumbai Hero.\"",
+			"fr": "//[DIANA]\\\\//(0,1.975)\\\\Dawood Rangan sera facile à trouver//(1.975,7.00957)\\\\dans sa tour à moitié fini, finissant son nouveau film intitulé \"Le héros de Bombay\".",
+			"it": "//[DIANA]\\\\//(0,3)\\\\Sarà facile trovare Dawood Rangan nel sulla sua torre parzialmente costruita,//(3,10.45436)\\\\è impegnato con le riprese del suo nuovo film intitolato \"L'eroe di Mumbai\".",
+			"de": "//[DIANA]\\\\//(0,3.875276)\\\\Dawood Rangan, der an seinem neuesten Film namens „Der Held von Mumbai“ arbeitet,//(3.875276,9.470061)\\\\wird in seinem halbfertigen Turm leicht aufzufinden sein.",
+			"es": "//[DIANA]\\\\//(0,3.3)\\\\Dawood Rangan será fácil de encontrar en su torre en obras,//(3.3,9.101963)\\\\ocupado con su nueva película, «El héroe de Bombay».",
+			"ru": "//[DIANA]\\\\//(0,3)\\\\Давуда Ранжана будет легко найти в его недостроенной башне,//(3,4)\\\\где он заканчивает снимать свой новый фильм - «Герой Мумбаи».",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\达伍德·朗甘很容易被找到，他正在建成一半的高楼里忙着拍摄他的新电影《孟买英雄》。",
+			"tc": "//[DIANA]\\\\//(0,3.2)\\\\達伍德．朗甘將在他所擁有未建成的高塔上，//(3.2,33.2)\\\\忙著拍攝他的新電影《孟買英雄》。",
+			"jp": "//[DIANA]\\\\//(0,3.3)\\\\ダウッド・ランガンは建築途中の彼のタワーで容易に見つかるはず。//(3.3,33.3)\\\\新作映画の「ムンバイの英雄」の制作に励んでいるわよ。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/marrakech/6000_coup/6000_handler/ds6015_headmasterconclusion.sweetdialog?/ds6015_headmasterconclusion_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds6015_headmasterconclusion_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/6000_coup/6000_handler/ds6015_headmasterconclusion_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/6000_coup/6000_handler/ds6015_headmasterconclusion_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\There. So much for breaking and entering.",
+			"fr": "//(0,30)\\\\Bien joué. Vous êtes un as de l'effraction, 47.",
+			"it": "//(0,30)\\\\Molto bene. Non servirà scassinare.",
+			"de": "//(0,30)\\\\Damit dürfte die Zeit der Einbrüche erst mal vorbei sein.",
+			"es": "//(0,0.91)\\\\Eso es.//(0.91,30.91)\\\\Menudo allanamiento de morada.",
+			"ru": "//(0,30)\\\\Вот. Проникновение без взлома.",
+			"cn": "//(0,30)\\\\好了。跟破门而入说再见。",
+			"tc": "//(0,30)\\\\好了。看來不能破門而入了。",
+			"jp": "//(0,30)\\\\これで、手荒なことをしなくてもいいわね。"
+		}
+	}
+}

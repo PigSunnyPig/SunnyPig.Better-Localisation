@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/miami/21000_flamingo/21000_handler/ds21013_oppblackmailbriefing.sweetdialog?/ds21013_oppblackmailbriefing_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds21013_oppblackmailbriefing_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/miami/21000_flamingo/21000_handler/ds21013_oppblackmailbriefing_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/miami/21000_flamingo/21000_handler/ds21013_oppblackmailbriefing_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.39908)\\\\A disgruntled Kronstadt employee has acquired some dirt on Sierra Knox//(4.39908,7.039571)\\\\and intends on blackmailing her.//(7.039571,12.64588)\\\\Disguised as one of the racing mascots, he plans to meet Sierra by the old motel.//(12.64588,18.74588)\\\\Well. I always did feel that pink was your color, 47.",
+			"fr": "//(0,2.929581)\\\\Un employé mécontent de Kronstadt menace Sierra//(2.929581,5.590618)\\\\Knox avec des éléments compromettants.//(5.590618,10.19425)\\\\Il est déguisé en mascotte et a prévu de la retrouver//(10.19425,12.43677)\\\\près d'un vieux motel.//(12.43677,15.78486)\\\\J'ai toujours trouvé que le rose faisait ressortir//(15.78486,17.74531)\\\\vos yeux, 47.",
+			"it": "//(0,2.292495)\\\\Un impiegato scontento della Kronstadt ha//(2.292495,4.755378)\\\\raccolto un po' di informazioni scomode su Sierra Knox//(4.755378,7.060645)\\\\e ha intenzione di ricattarla.//(7.060645,9.021136)\\\\Travestito da una delle mascotte,//(9.021136,12.62502)\\\\la incontrerà al vecchio motel.//(12.62502,17.426)\\\\Beh. Ho sempre saputo che il rosa ti donava, 47.",
+			"de": "//(0,2.325817)\\\\Ein angefressener Angestellter von Kronstadt//(2.325817,4.146798)\\\\hat irgendwelchen Dreck über Sierra Knox//(4.146798,7.005387)\\\\ausgegraben und will sie jetzt erpressen.//(7.005387,9.350172)\\\\Er hat sich als eines der Rennmaskottchen verkleidet//(9.350172,10.82946)\\\\und ein Treffen mit Sierra Knox//(10.82946,12.95185)\\\\am alten Motel arrangiert.//(12.95185,14.975)\\\\Tja, ich war immer der Meinung,//(14.975,18.77493)\\\\dass Rosa Ihnen steht, 47.",
+			"es": "//(0,2.624787)\\\\Un empleado descontento con Kronstadt se ha hecho//(2.624787,5.249575)\\\\con algo sucio de Sierra Knox y pretende//(5.249575,6.02334)\\\\chantajearla.//(6.02334,8.976226)\\\\Tiene previsto reunirse con ella en el viejo motel//(8.976226,11.92911)\\\\y acudirá disfrazado como una de las mascotas de//(11.92911,13.79413)\\\\la carrera. En fin,//(13.79413,16.85398)\\\\siempre he pensado que el rosa era tu color,//(16.85398,17.85398)\\\\47.",
+			"ru": "//(0,3.415229)\\\\Обиженный сотрудник «Кронштадта» нашел компромат//(3.415229,7.218354)\\\\на Сьерру Нокс и собирается ее шантажировать.//(7.218354,9.462719)\\\\Он будет поджидать Сьерру у старого мотеля в//(9.462719,12.82975)\\\\костюме одного из талисманов гонки.//(12.82975,15.42828)\\\\Знаешь, 47-й, мне всегда казалось,//(15.42828,17.74531)\\\\что розовый тебе к лицу.",
+			"cn": "//(0,6.9)\\\\一名不满的喀琅施塔得雇员抓住了希拉·诺克斯的把柄，正打算敲诈她一笔。//(6.9,13)\\\\他打扮成赛场的一名吉祥物，并打算与希拉在旧汽车旅馆见面。好吧。//(13,17.745)\\\\我一直觉得你穿粉色很合适，47。",
+			"tc": "//(0,6.9)\\\\一名不滿的喀琅施塔得僱員抓住希拉．諾克斯的把柄，正打算敲詐她一筆。//(6.9,13)\\\\他打扮成賽場的吉祥物，並打算與希拉在舊汽車旅館見面。//(13,17.74531)\\\\好吧。我一直覺得你穿粉色很合適，47。",
+			"jp": "//(0,2.2)\\\\不満を抱えているクローンシュタットの従業員が//(2.2,4.407)\\\\シエラ・ノックスに関するネタを仕入れて、//(4.407,6.785)\\\\それをもとに彼女を恐喝するつもりらしいの。レースのマスコットの一人として変装し、//(6.785,9.162)\\\\古いモーテルでシエラと会う予定よ。//(9.162,13.134)\\\\ええと、私はいつも思ってたのだけど、//(13.134,15.502)\\\\ピンクってあなたの色よね、47。"
+		}
+	}
+}

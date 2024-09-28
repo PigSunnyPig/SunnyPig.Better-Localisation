@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_magpie/29000_handler/29000_flyin.sweetdialog?/29000_flyin_diana_009.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "29000_flyin_diana_009",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_magpie/29000_handler/29000_flyin_diana_009.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_magpie/29000_handler/29000_flyin_diana_009.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,3.3)\\\\Good luck, gentlemen. I dare say you are going to need it.",
+			"fr": "//[DIANA]\\\\//(0,4)\\\\Bonne chance, messieurs. Je crains que vous en ayez besoin.",
+			"it": "//[DIANA]\\\\//(0,30)\\\\Buona fortuna, signori. Ne avrete bisogno.",
+			"de": "//[DIANA]\\\\//(0,3.4)\\\\Viel Glück, Gentlemen. Ich wage zu behaupten, dass Sie es brauchen werden.",
+			"es": "//[DIANA]\\\\//(0,4)\\\\Buena suerte, caballeros. Me da que la vais a necesitar.",
+			"ru": "//[DIANA]\\\\//(0,30)\\\\Удачи, господа. Она вам явно понадобится.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\先生们，祝你们好运。我敢说你们肯定会需要这个。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\先生們，祝你們好運。我敢說你們肯定會需要這個。",
+			"jp": "//[DIANA]\\\\//(0,30)\\\\幸運を祈るわ、二人とも。運を味方につけるのよ。"
+		}
+	}
+}

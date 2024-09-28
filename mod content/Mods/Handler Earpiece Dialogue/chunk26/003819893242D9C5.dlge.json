@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/italy/10000_copperhead/10000_handler/ds10018_explosionbriefing.sweetdialog?/ds10018_explosionbriefing_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds10018_explosionbriefing_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/10000_copperhead/10000_handler/ds10018_explosionbriefing_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/10000_copperhead/10000_handler/ds10018_explosionbriefing_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.793374)\\\\According to the special effects crew, the final scene involves a remotely triggered explosion,//(4.793374,7.270061)\\\\and the charges have already been set.//(7.270061,37.27006)\\\\Sounds like an accident waiting to happen.",
+			"fr": "//(0,1.8)\\\\Selon l'équipe en charge des effets spéciaux,//(1.8,7.35)\\\\la scène finale comporte une explosion déclenchée à distance et les charges ont déjà été mises en place.//(7.35,37.35)\\\\Un accident est si vite arrivé...",
+			"it": "//(0,1.528589)\\\\Secondo la squadra degli effetti speciali,//(1.528589,7.08816)\\\\la scena finale consiste in un'esplosione azionata a distanza, e le cariche sono già state posizionate.//(7.08816,37.08816)\\\\Sembra proprio che sarà un incidente inevitabile.",
+			"de": "//(0,4.417178)\\\\Laut der Crew für Spezialeffekte beinhaltet die finale Szene eine ferngesteuerte Explosion//(4.417178,7.175767)\\\\und die Leitungen sind bereits gelegt.//(7.175767,37.17577)\\\\Klingt, als könnte ein Unfall passieren.",
+			"es": "//(0,1.928589)\\\\Según el equipo de efectos especiales,//(1.928589,7.2)\\\\en la última escena se produce una explosión activada por control remoto, y las cargas ya están colocadas.//(7.2,37.2)\\\\Suena como un accidente esperando a ocurrir.",
+			"ru": "//(0,2.9)\\\\По словам группы специальных эффектов, финальная сцена содержит//(2.9,7.4)\\\\взрыв с дистанционным управлением, и заряды уже установлены.//(7.4,37.4)\\\\Звучит, как будто несчастный случай запрограммирован.",
+			"cn": "//(0,4.54)\\\\特效工作人员说最终场景里会有一场遥控触发的爆炸，//(4.54,7)\\\\且炸药已经安放完毕。//(7,37)\\\\听起来就像一场等着发生的意外。",
+			"tc": "//(0,6.7)\\\\特效工作人員說最終場景裡會有一場遙控觸發的爆炸，且炸藥已經安放完畢。//(6.7,36.7)\\\\聽起來就像一場等著發生的意外。",
+			"jp": "//(0,6.192706)\\\\特殊効果班に よると、 ラストシーンには 遠隔操作による 爆発が あるらしいわ。 火薬は//(6.192706,9.731396)\\\\すでにセットされてる。 事故に ならないと いいわね。"
+		}
+	}
+}

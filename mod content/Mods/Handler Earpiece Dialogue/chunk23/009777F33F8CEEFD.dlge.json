@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_bull/8000_handler/ds8004_idberg.sweetdialog?/ds8004_idberg_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds8004_idberg_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_bull/8000_handler/ds8004_idberg_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_bull/8000_handler/ds8004_idberg_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.05)\\\\That is Ezra Berg. Former Mossad interrogator.//(4.05,34.05)\\\\His services are in demand at the moment.",
+			"fr": "//(0,30)\\\\Voilà Ezra Berg. Ancien interrogateur du Mossad. Il est très demandé en ce moment.",
+			"it": "//(0,4.45)\\\\Quello... è Ezra Berg. Conduceva interrogatori per il Mossad.//(4.45,34.45)\\\\Ora sono in molti a richiedere i suoi servizi.",
+			"de": "//(0,4.394785)\\\\Das ist Ezra Berg. Ehemaliger Verhörer des Mossad.//(4.394785,34.39478)\\\\Seine Dienste sind im Moment sehr gefragt.",
+			"es": "//(0,30)\\\\Ese es Ezra Berg, el exinterrogador del Mossad. Ahora mismo hay demanda para sus servicios.",
+			"ru": "//(0,2.47)\\\\Это Эзра Берг.//(2.47,4.312883)\\\\Бывший специалист по допросам из «Моссада».//(4.312883,34.31288)\\\\Его услуги пользуются большим спросом в последнее время.",
+			"cn": "//(0,2.2)\\\\那个就是以斯拉·贝格。//(2.2,32.2)\\\\前摩萨德审问员。他现在为这个组织效命。",
+			"tc": "//(0,30)\\\\那個就是艾斯拉．伯格。前摩薩德審問員。他現在為這個組織效命。",
+			"jp": "//(0,30)\\\\彼がエズラ・バーグ。元モサドの尋問員。そのスキルが今、必要とされているようね。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/greedy/33000_raccoon/33000_handler/ds33022_exposeoppreveal.sweetdialog?/ds33022_exposeoppreveal_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds33022_exposeoppreveal_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/greedy/33000_raccoon/33000_handler/ds33022_exposeoppreveal_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/greedy/33000_raccoon/33000_handler/ds33022_exposeoppreveal_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.398589)\\\\Ruby Red, famous muckraking investigative journalist,//(3.398589,6.261472)\\\\is in the bank. Known for her fierce skills//(6.261472,9.76245)\\\\at digging up dirt and her excellent nose for scandal,//(9.76245,12.04281)\\\\she's definitely up to something.//(12.04281,15.74281)\\\\Might be worth following her around the bank, 47.",
+			"fr": "//(0,4.78908)\\\\Ruby Red, célèbre journaliste d'investigation experte en furetage, est sur place.//(4.78908,12)\\\\Connue pour déterrer des calomnies et scandales en tous genres, elle a sûrement une idée derrière la tête.//(12,14.51838)\\\\Vous pourriez la suivre dans la banque et apprendre quelque chose, 47.",
+			"it": "//(0,1.754919)\\\\Ruby Red, la famosa giornalista investigativa//(1.754919,2.122769)\\\\scandalistica,//(2.122769,3.609245)\\\\si trova nella banca.//(3.609245,5.828554)\\\\Date le sue tremende abilità nel scoprire i//(5.828554,8.693128)\\\\peggiori segreti e il suo naso fino per gli scandali,//(8.693128,10.45702)\\\\sta di certo tramando qualcosa.//(10.45702,13.599)\\\\Forse è il caso di seguirla in giro per la banca,//(13.599,14.599)\\\\47.",
+			"de": "//(0,1.47721)\\\\Ruby Red, die berühmte ruchlose//(1.47721,1.844988)\\\\Enthüllungsjournalistin,//(1.844988,3.608524)\\\\befindet sich in der Bank.//(3.608524,4.808376)\\\\Sie ist dafür bekannt,//(4.808376,6.285587)\\\\gern im Dreck zu wühlen,//(6.285587,8.60384)\\\\und hat einen hervorragenden Riecher für Skandale.//(8.60384,10.92209)\\\\Und sie ist sicher nicht zufällig hier.//(10.92209,11.84459)\\\\Könnte sich lohnen,//(11.84459,13.59916)\\\\ihr durch die Bank zu folgen,//(13.59916,14.59916)\\\\47.",
+			"es": "//(0,1.885388)\\\\Ruby Red, la famosa periodista de investigación//(1.885388,2.483998)\\\\de escándalos,//(2.483998,3.862996)\\\\está en el banco.//(3.862996,6.693909)\\\\Es famosa por su don para sacar a relucir toda la//(6.693909,8.752755)\\\\basura y por su excelente olfato para los//(8.752755,11.2534)\\\\escándalos. Seguro que está siguiendo alguna pista.//(11.2534,13.6535)\\\\Puede que te sea útil seguirla por el banco,//(13.6535,14.6535)\\\\47.",
+			"ru": "//(0,2.528589)\\\\В банк заявилась Руби Рэд, знаменитая//(2.528589,5.053)\\\\журналистка-разоблачительница.//(5.053,7.629687)\\\\Учитывая ее невероятный талант ворошить грязное белье//(7.629687,11.56257)\\\\и чуять скандалы, она наверняка здесь не просто так.//(11.56257,14.35265)\\\\Стоит за ней проследить, пока она в банке, 47-й.",
+			"cn": "//(0,4.934)\\\\鲁比·莱德，著名的揭发丑闻的记者，现在就在这家银行里。//(4.934,11.814)\\\\以对黑料的挖掘手段和对丑闻的敏锐嗅觉而闻名的她必定会知道一些事情。//(11.814,14.353)\\\\跟踪她估计会获得一些有价值的情报，47。",
+			"tc": "//(0,14.35265)\\\\露比‧瑞德，出名的醜聞調查記者正在銀行裡。她善長以凶悍的手段來找出他人的醜事並且對醜聞非常敏感，她肯定是有所發現。或許在銀行中跟蹤她會有用，47。",
+			"jp": "//(0,4.91)\\\\ルビー・レッド、有名なスキャンダル専門のジャーナリストが銀行にいるわ。//(4.91,9.64)\\\\彼女はスキャンダルを嗅ぎ付ける嗅覚と、それを掘り下げる取材力で知られてる。//(9.64,11.64)\\\\何かをつかんでいるに違いないわ。//(11.64,14.35265)\\\\彼女を銀行内で尾けてみる価値はありそうよ、47。"
+		}
+	}
+}

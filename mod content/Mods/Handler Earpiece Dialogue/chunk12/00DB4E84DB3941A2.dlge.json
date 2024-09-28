@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/greedy/33000_raccoon/33000_handler/ds33003_mannid.sweetdialog?/ds33003_mannid_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds33003_mannid_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/greedy/33000_raccoon/33000_handler/ds33003_mannid_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/greedy/33000_raccoon/33000_handler/ds33003_mannid_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.510826)\\\\47, that's Fabian Mann,//(2.510826,5.405612)\\\\head of accounts at this branch of Milton-Fitzpatrick.//(5.405612,6.246102)\\\\He should have part of//(6.246102,10.01555)\\\\the backup data core on his person.",
+			"fr": "//(0,5.3)\\\\47, c'est Fabian Mann, chef comptable de cette branche de Milton-Fitzpatrick.//(5.3,8.110839)\\\\Il devrait transporter une partie des données avec lui.",
+			"it": "//(0,1.781881)\\\\47, lui è Fabian Mann,//(1.781881,3.673475)\\\\responsabile della contabilità di questa filiale//(3.673475,4.732243)\\\\della Milton-Fitzpatrick.//(4.732243,7.254367)\\\\Dovrebbe avere addosso una parte del backup dei//(7.254367,8.254368)\\\\dati.",
+			"de": "//(0,2.3)\\\\47, das ist Fabian Mann,//(2.3,5.3)\\\\Leiter der Buchhaltung dieser Filiale von Milton-Fitzpatrick.//(5.3,6.612648)\\\\Er sollte einen Teil der Sicherheitskopie des//(6.612648,8.110839)\\\\Datenkerns bei sich tragen.",
+			"es": "//(0,1.560931)\\\\47, ese es Fabian Mann,//(1.560931,3.494144)\\\\jefe de contabilidad de esta sucursal del//(3.494144,4.145452)\\\\Milton-Fitzpatrick.//(4.145452,6.631011)\\\\Debería llevar encima una parte de la copia de//(6.631011,8.110839)\\\\seguridad de los datos.",
+			"ru": "//(0,2.487)\\\\47-й, это Фабиан Манн,//(2.487,5.195589)\\\\главный бухгалтер этого филиала банка «Мильтон-Фицпатрик».//(5.195589,8.110839)\\\\При себе у него должна быть часть нужных данных.",
+			"cn": "//(0,5.267)\\\\47,那个人就是法比安·曼恩，米尔顿-菲兹帕特里克这家支行的账目主管。//(5.267,8.111)\\\\他身上应该有一部分已经备份好的核心数据。",
+			"tc": "//(0,5.3)\\\\47，那就是費邊‧曼，他是這間米頓‧菲茲派崔克分行的會計主任。//(5.3,8.2)\\\\他身上應該有備用數據核心的一部份。",
+			"jp": "//(0,5.3)\\\\47、あれがファビアン・マン。ミルトン=フィッツパトリックのこの支店の経理部長よ。//(5.3,8.110839)\\\\彼はバックアップデータの一部を持ち歩いているはず。"
+		}
+	}
+}

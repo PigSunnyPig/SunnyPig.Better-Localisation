@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/greedy/33000_raccoon/33000_handler/ds33012_vaultdisguisecallout.sweetdialog?/ds33012_vaultdisguisecallout_diana_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds33012_vaultdisguisecallout_diana_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/greedy/33000_raccoon/33000_handler/ds33012_vaultdisguisecallout_diana_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/greedy/33000_raccoon/33000_handler/ds33012_vaultdisguisecallout_diana_002.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.176687)\\\\Hang on. There's a similar security hub//(2.176687,4.13957)\\\\on the second floor. You might be able to//(4.13957,8.993865)\\\\acquire what you need there?",
+			"fr": "//(0,2.408399)\\\\Un instant. Il y a un système de sécurité similaire//(2.408399,3.332531)\\\\au deuxième étage...//(3.332531,4.816798)\\\\Peut-être pourriez-vous trouver ce qu'il vous faut//(4.816798,5.816798)\\\\là-haut ?",
+			"it": "//(0,2.530499)\\\\Aspetta. Al secondo piano c'è un centro di sicurezza//(2.530499,5.392835)\\\\simile. Riuscirai a trovare là ciò che ti serve?",
+			"de": "//(0,2.308589)\\\\Moment. Im zweiten Stock gibt es//(2.308589,3.7)\\\\eine ähnliche Sicherheitszentrale.//(3.7,4.644579)\\\\Vielleicht finden Sie dort ja,//(4.644579,5.644579)\\\\was Sie suchen?",
+			"es": "//(0,3.350927)\\\\Espera. Hay un centro de seguridad similar en la segunda planta.//(3.350927,5.392835)\\\\Puede que allí consigas lo que necesitas.",
+			"ru": "//(0,3.12965)\\\\Подожди. На втором этаже есть похожий пост охраны.//(3.12965,5.392835)\\\\Может, там есть то, что тебе нужно?",
+			"cn": "//(0,30)\\\\等一下。在二楼有一个比较相似的安全中心。你或许可以在那里找到你要的东西？",
+			"tc": "//(0,30)\\\\等等，二樓似乎有個相似的保全中心。你或許能夠在那裡找到你需要的東西？",
+			"jp": "//(0,3.345)\\\\ちょっと待って。上の階にも似たようなセキュリティハブがあるわ。//(3.345,5.392835)\\\\そこで、必要なものが手に入らないかしら？"
+		}
+	}
+}

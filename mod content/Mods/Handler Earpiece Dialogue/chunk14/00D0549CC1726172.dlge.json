@@ -1,0 +1,68 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "00D0549CC1726172",
+	"DITL": "005CC166F7715F6D",
+	"CLNG": "00063B34B5153AEE",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds20006_sp_cakemaisoncall_diana_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20006_sp_cakemaisoncall_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20006_sp_cakemaisoncall_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Hm, looks like Maison discovered the ruined wedding cake. It appears he's on the phone with the chef now.",
+					"fr": "//(0,30)\\\\Hmm, on dirait que Maison a découvert la pièce montée en miettes. Il a l'air d'être au téléphone avec le chef cuisinier en ce moment.",
+					"it": "//(0,30)\\\\Oh, a quanto pare Maison ha scoperto che la torta nuziale è rovinata. Sembra che ora sia al telefono con lo chef.",
+					"de": "//(0,30)\\\\Hm, sieht aus, als hätte Maison die ruinierte Hochzeitstorte entdeckt. Er scheint gerade mit dem Chefkoch zu telefonieren.",
+					"es": "//(0,30)\\\\Mmm, parece que Maison ha descubierto la tarta destrozada. Parece que está hablando por teléfono con el chef.",
+					"ru": "//(0,30)\\\\Кажется, Мезон обнаружил испорченный свадебный торт. Похоже он говорит по телефону с шеф-поваром.",
+					"cn": "//(0,30)\\\\嗯，看来米森发现了被你打坏的婚礼蛋糕。看来他正在跟厨师通电话。",
+					"tc": "//(0,30)\\\\嗯，看來梅森發現被糟蹋的婚禮蛋糕。看來他正在給廚師打電話。",
+					"jp": "//(0,3.532)\\\\台無しになったウェディングケーキをメゾンが見つけたようね。//(3.532,33.532)\\\\シェフに電話してるみたい。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds20006_sp_cakemaisoncall_diana_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20006_sp_cakemaisoncall_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20006_sp_cakemaisoncall_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Hold up. Maison's discovered the ruined wedding cake. He doesn't seem happy.",
+					"fr": "//(0,30)\\\\Attendez. Maison a découvert la pièce montée en miettes. Il n'a pas l'air très content.",
+					"it": "//(0,30)\\\\Aspetta. Maison ha scoperto che la torta nuziale è rovinata. Non sembra contento.",
+					"de": "//(0,30)\\\\Moment. Maison hat die ruinierte Hochzeitstorte entdeckt. Er wirkt nicht glücklich darüber.",
+					"es": "//(0,30)\\\\Espera. Maison ha descubierto la tarta destrozada. No parece muy contento.",
+					"ru": "//(0,30)\\\\Погоди. Мезон обнаружил испорченный свадебный торт. Не похоже, что он рад.",
+					"cn": "//(0,30)\\\\慢着。米森发现了被你打坏的婚礼蛋糕。他看上去很不高兴。",
+					"tc": "//(0,30)\\\\等等。梅森發現了被糟蹋的婚禮蛋糕。他看起來不太高興。",
+					"jp": "//(0,3.055)\\\\待って。メゾンが台無しになったウェディングケーキを見つけたわ。//(3.055,33.055)\\\\かなり怒ってるわね。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds20006_sp_cakemaisoncall_diana_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_handler/ds20006_sp_cakemaisoncall_diana_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_handler/ds20006_sp_cakemaisoncall_diana_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\I'm picking up a conversation, 47. Maison is talking to the chef about the ruined cake.",
+					"fr": "//(0,30)\\\\Je capte une conversation, 47. Maison parle au chef cuisinier de la pièce montée en miettes.",
+					"it": "//(0,2.410491)\\\\Sto intercettando una conversazione, 47.//(2.410491,32.41049)\\\\Maison sta parlando con lo chef a proposito della torta rovinata.",
+					"de": "//(0,30)\\\\Ich habe da ein Gespräch aufgeschnappt, 47. Maison spricht mit dem Chefkoch über die ruinierte Hochzeitstorte.",
+					"es": "//(0,30)\\\\Estoy captando una conversación, 47. Maison está hablando con el chef sobre la tarta estropeada.",
+					"ru": "//(0,30)\\\\Слышу разговор, 47-й. Мезон разговаривает с шеф-поваром по поводу торта.",
+					"cn": "//(0,30)\\\\47，我监听到了对话。米森正在和厨师谈蛋糕被打坏的事。",
+					"tc": "//(0,30)\\\\我發現了他們正在對話，47。梅森正在和主廚討論被糟蹋的蛋糕。",
+					"jp": "//(0,30)\\\\会話を聞いてみるわ。メゾンがシェフにケーキが台無しになったと話しているわよ。"
+				}
+			}
+		]
+	}
+}

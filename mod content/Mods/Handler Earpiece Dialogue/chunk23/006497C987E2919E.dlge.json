@@ -1,0 +1,49 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/12500_white_spider/12500_rabies/12500_handler/ds12536_jnkyrd_loc.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds12536_jnkyrd_loc_diana_ws_001",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12536_jnkyrd_loc_diana_ws_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12536_jnkyrd_loc_diana_ws_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\The Target is on guard duty. Somewhere in the farm's junkyard. Near the water tower.",
+					"fr": "//(0,30)\\\\La cible est de garde quelque part dans la cour de la ferme, près du château d'eau.",
+					"it": "//(0,30)\\\\Il bersaglio è di ronda nel rottamaio della fattoria, vicino alla torre dell'acqua.",
+					"de": "//(0,30)\\\\Die Zielperson hat Wachdienst. Irgendwo auf dem Schrottplatz der Anlage. In der Nähe des Wasserturms.",
+					"es": "//(0,30)\\\\El objetivo está vigilando el desguace, cerca del depósito de aguas.",
+					"ru": "//(0,30)\\\\Цель в карауле. Где-то на свалке у фермы. Рядом с водонапорной башней.",
+					"cn": "//(0,30)\\\\目标在执行安保工作。在农场的垃圾场某处。在水塔附近。",
+					"tc": "//(0,30)\\\\目標在執行保全工作。在農場的垃圾場某處。在水塔附近。",
+					"jp": "//(0,30)\\\\ターゲットは 警備任務に ついてるわ。 おそらくジャンクヤードの 近くよ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds12536_jnkyrd_loc_diana_ws_002",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12536_jnkyrd_loc_diana_ws_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/12500_white_spider/12500_rabies/12500_handler/ds12536_jnkyrd_loc_diana_ws_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,3.41)\\\\Look for the Target in the overgrown junkyard toward the main gate.//(3.41,33.41)\\\\By the water tower. Most likely one of the soldiers.",
+					"fr": "//(0,30)\\\\Cherchez la cible dans la cour à l'abandon, près de l'entrée principale, à côté du château d'eau. C'est probablement un des soldats.",
+					"it": "//(0,30)\\\\Cerca il bersaglio nella discarica coperta di vegetazione, verso l'ingresso principale e vicino alla torre dell'acqua. Credo sia uno dei soldati.",
+					"de": "//(0,30)\\\\Suchen Sie das Ziel auf dem überwucherten Schrottplatz in Richtung des Haupttors. Am Wasserturm. Höchstwahrscheinlich ist er einer der Soldaten.",
+					"es": "//(0,30)\\\\Busca al objetivo en el desguace enorme cerca de la puerta principal, junto al depósito de aguas. Tiene que ser uno de los soldados.",
+					"ru": "//(0,30)\\\\Ищи цель на заросшей свалке у главных ворот. Рядом с водонапорной башней. Скорее всего, это кто-то из солдат.",
+					"cn": "//(0,30)\\\\在主大门方向的大垃圾场找找目标。在水塔附近。很可能是一名士兵。",
+					"tc": "//(0,30)\\\\在主大門方向的大垃圾場找找目標。在水塔附近。很可能是一名士兵。",
+					"jp": "//(0,30)\\\\ジャンクヤード周辺で ターゲットを 探して みて。 正門の 方向、 給水塔の 近くよ。"
+				}
+			}
+		]
+	}
+}

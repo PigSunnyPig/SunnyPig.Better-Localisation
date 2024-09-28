@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession.sweetdialog?/dr8614_specopssession_paine_et_013.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8614_specopssession_paine_et_013",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession_paine_et_013.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8614_specopssession_paine_et_013.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\That’s sounds like a noble goal to me, Jeffersen. Much more so than handing over a journalist to the Russians.",
+			"fr": "//(0,3.645)\\\\Ça me paraît être une cause juste, Jeffersen.//(3.645,33.645)\\\\Bien plus que de livrer une journaliste aux Russes.",
+			"it": "//(0,3.579)\\\\Mi sembra un nobile proposito, Jeffersen.//(3.579,33.579)\\\\È ben diverso dal consegnare una giornalista ai russi.",
+			"de": "//(0,30)\\\\Das klingt für mich nach einem noblen Ziel, Jeffersen. Viel nobler als die Übergabe einer Journalistin an die Russen.",
+			"es": "//(0,3.650982)\\\\A mí eso me parece un objetivo muy noble, Jeffersen.//(3.650982,33.65098)\\\\Mucho más que entregarles una periodista a los rusos.",
+			"ru": "//(0,3.548589)\\\\По-моему, это очень достойная цель, Джефферсен.//(3.548589,33.54859)\\\\Более благородная, чем похищение журналисток по заказу русских.",
+			"cn": "//(0,30)\\\\在我看来这是一个崇高的目标，杰弗森。比把记者交给俄罗斯人要高尚得多。",
+			"tc": "//(0,30)\\\\對我來說，這聽起來是一個崇高的目標，傑佛森。比把一名記者交給俄國人更重要。",
+			"jp": "//(0,30)\\\\That’s sounds like a noble goal to me, Jeffersen. Much more so than handing over a journalist to the Russians."
+		}
+	}
+}

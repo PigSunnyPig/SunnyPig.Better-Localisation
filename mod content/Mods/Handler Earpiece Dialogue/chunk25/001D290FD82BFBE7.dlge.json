@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/marrakech/6000_elusive/6000_screwdriver/6000_screwdriver_handler/dr6620_diana.sweetdialog?/dr6620_diana_diana_et_005.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr6620_diana_diana_et_005",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/marrakech/6000_elusive/6000_screwdriver/6000_screwdriver_handler/dr6620_diana_diana_et_005.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/marrakech/6000_elusive/6000_screwdriver/6000_screwdriver_handler/dr6620_diana_diana_et_005.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA_ET]\\\\//(0,2.460491)\\\\The target is evacuating, 47.//(2.460491,32.46049)\\\\He will most likely be using an underground escape route to avoid the rioters.",
+			"fr": "//[DIANA_ET]\\\\//(0,2.197)\\\\La cible est en cours d'évacuation, 47.//(2.197,32.197)\\\\Il va probablement s'enfuir par un tunnel, pour éviter les émeutiers.",
+			"it": "//[DIANA_ET]\\\\//(0,2.460491)\\\\Il bersaglio sta scappando, 47.//(2.460491,32.46049)\\\\Probabilmente farà ricorso a una via di fuga sotterranea per evitare i manifestanti.",
+			"de": "//[DIANA_ET]\\\\//(0,2.228589)\\\\Die Zielperson zieht sich zurück, 47.//(2.228589,32.22859)\\\\Vermutlich durch einen unterirdischen Fluchttunnel, um die Demonstranten zu umgehen.",
+			"es": "//[DIANA_ET]\\\\//(0,2.460491)\\\\El objetivo está huyendo, 47.//(2.460491,32.46049)\\\\Seguramente use una vía de escape subterránea para evitar a los manifestantes.",
+			"ru": "//[DIANA_ET]\\\\//(0,2.5)\\\\Цель эвакуируется, 47-й.//(2.5,32.5)\\\\Скорее всего она пойдет через тоннель, чтобы не встретиться с бунтовщиками.",
+			"cn": "//[DIANA_ET]\\\\//(0,30)\\\\47，目标正在撤离。他很有可能会走地下逃生路线以避开暴动者。",
+			"tc": "//[DIANA_ET]\\\\//(0,30)\\\\目標正在撤離，47。他應該會用地下通道撤離來回避暴動者。",
+			"jp": "//[DIANA_ET]\\\\//(0,30)\\\\標的は逃走中よ。おそらく、暴徒たちを避けるために地下の脱出ルートを使うでしょうね。"
+		}
+	}
+}

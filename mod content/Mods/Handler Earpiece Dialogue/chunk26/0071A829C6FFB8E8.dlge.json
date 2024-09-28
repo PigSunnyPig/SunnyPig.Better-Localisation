@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_handler/dr1661_diana.sweetdialog?/dr1661_diana_diana_et_003.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr1661_diana_diana_et_003",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_handler/dr1661_diana_diana_et_003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_4xrumandcoke/1000_4xrumandcoke_handler/dr1661_diana_diana_et_003.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA_ET]\\\\//(0,2.242393)\\\\Welcome to Sapienza, 47.//(2.242393,6.715767)\\\\The target was supposed to film an advertisement in the ruins outside of town,//(6.715767,9.056258)\\\\but vanished shortly after arrival.//(9.056258,15.69583)\\\\On-site intelligence has flagged several peculiar incidents in the back streets that may be worth investigating.//(15.69583,45.69583)\\\\Good hunting.",
+			"fr": "//[DIANA_ET]\\\\//(0,2.3)\\\\Bienvenue à Sapienza, 47.//(2.3,6.5)\\\\La cible devait tourner une publicité dans les ruines à proximité de la ville,//(6.5,8.9)\\\\mais s'est évaporée peu après son arrivée.//(8.9,13.5)\\\\Nos informateurs locaux ont mentionné plusieurs incidents peu ordinaires dans les ruelles,//(13.5,15.2)\\\\qui méritent probablement que l'on y jette un oeil.//(15.2,45.2)\\\\Bonne chasse.",
+			"it": "//[DIANA_ET]\\\\//(0,2.292393)\\\\Benvenuto a Sapienza, 47.//(2.292393,6.62957)\\\\Il bersaglio avrebbe dovuto girare uno spot pubblicitario nelle rovine fuori città,//(6.62957,8.871)\\\\ma è scomparso poco dopo il suo arrivo.//(8.871,15.6)\\\\L'intelligence locale ha registrato in zona curiosi avvenimenti su cui varrebbe la pena indagare.//(15.6,45.6)\\\\Buona caccia.",
+			"de": "//[DIANA_ET]\\\\//(0,2.092393)\\\\Willkommen in Sapienza, 47.//(2.092393,6.62957)\\\\Das Ziel sollte in den Ruinen außerhalb der Stadt einen Werbespot drehen,//(6.62957,9.1)\\\\ist aber kurz nach seiner Ankunft verschwunden.//(9.1,13.1)\\\\Laut unserer Leute vor Ort gab es in den Gassen einige seltsame Zwischenfälle,//(13.1,15.6)\\\\denen Sie nachgehen könnten.//(15.6,45.6)\\\\Waidmannsheil.",
+			"es": "//[DIANA_ET]\\\\//(0,2.092393)\\\\Bienvenido a Sapienza, 47.//(2.092393,5.3)\\\\Se supone que el objetivo debe rodar un anuncio en las ruinas//(5.3,9.1)\\\\que hay fuera de la ciudad, pero se esfumó al poco de llegar.//(9.1,12.2)\\\\La inteligencia local señala ciertos incidentes//(12.2,15.4)\\\\en las calles secundarias que merece la pena investigar.//(15.4,45.4)\\\\Buena caza.",
+			"ru": "//[DIANA_ET]\\\\//(0,2.560491)\\\\Добро пожаловать в Сапиенцу, 47-й.//(2.560491,6.6)\\\\Для проведения съемки были выбраны руины на окраине города,//(6.6,9.020061)\\\\однако цель исчезла — как только прибыла.//(9.020061,13.2)\\\\В переулках зафиксировали ряд странных происшествий.//(13.2,15.6)\\\\Возможно, это как-то связано.//(15.6,45.6)\\\\Доброй охоты.",
+			"cn": "//[DIANA_ET]\\\\",
+			"tc": "//[DIANA_ET]\\\\//(0,2.5)\\\\47，歡迎來到羅馬大學。//(2.5,8.9)\\\\目標原本應該在城外的遺跡中拍攝廣告，不過在抵達不久後便消失了。//(8.9,38.9)\\\\當場情報指出街上有一些值得調查的奇異事項。狩獵愉快。",
+			"jp": "//[DIANA_ET]\\\\//(0,6.893608)\\\\サピエンツァへ ようこそ。 標的は 町の 外に ある遺跡で 広告の 撮影を するはずだったけど、//(6.893608,14.55317)\\\\到着した直後に 姿を 消したの。 情報に よると 裏路地で 妙な事が 起こるらしいから、 調べて みる価値は//(14.55317,16.63402)\\\\あるかもね。 期待してるわよ。"
+		}
+	}
+}

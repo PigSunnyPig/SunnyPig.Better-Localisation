@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_flirtini/8000_flirtini_handler/dr8620_diana.sweetdialog?/dr8620_diana_diana_et_006.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8620_diana_diana_et_006",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_flirtini/8000_flirtini_handler/dr8620_diana_diana_et_006.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_flirtini/8000_flirtini_handler/dr8620_diana_diana_et_006.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA_ET]\\\\//(0,30)\\\\The target is at his vehicle, 47. Whatever you are going to do, do it now.",
+			"fr": "//[DIANA_ET]\\\\//(0,30)\\\\La cible a atteint son véhicule, 47 ! Peu importe la méthode, agissez maintenant !",
+			"it": "//[DIANA_ET]\\\\//(0,30)\\\\Il bersaglio ha raggiunto il veicolo, 47! Qualunque sia il tuo piano, agisci subito!",
+			"de": "//[DIANA_ET]\\\\//(0,2)\\\\Die Zielperson ist bei ihrem Fahrzeug, 47!//(2,32)\\\\Egal, was Sie vorhaben, Sie sollten sich beeilen!",
+			"es": "//[DIANA_ET]\\\\//(0,30)\\\\¡El objetivo está en su vehículo, 47! Sea lo que sea que vayas a hacer, ¡hazlo ya!",
+			"ru": "//[DIANA_ET]\\\\//(0,30)\\\\Цель уже у машины, 47-й! Что бы ты ни задумал, делай это сейчас!",
+			"cn": "//[DIANA_ET]\\\\//(0,30)\\\\47，目标上车了。无论你有何打算，现在就动手吧。",
+			"tc": "//[DIANA_ET]\\\\//(0,30)\\\\目標正在他的車輛中，47。不管你打算如何處理，趕緊行動。",
+			"jp": "//[DIANA_ET]\\\\//(0,30)\\\\標的が車に到着したわ！ 仕留めるなら今よ！"
+		}
+	}
+}

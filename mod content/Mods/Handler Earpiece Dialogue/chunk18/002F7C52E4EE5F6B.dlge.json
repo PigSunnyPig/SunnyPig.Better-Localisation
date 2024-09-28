@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colombia/23000_hippo/23000_handler/ds23025_oppsubmarinebriefing.sweetdialog?/ds23025_oppsubmarinebriefing_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds23025_oppsubmarinebriefing_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colombia/23000_hippo/23000_handler/ds23025_oppsubmarinebriefing_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colombia/23000_hippo/23000_handler/ds23025_oppsubmarinebriefing_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.226687)\\\\So. An employee of the Delgado cartel//(3.226687,5.971473)\\\\was injured while working on a secret project//(5.971473,8.824782)\\\\in the caves beneath Santa Fortuna.//(8.824782,10.68235)\\\\Sounds intriguing.//(10.68235,14.064)\\\\I suggest you locate this man’s house, 47.//(14.064,19.91432)\\\\Could be a chance to access the heart of the Delgado cartel.",
+			"fr": "//(0,3.312883)\\\\Un employé du cartel Delgado s'est blessé en travaillant//(3.312883,9.275)\\\\sur un projet secret dans les grottes sous Santa Fortuna...//(9.275,11.075)\\\\Intéressant.//(11.075,13.918)\\\\Vous devriez chercher où habite cet homme, 47.//(13.918,17.27481)\\\\Il pourrait vous permettre d'accéder au cœur du cartel.",
+			"it": "//(0,2.659318)\\\\Dunque, un impiegato del cartello dei Delgado è//(2.659318,4.895113)\\\\rimasto ferito mentre lavorava a un progetto//(4.895113,8.903556)\\\\segreto nelle caverne al di sotto di Santa Fortuna.//(8.903556,11.02621)\\\\Sembra interessante.//(11.02621,13.70909)\\\\Potrebbe essere utile trovare la casa di quest'uomo, 47.//(13.70909,15.88276)\\\\E se fosse la chiave per accedere al cuore del//(15.88276,17.27481)\\\\cartello dei Delgado?",
+			"de": "//(0,3.946687)\\\\So. Ein Angestellter des Delgado-Kartells wurde verletzt,//(3.946687,6.037177)\\\\während er an einem Geheimprojekt//(6.037177,9.251)\\\\in den Höhlen unter Santa Fortuna arbeitete.//(9.251,11.201)\\\\Klingt interessant.//(11.201,12.201)\\\\Ich würde vorschlagen,//(12.201,14.071)\\\\dass Sie das Haus des Mannes finden, 47.//(14.071,15.08223)\\\\Das könnte Ihre Chance sein,//(15.08223,17.27481)\\\\ins Herz des Delgado-Kartells vorzudringen.",
+			"es": "//(0,2.885859)\\\\Un empleado del cártel de Delgado se ha lesionado//(2.885859,5.451067)\\\\mientras trabajaba en un proyecto secreto en las//(5.451067,7.810524)\\\\cuevas que hay bajo Santa Fortuna.//(7.810524,8.887378)\\\\Parece interesante.//(8.887378,11.87777)\\\\Te sugiero que encuentres la casa de ese hombre,//(11.87777,15.51983)\\\\47. Podría ser una gran ocasión para colarte en el//(15.51983,16.91733)\\\\cártel de Delgado.",
+			"ru": "//(0,3.208589)\\\\Итак. Один из сотрудников картеля Дельгадо//(3.208589,6.037868)\\\\получил травму, работая над секретным проектом//(6.037868,9.092027)\\\\в пещерах под Сан-Фортуной.//(9.092027,11.02822)\\\\Звучит интересно!//(11.02822,13.97681)\\\\47-й, рекомендую узнать, где живет пострадавший.//(13.97681,17.27481)\\\\Возможно, это шанс попасть в самое сердце картеля.",
+			"cn": "//(0,9.1)\\\\嗯。戴尔加多黑帮的一名员工在圣福耳图那地下洞穴进行秘密工程时受了伤。//(9.1,17.27481)\\\\听起来很有意思。47，我建议你找到此人的住所。或许是我们打入戴尔加多黑帮核心的机会。",
+			"tc": "//(0,8.4)\\\\嗯。戴爾加多黑幫的員工在聖福耳圖那地下洞穴進行秘密工程時受了傷。//(8.4,16.917)\\\\聽起來很有意思。我建議你找到此人的住處，47。或許是我們打入戴爾加多黑幫核心的機會。",
+			"jp": "//(0,3.368)\\\\デルガド・カルテルの従業員が//(3.368,6.368)\\\\秘密のプロジェクトの作業中に負傷したらしい。//(6.368,9.058)\\\\サン・フォルチューナの地下にある洞窟での事故らしいわよ。//(9.058,11.068)\\\\興味深い話ね。//(11.068,13.848)\\\\この男性の自宅を探した方がいいわ、47。//(13.848,43.848)\\\\デルガド・カルテルの心臓部に接近できるチャンスかも知れないわ。"
+		}
+	}
+}

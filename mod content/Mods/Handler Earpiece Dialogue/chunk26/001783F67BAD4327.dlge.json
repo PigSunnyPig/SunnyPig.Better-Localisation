@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/italy/1000_elusive/1000_mimosa/1000_mimosa_handler/dr1610_diana.sweetdialog?/dr1610_diana_diana_et_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr1610_diana_diana_et_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/italy/1000_elusive/1000_mimosa/1000_mimosa_handler/dr1610_diana_diana_et_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/italy/1000_elusive/1000_mimosa/1000_mimosa_handler/dr1610_diana_diana_et_002.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA_ET]\\\\//(0,2.842393)\\\\Welcome to Sapienza, 47.//(2.842393,32.84239)\\\\The biolab is located in the caves beneath Villa Caruso with direct access from within the mansion. Good Luck.",
+			"fr": "//[DIANA_ET]\\\\//(0,2.1)\\\\Bienvenue à Sapienza, 47.//(2.7,6)\\\\Le laboratoire se trouve sous la Villa Caruso, depuis laquelle vous//(6,8.8)\\\\pourrez directement y accéder. Bonne chance.",
+			"it": "//[DIANA_ET]\\\\//(0,2.242393)\\\\Benvenuto a Sapienza, 47.//(2.242393,6.141473)\\\\Il laboratorio di bioingegneria si trova nelle grotte sottostanti villa Caruso//(6.141473,8.981964)\\\\ed è collegato direttamente all'edificio.//(8.981964,38.98196)\\\\Buona fortuna.",
+			"de": "//[DIANA_ET]\\\\//(0,2.542393)\\\\Willkommen in Sapienza, 47.//(2.542393,8.71816)\\\\Das Biolabor befindet sich in den Höhlen unter der Villa Caruso. Der Zugang befindet sich irgendwo im Gebäude.//(8.71816,38.71816)\\\\Viel Glück!",
+			"es": "//[DIANA_ET]\\\\//(0,2.564)\\\\Bienvenido a Sapienza, 47.//(2.564,8.892)\\\\El biolaboratorio está en las cuevas situadas bajo Villa Caruso, y se accede a él directamente desde la mansión.//(8.892,38.892)\\\\Buena suerte.",
+			"ru": "//[DIANA_ET]\\\\//(0,2.460491)\\\\Добро пожаловать в Сапиенцу, 47-й.//(2.460491,5.905276)\\\\Биологическая лаборатория находится в пещере под виллой Карузо.//(5.905276,8.613865)\\\\В нее можно попасть через особняк.//(8.613865,38.61386)\\\\Удачи.",
+			"cn": "//[DIANA_ET]\\\\//(0,2.5)\\\\欢迎来到萨比恩撒，47。//(2.5,8.7)\\\\生物实验室在卡鲁索庄园下面的洞穴里，可以通过豪宅内部进入。//(8.7,38.7)\\\\祝你好运。",
+			"tc": "//[DIANA_ET]\\\\//(0,30)\\\\47，歡迎來到羅馬大學。生化實驗室就位於卡魯索別墅底下的洞穴中並能從豪宅裡直接通達。祝你好運。",
+			"jp": "//[DIANA_ET]\\\\//(0,1.3)\\\\サピエンツァへようこそ//(1.3,5.2)\\\\生物研究所はカルーソー家の地下にある洞窟にある//(5.2,7.3)\\\\屋敷内から直接入れるわ//(7.3,9.4)\\\\幸運を祈ってる"
+		}
+	}
+}

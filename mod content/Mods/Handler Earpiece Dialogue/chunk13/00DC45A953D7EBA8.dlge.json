@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32026_sp_dragoneyekilled.sweetdialog?/ds32026_sp_dragoneyekilled_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32026_sp_dragoneyekilled_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32026_sp_dragoneyekilled_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32026_sp_dragoneyekilled_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Captain Lhom Kwai, Dragon Eye, eliminated. Excellent, 47.",
+			"fr": "//(0,30)\\\\Capitaine Lhom Kwai, Œil de dragon, éliminé. Excellent, 47.",
+			"it": "//(0,30)\\\\Il capitano Lhom Kwai, detto Occhio di drago, è stato eliminato. Eccellente, 47.",
+			"de": "//(0,30)\\\\Hauptmann Lhom Kwai, das Drachenauge, ist eliminiert. Ausgezeichnet, 47.",
+			"es": "//(0,30)\\\\El capitán Lhom Kwai, Ojo de Dragón, ha sido eliminado. Excelente, 47.",
+			"ru": "//(0,3.484785)\\\\Капитан Лхом Квай, он же Глаз дракона, ликвидирован.//(3.484785,33.48479)\\\\Замечательно, 47-й.",
+			"cn": "//(0,30)\\\\外号龙眼的葵洛上尉已被消灭。非常好，47。",
+			"tc": "//(0,30)\\\\桂龍上尉，獨眼龍，已消滅。太好了，47。",
+			"jp": "//(0,30)\\\\ロン・カイ大尉、「竜の目」を排除。素晴らしいわ、47。"
+		}
+	}
+}

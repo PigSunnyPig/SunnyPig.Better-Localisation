@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8613_hackersession.sweetdialog?/dr8613_hackersession_troubled_hacker_et_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr8613_hackersession_troubled_hacker_et_002",
+		"soundtag": "In-world_Mission_Normal",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8613_hackersession_troubled_hacker_et_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/colorado/8000_elusive/8000_snakebite/8000_snakebite_story/dr8613_hackersession_troubled_hacker_et_002.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\No, I’m the one who should be thanking you. Seriously, doc, thanks so much.",
+			"fr": "//(0,2.65)\\\\Non, c'est moi qui vous remercie.//(2.65,32.65)\\\\Vraiment, doc, merci à vous.",
+			"it": "//(0,30)\\\\No, sono io che dovrei ringraziarla. Sul serio, dottore, grazie.",
+			"de": "//(0,30)\\\\Nein, ich danke Ihnen. Im Ernst, Doc, vielen Dank.",
+			"es": "//(0,30)\\\\No, soy yo quien debe darle las gracias. En serio, doctor, le estoy muy agradecido.",
+			"ru": "//(0,30)\\\\Нет, это я должен вас благодарить. Серьезно, доктор, большое спасибо.",
+			"cn": "//(0,30)\\\\不，我才是那个应该感谢你的人。说真的，医生，非常感谢。",
+			"tc": "//(0,30)\\\\不，我才是該感謝你的人。說真的，醫生，非常感謝。",
+			"jp": "//(0,30)\\\\No, I’m the one who should be thanking you. Seriously, doc, thanks so much."
+		}
+	}
+}

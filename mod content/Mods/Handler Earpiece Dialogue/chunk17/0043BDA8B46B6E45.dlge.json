@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/mumbai/25000_mongoose/25000_handler/ds25108_contractshahdeadfindkashmirlaptop.sweetdialog?/ds25108_contractshahdeadfindkashmirlaptop_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds25108_contractshahdeadfindkashmirlaptop_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/mumbai/25000_mongoose/25000_handler/ds25108_contractshahdeadfindkashmirlaptop_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/mumbai/25000_mongoose/25000_handler/ds25108_contractshahdeadfindkashmirlaptop_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.774294)\\\\47, get this...//(2.774294,9.633866)\\\\Information on The Kashmirian's laptop indicates that Dawood Rangan hired him to kill Vanya Shah.//(9.633866,12.46436)\\\\Well, with her already eliminated,//(12.46436,17.99963)\\\\perhaps you should call Rangan and let him know the contract is fulfilled?",
+			"fr": "//(0,3)\\\\Écoutez ça, 47 ://(3,5.551)\\\\les informations sur l'ordinateur du Cachemiri indiquent//(5.551,9.814)\\\\que Dawood Rangan l'a engagé pour tuer Vanya Shah.//(9.814,12.743)\\\\Sachant qu'elle a déjà été éliminée,//(12.743,14.21539)\\\\vous pourriez appeler Rangan//(14.21539,44.21539)\\\\et lui dire que le contrat a été rempli.",
+			"it": "//(0,5.5)\\\\47, questa informazione sul portatile del Kashmiro//(5.5,10)\\\\indica che Dawood Rangan l'aveva assoldato per uccidere Vanya Shah.//(10,12.5)\\\\Beh, adesso che lei è già stata eliminata,//(12.5,42.5)\\\\potresti chiamare Rangan per informarlo che l'incarico è stato portato a termine.",
+			"de": "//(0,2.510491)\\\\47, hören Sie mal her ...//(2.510491,5.455276)\\\\Laut den Infos auf dem Laptop des Kaschmiri//(5.455276,7.415767)\\\\hat Dawood Rangan ihn angeheuert,//(7.415767,9.756258)\\\\um Vanya Shah zu ermorden.//(9.756258,12.08485)\\\\Da sie inzwischen schon eliminiert wurde,//(12.08485,14.52534)\\\\sollten Sie vielleicht Rangan anrufen//(14.52534,44.52534)\\\\und ihn wissen lassen, dass der Auftrag erfüllt wurde.",
+			"es": "//(0,3)\\\\Escucha, 47...//(3,5.7)\\\\La información del portátil del Cachemir indica//(5.7,10)\\\\que Dawood Rangan lo contrató para matar a Vanya Shah.//(10,12.7)\\\\Como ella ya ha pasado a mejor vida,//(12.7,42.7)\\\\¿por qué no llamas a Rangan y le informas de que el contrato ha sido cumplido?",
+			"ru": "//(0,3.006196)\\\\47-й, слушай...//(3.006196,5.584785)\\\\Судя по документам в ноутбуке Кашмирца,//(5.584785,9.949571)\\\\Давуд Ранжан нанял его, чтобы убрать Ванью Шах.//(9.949571,12.64957)\\\\Но раз она теперь мертва,//(12.64957,14.59957)\\\\может, стоит позвонить Ранжану//(14.59957,44.59957)\\\\и сообщить, что задание выполнено?",
+			"cn": "//(0,9.752)\\\\47，有重磅消息......克什米尔人电脑上的情报表明达伍德·朗甘雇了他刺杀瓦妮娅·沙。//(9.752,39.752)\\\\既然她已经死了，也许你可以呼叫朗甘告诉他契约完成？",
+			"tc": "//(0,2.868)\\\\47，聽聽這個......//(2.868,9.836)\\\\喀什米爾人的筆記型電腦上的訊息顯示達伍德．朗甘找他幹掉瓦妮婭．沙。//(9.836,39.836)\\\\嗯，既然她已經被幹掉了，或許你可以打給朗甘，讓他知道合約工作已經完成？",
+			"jp": "//(0,2.6)\\\\47、よく聞いて...//(2.6,5.868)\\\\カシミリアンのノートパソコンからの情報によると、//(5.868,9.73)\\\\彼はヴァーニャ・シャーを殺すためにダウッド・ランガンに雇われたらしいわ。//(9.73,12.605)\\\\彼女はすでに排除されているから、//(12.605,42.605)\\\\電話でランガンに任務完了の報告をしてみたらどうかしら？"
+		}
+	}
+}

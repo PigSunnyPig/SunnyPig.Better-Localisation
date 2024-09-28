@@ -1,0 +1,87 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/golden/gecko/40000_story/dr40174_greystorygreyprematurekillrandom.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr40174_greystorygreyprematurekillrandom_grey_001",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/gecko/40000_story/dr40174_greystorygreyprematurekillrandom_grey_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/gecko/40000_story/dr40174_greystorygreyprematurekillrandom_grey_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\That was... unexpectedly fast.",
+					"fr": "//(0,30)\\\\C'était... étonnamment rapide.",
+					"it": "//(0,30)\\\\È stato... sorprendentemente veloce.",
+					"de": "//(0,30)\\\\Das war ... unerwartet schnell.",
+					"es": "//(0,30)\\\\Eso ha sido... inesperadamente rápido.",
+					"ru": "//(0,30)\\\\Все закончилось... слишком быстро.",
+					"cn": "//(0,30)\\\\这还真是......有点快过头了啊。",
+					"tc": "//(0,30)\\\\那......比想像中還快。",
+					"jp": "//(0,30)\\\\何というか... 早かったな。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr40174_greystorygreyprematurekillrandom_grey_002",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/gecko/40000_story/dr40174_greystorygreyprematurekillrandom_grey_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/gecko/40000_story/dr40174_greystorygreyprematurekillrandom_grey_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Not a patient man, are you?",
+					"fr": "//(0,30)\\\\Tu n'es pas du genre patient, hm ?",
+					"it": "//(0,30)\\\\Non sei un uomo paziente, vero?",
+					"de": "//(0,30)\\\\Sie sind kein geduldiger Mensch, oder?",
+					"es": "//(0,30)\\\\No eres un hombre muy paciente, ¿verdad?",
+					"ru": "//(0,30)\\\\Нетерпеливый ты парень, да?",
+					"cn": "//(0,30)\\\\你还真没耐心啊，是吧？",
+					"tc": "//(0,30)\\\\你沒什麼耐心，是吧？",
+					"jp": "//(0,30)\\\\我慢の効かないやつだな。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr40174_greystorygreyprematurekillrandom_grey_003",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/gecko/40000_story/dr40174_greystorygreyprematurekillrandom_grey_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/gecko/40000_story/dr40174_greystorygreyprematurekillrandom_grey_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Oh, okay. Well done... I guess.",
+					"fr": "//(0,30)\\\\Ah, OK. Bien joué... Je crois.",
+					"it": "//(0,30)\\\\Oh, ok. Ben fatto... Immagino di sì.",
+					"de": "//(0,30)\\\\Oh, okay. Gut gemacht ... Schätze ich.",
+					"es": "//(0,30)\\\\Bueno, vale. Bien hecho... Supongo.",
+					"ru": "//(0,30)\\\\Ну ладно. Что ж... молодец.",
+					"cn": "//(0,30)\\\\哦，好吧。干得漂亮......算是吧。",
+					"tc": "//(0,30)\\\\噢，好吧。做得不錯......算是吧。",
+					"jp": "//(0,30)\\\\ふむ、まあ... よくやった。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr40174_greystorygreyprematurekillrandom_grey_004",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/gecko/40000_story/dr40174_greystorygreyprematurekillrandom_grey_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/gecko/40000_story/dr40174_greystorygreyprematurekillrandom_grey_004.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\All right. That's that then...",
+					"fr": "//(0,30)\\\\OK. Ça, c'est fait...",
+					"it": "//(0,30)\\\\Bene. Allora è così...",
+					"de": "//(0,30)\\\\Alles klar. Das wäre dann also das ...",
+					"es": "//(0,30)\\\\Muy bien. Ya está entonces...",
+					"ru": "//(0,30)\\\\Ладно. И так сойдёт...",
+					"cn": "//(0,30)\\\\好吧，那就这样吧......",
+					"tc": "//(0,30)\\\\好了，那就這樣吧......",
+					"jp": "//(0,30)\\\\まあいい。しかたない..."
+				}
+			}
+		]
+	}
+}

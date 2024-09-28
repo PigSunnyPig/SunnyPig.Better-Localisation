@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/bulldog/41000_handler/ds41023_handlersecretpassage.sweetdialog?/ds41023_handlersecretpassage_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41023_handlersecretpassage_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/bulldog/41000_handler/ds41023_handlersecretpassage_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/bulldog/41000_handler/ds41023_handlersecretpassage_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\It’s a secret passage. This could explain how the door was locked from the inside.",
+			"fr": "//(0,30)\\\\C'est un passage secret. Ça explique peut-être pourquoi la porte était verrouillée de l'intérieur.",
+			"it": "//(0,30)\\\\È un passaggio segreto. Spiegherebbe perché la porta era chiusa dall'interno.",
+			"de": "//(0,1.972393)\\\\Das ist ein Geheimgang.//(1.972393,31.97239)\\\\Das könnte erklären, wie die Tür von innen verschlossen sein konnte.",
+			"es": "//(0,30)\\\\Un pasadizo secreto. Esto podría explicar el hecho de que la puerta estuviese cerrada desde dentro.",
+			"ru": "//(0,1.236196)\\\\Тайный проход.//(1.236196,31.2362)\\\\Возможно, это объясняет, почему дверь была заперта изнутри.",
+			"cn": "//(0,30)\\\\这是条秘密通道。这就可以解释为什么门会被从里面反锁了。",
+			"tc": "//(0,30)\\\\這是個秘密通道。這或許能夠解釋門是如何從裡面鎖上的。",
+			"jp": "//(0,30)\\\\秘密の通路だわ。部屋の内側から鍵がかかっていたのも説明がつくかもしれないわね。"
+		}
+	}
+}

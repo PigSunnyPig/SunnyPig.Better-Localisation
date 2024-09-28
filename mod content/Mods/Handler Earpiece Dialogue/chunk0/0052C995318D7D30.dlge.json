@@ -1,0 +1,125 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/evergreen/handler/ed034_welcomefinal.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ed034_welcomefinal_diana_001",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed034_welcomefinal_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed034_welcomefinal_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0.4,30.4)\\\\Be careful, 47. And most of all, good luck.",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Soyez prudent, 47. Et surtout, bonne chance.",
+					"it": "//[DIANA]\\\\//(0,30)\\\\Fai attenzione, 47. E soprattutto, buona fortuna.",
+					"de": "//[DIANA]\\\\//(0,1.5)\\\\Seien Sie vorsichtig, 47.//(1.95,31.95)\\\\Und vor allem viel Glück.",
+					"es": "//[DIANA]\\\\//(0,30)\\\\Ten cuidado, 47. Y, sobre todo, buena suerte.",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\Будь осторожен, 47-й. И самое главное, удачи.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\小心点，47。最重要的是，祝你好运。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\小心了，47。還有，祝你好運。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\気をつけて、47。それに何より、幸運を。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed034_welcomefinal_diana_002",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed034_welcomefinal_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed034_welcomefinal_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0.3,30.3)\\\\Be careful, 47.",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Soyez prudent, 47.",
+					"it": "//[DIANA]\\\\//(0,30)\\\\Fai attenzione, 47.",
+					"de": "//[DIANA]\\\\//(0,30)\\\\Seien Sie vorsichtig, 47.",
+					"es": "//[DIANA]\\\\//(0,30)\\\\Ten cuidado, 47.",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\Будь начеку, 47-й.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\要当心，47。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\小心了，47。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\気をつけて、47。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed034_welcomefinal_diana_003",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed034_welcomefinal_diana_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed034_welcomefinal_diana_003.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0.7,30.7)\\\\Good luck, 47.",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Bonne chance, 47.",
+					"it": "//[DIANA]\\\\//(0,30)\\\\Buona fortuna, 47.",
+					"de": "//[DIANA]\\\\//(0.5,30.5)\\\\Viel Glück, 47.",
+					"es": "//[DIANA]\\\\//(0,30)\\\\Buena suerte, 47.",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\Удачи, 47-й.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\祝你好运，47。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\祝你好運，47。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\頼んだわよ、47。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed034_welcomefinal_diana_004",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed034_welcomefinal_diana_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed034_welcomefinal_diana_004.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0.7,30.7)\\\\Godspeed, 47.",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Bon courage, 47.",
+					"it": "//[DIANA]\\\\//(0,30)\\\\Buona fortuna, 47.",
+					"de": "//[DIANA]\\\\//(0.6,30.6)\\\\Gutes Gelingen, 47.",
+					"es": "//[DIANA]\\\\//(0,30)\\\\Cruzo los dedos, 47.",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\В добрый путь, 47-й.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\祝你成功，47。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\一切順利，47。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\成功を祈るわ、47。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed034_welcomefinal_diana_005",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed034_welcomefinal_diana_005.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed034_welcomefinal_diana_005.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0.6,30.6)\\\\You know what to do, 47.",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Vous savez ce que vous avez à faire, 47.",
+					"it": "//[DIANA]\\\\//(0,30)\\\\Sai cosa fare, 47.",
+					"de": "//[DIANA]\\\\//(0.6,30.6)\\\\Sie wissen, was zu tun ist, 47.",
+					"es": "//[DIANA]\\\\//(0,30)\\\\Ya sabes lo que tienes que hacer, 47.",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\Ты знаешь что делать, 47-й.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\你知道该怎么办，47。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\你知道該怎麼做，47。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\何をすればいいか、わかっているわね、47。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ed034_welcomefinal_diana_006",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed034_welcomefinal_diana_006.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed034_welcomefinal_diana_006.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0.62,2.6)\\\\Don't disappoint, 47.//(2.6,32.6)\\\\Good luck.",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Ne nous décevez pas, 47. Bonne chance.",
+					"it": "//[DIANA]\\\\//(0,30)\\\\Non deluderci, 47. Buona fortuna.",
+					"de": "//[DIANA]\\\\//(0.55,2.5)\\\\Enttäuschen Sie mich nicht, 47.//(2.5,32.5)\\\\Viel Glück.",
+					"es": "//[DIANA]\\\\//(0,30)\\\\No nos decepciones, 47. Buena suerte.",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\Не подведи, 47-й. Удачи.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\别让我失望，47。祝你好运。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\別讓我失望了，47。祝你好運。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\期待を裏切らないで、47。幸運を祈るわ。"
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_cross/4000_handler/ds4033_microphoneconclusionoldline.sweetdialog?/ds4033_microphoneconclusionoldline_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds4033_microphoneconclusionoldline_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_cross/4000_handler/ds4033_microphoneconclusionoldline_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_cross/4000_handler/ds4033_microphoneconclusionoldline_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Nicely done, 47. With a little more adjustment, this should make for an electrifying performance.",
+			"fr": "//(0,30)\\\\Bien joué, 47. Avec quelques ajustements supplémentaires, nous devrions assister à une performance électrisante.",
+			"it": "//(0,30)\\\\Ben fatto, 47. Con qualche piccola modifica, riusciremo a preparare un'esibizione elettrizzante.",
+			"de": "//(0,30)\\\\Nicht übel, 47. Nur noch ein paar Handgriffe, und wir können uns auf eine elektrisierende Vorstellung freuen.",
+			"es": "//(0,30)\\\\Bien hecho, 47. Con unos pequeños ajustes más, esta debería ser una actuación electrizante.",
+			"ru": "//(0,1.724294)\\\\Очень хорошо, 47-й.//(1.724294,31.72429)\\\\Чуть-чуть подкрутим, и запись пройдет по высшему разряду.",
+			"cn": "//(0,30)\\\\干得漂亮，47。只要稍微调整一下，这应该会带来一场电光四射的演出。",
+			"tc": "//(0,30)\\\\幹得漂亮，47。只要稍微調整一下，這應該會帶來一場電光四射的演出。",
+			"jp": "//(0,30)\\\\うまくやったわね。 少し調整してやれば、 文字どおりシビれるパフォーマンスが 期待できる。"
+		}
+	}
+}

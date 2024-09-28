@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_magpie/29000_handler/ds29050_constantsecuregrey_leave.sweetdialog?/ds29050_constantsecuregrey_leave_diana_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds29050_constantsecuregrey_leave_diana_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_magpie/29000_handler/ds29050_constantsecuregrey_leave_diana_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_magpie/29000_handler/ds29050_constantsecuregrey_leave_diana_002.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,2.726347)\\\\Bloody hell. That was a close call.//(2.726347,4.3)\\\\Head towards an exit, 47.//(4.3,6.186838)\\\\We're done here.",
+			"fr": "//[DIANA]\\\\//(0,2.75)\\\\Bon sang ! C'était moins une.//(2.75,5.82475)\\\\Trouvez une sortie, 47. Nous en avons fini.",
+			"it": "//[DIANA]\\\\//(0,2.89)\\\\Cavolo, c'è mancato poco.//(2.89,4.85)\\\\Dirigiti all'uscita, 47.//(4.85,5.85)\\\\Qui abbiamo finito.",
+			"de": "//[DIANA]\\\\//(0,0.8989912)\\\\Verdammter Mist.//(0.8989912,2.601052)\\\\Das war eine knappe Sache.//(2.601052,4.711543)\\\\Gehen Sie zum Ausgang, 47.//(4.711543,6.061543)\\\\Wir sind hier fertig.",
+			"es": "//[DIANA]\\\\//(0,2.24824)\\\\Joder, por los pelos.//(2.24824,4.340632)\\\\Busca una salida, 47.//(4.340632,5.82475)\\\\Hemos terminado.",
+			"ru": "//[DIANA]\\\\//(0,3.15911)\\\\Черт возьми. Мы были на волоске от провала.//(3.15911,4.139564)\\\\Направляйся к выходу,//(4.139564,5.82475)\\\\47-й. Дело сделано.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\真见鬼。这可真是好险。前往出口吧，47。这边的事情已经完事了。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\真見鬼。這可真是好險。前往出口吧，47。這邊的事情已經完畢了。",
+			"jp": "//[DIANA]\\\\//(0,2.5)\\\\やれやれ。間一髪だったわね。//(2.5,32.5)\\\\脱出ポイントへ向かって、47。任務終了よ。"
+		}
+	}
+}
