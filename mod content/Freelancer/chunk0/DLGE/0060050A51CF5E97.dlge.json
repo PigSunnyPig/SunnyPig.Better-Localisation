@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/evergreen/handler/ed068_mechclbrtnprstg.sweetdialog?/ed068_mechclbrtnprstg_diana_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ed068_mechclbrtnprstg_diana_001",
+        "soundtag": "Voiceover_Handler_Evergreen",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed068_mechclbrtnprstg_diana_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed068_mechclbrtnprstg_diana_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,7.125767)\\\\Prestige Objectives are ways for an Assassin to express expertise and mould each mission to their own preference.//(7.125767,37.12577)\\\\You can pick 1 out of 3 for each mission.",
+            "fr": "//(0,3.89)\\\\Les objectifs prestige sont un moyen d'exprimer toute votre expertise//(3.89,6.785)\\\\en façonnant les missions à votre convenance.//(6.785,36.785)\\\\Vous pourrez choisir un de ces objectifs parmi trois possibles pour chaque mission.",
+            "it": "//(0,4.2)\\\\Gli obiettivi di prestigio sono il modo in cui un assassino può mostrare la propria competenza//(4.2,6.9)\\\\e plasmare ogni missione in base alle proprie preferenze.//(6.9,36.9)\\\\Puoi sceglierne 1 su 3 per ogni missione.",
+            "de": "//(0,4.25)\\\\Mit Prestigezielen können Auftragsmörder ihre Expertise ausdrücken//(4.25,6.85)\\\\und jede Mission an ihre Vorlieben anpassen.//(6.85,36.85)\\\\Sie können eines von dreien für jede Mission auswählen.",
+            "es": "//(0,2.612883)\\\\Los objetivos de prestigio sirven para que un asesino//(2.612883,6.893865)\\\\demuestre su habilidad y moldee cada misión a su antojo.//(6.893865,36.89386)\\\\Puedes elegir uno de los tres disponibles en cada misión.",
+            "ru": "//(0,6.79)\\\\Престижные задачи позволяют убийце показать мастерство и изменить условия задания по своему вкусу.//(6.79,36.79)\\\\Можешь выбрать одну из трех на каждом задании.",
+            "cn": "//(0,6.85)\\\\声望挑战是刺客展现技艺的途径，也是刺客按照自己喜好改变任务走向的机会。//(6.85,36.91)\\\\在每场任务，你可以从 3 项挑战之中选择其一。",
+            "tc": "//(0,6.85)\\\\名望目標是殺手展現身手的途徑，也是殺手依照自己喜好改變任務走向的機會。//(6.85,36.91)\\\\在每場任務，你可以從 3 個目標之中選擇其一。",
+            "jp": "//(0,6.97)\\\\名声目標は、アサシンが専門知識を駆使して、各任務を自分好みに作り上げるための手段。//(6.97,36.97)\\\\任務1回につき3つから1つだけ選べるわ。"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/golden/gecko/40000_story/dr40140_greystorygreyfinaldelivery.sweetdialog?/dr40140_greystorygreyfinaldelivery_gecko_carlingram_m_006.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr40140_greystorygreyfinaldelivery_gecko_carlingram_m_006",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/gecko/40000_story/dr40140_greystorygreyfinaldelivery_gecko_carlingram_m_006.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/gecko/40000_story/dr40140_greystorygreyfinaldelivery_gecko_carlingram_m_006.animset].pc_animset",
+        "languages": {
+            "en": "//(0,2.4)\\\\Revenge? How banal!//(2.4,5.8)\\\\YOU killed Cobb, Novikov, Caruso, The Washington Twins,//(5.8,6.893999)\\\\everyone at HAVEN.//(6.893999,11.81118)\\\\YOU broke into our bank and YOU outed Providence to the world.//(11.81118,15.12406)\\\\Whatever perceived slight we've done to you is insignificant//(15.12406,18.56885)\\\\to the amount of damage you’ve caused us.//(18.56885,19.81746)\\\\You've caused the world!",
+            "fr": "//(0,1.972393)\\\\Une vengeance ? C'est original !//(1.972393,7.652)\\\\C'est VOUS qui avez tué Cobb, Novikov, Caruso, les sœurs Washington, tout le monde à Haven.//(7.652,12.399)\\\\C'est VOUS qui avez volé notre banque et c'est VOUS qui avez révélé Providence aux yeux du monde.//(12.399,18.65)\\\\Quoi que vous ayez à nous reprocher, ce n'est rien comparé aux problèmes que vous nous avez causés.//(18.65,27.22522)\\\\Que vous avez causé au monde !",
+            "it": "//(0,2.42)\\\\Vendetta? Che cosa banale!//(2.42,6.35)\\\\TU hai eliminato Cobb, Novikov, Caruso, le gemelle Washington...//(6.35,7.52)\\\\Hai ucciso tutti ad HAVEN.//(7.52,12.2)\\\\TU hai fatto irruzione nella nostra banca e TU hai rivelato Providence al mondo.//(12.2,14.54)\\\\Qualsiasi torto tu possa pensare di aver subito//(14.54,18.45)\\\\è insignificante rispetto a tutti i danni che ci hai causato.//(18.45,24.1173)\\\\Hai distrutto tutto!",
+            "de": "//(0,1.71376)\\\\Rache? Wie banal?//(1.71376,3.320097)\\\\SIE haben Cobb ermordet.//(3.320097,4.265122)\\\\Novikov, Caruso,//(4.265122,5.562418)\\\\die Washington-Zwillinge,//(5.562418,7.168972)\\\\alle auf Haven.//(7.168972,9.2154)\\\\SIE sind in unsere Bank eingebrochen,//(9.2154,11.87087)\\\\und SIE haben Providence vor der Welt bloßgestellt.//(11.87087,13.76665)\\\\Wie auch immer wir Ihnen zu nahe getreten sind,//(13.76665,15.71513)\\\\ist vollkommen unbedeutend im Vergleich zu dem//(15.71513,18.01876)\\\\Schaden, den Sie uns zugefügt haben.//(18.01876,19.81746)\\\\Den Sie der Welt zugefügt haben!",
+            "es": "//(0,2.4)\\\\¿Venganza? ¡Qué banal!//(2.4,7.5)\\\\Mataste a Cobb. A Novikov, a Caruso, a las gemelas Washington, a todos los de Haven.//(7.5,12)\\\\Te colaste en nuestro banco y desvelaste la existencia de Providence al mundo.//(12,18)\\\\Cualquier cosa que creas que te hemos hecho resulta insignificante con los perjuicios que nos has causado.//(18,19.817)\\\\¡Que le has causado al mundo!",
+            "ru": "//(0,3.564785)\\\\Месть? Как это банально! Это ТЫ убил Кобба,//(3.564785,9.184)\\\\Новикова, Карузо, сестер Вашингтон и всех, кто был в «Гавани».//(9.184,11.909)\\\\Это ТЫ ворвался в наш банк и раструбил всему миру о «Провиденсе».//(11.909,14.41)\\\\Даже если мы в чем-то тебя обманули,//(14.41,44.41)\\\\это несопоставимо с уроном, который ты нанес нам и всему миру!",
+            "cn": "//(0,2.4)\\\\复仇？又是这套说辞！//(2.4,7.4)\\\\是你们杀了科布、诺维科夫、卡鲁索、华盛顿姐妹和海文岛上的所有人！//(7.4,9.2)\\\\是你们闯进了我们的银行！//(9.2,12.1)\\\\也是你们把「神意秘会」的存在公诸于世！//(12.1,18.3)\\\\不管我们对你们做了什么，都比不上你们给我们造成的伤害，//(18.3,48.3)\\\\更远远比不上你们给这个世界造成的伤害！",
+            "tc": "//(0,2.4)\\\\報仇？說什麼老套的話！//(2.4,7.4)\\\\是你們殺了科布、諾維科夫、卡魯索、華盛頓姐妹和避風島上的所有人！//(7.4,9.2)\\\\是你們闖進了我們的銀行！//(9.2,12.1)\\\\也是你們把「神意秘會」的存在公諸於世！//(12.1,18.3)\\\\無論我們對你們做了什麼，都比不上你們對我們造成的傷害，//(18.3,48.3)\\\\更遠遠比不上你們對這個世界造成的傷害！",
+            "jp": "//(0,2.33)\\\\復讐？くだらんな！//(2.33,7.52)\\\\コブ、ノビコフ、カルーソー、ワシントン姉妹、ヘイヴンの連中。殺したのはお前だ。//(7.52,11.7)\\\\お前が銀行に押し入って、お前がプロヴィデンスの存在を公にした。//(11.7,18.37)\\\\我々がしたとされることなど、お前がもたらした被害に比べたら取るに足らん。//(18.37,48.37)\\\\お前は世界中に被害をもたらしたんだぞ！"
+        }
+    }
+}

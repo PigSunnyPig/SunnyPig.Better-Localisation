@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/evergreen/handler/ed074_unlckclbrtncar.sweetdialog?/ed074_unlckclbrtncar_diana_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ed074_unlckclbrtncar_diana_001",
+        "soundtag": "Voiceover_Handler_Evergreen",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed074_unlckclbrtncar_diana_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed074_unlckclbrtncar_diana_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Good news, 47. You have a new car to take you to your destination.//(4.23,34.4)\\\\Drive safely.",
+            "fr": "//(0,1.145)\\\\Bonne nouvelle, 47.//(1.145,4.093)\\\\Vous avez une nouvelle voiture pour rejoindre votre destination.//(4.093,34.093)\\\\Conduisez prudemment.",
+            "it": "//(0,1.474294)\\\\Buone notizie, 47.//(1.474294,31.47429)\\\\Hai una nuova auto che ti porterà a destinazione. Guida con prudenza.",
+            "de": "//(0,1.3)\\\\Gute Nachrichten, 47.//(1.3,4.23)\\\\Sie haben einen neuen Wagen, der Sie zu Ihrem Ziel bringen kann.//(4.23,34.4)\\\\Fahren Sie vorsichtig.",
+            "es": "//(0,1.354294)\\\\Buenas noticias 47.//(1.354294,4.317178)\\\\Tienes un coche nuevo para viajar hasta tu destino.//(4.317178,34.31718)\\\\Conduce con cuidado.",
+            "ru": "//(0,1.416)\\\\Отличная новость, 47-й.//(1.416,4.23)\\\\У тебя теперь есть новая машина, которая доставит тебя к цели.//(4.23,33.783)\\\\Будь осторожен за рулем.",
+            "cn": "//(0,4.23)\\\\好消息，47。你可以驾驶新车前往目的地了。//(4.23,34.4)\\\\小心驾驶。",
+            "tc": "//(0,4.23)\\\\好消息，47。你可以駕駛新車前往目的地了。//(4.23,34.4)\\\\小心駕駛。",
+            "jp": "//(0,4.037)\\\\いい知らせよ、47。目的地まで運んでくれる新しい車を入手したわ。//(4.037,34.037)\\\\安全運転を心がけてね。"
+        }
+    }
+}

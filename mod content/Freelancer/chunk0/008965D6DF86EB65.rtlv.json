@@ -1,0 +1,19 @@
+{
+    "$schema": "https://tonytools.win/schemas/rtlv.schema.json",
+    "hash": "008965D6DF86EB65",
+    "videos": {
+        "en": "0039892AD92C6BA6"
+    },
+    "subtitles": {
+        "xx": "//[DIANA]\\\\//(0,5.5)\\\\Well done, 47. This will make anyone think twice before turning to a life of crime.",
+        "en": "//[DIANA]\\\\//(0,5.5)\\\\Well done, 47. This will make anyone think twice before turning to a life of crime.",
+        "fr": "//[DIANA]\\\\//(0,5.5)\\\\Beau travail, 47. Les aspirants criminels réfléchiront peut-être à deux fois, maintenant.",
+        "it": "//[DIANA]\\\\//(0,5.5)\\\\Ben fatto, 47. Ora chiunque ci penserà due volte prima di intraprendere una vita da criminale.",
+        "de": "//[DIANA]\\\\//(0,1.52)\\\\Gut gemacht, 47.//(1.52,5.5)\\\\Jetzt wird man es sich zweimal überlegen, ob man sein Leben dem Verbrechen widmet.",
+        "es": "//[DIANA]\\\\//(0,1.52)\\\\Buen trabajo, 47.//(1.52,5.5)\\\\Con esto, todo el mundo se lo pensará dos veces antes de dedicarse al crimen.",
+        "ru": "//[DIANA]\\\\//(0,5.5)\\\\Молодец, 47-й. Теперь всякий подумает дважды, прежде чем преступить закон.",
+        "cn": "//[DIANA]\\\\//(0,5.5)\\\\干得漂亮，47。这将为任何企图走上犯罪道路的人敲响警钟。",
+        "tc": "//[DIANA]\\\\//(0,5.5)\\\\做得好，47。這將為任何企圖走上犯罪道路的人敲響警鐘。",
+        "jp": "//[DIANA]\\\\//(0,5.5)\\\\お見事ね、47。これを見れば、誰でも犯罪に手を染めることを考え直すはずよ。"
+    }
+}

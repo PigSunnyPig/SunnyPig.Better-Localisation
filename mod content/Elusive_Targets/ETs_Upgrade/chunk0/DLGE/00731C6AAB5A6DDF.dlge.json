@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29756_barserve.sweetdialog?/dr29756_barserve_47_004.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "dr29756_barserve_47_004",
+        "soundtag": "In-world_Maincharacter",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29756_barserve_47_004.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_story/dr29756_barserve_47_004.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\With pleasure, sir.",
+            "fr": "//(0,30)\\\\Avec plaisir, Monsieur.",
+            "it": "//(0,30)\\\\Con piacere, signore.",
+            "de": "//(0,30)\\\\Mit Vergnügen, Sir.",
+            "es": "//(0,30)\\\\Será un placer, señor.",
+            "ru": "//(0,30)\\\\С удовольствием, сэр.",
+            "cn": "//(0,30)\\\\乐意效劳，先生。",
+            "tc": "//(0,30)\\\\樂意效勞，先生。",
+            "jp": "//(0,30)\\\\こちらでございます。"
+        }
+    }
+}

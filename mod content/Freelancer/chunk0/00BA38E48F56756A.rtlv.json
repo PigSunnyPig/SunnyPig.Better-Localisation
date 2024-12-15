@@ -1,0 +1,19 @@
+{
+    "$schema": "https://tonytools.win/schemas/rtlv.schema.json",
+    "hash": "00BA38E48F56756A",
+    "videos": {
+        "en": "005E825BB46C6F5E"
+    },
+    "subtitles": {
+        "xx": "//[DIANA]\\\\//(0,6.85)\\\\Impressive, 47. You have single handedly managed to defeat an entire network of Syndicates.//(7.3,12.16)\\\\You have truly made a difference.",
+        "en": "//[DIANA]\\\\//(0,6.85)\\\\Impressive, 47. You have single handedly managed to defeat an entire network of Syndicates.//(7.3,12.16)\\\\You are truly making a difference.",
+        "fr": "//[DIANA]\\\\//(0,6.85)\\\\Impressionnant, 47. Vous avez réussi à vous seul à démanteler un réseau entier de syndicats.//(7.3,12.16)\\\\Vous faites vraiment la différence.",
+        "it": "//[DIANA]\\\\//(0,6.85)\\\\Notevole, 47. Sei riuscito a sconfiggere un'intera rete di organizzazioni da solo.//(7.3,12.16)\\\\Hai davvero fatto la differenza.",
+        "de": "//[DIANA]\\\\//(0,6.85)\\\\Eindrucksvoll, 47. Sie haben auf eigene Faust ein ganzes Netzwerk von Syndikaten besiegt.//(7.3,12.16)\\\\Sie bewegen wirklich etwas.",
+        "es": "//[DIANA]\\\\//(0,6.85)\\\\Impresionante, 47. Has acabado tú solito con toda una red de sindicatos.//(7.3,12.16)\\\\Estás marcando diferencias.",
+        "ru": "//[DIANA]\\\\//(0,6.85)\\\\Впечатляет, 47-й. Ты в одиночку сумел уничтожить целую сеть синдикатов.//(7.3,12.16)\\\\Ты и впрямь меняешь мир к лучшему.",
+        "cn": "//[DIANA]\\\\//(0,6.85)\\\\干得好，47。你凭一己之力瓦解了整个辛迪加网络。//(7.3,12.16)\\\\你真的做了一件非常了不起的事。",
+        "tc": "//[DIANA]\\\\//(0,6.85)\\\\了不起，47。你憑一己之力瓦解了整個犯罪組織網絡。//(7.3,12.16)\\\\你真的做了一件改變世界的事。",
+        "jp": "//[DIANA]\\\\//(0,6.85)\\\\見事だわ、47。シンジケートの全てのネットワークをたった一人で潰してしまった。//(7.3,12.16)\\\\あなたは本当に貢献してくれているわ。"
+    }
+}

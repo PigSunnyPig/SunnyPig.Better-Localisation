@@ -1,0 +1,30 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "00519777D6665C59",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "ed030_welcomea_train_diana_001",
+                "weight": 1.0,
+                "soundtag": "Voiceover_Handler_Evergreen",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed030_welcome/ed030_welcomea_train_diana_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed088_ldr1tm_diana_001.animset].pc_animset",
+                "languages": {
+                    "en": "Welcome to Romania.",
+                    "fr": "Bienvenue en Roumanie.",
+                    "it": "Benvenuti in Romania.",
+                    "de": "Willkommen in Rumänien.",
+                    "es": "Bienvenida a Rumania",
+                    "ru": "Добро пожаловать в Румынию.",
+                    "cn": "欢迎来到罗马尼亚。",
+                    "tc": "歡迎來到羅馬尼亞。",
+                    "jp": "ルーマニアへようこそ。"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/paris/3000_fashion/3000_story/dr3574_deckerescortstop.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "dr3574_deckerescortstop_decker_001",
+                "weight": 0.24999995529651375,
+                "soundtag": "In-world_Mission_Important",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_fashion/3000_story/dr3574_deckerescortstop_decker_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_fashion/3000_story/dr3574_deckerescortstop_decker_001.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Uh... are we doing this, or what?",
+                    "fr": "//(0,30)\\\\Euh, on y va ou pas ?",
+                    "it": "//(0,30)\\\\Eh? Vogliamo proseguire o cosa?",
+                    "de": "//(0,30)\\\\Ähm was ist denn jetzt?",
+                    "es": "//(0,30)\\\\Eh, ¿vamos a seguir o no?",
+                    "ru": "//(0,30)\\\\Ну что, мы идем, или как?",
+                    "cn": "//(0,30)\\\\呃......还走不走啊？",
+                    "tc": "//(0,30)\\\\呃......還走不走啊？",
+                    "jp": "//(0,30)\\\\おい... 何をボーッとしてるんだ？"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr3574_deckerescortstop_decker_002",
+                "weight": 0.24999995529651375,
+                "soundtag": "In-world_Mission_Important",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_fashion/3000_story/dr3574_deckerescortstop_decker_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_fashion/3000_story/dr3574_deckerescortstop_decker_001.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Uh... are we doing this, or what?",
+                    "fr": "//(0,30)\\\\Euh, on y va ou pas ?",
+                    "it": "//(0,30)\\\\Eh? Vogliamo proseguire o cosa?",
+                    "de": "//(0,30)\\\\Ähm was ist denn jetzt?",
+                    "es": "//(0,30)\\\\Eh, ¿vamos a seguir o no?",
+                    "ru": "//(0,30)\\\\Ну что, мы идем, или как?",
+                    "cn": "//(0,30)\\\\呃......还走不走啊？",
+                    "tc": "//(0,30)\\\\呃......還走不走啊？",
+                    "jp": "//(0,30)\\\\おい... 何をボーッとしてるんだ？"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr3574_deckerescortstop_decker_003",
+                "weight": 0.24999995529651375,
+                "soundtag": "In-world_Mission_Important",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_fashion/3000_story/dr3574_deckerescortstop_decker_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_fashion/3000_story/dr3574_deckerescortstop_decker_003.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Uh... so, what's the holdup?",
+                    "fr": "//(0,30)\\\\Pourquoi on s'arrête ?",
+                    "it": "//(0,30)\\\\Eh? Perché rallentiamo?",
+                    "de": "//(0,30)\\\\Äh, wieso dauert das so lange?",
+                    "es": "//(0,30)\\\\Oh, ¿a qué esperamos?",
+                    "ru": "//(0,30)\\\\Эм-м, почему мы задерживаемся?",
+                    "cn": "//(0,30)\\\\呃......怎么耽搁这么久？",
+                    "tc": "//(0,30)\\\\呃......怎麼耽擱這麼久？",
+                    "jp": "//(0,30)\\\\おい、なんで立ち止まってる？"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr3574_deckerescortstop_decker_004",
+                "weight": 0.24999995529651375,
+                "soundtag": "In-world_Mission_Important",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_fashion/3000_story/dr3574_deckerescortstop_decker_004.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_fashion/3000_story/dr3574_deckerescortstop_decker_004.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,1.722393)\\\\Is there a problem?//(1.722393,31.72239)\\\\Why are we stopping?",
+                    "fr": "//(0,30)\\\\Il y a un problème ? Pourquoi on s'arrête ?",
+                    "it": "//(0,30)\\\\C'è qualche problema? Perché ci siamo fermati?",
+                    "de": "//(0,1.372393)\\\\Gibt es ein Problem?//(1.372393,31.37239)\\\\Warum halten wir an?",
+                    "es": "//(0,30)\\\\¿Algún problema? ¿Por qué nos paramos?",
+                    "ru": "//(0,30)\\\\Какие-то проблемы? Почему остановка?",
+                    "cn": "//(0,30)\\\\有什么问题吗？我们为什么停下来了？",
+                    "tc": "//(0,30)\\\\有什麼問題嗎？我們為什麼停下來了？",
+                    "jp": "//(0,30)\\\\何か問題でも？ 何で先に進まない？"
+                }
+            }
+        ]
+    }
+}

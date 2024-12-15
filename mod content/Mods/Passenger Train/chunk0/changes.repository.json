@@ -1,0 +1,143 @@
+{
+    "195dcd6b-6663-4768-9e0a-c94e244cbea5": {
+        "ID_": "195dcd6b-6663-4768-9e0a-c94e244cbea5",
+        "ActionRewardType": "AR_QuestItem",
+        "CarryAnimSetType": "EAST_SUITCASE",
+        "CheatSpawnGroup_Everything": true,
+        "CommonName": "Questitem Mascot Secret Document",
+        "Description": "description_usb",
+        "EnablePickUpOnRelease": true,
+        "EquipAbility": "EA_CANNOT_BE_EQUIPPED",
+        "HolsterAbility": "eHolsterQuestStorage",
+        "HudIcon": "18477394639722389",
+        "Image": "images/unlockables/item_perspective_55d34557-5b46-422f-84ce-7bb13cfcef96_0.jpg",
+        "InventoryCategoryIcon": "QuestItem",
+        "InventoryCategoryName": "USBStick",
+        "ItemHandsIdle": "IH_ONEHANDED",
+        "ItemHandsUse": "IH_ONEHANDED",
+        "ItemType": "eOther_GenericPickup",
+        "Name_LOC": "flamingo_questitem_mascot_secret_documents_title",
+        "OnlineTraits": [
+            "NONE"
+        ],
+        "Runtime": "6049084797924056",
+        "Title": "Mascot secret document",
+        "AdditionalKeywords": [
+            ""
+        ],
+        "AIPerceptibleOnRelease": false,
+        "AppliedModifiers": [
+            "00000000-0000-0000-0000-000000000000"
+        ],
+        "CanBeDropped": false,
+        "CheatGroup": "eCGNone",
+        "CheatSpawnGroup_Keys": false,
+        "CheatSpawnGroup_Standard": false,
+        "CheatSpawnGroup_Tools": false,
+        "DetectShots": false,
+        "DisplayItemCategoryOnlineTraitsIndex": 0.0,
+        "ForbidCloseCombat": false,
+        "GripAnimType": "IGT_Suitcase",
+        "HarmlessImpact": false,
+        "HitmanCanConceal": false,
+        "InteractionTimeMultiplier": 1.0,
+        "IsCheckedWhenFrisked": false,
+        "IsCoin": false,
+        "IsExplosive": false,
+        "IsPerceivedAsWeapon": false,
+        "ItemHandsCoverAnimLayer": "IH_NONE",
+        "ItemImpactForce": 0.0,
+        "ItemImpactUpkick": 0.0,
+        "ItemSize": "ITEMSIZE_SMALL",
+        "KillItemCategoryOnlineTraitsIndex": 0.0,
+        "KinematicWhileCarried": false,
+        "LocaKey": "",
+        "MainAnimSetType": "EAST_UNDEFINED",
+        "ModifierSlot1": [
+            "00000000-0000-0000-0000-000000000000"
+        ],
+        "ModifierSlot2": [
+            "00000000-0000-0000-0000-000000000000"
+        ],
+        "ModifierSlot3": [
+            "00000000-0000-0000-0000-000000000000"
+        ],
+        "ModifierSlot4": [
+            "00000000-0000-0000-0000-000000000000"
+        ],
+        "ModifierSlot5": [
+            "00000000-0000-0000-0000-000000000000"
+        ],
+        "MugshotIsTransparent": false,
+        "NeverInvestigateDistractions": false,
+        "PlaceableType": "PLACEABLE_NOT",
+        "PlacementOrientToHM": true,
+        "PlacementUseHitNormal": true,
+        "RagdollImpactForce": 0.0,
+        "RagdollImpactUpkick": 0.0,
+        "RecognizableByCivilians": true,
+        "SpawnKinematic": false,
+        "Stackable": false,
+        "SupportItem": "00000000-0000-0000-0000-000000000000",
+        "ThrownCollisionLoudness": "eLoudness_Default",
+        "ThrowType": "THROW_NONE",
+        "ThrowVelocity": 50.0,
+        "TokenID": "",
+        "UseFakePutDownPhysics": false,
+        "AmmoItem": "00000000-0000-0000-0000-000000000000",
+        "CompareItem": "00000000-0000-0000-0000-000000000000",
+        "EnablePickUpOnSpawn": true,
+        "EnablePickUpOnThrowRelease": true,
+        "ItemHUDType": "EIHT_None",
+        "OverrideItemThrowRotation": false,
+        "PoisonType": "POISONTYPE_NONE",
+        "RagdollImpactForceGlobal": 0.0,
+        "RagdollImpactUpkickGlobal": 0.0,
+        "Rarity": "ITEMRARITY_COMMON",
+        "ReverseItemThrowRotationDirection": false,
+        "ThrowImpactVisualRadius": 1.4
+    },
+    "d4b6f7eb-6c48-4605-95de-7f9695be2ed0": {
+        "ID_": "d4b6f7eb-6c48-4605-95de-7f9695be2ed0",
+        "Description": "ui_agencypickup_lynx_janitorroom_desc",
+        "Image": "images/ruddy/lynx_maintenance.jpg",
+        "Name_LOC": "ui_agencypickup_lynx_janitorroom_name",
+        "Name": "Unknown"
+    },
+    "dcfb6a53-f3fa-44c0-bae1-23e34e8e0768": {
+        "CommonName": "Trapped_Worker_Hospitality_M_",
+        "Description": "UI_LYNX_OUTFIT_STAFF_MEMBER",
+        "HeroDisguiseAvailable": true,
+        "Image": "images/unlockables/outfit_589d5082-92e5-4136-922d-786646fb781a_0.jpg",
+        "Name": "UI_LYNX_OUTFIT_STAFF_MEMBER",
+        "Category": "",
+        "ImageTransparent": "",
+        "IsHitmanSuit": false,
+        "TokenID": ""
+    },
+    "f21b1a1a-bec9-4a06-9a4a-d615e9721e3b": {
+        "ID_": "f21b1a1a-bec9-4a06-9a4a-d615e9721e3b",
+        "Image": "images/ruddy/lynx_office.jpg",
+        "Name_LOC": "ui_starting_location_lynx_office_name",
+        "Description": "ui_starting_location_lynx_office_desc"
+    },
+    "1a7f20ee-909a-4fa5-bba0-b8068ac05240": {
+        "ID_": "1a7f20ee-909a-4fa5-bba0-b8068ac05240",
+        "Description": "ui_agencypickup_lynx_laundryroom_desc",
+        "Image": "images/ruddy/lynx_laundry.jpg",
+        "Name_LOC": "ui_agencypickup_lynx_laundryroom_name",
+        "Name": "Unknown"
+    },
+    "ee4b0060-b322-4bb0-99b5-942e8a20f277": {
+        "ID_": "ee4b0060-b322-4bb0-99b5-942e8a20f277",
+        "Image": "images/ruddy/lynx_bar.jpg",
+        "Name_LOC": "ui_starting_location_lynx_bar_name",
+        "Description": "ui_starting_location_lynx_bar_desc"
+    },
+    "af29c8d3-45cd-4b36-b7ed-5acc9398556a": {
+        "ID_": "af29c8d3-45cd-4b36-b7ed-5acc9398556a",
+        "Image": "images/ruddy/lynx_newspaper.jpg",
+        "Name_LOC": "ui_starting_location_lynx_seats_name",
+        "Description": "ui_starting_location_lynx_seats_desc"
+    }
+}

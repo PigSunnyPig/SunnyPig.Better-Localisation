@@ -1,0 +1,19 @@
+{
+    "$schema": "https://tonytools.win/schemas/rtlv.schema.json",
+    "hash": "00DB3A1BD364CF08",
+    "videos": {
+        "en": "00BAA92FDF73E66A"
+    },
+    "subtitles": {
+        "xx": "//[DIANA]\\\\//(0,3.85)\\\\How unfortunate. It appears that you ran out of luck.//(5.5,10.5)\\\\Back to the drawing board, 47.",
+        "en": "//[DIANA]\\\\//(0,3.85)\\\\How unfortunate. It rather appears that you ran out of luck.//(5.5,10.5)\\\\Back to the drawing board, 47.",
+        "fr": "//[DIANA]\\\\//(0,3.85)\\\\Comme c'est dommage... Votre chance semble finalement épuisée.//(5.510.5)\\\\Retour à la case départ, 47.",
+        "it": "//[DIANA]\\\\//(0,3.85)\\\\Che peccato. Sembra che tu abbia esaurito la fortuna.//(5.5,10.5)\\\\Ricominciamo da capo, 47.",
+        "de": "//[DIANA]\\\\//(0,3.85)\\\\Was für ein Pech. Offenbar ist Ihnen das Glück ausgegangen.//(5.5,10.5)\\\\Zurück zur Planung, 47.",
+        "es": "//[DIANA]\\\\//(0,3.85)\\\\Qué mala pata. Parece que se te ha acabado la suerte.//(5.5,10.5)\\\\Habrá que idear otro plan, 47.",
+        "ru": "//[DIANA]\\\\//(0,3.85)\\\\Какая жалость! Похоже, удача отвернулась от тебя.//(5.5,10.5)\\\\Придется начинать с нуля, 47-й.",
+        "cn": "//[DIANA]\\\\//(0,3.85)\\\\很遗憾，看来你的运气用光了。//(5.5,10.5)\\\\从头再来吧，47。",
+        "tc": "//[DIANA]\\\\//(0,3.85)\\\\很遺憾，看來你的運氣用盡了。//(5.5,10.5)\\\\重新開始吧，47。",
+        "jp": "//[DIANA]\\\\//(0,3.85)\\\\残念だったわね。運を使い果たしたように思えるわ。//(5.5,10.5)\\\\最初からやり直しましょう、47。"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/evergreen/handler/ed078_unlckclbrtnpoison.sweetdialog?/ed078_unlckclbrtnpoison_diana_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ed078_unlckclbrtnpoison_diana_001",
+        "soundtag": "Voiceover_Handler_Evergreen",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed078_unlckclbrtnpoison_diana_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed078_unlckclbrtnpoison_diana_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Nice work, 47. As a token, I've added something a little special for you...//(5.25,35.33)\\\\a station where you can make a lethal cocktail.",
+            "fr": "//(0,1.37)\\\\Beau travail, 47.//(1.37,5.09)\\\\En récompense, j'ai ajouté une petite surprise ://(5.09,35.09)\\\\un poste de travail où vous pourrez préparer des cocktails mortels.",
+            "it": "//(0,1.724294)\\\\Ottimo lavoro, 47.//(1.724294,5.28908)\\\\Come pegno, ti ho aggiunto qualcosa di speciale...//(5.28908,35.28908)\\\\Una postazione su cui preparare un cocktail letale.",
+            "de": "//(0,1.6)\\\\Gute Arbeit, 47.//(1.6,5.1)\\\\Als Zeichen der Anerkennung habe ich etwas Besonderes für Sie hinzugefügt ...//(5.4,35.4)\\\\eine Mischstation für tödliche Cocktails.",
+            "es": "//(0,1.574294)\\\\Buen trabajo, 47.//(1.574294,5.220981)\\\\Como regalo, te he añadido algo especial...//(5.220981,35.22098)\\\\Un puesto para preparar cócteles letales.",
+            "ru": "//(0,5.008)\\\\Молодчина, 47-й. В знак благодарности я добавила кое-что особенное...//(5.6,35.6)\\\\верстак для изготовления смертоносных коктейлей.",
+            "cn": "//(0,5.25)\\\\干得漂亮，47。作为奖励，我为你带来了一些特别的小玩意......//(5.25,35.33)\\\\一个可供调制剧毒鸡尾酒的工作台。",
+            "tc": "//(0,5.25)\\\\做得好，47。作為獎勵，我為你帶來了一些特殊的小玩意......//(5.25,35.33)\\\\一個可供調製劇毒雞尾酒的工作台",
+            "jp": "//(0,5.32)\\\\良い仕事ぶりだったわ、47。記念にちょっと特別なものを用意しておいたわ...//(5.32,35.32)\\\\死のカクテルを調合するためのカウンターよ。"
+        }
+    }
+}

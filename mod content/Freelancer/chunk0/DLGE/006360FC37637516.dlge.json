@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/evergreen/handler/ed065_mechclbrtnintel.sweetdialog?/ed065_mechclbrtnintel_diana_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ed065_mechclbrtnintel_diana_001",
+        "soundtag": "Voiceover_Handler_Evergreen",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed065_mechclbrtnintel_diana_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed065_mechclbrtnintel_diana_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,2.8)\\\\We now know the location of the Syndicate Leader.//(2.8,32.8)\\\\I have provided you with an intel wall to help you keep track of their uncovered identity.",
+            "fr": "//(0,2.357)\\\\Nous savons maintenant où se trouve la Tête du syndicat.//(2.357,5.05)\\\\Je vous ai fourni un mur de renseignements//(5.05,35.05)\\\\pour vous aider à garder une trace de l’identité dévoilée.",
+            "it": "//(0,3.076687)\\\\Conosciamo la posizione del leader di un'organizzazione.//(3.076687,33.07669)\\\\Ti ho fornito una parete delle informazioni per aiutarti a tenere traccia dell'identità scoperta.",
+            "de": "//(0,2.45)\\\\Wir kennen den Aufenthaltsort des Syndikatsanführers.//(2.8,32.8)\\\\Ich habe Sie mit einer Infowand versorgt, damit Sie die unbekannte Identität im Auge behalten können.",
+            "es": "//(0,1.258589)\\\\Ahora sabemos cuál es la ubicación//(1.258589,2.885276)\\\\de la persona al mando del sindicato.//(2.885276,4.461963)\\\\Te he dado un muro de información//(4.461963,34.46196)\\\\para que te ayude a investigar la identidad descubierta.",
+            "ru": "//(0,30)\\\\Теперь мы знаем, где находится босс синдиката. Я подготовила стену с разведданными, чтобы ты мог отслеживать эту раскрытую личность.",
+            "cn": "//(0,2.8)\\\\我们现在掌握到辛迪加领袖的下落了。//(2.8,32.8)\\\\我已经向你提供了一面情报墙，以帮助你追踪目标那些已为人熟知的身份特征。",
+            "tc": "//(0,2.8)\\\\我們現在知道組織首領的所在地了。//(2.8,32.8)\\\\我已經向你提供了一面情報牆，以幫助你追蹤目標那些已為人熟知的身分特徵。",
+            "jp": "//(0,2.69)\\\\シンジケートのリーダーの位置を把握した。//(2.69,32.69)\\\\まだ暴かれていない身元情報を確認できるように、情報ウォールを用意したわ。"
+        }
+    }
+}

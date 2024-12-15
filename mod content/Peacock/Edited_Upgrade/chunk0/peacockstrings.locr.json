@@ -5,7 +5,7 @@
             "UI_DRP_001": "UI_DRP_001"
         },
         "en": {
-            "UI_DRP_001": "UI_DRP_001",
+            "UI_PEACOCK_STRINGS_PRESENT": "yes",
             "UI_CONTRACT_NEGRONI_TITLE": "The Brothers",
             "UI_CONTRACT_NEGRONI_DESC": "The Brothers",
             "UI_PEACOCK_KOATS_CONSPIRACY": "The KOats Conspiracy",
@@ -552,7 +552,7 @@
             "UI_PEACOCK_GAMECHANGERS_GLOBAL_HEADKILLONLY_DESC": "All targets must be eliminated by using headshots or throwing lethal melee weapons."
         },
         "it": {
-            "UI_DRP_001": "UI_DRP_001",
+            "UI_PEACOCK_STRINGS_PRESENT": "yes",
             "UI_CONTRACT_NEGRONI_TITLE": "The Brothers",
             "UI_CONTRACT_NEGRONI_DESC": "The Brothers",
             "UI_PEACOCK_KOATS_CONSPIRACY": "The KOats Conspiracy",
@@ -1104,7 +1104,7 @@
             "UI_PEACOCK_GAMECHANGERS_GLOBAL_HEADKILLONLY_DESC": "All targets must be eliminated by using headshots or throwing lethal melee weapons."
         },
         "es": {
-            "UI_DRP_001": "UI_DRP_001",
+            "UI_PEACOCK_STRINGS_PRESENT": "yes",
             "UI_CONTRACT_NEGRONI_TITLE": "Los Hermanos",
             "UI_CONTRACT_NEGRONI_DESC": "Los Hermanos",
             "UI_PEACOCK_KOATS_CONSPIRACY": "La Conspiración de KOats",
@@ -1378,7 +1378,7 @@
             "UI_PEACOCK_GAMECHANGERS_GLOBAL_HEADKILLONLY_DESC": "All targets must be eliminated by using headshots or throwing lethal melee weapons."
         },
         "ru": {
-            "UI_DRP_001": "UI_DRP_001",
+            "UI_PEACOCK_STRINGS_PRESENT": "yes",
             "UI_CONTRACT_NEGRONI_TITLE": "Братья",
             "UI_CONTRACT_NEGRONI_DESC": "Братья",
             "UI_PEACOCK_KOATS_CONSPIRACY": "Конспирация KOats'а",
@@ -1651,7 +1651,7 @@
             "UI_PEACOCK_GAMECHANGERS_GLOBAL_HEADKILLONLY_DESC": "All targets must be eliminated by using headshots or throwing lethal melee weapons."
         },
         "cn": {
-            "UI_DRP_001": "UI_DRP_001",
+            "UI_PEACOCK_STRINGS_PRESENT": "是",
             "UI_PEACOCK_BRANDING": "孔雀服",
             "UI_PEACOCK_BRANDING_SHORT": "孔雀服",
             "UI_PEACOCK_GO_OFFLINE": "离线",
@@ -1912,19 +1912,21 @@
             "UI_PEACOCK_CHALLENGEPACK_CHEESECAKE_SAPIENZACLEAVERKILL_NAME": "磨刀霍霍",
             "UI_PEACOCK_CHALLENGEPACK_CHEESECAKE_SAPIENZACLEAVERKILL_DESC": "<li>前往意大利，并在当地的萨比恩撒开始任务。</li><li>伪装成一名城镇厨房助手，并使用一把切肉刀来消灭任意一名目标。</li><li>别被发现。</li>",
             "UI_PEACOCK_CHALLENGEPACK_CHEESECAKE_SANTAFORTUNABONEPACIFY_NAME": "骨头滋味如何？",
-            "UI_PEACOCK_CHALLENGEPACK_CHEESECAKE_SANTAFORTUNABONEPACIFY_DESC": "<li>前往哥伦比亚，并在当地的圣福耳图那开始任务。</li><li>使用一个肉骨头，制伏布莱尔·雷丁顿。</li><li>完成任务。</li>",
+            "UI_PEACOCK_CHALLENGEPACK_CHEESECAKE_SANTAFORTUNABONEPACIFY_DESC": "<li>前往哥伦比亚，并在当地的圣福耳图那开始任务。</li><li>使用一根肉骨头，制伏布莱尔·雷丁顿。</li><li>完成任务。</li>",
             "UI_PEACOCK_CHALLENGEPACK_CHEESECAKE_CHONGQINGMARINATE_NAME": "留待腌制",
-            "UI_PEACOCK_CHALLENGEPACK_CHEESECAKE_CHONGQINGMARINATE_DESC": "<li>前往中国，并在当地的重庆开始任务。</li><li>伪装成一名饺子厨师，并使用毒药消灭来任意一名目标。</li><li>将目标的身体浸在水中。</li>",
+            "UI_PEACOCK_CHALLENGEPACK_CHEESECAKE_CHONGQINGMARINATE_DESC": "<li>前往中国，并在当地的重庆开始任务。</li><li>伪装成一名饺子厨师，并使用致命毒药消灭来任意一名目标。</li><li>将目标的身体浸在水中。</li>",
             "UI_PEACOCK_CHALLENGEPACK_CHEESECAKE_AMBROSEHOOK_NAME": "火淬肉钩",
-            "UI_PEACOCK_CHALLENGEPACK_CHEESECAKE_AMBROSEHOOK_DESC": "<li>前往安达曼海，并在当地的安布罗斯岛开始任务。</li><li>烧死卡尔顿·史密斯，并使用一个钩子来消灭他的狱友。</li><li>激活淋浴设备。</li>",
+            "UI_PEACOCK_CHALLENGEPACK_CHEESECAKE_AMBROSEHOOK_DESC": "<li>前往安达曼海，并在当地的安布罗斯岛开始任务。</li><li>烧死卡尔顿·史密斯，并使用一把钩子来消灭他的狱友。</li><li>激活淋浴设备。</li>",
             "UI_PEACOCK_CHALLENGEPACK_CHEESECAKE_DUBAIPANPACIFY_NAME": "晚餐就绪！",
             "UI_PEACOCK_CHALLENGEPACK_CHEESECAKE_DUBAIPANPACIFY_DESC": "<li>前往阿联酋，并在当地的迪拜开始任务。</li><li>重新安排一场会议，并封锁四楼的会议室。</li><li>使用一个平底锅，制伏卡尔·英格拉姆和马库斯·斯图维森特。</li><li>完成任务。</li>",
             "UI_PEACOCK_CHALLENGES_MIAMI_DOLPHIN_NAME": "蔚蓝的呼唤",
             "UI_PEACOCK_CHALLENGES_GREEDY_SUPPORT_NAME": "网络支援现时不可用",
-            "UI_PEACOCK_CHALLENGES_GREEDY_SUPPORT_DESC": "<li>制伏或杀死两名 IT 员工，并隐藏他们的尸体。</li><li>破坏无线网络。</li>"
+            "UI_PEACOCK_CHALLENGES_GREEDY_SUPPORT_DESC": "<li>制伏或杀死两名 IT 员工，并隐藏他们的尸体。</li><li>破坏无线网络。</li>",
+            "UI_MENU_PAGE_STORY_CUTSCENE_SEASON2_STORY_BLOCK_09_TITLE": "一切按计划进行",
+            "UI_MENU_PAGE_STORY_CUTSCENE_SEASON2_STORY_BLOCK_10_TITLE": "天堂之旅"
         },
         "tc": {
-            "UI_DRP_001": "UI_DRP_001",
+            "UI_PEACOCK_STRINGS_PRESENT": "是",
             "UI_PEACOCK_BRANDING": "孔雀服",
             "UI_PEACOCK_BRANDING_SHORT": "孔雀服",
             "UI_PEACOCK_POWERED_BY": "技術支援",
@@ -2185,19 +2187,21 @@
             "UI_PEACOCK_CHALLENGEPACK_CHEESECAKE_SAPIENZACLEAVERKILL_NAME": "磨刀霍霍",
             "UI_PEACOCK_CHALLENGEPACK_CHEESECAKE_SAPIENZACLEAVERKILL_DESC": "<li>前往義大利，並在當地的羅馬大學展開任務。</li><li>偽裝成一名城鎮廚房助手，並使用一把切肉刀來消滅任意一名目標。</li><li>别被發現。</li>",
             "UI_PEACOCK_CHALLENGEPACK_CHEESECAKE_SANTAFORTUNABONEPACIFY_NAME": "骨頭味道如何？",
-            "UI_PEACOCK_CHALLENGEPACK_CHEESECAKE_SANTAFORTUNABONEPACIFY_DESC": "<li>前往哥倫比亞，並在當地的聖福耳圖那展開任務。</li><li>使用一個肉骨頭，擊暈布萊爾・雷丁頓。</li><li>完成任務。</li>",
+            "UI_PEACOCK_CHALLENGEPACK_CHEESECAKE_SANTAFORTUNABONEPACIFY_DESC": "<li>前往哥倫比亞，並在當地的聖福耳圖那展開任務。</li><li>使用一根肉骨頭，擊暈布萊爾・雷丁頓。</li><li>完成任務。</li>",
             "UI_PEACOCK_CHALLENGEPACK_CHEESECAKE_CHONGQINGMARINATE_NAME": "留待醃製",
-            "UI_PEACOCK_CHALLENGEPACK_CHEESECAKE_CHONGQINGMARINATE_DESC": "<li>前往中國，並在當地的重慶展開任務。</li><li>偽裝成一名餃子師傅，並使用毒藥來消滅任意一名目標。</li><li>將目標的身體浸入水中。</li>",
+            "UI_PEACOCK_CHALLENGEPACK_CHEESECAKE_CHONGQINGMARINATE_DESC": "<li>前往中國，並在當地的重慶展開任務。</li><li>偽裝成一名餃子師傅，並使用致命毒藥來消滅任意一名目標。</li><li>將目標的身體浸入水中。</li>",
             "UI_PEACOCK_CHALLENGEPACK_CHEESECAKE_AMBROSEHOOK_NAME": "淬火鉤",
-            "UI_PEACOCK_CHALLENGEPACK_CHEESECAKE_AMBROSEHOOK_DESC": "<li>前往安達曼海，並在當地的安布羅斯島展開任務。</li><li>燒死卡爾頓・史密斯，並使用一個鉤子來消滅他的獄友。</li><li>啟動淋浴設備。</li>",
+            "UI_PEACOCK_CHALLENGEPACK_CHEESECAKE_AMBROSEHOOK_DESC": "<li>前往安達曼海，並在當地的安布羅斯島展開任務。</li><li>燒死卡爾頓・史密斯，並使用一把鉤子來消滅他的獄友。</li><li>啟動淋浴設備。</li>",
             "UI_PEACOCK_CHALLENGEPACK_CHEESECAKE_DUBAIPANPACIFY_NAME": "晚餐準備好了！",
             "UI_PEACOCK_CHALLENGEPACK_CHEESECAKE_DUBAIPANPACIFY_DESC": "<li>前往阿聯酋，並在當地的杜拜展開任務。</li><li>重新安排一場會議，並封鎖四樓的會議室。</li><li>使用一個平底鍋，擊暈卡爾・英格倫和馬克斯・史岱文森。</li><li>完成任務。</li>",
             "UI_PEACOCK_CHALLENGES_MIAMI_DOLPHIN_NAME": "蔚藍的呼喚",
             "UI_PEACOCK_CHALLENGES_GREEDY_SUPPORT_NAME": "網路支援現時不可用",
-            "UI_PEACOCK_CHALLENGES_GREEDY_SUPPORT_DESC": "<li>擊暈或殺死兩名 IT 員工，並隱藏他們的屍體。</li><li>破壞無線網路。</li>"
+            "UI_PEACOCK_CHALLENGES_GREEDY_SUPPORT_DESC": "<li>擊暈或殺死兩名 IT 員工，並隱藏他們的屍體。</li><li>破壞無線網路。</li>",
+            "UI_MENU_PAGE_STORY_CUTSCENE_SEASON2_STORY_BLOCK_09_TITLE": "一切按計畫進行",
+            "UI_MENU_PAGE_STORY_CUTSCENE_SEASON2_STORY_BLOCK_10_TITLE": "天堂之旅"
         },
         "jp": {
-            "UI_DRP_001": "UI_DRP_001",
+            "UI_PEACOCK_STRINGS_PRESENT": "yes",
             "UI_CONTRACT_NEGRONI_TITLE": "The Brothers",
             "UI_CONTRACT_NEGRONI_DESC": "The Brothers",
             "UI_PEACOCK_KOATS_CONSPIRACY": "The KOats Conspiracy",

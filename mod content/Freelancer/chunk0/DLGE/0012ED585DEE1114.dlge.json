@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/evergreen/handler/ed063_mechclbrtntools.sweetdialog?/ed063_mechclbrtntools_diana_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ed063_mechclbrtntools_diana_001",
+        "soundtag": "Voiceover_Handler_Evergreen",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/evergreen/handler/ed063_mechclbrtntools_diana_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/evergreen/handler/ed063_mechclbrtntools_diana_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,1.84)\\\\These are your Freelancer Tools.//(1.84,6.07)\\\\Highly useful for adapting to on-the-fly opportunities.//(5.98,35.98)\\\\They will be lost should you fail the campaign.",
+            "fr": "//(0,5.656)\\\\Voilà vos outils de freelance, extrêmement utiles pour s'adapter à toutes les opportunités.//(5.656,35.656)\\\\Si vous échouez à la campagne, vous les perdrez.",
+            "it": "//(0,1.8)\\\\Questi sono i tuoi strumenti da freelance.//(1.8,5.785276)\\\\Estremamente adattabili alle opportunità del momento.//(5.785276,35.78527)\\\\Andranno persi in caso di fallimento della campagna.",
+            "de": "//(0,2.1)\\\\Das sind Ihre Freelancer-Werkzeuge.//(2.1,6)\\\\Äußerst nützlich, um günstige Gelegenheiten auszumachen.//(6,36)\\\\Sie gehen verloren, falls Sie bei der Kampagne scheitern.",
+            "es": "//(0,2.226687)\\\\Estas son tus herramientas de agente libre.//(2.226687,3.217178)\\\\Son muy útiles para adaptarte//(3.217178,5.975767)\\\\a las oportunidades sobre la marcha.//(5.975767,35.97577)\\\\Si fracasas en la campaña, las perderás.",
+            "ru": "//(0,6.15)\\\\Это инструменты фрилансера. Они позволяют менять тактику и действовать по ситуации.//(6.15,36.15)\\\\Ты их потеряешь, если провалишь кампанию.",
+            "cn": "//(0,1.84)\\\\这些是你的自由职业者工具。//(1.84,6.07)\\\\非常适合用于临机应变。//(6.07,36.07)\\\\如果你在战役中失利了，它们将随之遗失。",
+            "tc": "//(0,1.84)\\\\這些是你的自由業者工具。//(1.84,6.07)\\\\非常適合用於臨機應變。//(6.07,36.07)\\\\如果你在戰役中失利了，它們將隨之遺失。",
+            "jp": "//(0,2.03)\\\\これらはあなたのフリーランサーツール。//(2.03,5.905)\\\\突然の好機が訪れた時、臨機応変に対応するために非常に便利よ。//(5.905,35.905)\\\\でもキャンペーンに失敗すると手元からなくなってしまうわ。"
+        }
+    }
+}
