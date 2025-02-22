@@ -186,11 +186,11 @@ module.exports = function EscPlugin(controller) {
 	//Ingame Config Stuff, Wowie!
 	var RRAdditiveModifiersFlagSectionKey = "randomroulette"
 	var RRAdditiveModifiersSection = {
-		title: "$loc UI_RR_TITLE",
-		desc: "$loc Modify Random Roulette Contract Generation.",
+		title: "$loc UI_CONTRACT_HEADER_RR_NAME",
+		desc: "$loc UI_CONTRACT_HEADER_RR_DESC",
 		flags: {
 			contractstyle: {
-				title: "Contract Style",
+				title: "$loc Contract Style",
 				desc: "$loc Random Roulette Contracts will be generated in this style. Regenerate Contracts for this option to take effect. Random is the intended way to play.",
 				possibleValues: [
 					"Random",
@@ -209,57 +209,57 @@ module.exports = function EscPlugin(controller) {
 				requiresPeacockRestart: false
 			},
 			targetcount: {
-				title: "$loc UI_RR_TARGETCOUNT_TITLE",
+				title: "$loc UI_RR_TARGETCOUNT_NAME",
 				desc: "$loc UI_RR_TARGETCOUNT_DESC",
 				possibleValues: ["Two", "Four", "Six", "Eight"],
 				default: "Four",
 				requiresPeacockRestart: false
 			},
 			lightmodifier: {
-				title: "$loc UI_RR_LIGHTMODIFIER_TITLE",
+				title: "$loc UI_RR_LIGHTMODIFIER_NAME",
 				desc: "$loc UI_RR_LIGHTMODIFIER_DESC",
 				possibleValues: ["Off", "Red Light, Green Light", "Red vs Blue"],
 				default: "Off",
 				requiresPeacockRestart: false
 			},
 			phantom: {
-				title: "$loc UI_RR_PHANTOM_TITLE",
+				title: "$loc UI_RR_PHANTOM_NAME",
 				desc: "$loc UI_RR_PHANTOM_DESC",
 				default: false,
 				requiresPeacockRestart: false
 			},
 			buzzed: {
-				title: "$loc UI_RR_BUZZED_TITLE",
+				title: "$loc UI_RR_BUZZED_NAME",
 				desc: "$loc UI_RR_BUZZED_DESC",
 				default: false,
 				requiresPeacockRestart: false
 			},
 			snitchesgetstiches: {
-				title: "$loc UI_RR_SNITCHESGETSTICHES_TITLE",
+				title: "$loc UI_RR_SNITCHESGETSTICHES_NAME",
 				desc: "$loc UI_RR_SNITCHESGETSTICHES_DESC",
 				default: false,
 				requiresPeacockRestart: false
 			},
 			littlemissperfect: {
-				title: "$loc UI_RR_LITTLEMISSPERFECT_TITLE",
+				title: "$loc UI_RR_LITTLEMISSPERFECT_NAME",
 				desc: "$loc UI_RR_LITTLEMISSPERFECT_DESC",
 				default: false,
 				requiresPeacockRestart: false
 			},
 			immutable: {
-				title: "$loc UI_RR_IMMUTABLE_TITLE",
+				title: "$loc UI_RR_IMMUTABLE_NAME",
 				desc: "$loc UI_RR_IMMUTABLE_DESC",
 				default: false,
 				requiresPeacockRestart: false
 			},
 			contractsaving: {
-				title: "$loc UI_RR_CONTRACTSAVING_TITLE",
+				title: "$loc UI_RR_CONTRACTSAVING_NAME",
 				desc: "$loc UI_RR_CONTRACTSAVING_DESC",
 				default: false,
 				requiresPeacockRestart: false
 			},
 			contractgen: {
-				title: "$loc UI_RR_CONTRACTGEN_TITLE",
+				title: "$loc UI_RR_CONTRACTGEN_NAME",
 				desc: "$loc UI_RR_CONTRACTGEN_DESC",
 				possibleValues: ["true", "false"],
 				default: "false",
