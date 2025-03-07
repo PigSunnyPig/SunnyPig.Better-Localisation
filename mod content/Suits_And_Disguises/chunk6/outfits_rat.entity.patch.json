@@ -1,0 +1,63 @@
+{
+	"tempHash": "0037AA1A61D02CD2",
+	"tbluHash": "008275375D549E32",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"e662b0ebfd17ef9b",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_rNameTextResource",
+						"value": {
+							"resource": "[assembly:/localization/hitman6/conversations/ui/pro/online/repository/outfits_npcs_theisland.sweetmenutext?/theisland_unique_gunslinger_m_pro99843_name_9c6276ea-86f1-49fd-9e0f-c3d179a6f8b4.sweetline].pc_sweetline",
+							"flag": "5F"
+						}
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"e662b0ebfd17ef9b",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_rDescriptionTextResource",
+						"value": {
+							"resource": "[assembly:/localization/hitman6/conversations/ui/pro/online/repository/outfits_npcs_theisland.sweetmenutext?/theisland_unique_gunslinger_m_pro99843_description_9c6276ea-86f1-49fd-9e0f-c3d179a6f8b4.sweetline].pc_sweetline",
+							"flag": "5F"
+						}
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"9a1ea0da4bdf3c5e",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_rNameTextResource",
+						"value": {
+							"resource": "[assembly:/localization/hitman6/conversations/ui/pro/online/repository/outfits_npcs_theisland.sweetmenutext?/theisland_unique_gunslinger_m_pro99843_name_9c6276ea-86f1-49fd-9e0f-c3d179a6f8b4.sweetline].pc_sweetline",
+							"flag": "5F"
+						}
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"9a1ea0da4bdf3c5e",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_rDescriptionTextResource",
+						"value": {
+							"resource": "[assembly:/localization/hitman6/conversations/ui/pro/online/repository/outfits_npcs_theisland.sweetmenutext?/theisland_unique_gunslinger_m_pro99843_description_9c6276ea-86f1-49fd-9e0f-c3d179a6f8b4.sweetline].pc_sweetline",
+							"flag": "5F"
+						}
+					}
+				}
+			]
+		}
+	],
+	"patchVersion": 6
+}

@@ -1,65 +1,65 @@
 {
     "Data": {
-		"Objectives": [{
-            "Id": "30f7780f-a3fc-4203-b154-aec9e3a0d038",
-            "Primary": true,
-            "IsHidden": true,
-            "SuccessEvent": {
-                "EventName": "Kill",
-                "EventValues": {
-                    "RepositoryId": "87822150-ed67-49ca-b184-2dba68392c19"
+        "Objectives": [
+            {
+                "Id": "30f7780f-a3fc-4203-b154-aec9e3a0d038",
+                "Primary": true,
+                "IsHidden": true,
+                "SuccessEvent": {
+                    "EventName": "Kill",
+                    "EventValues": {
+                        "RepositoryId": "87822150-ed67-49ca-b184-2dba68392c19"
+                    }
                 }
-            }
-        },{
-            "_comment": "----- Destroy Methlab -----",
-            "Id": "7effacb2-77d2-4a9c-86a7-6a69eb0aa1e2",
-            "Category": "primary",
-            "ExcludeFromScoring": false,
-            "ObjectiveType": "custom",
-            "ForceShowOnLoadingScreen": true,
-            "Image": "images/methlab.jpg",
-            "BriefingName": "$loc UI_CONTRACT_THE_CHEMIST_OBJA_BRIEFING_NAME",
-            "BriefingText": "$loc UI_CONTRACT_THE_CHEMIST_OBJA_BRIEFING_TEXT",
-            "LongBriefingText": "$loc UI_CONTRACT_THE_CHEMIST_OBJA_LONGBRIEFING",
-            "HUDTemplate": {
-                "display": "$loc UI_CONTRACT_THE_CHEMIST_OBJA_BRIEFING_TEXT",
-                "iconType": 17
             },
-            "Type": "statemachine",
-            "Definition": {
-                "States": {
-                    "Start": {
-                        "Meth_Lab_Destroyed": {
-                            "Transition": "Success"
+            {
+                "_comment": "----- Destroy Methlab -----",
+                "Id": "7effacb2-77d2-4a9c-86a7-6a69eb0aa1e2",
+                "Category": "primary",
+                "ExcludeFromScoring": false,
+                "ObjectiveType": "custom",
+                "ForceShowOnLoadingScreen": true,
+                "Image": "images/methlab.jpg",
+                "BriefingName": "$loc UI_CONTRACT_THE_CHEMIST_OBJA_BRIEFING_NAME",
+                "BriefingText": "$loc UI_CONTRACT_THE_CHEMIST_OBJA_BRIEFING_TEXT",
+                "LongBriefingText": "$loc UI_CONTRACT_THE_CHEMIST_OBJA_LONGBRIEFING",
+                "HUDTemplate": {
+                    "display": "$loc UI_CONTRACT_THE_CHEMIST_OBJA_BRIEFING_TEXT",
+                    "iconType": 17
+                },
+                "Type": "statemachine",
+                "Definition": {
+                    "States": {
+                        "Start": {
+                            "Meth_Lab_Destroyed": {
+                                "Transition": "Success"
+                            }
                         }
                     }
                 }
             }
-        }],
-		"GameDifficulties": [{
-            "Difficulty": "easy",
-            "Bricks": [
-                "assembly:/_pro/scenes/missions/coastaltown/difficulty_easy_sapienza_octopus.brick"
-            ]
-        },
-        {
-            "Difficulty": "normal",
-            "Bricks": []
-        },
-        {
-            "Difficulty": "hard",
-            "Bricks": [
-                "assembly:/_pro/scenes/missions/coastaltown/octopus_pro1.brick"
-            ]
-        }],
-        "Bricks": [],
-        "RandomBricks": {
-            "TimeOfDay": [
-                "assembly:/_pro/scenes/missions/coastaltown/gamechangers_opportunities_killopportunities_methlab.brick"
-            ]
-        },
+        ],
+        "GameDifficulties": [
+            {
+                "Difficulty": "easy",
+                "Bricks": [
+                    "assembly:/_pro/scenes/missions/coastaltown/difficulty_easy_sapienza_octopus.brick"
+                ]
+            },
+            {
+                "Difficulty": "normal",
+                "Bricks": []
+            },
+            {
+                "Difficulty": "hard",
+                "Bricks": [
+                    "assembly:/_pro/scenes/missions/coastaltown/octopus_pro1.brick"
+                ]
+            }
+        ],
+        "Bricks": ["assembly:/_pro/scenes/missions/coastaltown/gamechangers_opportunities_killopportunities_methlab.brick"],
         "GameChangers": [],
-		"Entrances": []
+        "Entrances": []
     },
     "Metadata": {
         "UserData": null,
@@ -77,8 +77,17 @@
         "Type": "flashback",
         "Subtype": "specialassignment",
         "Release": "1.1.x",
-		"Entitlements": ["H1_LEGACY_STANDARD"],
+        "Entitlements": [
+            "H1_LEGACY_STANDARD"
+        ],
         "Opportunities": []
     },
-    "UserData": {}
+    "UserData": {},
+    "SMF": {
+        "destinations": {
+            "addToDestinations": true,
+            "peacockIntegration": true,
+            "narrativeContext": "Mission"
+        }
+    }
 }
