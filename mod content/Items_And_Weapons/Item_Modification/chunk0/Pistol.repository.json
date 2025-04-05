@@ -1,0 +1,21 @@
+{
+    "214004ec-5c86-4c26-8403-9e83a9bcdd24": {
+        "Perks": [
+            "suppressor",
+            "fullauto"
+        ]
+    },
+    "256ac829-2ec6-44de-8d5f-16801a0491df": {
+        "Perks": [
+            "suppressor",
+            "fullauto"
+        ]
+    },
+    "5b497a01-7941-474f-ac36-2b0490b528a4": {
+        "ItemType": "eGun_HardBaller_01",
+        "Perks": [
+            "suppressor",
+            "steadyaim"
+        ]
+    }
+}

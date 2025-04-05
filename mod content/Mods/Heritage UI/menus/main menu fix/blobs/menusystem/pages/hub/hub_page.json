@@ -251,7 +251,7 @@
 													"$include": "menusystem/pages/hub/dashboard/dashboard_offline.json"
 												},
 												"$else": {
-													"$include": "menusystem/pages/hub/dashboard/dashboard.json"
+													"$include": "menusystem/pages/hub/dashboard/dashboard_custom.json"
 												}
 											}
 										}
