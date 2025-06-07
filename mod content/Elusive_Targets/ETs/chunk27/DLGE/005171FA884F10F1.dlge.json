@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "005171FA884F10F1",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "B616885D",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "0059BC454A645BEC",
+        "defaultFfx": "00457E5D22EAFBAE",
+        "languages": {
+            "en": "//(0,30)\\\\The small blind will be Mr. Le Chiffre with 1 million euros.",
+            "fr": "//(0,2.4)\\\\Les blindes seront de 1 million et 2 millions d'euros.//(2.4,32.4)\\\\M.  Le Chiffre commencera à la petite blinde...",
+            "it": "//(0,30)\\\\Il piccolo buio sarà il signor Le Chiffre con 1 milione di euro.",
+            "de": "//(0,30)\\\\Das Small Blind ist Monsieur Le Chiffre mit 1 Million Euro.",
+            "es": "//(0,30)\\\\La ciega pequeña será el señor Le Chiffre, con un millón de euros.",
+            "ru": "//(0,30)\\\\Малый блайнд — месье Лё Шиффр, ставка 1 миллион евро.",
+            "cn": "//(0,30)\\\\小盲位由勒·西弗先生担任，盲注100万欧元。",
+            "tc": "//(0,30)\\\\小盲注是勒．西弗先生，一百萬歐元。",
+            "jp": "//(0,30)\\\\スモールブラインドはル・シッフル氏で、100万ユーロです。"
+        }
+    }
+}

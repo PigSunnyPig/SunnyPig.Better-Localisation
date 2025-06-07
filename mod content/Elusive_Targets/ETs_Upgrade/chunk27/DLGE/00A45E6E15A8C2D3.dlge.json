@@ -1,0 +1,87 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "00A45E6E15A8C2D3",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "14BF0CF8",
+                "weight": 0.24999995529651375,
+                "soundtag": "In-world_Mission_Important",
+                "defaultWav": "00F68F138E734814",
+                "defaultFfx": "00E407D60E1D4DFE",
+                "languages": {
+                    "en": "//(0,3.4)\\\\Is it far? I need to get back.//(3.4,33.4)\\\\Hello? Hello? Are you listening?",
+                    "fr": "//(0,3.6)\\\\Où m'emmenez-vous ? C'est encore loin ?//(3.6,4.444785)\\\\Je vous parle.//(4.444785,34.44479)\\\\Vous m'écoutez ?",
+                    "it": "//(0,2.5)\\\\È lontano? Devo tornare dentro.//(3.5,33.5)\\\\Pronto? Ehi? Mi stai ascoltando?",
+                    "de": "//(0,2.45)\\\\Ist es weit? Ich muss zurück?//(3.4,33.4)\\\\Hallo? Hallo? Hören Sie zu?",
+                    "es": "//(0,30)\\\\¿Es muy lejos? Porque tengo que volver a la partida. ¿Hola? ¿Hooola? ¿Me oye?",
+                    "ru": "//(0,2.2)\\\\Далеко еще? Мне нужно вернуться.//(3.5,33.5)\\\\Эй... вы слышите?",
+                    "cn": "//(0,3.4)\\\\离这里远吗？我得回去了。//(3.4,33.4)\\\\喂？喂？你听到我说话吗？",
+                    "tc": "//(0,3.4)\\\\有多遠？我還得回去。//(3.4,33.4)\\\\喂？喂？你聽見我說話嗎？",
+                    "jp": "//(0,2.5)\\\\遠いのか？戻らないといけないのだが。//(3.5,33.5)\\\\おい、聞いてるのか？"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "8DB65D42",
+                "weight": 0.24999995529651375,
+                "soundtag": "In-world_Mission_Important",
+                "defaultWav": "0095B1506E458AD9",
+                "defaultFfx": "0021605FE498BF79",
+                "languages": {
+                    "en": "//(0,7.1)\\\\I think you are wasting my time... and so is Murillo – Does he want his money or not?//(7.1,37.1)\\\\Distraction is an enemy.",
+                    "fr": "//(0,4.8)\\\\Vous me faites perdre mon temps, tout comme Murillo...//(4.8,7.5)\\\\Il veut son argent, ou pas ?//(7.5,37.5)\\\\Les distractions sont un ennemi.",
+                    "it": "//(0,3.6)\\\\Penso che tu stia sprecando il mio tempo... così come Murrello.//(4.7,34.7)\\\\Vuole i suoi soldi o no? Le distrazioni sono nemiche degli affari.",
+                    "de": "//(0,2.1)\\\\Ich glaube, Sie verschwenden meine Zeit ...//(2.1,4.5)\\\\Genau wie Murello –//(4.5,7.1)\\\\er will doch sein Geld. Oder nicht?//(7.1,37.1)\\\\Ablenkung ist da der Feind.",
+                    "es": "//(0,4.85)\\\\Creo que me está haciendo perder el tiempo..., igual que Murillo.//(4.85,34.85)\\\\¿Quiere su dinero o no? Estas distracciones son contraproducentes.",
+                    "ru": "//(0,3.25)\\\\Вы тратите мое время... как и Мурильо.//(4.69,34.69)\\\\Он вообще деньги хочет вернуть или нет? Отвлекаться — значит проигрывать.",
+                    "cn": "//(0,4.6)\\\\我觉得你是在浪费我的时间......穆律罗也是——//(4.6,34.6)\\\\他到底想不想要那笔钱？分心即是致命伤。",
+                    "tc": "//(0,4.7)\\\\我覺得你是在浪費我的時間......還有牟利羅也是。//(4.7,34.7)\\\\他到底要不要這筆錢？讓我分心可不是件好事。",
+                    "jp": "//(0,4.7)\\\\時間の無駄だ... 私にとっても、ムリージョにとってもな。//(4.7,34.7)\\\\あいつは金が欲しいんじゃないのか？気が散ると勝ちづらくなるぞ。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "FAB16DD4",
+                "weight": 0.24999995529651375,
+                "soundtag": "In-world_Mission_Important",
+                "defaultWav": "008A89A0047FC03D",
+                "defaultFfx": "003A5860A2ECADC5",
+                "languages": {
+                    "en": "//(0,5)\\\\Oh, for God's sake – what are you doing? Are you working for someone?//(5,8)\\\\Answer me.//(8,38)\\\\This is a joke...",
+                    "fr": "//(0,1.9)\\\\Ça suffit, vous m'entendez ?//(1.9,3)\\\\À quoi est-ce que vous jouez ?//(3,5.4)\\\\Vous travaillez pour quelqu'un ?//(5.4,5.768098)\\\\Répondez !//(8.3,38.3)\\\\Quelle farce...",
+                    "it": "//(0,4.2)\\\\Oh, per l'amor di Dio... che stai facendo? Lavori per qualcuno?//(5,6)\\\\Rispondi.//(8.4,38.4)\\\\È ridicolo...",
+                    "de": "//(0,2.65)\\\\Oh, um Gottes willen ... Was machen Sie denn?//(2.65,5)\\\\Arbeiten Sie für irgendwen?//(5,6.1)\\\\Antworten Sie mir.//(8.3,38.3)\\\\Das ist doch ein Witz ...",
+                    "es": "//(0,30)\\\\Ay, por el amor de... ¿Qué está haciendo? ¿Para quién trabaja? Contésteme. Tiene que ser una broma...",
+                    "ru": "//(0,4.14)\\\\Да что ж такое — вы что, с кем-то заодно?!//(5,6)\\\\Отвечайте.//(8.25,38.25)\\\\Это шутка, да?",
+                    "cn": "//(0,4)\\\\见鬼！你在玩什么把戏？你是为谁卖命的？//(5,6.2)\\\\回答我！//(7.8,37.8)\\\\真是笑话......",
+                    "tc": "//(0,5.2)\\\\噢，天啊，你在做什麼？你在為誰辦事？//(5.2,35.2)\\\\回答我。 太離譜了......",
+                    "jp": "//(0,5.2)\\\\おい、いい加減にしろ。何をやっている？誰の下で働いている？//(5.2,6.2)\\\\答えろ。//(8.35,38.35)\\\\冗談だろ..."
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "64D5F877",
+                "weight": 0.24999995529651375,
+                "soundtag": "In-world_Mission_Important",
+                "defaultWav": "008E048B1076E8E9",
+                "defaultFfx": "00F3B7797E84DC10",
+                "languages": {
+                    "en": "//(0,2)\\\\I think you are bluffing.//(2,5.4)\\\\You are trying something... distracting.//(5.4,35.4)\\\\Well let's see how it plays out.",
+                    "fr": "//(0,2.460491)\\\\Vous bluffez, ça se voit.//(2.460491,5.8)\\\\Vous cherchez à me distraire... mais certes.//(5.8,35.8)\\\\Voyons comment vous allez vous en sortir.",
+                    "it": "//(0,30)\\\\Penso tu stia bluffando. Stai tentando di... distrarmi. Ma vediamo come va avanti questa storia.",
+                    "de": "//(0,2)\\\\Ich glaube, Sie bluffen.//(2,5.4)\\\\Sie versuchen es mit ... einer Ablenkung.//(5.4,35.4)\\\\Wollen wir mal sehen, wie das ausgeht.",
+                    "es": "//(0,30)\\\\Me da a mí que esto es todo mentira. Está intentando algo..., distraerme... Veamos adónde nos lleva todo esto.",
+                    "ru": "//(0,1.3)\\\\Думаю, вы блефуете.//(2,4.42)\\\\Пытаетесь отвлечь.//(5.42,35.42)\\\\Ну что ж... посмотрим, что из этого выйдет.",
+                    "cn": "//(0,1.9)\\\\你在虚张声势。//(1.9,4.2)\\\\你正在尝试某种......干扰战术。//(5.6,35.6)\\\\不过让我们看看结果如何。",
+                    "tc": "//(0,5.5)\\\\我覺得你在裝，你在耍的花樣讓人......很難專注。//(5.5,35.5)\\\\我們就看看結果會是怎麼樣吧。",
+                    "jp": "//(0,5.4)\\\\ブラフをかけているのだろう。何かやろうとしている... 私の邪魔をしようと。//(5.4,35.4)\\\\だが結果はどうなるかな。"
+                }
+            }
+        ]
+    }
+}

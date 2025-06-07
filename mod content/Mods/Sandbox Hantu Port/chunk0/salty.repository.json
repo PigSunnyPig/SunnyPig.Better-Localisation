@@ -1,0 +1,341 @@
+{
+    "e690549c-d035-46fe-b175-2b73e1c048d3": {
+        "Description": "ui_salty_entrance_desc",
+        "Image": "images/salty_entrance1.jpg",
+        "Name_LOC": "ui_salty_entrance_name",
+        "Name": "Hantu Port Main Entrance"
+    },
+    "e690549c-d035-46fe-b175-2b73e1c048d1": {
+        "ID_": "e690549c-d035-46fe-b175-2b73e1c048d1",
+        "Description": "ui_salty_pier_desc",
+        "Image": "images/salty_pier.jpg",
+        "Name_LOC": "ui_salty_pier_name",
+        "Name": "Hantu Port Pier Entrance"
+    },
+    "e690549c-d035-46fe-b175-2b73e1c048d2": {
+        "ID_": "e690549c-d035-46fe-b175-2b73e1c048d2",
+        "Description": "ui_salty_cargo_desc",
+        "Image": "images/salty_cargo.jpg",
+        "Name_LOC": "ui_salty_cargo_name",
+        "Name": "Hantu Port Cargo Entrance"
+    },
+    "384c9fcb-6f7f-41b9-9029-cc6b3f583355": {
+        "ID_": "384c9fcb-6f7f-41b9-9029-cc6b3f583355",
+        "Description": "UI_AGENCYPICKUP_SALTY_SMALL_OFFICE_DESC",
+        "Image": "images/salty_officepickup.jpg",
+        "Name_LOC": "UI_AGENCYPICKUP_SALTY_SMALL_OFFICE_NAME",
+        "Name": "Unknown"
+    },
+    "384c9fcb-6f7f-41b9-9029-cc6b3f583353": {
+        "ID_": "384c9fcb-6f7f-41b9-9029-cc6b3f583353",
+        "Description": "UI_AGENCYPICKUP_SALTY_LARGE_HELIPAD_DESC",
+        "Image": "images/salty_helipadpickup.jpg",
+        "Name_LOC": "UI_AGENCYPICKUP_SALTY_LARGE_HELIPAD_NAME",
+        "Name": "Unknown"
+    },
+    "0e6add1b-4365-4418-af1f-5889b25d6330": {
+        "Image": "images/actors/dockworker_0.jpg"
+    },
+    "5de7c1e4-4152-45e3-9344-a6c9ac2c9aeb": {
+        "Image": "images/actors/dockworker_0.jpg"
+    },
+    "b6a37d16-a48b-42e1-93dd-189a7a05d4f7": {
+        "Image": "images/actors/dockworker_1.jpg"
+    },
+    "36354922-bcbd-4771-88fe-be0ffcc2228e": {
+        "Image": "images/actors/dockworker_1.jpg"
+    },
+    "ae36cecc-5322-49fe-8a33-21cffbfb97c5": {
+        "Image": "images/actors/dockworker_2.jpg"
+    },
+    "5c444ba4-cc7b-49fb-adcb-9c7fc892db88": {
+        "Image": "images/actors/dockworker_2.jpg"
+    },
+    "35b11c2a-6c43-495b-9742-782775d4dbb0": {  
+        "Image": "images/actors/dockworker_3.jpg"
+    },
+    "9156b47d-ad59-4c4b-ac4d-40a0f02f46ae": {
+        "Image": "images/actors/dockworker_3.jpg"
+    },
+    "26928fa8-386b-42d7-8184-0f230183520a": {
+        "Image": "images/actors/dockworker_4.jpg"
+    },
+    "7eba9603-573a-4144-87c5-607d1673d276": {
+        "Image": "images/actors/dockworker_4.jpg"
+    },
+    "3da15199-039c-4a06-99c0-583937d3b877": {
+        "Image": "images/actors/dockworker_5.jpg"
+    },
+    "c52fd250-afdc-4c16-8f95-1f0e9b2a29ba": {
+        "Image": "images/actors/dockworker_5.jpg"
+    },
+    "4b66edad-5d89-435e-8d9f-745c917a29ea": {
+        "Image": "images/actors/dockworker_6.jpg"
+    },
+    "72d181e4-fc2f-4fd6-9a11-8b2da220b94d": {
+        "Image": "images/actors/dockworker_7.jpg"
+    },
+    "20b4665d-9232-4c68-80ea-27a5eda553c4": {
+        "Image": "images/actors/dockworker_8.jpg"
+    },
+    "0cb9d334-99b3-4cab-9dba-6d7c3691a320": {
+        "Description": "Unknown",
+        "Description_LOC": "actor_description",
+        "Image": "images/actors/dockworker_8.jpg",
+        "ID_": "0cb9d334-99b3-4cab-9dba-6d7c3691a320",
+        "Name": "Ping Pong",
+        "Outfit": "2096b4c1-b687-4829-8a25-7854cde529a2"
+    },
+    "0cb9d334-99b3-4cab-9dba-6d7c3691a300": {
+        "Description": "Unknown",
+        "Description_LOC": "actor_description",
+        "Tile": "images/actors/default_target.png",
+        "Image": "images/actors/actor_88f1516f-f81d-4a7b-a593-0674e4091d36_0_0_0.jpg",
+        "ID_": "0cb9d334-99b3-4cab-9dba-6d7c3691a300",
+        "Name": "Tik Tok",
+        "Outfit": "88f1516f-f81d-4a7b-a593-0674e4091d36"
+    },
+      "0cb9d334-99b3-4cab-9dba-6d7c3691a301": {
+        "Description": "Unknown",
+        "Description_LOC": "actor_description",
+        "Tile": "images/actors/default_target.png",
+        "Image": "images/actors/actor_88f1516f-f81d-4a7b-a593-0674e4091d36_0_0_0.jpg",
+        "ID_": "0cb9d334-99b3-4cab-9dba-6d7c3691a301",
+        "Name": "Kim Jong-fun",
+        "Outfit": "88f1516f-f81d-4a7b-a593-0674e4091d36"
+    },
+    "0cb9d334-99b3-4cab-9dba-6d7c3691a302": {
+        "Description": "Unknown",
+        "Description_LOC": "actor_description",
+        "Tile": "images/actors/default_target.png",
+        "Image": "images/actors/actor_88f1516f-f81d-4a7b-a593-0674e4091d36_0_0_0.jpg",
+        "ID_": "0cb9d334-99b3-4cab-9dba-6d7c3691a302",
+        "Name": "Xi Pinjing",
+        "Outfit": "88f1516f-f81d-4a7b-a593-0674e4091d36"
+    },
+    "0cb9d334-99b3-4cab-9dba-6d7c3691a303": {
+        "Description": "Unknown",
+        "Description_LOC": "actor_description",
+        "Tile": "images/actors/default_target.png",
+        "Image": "images/actors/actor_88f1516f-f81d-4a7b-a593-0674e4091d36_0_0_0.jpg",
+        "ID_": "0cb9d334-99b3-4cab-9dba-6d7c3691a303",
+        "Name": "Tu Jinhao",
+        "Outfit": "88f1516f-f81d-4a7b-a593-0674e4091d36"
+    },
+    "0cb9d334-99b3-4cab-9dba-6d7c3691a304": {
+        "Description": "Unknown",
+        "Description_LOC": "actor_description",
+        "Tile": "images/actors/default_target.png",
+        "Image": "images/actors/actor_88f1516f-f81d-4a7b-a593-0674e4091d36_0_0_0.jpg",
+        "ID_": "0cb9d334-99b3-4cab-9dba-6d7c3691a304",
+        "Name": "Chairman Cheng",
+        "Outfit": "88f1516f-f81d-4a7b-a593-0674e4091d36"
+    },
+    "0cb9d334-99b3-4cab-9dba-6d7c3691a305": {
+        "Description": "Unknown",
+        "Description_LOC": "actor_description",
+        "Tile": "images/actors/default_target.png",
+        "Image": "images/actors/actor_88f1516f-f81d-4a7b-a593-0674e4091d36_0_0_0.jpg",
+        "ID_": "0cb9d334-99b3-4cab-9dba-6d7c3691a305",
+        "Name": "Sum Ting Wong",
+        "Outfit": "88f1516f-f81d-4a7b-a593-0674e4091d36"
+    },
+    "0cb9d334-99b3-4cab-9dba-6d7c3691a306": {
+        "Description": "Unknown",
+        "Description_LOC": "actor_description",
+        "Tile": "images/actors/default_target.png",
+        "Image": "images/actors/actor_88f1516f-f81d-4a7b-a593-0674e4091d36_0_0_0.jpg",
+        "ID_": "0cb9d334-99b3-4cab-9dba-6d7c3691a306",
+        "Name": "Kim Jong-nam",
+        "Outfit": "88f1516f-f81d-4a7b-a593-0674e4091d36"
+    },
+    "0cb9d334-99b3-4cab-9dba-6d7c3691a307": {
+        "Description": "Unknown",
+        "Description_LOC": "actor_description",
+        "Tile": "images/actors/default_target.png",
+        "Image": "images/actors/actor_88f1516f-f81d-4a7b-a593-0674e4091d36_0_0_0.jpg",
+        "ID_": "0cb9d334-99b3-4cab-9dba-6d7c3691a307",
+        "Name": "Yu Suk",
+        "Outfit": "88f1516f-f81d-4a7b-a593-0674e4091d36"
+    },
+    "0cb9d334-99b3-4cab-9dba-6d7c3691a308": {
+        "Description": "Unknown",
+        "Description_LOC": "actor_description",
+        "Tile": "images/actors/default_target.png",
+        "Image": "images/actors/sailor_1.jpg",
+        "ID_": "0cb9d334-99b3-4cab-9dba-6d7c3691a308",
+        "Name": "Kim Sung-il",
+        "Outfit": "bbffa24b-fa46-4f9d-a73d-71de56ff3bfd"
+    },
+    "0cb9d334-99b3-4cab-9dba-6d7c3691a309": {
+        "Description": "Unknown",
+        "Description_LOC": "actor_description",
+        "Tile": "images/actors/default_target.png",
+        "Image": "images/actors/sailor_2.jpg",
+        "ID_": "0cb9d334-99b3-4cab-9dba-6d7c3691a309",
+        "Name": "Jong Wang",
+        "Outfit": "bbffa24b-fa46-4f9d-a73d-71de56ff3bfd"
+    },
+    "0cb9d334-99b3-4cab-9dba-6d7c3691a310": {
+        "Description": "Unknown",
+        "Description_LOC": "actor_description",
+        "Tile": "images/actors/default_target.png",
+        "Image": "images/actors/sailor_0.jpg",
+        "ID_": "0cb9d334-99b3-4cab-9dba-6d7c3691a310",
+        "Name": "Liu Deman",
+        "Outfit": "bbffa24b-fa46-4f9d-a73d-71de56ff3bfd"
+    },
+    "0cb9d334-99b3-4cab-9dba-6d7c3691a311": {
+        "Description": "Unknown",
+        "Description_LOC": "actor_description",
+        "Tile": "images/actors/default_target.png",
+        "Image": "images/actors/sailor_0.jpg",
+        "ID_": "0cb9d334-99b3-4cab-9dba-6d7c3691a311",
+        "Name": "Jagiya Aegiya",
+        "Outfit": "bbffa24b-fa46-4f9d-a73d-71de56ff3bfd"
+    },
+    "644cf474-b9cf-497a-bd6f-e10df7d9ed31": {
+        "Image": "images/actors/sailor_1.jpg"
+    },
+    "55d0043f-501c-424b-998b-ea6decb7d092": {
+        "Image": "images/actors/sailor_3.jpg"
+    },
+    "0cb9d334-99b3-4cab-9dba-6d7c3691a312": {
+        "Description": "Unknown",
+        "Description_LOC": "actor_description",
+        "Tile": "images/actors/default_target.png",
+        "Image": "images/actors/hantu_security_0.jpg",
+        "ID_": "0cb9d334-99b3-4cab-9dba-6d7c3691a312",
+        "Name": "Zhou Lun Jing",
+        "Outfit": "8f928c7a-99dd-43db-a027-1310cf49f3ad"
+    },
+    "0cb9d334-99b3-4cab-9dba-6d7c3691a313": {
+        "Description": "Unknown",
+        "Description_LOC": "actor_description",
+        "Tile": "images/actors/default_target.png",
+        "Image": "images/actors/hantu_security_1.jpg",
+        "ID_": "0cb9d334-99b3-4cab-9dba-6d7c3691a313",
+        "Name": "Jing Lun Zhou",
+        "Outfit": "8f928c7a-99dd-43db-a027-1310cf49f3ad"
+    },
+    "0cb9d334-99b3-4cab-9dba-6d7c3691a314": {
+        "Description": "Unknown",
+        "Description_LOC": "actor_description",
+        "Tile": "images/actors/default_target.png",
+        "Image": "images/actors/hantu_security_2.jpg",
+        "ID_": "0cb9d334-99b3-4cab-9dba-6d7c3691a314",
+        "Name": "Kum Quat",
+        "Outfit": "8f928c7a-99dd-43db-a027-1310cf49f3ad"
+    },
+    "0cb9d334-99b3-4cab-9dba-6d7c3691a315": {
+        "Description": "Unknown",
+        "Description_LOC": "actor_description",
+        "Tile": "images/actors/default_target.png",
+        "Image": "images/actors/hantu_security_1.jpg",
+        "ID_": "0cb9d334-99b3-4cab-9dba-6d7c3691a315",
+        "Name": "Kelvin Chan",
+        "Outfit": "8f928c7a-99dd-43db-a027-1310cf49f3ad"
+    },
+    "0cb9d334-99b3-4cab-9dba-6d7c3691a316": {
+        "Description": "Unknown",
+        "Description_LOC": "actor_description",
+        "Tile": "images/actors/default_target.png",
+        "Image": "images/actors/hantu_security_0.jpg",
+        "ID_": "0cb9d334-99b3-4cab-9dba-6d7c3691a316",
+        "Name": "Tong Xinlien",
+        "Outfit": "8f928c7a-99dd-43db-a027-1310cf49f3ad"
+    },
+    "0cb9d334-99b3-4cab-9dba-6d7c3691a317": {
+        "Description": "Unknown",
+        "Description_LOC": "actor_description",
+        "Tile": "images/actors/default_target.png",
+        "Image": "images/actors/hantu_security_3.jpg",
+        "ID_": "0cb9d334-99b3-4cab-9dba-6d7c3691a317",
+        "Name": "Ni Hao",
+        "Outfit": "8f928c7a-99dd-43db-a027-1310cf49f3ad"
+    },
+    "0cb9d334-99b3-4cab-9dba-6d7c3691a318": {
+        "Description": "Unknown",
+        "Description_LOC": "actor_description",
+        "Tile": "images/actors/default_target.png",
+        "Image": "images/actors/hantu_security_2.jpg",
+        "ID_": "0cb9d334-99b3-4cab-9dba-6d7c3691a318",
+        "Name": "Lee Kum Kee",
+        "Outfit": "8f928c7a-99dd-43db-a027-1310cf49f3ad"
+    },
+    "0cb9d334-99b3-4cab-9dba-6d7c3691a319": {
+        "Description": "Unknown",
+        "Description_LOC": "actor_description",
+        "Tile": "images/actors/default_target.png",
+        "Image": "images/actors/pam.jpg",
+        "ID_": "0cb9d334-99b3-4cab-9dba-6d7c3691a319",
+        "Name": "Tan Halpert",
+        "Outfit": "81fc37ca-e20b-495f-961f-d5be311a6e6a"
+    },
+    "0cb9d334-99b3-4cab-9dba-6d7c3691a321": {
+        "Description": "Unknown",
+        "Description_LOC": "actor_description",
+        "Tile": "images/actors/default_target.png",
+        "Image": "images/actors/asian_jim.jpg",
+        "ID_": "0cb9d334-99b3-4cab-9dba-6d7c3691a321",
+        "Name": "Jim Halpert",
+        "Outfit": "81fc37ca-e20b-495f-961f-d5be311a6e6a"
+    },
+    "0cb9d334-99b3-4cab-9dba-6d7c3691a322": {
+        "Description": "Unknown",
+        "Description_LOC": "actor_description",
+        "Tile": "images/actors/default_target.png",
+        "Image": "images/actors/dwight.jpg",
+        "ID_": "0cb9d334-99b3-4cab-9dba-6d7c3691a322",
+        "Name": "Dawei Xu",
+        "Outfit": "81fc37ca-e20b-495f-961f-d5be311a6e6a"
+    },
+    "88f1516f-f81d-4a7b-a593-0674e4091d36": {
+        "ID_": "88f1516f-f81d-4a7b-a593-0674e4091d36",
+        "Description": "UI_HEAVENLYGUARDOUTFIT",
+        "HeroDisguiseAvailable": true,
+        "Image": "images/actors/actor_88f1516f-f81d-4a7b-a593-0674e4091d36_0_0_0.jpg",
+        "Name": "UI_HEAVENLYGUARDOUTFIT"
+    },
+    "2096b4c1-b687-4829-8a25-7854cde529a2": {
+        "Description": "OUTFITS_BANGKOK_WORKER_DOCKWORKER_M_HPA1073_DESCRIPTION_AE605162-AA6B-4292-8A84-21759F9A4D8B",
+        "HeroDisguiseAvailable": true,
+        "Image": "images/unlockables/outfit_c3af265c-7648-4ddb-a02b-ab605a053886_0.jpg",
+        "Name": "OUTFITS_BANGKOK_WORKER_DOCKWORKER_M_HPA1073_NAME_AE605162-AA6B-4292-8A84-21759F9A4D8B"
+    }, "8f928c7a-99dd-43db-a027-1310cf49f3ac": {
+        "ID_": "8f928c7a-99dd-43db-a027-1310cf49f3ac",
+        "CommonName": "Greenland_Guard_GenericSecurity_M_HPA752",
+        "Description": "OUTFITS_SAPIENZA_GUARD_SECURITY_M_HPA1261_DESCRIPTION_94A0D283-BEA4-468D-AD8F-EC2735008511",
+        "HeroDisguiseAvailable": true,
+        "Image": "images/unlockables/outfit_8f928c7a-99dd-43db-a027-1310cf49f3ad_0.jpg",
+        "Name": "OUTFITS_SAPIENZA_GUARD_SECURITY_M_HPA1261_NAME_94A0D283-BEA4-468D-AD8F-EC2735008511",
+        "Category": "",
+        "ImageTransparent": "",
+        "IsHitmanSuit": false,
+        "TokenID": ""
+    },
+    "bbffa24b-fa46-4f9d-a73d-71de56ff3bfd": {
+        "ID_": "bbffa24b-fa46-4f9d-a73d-71de56ff3bfd",
+        "CommonName": "Greenland_Worker_YachtCrew_M_HPA1299",
+        "Description": "outfits_greenland_worker_yachtcrew_m_hpa1299_description_bbffa24b-fa46-4f9d-a73d-71de56ff3bfe",
+        "HeroDisguiseAvailable": true,
+        "Image": "images/unlockables/outfit_bbffa24b-fa46-4f9d-a73d-71de56ff3bfe_0.jpg",
+        "Name": "UI_CREWOUTFIT",
+        "Category": "",
+        "ImageTransparent": "",
+        "IsHitmanSuit": false,
+        "TokenID": ""
+    },
+    "81fc37ca-e20b-495f-961f-d5be311a6e6a": {
+        "ID_": "81fc37ca-e20b-495f-961f-d5be311a6e6a",
+        "CommonName": "Trapped_Worker_Office_M",
+        "Description": "outfits_trapped_worker_office_m_description_81fc37ca-e20b-495f-961f-d5be311a6e6d",
+        "HeroDisguiseAvailable": true,
+        "Image": "images/unlockables/outfit_65f23b45-f5ab-4ede-82ec-46e4de38c0e9_0.jpg",
+        "Name": "outfits_trapped_worker_office_m_name_81fc37ca-e20b-495f-961f-d5be311a6e6d",
+        "Category": "",
+        "ImageTransparent": "",
+        "IsHitmanSuit": false,
+        "TokenID": ""
+    }
+}

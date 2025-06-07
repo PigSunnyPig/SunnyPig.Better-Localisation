@@ -1,0 +1,31 @@
+{
+    "3ec2d9e5-de9d-4ddc-969f-6f1565e5a291": {
+        "Perks": [
+            "variable"
+        ]
+    },
+    "43d15bea-d282-4a91-b625-8b7ba85c0ad5": {
+        "Perks": [
+            "piercing",
+            "variable",
+            "suppressor"
+        ]
+    },
+    "82642e14-c6d7-43b3-8b9c-396823a2859a": {
+        "Perks": [
+            "versatilescope",
+            "suppressor",
+            "marksman"
+        ]
+    },
+    "f5d0b800-bf37-41ff-bd19-4c04e3b69754": {
+        "Perks": [
+            "variable"
+        ]
+    },
+    "f5e3a7ca-d0d3-421e-b341-b5ba46bc900f": {
+        "Perks": [
+            "variable"
+        ]
+    }
+}

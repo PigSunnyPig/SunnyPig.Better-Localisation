@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "0023CE168724F2D3",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "4B951159",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "00B4633B5D84E078",
+        "defaultFfx": "00A4079281CC1177",
+        "languages": {
+            "en": "//(0,30)\\\\Le Chiffre. Believe we have a game tonight. Thought I would introduce myself...",
+            "fr": "//(0,1.236196)\\\\Le Chiffre.//(1.236196,31.2362)\\\\Nous jouons ensemble, ce soir, alors je venais me présenter...",
+            "it": "//(0,30)\\\\Le Chiffre. Direi che ci aspetta una partita stasera. Volevo presentarmi...",
+            "de": "//(0,3.9)\\\\Le Chiffre. Ich glaube, wir haben heute Abend ein Spiel miteinander.//(3.9,33.9)\\\\Ich dachte mir, dass ich mich vorstelle ...",
+            "es": "//(0,30)\\\\Le Chiffre. Creo que nos enfrentaremos en la partida de esta noche y me pareció adecuado presentarme.",
+            "ru": "//(0,2.85)\\\\Лё Шиффр. Думаю, мы с вами сегодня играем.//(4.064785,34.06479)\\\\Хотел представиться.",
+            "cn": "//(0,4.04908)\\\\勒·西弗。今晚有幸与你对局。//(4.04908,34.04908)\\\\到时候我会正式自我介绍......",
+            "tc": "//(0,30)\\\\勒．西弗。我們今晚有場牌局。我想先自我介紹一下......",
+            "jp": "//(0,4.05)\\\\ル・シッフルだ。今晩ポーカーのお相手をさせてもらう。//(4.05,34.05)\\\\自己紹介しようと思ってね..."
+        }
+    }
+}

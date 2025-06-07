@@ -1,0 +1,87 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "00BB0B4CB3ED3F01",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "9CB00F71",
+                "weight": 0.24999995529651375,
+                "soundtag": "In-world_Mission_Important",
+                "defaultWav": "003F886B1E0FE584",
+                "defaultFfx": "000A23EF1D0A7695",
+                "languages": {
+                    "en": "//(0,6.7)\\\\People like you need people like me... otherwise you would just be an idea.//(6.7,36.7)\\\\A very bad idea.",
+                    "fr": "//(0,3.5)\\\\Les gens comme vous ont besoin de gens comme moi... ou vous n'existeriez pas.//(3.5,7)\\\\Vous resteriez... un idéal.//(7,37)\\\\Je suis ce qui transforme cet idéal en réalité.",
+                    "it": "//(0,5.6)\\\\Quelli come te... hanno bisogno di quelli come me. Altrimenti sareste solo un'idea...//(6.6,36.6)\\\\Una pessima idea.",
+                    "de": "//(0,3.4)\\\\Leute wie Sie brauchen Leute wie mich ...//(3.4,6.6)\\\\Ansonsten wären Sie nur eine Idee ...//(6.6,36.6)\\\\Eine sehr schlechte Idee.",
+                    "es": "//(0,3.42)\\\\La gente como ustedes necesita a gente como yo...//(3.42,33.42)\\\\De no ser por nosotros, ustedes no existirían. No serían más que ideas... Yo soy quien hace realidad esas ideas.",
+                    "ru": "//(0,3.564785)\\\\Люди вроде тебя нуждаются в таких, как я...//(3.564785,5.905276)\\\\Без нас вы просто идея.//(5.905276,35.90528)\\\\Плохая идея.",
+                    "cn": "//(0,5.5)\\\\你们这种人需要我......否则你们根本不存在。//(6.757668,36.75767)\\\\你们只是一种妄想。",
+                    "tc": "//(0,6.7)\\\\你們這種人需要我這種人......否則你們根本不可能存在。//(6.7,36.7)\\\\你們只是一種癡心妄想。",
+                    "jp": "//(0,3.45)\\\\お前たちのような人間には、私のような人間が必要なんだ...//(3.45,33.45)\\\\でなければ、お前たちの理想を実現することなどできないだろう。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "05B95ECB",
+                "weight": 0.24999995529651375,
+                "soundtag": "In-world_Mission_Important",
+                "defaultWav": "00D6ACC357527909",
+                "defaultFfx": "00F997CED9ED4F8F",
+                "languages": {
+                    "en": "//(0,2.340491)\\\\Murillo will get his money.//(2.340491,7.5)\\\\I've invited these people for a reason. I know their weaknesses.//(7.5,13.4)\\\\Mr. Rangan, he's too impatient, and Miss Bai, well... she likes a drink.//(13.4,17.9)\\\\Don't know about the newcomer, Mr. Smith, though. He's the only wild card.//(17.9,47.9)\\\\But that's not your problem... foot soldier.",
+                    "fr": "//(0,7.021472)\\\\Murillo aura son argent. J'ai trié ces joueurs sur le volet. Je connais leurs faiblesses.//(7.021472,13.5)\\\\Rangan est impatient, Bai est... alcoolique, tout simplement.//(13.5,18.59583)\\\\Il n'y a qu'un impondérable dans l'équation : M.  Smith. Je ne sais pas grand-chose de lui.//(18.59583,48.59583)\\\\Mais ce ne sont pas les affaires d'un sbire.",
+                    "it": "//(0,2.340491)\\\\Murrello avrà i suoi soldi.//(2.340491,7.5)\\\\Ho invitato qui queste persone per un motivo. Conosco i loro punti deboli.//(7.5,13.4)\\\\Il signor Rangan è troppo impaziente e la signorina Bai, beh... le piace bere.//(13.4,17.8)\\\\Non so nulla del nuovo arrivato, il signor Smith. È l'unica incognita.//(17.8,47.8)\\\\Ma questo non è un problema tuo, soldato.",
+                    "de": "//(0,2.3)\\\\Murillo kriegt sein Geld.//(2.3,5.25)\\\\Ich habe diese Leute aus einem guten Grund eingeladen://(5.25,7.45)\\\\Ich kenne ihre Schwächen.//(7.45,13.2)\\\\Mr.  Rangan ist zu ungeduldig, und Miss Bai, nun ... Sie trinkt gern.//(13.2,16.4)\\\\Bei diesem Neuzugang, Mr.  Smith, bin ich nicht sicher.//(16.4,46.4)\\\\Er ist ein Joker. Doch das ist nicht Ihr Problem, Fußsoldat.",
+                    "es": "//(0,7.5)\\\\Murillo tendrá su dinero. He invitado a esta gente por un buen motivo. Conozco sus debilidades.//(7.5,13.5)\\\\El señor Rangan es demasiado impaciente, y a la señorita Bai..., bueno, le gusta beber.//(13.5,18)\\\\Aunque no sé nada del nuevo, el señor Smith. Es la única hoja en blanco.//(18,48)\\\\Pero eso no es asunto suyo, usted es solo un soldado raso.",
+                    "ru": "//(0,1.972393)\\\\Мурильо получит свои деньги.//(1.972393,4.95)\\\\Эти люди здесь не случайно.//(4.95,6.922392)\\\\Я знаю их слабости.//(6.922392,12.15)\\\\Ранжан слишком нетерпелив. Бай... ну, она любит выпить.//(13.46,17.9)\\\\А вот новичок, мистер Смит — единственная темная лошадка.//(17.9,47.9)\\\\Но это уже не твоя забота.",
+                    "cn": "//(0,2.6)\\\\穆律罗会拿到他的钱。//(2.6,7)\\\\我邀请这些人自有道理。我了解他们的弱点。//(7.4,13)\\\\朗甘先生太急躁，白小姐嘛......有点贪杯。//(13,16.2)\\\\不过这个新人史密斯先生，不大了解。//(16.2,46.2)\\\\他是唯一的变数。但这不是你这种小喽啰该操心的事。",
+                    "tc": "//(0,5.4)\\\\牟利羅的錢一分都不會少。我邀請這些人是有原因的。//(5.4,13.3)\\\\他們的弱點我都很清楚。朗甘先生沒耐性、白小姐愛喝酒。//(13.3,18)\\\\這新人史密斯先生我不太確定，他是唯一的我不清楚的。//(18,48)\\\\不過那不是你的問題，大頭兵。",
+                    "jp": "//(0,5.35)\\\\ムリージョの金は必ず返す。ここにこの人たちを呼んだのには理由がある。//(5.35,13.35)\\\\彼らの弱点を知っているんだ。ランガンは待つことができない。バイは... 酒が好きだ。//(13.35,43.35)\\\\新入りのスミスはよくわからない。あいつだけは不確定要素だ。でもそれはお前に関係ないことだろう、兵士。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "72BE6E5D",
+                "weight": 0.24999995529651375,
+                "soundtag": "In-world_Mission_Important",
+                "defaultWav": "0068649017CF5D33",
+                "defaultFfx": "00A99AF19F06F951",
+                "languages": {
+                    "en": "//(0,30)\\\\You talk too much. Murillo will have his money. Don't get ahead of yourself.",
+                    "fr": "//(0,1.604294)\\\\Vous parlez trop.//(1.604294,3.4)\\\\Votre général aura son argent, croyez-moi.//(3.4,33.4)\\\\Alors ne vous emballez pas.",
+                    "it": "//(0,30)\\\\Parli troppo. Il generale avrà i suoi soldi. Non montarti la testa.",
+                    "de": "//(0,1.6)\\\\Sie reden zu viel.//(1.6,31.6)\\\\Murello WIRD sein Geld bekommen. Überschätzen Sie sich nicht.",
+                    "es": "//(0,30)\\\\Habla usted demasiado. El general tendrá su dinero. No se venga arriba.",
+                    "ru": "//(0,30)\\\\Ты слишком много болтаешь. Генерал ПОЛУЧИТ свои деньги. Не забегай вперед.",
+                    "cn": "//(0,30)\\\\你话太多了。将军会拿到他的钱。别太看得起自己。",
+                    "tc": "//(0,30)\\\\你廢話太多了，牟利羅的錢一分都不會少。你也別想太多。",
+                    "jp": "//(0,30)\\\\お前は喋り過ぎだ。将軍は必ず金を取り戻す。あまり先のことは考えないほうがいい。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "ECDAFBFE",
+                "weight": 0.24999995529651375,
+                "soundtag": "In-world_Mission_Important",
+                "defaultWav": "00D190CCDE727A10",
+                "defaultFfx": "004A1C2081885B98",
+                "languages": {
+                    "en": "//(0,30)\\\\Please. Just stop talking.",
+                    "fr": "//(0,30)\\\\Taisez-vous, par pitié.",
+                    "it": "//(0,30)\\\\Ti prego. Chiudi quella bocca.",
+                    "de": "//(0,30)\\\\Bitte. Seien Sie einfach still.",
+                    "es": "//(0,30)\\\\Deje de hablar, por favor.",
+                    "ru": "//(0,30)\\\\Просто... помолчи.",
+                    "cn": "//(0,30)\\\\拜托。别再说了。",
+                    "tc": "//(0,30)\\\\拜託，別再說話了。",
+                    "jp": "//(0,30)\\\\お願いだ、少し黙っててくれ。"
+                }
+            }
+        ]
+    }
+}

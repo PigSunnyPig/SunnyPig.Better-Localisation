@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "0079523F1EE617DB",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "2794FCA8",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "002F153DAE0B200C",
+        "defaultFfx": "00AFB235A4701A9B",
+        "languages": {
+            "en": "//(0,30)\\\\Interesting... I was hoping to flip him tonight against the General.",
+            "fr": "//(0,2)\\\\Voyez-vous ça...//(2,32)\\\\J'espérais justement le retourner contre le général Murillo ce soir.",
+            "it": "//(0,30)\\\\Interessante... Stasera speravo di farlo giocare contro il generale Murrello.",
+            "de": "//(0,1.6)\\\\Interessant ...//(1.6,31.6)\\\\Ich hatte gehofft, ihn gegen General Murello anwerben zu können.",
+            "es": "//(0,30)\\\\Qué interesante... Tenía la esperanza de hacer que se enfrentase al general Murillo.",
+            "ru": "//(0,30)\\\\Любопытно... Я надеялся перетянуть его сегодня на свою сторону. Против генерала Мурильо.",
+            "cn": "//(0,30)\\\\有意思......我本想今晚利用他对付穆里洛将军。",
+            "tc": "//(0,30)\\\\真有趣......我今晚本來還打算讓他去對付將軍呢。",
+            "jp": "//(0,30)\\\\なるほど... 今晩そいつをムリージョ将軍の相手にさせようとおもってたところだったんだ。"
+        }
+    }
+}

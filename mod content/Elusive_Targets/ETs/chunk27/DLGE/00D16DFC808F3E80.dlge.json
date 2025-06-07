@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "00D16DFC808F3E80",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "807B5CB2",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "00FCF5377D7C93E0",
+        "defaultFfx": "00B2E55C58CCEF69",
+        "languages": {
+            "en": "//(0,30)\\\\Le Chiffre got it cleared.",
+            "fr": "//(0,30)\\\\Le Chiffre. Ça te parle ?",
+            "it": "//(0,30)\\\\Le Chiffre ha sistemato tutto.",
+            "de": "//(0,30)\\\\Le Chiffre hat das geklärt.",
+            "es": "//(0,30)\\\\Para Le Chiffre; lo tiene todo controlado.",
+            "ru": "//(0,30)\\\\Лё Шиффр всё уладил.",
+            "cn": "//(0,30)\\\\勒·西弗已经打点好了。",
+            "tc": "//(0,30)\\\\勒．西弗安排的。",
+            "jp": "//(0,30)\\\\ル・シッフルが話をつけたんだ。"
+        }
+    }
+}

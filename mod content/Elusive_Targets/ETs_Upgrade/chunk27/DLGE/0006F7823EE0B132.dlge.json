@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "0006F7823EE0B132",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ED659554",
+        "soundtag": "In-world_Maincharacter",
+        "defaultWav": "00BDAD8354CC29FD",
+        "defaultFfx": "009F65F3342E30BC",
+        "languages": {
+            "en": "//(0,30)\\\\No. I'm after Le Chiffre.",
+            "fr": "//(0,30)\\\\Non. C'est Le Chiffre qui nous intéresse.",
+            "it": "//(0,30)\\\\No. Sono qui per Le Chiffre.",
+            "de": "//(0,30)\\\\Nein. Ich habe es auf Le Chiffre abgesehen.",
+            "es": "//(0,30)\\\\No. Mi objetivo es Le Chiffre.",
+            "ru": "//(0,30)\\\\Нет. Моя цель — Лё Шиффр.",
+            "cn": "//(0,30)\\\\不，我盯的是勒·西弗。",
+            "tc": "//(0,30)\\\\不，我是來找勒．西弗的。",
+            "jp": "//(0,30)\\\\いや、標的はル・シッフルだ。"
+        }
+    }
+}

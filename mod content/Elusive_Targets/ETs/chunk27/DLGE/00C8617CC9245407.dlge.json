@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "00C8617CC9245407",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "6B7A8E88",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "00199AF68D7891E0",
+        "defaultFfx": "005207B00181F8F6",
+        "languages": {
+            "en": "//(0,1.4)\\\\Here we are.//(1.4,31.4)\\\\Monsieur Le Chiffre would like to introduce himself before the game begins. So please.",
+            "fr": "//(0,1.5)\\\\Voilà.//(1.5,5.417178)\\\\Monsieur Le Chiffre souhaite vous rencontrer avant que la partie commence.//(5.417178,35.41718)\\\\S'il vous plaît...",
+            "it": "//(0,30)\\\\Eccoci qui. Monsieur Le Chiffre desidera presentarsi prima dell'inizio della partita. Prego.",
+            "de": "//(0,1.35)\\\\Da wären wir.//(1.35,5.7)\\\\Monsieur Le Chiffre würde sich gern selbst vorstellen, bevor das Spiel beginnt.//(5.7,35.7)\\\\Also bitte.",
+            "es": "//(0,30)\\\\Aquí estamos. El monsieur Le Chiffre quiere conocerle antes de empezar la partida, así que, por favor...",
+            "ru": "//(0,30)\\\\Мы на месте. Месье Лё Шиффр хочет лично поприветствовать гостей перед началом. Прошу.",
+            "cn": "//(0,30)\\\\我们到了。在牌局开始前，勒·西弗先生会作自我介绍。请稍候。",
+            "tc": "//(0,30)\\\\到了。勒．西弗先生一般會在牌局開始前自我介紹。請自便。",
+            "jp": "//(0,30)\\\\着きました。ポーカーを始める前にル・シッフル様が自己紹介したいとのことです。こちらへ。"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "0015BA78314B7187",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "11E68179",
+        "soundtag": "In-world_Mission_ICAEarpiece",
+        "defaultWav": "00D7F85256CD0519",
+        "defaultFfx": "0013335DDD06D5DC",
+        "languages": {
+            "en": "//(0,30)\\\\Stop begging. It’s pathetic. Goodbye, Le Chiffre. See you in hell.",
+            "fr": "//(0,30)\\\\Cessez vos jérémiades, vous êtes pathétique. Adieu, M.  Le Chiffre.",
+            "it": "//(0,30)\\\\Smettila di supplicare. È patetico. Addio, Le Chiffre. Ci vediamo all'inferno.",
+            "de": "//(0,30)\\\\Nicht betteln. Das ist erbärmlich. Auf Wiedersehen, Le Chiffre – in der Hölle.",
+            "es": "//(0,30)\\\\Deja de suplicar, no seas patético. Adiós, Le Chiffre. Nos vemos en el infierno.",
+            "ru": "//(0,30)\\\\Не унижайся. Это жалко. Прощай, Лё Шиффр. Увидимся в аду.",
+            "cn": "//(0,1.472393)\\\\别求饶了。//(1.472393,4.2)\\\\真够可悲的。//(4.2,7)\\\\永别了，勒·西弗。//(7,37)\\\\地狱见。",
+            "tc": "//(0,30)\\\\別再求饒了，太可悲了。再見了，勒．西弗。地獄見。",
+            "jp": "//(0,30)\\\\命乞いはやめろ。みっともない。さようなら、ル・シッフル。地獄でまた会おう。"
+        }
+    }
+}

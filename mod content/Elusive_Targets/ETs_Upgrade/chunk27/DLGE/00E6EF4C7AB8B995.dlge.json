@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "00E6EF4C7AB8B995",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "80CFDA35",
+        "soundtag": "In-world_Maincharacter",
+        "defaultWav": "001E8302FF1C7750",
+        "defaultFfx": "00C37AB1640292F6",
+        "languages": {
+            "en": "//(0,30)\\\\You need to let me go. I don't care about Murillo – I just want Le Chiffre.",
+            "fr": "//(0,1.9)\\\\Laissez-moi partir.//(1.9,4.1)\\\\Murillo ne m'intéresse pas.//(4.1,34.1)\\\\C'est Le Chiffre que je veux.",
+            "it": "//(0,30)\\\\Devi lasciarmi andare. Non mi interessa Murrello, voglio solo Le Chiffre.",
+            "de": "//(0,1.9)\\\\Sie müssen mich gehen lassen.//(1.9,31.9)\\\\Murello ist mir völlig egal – ich will nur Le Chiffre.",
+            "es": "//(0,30)\\\\Tienes que soltarme. Me la trae al pairo Murillo: tan solo quiero a Le Chiffre.",
+            "ru": "//(0,30)\\\\Отпусти меня. Мне плевать на Мурильо — мне нужен Лё Шиффр.",
+            "cn": "//(0,30)\\\\你得放我走。我不管穆律罗，我只要勒齐弗。",
+            "tc": "//(0,30)\\\\你得放我走。我對牟利羅沒興趣，我要的是勒西弗。",
+            "jp": "//(0,3.85)\\\\俺を放してくれ。ムリージョはどうでもいいんだ。//(3.85,33.85)\\\\俺が狙っているのはル・シッフルだけだ。"
+        }
+    }
+}

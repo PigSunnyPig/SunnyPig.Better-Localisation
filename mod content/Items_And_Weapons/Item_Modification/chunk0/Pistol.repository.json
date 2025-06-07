@@ -17,5 +17,12 @@
             "suppressor",
             "steadyaim"
         ]
+    },
+    "4c9e7f92-c104-4587-8053-35e08f494110": {
+        "ItemType": "eGun_HardBaller_01",
+        "Perks": [
+            "suppressor",
+            "steadyaim"
+        ]
     }
 }

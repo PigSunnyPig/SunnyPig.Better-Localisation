@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "002369687FD7B755",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "D2346D41",
+        "soundtag": "Voiceover_Handler",
+        "defaultWav": "006553958534FACA",
+        "defaultFfx": "00DD8DD3926FBA5D",
+        "languages": {
+            "en": "//(0,1.5)\\\\This is it 47!//(1.5,31.5)\\\\If you can beat Le Chiffre, he will be financially destroyed. Then General Murillo will take care of the rest.",
+            "fr": "//(0,1.592393)\\\\Nous y sommes, 47 !//(1.592393,5.3)\\\\Si vous parvenez à battre Le Chiffre, il ne pourra pas rembourser ses dettes,//(5.3,35.3)\\\\et le général Murillo s'occupera du reste.",
+            "it": "//(0,1.224294)\\\\Ci siamo, 47!//(1.224294,31.22429)\\\\Se riesci a battere Le Chiffre, lui non potrà ripagare i suoi debiti e il generale Murrello si occuperà del resto.",
+            "de": "//(0,1.35)\\\\Jetzt kommt es darauf an, 47!//(1.35,5.35)\\\\Wenn Sie Le Chiffre schlagen können, kann er seine Schulden nicht zurückzahlen//(5.35,35.35)\\\\und General Murillo wird sich um den Rest kümmern.",
+            "es": "//(0,1.4)\\\\¡Ha llegado el momento, 47!//(1.4,31.4)\\\\Si logras derrotar a Le Chiffre, no podrá pagar su deuda y el general Murillo se encargará del resto.",
+            "ru": "//(0,1.2)\\\\47-й, вот он, решающий момент!//(1.2,31.2)\\\\Если победишь Лё Шиффра, он не сможет выплатить долги, и тогда Мурильо с ним разберется.",
+            "cn": "//(0,1.3)\\\\时机已到，47！//(1.3,5.3)\\\\若能击败勒·西弗，他将无力偿还债务，//(5.3,35.3)\\\\剩下的事情就交给穆里洛将军处理。",
+            "tc": "//(0,5.4)\\\\這就是關鍵，47！要是你能打敗勒．西弗，他就無法償還債務，//(5.4,35.4)\\\\這樣剩下的交給牟利羅將軍就行了。",
+            "jp": "//(0,30)\\\\これが最後よ、47！もしル・シッフルに勝てば、彼は借金を返済できなくなり、あとはムリージョ将軍が片付けてくれるわ。"
+        }
+    }
+}

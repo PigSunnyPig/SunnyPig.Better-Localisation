@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "0095E5F3D5314693",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "20A77BEB",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "00086D65A58E2ABB",
+        "defaultFfx": "008C7495B80679D1",
+        "languages": {
+            "en": "//(0,2.85)\\\\Let me worry about Murrello...//(2.85,32.85)\\\\I am intrigued, however...",
+            "fr": "//(0,30)\\\\Laissez-moi gérer le général. Mais ça m'intrigue...",
+            "it": "//(0,30)\\\\Lascia che mi occupi io di Murrello... Comunque, la cosa mi incuriosisce...",
+            "de": "//(0,2.8)\\\\Überlassen Sie es mir, mich um Murrello zu sorgen ...//(2.8,32.8)\\\\Ich bin aber auf jeden Fall interessiert ...",
+            "es": "//(0,30)\\\\De Murillo ya me encargo yo... Aunque todo esto me intriga...",
+            "ru": "//(0,30)\\\\О Мурильо я позабочусь... Но всё это, конечно, любопытно.",
+            "cn": "//(0,30)\\\\穆律罗那边交给我来处理......不过现在，我倒是很感兴趣......",
+            "tc": "//(0,30)\\\\牟利羅的事讓我來處理......但這個人可是讓我感到很好奇......",
+            "jp": "//(0,2.95)\\\\ムリージョのことは私に任せておけ...//(2.95,32.95)\\\\でも興味がわいてきた..."
+        }
+    }
+}

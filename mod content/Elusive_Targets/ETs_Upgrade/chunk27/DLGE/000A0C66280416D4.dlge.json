@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "000A0C66280416D4",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "6E487F06",
+        "soundtag": "In-world_Maincharacter",
+        "defaultWav": "009279C7C3EA30B6",
+        "defaultFfx": "00A26B166F0F01CA",
+        "languages": {
+            "en": "//(0,30)\\\\Agent Smith? Didn't recognize you with your clothes on.",
+            "fr": "//(0,30)\\\\Agent Smith ? Je ne vous avais pas reconnu avec tous ces vêtements.",
+            "it": "//(0,30)\\\\Agente Smith? Non ti avevo riconosciuto con i vestiti addosso.",
+            "de": "//(0,30)\\\\Agent Smith? Ich hatte Sie angezogen gar nicht erkannt.",
+            "es": "//(0,30)\\\\¿Agente Smith? No te había reconocido con la ropa puesta.",
+            "ru": "//(0,30)\\\\Агент Смит? Не признал тебя в одежде.",
+            "cn": "//(0,30)\\\\史密斯特工？你穿着衣服的样子，我差点没认出来了。",
+            "tc": "//(0,30)\\\\史密斯特務？你穿著衣服的樣子，我差點認不出來了。",
+            "jp": "//(0,30)\\\\エージェント・スミス？服を着ていたからわからなかった。"
+        }
+    }
+}

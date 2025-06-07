@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "006E5C5CB2ED9A11",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "1C33473D",
+        "soundtag": "Voiceover_Handler",
+        "defaultWav": "0015439FF838D85F",
+        "defaultFfx": "00004D6BF737D7BE",
+        "languages": {
+            "en": "//(0,7.5)\\\\The man threatening Le Chiffre, is General Vincente Murrillo. Colombian Fascist dictator in exile.//(7.5,10.6)\\\\A nasty piece of work if there ever was one.//(10.6,13.2)\\\\This could work to our advantage.//(13.2,20.35)\\\\I suggest you obtain an invite to Le Chiffre's poker game, beat him and let Murrillo take care of the rest.//(20.35,50.35)\\\\I'll find out who the three other guests are and mark them out.",
+            "fr": "//(0,7.7)\\\\L'homme qui menace Le Chiffre est le général Vicente Murillo, un dictateur fasciste colombien en exil.//(7.7,13.1)\\\\Un homme pour le moins détestable. Cela pourrait nous servir.//(13.1,16.8)\\\\Essayez de vous faire inviter à la table du Chiffre pour participer à sa partie,//(16.8,20)\\\\battez-le, et laissez Murillo s'occuper du reste.//(20,50)\\\\Je vais essayer d'identifier les trois autres joueurs.",
+            "it": "//(0,7.6)\\\\L'uomo che sta minacciando Le Chiffre è il generale Vincente Murrello, un dittatore fascista colombiano in esilio.//(7.6,13.2)\\\\È uno dei peggiori criminali che ci siano in circolazione. Questo potrebbe essere un vantaggio per noi.//(13.2,16.75)\\\\Ti consiglio di farti invitare alla partita di poker di Le Chiffre,//(16.75,20.6)\\\\batterlo e lasciare che Murrello si occupi del resto.//(20.6,50.6)\\\\Io cercherò di scoprire chi sono gli altri tre ospiti e te li indentificherò.",
+            "de": "//(0,3.95)\\\\Der Mann, der Le Chiffre bedroht, ist General Vincente Murrello,//(3.95,7.55)\\\\ehemaliger faschistischer Diktator Kolumbiens, der jetzt im Exil lebt.//(7.55,10.55)\\\\Ohne Zweifel ein wirklich schrecklicher Mensch.//(10.55,13.2)\\\\Das könnte für uns von Vorteil sein.//(13.2,16.65)\\\\Ich würde vorschlagen, Sie beschaffen sich eine Einladung zu Le Chiffres Pokerspiel,//(16.65,20.4)\\\\schlagen ihn und lassen Murrello den Rest übernehmen.//(20.4,50.4)\\\\Ich finde heraus, wo die drei anderen Gäste sind und markiere Sie Ihnen.",
+            "es": "//(0,3.96)\\\\El hombre que está amenazando a Le Chiffre es el general Vicente Murillo,//(3.96,10.4)\\\\un dictador fascista colombiano que vive en el exilio. De lo peor que te puedes encontrar.//(10.4,12.74049)\\\\Podríamos aprovecharnos de la situación.//(12.74049,18.05)\\\\Te sugiero que consigas una invitación para la partida de póquer de Le Chiffre, que lo derrotes y que dejes que//(18.05,48.05)\\\\Murillo se encargue del resto. Voy a intentar descubrir quiénes son los otros tres invitados y te los indico.",
+            "ru": "//(0,4.052883)\\\\Тот, кто угрожает Ле Шиффру, — генерал Виченте Мурильо.//(4.052883,10.4)\\\\Беглый колумбийский диктатор и фашист. Мерзкий тип, что и говорить.//(10.4,13.1)\\\\Это можно использовать.//(13.1,16.7)\\\\Предлагаю вот что: получи приглашение на игру,//(16.7,20.375)\\\\обыграй Лё Шиффра — а остальное за тебя сделает Мурильо.//(20.375,50.375)\\\\Я выясню, кто трое остальных гостей, и помечу их.",
+            "cn": "//(0,4.2)\\\\正在威胁勒齐弗的人是文森特·穆律罗将军——//(4.2,10.6)\\\\流亡的哥伦比亚法西斯独裁者，彻头彻尾的危险人物。//(10.6,13.2)\\\\这一局面或许能为我们所用。//(13.2,16.7)\\\\我的建议是：你争取获得勒齐弗赌局的邀请，//(16.7,20.2)\\\\在牌桌上击败他，之后交由穆律罗收尾。//(20.2,50.2)\\\\我会查明另外三位参与者的身份并做好标记。",
+            "tc": "//(0,4.5)\\\\正在威脅勒西弗的人就是文森特·牟利羅將軍。//(4.5,10.6)\\\\被放逐的哥倫比亞的法西斯獨裁者。這個人非常糟糕。//(10.6,13.3)\\\\或許我們可以善用這個情況。//(13.3,20.6)\\\\我建議你取得勒西弗牌局的邀請函，擊敗他然後把剩下的交給牟利羅。//(20.6,50.6)\\\\我去看看另外三名客人是誰，然後把他們標記出來。",
+            "jp": "//(0,10.1)\\\\ル・シッフルを脅迫している男は、ビセンテ・ムリージョ将軍。コロンビアのファシスト独裁者で、現在亡命中。まさに悪党中の悪党ね。//(10.1,20.2)\\\\これは私たちの有利に働くかもしれないわ。ル・シッフルのポーカーゲームへの招待状を入手し、彼に勝ち、後はムリージョに任せることを提案するわ。//(20.2,50.2)\\\\他の3人のゲストが誰なのか確認し、その人たちをマークするわね。"
+        }
+    }
+}

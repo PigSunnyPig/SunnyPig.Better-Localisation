@@ -1,0 +1,26 @@
+{
+	"2a48ddc7-859a-445c-8f53-fb3b1e642f42": {
+		"Description": "ui_starting_location_polar_test_gates_desc",
+		"Image": "images/facility/gates.png",
+		"Name": "Facility Gates Starting Location",
+		"Name_LOC": "ui_starting_location_polar_test_gates_name"
+	},
+	"172bde2d-2f0e-47b6-8bd4-8b9df1aeba33": {
+		"Description": "ui_starting_location_checkpoint_desc",
+		"Image": "images/facility/Checkpoint.png",
+		"Name": "Facility Gates Starting Location",
+		"Name_LOC": "ui_starting_location_checkpoint_name"
+	},
+	"59739ad0-bc5e-4106-9b30-253f07b15b9a": {
+		"Description": "ui_starting_location_polar_abandoned_shed_desc",
+		"Image": "images/facility/shed.png",
+		"Name": "Abandoned Shed Starting Location",
+		"Name_LOC": "ui_starting_location_polar_abandoned_shed_name"
+	},
+	"57c458e1-1064-4cb1-aaad-63e2bf071365": {
+		"Description": "ui_starting_location_scaffolding_desc",
+		"Image": "images/facility/MAINTENCE.png",
+		"Name": "Facility Gates Starting Location",
+		"Name_LOC": "ui_starting_location_scaffolding_name"
+	}
+}

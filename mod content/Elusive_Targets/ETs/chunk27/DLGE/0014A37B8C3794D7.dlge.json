@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "0014A37B8C3794D7",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "AC323DF8",
+        "soundtag": "In-world_Maincharacter",
+        "defaultWav": "000E2CFC89DC3508",
+        "defaultFfx": "00AC59A6AC11FFDA",
+        "languages": {
+            "en": "//(0,30)\\\\Agent Smith!",
+            "fr": "//(0,30)\\\\Agent Smith !",
+            "it": "//(0,30)\\\\Agente Smith!",
+            "de": "//(0,30)\\\\Agent Smith!",
+            "es": "//(0,30)\\\\¡Agente Smith!",
+            "ru": "//(0,30)\\\\Агент Смит!",
+            "cn": "//(0,30)\\\\史密斯特工！",
+            "tc": "//(0,30)\\\\史密斯特務！",
+            "jp": "//(0,30)\\\\エージェント・スミス！"
+        }
+    }
+}

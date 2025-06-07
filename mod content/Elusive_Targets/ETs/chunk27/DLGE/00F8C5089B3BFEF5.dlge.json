@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "00F8C5089B3BFEF5",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "0244A5DA",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "006F9B0FC90BE6FD",
+        "defaultFfx": "00DDB5B23BDE9F7E",
+        "languages": {
+            "en": "//(0,30)\\\\Well, well... What a pleasant surprise. I can read you after all, my dear Le Chiffre.",
+            "fr": "//(0,2.092393)\\\\Eh bien, eh bien...//(2.092393,5.3)\\\\Quelle douce surprise.//(5.3,35.3)\\\\Il semblerait que j'aie enfin réussi à vous lire, mon cher Le Chiffre.",
+            "it": "//(0,30)\\\\Bene, bene... Che piacevole sorpresa. Ammetterai che riesco a leggerti, mio caro Le Chiffre.",
+            "de": "//(0,2.1)\\\\Also wirklich ...//(2.1,4.85)\\\\Was für eine angenehme Überraschung.//(4.85,34.85)\\\\Ich kann Sie also doch lesen, mein lieber Le Chiffre.",
+            "es": "//(0,30)\\\\Vaya, vaya, qué sorpresa tan agradable. Parece que al final sí que te tengo calado, mi querido Le Chiffre.",
+            "ru": "//(0,30)\\\\Ну и ну... Какой приятный сюрприз. Кажется, я всё-таки могу тебя читать, дорогой Лё Шиффр.",
+            "cn": "//(0,5)\\\\哟哟哟......真是个惊喜啊。//(5,35)\\\\我也能看透你的心思，亲爱的勒·西弗。",
+            "tc": "//(0,30)\\\\喔喔......真是令人意外。我果然還是看穿了你，親愛的勒．西弗。",
+            "jp": "//(0,5)\\\\これは... 驚いたわね。//(5,35)\\\\どうやら私はあなたの心を読むことができるみたいね。"
+        }
+    }
+}

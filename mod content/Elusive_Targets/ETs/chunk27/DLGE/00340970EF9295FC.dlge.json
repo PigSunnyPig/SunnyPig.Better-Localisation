@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "00340970EF9295FC",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "C111B8CB",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "00405A240958E97F",
+        "defaultFfx": "00CCEA7CBFC66F61",
+        "languages": {
+            "en": "//(0,6.7)\\\\As per Mr. Le Chiffres arrangements, we are going to play a cash game of Texas Hold'em Poker.//(6.7,36.7)\\\\Your pre-bought chips have been placed on the table before you.",
+            "fr": "//(0,7)\\\\Nous jouerons une partie de Texas Hold'em Poker en cash game, selon les préférences de M.  Le Chiffre.//(7,37)\\\\Vos jetons préachetés ont déjà été placés sur la table.",
+            "it": "//(0,7)\\\\Come da accordi con il signor Le Chiffre, giocheremo una partita di poker Texas Hold'em con denaro reale.//(7,37)\\\\Le fiches che avete acquistato in precedenza sono state disposte sul tavolo davanti a voi.",
+            "de": "//(0,6.7)\\\\Wie mit Monsieur Le Chiffre besprochen, spielen wir Texas-Hold’em-Poker mit Cash-Einsatz.//(6.7,36.7)\\\\Ihre bereits erworbenen Chips wurden auf den Tisch vor Sie gelegt.",
+            "es": "//(0,6.6)\\\\Siguiendo con las indicaciones del señor Le Chiffre, vamos a jugar póquer al estilo Texas Hold'em.//(6.6,36.6)\\\\Las fichas que han adquirido de forma anticipada están dispuestas en la mesa ante ustedes.",
+            "ru": "//(0,6.73)\\\\По распоряжению месье Лё Шиффра, сегодня мы играем в техасский холдем.//(6.73,36.73)\\\\Фишки уже лежат перед вами.",
+            "cn": "//(0,6.6)\\\\按照勒·西弗先生的安排，本次将进行德州扑克现金局。//(6.6,36.6)\\\\诸位的预付筹码已放在身前桌上。",
+            "tc": "//(0,6.7)\\\\按照勒．西弗的安排，我們今天要來玩一場現金德州撲克。//(6.7,36.7)\\\\各位預先購買的籌碼已經準備好放在桌上了。",
+            "jp": "//(0,6.65)\\\\ル・シッフル氏の取り決めにより、テキサス・ホールデム・ポーカーのキャッシュゲームを行うことになりました。//(6.65,36.65)\\\\事前に購入されたチップは、皆様の席の前に用意されています。"
+        }
+    }
+}

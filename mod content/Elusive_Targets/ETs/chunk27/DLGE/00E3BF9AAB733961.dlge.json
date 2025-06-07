@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "00E3BF9AAB733961",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "A25E99CE",
+        "soundtag": "Voiceover_Handler",
+        "defaultWav": "000611B4A054FC22",
+        "defaultFfx": "00187C9D297FD343",
+        "languages": {
+            "en": "//(0,2.4)\\\\A little warmup before you face Le Chiffre?//(2.4,32.4)\\\\Good idea 47... I'll provide analysis to assist.",
+            "fr": "//(0,2.708589)\\\\Un échauffement avant d'affronter Le Chiffre ?//(2.708589,3.944785)\\\\Bonne idée...//(3.944785,33.94479)\\\\Je vais vous aider un peu avec des analyses.",
+            "it": "//(0,30)\\\\Un po' di riscaldamento prima di affrontare Le Chiffre? Ottima idea, 47... Ti darò una mano con l'analisi.",
+            "de": "//(0,2.5)\\\\Ein kleines Warm-up, bevor Sie sich Le Chiffre stellen?//(2.5,32.5)\\\\Gute Idee, 47 ... Ich versorge Sie mit einer Analyse, um Ihnen zu helfen.",
+            "es": "//(0,30)\\\\¿Vas a calentar un poco antes de enfrentarte a Le Chiffre? Buena idea, 47... Te pasaré análisis para ayudarte.",
+            "ru": "//(0,2.5)\\\\Небольшая разминка перед встречей с Лё Шиффром?//(2.5,32.5)\\\\Хорошая идея, 47-й. Я пока проведу анализ для подстраховки.",
+            "cn": "//(0,2.6)\\\\在去见勒·西弗之前，先来点热身？//(2.6,32.6)\\\\好主意，47......我会提供分析以协助决策。",
+            "tc": "//(0,4)\\\\對付勒．西弗前先來暖身一下？好主意，47......//(4,34)\\\\我來提供分析來協助你。",
+            "jp": "//(0,2.5)\\\\ル・シッフルの相手をする前にウォーミングアップってとこかしら？//(2.5,32.5)\\\\いい考えね... 私も分析して手伝うわ。"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "00D99981C49A6DF6",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "13F4C188",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "0018B8BA2FE5436E",
+        "defaultFfx": "001C5C3AF6E10CD3",
+        "languages": {
+            "en": "//(0,4.4)\\\\I've tried everything. Used all the connections I have.//(4.4,9.4)\\\\Either this man is a big \"deep state\" player or undercover.//(9.4,39.4)\\\\Le Chiffre – I don't like this.",
+            "fr": "//(0,4.312883)\\\\J'ai cherché absolument partout. Fait jouer toutes mes relations.//(4.312883,9.7)\\\\Soit votre homme est un gros bonnet de l'État profond, soit c'est un agent infiltré...//(9.7,10.8)\\\\Le Chiffre...//(10.8,40.8)\\\\Je n'aime pas ça.",
+            "it": "//(0,4.4)\\\\Ho provato di tutto. Ho usato tutti i miei contatti.//(4.4,9.35)\\\\O quest'uomo è un pezzo grosso del \"deep state\" o è sotto copertura.//(9.35,39.35)\\\\Le Chiffre... La cosa non mi piace.",
+            "de": "//(0,4.3)\\\\Ich habe alles versucht. Alle Verbindungen genutzt, die ich habe.//(4.3,9.5)\\\\Entweder dieser Kerl ist eine große Nummer im Deep State oder undercover.//(9.5,39.5)\\\\Le Chiffre – mir gefällt das nicht.",
+            "es": "//(0,4.3)\\\\Lo he intentado todo. He recurrido a todos mis contactos.//(4.3,34.3)\\\\O este hombre es un gran jugador clandestino, o es alguien infiltrado. Le Chiffre, esto no me gusta...",
+            "ru": "//(0,4.45)\\\\Я всё перепробовал. Все связи задействовал.//(4.45,9.6)\\\\Этот человек либо из глубин госструктур, либо под прикрытием.//(9.6,39.6)\\\\Мне это не нравится, Лё Шиффр.",
+            "cn": "//(0,4.35)\\\\我已经竭尽所能了，动用了所有关系网。//(4.35,9.4)\\\\这人要么是“深层政府”的大人物，要么就是卧底。//(9.4,39.4)\\\\勒·西弗，感觉不对劲。",
+            "tc": "//(0,4.5)\\\\我什麼方法都試了。我用盡我所有人脈。//(4.5,34.5)\\\\這傢伙不是「深層政府」的大人物，就是臥底。勒．西弗，這感覺不妙。",
+            "jp": "//(0,4)\\\\あらゆる手を尽くしました。人脈もすべて使い果たしました。//(4,9.4)\\\\この男は、大物「ディープステート」の人物か、あるいは覆面捜査官かのどちらかです。//(9.4,39.4)\\\\ル・シッフル、これはまずい状況ですよ。"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "008242C5F561D472",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "EED2CE30",
+        "soundtag": "In-world_Maincharacter",
+        "defaultWav": "00E9866EB0CB5F5D",
+        "defaultFfx": "006FE43D3F644B3A",
+        "languages": {
+            "en": "//(0,5.5)\\\\I represent an organization with a considerable... reach.//(5.5,35.5)\\\\It's imperative to us that Le Chiffre loses tonight. We need you to ensure this.",
+            "fr": "//(0,5.8)\\\\Je représente une organisation à l'influence... étendue.//(5.8,10.4)\\\\Nous souhaitons que Le Chiffre perde ce soir...//(10.4,40.4)\\\\et vous devez y veiller pour nous.",
+            "it": "//(0,5.55)\\\\Rappresento un'organizzazione con una notevole... influenza.//(5.55,35.55)\\\\Per noi è fondamentale che Le Chiffre perda stasera. Abbiamo bisogno che lei se ne assicuri.",
+            "de": "//(0,4)\\\\Ich vertrete eine Organisation mit beträchtlichem ...//(4,5.5)\\\\Einfluss.//(5.5,10.35)\\\\Es ist uns wichtig, dass Le Chiffre heute Abend verliert.//(10.35,40.35)\\\\Sie müssen für uns dafür sorgen.",
+            "es": "//(0,5.2)\\\\Represento a una organización con un alcance... considerable.//(5.2,35.2)\\\\Es fundamental para nosotros que Le Chiffre pierda esta noche. Necesitamos que nos ayude a conseguirlo.",
+            "ru": "//(0,5.4)\\\\Я представляю организацию с весьма... широким охватом.//(5.4,35.4)\\\\Нам крайне важно, чтобы Лё Шиффр сегодня проиграл. Вам нужно это обеспечить.",
+            "cn": "//(0,5.8)\\\\我代表某个特殊机构，它的触角遍布全球。//(5.8,35.8)\\\\勒·西弗今晚必须输掉牌局。而你要确保实现这一点。",
+            "tc": "//(0,5.7)\\\\我代表一個勢力......廣泛的組織。//(5.7,35.7)\\\\我們必須確保勒．西弗今晚輸掉比賽，我們需要你來完成這件事。",
+            "jp": "//(0,5.65)\\\\俺は強力な組織の代表者だ。//(5.65,10.55)\\\\ル・シッフルは必ず負けないといけない。//(10.55,40.55)\\\\そして、君の協力が必要なんだ。"
+        }
+    }
+}

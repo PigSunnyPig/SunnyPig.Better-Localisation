@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "0044FC8D59D6AEAF",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "A5FB9279",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "0005CD59B0A0CC74",
+        "defaultFfx": "00D37D4BB848A199",
+        "languages": {
+            "en": "//(0,30)\\\\The one and only... Mr. Le Chiffre. Heard you are quite the shark.",
+            "fr": "//(0,4.2)\\\\Ah, l'inénarrable M. Le Chiffre.//(4.2,34.2)\\\\Votre réputation vous précède.",
+            "it": "//(0,30)\\\\L'unico e il solo... signor Le Chiffre. Un vero squalo, a quanto ho sentito.",
+            "de": "//(0,4)\\\\Der einzigartige ... Mr.  Le Chiffre.//(4,34)\\\\Ich hatte gehört, Sie sind ein richtiger Hai.",
+            "es": "//(0,30)\\\\El señor Le Chiffre en carne y hueso... Dicen que es usted todo un tiburón.",
+            "ru": "//(0,3.208589)\\\\Единственный и неповторимый... Мистер Лё Шиффр.//(3.208589,33.20859)\\\\Говорят, вы настоящая акула покера.",
+            "cn": "//(0,3.9)\\\\如假包换的......勒·西弗先生。//(3.9,33.9)\\\\听闻你是牌桌大鳄。",
+            "tc": "//(0,30)\\\\原來是你啊......勒．西弗先生。聽說你是個撲克高手。",
+            "jp": "//(0,30)\\\\あなたが噂の... ル・シッフルですか。相当なやり手だと聞きましたが。"
+        }
+    }
+}

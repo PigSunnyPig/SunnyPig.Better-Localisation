@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "005D3325FF4EE080",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "423C5CD4",
+        "soundtag": "In-world_Maincharacter",
+        "defaultWav": "00129866AC99BFF6",
+        "defaultFfx": "00EA6E222CC5CA97",
+        "languages": {
+            "en": "//(0,30)\\\\Agent Smith, I don't have time...",
+            "fr": "//(0,30)\\\\Agent Smith, si vous voulez bien...",
+            "it": "//(0,30)\\\\Agente Smith, non ho tempo per queste cose...",
+            "de": "//(0,30)\\\\Agent Smith, ich habe keine Zeit ...",
+            "es": "//(0,30)\\\\Smith, no tengo tiempo para esto...",
+            "ru": "//(0,30)\\\\Агент Смит, у меня нет времени...",
+            "cn": "//(0,30)\\\\史密斯特工，我没多少时间......",
+            "tc": "//(0,30)\\\\史密斯特務，我沒多少時間......",
+            "jp": "//(0,30)\\\\エージェント・スミス。今はそんな暇ないんだ..."
+        }
+    }
+}

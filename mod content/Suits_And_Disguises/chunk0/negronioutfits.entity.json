@@ -1,1 +1,541 @@
-{"tempHash":"00798D74EB61B319","tbluHash":"0051B1FC6092ACF4","rootEntity":"fffffffffffffffe","entities":{"38d9517d7daac2dc":{"parent":"f3f97c5077fc4649","name":"ElusiveTarget_Unique_Negroni_M_HPA986","factory":"[modules:/zglobaloutfitkit.class].pc_entitytype","blueprint":"[modules:/zglobaloutfitkit.class].pc_entityblueprint","properties":{"m_fHitPoints":{"type":"float32","value":-1},"m_DamageMultipliers":{"type":"SBodyPartDamageMultipliers","value":{"m_fHeadDamageMultiplier":3,"m_fFaceDamageMultiplier":3,"m_fArmDamageMultiplier":1,"m_fLArmDamageScalar":0,"m_fRArmDamageScalar":0,"m_fHandDamageMultiplier":0.5,"m_fLHandDamageScalar":0,"m_fRHandDamageScalar":0,"m_fLegDamageMultiplier":0.6000000238418579,"m_fLLegDamageScalar":0,"m_fRLegDamageScalar":0,"m_fTorsoDamageMultiplier":1,"m_bApplyLeftRightScalars":false}},"m_eActorType":{"type":"EActorType","value":"eAT_Civilian"},"m_eActorCCClass":{"type":"EActorCCPreset","value":"ACCP_CivilianeMale"},"m_sId":{"type":"ZGuid","value":"6632efa6-63c2-48b8-aff2-655440bba5dc"},"m_pParentOutfit":{"type":"SEntityTemplateReference","value":{"ref":"6736fcbbd3e73209","externalScene":"[assembly:/_pro/scenes/bricks/globaldata.brick].pc_entitytype"}},"m_sCommonName":{"type":"ZString","value":"ElusiveTarget_Unique_Negroni_M_HPA986_A"},"m_sTitle":{"type":"ZString","value":"Renzo Caruso"},"m_bHeroDisguiseAvailable":{"type":"bool","value":false},"m_rNameTextResource":{"type":"ZRuntimeResourceID","value":{"resource":"[assembly:/localization/hitman6/conversations/ui/pro/online/repository/outfits_elusivetargets.sweetmenutext?/6632efa6-63c2-48b8-aff2-655440bba5dc_et_negroni_name.sweetline].pc_sweetline","flag":"5F"}},"m_rDescriptionTextResource":{"type":"ZRuntimeResourceID","value":{"resource":"[assembly:/localization/hitman6/conversations/ui/pro/online/repository/outfits_elusivetargets.sweetmenutext?/6632efa6-63c2-48b8-aff2-655440bba5dc_et_negroni_desc.sweetline].pc_sweetline","flag":"5F"}},"m_rDefaultVoiceVariations":{"type":"TArray<EActorVoiceVariation>","value":["eAVV_CIVMALE03"]},"m_eSoundFootwearType":{"type":"EHM5SoundFootwearType","value":"EFWT_LEATHER"},"m_aCharSets":{"type":"TArray<SEntityTemplateReference>","value":["ee0cc199e4332768"],"postInit":true}}},"a82508289b6f2438":{"parent":"70a3687ad3aa8ba2","name":"Prof_Sapienza","factory":"[assembly:/_pro/design/actor/profession.template?/prof_sapienza.entitytemplate].pc_entitytype","blueprint":"[assembly:/_pro/design/actor/profession.template?/prof_sapienza.entitytemplate].pc_entityblueprint","properties":{"m_aHolders":{"type":"TArray<SEntityTemplateReference>","value":["70a3687ad3aa8ba2"],"postInit":true}}},"72de80036e60be02":{"parent":"562540728d16c206","name":"Keyword_Prof_Class_Default","factory":"007A51A2AFEC0D1A","blueprint":"00B0282A41C1CF2E","properties":{"m_aHolders":{"type":"TArray<SEntityTemplateReference>","value":["562540728d16c206"],"postInit":true}}},"9df8442f32d96cad":{"parent":"562540728d16c206","name":"Prof_Sapienza_Guard_Mansion","factory":"[assembly:/_pro/design/actor/profession.template?/prof_sapienza_guard_mansion.entitytemplate].pc_entitytype","blueprint":"[assembly:/_pro/design/actor/profession.template?/prof_sapienza_guard_mansion.entitytemplate].pc_entityblueprint","properties":{"m_aHolders":{"type":"TArray<SEntityTemplateReference>","value":["562540728d16c206"],"postInit":true}}},"f3345788c97a3152":{"parent":"562540728d16c206","name":"ItemKey_SMG02 NPC","factory":"[modules:/zitemrepositorykeyentity.class].pc_entitytype","blueprint":"[modules:/zitemrepositorykeyentity.class].pc_entityblueprint","properties":{"m_RepositoryId":{"type":"ZGuid","value":"3fd9825d-8aa5-48e0-97a9-ec8f541f871a"}}},"dedada3c439e4541":{"parent":"562540728d16c206","name":"ItemKey_AssaultRifle02 NPC","factory":"[modules:/zitemrepositorykeyentity.class].pc_entitytype","blueprint":"[modules:/zitemrepositorykeyentity.class].pc_entityblueprint","properties":{"m_RepositoryId":{"type":"ZGuid","value":"16edb112-58cc-4069-a7dd-ebd258b14044"}}},"1c82d2419363412c":{"parent":"562540728d16c206","name":"Foley_Bodyguard","factory":"[assembly:/_pro/design/gamecore/keywords/keywordsound.template?/keywordentity_foley_outfit_bodyguard.entitytemplate].pc_entitytype","blueprint":"[assembly:/_pro/design/gamecore/keywords/keywordsound.template?/keywordentity_foley_outfit_bodyguard.entitytemplate].pc_entityblueprint","properties":{"m_rHolder":{"type":"SEntityTemplateReference","value":"562540728d16c206","postInit":true}}},"f07a512e625b33bc":{"parent":"562540728d16c206","name":"Keyword_Prof_Class_Guard_Light","factory":"003F8A8A859AE133","blueprint":"0059DEB85AA5AFED","properties":{"m_aHolders":{"type":"TArray<SEntityTemplateReference>","value":["562540728d16c206"],"postInit":true}}},"3f7e25e531ff69a6":{"parent":"562540728d16c206","name":"ItemKey_Pistol02 NPC","factory":"[modules:/zitemrepositorykeyentity.class].pc_entitytype","blueprint":"[modules:/zitemrepositorykeyentity.class].pc_entityblueprint","properties":{"m_RepositoryId":{"type":"ZGuid","value":"2953e9ac-e25b-41ae-afbf-4a47f86c4f54"}}},"562540728d16c206":{"parent":"f3f97c5077fc4649","name":"Caruso Security_M_HPA1796","factory":"[modules:/zglobaloutfitkit.class].pc_entitytype","blueprint":"[modules:/zglobaloutfitkit.class].pc_entityblueprint","properties":{"m_DamageMultipliers":{"type":"SBodyPartDamageMultipliers","value":{"m_fHeadDamageMultiplier":3,"m_fFaceDamageMultiplier":3,"m_fArmDamageMultiplier":1,"m_fLArmDamageScalar":0,"m_fRArmDamageScalar":0,"m_fHandDamageMultiplier":0.5,"m_fLHandDamageScalar":0,"m_fRHandDamageScalar":0,"m_fLegDamageMultiplier":0.6000000238418579,"m_fLLegDamageScalar":0,"m_fRLegDamageScalar":0,"m_fTorsoDamageMultiplier":1,"m_bApplyLeftRightScalars":false}},"m_bHeroDisguiseAvailable":{"type":"bool","value":true},"m_bWeaponsAllowed":{"type":"bool","value":true},"m_eSoundFootwearType":{"type":"EHM5SoundFootwearType","value":"EFWT_LEATHER"},"m_sId":{"type":"ZGuid","value":"95949c3a-8882-4528-bad5-ad1da3cee57b"},"m_pParentOutfit":{"type":"SEntityTemplateReference","value":{"ref":"1357f3657950d38e","externalScene":"[assembly:/_pro/scenes/bricks/globaldata.brick].pc_entitytype"}},"m_sCommonName":{"type":"ZString","value":"Caruso Security_M_HPA1796"},"m_sTitle":{"type":"ZString","value":"Caruso Security"},"m_eOutfitAICategory":{"type":"EOutfitAICategory","value":"OAC_Bodyguard"},"m_rNameTextResource":{"type":"ZRuntimeResourceID","value":{"resource":"[assembly:/localization/hitman6/conversations/ui/pro/online/repository/outfits_elusivetargets.sweetmenutext?/95949c3a-8882-4528-bad5-ad1da3cee57b_et_negroni_carusosecurity_name.sweetline].pc_sweetline","flag":"5F"}},"m_rDefaultVoiceVariations":{"type":"TArray<EActorVoiceVariation>","value":["eAVV_THUGES01","eAVV_THUGES02","eAVV_THUGES03"]},"m_rDescriptionTextResource":{"type":"ZRuntimeResourceID","value":{"resource":"[assembly:/localization/hitman6/conversations/ui/pro/online/repository/outfits_elusivetargets.sweetmenutext?/95949c3a-8882-4528-bad5-ad1da3cee57b_et_negroni_carusosecurity_name.sweetline].pc_sweetline","flag":"5F"}},"m_aCharSets":{"type":"TArray<SEntityTemplateReference>","value":["54ff267e507da795"],"postInit":true},"m_AvailableWeaponKeys":{"type":"TArray<SEntityTemplateReference>","value":["3f7e25e531ff69a6","f3345788c97a3152","97dd22fb7034d16e","dedada3c439e4541"],"postInit":true}}},"c0726ede0008c2d2":{"parent":"70a3687ad3aa8ba2","name":"Prof_Sapienza_Unique","factory":"[assembly:/_pro/design/actor/profession.template?/prof_sapienza_unique.entitytemplate].pc_entitytype","blueprint":"[assembly:/_pro/design/actor/profession.template?/prof_sapienza_unique.entitytemplate].pc_entityblueprint","properties":{"m_aHolders":{"type":"TArray<SEntityTemplateReference>","value":["70a3687ad3aa8ba2"],"postInit":true}}},"54ff267e507da795":{"parent":"562540728d16c206","name":"CHARSET_Hippo_Guard_Mansion_M","factory":"[assembly:/_pro/characters/templates/hippo/char_hippo_guards.template?/charset_hippo_guard_mansion_m.entitytemplate].pc_entitytype","blueprint":"[assembly:/_pro/characters/templates/hippo/char_hippo_guards.template?/charset_hippo_guard_mansion_m.entitytemplate].pc_entityblueprint"},"fffffffffffffffe":{"parent":null,"name":"Scene","factory":"[modules:/zspatialentity.class].pc_entitytype","blueprint":"[modules:/zspatialentity.class].pc_entityblueprint"},"acc3c9a712ac4cc":{"parent":"70a3687ad3aa8ba2","name":"CHARSET_RenzoCaruso","factory":"[assembly:/_pro/characters/templates/sapiensa/char_sapienza_elusivetarget.template?/charset_renzocaruso.entitytemplate].pc_entitytype","blueprint":"[assembly:/_pro/characters/templates/sapiensa/char_sapienza_elusivetarget.template?/charset_renzocaruso.entitytemplate].pc_entityblueprint"},"a5947f027dd41bf6":{"parent":"562540728d16c206","name":"Prof_Sapienza_Guard","factory":"[assembly:/_pro/design/actor/profession.template?/prof_sapienza_guard.entitytemplate].pc_entitytype","blueprint":"[assembly:/_pro/design/actor/profession.template?/prof_sapienza_guard.entitytemplate].pc_entityblueprint","properties":{"m_aHolders":{"type":"TArray<SEntityTemplateReference>","value":["562540728d16c206"]}}},"55eb1055a473d6d0":{"parent":"562540728d16c206","name":"Prof_Sapienza_Mansion","factory":"[assembly:/_pro/design/actor/profession.template?/prof_sapienza_mansion.entitytemplate].pc_entitytype","blueprint":"[assembly:/_pro/design/actor/profession.template?/prof_sapienza_mansion.entitytemplate].pc_entityblueprint","properties":{"m_aHolders":{"type":"TArray<SEntityTemplateReference>","value":["562540728d16c206"]}}},"f021b4103df8a0bd":{"parent":"38d9517d7daac2dc","name":"Prof_Sapienza_Unique","factory":"[assembly:/_pro/design/actor/profession.template?/prof_sapienza_unique.entitytemplate].pc_entitytype","blueprint":"[assembly:/_pro/design/actor/profession.template?/prof_sapienza_unique.entitytemplate].pc_entityblueprint","properties":{"m_aHolders":{"type":"TArray<SEntityTemplateReference>","value":["38d9517d7daac2dc"]}}},"302db23985bd4d73":{"parent":"562540728d16c206","name":"Prof_Sapienza","factory":"[assembly:/_pro/design/actor/profession.template?/prof_sapienza.entitytemplate].pc_entitytype","blueprint":"[assembly:/_pro/design/actor/profession.template?/prof_sapienza.entitytemplate].pc_entityblueprint","properties":{"m_aHolders":{"type":"TArray<SEntityTemplateReference>","value":["562540728d16c206"]}}},"70a3687ad3aa8ba2":{"parent":"f3f97c5077fc4649","name":"ElusiveTarget_Unique_Negroni_M_HPA2617","factory":"[modules:/zglobaloutfitkit.class].pc_entitytype","blueprint":"[modules:/zglobaloutfitkit.class].pc_entityblueprint","properties":{"m_fHitPoints":{"type":"float32","value":-1},"m_DamageMultipliers":{"type":"SBodyPartDamageMultipliers","value":{"m_fHeadDamageMultiplier":3,"m_fFaceDamageMultiplier":3,"m_fArmDamageMultiplier":1,"m_fLArmDamageScalar":0,"m_fRArmDamageScalar":0,"m_fHandDamageMultiplier":0.5,"m_fLHandDamageScalar":0,"m_fRHandDamageScalar":0,"m_fLegDamageMultiplier":0.6000000238418579,"m_fLLegDamageScalar":0,"m_fRLegDamageScalar":0,"m_fTorsoDamageMultiplier":1,"m_bApplyLeftRightScalars":false}},"m_eActorType":{"type":"EActorType","value":"eAT_Civilian"},"m_eActorCCClass":{"type":"EActorCCPreset","value":"ACCP_CivilianeMale"},"m_aCharSets":{"type":"TArray<SEntityTemplateReference>","value":["acc3c9a712ac4cc"]},"m_sId":{"type":"ZGuid","value":"9d42893b-8445-47dc-942b-95d4220d9a73"},"m_pParentOutfit":{"type":"SEntityTemplateReference","value":{"ref":"6736fcbbd3e73209","externalScene":"[assembly:/_pro/scenes/bricks/globaldata.brick].pc_entitytype"}},"m_sCommonName":{"type":"ZString","value":"ElusiveTarget_Unique_Negroni_M_HPA986_B"},"m_sTitle":{"type":"ZString","value":"Orlando Caruso"},"m_bHeroDisguiseAvailable":{"type":"bool","value":false},"m_rNameTextResource":{"type":"ZRuntimeResourceID","value":{"resource":"[assembly:/localization/hitman6/conversations/ui/pro/online/repository/outfits_elusivetargets.sweetmenutext?/9d42893b-8445-47dc-942b-95d4220d9a73_et_negroni_name.sweetline].pc_sweetline","flag":"5F"}},"m_rDescriptionTextResource":{"type":"ZRuntimeResourceID","value":{"resource":"[assembly:/localization/hitman6/conversations/ui/pro/online/repository/outfits_elusivetargets.sweetmenutext?/9d42893b-8445-47dc-942b-95d4220d9a73_et_negroni_desc.sweetline].pc_sweetline","flag":"5F"}},"m_rDefaultVoiceVariations":{"type":"TArray<EActorVoiceVariation>","value":["eAVV_CIVMALE03"]},"m_eSoundFootwearType":{"type":"EHM5SoundFootwearType","value":"EFWT_LEATHER"}}},"f3f97c5077fc4649":{"parent":{"ref":"dc98cfc39d83dd5c","externalScene":"[assembly:/_pro/scenes/bricks/globaldata.brick].pc_entitytype"},"name":"NegroniOutfits","factory":"[modules:/zentity.class].pc_entitytype","blueprint":"[modules:/zentity.class].pc_entityblueprint"},"f388b448b88e046f":{"parent":"38d9517d7daac2dc","name":"Prof_Sapienza","factory":"[assembly:/_pro/design/actor/profession.template?/prof_sapienza.entitytemplate].pc_entitytype","blueprint":"[assembly:/_pro/design/actor/profession.template?/prof_sapienza.entitytemplate].pc_entityblueprint","properties":{"m_aHolders":{"type":"TArray<SEntityTemplateReference>","value":["38d9517d7daac2dc"]}}},"ee0cc199e4332768":{"parent":"38d9517d7daac2dc","name":"CHARSET_OrlandoCaruso","factory":"[assembly:/_pro/characters/templates/sapiensa/char_sapienza_elusivetarget.template?/charset_orlandocaruso.entitytemplate].pc_entitytype","blueprint":"[assembly:/_pro/characters/templates/sapiensa/char_sapienza_elusivetarget.template?/charset_orlandocaruso.entitytemplate].pc_entityblueprint"},"97dd22fb7034d16e":{"parent":"562540728d16c206","name":"ItemKey_Shotgun02 NPC","factory":"[modules:/zitemrepositorykeyentity.class].pc_entitytype","blueprint":"[modules:/zitemrepositorykeyentity.class].pc_entityblueprint","properties":{"m_RepositoryId":{"type":"ZGuid","value":"7f31d897-a62f-448c-be0d-79d565e2faa7"}}}},"propertyOverrides":[],"overrideDeletes":[],"pinConnectionOverrides":[],"pinConnectionOverrideDeletes":[],"externalScenes":["[assembly:/_pro/scenes/bricks/globaldata.brick].pc_entitytype"],"subType":"brick","quickEntityVersion":3.1,"extraFactoryDependencies":[],"extraBlueprintDependencies":[],"comments":[]}
+{
+    "tempHash": "00798D74EB61B319",
+    "tbluHash": "0051B1FC6092ACF4",
+    "rootEntity": "fffffffffffffffe",
+    "entities": {
+        "38d9517d7daac2dc": {
+            "parent": "f3f97c5077fc4649",
+            "name": "ElusiveTarget_Unique_Negroni_M_HPA986",
+            "factory": "[modules:/zglobaloutfitkit.class].pc_entitytype",
+            "blueprint": "[modules:/zglobaloutfitkit.class].pc_entityblueprint",
+            "properties": {
+                "m_fHitPoints": {
+                    "type": "float32",
+                    "value": -1
+                },
+                "m_DamageMultipliers": {
+                    "type": "SBodyPartDamageMultipliers",
+                    "value": {
+                        "m_fHeadDamageMultiplier": 3,
+                        "m_fFaceDamageMultiplier": 3,
+                        "m_fArmDamageMultiplier": 1,
+                        "m_fLArmDamageScalar": 0,
+                        "m_fRArmDamageScalar": 0,
+                        "m_fHandDamageMultiplier": 0.5,
+                        "m_fLHandDamageScalar": 0,
+                        "m_fRHandDamageScalar": 0,
+                        "m_fLegDamageMultiplier": 0.6000000238418579,
+                        "m_fLLegDamageScalar": 0,
+                        "m_fRLegDamageScalar": 0,
+                        "m_fTorsoDamageMultiplier": 1,
+                        "m_bApplyLeftRightScalars": false
+                    }
+                },
+                "m_eActorType": {
+                    "type": "EActorType",
+                    "value": "eAT_Civilian"
+                },
+                "m_eActorCCClass": {
+                    "type": "EActorCCPreset",
+                    "value": "ACCP_CivilianeMale"
+                },
+                "m_sId": {
+                    "type": "ZGuid",
+                    "value": "6632efa6-63c2-48b8-aff2-655440bba5dc"
+                },
+                "m_pParentOutfit": {
+                    "type": "SEntityTemplateReference",
+                    "value": {
+                        "ref": "6736fcbbd3e73209",
+                        "externalScene": "[assembly:/_pro/scenes/bricks/globaldata.brick].pc_entitytype"
+                    }
+                },
+                "m_sCommonName": {
+                    "type": "ZString",
+                    "value": "ElusiveTarget_Unique_Negroni_M_HPA986_A"
+                },
+                "m_sTitle": {
+                    "type": "ZString",
+                    "value": "Renzo Caruso"
+                },
+                "m_bHeroDisguiseAvailable": {
+                    "type": "bool",
+                    "value": false
+                },
+                "m_rNameTextResource": {
+                    "type": "ZRuntimeResourceID",
+                    "value": {
+                        "resource": "[assembly:/localization/hitman6/conversations/ui/pro/online/repository/outfits_elusivetargets.sweetmenutext?/6632efa6-63c2-48b8-aff2-655440bba5dc_et_negroni_name.sweetline].pc_sweetline",
+                        "flag": "5F"
+                    }
+                },
+                "m_rDescriptionTextResource": {
+                    "type": "ZRuntimeResourceID",
+                    "value": {
+                        "resource": "[assembly:/localization/hitman6/conversations/ui/pro/online/repository/outfits_elusivetargets.sweetmenutext?/6632efa6-63c2-48b8-aff2-655440bba5dc_et_negroni_desc.sweetline].pc_sweetline",
+                        "flag": "5F"
+                    }
+                },
+                "m_rDefaultVoiceVariations": {
+                    "type": "TArray<EActorVoiceVariation>",
+                    "value": [
+                        "eAVV_CIVMALE03"
+                    ]
+                },
+                "m_eSoundFootwearType": {
+                    "type": "EHM5SoundFootwearType",
+                    "value": "EFWT_LEATHER"
+                },
+                "m_aCharSets": {
+                    "type": "TArray<SEntityTemplateReference>",
+                    "value": [
+                        "ee0cc199e4332768"
+                    ],
+                    "postInit": true
+                }
+            }
+        },
+        "a82508289b6f2438": {
+            "parent": "70a3687ad3aa8ba2",
+            "name": "Prof_Sapienza",
+            "factory": "[assembly:/_pro/design/actor/profession.template?/prof_sapienza.entitytemplate].pc_entitytype",
+            "blueprint": "[assembly:/_pro/design/actor/profession.template?/prof_sapienza.entitytemplate].pc_entityblueprint",
+            "properties": {
+                "m_aHolders": {
+                    "type": "TArray<SEntityTemplateReference>",
+                    "value": [
+                        "70a3687ad3aa8ba2"
+                    ],
+                    "postInit": true
+                }
+            }
+        },
+        "72de80036e60be02": {
+            "parent": "562540728d16c206",
+            "name": "Keyword_Prof_Class_Default",
+            "factory": "007A51A2AFEC0D1A",
+            "blueprint": "00B0282A41C1CF2E",
+            "properties": {
+                "m_aHolders": {
+                    "type": "TArray<SEntityTemplateReference>",
+                    "value": [
+                        "562540728d16c206"
+                    ],
+                    "postInit": true
+                }
+            }
+        },
+        "9df8442f32d96cad": {
+            "parent": "562540728d16c206",
+            "name": "Prof_Sapienza_Guard_Mansion",
+            "factory": "[assembly:/_pro/design/actor/profession.template?/prof_sapienza_guard_mansion.entitytemplate].pc_entitytype",
+            "blueprint": "[assembly:/_pro/design/actor/profession.template?/prof_sapienza_guard_mansion.entitytemplate].pc_entityblueprint",
+            "properties": {
+                "m_aHolders": {
+                    "type": "TArray<SEntityTemplateReference>",
+                    "value": [
+                        "562540728d16c206"
+                    ],
+                    "postInit": true
+                }
+            }
+        },
+        "f3345788c97a3152": {
+            "parent": "562540728d16c206",
+            "name": "ItemKey_SMG02 NPC",
+            "factory": "[modules:/zitemrepositorykeyentity.class].pc_entitytype",
+            "blueprint": "[modules:/zitemrepositorykeyentity.class].pc_entityblueprint",
+            "properties": {
+                "m_RepositoryId": {
+                    "type": "ZGuid",
+                    "value": "3fd9825d-8aa5-48e0-97a9-ec8f541f871a"
+                }
+            }
+        },
+        "dedada3c439e4541": {
+            "parent": "562540728d16c206",
+            "name": "ItemKey_AssaultRifle02 NPC",
+            "factory": "[modules:/zitemrepositorykeyentity.class].pc_entitytype",
+            "blueprint": "[modules:/zitemrepositorykeyentity.class].pc_entityblueprint",
+            "properties": {
+                "m_RepositoryId": {
+                    "type": "ZGuid",
+                    "value": "16edb112-58cc-4069-a7dd-ebd258b14044"
+                }
+            }
+        },
+        "1c82d2419363412c": {
+            "parent": "562540728d16c206",
+            "name": "Foley_Bodyguard",
+            "factory": "[assembly:/_pro/design/gamecore/keywords/keywordsound.template?/keywordentity_foley_outfit_bodyguard.entitytemplate].pc_entitytype",
+            "blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordsound.template?/keywordentity_foley_outfit_bodyguard.entitytemplate].pc_entityblueprint",
+            "properties": {
+                "m_rHolder": {
+                    "type": "SEntityTemplateReference",
+                    "value": "562540728d16c206",
+                    "postInit": true
+                }
+            }
+        },
+        "f07a512e625b33bc": {
+            "parent": "562540728d16c206",
+            "name": "Keyword_Prof_Class_Guard_Light",
+            "factory": "003F8A8A859AE133",
+            "blueprint": "0059DEB85AA5AFED",
+            "properties": {
+                "m_aHolders": {
+                    "type": "TArray<SEntityTemplateReference>",
+                    "value": [
+                        "562540728d16c206"
+                    ],
+                    "postInit": true
+                }
+            }
+        },
+        "3f7e25e531ff69a6": {
+            "parent": "562540728d16c206",
+            "name": "ItemKey_Pistol02 NPC",
+            "factory": "[modules:/zitemrepositorykeyentity.class].pc_entitytype",
+            "blueprint": "[modules:/zitemrepositorykeyentity.class].pc_entityblueprint",
+            "properties": {
+                "m_RepositoryId": {
+                    "type": "ZGuid",
+                    "value": "2953e9ac-e25b-41ae-afbf-4a47f86c4f54"
+                }
+            }
+        },
+        "562540728d16c206": {
+            "parent": "f3f97c5077fc4649",
+            "name": "Caruso Security_M_HPA1796",
+            "factory": "[modules:/zglobaloutfitkit.class].pc_entitytype",
+            "blueprint": "[modules:/zglobaloutfitkit.class].pc_entityblueprint",
+            "properties": {
+                "m_DamageMultipliers": {
+                    "type": "SBodyPartDamageMultipliers",
+                    "value": {
+                        "m_fHeadDamageMultiplier": 3,
+                        "m_fFaceDamageMultiplier": 3,
+                        "m_fArmDamageMultiplier": 1,
+                        "m_fLArmDamageScalar": 0,
+                        "m_fRArmDamageScalar": 0,
+                        "m_fHandDamageMultiplier": 0.5,
+                        "m_fLHandDamageScalar": 0,
+                        "m_fRHandDamageScalar": 0,
+                        "m_fLegDamageMultiplier": 0.6000000238418579,
+                        "m_fLLegDamageScalar": 0,
+                        "m_fRLegDamageScalar": 0,
+                        "m_fTorsoDamageMultiplier": 1,
+                        "m_bApplyLeftRightScalars": false
+                    }
+                },
+                "m_bHeroDisguiseAvailable": {
+                    "type": "bool",
+                    "value": true
+                },
+                "m_bWeaponsAllowed": {
+                    "type": "bool",
+                    "value": true
+                },
+                "m_eSoundFootwearType": {
+                    "type": "EHM5SoundFootwearType",
+                    "value": "EFWT_LEATHER"
+                },
+                "m_sId": {
+                    "type": "ZGuid",
+                    "value": "95949c3a-8882-4528-bad5-ad1da3cee57b"
+                },
+                "m_pParentOutfit": {
+                    "type": "SEntityTemplateReference",
+                    "value": {
+                        "ref": "1357f3657950d38e",
+                        "externalScene": "[assembly:/_pro/scenes/bricks/globaldata.brick].pc_entitytype"
+                    }
+                },
+                "m_sCommonName": {
+                    "type": "ZString",
+                    "value": "Caruso Security_M_HPA1796"
+                },
+                "m_sTitle": {
+                    "type": "ZString",
+                    "value": "Caruso Security"
+                },
+                "m_eOutfitAICategory": {
+                    "type": "EOutfitAICategory",
+                    "value": "OAC_Bodyguard"
+                },
+                "m_rNameTextResource": {
+                    "type": "ZRuntimeResourceID",
+                    "value": {
+                        "resource": "0020AE60BE508F6C",
+                        "flag": "5F"
+                    }
+                },
+                "m_rDefaultVoiceVariations": {
+                    "type": "TArray<EActorVoiceVariation>",
+                    "value": [
+                        "eAVV_THUGES01",
+                        "eAVV_THUGES02",
+                        "eAVV_THUGES03"
+                    ]
+                },
+                "m_rDescriptionTextResource": {
+                    "type": "ZRuntimeResourceID",
+                    "value": {
+                        "resource": "00995669D9628AB4",
+                        "flag": "5F"
+                    }
+                },
+                "m_aCharSets": {
+                    "type": "TArray<SEntityTemplateReference>",
+                    "value": [
+                        "54ff267e507da795"
+                    ],
+                    "postInit": true
+                },
+                "m_AvailableWeaponKeys": {
+                    "type": "TArray<SEntityTemplateReference>",
+                    "value": [
+                        "3f7e25e531ff69a6",
+                        "f3345788c97a3152",
+                        "97dd22fb7034d16e",
+                        "dedada3c439e4541"
+                    ],
+                    "postInit": true
+                }
+            }
+        },
+        "c0726ede0008c2d2": {
+            "parent": "70a3687ad3aa8ba2",
+            "name": "Prof_Sapienza_Unique",
+            "factory": "[assembly:/_pro/design/actor/profession.template?/prof_sapienza_unique.entitytemplate].pc_entitytype",
+            "blueprint": "[assembly:/_pro/design/actor/profession.template?/prof_sapienza_unique.entitytemplate].pc_entityblueprint",
+            "properties": {
+                "m_aHolders": {
+                    "type": "TArray<SEntityTemplateReference>",
+                    "value": [
+                        "70a3687ad3aa8ba2"
+                    ],
+                    "postInit": true
+                }
+            }
+        },
+        "54ff267e507da795": {
+            "parent": "562540728d16c206",
+            "name": "CHARSET_Hippo_Guard_Mansion_M",
+            "factory": "[assembly:/_pro/characters/templates/hippo/char_hippo_guards.template?/charset_hippo_guard_mansion_m.entitytemplate].pc_entitytype",
+            "blueprint": "[assembly:/_pro/characters/templates/hippo/char_hippo_guards.template?/charset_hippo_guard_mansion_m.entitytemplate].pc_entityblueprint"
+        },
+        "fffffffffffffffe": {
+            "parent": null,
+            "name": "Scene",
+            "factory": "[modules:/zspatialentity.class].pc_entitytype",
+            "blueprint": "[modules:/zspatialentity.class].pc_entityblueprint"
+        },
+        "acc3c9a712ac4cc": {
+            "parent": "70a3687ad3aa8ba2",
+            "name": "CHARSET_RenzoCaruso",
+            "factory": "[assembly:/_pro/characters/templates/sapiensa/char_sapienza_elusivetarget.template?/charset_renzocaruso.entitytemplate].pc_entitytype",
+            "blueprint": "[assembly:/_pro/characters/templates/sapiensa/char_sapienza_elusivetarget.template?/charset_renzocaruso.entitytemplate].pc_entityblueprint"
+        },
+        "a5947f027dd41bf6": {
+            "parent": "562540728d16c206",
+            "name": "Prof_Sapienza_Guard",
+            "factory": "[assembly:/_pro/design/actor/profession.template?/prof_sapienza_guard.entitytemplate].pc_entitytype",
+            "blueprint": "[assembly:/_pro/design/actor/profession.template?/prof_sapienza_guard.entitytemplate].pc_entityblueprint",
+            "properties": {
+                "m_aHolders": {
+                    "type": "TArray<SEntityTemplateReference>",
+                    "value": [
+                        "562540728d16c206"
+                    ]
+                }
+            }
+        },
+        "55eb1055a473d6d0": {
+            "parent": "562540728d16c206",
+            "name": "Prof_Sapienza_Mansion",
+            "factory": "[assembly:/_pro/design/actor/profession.template?/prof_sapienza_mansion.entitytemplate].pc_entitytype",
+            "blueprint": "[assembly:/_pro/design/actor/profession.template?/prof_sapienza_mansion.entitytemplate].pc_entityblueprint",
+            "properties": {
+                "m_aHolders": {
+                    "type": "TArray<SEntityTemplateReference>",
+                    "value": [
+                        "562540728d16c206"
+                    ]
+                }
+            }
+        },
+        "f021b4103df8a0bd": {
+            "parent": "38d9517d7daac2dc",
+            "name": "Prof_Sapienza_Unique",
+            "factory": "[assembly:/_pro/design/actor/profession.template?/prof_sapienza_unique.entitytemplate].pc_entitytype",
+            "blueprint": "[assembly:/_pro/design/actor/profession.template?/prof_sapienza_unique.entitytemplate].pc_entityblueprint",
+            "properties": {
+                "m_aHolders": {
+                    "type": "TArray<SEntityTemplateReference>",
+                    "value": [
+                        "38d9517d7daac2dc"
+                    ]
+                }
+            }
+        },
+        "302db23985bd4d73": {
+            "parent": "562540728d16c206",
+            "name": "Prof_Sapienza",
+            "factory": "[assembly:/_pro/design/actor/profession.template?/prof_sapienza.entitytemplate].pc_entitytype",
+            "blueprint": "[assembly:/_pro/design/actor/profession.template?/prof_sapienza.entitytemplate].pc_entityblueprint",
+            "properties": {
+                "m_aHolders": {
+                    "type": "TArray<SEntityTemplateReference>",
+                    "value": [
+                        "562540728d16c206"
+                    ]
+                }
+            }
+        },
+        "70a3687ad3aa8ba2": {
+            "parent": "f3f97c5077fc4649",
+            "name": "ElusiveTarget_Unique_Negroni_M_HPA2617",
+            "factory": "[modules:/zglobaloutfitkit.class].pc_entitytype",
+            "blueprint": "[modules:/zglobaloutfitkit.class].pc_entityblueprint",
+            "properties": {
+                "m_fHitPoints": {
+                    "type": "float32",
+                    "value": -1
+                },
+                "m_DamageMultipliers": {
+                    "type": "SBodyPartDamageMultipliers",
+                    "value": {
+                        "m_fHeadDamageMultiplier": 3,
+                        "m_fFaceDamageMultiplier": 3,
+                        "m_fArmDamageMultiplier": 1,
+                        "m_fLArmDamageScalar": 0,
+                        "m_fRArmDamageScalar": 0,
+                        "m_fHandDamageMultiplier": 0.5,
+                        "m_fLHandDamageScalar": 0,
+                        "m_fRHandDamageScalar": 0,
+                        "m_fLegDamageMultiplier": 0.6000000238418579,
+                        "m_fLLegDamageScalar": 0,
+                        "m_fRLegDamageScalar": 0,
+                        "m_fTorsoDamageMultiplier": 1,
+                        "m_bApplyLeftRightScalars": false
+                    }
+                },
+                "m_eActorType": {
+                    "type": "EActorType",
+                    "value": "eAT_Civilian"
+                },
+                "m_eActorCCClass": {
+                    "type": "EActorCCPreset",
+                    "value": "ACCP_CivilianeMale"
+                },
+                "m_aCharSets": {
+                    "type": "TArray<SEntityTemplateReference>",
+                    "value": [
+                        "acc3c9a712ac4cc"
+                    ]
+                },
+                "m_sId": {
+                    "type": "ZGuid",
+                    "value": "9d42893b-8445-47dc-942b-95d4220d9a73"
+                },
+                "m_pParentOutfit": {
+                    "type": "SEntityTemplateReference",
+                    "value": {
+                        "ref": "6736fcbbd3e73209",
+                        "externalScene": "[assembly:/_pro/scenes/bricks/globaldata.brick].pc_entitytype"
+                    }
+                },
+                "m_sCommonName": {
+                    "type": "ZString",
+                    "value": "ElusiveTarget_Unique_Negroni_M_HPA986_B"
+                },
+                "m_sTitle": {
+                    "type": "ZString",
+                    "value": "Orlando Caruso"
+                },
+                "m_bHeroDisguiseAvailable": {
+                    "type": "bool",
+                    "value": false
+                },
+                "m_rNameTextResource": {
+                    "type": "ZRuntimeResourceID",
+                    "value": {
+                        "resource": "[assembly:/localization/hitman6/conversations/ui/pro/online/repository/outfits_elusivetargets.sweetmenutext?/9d42893b-8445-47dc-942b-95d4220d9a73_et_negroni_name.sweetline].pc_sweetline",
+                        "flag": "5F"
+                    }
+                },
+                "m_rDescriptionTextResource": {
+                    "type": "ZRuntimeResourceID",
+                    "value": {
+                        "resource": "[assembly:/localization/hitman6/conversations/ui/pro/online/repository/outfits_elusivetargets.sweetmenutext?/9d42893b-8445-47dc-942b-95d4220d9a73_et_negroni_desc.sweetline].pc_sweetline",
+                        "flag": "5F"
+                    }
+                },
+                "m_rDefaultVoiceVariations": {
+                    "type": "TArray<EActorVoiceVariation>",
+                    "value": [
+                        "eAVV_CIVMALE03"
+                    ]
+                },
+                "m_eSoundFootwearType": {
+                    "type": "EHM5SoundFootwearType",
+                    "value": "EFWT_LEATHER"
+                }
+            }
+        },
+        "f3f97c5077fc4649": {
+            "parent": {
+                "ref": "dc98cfc39d83dd5c",
+                "externalScene": "[assembly:/_pro/scenes/bricks/globaldata.brick].pc_entitytype"
+            },
+            "name": "NegroniOutfits",
+            "factory": "[modules:/zentity.class].pc_entitytype",
+            "blueprint": "[modules:/zentity.class].pc_entityblueprint"
+        },
+        "f388b448b88e046f": {
+            "parent": "38d9517d7daac2dc",
+            "name": "Prof_Sapienza",
+            "factory": "[assembly:/_pro/design/actor/profession.template?/prof_sapienza.entitytemplate].pc_entitytype",
+            "blueprint": "[assembly:/_pro/design/actor/profession.template?/prof_sapienza.entitytemplate].pc_entityblueprint",
+            "properties": {
+                "m_aHolders": {
+                    "type": "TArray<SEntityTemplateReference>",
+                    "value": [
+                        "38d9517d7daac2dc"
+                    ]
+                }
+            }
+        },
+        "ee0cc199e4332768": {
+            "parent": "38d9517d7daac2dc",
+            "name": "CHARSET_OrlandoCaruso",
+            "factory": "[assembly:/_pro/characters/templates/sapiensa/char_sapienza_elusivetarget.template?/charset_orlandocaruso.entitytemplate].pc_entitytype",
+            "blueprint": "[assembly:/_pro/characters/templates/sapiensa/char_sapienza_elusivetarget.template?/charset_orlandocaruso.entitytemplate].pc_entityblueprint"
+        },
+        "97dd22fb7034d16e": {
+            "parent": "562540728d16c206",
+            "name": "ItemKey_Shotgun02 NPC",
+            "factory": "[modules:/zitemrepositorykeyentity.class].pc_entitytype",
+            "blueprint": "[modules:/zitemrepositorykeyentity.class].pc_entityblueprint",
+            "properties": {
+                "m_RepositoryId": {
+                    "type": "ZGuid",
+                    "value": "7f31d897-a62f-448c-be0d-79d565e2faa7"
+                }
+            }
+        }
+    },
+    "propertyOverrides": [],
+    "overrideDeletes": [],
+    "pinConnectionOverrides": [],
+    "pinConnectionOverrideDeletes": [],
+    "externalScenes": [
+        "[assembly:/_pro/scenes/bricks/globaldata.brick].pc_entitytype"
+    ],
+    "subType": "brick",
+    "quickEntityVersion": 3.1,
+    "extraFactoryDependencies": [],
+    "extraBlueprintDependencies": [],
+    "comments": []
+}

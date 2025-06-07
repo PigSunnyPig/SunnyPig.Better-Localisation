@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "0008E3F8D0453580",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "0C3BD434",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "009FEE68A318B983",
+        "defaultFfx": "0053F552A5C3481D",
+        "languages": {
+            "en": "//(0,30)\\\\Le Chiffre! You got a game to play. The General won't be happy if you don't!",
+            "fr": "//(0,0.7361963)\\\\Le Chiffre !//(0.7361963,2.944785)\\\\Vous avez une partie à gagner !//(2.944785,32.94479)\\\\Je vous conseille de faire plaisir au général !",
+            "it": "//(0,30)\\\\Le Chiffre! Hai una partita da giocare. Il generale non sarà contento se non ti presenti!",
+            "de": "//(0,3.444785)\\\\Le Chiffre! Sie haben ein Spiel zu spielen.//(3.444785,33.44479)\\\\Der General wird nicht erfreut sein, wenn Sie das vergessen!",
+            "es": "//(0,30)\\\\¡Le Chiffre! Tiene una partida que jugar. ¡Al general no le va a gustar que no juegue!",
+            "ru": "//(0,30)\\\\Лё Шиффр! Игра ждет. Генерал не будет в восторге, если ты не явишься!",
+            "cn": "//(0,30)\\\\勒·西弗！你要去参加牌局。否则将军让你吃不了兜着走！",
+            "tc": "//(0,30)\\\\勒．西弗！你還有場牌局要打。你不打的話將軍會生氣的！",
+            "jp": "//(0,30)\\\\ル・シッフル！ゲームがあるだろ。ゲームに戻らないと将軍が腹を立てるぞ。"
+        }
+    }
+}

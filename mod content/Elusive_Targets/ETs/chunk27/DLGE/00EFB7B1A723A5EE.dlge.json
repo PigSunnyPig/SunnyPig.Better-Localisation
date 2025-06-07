@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "00EFB7B1A723A5EE",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "FDFAA0A4",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "00AD14A0B929AAE8",
+        "defaultFfx": "00C89E5EF5736C9C",
+        "languages": {
+            "en": "//(0,30)\\\\We already have enough problems with General Murrello...",
+            "fr": "//(0,30)\\\\Le général Murillo nous complique déjà suffisamment la tâche...",
+            "it": "//(0,30)\\\\Abbiamo già abbastanza problemi con il generale Murrello...",
+            "de": "//(0,30)\\\\Wir haben schon genug Probleme mit General Murrello ...",
+            "es": "//(0,30)\\\\Como si no tuviésemos ya suficientes problemas con el general Murillo...",
+            "ru": "//(0,30)\\\\Нам и так хватает проблем с генералом Мурильо...",
+            "cn": "//(0,30)\\\\穆律罗将军那边已经够我们头疼了......",
+            "tc": "//(0,30)\\\\牟利羅將軍帶來的麻煩已經夠多了......",
+            "jp": "//(0,30)\\\\ムリージョ将軍のことでも手一杯なのに..."
+        }
+    }
+}

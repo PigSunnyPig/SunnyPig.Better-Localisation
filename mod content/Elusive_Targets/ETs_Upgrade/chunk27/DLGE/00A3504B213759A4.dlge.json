@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "00A3504B213759A4",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "AC8511FC",
+        "soundtag": "Voiceover_Handler",
+        "defaultWav": "00EF93A342E6A8A8",
+        "defaultFfx": "00785C80B43F9B06",
+        "languages": {
+            "en": "//(0,30)\\\\Your hand is now unbeatable. If Le Chiffre commits, it could end him.",
+            "fr": "//(0,30)\\\\Vous avez la meilleure main. Si Le Chiffre continue, vous gagnerez.",
+            "it": "//(0,30)\\\\Ora hai una mano imbattibile. Se Le Chiffre decide di puntare, potrebbe essere la sua fine.",
+            "de": "//(0,2.4)\\\\Ihr Blatt ist jetzt unschlagbar.//(2.4,32.4)\\\\Wenn Le Chiffre sich darauf einlässt, wäre das wohl sein Ende.",
+            "es": "//(0,30)\\\\Tu mano es insuperable. Si Le Chiffre pica, podría ser su fin.",
+            "ru": "//(0,30)\\\\У тебя непобедимая комбинация. Если он пойдет ва-банк, ему конец.",
+            "cn": "//(0,30)\\\\现在你的手牌无人能敌。如果勒·西弗孤注一掷，将被彻底打败。",
+            "tc": "//(0,30)\\\\你手上的牌一定能贏。要是勒．西弗跟注，他就完蛋了。",
+            "jp": "//(0,30)\\\\あなたの手札は無敵よ。ル・シッフルが勝負してきたら、彼も終わりね。"
+        }
+    }
+}

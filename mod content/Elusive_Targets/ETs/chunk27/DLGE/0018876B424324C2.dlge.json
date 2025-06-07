@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "0018876B424324C2",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "05C68E2D",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "00F0146F5C875C81",
+        "defaultFfx": "00DBFF192CA31BFF",
+        "languages": {
+            "en": "//(0,30)\\\\I think we should give General Murillo a little visit. Don't you?",
+            "fr": "//(0,30)\\\\Le général Murillo vous attend. Venez.",
+            "it": "//(0,30)\\\\Penso che dovremmo fare una visita al generale Murrello. Non credi?",
+            "de": "//(0,3.9)\\\\Ich glaube, wir sollten General Murillo einen kleinen Besuch abstatten.//(3.9,33.9)\\\\Nicht wahr?",
+            "es": "//(0,30)\\\\Me parece que va siendo hora de hacerle una visitilla al general Murillo, ¿no cree?",
+            "ru": "//(0,30)\\\\Думаю, стоит навестить генерала Мурильо, как считаете?",
+            "cn": "//(0,30)\\\\看来我们要去见一下穆律罗将军了。不是吗？",
+            "tc": "//(0,30)\\\\我們該去拜訪一下牟利羅將軍了，是吧？",
+            "jp": "//(0,30)\\\\ムリージョ将軍に会いに行こうか？"
+        }
+    }
+}

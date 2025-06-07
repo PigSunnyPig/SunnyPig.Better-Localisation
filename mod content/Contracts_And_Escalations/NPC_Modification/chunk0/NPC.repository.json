@@ -2,6 +2,12 @@
     "a435d5bd-1b8c-4f2f-ab6b-a322ddb6c3cb": {
         "Name": "Al D. Andrea"
     },
+    "cf8b076d-e491-4a3c-8dab-26ac4126e1ec": {
+        "Name": "Al \"Tootsie\" Avery"
+    },
+    "6d0adf1b-6399-428a-ab13-72410a64f3a1": {
+        "Name": "Amaranto \"Tony\" Mazzi"
+    },
     "d1d27519-f26d-4dd4-85dd-e6211a6a9665": {
         "Name": "André Beaulé"
     },
@@ -26,6 +32,12 @@
     "2697b700-363c-43f7-af81-ae91c0373fbf": {
         "Name": "Andrea Martínez"
     },
+    "84c4727a-f19e-47f7-a925-b3e145646870": {
+        "Name": "Anwan \"Sleepy\" Batwa"
+    },
+    "b169a3e6-41db-4594-b8fa-27d08bff896f": {
+        "Name": "Anwan \"Sleepy\" Batwa"
+    },
     "4e55630c-4507-4794-95ec-025568e51efd": {
         "Name": "Aron Ford Jr."
     },
@@ -35,14 +47,41 @@
     "9514999b-766c-4eef-8e42-9b16279bebdb": {
         "Name": "Aron Ford Jr."
     },
+    "2987288f-c1a4-4894-80ab-30761adbf58f": {
+        "Name": "\"Bones\" Gordon"
+    },
+    "893be54e-d882-4eda-b2d0-b20417ae6978": {
+        "Name": "Bob \"Altmuligman\" Ganoosh"
+    },
     "5cb87a25-3b0f-4a12-b338-228ea9e7a662": {
         "Name": "Catherine \"Kiki\" Zola"
     },
     "784250d3-d590-43fb-bcaf-3a8d1c07d195": {
         "Name": "Christie Ellsworth"
     },
+    "ebb7c92e-6f4e-46a9-bf9c-4fe538d13fe6": {
+        "Name": "\"Crowbar\""
+    },
     "e3f21e5a-e973-48c0-8925-37865fb9d902": {
         "Name": "Dr. Who"
+    },
+    "90d2caad-2bf4-4acb-9a17-19d463a6a619": {
+        "Name": "Eric \"Sandā no ashi\" Sjövold"
+    },
+    "4603cac7-8a68-4e8f-aa2b-783629bdecb9": {
+        "Name": "Erich Soders"
+    },
+    "6d2a3589-9694-4be1-8b29-686e9624e529": {
+        "Name": "Erich Soders"
+    },
+    "c13377c8-9512-4da6-8afe-a32d2e9b3391": {
+        "Name": "Erich Soders"
+    },
+    "fb94c897-7f61-430f-ad2a-e49570021b75": {
+        "Name": "Erich Soders"
+    },
+    "8783981b-9d2e-4a76-82c3-6f660ce1998d": {
+        "Name": "Fabian \"Joe\" Boucher"
     },
     "ad94d8cd-64a5-4b0b-a70e-ee66a824f601": {
         "Name": "Frederick Bühler"
@@ -56,20 +95,32 @@
     "61fd7571-0bd0-4c77-8368-9679378b998e": {
         "Name": "Frederick Bühler"
     },
-    "ebb7c92e-6f4e-46a9-bf9c-4fe538d13fe6": {
-        "Name": "\"Crowbar\""
+    "eb55abf5-7989-4fda-873a-8a9f835a0be6": {
+        "Name": "Gavin \"Crusher\" Lewis"
     },
     "863ed6b3-6bd1-4c01-9eac-8f1e9f9ff4ba": {
         "Name": "James Wade"
     },
+    "769bb7da-c8b7-40e3-b4c3-e977989257c0": {
+         "Name": "James \"Sparky\" Parker"
+    },
     "ea622707-f837-4fdf-9431-76c761c3998c": {
         "Name": "Kevin Nelson"
+    },
+    "4bc4e13e-0565-4864-966d-4eb0916e480a": {
+        "Name": "Lahual Acuna León"
+    },
+    "a291e368-38d2-4bbb-886a-0ab1ffd07592": {
+        "Name": "Lahual Acuna León"
     },
     "1e4e7a84-b094-4fe8-9e0e-1891943a6b1e": {
         "Name": "Maggie O'Connor"
     },
     "b148304f-acbc-4d85-bff6-5d71faf73f25": {
         "Name": "Marwin Jäger"
+    },
+    "ead42816-44a3-40b2-ae9d-675a140a6671": {
+        "Name": "Max \"Blue\" Balls"
     },
     "12bc718a-3127-46de-b792-f39e0a7090b0": {
         "Name": "Mogwai Tzun"
@@ -101,8 +152,23 @@
     "9b6f0fd9-65c1-4c5c-945a-ea8db2c16fe4": {
         "Name": "Ms. Herring"
     },
+    "a16802a6-6a82-4cbc-9d66-999b02575e4e": {
+        "Name": "Pierre Séguin" 
+    },
+	"8f52ac53-8dcd-4387-bb18-58e08e75f4f7": { 
+        "Name": "Pierre Séguin" 
+    },
+    "85dfbb41-051f-440b-9a45-c62b85c34bee": { 
+        "Name": "Pierre Séguin" 
+    },
+    "6e592f65-98d3-4f90-b008-32b4c4da6c49": {
+        "Name": "R. M. Steelman"
+    },
     "487dfc9e-20e1-4d6f-bfd0-0feda771f561": {
         "Name": "Ronnie Aguilar"
+    },
+    "a24b9d6b-71c4-4c97-90c3-522dea549fb3": {
+        "Name": "Rolf Hirschmüller"
     },
     "06ceb9cd-0734-42a8-b504-41ac1f536586": {
         "Name": "Renzo Laghi"
@@ -110,12 +176,27 @@
     "cf44b935-9604-4757-901d-3771860bc357": {
         "Name": "Soham Husein"
     },
+    "2f5b82e1-fa91-4e3f-9fa9-e86d1459129c": {
+        "Name": "Tommy \"JJ\" Gervais"
+    },
+    "cab2e7f6-1d3c-41be-a8db-ac6ec22cf02e": {
+        "Name": "Tsuneto"
+    },
     "613a2682-6106-46df-9196-523df94b68cc": {
         "Name": "Valérie Lazure"
+    },
+    "6cf59ae1-f0da-45a1-b24b-8e091055326c": {
+        "Name": "Victor Bremiõ"
     },
     "8f5300e6-707e-434b-bf0a-1c5dfd9dfc21": {
         "Name": "Victor Bremiõ"
     },
+    "6175e818-5cee-46b0-962d-a4f0295fab75": {
+        "Name": "Waiter"
+    },
+    "c9824f39-b1fa-435e-bba3-449ddc5cce8f": {
+        "Name": "Waiter"
+    },    
     "7d28ed81-2b13-4a8f-8276-0216c5e8058d": {
         "Name": "Zana \"The Vulture\" Kazemi"
     }

@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "008F3DB1244A7687",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "C299102B",
+        "soundtag": "Voiceover_Handler",
+        "defaultWav": "00B6299D0BF9C77E",
+        "defaultFfx": "00E91E6254F096E2",
+        "languages": {
+            "en": "//(0,30)\\\\You're beat 47. Let's hope we can do better when you face Le Chiffre.",
+            "fr": "//(0,1.356196)\\\\Terminé, 47.//(1.356196,31.3562)\\\\Espérons que vous vous en sortirez mieux face à notre cible.",
+            "it": "//(0,30)\\\\Hai perso 47. Speriamo di fare meglio quando affronterai Le Chiffre.",
+            "de": "//(0,30)\\\\Sie wurden geschlagen, 47. Hoffentlich läuft es gegen Le Chiffre besser.",
+            "es": "//(0,30)\\\\Has perdido, 47. Esperemos que lo hagas mejor a la hora de hacer frente a Le Chiffre.",
+            "ru": "//(0,30)\\\\Проиграл, 47-й. Надеюсь, с Лё Шиффром будет лучше.",
+            "cn": "//(0,30)\\\\47，你输了。但愿下次对阵勒·西弗时能有好运。",
+            "tc": "//(0,30)\\\\你輸了，47。希望面對勒．西弗時你會有更好的表現。",
+            "jp": "//(0,30)\\\\あなたの負けよ、47。ル・シッフル相手にはもっとうまく行くことを祈ってるわ。"
+        }
+    }
+}

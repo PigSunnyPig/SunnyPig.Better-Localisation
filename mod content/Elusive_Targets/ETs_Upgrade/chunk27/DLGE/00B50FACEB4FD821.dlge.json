@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "00B50FACEB4FD821",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "C99A9D84",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "008F443294877F22",
+        "defaultFfx": "006F9ECCF5D4C3E8",
+        "languages": {
+            "en": "//(0,30)\\\\I figured that out. You are not here for Murillo, are you?",
+            "fr": "//(0,30)\\\\J'avais remarqué, oui. Mais pas pour Murillo, n'est-ce pas ?",
+            "it": "//(0,30)\\\\Me lo immaginavo. Non sei qui per Murrello, vero?",
+            "de": "//(0,1.6)\\\\Das dachte ich mir.//(1.6,31.6)\\\\Sie sind aber nicht wegen Murillo hier, oder?",
+            "es": "//(0,30)\\\\Eso ya me lo imaginaba. No habrás venido a por Murillo, ¿no?",
+            "ru": "//(0,30)\\\\Я так и подумал. Надеюсь, ты здесь не из-за Мурильо?",
+            "cn": "//(0,30)\\\\猜到了。你不是为穆里洛来的吧？",
+            "tc": "//(0,30)\\\\我也猜到了。你不是來找牟利羅的吧？",
+            "jp": "//(0,30)\\\\まあそれはそうだろうな。でも標的はムリージョじゃないだろうな。あいつは我が国の要請に応えてくれなくてな..."
+        }
+    }
+}

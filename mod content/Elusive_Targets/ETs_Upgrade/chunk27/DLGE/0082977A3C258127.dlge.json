@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "0082977A3C258127",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "6DB6C132",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "000137EAC987C653",
+        "defaultFfx": "0063191B20FF779A",
+        "languages": {
+            "en": "//(0,30)\\\\Le Chiffre! Le Chiffre!",
+            "fr": "//(0,30)\\\\Le Chiffre ! Le Chiffre !",
+            "it": "//(0,30)\\\\Le Chiffre! Le Chiffre!",
+            "de": "//(0,30)\\\\Le Chiffre! Le Chiffre!",
+            "es": "//(0,30)\\\\¡Le Chiffre! ¡Le Chiffre!",
+            "ru": "//(0,30)\\\\Лё Шиффр! Лё Шиффр!",
+            "cn": "//(0,30)\\\\勒·西弗！勒·西弗！",
+            "tc": "//(0,30)\\\\勒．西弗！勒．西弗！",
+            "jp": "//(0,30)\\\\ル・シッフル！ル・シッフル！"
+        }
+    }
+}

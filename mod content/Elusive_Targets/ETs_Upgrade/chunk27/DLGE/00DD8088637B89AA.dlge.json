@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "00DD8088637B89AA",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "3E8FCDE9",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "00B9AA211990386B",
+        "defaultFfx": "001D6C89814081A2",
+        "languages": {
+            "en": "//(0,1.4)\\\\Suppose that's fair.//(1.4,31.4)\\\\If you beat Le Chiffre, it will set back Murillo for a bit of time. Besides I'm lousy at poker. Here you go.",
+            "fr": "//(0,1.8)\\\\Juste retour des choses, en effet.//(1.8,5.4)\\\\Si vous battez Le Chiffre, ça me fera gagner un peu de temps avec Murillo.//(5.4,7.9)\\\\Sans compter que je suis nul au poker...//(7.9,37.9)\\\\Tenez.",
+            "it": "//(0,1.604294)\\\\Mi sembra giusto.//(1.604294,31.60429)\\\\Se batti Le Chiffre, Murrello sarà fuori gioco per un po'. E poi io sono una schiappa a poker. Tieni.",
+            "de": "//(0,1.5)\\\\Ich schätze, das ist nur fair.//(1.5,4.95)\\\\Wenn Sie Le Chiffre schlagen, hält das Murello eine Weile in Schach.//(4.95,34.95)\\\\Außerdem bin ich kein guter Pokerspieler. Bitte sehr.",
+            "es": "//(0,5)\\\\Supongo que eso sería lo justo. Si vences a Le Chiffre, cabrearás a Murillo para una buena temporada.//(5,35)\\\\Además, se me da fatal el póquer. Aquí tienes.",
+            "ru": "//(0,4.9)\\\\Ну ладно, справедливо. Если ты победишь Лё Шиффра, это хотя бы ненадолго задержит Мурильо.//(4.9,34.9)\\\\Да и я в покер всё равно играть не умею. Держи.",
+            "cn": "//(0,1.5)\\\\倒也合情合理。//(1.5,5)\\\\只要你赢了勒·西弗，至少能拖住穆里洛一阵子。//(5,35)\\\\何况我牌技稀烂。给你。",
+            "tc": "//(0,4.9)\\\\這樣也算公平。要是你贏了勒．西弗，牟利羅也會受到挫折。//(4.9,34.9)\\\\更何況我實在不擅長撲克牌。拿去吧。",
+            "jp": "//(0,4.9)\\\\確かにそれが公平かもな。お前がル・シッフルに勝てば、ムリージョにとっても痛手となるだろう。//(4.9,34.9)\\\\それに俺はポーカー弱いしな。ほら。"
+        }
+    }
+}

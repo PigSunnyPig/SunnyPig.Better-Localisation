@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "0082C013F2AADD97",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "689C538E",
+        "soundtag": "In-world_Maincharacter",
+        "defaultWav": "00C5E40544FC6DDF",
+        "defaultFfx": "0066DB981C2F003B",
+        "languages": {
+            "en": "//(0,30)\\\\I was hoping to outsource that part to Murillo...",
+            "fr": "//(0,30)\\\\J'espérais que le général Murillo s'en charge à ma place.",
+            "it": "//(0,30)\\\\Speravo di poter affidare quella parte al generale Murrello...",
+            "de": "//(0,30)\\\\Ich hatte gehofft, das General Murillo überlassen zu können ...",
+            "es": "//(0,30)\\\\Confiaba en que el general Murillo se encargase de esa parte...",
+            "ru": "//(0,30)\\\\Надеялся поручить это генералу Мурильо...",
+            "cn": "//(0,30)\\\\我本来打算把这活儿外包给穆律罗将军......",
+            "tc": "//(0,30)\\\\我原本希望能把那部分外包給牟利羅......",
+            "jp": "//(0,30)\\\\そこはムリージョ将軍に任せるつもりだったんだがな..."
+        }
+    }
+}

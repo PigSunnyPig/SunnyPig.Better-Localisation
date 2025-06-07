@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "00F700F75183CE72",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "25F86AC3",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "0052F205E3A50CF1",
+        "defaultFfx": "001B1FBE7CC807A3",
+        "languages": {
+            "en": "//(0,30)\\\\Le Chiffre? The gentleman with the funky eye?",
+            "fr": "//(0,1.9)\\\\Le Chiffre ?//(1.9,31.9)\\\\Le gentleman à l'œil étrange ?",
+            "it": "//(0,30)\\\\Le Chiffre? Il tipo con quell'occhio strano?",
+            "de": "//(0,30)\\\\Le Chiffre? Der Herr mit dem seltsamen Auge?",
+            "es": "//(0,30)\\\\¿Le Chiffre? ¿El caballero con el ojo a la virulé?",
+            "ru": "//(0,30)\\\\Лё Шиффр? Этот тип с жутким глазом?",
+            "cn": "//(0,30)\\\\勒·西弗？那位眼睛有问题的先生？",
+            "tc": "//(0,30)\\\\勒．西弗？那個眼睛怪怪的傢伙？",
+            "jp": "//(0,30)\\\\ル・シッフルだと？あの変わった目をした方か。"
+        }
+    }
+}

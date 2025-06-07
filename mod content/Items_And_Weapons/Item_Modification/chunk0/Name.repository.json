@@ -1,0 +1,65 @@
+{
+    "f93b99a3-aef6-419f-b303-59470577696d": {
+        "Name_LOC": "firearms_hero_pistol_ica19_blacklilly_name"
+    },
+    "b0f87b4e-a41c-4771-8c74-f56574129679": {
+        "Name_LOC": "firearms_hero_pistol_ica19_blacklilly_s3_name"
+    },
+    "4ca96340-ae60-427b-a011-9e296cd67fd9": {
+        "Name_LOC": "hui_prop_device_ica_rubberduck_proximity_explosive_name"
+    },
+    "2699ad7a-185a-464f-b5c6-7d58d0fd5867": {
+        "Name_LOC": "hui_prop_device_ica_rubberduck_proximity_explosive_s3_name"
+    },
+    "5fed2bb2-4fe9-4613-9f21-fedc19ba5eb7": {
+        "Name_LOC": "hui_prop_poison_vial_sedative_name"
+    },
+    "67637973-ff21-4b00-88c3-304f8405dbb7": {
+        "Name_LOC": "hui_prop_poison_vial_fast_name"
+    },
+    "49765e76-dea7-4ad4-b502-2bad7727a15f": {
+        "Name_LOC": "hui_prop_poison_pills_lethal_name"
+    },
+    "999e005f-d49f-4606-a929-6387bf511c72": {
+        "Name_LOC": "hui_prop_poison_vial_sick_name"
+    },
+    "a10cf0cb-266d-498b-ac29-49ab10c4e575": {
+        "Name_LOC": "hui_prop_poison_vial_sick_name2"
+    },
+    "004ecac9-6aee-4b30-a073-4399a94535d8": {
+        "Name_LOC": "hui_prop_melee_sodacan_name"
+    },
+    "de69ce1e-a24d-4acc-895f-4c3a71f47ba8": {
+        "Name_LOC": "hui_prop_melee_sodacan_name2"
+    },
+    "4fbe2d58-5088-4155-805f-fe4c5789b8bb": {
+        "Name_LOC": "hui_prop_melee_sodacan_name3"
+    },
+    "afd1f201-d2a5-4d40-80b1-d81b0d9d2541": {
+        "Name_LOC": "hui_prop_melee_sodacan_name4"
+    },
+    "c19f796e-e23f-4429-a046-47ed3d324359": {
+        "Name_LOC": "hui_prop_melee_sodacan_name5"
+    },
+    "a6bcac8b-9772-424e-b2c4-3bdb4da0e349": {
+        "Name_LOC": "hui_prop_melee_bust_name"
+    },
+     "97d74fa2-4832-4186-a447-c4b2e37d537a": {
+        "Name_LOC": "hui_prop_melee_bust_name2"
+    },
+    "31f36818-623f-4c92-892f-d7b19bb325e1": {
+        "Name_LOC": "hui_prop_melee_bust_name3"
+    },
+    "4d0d6b2a-dd81-474c-a412-3bf19af8233d": {
+        "Name_LOC": "hui_prop_fish_flamingo_name"
+    },
+    "1f11f901-2dbe-4e48-a77a-74c110b93da0": {
+        "Name_LOC": "hui_prop_fish_flamingo_name2"
+    },
+    "1973ae7e-538c-4a43-98af-208b9893d246": {
+        "Name_LOC": "hui_prop_melee_maori_paddle_name"
+    },
+    "df6bf6bf-67ff-4325-8dc9-5eae6fe77fec": {
+        "Name_LOC": "hui_prop_melee_maori_paddle_name2"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "00B39ACF121E7748",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "E361B354",
+        "soundtag": "In-world_Mission_Important",
+        "defaultWav": "003236E70FB8CB5D",
+        "defaultFfx": "00A35B916B66F531",
+        "languages": {
+            "en": "//(0,30)\\\\A friendly piece of advice? Careful of the man named Le Chiffre. He's unbeatable.",
+            "fr": "//(0,30)\\\\Si je peux vous donner un petit conseil... Faites gaffe à ce type, Le Chiffre. Il ne perd jamais.",
+            "it": "//(0,30)\\\\Un consiglio da amico? Stia attento a quel tizio che si chiama Le Chiffre. È imbattibile.",
+            "de": "//(0,2.8)\\\\Noch ein freundlicher Rat://(2.8,32.8)\\\\Passen Sie auf Le Chiffre auf. Der Kerl ist unschlagbar.",
+            "es": "//(0,30)\\\\¿Me permite un consejo amistoso? Tenga cuidado con el tipo al que llaman Le Chiffre. Es invencible.",
+            "ru": "//(0,2.21)\\\\Хочешь совет?//(2.9,5.04908)\\\\Держись подальше от одного типа по имени Лё Шиффр.//(5.04908,35.04908)\\\\Его невозможно обыграть.",
+            "cn": "//(0,2.9)\\\\好心劝你一句。//(2.9,32.9)\\\\小心那个叫勒·西弗的家伙。他从来没输过。",
+            "tc": "//(0,30)\\\\給你個建議，小心那個叫勒．西弗的人。誰也贏不了他。",
+            "jp": "//(0,5.15)\\\\ちょっとしたアドバイスをやろう。ル・シッフルという男に気をつけろ。//(5.15,35.15)\\\\あいつは無敵だ。"
+        }
+    }
+}

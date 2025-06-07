@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "00FD92053B4B7107",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "322ACCD4",
+        "soundtag": "In-world_Maincharacter",
+        "defaultWav": "0020D099F927D7BA",
+        "defaultFfx": "0071A852E91C5157",
+        "languages": {
+            "en": "//(0,30)\\\\You will want to hear this – it's a message from General Murillo.",
+            "fr": "//(0,30)\\\\C'est dans votre intérêt, croyez-moi. Un message du général Murillo.",
+            "it": "//(0,30)\\\\Credo che le interessi sentirlo... È un messaggio del generale Murrello.",
+            "de": "//(0,2.35)\\\\Sie werden das hören wollen://(2.35,32.35)\\\\Es ist eine Nachricht von General Murillo.",
+            "es": "//(0,30)\\\\Le interesa escuchar lo que tengo que decirle... Es un mensaje del general Murillo.",
+            "ru": "//(0,30)\\\\Вам стоит это услышать. Сообщение от генерала Мурильо.",
+            "cn": "//(0,30)\\\\穆律罗将军有个口信给你，你一定要听一下。",
+            "tc": "//(0,30)\\\\這事很重要，是牟利羅將軍的訊息。",
+            "jp": "//(0,2.4)\\\\これは耳にした方がいい情報ですよ。//(2.4,32.4)\\\\ムリージョ将軍からのメッセージです。"
+        }
+    }
+}
